@@ -185,17 +185,18 @@ def train_lm_price_change_experiments(gpu_numbers: str, train_test_data_path: st
 
                 results.append(train_lm_hawkish_dovish(gpu_numbers, train_test_data_path, language_model_to_use, seed, batch_size, learning_rate, None))
                 df = pd.DataFrame(results, columns=["Seed", "Learning Rate", "Batch Size", "Val Cross Entropy", "Val Accuracy", "Val F1 Score", "Test Cross Entropy", "Test Accuracy", "Test F1 Score"])
-                df.to_csv(f'../grid_search_results/price_change_{language_model_to_use}.csv', index=False)
+                df.to_excel(f'../grid_search_results/hawkish_dovish_{language_model_to_use}.xlsx', index=False)
 
 
 if __name__=='__main__':
     language_model_to_use = sys.argv[1]
-    save_model_path = "../data/final_model"
+    save_model_path = "../model_data/final_model"
     start_t = time()
-    train_lm_price_change_experiments(gpu_numbers="0", train_test_data_path="../manual_v1.xlsx", language_model_to_use=language_model_to_use)
     '''
-    output = train_lm_hawkish_dovish(gpu_numbers="0", train_test_data_path="../manual_v1.xlsx", 
-    language_model_to_use=language_model_to_use, seed=5768, batch_size=2, learning_rate=1e-5, save_model_path=save_model_path)
+    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
+    '''
+    output = train_lm_hawkish_dovish(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", 
+    language_model_to_use=language_model_to_use, seed=5768, batch_size=8, learning_rate=1e-5, save_model_path=save_model_path)
     print(output)
-    '''
+    
     print((time() - start_t)/60.0)
