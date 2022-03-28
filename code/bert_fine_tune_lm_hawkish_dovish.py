@@ -32,6 +32,8 @@ def train_lm_hawkish_dovish(gpu_numbers: str, train_test_data_path: str, languag
         tokenizer = RobertaTokenizerFast.from_pretrained('roberta-base', do_lower_case=True, do_basic_tokenize=True)
     elif language_model_to_use == 'finbert':
         tokenizer = BertTokenizerFast(vocab_file='../finbert-uncased/FinVocab-Uncased.txt', do_lower_case=True, do_basic_tokenize=True)
+    elif language_model_to_use == 'flangbert':
+        tokenizer = BertTokenizerFast.from_pretrained('../BERT-FLANG', do_lower_case=True, do_basic_tokenize=True)
     else:
         return -1
 
@@ -71,6 +73,8 @@ def train_lm_hawkish_dovish(gpu_numbers: str, train_test_data_path: str, languag
         model = RobertaForSequenceClassification.from_pretrained('roberta-base', num_labels=3).to(device)
     elif language_model_to_use == 'finbert':
         model = BertForSequenceClassification.from_pretrained('../finbert-uncased/model', num_labels=3).to(device)
+    elif language_model_to_use == 'flangbert':
+        model = BertForSequenceClassification.from_pretrained('../BERT-FLANG', num_labels=3).to(device)
     else:
         return -1
 
@@ -198,6 +202,8 @@ if __name__=='__main__':
     language_model_to_use = "roberta"
     train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
     language_model_to_use = "finbert"
+    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
+    language_model_to_use = "flangbert"
     train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
     '''
     language_model_to_use = "finbert"
