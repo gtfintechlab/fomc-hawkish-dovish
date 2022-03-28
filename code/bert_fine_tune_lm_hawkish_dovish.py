@@ -173,8 +173,8 @@ def train_lm_price_change_experiments(gpu_numbers: str, train_test_data_path: st
     """
     results = []
     seeds = [5768, 78516, 944601]
-    batch_sizes = [4, 8, 2] #[32, 16, 8, 4] # for batch_size > 8 we need better GPU
-    learning_rates = [1e-5, 1e-6, 1e-7]
+    batch_sizes = [32, 16, 8, 4]
+    learning_rates = [1e-4, 1e-5, 1e-6, 1e-7]
     count = 0
     for i, seed in enumerate(seeds):
         for k, batch_size in enumerate(batch_sizes):
@@ -189,14 +189,20 @@ def train_lm_price_change_experiments(gpu_numbers: str, train_test_data_path: st
 
 
 if __name__=='__main__':
-    language_model_to_use = sys.argv[1]
     save_model_path = "../model_data/final_model"
     start_t = time()
-    '''
+    
+    # experiments
+    language_model_to_use = "bert"
+    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
+    language_model_to_use = "roberta"
+    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
+    language_model_to_use = "finbert"
     train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
     '''
+    language_model_to_use = "finbert"
     output = train_lm_hawkish_dovish(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", 
     language_model_to_use=language_model_to_use, seed=5768, batch_size=8, learning_rate=1e-5, save_model_path=save_model_path)
     print(output)
-    
+    '''
     print((time() - start_t)/60.0)

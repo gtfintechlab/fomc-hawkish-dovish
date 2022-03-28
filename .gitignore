@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data folders
+data/
+archive/
+finbert-uncased/
+model_data/final_model/
