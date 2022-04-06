@@ -205,6 +205,7 @@ if __name__=='__main__':
     start_t = time()
     
     # experiments
+    '''
     language_model_to_use = "bert"
     train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
     language_model_to_use = "roberta"
@@ -218,9 +219,9 @@ if __name__=='__main__':
     language_model_to_use = "roberta-large"
     train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
     '''
-    language_model_to_use = "finbert"
-    output = train_lm_hawkish_dovish(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", 
+    language_model_to_use = "roberta"
+    output = train_lm_hawkish_dovish(gpu_numbers="0", train_test_data_path="../training_data/manual_v2.xlsx", 
     language_model_to_use=language_model_to_use, seed=5768, batch_size=8, learning_rate=1e-5, save_model_path=save_model_path)
     print(output)
-    '''
+    
     print((time() - start_t)/60.0)
