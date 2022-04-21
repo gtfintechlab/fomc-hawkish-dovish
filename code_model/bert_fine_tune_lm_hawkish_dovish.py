@@ -2,7 +2,7 @@ import os
 import sys
 from time import time
 import pandas as pd
-from transformers import BertForSequenceClassification, BertTokenizerFast, RobertaTokenizerFast, RobertaForSequenceClassification
+from transformers import BertForSequenceClassification, BertTokenizerFast, RobertaTokenizerFast, RobertaForSequenceClassification, AutoTokenizer, AutoModelForSequenceClassification
 import torch
 from torch.utils.data import TensorDataset, DataLoader
 import torch.optim as optim
@@ -38,6 +38,8 @@ def train_lm_hawkish_dovish(gpu_numbers: str, train_test_data_path: str, languag
         tokenizer = BertTokenizerFast.from_pretrained('bert-large-uncased', do_lower_case=True, do_basic_tokenize=True)
     elif language_model_to_use == 'roberta-large':
         tokenizer = RobertaTokenizerFast.from_pretrained('roberta-large', do_lower_case=True, do_basic_tokenize=True)
+    elif language_model_to_use == 'pretrain_roberta':
+        tokenizer = AutoTokenizer.from_pretrained("../pretrained_roberta_output", do_lower_case=True, do_basic_tokenize=True)
     else:
         return -1
 
@@ -83,6 +85,8 @@ def train_lm_hawkish_dovish(gpu_numbers: str, train_test_data_path: str, languag
         model = BertForSequenceClassification.from_pretrained('bert-large-uncased', num_labels=3).to(device)
     elif language_model_to_use == 'roberta-large':
         model = RobertaForSequenceClassification.from_pretrained('roberta-large', num_labels=3).to(device)
+    elif language_model_to_use == 'pretrain_roberta':
+        model = AutoModelForSequenceClassification.from_pretrained("../pretrained_roberta_output", num_labels=3).to(device)
     else:
         return -1
 
@@ -218,10 +222,15 @@ if __name__=='__main__':
     train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
     language_model_to_use = "roberta-large"
     train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
-    '''
+    
     language_model_to_use = "roberta"
     output = train_lm_hawkish_dovish(gpu_numbers="0", train_test_data_path="../training_data/manual_v2.xlsx", 
     language_model_to_use=language_model_to_use, seed=5768, batch_size=8, learning_rate=1e-5, save_model_path=save_model_path)
     print(output)
-    
+    '''
+    language_model_to_use = "pretrain_roberta"
+    output = train_lm_hawkish_dovish(gpu_numbers="0", train_test_data_path="../training_data/manual_v2.xlsx", 
+    language_model_to_use=language_model_to_use, seed=5768, batch_size=8, learning_rate=1e-5, save_model_path=None)
+    print(output)
+
     print((time() - start_t)/60.0)

@@ -135,3 +135,5 @@ model_data/final_model/
 BERT-FLANG/
 grid_search_results_avg/
 code/temp.py
+CA_discriminator_classification/
+pretrained_roberta_output/
