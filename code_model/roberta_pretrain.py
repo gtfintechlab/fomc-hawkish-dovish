@@ -47,6 +47,23 @@ def prepare_data():
     train.to_csv('../training_data/mlm_data.csv', index=False)
     test.to_csv('../training_data/mlm_data_val.csv', index=False)
 
+## prepare data
+def prepare_data_without_filter():
+    samples = []
+    directory = "../code_data/Meeting-Minutes-Tokenized/"
+    for f_name in os.listdir(directory):
+        file_path = os.path.join(directory, f_name)
+        if os.path.isfile(file_path) and not f_name.startswith("."):
+            sampled_sentences = pd.read_csv(directory + f_name)['sentence'].tolist()
+            # sampled_sentences = sampled_sentences.sample(n=5, random_state=1)['sentence'].tolist()
+            samples.extend(sampled_sentences)
+
+    mlm_data = pd.DataFrame(samples, columns=["text"])
+    train, test = train_test_split(mlm_data, test_size=0.2)
+
+    train.to_csv('../training_data/mlm_data_unfiltered.csv', index=False)
+    test.to_csv('../training_data/mlm_data_val_unfiltered.csv', index=False)
+
 
 ## Basic setup and configuration
 
@@ -55,8 +72,8 @@ MODEL_CONFIG_CLASSES = list(MODEL_MAPPING.keys())
 MODEL_TYPES = tuple(conf.model_type for conf in MODEL_CONFIG_CLASSES)
 
 class TrainConfig:
-    train_file= '../training_data/mlm_data.csv'
-    validation_file = '../training_data/mlm_data_val.csv'
+    train_file= '../training_data/mlm_data_unfiltered.csv'
+    validation_file = '../training_data/mlm_data_val_unfiltered.csv'
     validation_split_percentage= 5
     pad_to_max_length= True
     model_name_or_path= 'roberta-base'
@@ -291,5 +308,6 @@ def main():
         tokenizer.save_pretrained(args.output_dir)
 
 if __name__ == "__main__":
-    prepare_data()
+    #prepare_data()
+    #prepare_data_without_filter()
     main()
