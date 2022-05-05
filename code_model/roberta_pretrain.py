@@ -64,6 +64,46 @@ def prepare_data_without_filter():
     train.to_csv('../training_data/mlm_data_unfiltered.csv', index=False)
     test.to_csv('../training_data/mlm_data_val_unfiltered.csv', index=False)
 
+## prepare data
+def prepare_data_mts():
+    
+    ## add meeting minutes
+    samples = []
+    directory = "../code_data/Meeting-Minutes-Tokenized/"
+    for f_name in os.listdir(directory):
+        file_path = os.path.join(directory, f_name)
+        if os.path.isfile(file_path) and not f_name.startswith("."):
+            sampled_sentences = pd.read_csv(directory + f_name)['sentence'].tolist()
+            # sampled_sentences = sampled_sentences.sample(n=5, random_state=1)['sentence'].tolist()
+            samples.extend(sampled_sentences)
+
+
+    ## add speeches
+    directory = "../data/speech_testimony_text_data/speech/"
+    for f_name in os.listdir(directory):
+        file_path = os.path.join(directory, f_name)
+        with open(file_path, errors='ignore') as f:
+                content = f.readlines()
+        content = [x.strip() for x in content]
+        content = [x[:512] for x in content]
+        samples.extend(content)
+
+    ## add testimony
+    directory = "../data/speech_testimony_text_data/testimony/"
+    for f_name in os.listdir(directory):
+        file_path = os.path.join(directory, f_name)
+        with open(file_path, errors='ignore') as f:
+                content = f.readlines()
+        content = [x.strip() for x in content]
+        content = [x[:512] for x in content]
+        samples.extend(content)
+
+    mlm_data = pd.DataFrame(samples, columns=["text"])
+    print(mlm_data.shape)
+    train, test = train_test_split(mlm_data, test_size=0.2)
+
+    train.to_csv('../training_data/mlm_data_mts.csv', index=False)
+    test.to_csv('../training_data/mlm_data_val_mts.csv', index=False)
 
 ## Basic setup and configuration
 
@@ -72,19 +112,19 @@ MODEL_CONFIG_CLASSES = list(MODEL_MAPPING.keys())
 MODEL_TYPES = tuple(conf.model_type for conf in MODEL_CONFIG_CLASSES)
 
 class TrainConfig:
-    train_file= '../training_data/mlm_data_unfiltered.csv'
-    validation_file = '../training_data/mlm_data_val_unfiltered.csv'
+    train_file= '../training_data/mlm_data_mts.csv'
+    validation_file = '../training_data/mlm_data_val_mts.csv'
     validation_split_percentage= 5
     pad_to_max_length= True
-    model_name_or_path= 'roberta-base'
-    config_name= 'roberta-base'
-    tokenizer_name= 'roberta-base'
+    model_name_or_path= 'roberta-large'
+    config_name= 'roberta-large'
+    tokenizer_name= 'roberta-large'
     use_slow_tokenizer= True
-    per_device_train_batch_size= 8
-    per_device_eval_batch_size= 8
+    per_device_train_batch_size= 4
+    per_device_eval_batch_size= 4
     learning_rate= 5e-5
     weight_decay= 0.0
-    num_train_epochs= 5
+    num_train_epochs= 10
     max_train_steps= None
     gradient_accumulation_steps= 1
     lr_scheduler_type= 'constant_with_warmup'
@@ -308,6 +348,8 @@ def main():
         tokenizer.save_pretrained(args.output_dir)
 
 if __name__ == "__main__":
+    os.environ["CUDA_VISIBLE_DEVICES"] = "0,1"
     #prepare_data()
     #prepare_data_without_filter()
+    #prepare_data_mts()
     main()
