@@ -30,8 +30,8 @@ dataloaders_dict = {'train': DataLoader(train),
 y_test = []
 y_pred = []
 for label, label_roberta_base in dataloaders_dict['test']:
-    y_test.append(label)
-    y_pred.append(label_roberta_base)
+    y_test.append(label.tolist()[0])
+    y_pred.append(label_roberta_base.tolist()[0])
 
 
 print(classification_report(y_test, y_pred, target_names=target_names, digits=4))
