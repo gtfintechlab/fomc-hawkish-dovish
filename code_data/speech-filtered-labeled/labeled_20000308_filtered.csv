@@ -1,0 +1,4 @@
+Unnamed: 0,sentence,label,score
+0,"this pattern indicates a growing exposure to rising interest rates, and our surveillance screens suggest that this is indeed the case.",LABEL_1,0.9927072525024414
+1,"in the past, of course, you have successfully forged cooperative alliances with technology, insurance, brokerage, and other firms that have allowed you to provide your customers with the diversity of financial tools and products they demand.",LABEL_2,0.6331666111946106
+2,"that said, it is one thing to gain financial holding company status and begin cautiously experimenting with these new powers and quite another to jump into the deep end of the pool with full-scale acquisitions or extremely rapid growth of new businesses.",LABEL_2,0.5450139045715332

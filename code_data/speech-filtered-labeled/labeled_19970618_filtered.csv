@@ -1,0 +1,5 @@
+Unnamed: 0,sentence,label,score
+0,"they have propelled growth in less traditional or newer banking activities such as investment banking, mutual fund management, insurance and securitization.",LABEL_0,0.6622450947761536
+1,"the availability of dramatically more powerful computers at ever more affordable prices has allowed institutions to process vast data bases of rates, prices, defaults, and recoveries.",LABEL_2,0.9945018291473389
+2,i believe these enhanced management practices have contributed importantly to the economic growth and market gains seen in recent years.,LABEL_2,0.9598487615585327
+3,banks will undoubtedly make further inroads in mutual fund management and investment banking through internal growth and through acquisitions of securities firms.,LABEL_2,0.4962072968482971

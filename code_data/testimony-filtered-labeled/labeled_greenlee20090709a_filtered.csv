@@ -1,0 +1,12 @@
+Unnamed: 0,sentence,label,score
+0,"demand for commercial property is sensitive to trends in the labor market, and, as job losses have accelerated, tenant demand for space has declined and vacancy rates have increased.",LABEL_0,0.9969323873519897
+1,prices have declined about 24 percent since their peak in the fall of 2007 and market participants expect significant further declines.,LABEL_0,0.9964665770530701
+2,"as a result, the construction market has experienced sharp declines in both the demand for and the supply of new construction loans since peaking in 2007.",LABEL_0,0.984961748123169
+3,"additionally, almost two-thirds of the respondents reported weaker demand for cre loans, the highest net percentage so reporting since the survey began tracking demand for cre loans in april 1995.",LABEL_2,0.8992154002189636
+4,"the current fundamentals in cre markets are exacerbated by a lack of demand for cmbs, previously a financing vehicle for about 30 percent of originations.",LABEL_0,0.9884703159332275
+5,increases in credit risk have significantly softened demand in the secondary trading markets for all but the most highly rated tranches of these securities.,LABEL_0,0.37484467029571533
+6,"in addition, the decline in cmbs prices has generated significant stresses on the balance sheets of institutions that must mark these securities to market.",LABEL_0,0.9990146160125732
+7,"in addition to aggressive actions related to monetary policy, the federal reserve has taken strong actions to improve liquidity in financial markets by establishing numerous liquidity facilities.",LABEL_0,0.9986798763275146
+8,reserve banks with geographic areas suffering more acute price declines in real estate have been particularly focused on evaluating exposures arising from cre lending.,LABEL_0,0.9970511794090271
+9,"the scap estimated that cumulative two-year cre losses under the adverse scenario, in which residential house prices would continue to fall dramatically in 2009 and 2010, would be more than eight percent of total cre exposures, with losses on construction loans significantly higher.",LABEL_0,0.9974493980407715
+10,we have aggressively pursued monetary policy actions and provided liquidity to help repair the financial system.,LABEL_0,0.9989517331123352

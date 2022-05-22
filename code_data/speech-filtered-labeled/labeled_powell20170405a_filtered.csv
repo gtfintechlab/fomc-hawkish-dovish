@@ -1,0 +1,6 @@
+Unnamed: 0,sentence,label,score
+0,"first, half of our monetary policy mandate is maximum sustainable employment.",LABEL_0,0.9840170741081238
+1,"that means that we need to be aware of employment trends across all communities in america, not just the top-line averages, since unemployment rates vary significantly across races and geographies.",LABEL_2,0.9957836866378784
+2,"for the first time, last year, we put into our monetary policy report to congress a section that detailed how post-recession economic gains have been distributed across races.1 you, as mdis, are committed to understanding and serving these diverse communities.",LABEL_2,0.9882602095603943
+3,"i know that, for example, your small business loans to minority business owners make a difference in the employment rates of minority communities.",LABEL_0,0.9424454569816589
+4,"i thank you for that work, and we will continue to work closely with you to better understand the employment dynamics of underserved and minority communities.",LABEL_2,0.6197695136070251

@@ -1,0 +1,92 @@
+Unnamed: 0,sentence,label,score
+0,i will conclude with a discussion of monetary policy.,LABEL_2,0.9822445511817932
+1,"the current state of the economy as you know, the congress has tasked the federal reserve with achieving stable prices and maximum employment--the dual mandate.",LABEL_2,0.9583138227462769
+2,"the federal open market committee (fomc) has an objective of 2 percent for inflation, as measured by the annual change in the price index for personal consumption expenditures.",LABEL_2,0.9986671805381775
+3,"the committee sees this objective as symmetrical, so that minor deviations above or below 2 percent are treated alike.1 inflation has consistently run below 2 percent since 2011, and is now at 1.2 percent over the past 12 months (figure 1).",LABEL_0,0.8914344906806946
+4,this headline measure of inflation has recently been held down by falling energy and food prices.,LABEL_0,0.9969980716705322
+5,"we also monitor core inflation, which excludes the volatile energy and food components because they often send a misleading signal about underlying inflation pressures.",LABEL_2,0.997250497341156
+6,core inflation is running at 1.7 percent over the past 12 months.,LABEL_1,0.8534823656082153
+7,u.s. inflation trended steadily lower after the volcker disinflation of 1981 to 1982 and has been low and reasonably stable for many years.,LABEL_2,0.805107593536377
+8,"in fact, for the past several years inflation has run below policy targets in many parts of the world, including here in the united states.",LABEL_0,0.9985469579696655
+9,many of us are old enough to remember when the only challenge was to keep inflation low.,LABEL_2,0.9649354219436646
+10,but too-low inflation can also be a serious problem.,LABEL_1,0.9802800416946411
+11,below-target inflation increases the real value of debts owed by households and businesses and reduces the ability of central banks to respond to downturns.,LABEL_1,0.8587594628334045
+12,the public's expectations about inflation are thought to be an important driver of actual inflation.,LABEL_2,0.9586947560310364
+13,"many measures of u.s. inflation expectations--both from surveys and from market-based readings--are still well below their pre-crisis levels, although some have moved up as of late.",LABEL_2,0.8113011717796326
+14,the only way to ensure that inflation expectations remain safely anchored near the fomc's target is to keep inflation close to that target on a consistent basis.,LABEL_1,0.5119024515151978
+15,"so, while the current shortfall may seem small, it is important that inflation continue to move up to 2 percent, as i expect it will.",LABEL_1,0.997944176197052
+16,"the fomc does not have a numerical goal for maximum employment because the long-run sustainable level of employment changes over time and is determined mainly by nonmonetary factors that are outside the fed's control, such as evolving labor market practices, demographics, social change, and fiscal and regulatory policies.",LABEL_2,0.999162495136261
+17,"nonetheless, four times each year fomc participants write down their estimates of the longer-run normal level of the unemployment rate (the natural rate); at the september fomc meeting the median estimate was 4.8 percent, very close to the current unemployment rate of 4.9 percent.",LABEL_2,0.9987152814865112
+18,"employers have been adding roughly 180,000 jobs per month so far this year--a pace a little below that of the past several years but significantly higher than underlying growth in the labor force (figure 2).",LABEL_2,0.7608321309089661
+19,"despite these strong job gains, the unemployment rate has flattened out this year after several years of sharp declines, thanks to welcome developments in labor force participation (figure 3).",LABEL_2,0.9966409802436829
+20,"when people enter or reenter the labor force and begin to search for a job, that is generally a good thing even though at the margin their entry tends to increase the unemployment rate (or prevent it from declining).",LABEL_0,0.9524517059326172
+21,surveys of households and firms also suggest that we are near full employment (figure 5).,LABEL_2,0.9823917150497437
+22,"for example, respondents are now more likely to say that jobs are plentiful than that they are hard to get--a response that has generally been seen when the economy is near full employment.",LABEL_2,0.9958040714263916
+23,"moreover, wages are now rising faster than inflation, and faster than output per hour.",LABEL_1,0.9989566206932068
+24,"taken together, labor market indicators show an economy that is on solid footing and close to our mandate of maximum employment.",LABEL_2,0.5399439930915833
+25,employment is now 6.5 million higher than its pre-crisis peak.,LABEL_1,0.9922385215759277
+26,but this expansion has also had the slowest pace of gdp growth of any postwar recovery (figure 6).,LABEL_0,0.6428801417350769
+27,"given steady but modest growth, we have seen surprisingly large gains in employment and, until this year, a rapid reduction in the unemployment rate.",LABEL_1,0.9965762495994568
+28,"even though gdp growth has been slow, job gains during this recovery have been stronger than those during the previous expansion--the so-called jobless recovery of the early 2000s.",LABEL_2,0.9678248763084412
+29,"the combination of weak growth and strong hiring in this expansion implies small increases in output per hour, or productivity.",LABEL_2,0.9989544153213501
+30,"in fact, productivity has been increasing at a dismal pace, compared with virtually any period in the postwar era.",LABEL_2,0.9965377449989319
+31,i will return to productivity and growth in a moment.,LABEL_2,0.9832374453544617
+32,"output has increased faster, and unemployment has declined faster, in the united states than in other major advanced economies.",LABEL_2,0.756302535533905
+33,"and the fed's challenges in getting inflation back up to 2 percent are similar to, but not as severe as, those faced by some other major monetary authorities.",LABEL_0,0.47746506333351135
+34,"turning to the near-term outlook, after a slow patch in the first half of this year, growth has clearly strengthened.",LABEL_2,0.9688259363174438
+35,"i expect that the economy will continue on its path of the last few years, with real gdp growth of about 2 percent, strong job gains, a tightening labor market, and inflation moving up toward our 2 percent objective.",LABEL_1,0.9885572195053101
+36,growth and inflation are low around the world.,LABEL_2,0.9963375926017761
+37,"with interest rates so low, we are not well positioned to respond to negative shocks, whatever the source.",LABEL_0,0.9989532828330994
+38,"longer-run challenges productivity and growth let's turn to longer-run challenges, and start by asking why growth has been so slow, and how fast we are likely to grow going forward.",LABEL_2,0.9979106783866882
+39,this next slide shows the five-year trailing average annual real gdp growth rate (figure 8).,LABEL_2,0.9957435727119446
+40,"by this measure, growth averaged about 3.2 percent annually through the 1970s, the 1980s, and the 1990s.",LABEL_2,0.9981381297111511
+41,but growth began to decline after 2000 and then nose-dived with the onset of the global financial crisis in 2007 and the slow expansion that followed.,LABEL_0,0.9984157681465149
+42,"since the financial crisis ended in 2009, forecasters have gradually reduced their estimates of long-run trend growth from about 3 percent to about 2 percent--a seemingly small difference that would make a huge difference in living standards over time.3 how much of this decline is just a particularly bad business cycle, and how much represents a long-run downshift?",LABEL_0,0.9230374097824097
+43,"to get at that question, let's take a deeper look at the growth slowdown.",LABEL_2,0.7214558124542236
+44,we can think of economic growth as coming from two sources: more hours worked (labor supply) or higher output per hour (productivity).,LABEL_1,0.8095049858093262
+45,"hours worked mainly depends on growth in the labor force, which has been slowing since the mid-2000s as the baby-boom generation ages.",LABEL_2,0.9965508580207825
+46,"this long-expected demographic fact has now arrived, and it has challenging implications for our potential growth and also for our fiscal policy.4 the unexpected part of the growth slowdown reflects weak productivity growth rather than lower labor supply.",LABEL_0,0.9980872869491577
+47,labor productivity has increased only 1/2 percent per year since 2010--the smallest five-year rate of increase since world war ii and about one-fourth of the average postwar rate (figure 11).,LABEL_2,0.9989974498748779
+48,the slowdown in productivity has been worldwide and is evident even in countries that were little affected by the crisis (figure 12).,LABEL_0,0.9611445069313049
+49,a portion of the productivity slowdown is undoubtedly due to low levels of investment by businesses.,LABEL_0,0.9949039220809937
+50,"if businesses expect slower growth to continue, that will also hold down investment.",LABEL_0,0.9983705878257751
+51,"the other important factor is the decline in what economists call total factor productivity, or tfp, which is the part of productivity that is not explained by capital investment or increases in the skills of the labor force.",LABEL_0,0.919853150844574
+52,"there is no consensus about the future direction of productivity.5 the pessimists argue that the big paradigm-changing innovations, such as electrification or the advent of computers, are behind us.",LABEL_2,0.9986905455589294
+53,still others argue that we are currently underestimating productivity and output because of the real difficulties we face in measuring gdp in a modern economy.,LABEL_2,0.8745308518409729
+54,but i would sum up the growth discussion as follows.,LABEL_2,0.9935316443443298
+55,"growth in the labor force has slowed, and we can estimate it with reasonable confidence to be only about 0.5 percent.",LABEL_2,0.9992529153823853
+56,growth in productivity is both more important and much harder to predict.,LABEL_2,0.9952431917190552
+57,"productivity varies significantly over time, as figure 11 showed.",LABEL_2,0.9973108768463135
+58,"if productivity growth returns to, say, 1.5 percent, then the u.s. economy could grow at about 2.0 percent over the long term.",LABEL_2,0.9904664158821106
+59,"actual growth may turn out to be weaker or stronger, and the choices we make as a society will have something to say about that.",LABEL_2,0.9946871995925903
+60,why are long-term interest rates so low?,LABEL_0,0.9990509152412415
+61,let's turn to the related question of why long-term interest rates are so extraordinarily low in advanced economies around the world.,LABEL_0,0.997635543346405
+62,"in fact, this next chart shows that, as growth and inflation have fallen, longer term interest rates have fallen as well over the past 35 years (figure 13).",LABEL_0,0.9988722801208496
+63,so why are long-term interest rates so low?,LABEL_0,0.9990536570549011
+64,the fomc has considerable control over short-term interest rates.,LABEL_0,0.5453512668609619
+65,"long-term interest rates represent the price that balances the supply of saving by lenders and demand for funds by borrowers, such as businesses needing to fund their capital expenditures.",LABEL_1,0.8504842519760132
+66,lenders expect to receive a real return and to be compensated for inflation and for the risk of nonpayment.,LABEL_1,0.9609709978103638
+67,"meanwhile, borrowers adjust their demand for funds based on their changing assessment of the risks and expected returns of their investment projects.",LABEL_2,0.9990912079811096
+68,"when desired saving rises or investment demand falls, then long-term interest rates will decline.",LABEL_0,0.9989307522773743
+69,both expectations of slower growth and the aging of our population are having significant effects on desired saving and investment and are thus important causes of lower interest rates.,LABEL_0,0.9991018772125244
+70,"if the economy is expanding more slowly, then the level of investment needed to meet demand will be lower.",LABEL_0,0.9880052208900452
+71,"the lower path of growth reduces future income prospects of households, and they will tend to raise their saving.",LABEL_1,0.5633335113525391
+72,"in addition, the lower rate of return on capital owing to lower productivity growth will lead to less investment and lower interest rates.",LABEL_0,0.9989921450614929
+73,"as with productivity, the factors behind the fall in u.s. interest rates include an important global component, as rates are low around the world.",LABEL_0,0.9991944432258606
+74,"what can we do to prevent low growth, low inflation, and low interest rates from becoming the new normal?",LABEL_0,0.9990841150283813
+75,we need to focus on ways to increase our long-term growth and spread that prosperity as broadly as possible.,LABEL_1,0.9433448314666748
+76,"we need policies that support productivity growth, business hiring and investment, labor force participation, and the development of skills.",LABEL_1,0.6875718832015991
+77,"increased spending on public infrastructure may raise private-sector productivity over time, particularly with the growth of the stock of public infrastructure near an all-time low.7 greater support for public and private research and development, and policies that improve product and labor market dynamism may also be fruitful.8 monetary policy can contribute by supporting a strong and durable expansion in a context of price stability.",LABEL_0,0.9892402291297913
+78,monetary policy the low interest rate environment presents special challenges for monetary policy.,LABEL_0,0.9993449449539185
+79,"in setting our target for the federal funds rate, a good place to start is to identify the rate that would prevail if the economy were at 2 percent inflation and full employment--the so-called neutral rate.",LABEL_2,0.9984326362609863
+80,"if the fed funds rate is lower than the neutral rate, then policy is stimulative or accommodative, which will tend to raise growth and inflation.",LABEL_0,0.9859244227409363
+81,"if the fed funds rate is higher than the neutral rate, then policy is tight and will tend to slow growth and reduce inflation.",LABEL_1,0.9940909147262573
+82,many analysts believe that the neutral rate is even lower than that today and will only return to its long-run value over time.9 the low level of the neutral interest rate has several important implications.,LABEL_0,0.9980162382125854
+83,"first, today's low rates are not as stimulative as they seem--consider that, despite historically low rates, inflation has run consistently below target and housing construction remains far below pre-crisis levels.",LABEL_0,0.9993445873260498
+84,"third, persistently low interest rates can raise financial stability concerns.",LABEL_0,0.9991505742073059
+85,"a long period of very low interest rates could lead to excessive risk-taking and, over time, to unsustainably high asset prices and credit growth.",LABEL_1,0.985626220703125
+86,higher growth would increase the neutral rate and help address these issues.,LABEL_1,0.997647762298584
+87,"turning to the outlook for monetary policy, incoming data show an economy that is growing at a healthy pace, with solid payroll job gains and inflation gradually moving up to 2 percent.",LABEL_1,0.9947289228439331
+88,"with inflation below target, relatively slow growth, and some slack remaining in the economy, the committee has been patient about raising rates.",LABEL_0,0.8447539210319519
+89,"today, we are reasonably close to achieving full employment and our 2 percent inflation objective.",LABEL_2,0.9715548157691956
+90,"our aging population will mean slower growth, all else held equal.",LABEL_2,0.611463725566864

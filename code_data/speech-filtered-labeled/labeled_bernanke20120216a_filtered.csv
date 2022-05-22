@@ -1,0 +1,10 @@
+Unnamed: 0,sentence,label,score
+0,"accordingly, risks at community banks tend to arise from their lending, in the form of credit risk, interest rate risk, or concentration risk, rather than from the trading, market-making, and investment banking activities associated with the largest banks.",LABEL_2,0.6203306913375854
+1,let me take this opportunity to mention one concern that is of particular relevance to the federal reserve: a common complaint on the part of some community bankers is that very low interest rates hurt their profitability by squeezing net interest margins.,LABEL_0,0.9992145895957947
+2,"since the onset of the financial crisis, the federal reserve's monetary policy has been accommodative, as you know.",LABEL_0,0.9991253018379211
+3,the effects of the configuration of interest rates on banks and other financial institutions are certainly part of the discussion when we strive to determine the appropriate monetary policy.,LABEL_2,0.6558721661567688
+4,"when loan demand is weak, forcing banks to hold low-return safe assets instead of lending, net interest margins suffer.",LABEL_0,0.9991145133972168
+5,"the purpose of the federal reserve's policy of low interest rates is to speed the economic recovery, which will increase loan demand and opportunities for profitable lending, among many other benefits, and thus, ultimately, lead to higher net interest margins.",LABEL_0,0.992311418056488
+6,"putting all these considerations together, in the longer term the overall effect on bank profitability of an appropriately accommodative monetary policy is almost certainly positive.",LABEL_0,0.9958003759384155
+7,"for the federal reserve in particular, community banks not only provide insights into their industry, but they are also an unmatched source of crucial grassroots information about developments in the economy as a whole, which is necessary for effective monetary policy.",LABEL_0,0.8532730937004089
+8,this connection to main street is vitally important to fulfilling both our supervisory and monetary policy responsibilities.,LABEL_2,0.9125035405158997

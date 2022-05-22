@@ -1,0 +1,15 @@
+Unnamed: 0,sentence,label,score
+0,"some of the most impressive advances in labor productivity over the decades have come in sectors of the economy in which physical effort was the most demanding--agriculture, for example.",LABEL_2,0.955399215221405
+1,"manufacturing has displayed similar, though less pronounced, tendencies in recent decades--factory employment is down about 13 percent from its peak of twenty years ago, but output of the sector has risen about 75 percent.",LABEL_2,0.9945434927940369
+2,"by far the largest contributor to growth of our price-adjusted gdp, or value added, has been ideas--insights that leveraged physical reality.",LABEL_2,0.9932019114494324
+3,"it is thus not surprising that the price-adjusted level of international trade, as i indicated earlier, has expanded at a far faster pace than gains in real domestic demand.",LABEL_1,0.9708542227745056
+4,"the growth in physical weight of such trade, as with the national product generally, has been far less.",LABEL_1,0.7532976865768433
+5,"typically, antidumping duties are levied when foreign average prices are below average cost of production.",LABEL_0,0.641451358795166
+6,but that also describes a practice that often emerges as a wholly appropriate response to a softening in demand.,LABEL_2,0.9078235030174255
+7,"it is the rare case that prices fall below marginal cost, which would be a more relevant standard.",LABEL_2,0.9703489542007446
+8,the reason should be that it enhances standards of living through the effects of competition on productivity and widens the range of choices available to consumers.,LABEL_2,0.5772459506988525
+9,it is difficult to find credible evidence that trade has affected the level of total employment in this country over the long run.,LABEL_2,0.9975639581680298
+10,"indeed, we are currently experiencing the widest trade deficit in history with a level of unemployment close to record lows.",LABEL_0,0.9525142312049866
+11,it is the relative balance of supply and demand in a competitive market economy that determines the mix of employment.,LABEL_2,0.9990134239196777
+12,"when exports fall or imports rise, domestic demand and relative prices have invariably adjusted in the long run to leave total employment relatively unaffected.",LABEL_2,0.9987524151802063
+13,"should we endeavor to freeze competitive progress in place, we will almost certainly slow economic growth overall and impart substantial harm to those workers who would otherwise seek more effective longer-term job opportunities.",LABEL_0,0.9990714192390442

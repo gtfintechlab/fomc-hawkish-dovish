@@ -1,0 +1,5 @@
+Unnamed: 0,sentence,label,score
+0,"a well-functioning, stable financial system is essential for healthy economic growth.",LABEL_0,0.8130878210067749
+1,"together with the ongoing contraction of the housing sector, the worsening of credit conditions weighed heavily on economic growth throughout 2008.",LABEL_0,0.9989035129547119
+2,the shocks to confidence and to the availability of credit that followed the intensification of the crisis last fall have contributed to a substantial further weakening in global economic activity.,LABEL_0,0.9990524649620056
+3,"that said, the public is entitled to demand that policymakers take near-term, concrete actions to ensure that we do not face a similar crisis in the future.",LABEL_0,0.8722745180130005

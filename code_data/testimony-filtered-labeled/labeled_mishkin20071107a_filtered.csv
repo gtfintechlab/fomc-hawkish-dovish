@@ -1,0 +1,7 @@
+Unnamed: 0,sentence,label,score
+0,"looking first at an aggregate level, and using a variety of data sources, our 2007 report indicates that, since 2002, financing flows to both small and large firms generally increased along with economic activity.",LABEL_1,0.5061016082763672
+1,the demand for credit by small businesses generally tracked the pattern for nonfinancial businesses overall.,LABEL_2,0.9596953988075256
+2,indicators of financing needs for small businesses suggest that demand picked up in 2004 from low levels in 2003 but moderated in 2006 and early 2007.,LABEL_2,0.998172402381897
+3,"we know that risk premiums embedded in interest rates have increased across a wide range of debt instruments, that credit standards have tightened for most types of lending, and that investors are continuing to reassess both the risks of and the prices they are willing to pay for assets they are considering adding to their portfolios.",LABEL_1,0.9964849948883057
+4,"moreover, our survey indicates that small business loan demand held up rather well between our july and september surveys.",LABEL_2,0.991321861743927
+5,"nonetheless, such data suggest that a significant decline in the financial condition of households, should it occur, would be likely to affect economic activity through its influence on small business finances over and above the more traditional effects of such a decline on the aggregate consumption of the household sector.",LABEL_0,0.9982525110244751

@@ -1,0 +1,16 @@
+Unnamed: 0,sentence,label,score
+0,"if i am confirmed by the senate, i pledge to continue to devote myself to the pursuit of the objectives set for the federal reserve by congress: maximum employment, stable prices, and moderate long-term interest rates.",LABEL_0,0.9848151206970215
+1,growth of real activity appears to have been even more rapid in the third quarter.,LABEL_1,0.9956424832344055
+2,"although there are certainly downside risks to that forecast, there are also reasonable scenarios under which growth next year might be higher than the 4 percent consensus, for example, if the rebuilding of inventory stocks is especially rapid or if economic growth among our trading partners begins to pick up significantly.",LABEL_2,0.9894214272499084
+3,"although the increased growth rate of output is encouraging, everyone should be concerned that so far this growth has not translated into significant job creation.",LABEL_1,0.5154731869697571
+4,"until the job market improves, this recovery will not feel like a recovery to most americans.",LABEL_2,0.9181752800941467
+5,"first, we have seen truly remarkable increases in labor productivity, which have permitted firms to meet the increasing demands for their output without hiring additional workers.",LABEL_1,0.6281471252441406
+6,"the resulting increases in productivity have delayed the need to add new workers, but--it is important to note--they also imply that american firms and workers will be significantly more competitive, and that will help our economy preserve jobs in the long run.",LABEL_1,0.9031917452812195
+7,"although restructuring is a persistent feature of our economic landscape, the displacement of workers and shifting employment patterns resulting from this restructuring are far more difficult to cope with in an environment of generally weak labor markets than they were in periods of rapid employment growth.",LABEL_0,0.9655839204788208
+8,"i believe, however, that the current weakness of the labor market is more cyclical than structural in nature, implying that aggregate employment will recover and unemployment will decline as the economic expansion matures.",LABEL_2,0.7781102061271667
+9,"the exact timing of the recovery in employment, however, is not completely clear.",LABEL_2,0.9949133992195129
+10,"other indicators, such as the failure of the average workweek to expand in recent months and the very slow decline in new claims for unemployment insurance, are less encouraging, though they suggest at least some stabilization of the job market.",LABEL_0,0.9052519202232361
+11,"however, in my view, the growth of productivity is likely to slow, at least somewhat, from its recent extraordinary pace, and so it seems very unlikely that firms can continue to meet rapidly rising demands without adding to their capital stocks (as they have already begun to do) and to their workforces.",LABEL_1,0.9370748400688171
+12,where does this leave monetary policy?,LABEL_0,0.8284163475036621
+13,"inflation remains low, and the federal open market committee has indicated that the risks to inflation are to the downside.",LABEL_0,0.9971863627433777
+14,"thus, currently both the price stability and maximum employment objectives of the federal reserve point us in the same direction.",LABEL_2,0.9988016486167908

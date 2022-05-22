@@ -1,0 +1,7 @@
+Unnamed: 0,sentence,label,score
+0,"taken together, these changes have transformed the process through which credit demands are met and credit risks are allocated and managed.",LABEL_2,0.9859834313392639
+1,"recent developmentsthe evolution of the credit markets has been spurred by the astonishing growth of new credit instruments, particularly credit derivatives.",LABEL_1,0.9812300801277161
+2,"most recently, cds that reference asset-backed securities have been a high-growth part of the market.",LABEL_2,0.9771186709403992
+3,the growth of clos has certainly had an effect on the market for syndicated loans.,LABEL_1,0.7116343975067139
+4,"but recently, the secondary-market liquidity of syndicated loans has improved dramatically, in part because of the demand for loans by clos.",LABEL_0,0.9417411684989929
+5,"more recently, identifying the ultimate sources of institutional demand has become more difficult.",LABEL_2,0.9647858738899231

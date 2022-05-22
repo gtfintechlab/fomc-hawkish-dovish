@@ -1,0 +1,7 @@
+Unnamed: 0,sentence,label,score
+0,"the nation's economy was in recession, with declining housing prices and stalled economic growth.",LABEL_0,0.998680055141449
+1,"these events caused extraordinary turbulence in financial markets: equity prices dropped sharply, the costs of short-term credit spiked upward, and liquidity dried up in many markets.",LABEL_0,0.5542774200439453
+2,wachovia's stock price declined sharply and credit default swap spreads on its debt surged.,LABEL_0,0.7576013803482056
+3,"investors were becoming increasingly concerned about the outlook for a number of u.s. banking organizations, putting downward pressure on their stock prices and upward pressure on their credit default swap spreads.",LABEL_0,0.9045411944389343
+4,"these effects could contribute to materially weaker economic performance, higher unemployment, and reduced wealth.",LABEL_0,0.9991312623023987
+5,citigroup demanded that wachovia and wells fargo terminate their proposed transaction.,LABEL_0,0.9831832051277161

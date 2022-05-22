@@ -1,0 +1,12 @@
+Unnamed: 0,sentence,label,score
+0,"historically, much of our education effort has focused on increasing public understanding of the federal reserve system itself: how we are structured, the nature and scope of our mission, the monetary policy and supervisory tools at our disposal.",LABEL_2,0.9579594135284424
+1,"for the past ten or so years, we have been running the fed challenge, a competition in which teams of high school students engage in mock federal open market committee discussions and make recommendations regarding monetary policy.",LABEL_2,0.9963309168815613
+2,"in particular, it emphasizes the central role of productivity growth in raising standards of living and illustrates what goes into such growth.",LABEL_1,0.7870585918426514
+3,"as you may know, over most of the past ten years u.s. productivity growth has been about double that of the previous twenty years.",LABEL_2,0.9158170819282532
+4,"over the long term, productivity growth is the key to economic advancement.",LABEL_2,0.5595632791519165
+5,"by way of illustration, the pickup in productivity growth from an average of just under 1-1/2 percent from 1973 to 1995 to about 2-3/4 percent from 1995 to 2002, if maintained, suggests that living standards could double in twenty-five years rather than fifty years at the lower rate.",LABEL_2,0.9881777167320251
+6,"thus, the rate of productivity growth in an economy is not just an ivory tower concept.",LABEL_2,0.9211387634277344
+7,understanding how such growth occurs--and having some fun doing it--is what the adventure is all about.,LABEL_2,0.9275447130203247
+8,"in the short-run, when productivity is growing more rapidly, aggregate demand must also increase more quickly, in order to prevent economic slack from increasing.",LABEL_0,0.3566149175167084
+9,"over the last several quarters, demand has not been expanding as quickly as the economy's productive capacity, and the result has been the marked lack of job growth.",LABEL_0,0.9978500604629517
+10,"but as demand accelerates, job growth should improve also.",LABEL_2,0.9971166253089905

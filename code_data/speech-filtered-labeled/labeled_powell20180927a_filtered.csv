@@ -1,0 +1,10 @@
+Unnamed: 0,sentence,label,score
+0,"the federal open market committee, the body within the federal reserve that sets monetary policy, just concluded a meeting yesterday.",LABEL_2,0.7188270092010498
+1,growth is running at a healthy clip.,LABEL_2,0.9478705525398254
+2,"unemployment is low, the number of people working is rising steadily, and wages are up.",LABEL_1,0.995829701423645
+3,inflation is low and stable.,LABEL_2,0.998834490776062
+4,"each time we meet, we face the same question: how can we set monetary policy to best support job growth and low, steady inflation?",LABEL_0,0.9983392953872681
+5,"for many years, this question called for very low interest rates to help an economy that had been damaged by the deep financial crisis that gripped the world 10 years ago.",LABEL_0,0.9993143081665039
+6,"as the economy has steadily gained strength, the fed has been gradually returning interest rates closer to the levels that are normal in a healthy economy.",LABEL_0,0.9807578921318054
+7,"we took another step on that path yesterday, with a quarter-point increase in short-term interest rates.",LABEL_1,0.9974030256271362
+8,"in addition to holding interest rates low to support the recovery, we have taken many steps to make the financial system safer.",LABEL_0,0.999279260635376

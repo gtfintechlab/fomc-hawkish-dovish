@@ -1,0 +1,28 @@
+Unnamed: 0,sentence,label,score
+0,"the tightening of credit, along with information suggesting that the housing correction was likely to be deeper and more prolonged than initially thought and that the labor market was weakening, led many analysts to revise down their outlook for economic activity.",LABEL_0,0.9992159008979797
+1,"in turn, the deterioration in the economic outlook seems to have fed back into financial markets, contributing to lower prices for a range of securities and to trading conditions that are more volatile and less liquid.",LABEL_0,0.9989966154098511
+2,more-liquid markets also increase the efficacy of monetary policy.,LABEL_0,0.9555906057357788
+3,"in response to the weakening of economic conditions, the federal reserve has eased the stance of monetary policy substantially.",LABEL_0,0.9992464780807495
+4,"the committee anticipates that these actions, together with the steps we have taken to foster market liquidity, will help to promote growth over time and to mitigate the risks to economic activity.",LABEL_1,0.5884184837341309
+5,equity prices in latin america are down relatively little compared with their very large increases in 2006 and early 2007.,LABEL_2,0.9991124272346497
+6,the pace of economic growth has edged down in many (but not all) latin countries from high rates in 2006 and early 2007.,LABEL_2,0.9048606157302856
+7,"the latest international monetary fund (imf) forecast, however, continues to project solid rates of growth this year and next in most latin american countries.",LABEL_1,0.9399084448814392
+8,"with a few notable exceptions, inflation has remained relatively well under control; in most countries, rising commodity prices have led to only modest increases in headline inflation rates.",LABEL_2,0.917498767375946
+9,"one of the most famous examples of this effect occurred during the u.s. economic downturn of the early 1980s, which was associated with high u.s. interest rates.",LABEL_1,0.9003173112869263
+10,the increased pressures on financing flows and the reduced demand for exports contributed to widespread slowdowns in latin american economies that in many cases were more severe than the u.s. slowdown.,LABEL_0,0.9977041482925415
+11,"these linkages include trade flows, capital flows of various types, and shared global shocks such as the recent run-ups in commodity prices.",LABEL_1,0.9643506407737732
+12,"an economic slowdown in a key trading partner generally reduces demand for a country's exports, putting downward pressure on overall activity.",LABEL_0,0.9988512992858887
+13,"however, with the exception of mexico, most latin american countries are not particularly exposed to u.s. demand for their exports.",LABEL_2,0.9259341359138489
+14,an interesting and potentially important development in the past five to ten years has been the decline of current account deficits throughout latin america and the rise of current account surpluses in many countries in the region.,LABEL_2,0.9263196587562561
+15,large holdings of foreign exchange reserves provide a valuable cushion against fluctuations in foreign demand for a nation's exports or financial assets.,LABEL_2,0.6134480834007263
+16,"the recent global increases in commodity prices have generally had negative implications for u.s. growth and positive implications for latin american growth, as the united states is a net commodity importer and latin america is a net commodity exporter.",LABEL_1,0.8006308674812317
+17,"high commodity prices have also encouraged foreign investment, and thus capital flows, to help develop the commodity resources of latin america.",LABEL_1,0.9707894921302795
+18,"of course, commodity prices themselves are influenced by global economic activity; a u.s. slowdown could put downward pressure on commodity prices, providing an indirect but potentially significant link between the two regions.",LABEL_0,0.9988568425178528
+19,the inter-american development bank background paper for this session argues forcefully that recent strong global growth and high commodity prices provide a very supportive environment for latin american economies.3 these developments have helped to mitigate the effects on latin america of financial market strains and the slowdown in u.s. economic activity.,LABEL_2,0.968199610710144
+20,"although there have been some exceptions, central banks in latin america have demonstrated their resolve to prevent inflation pressures from becoming entrenched.",LABEL_1,0.9981531500816345
+21,governments generally have not allowed spending to absorb all of the increased fiscal revenue from rapid growth.,LABEL_1,0.9595299363136292
+22,"better microeconomic regulatory policies help markets to operate more efficiently, thereby increasing economic growth, which makes continued monetary and fiscal discipline easier to achieve.",LABEL_0,0.6751110553741455
+23,"the proposed rules would tighten standards on higher-priced mortgage loans, which we have defined broadly so as to cover substantially all of the subprime market.",LABEL_1,0.994051992893219
+24,"for example, the rules would prohibit a lender from engaging in a pattern or practice of making higher-priced loans that borrowers cannot reasonably be expected to repay from income or from assets other than the house.",LABEL_1,0.9824703931808472
+25,lenders also would be required to verify the income or assets on which they rely to make credit decisions for higher-priced loans.,LABEL_1,0.9980851411819458
+26,"second, risk concentrations can be hidden during normal times and may manifest themselves only during times of stress, such as the recent marketwide increase in the demand for liquidity.",LABEL_1,0.9444725513458252

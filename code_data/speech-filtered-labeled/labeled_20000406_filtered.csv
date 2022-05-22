@@ -1,0 +1,21 @@
+Unnamed: 0,sentence,label,score
+0,"in a world of large, full-service providers, i think there will be demand for specialty providers.",LABEL_2,0.9446343779563904
+1,"of course, wisely or not, some still demand ""national champions,"" and others worry about privatizing the ""crown jewels.""",LABEL_0,0.5631495118141174
+2,"also, the emergence of the euro as a successful global currency, with the payments infrastructure, unified monetary policy, and converging fiscal policies that are associated with it, creates an attractive, large market.",LABEL_0,0.9516609907150269
+3,there has been a recent decline in profit-growth expectations among equity analysts.,LABEL_0,0.9902279376983643
+4,the consensus view among analysts appears to be that the industry will experience earnings-per-share growth in a range of 10 to 12 percent over the next five years.,LABEL_2,0.9977117776870728
+5,this is a respectable growth but is somewhat lower than the growth experienced in the last five years.,LABEL_2,0.9984732270240784
+6,"in particular, individuals should recognize that in this era of technology-induced growth, high growth goes hand in hand with high uncertainty and, for newer companies, volatility in their financial performance.",LABEL_1,0.5086473822593689
+7,this means that accurately valuing a company in the high-growth industries is dauntingly complex.,LABEL_2,0.9980255365371704
+8,"perhaps based on expectations of solid income growth, which we all hope will be borne out, households have increased their debt faster than their disposable personal income in every quarter over the past five years.",LABEL_1,0.9854689240455627
+9,this burden has been held down in recent years by falling interest rates and a shift toward longer maturity mortgage debt.,LABEL_0,0.998512864112854
+10,technology is thought to have played an important role in the increase in productivity--the output of goods and services per hour of labor--that is currently providing momentum for the economy of the united states.,LABEL_2,0.9147524833679199
+11,the final major change was the reduction of both actual inflation and the expectation of inflation as a necessary component of personal and business decisionmaking.,LABEL_2,0.9921829700469971
+12,relatively stable prices have allowed businesses and households to plan their economic affairs with a general expectation that the value of investments will not be eroded through a pernicious increase in the general price level.,LABEL_2,0.9951606392860413
+13,"indeed, price level stability has reinforced the impetus provided by deregulation for businesses to manage their affairs with a priority on efficiency.",LABEL_2,0.9210084676742554
+14,"additionally, much of the industrialized world has governments following a path of smaller deficits and eventually smaller debt.",LABEL_0,0.9791564345359802
+15,"finally, the emerging consensus among politicians, policymakers, and the general public in many nations is that any benefits of inflation are at best ephemeral and that inflation ultimately is highly destructive.",LABEL_1,0.9938622117042542
+16,"the efforts being made by countries that have experienced periods of inflation, such as brazil and argentina, to avoid a recurrence of those experiences is instructive in this regard.",LABEL_2,0.9887616634368896
+17,inflation has been coming down in both industrialized and emerging-market economies during the 1990s.,LABEL_0,0.8677156567573547
+18,"however, achieving sustained global growth requires certain improvements.",LABEL_2,0.9331024289131165
+19,"this potential global prosperity demands sounder banking institutions in all countries, particularly those that are still heavily dependent on bank-based financial intermediation, and more-stable financial systems, putting a special burden on supervisory and regulatory authorities to remain vigilant.",LABEL_0,0.9934478402137756

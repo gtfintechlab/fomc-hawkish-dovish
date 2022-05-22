@@ -1,0 +1,11 @@
+Unnamed: 0,sentence,label,score
+0,"not only did regulation q establish ceilings on interest rates for both passbook savings accounts and certificates of deposit (cds), the regulation gave thrifts an interest rate advantage of initially 50, then 25, basis points for each of their interest-bearing products.",LABEL_0,0.8817358613014221
+1,high interest rates during the late 1970s and early 1980s had a stunning effect on the flow of deposits into banks and thrifts.,LABEL_1,0.9899818897247314
+2,"money fund shares issued by investment firms offered market interest rates and a high level of liquidity, through either immediate withdrawal or the ability to effect transactions by using payable-through drafts.",LABEL_1,0.7369285225868225
+3,"by contrast, regulation q mandated low interest rates on passbook accounts, specific term restrictions on cds, and significant penalties for early withdrawal.",LABEL_0,0.9986060857772827
+4,"after a tepid and wholly unsuccessful effort by bankers to restrict the growth of money funds, the banking industry began considering a different response.",LABEL_0,0.8365432620048523
+5,congress's response to the growth of money funds was to pass the monetary control act of 1980 and the garn-st germain act of 1982.,LABEL_1,0.9929110407829285
+6,"that is, ""they incurred liabilities payable on demand at par and are readily transferable by the owner to third parties.""",LABEL_2,0.4614545404911041
+7,"-the third characteristic corrigan identified is that banks ""are the transmission belt for monetary policy.",LABEL_2,0.778207540512085
+8,"in addition, the improved analytical capacity offered by new technology, better coordination among domestic and international bank supervisors, a healthy track record for u.s. banks, and the growth of consolidated home-country supervision across the world helped u.s. banks and their affiliates to further expand their commercial activities.",LABEL_0,0.7553784847259521
+9,"though banks now have a smaller role in transmitting monetary policy, they still help to transmit policy actions by arbitraging between the federal funds market and other money markets.",LABEL_0,0.8847032189369202

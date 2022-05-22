@@ -1,0 +1,24 @@
+Unnamed: 0,sentence,label,score
+0,these tenets include: know your customer; understand the legal framework in which you are working; thoroughly understand the sources of repayment and the risk of nonperformance; and price your services accordingly.,LABEL_2,0.7973146438598633
+1,"in addition, such banks may attempt to attract depositors by paying higher interest rates than their solvent competitors.",LABEL_1,0.9857813715934753
+2,"finally, a banking system that is unsound cannot perform its role as a transmitter of monetary policy.",LABEL_0,0.998389720916748
+3,"particularly in emerging economies, in which other financial markets are not well developed, banks transmit monetary policy by expanding or contracting their balance sheets, i.e., engaging in more or less lending.",LABEL_0,0.5936324000358582
+4,"an economy which is relatively stagnant cannot easily recover using monetary policy if it is saddled with an unsound banking system, because efforts to stimulate growth by lowering interest rates may not lead to a sufficient expansion of lending.",LABEL_0,0.9993101954460144
+5,"similarly, such banks are unlikely to be as efficient as they otherwise would be in transmitting the monetary policy of their home country central bank into their home country macroeconomy.",LABEL_2,0.8927472233772278
+6,"the costs to fix such as system can be substantial, the credit function cannot be carried out properly by such a system, and monetary policy may be hampered.",LABEL_0,0.9968674778938293
+7,"they avoided fiscal deficits, and in some cases ran surpluses.",LABEL_0,0.8201112747192383
+8,"in addition, they avoided a general inflation in the prices of goods and services.",LABEL_2,0.9625934362411499
+9,"much of the increased investment spending was concentrated in stocks and real estate, and asset price bubbles emerged.",LABEL_1,0.5490998029708862
+10,"moreover, exchange rates were in some cases allowed to get out of line with fundamental forces in the economy, leading to sharp increases in imports and a widening of trade deficits.",LABEL_1,0.9980873465538025
+11,"to some extent this effect was a result of pegging exchange rates to the u.s. dollar, or to a basket of currencies in which the dollar had a large weight, at a time when the value of the dollar was rising against the yen.",LABEL_1,0.9807672500610352
+12,"exchange rate and capital flow problems could similarly be assigned blame in several earlier banking crises, as well.",LABEL_0,0.9939160346984863
+13,"for example, in the late 1970s, the chilean government followed a policy of rapid exchange rate appreciation, culminating in a fixed exchange rate in 1979. credit to the private sector rose sharply as massive capital inflows followed.",LABEL_1,0.9869521260261536
+14,"an international slowdown in the early 1980s resulted in a collapse in the price of copper, chile's major export, an increase in the country's trade deficit, and a sudden reversal of its capital flows.",LABEL_0,0.9506946802139282
+15,"however, exchange rate problems are only one type of macroeconomic concern.",LABEL_2,0.9885085225105286
+16,"other countries, such as finland, sweden and norway, experienced banking crises following explosions in central bank credit and bubbles in asset prices or in credit creation by banks.",LABEL_2,0.816493034362793
+17,"fiscal and monetary policy, and the need to reverse policy unexpectedly, can also lead to banking crises if bubbles arise in asset markets and banks are heavily exposed to assets with inflated values through their lending practices or balance sheets.",LABEL_0,0.6145191788673401
+18,"other countries, particularly those that rely heavily on a single international commodity export, such as oil, have experienced banking crises following rapid adjustment in the prices for those commodities.",LABEL_2,0.7790207266807556
+19,"often in these cases, the government attempts to use fiscal or monetary stimulus to offset the loss of standard of living that results from a decline in commodity prices.",LABEL_0,0.9989768862724304
+20,"this policy generally only succeeds in inducing a cycle of strong inflation, perhaps accompanied by pressures on exchange rates, followed by a steep correction.",LABEL_1,0.9864097833633423
+21,"finally, here in the united states, the s&l crisis was due in part to deregulation of interest rates on deposits, that left s&ls with low returns on assets but a high cost of funds.",LABEL_0,0.9944971799850464
+22,"the best solution to emerge from these crises and significant banking problems appears to be to remove the nonperforming loans from the bank system, even if only through government (or quasi-governmental) purchases, and then resell them to private market participants at the best prices available.",LABEL_0,0.9960184693336487

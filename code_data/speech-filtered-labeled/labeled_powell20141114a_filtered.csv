@@ -1,0 +1,5 @@
+Unnamed: 0,sentence,label,score
+0,"i will offer brief introductory thoughts and then discuss some recent research by federal reserve board economists that has bearing on these matters.1 the federal reserve's monetary policy is motivated by the dual mandate, which calls upon us to achieve stable prices and maximum sustainable employment.",LABEL_0,0.9820265769958496
+1,"since the financial crisis, the federal reserve has pursued a highly accommodative monetary policy, which has had important effects on asset prices and global investment flows.",LABEL_0,0.9991442561149597
+2,"overall, accommodative monetary policy seems to have provided significant support for u.s. growth.",LABEL_0,0.9990160465240479
+3,"and, of course, a strong u.s. economy contributes to strong growth around the globe, particularly in the emerging market economies (emes).",LABEL_2,0.9960323572158813

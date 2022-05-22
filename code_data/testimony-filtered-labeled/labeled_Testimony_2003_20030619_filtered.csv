@@ -1,0 +1,4 @@
+Unnamed: 0,sentence,label,score
+0,the basic question is the role of regulatory capital minimums in the determination of the price and availability of credit.,LABEL_2,0.9980368614196777
+1,"in some markets, some banks will be relatively passive price takers.",LABEL_2,0.921088695526123
+2,"when coupled with special u.s. features that are not changed by basel ii, such as prompt corrective action, minimum leverage ratios, statutory provisions that make capital a prerequisite to exercising additional powers, and market demands for buffer capital, some modest reduction in the minimum regulatory capital for sound, well managed banks could be tolerable if it is consistent with improved risk management.",LABEL_0,0.9958693981170654

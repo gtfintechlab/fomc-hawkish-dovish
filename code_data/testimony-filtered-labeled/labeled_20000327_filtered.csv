@@ -1,0 +1,10 @@
+Unnamed: 0,sentence,label,score
+0,"the goal of this reform must be to increase the real resources available to meet the needs and expectations of retirees, without blunting the growth in living standards among our working population and, presumably, without necessitating sizable reductions in other government spending programs.",LABEL_0,0.8208174705505371
+1,"under full accrual accounting, the social security program would have shown a substantial deficit last year.",LABEL_0,0.9954913854598999
+2,"for the federal government as a whole, an accrual-based budget measure would record noticeable unified budget deficits over the next few years and increasing, rather than decreasing, implicit national indebtedness.",LABEL_0,0.996076226234436
+3,"the expected slowdown in the growth of the labor force, the direct result of the decrease in the birth rate following the baby boom, means that financing our debt--whether explicit debt or the implicit debt represented by social security and medicare's contingent liabilities--will become increasingly difficult.",LABEL_0,0.9992200136184692
+4,"nonetheless, pressures will mount, and i believe that the growth potential of our economy is best served by maintaining the unified budget surpluses presently in train and thereby reducing treasury debt held by the public.",LABEL_1,0.6769468188285828
+5,the resulting boost to the pool of domestic saving will help sustain the current boom in productivity-generating investment in the private sector.,LABEL_2,0.9827992916107178
+6,"indeed, if productivity growth continues at its recent pace, our entitlement programs will be in much better shape.",LABEL_2,0.5184134840965271
+7,"saving the surpluses--if politically feasible--is, in my judgment, the most important fiscal measure we can take at this time to foster continued improvements in productivity.",LABEL_2,0.9345292448997498
+8,"for example, medicaid and medicare part b--both of which will face increasing demands as the population ages--are already financed with general revenues, and, consequently, there has been much less pressure to date to reform these programs.",LABEL_0,0.6998768448829651

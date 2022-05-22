@@ -1,0 +1,4 @@
+Unnamed: 0,sentence,label,score
+0,"the debt, in hamilton's words, was the ""price of liberty"" because it financed the successful completion of the war of independence.",LABEL_1,0.9816907048225403
+1,"in those simpler times, before we became too sophisticated for our own good, deficit financing was a necessity prompted solely by peril, not as a tool of active demand management or as an excuse to put off hard decisions.",LABEL_0,0.9551355838775635
+2,"those same incentives have led our present-day treasury to issue securities across a wide range of maturities and, i am pleased to note, to begin soon to offer debt indexed to consumer prices.",LABEL_0,0.9284489154815674

@@ -1,0 +1,33 @@
+Unnamed: 0,sentence,label,score
+0,"those policies provided the basis for heightened economic dynamism and growth, and thereby led to significant benefits for their citizens, including higher incomes, lower inflation, and a wider range of economic opportunities.",LABEL_1,0.9934374690055847
+1,"as a result, latin american banks should become better able to support the process of stable, non-inflationary growth in the future.",LABEL_2,0.9230781197547913
+2,"the current economic and financial problems in brazil should, if anything, reinforce the importance of pursuing sound fiscal and monetary policies and improvements in the underlying institutions that support economic activity.",LABEL_0,0.9977074861526489
+3,"background twenty years ago, or by the end of the 1970s, latin america was on the verge of moving from a phase of unsustainable economic activity--based on high domestic consumption, heavy borrowing from abroad, unsustainable currency levels, and excessive intervention by government into the economy--into a decade of lost growth and lost opportunities known as the debt crisis.",LABEL_0,0.9983565807342529
+4,"as the 1980s began, latin american countries saw prices of their exports plunge, interest rates skyrocket, and access to international capital being cut back severely.",LABEL_0,0.830781102180481
+5,"currency values plummeted as governments ran out of reserves, inflation soared, in some cases to as much as triple digit levels, and the output of the region contracted severely.",LABEL_1,0.9984084367752075
+6,"the main discussions regarding latin america seemed most focused on issues of hyperinflation, high unemployment, and repaying the external debt.",LABEL_1,0.8047571778297424
+7,they also reflected the fact that many governments in the region were slow to enact the reforms that would lay the foundation for future growth.,LABEL_0,0.7847315073013306
+8,"in fact, in many cases governments responded to problems with policies that made things worse, not better, including wage and price controls, freezes on domestic interest rates, and adoption of protectionist trade policies.",LABEL_0,0.9930828809738159
+9,it continues to be important for brazil to implement macroeconomic and structural policies that restore international confidence and also reassure citizens that inflation will not re-ignite.,LABEL_1,0.9723160862922668
+10,most of the countries in the region have experienced growth since the 1980s.,LABEL_2,0.9838098287582397
+11,"indeed, the growth rate of latin american countries has averaged about 3-1/2 percent annually during this decade.",LABEL_2,0.9968218207359314
+12,"in addition, the scourge of inflation seems, in general, to have been brought under control.",LABEL_2,0.708177924156189
+13,"admittedly, the worst inflation rates, at about 40 percent, are still high by the standards in the united states.",LABEL_1,0.9959408640861511
+14,"last year, argentina's inflation rate was under 1 percent.",LABEL_2,0.9888400435447693
+15,"even adjusted for inflation, this represents nearly a doubling of its trade, allowing the growth of latin american imports and exports to roughly match the explosion in international trade experienced throughout the world economy during this period.",LABEL_1,0.8330216407775879
+16,"they were born out of the disastrous economic performance of the region during the 1980s, and the realization that only dramatic improvements in economic policies would suffice to allow growth and prosperity to take hold.",LABEL_2,0.9060410857200623
+17,"fiscal deficits in most countries in the region have dropped, and in cases where they have not yet declined, serious attention toward achieving improvements is being mustered.",LABEL_2,0.8634946346282959
+18,"on the other hand, the realization has become widespread that in the absence of such budget-cutting measures, employment and wages would become even more depressed.",LABEL_0,0.9993419647216797
+19,"second, there has been a substantial dismantling of the controls imposed by government over private sector prices and wages.",LABEL_1,0.3771402835845947
+20,"it is now widely understood that excessive budget deficits and money creation are the root causes of inflation, and controls over private prices have been generally abolished.",LABEL_1,0.9989248514175415
+21,public controls on privately contracted interest rates and other financial market prices also have been eliminated for the most part.,LABEL_0,0.8537103533744812
+22,"finally, exchange rates in many latin american countries have become more flexible, and where the government still intervenes in foreign exchange markets, there is a greater understanding that such intervention must be underpinned by appropriate fiscal and monetary policies.",LABEL_1,0.5265790820121765
+23,"in consequence, the share of foreign trade in economic activity has increased substantially in certain cases.",LABEL_1,0.9960154891014099
+24,"first, appropriate and balanced fiscal, monetary, and exchange rate policies continue to matter.",LABEL_1,0.9282398223876953
+25,"second, it may not be enough for countries merely to avoid excessive budget deficits or high inflation.",LABEL_1,0.9958646893501282
+26,a second question is whether fixed or more flexible exchange rate regimes are more appropriate in an era of rapid capital mobility.,LABEL_2,0.8768522143363953
+27,"in principle, more flexible exchange rates allow economies to adjust more easily to changes in international economic and financial conditions, while fixed exchange rate systems may be useful in instilling a greater degree of discipline on the part of economic policymakers.",LABEL_2,0.8455190658569336
+28,"in practice, the experience of the past year and a half has taught us that systems in which exchange rates are only half-heartedly fixed--that is, where fiscal and monetary policies are not geared toward supporting the currency--are the least sustainable and hence the least desirable.",LABEL_0,0.9682303071022034
+29,"on the other hand, regimes in which economic policies are rigorously focused on maintaining an exchange rate peg may still have value in motivating prudent economic policies and in insulating economies from international financial turbulence.",LABEL_0,0.9640872478485107
+30,globalization has operated on many different levels to improve the performance and productivity of the region.,LABEL_2,0.9985656142234802
+31,"latin american banking systems, benefiting in large part from rising levels of foreign participation, are providing increasingly competitive levels of credit and depository services, thereby laying the groundwork for future dynamism and growth.",LABEL_1,0.7611637115478516

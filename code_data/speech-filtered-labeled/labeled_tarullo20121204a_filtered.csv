@@ -1,0 +1,3 @@
+Unnamed: 0,sentence,label,score
+0,"this problem of sample size is exacerbated by the fact that there has been tremendous growth in the size, complexity, and concentration of the financial sector over the past 15 years or so.",LABEL_1,0.739885687828064
+1,"they may also choose to take advantage of the lower demand, and correspondingly lower prices, for short-term funding by increasing their own short-term borrowing.",LABEL_0,0.997623860836029

@@ -1,0 +1,38 @@
+Unnamed: 0,sentence,label,score
+0,"during the ensuing recovery, above-trend growth was accompanied by rising rates of resource utilization, particularly after the expansion picked up steam in mid-2003.",LABEL_2,0.8037003874778748
+1,"notably, the civilian unemployment rate declined from a high of 6.3 percent in june 2003 to 4.4 percent in march 2007.",LABEL_0,0.8404554724693298
+2,"as the economy approached full employment, the federal open market committee (fomc), the monetary policymaking arm of the federal reserve system, was faced with the classic problem of managing the mid-cycle slowdown--that is, of setting policy to help guide the economy toward sustainable growth without inflation.",LABEL_2,0.9142030477523804
+3,"the economy continued to perform well into 2007, with solid growth through the third quarter and unemployment remaining near recent lows.",LABEL_1,0.5814813375473022
+4,"indicators of the underlying inflation trend, such as core inflation, showed signs of moderating.",LABEL_2,0.957004189491272
+5,"continued increases in the prices of energy and other commodities, together with high levels of resource utilization, kept the committee on inflation alert.",LABEL_1,0.9978212714195251
+6,"but perhaps an even greater challenge was posed by a sharp and protracted correction in the u.s. housing market, which followed a multiyear boom in housing construction and house prices.",LABEL_2,0.9386825561523438
+7,"since early 2007, financial market participants have been focused on the high and rising delinquency rates of subprime mortgages, especially those with adjustable interest rates (subprime arms).",LABEL_0,0.9415849447250366
+8,"although poor underwriting and, in some cases, fraud and abusive practices contributed to the high rates of delinquency that we are now seeing in the subprime arm market, the more fundamental reason for the sharp deterioration in credit quality was the flawed premise on which much subprime arm lending was based: that house prices would continue to rise rapidly.",LABEL_0,0.8328431248664856
+9,"when house prices were increasing at double-digit rates, subprime arm borrowers were able to build equity in their homes during the period in which they paid a (relatively) low introductory (or â€œteaserâ€) rate on their mortgages.",LABEL_2,0.7315849661827087
+10,"however, when declining affordability finally began to take its toll on the demand for homes and thus on house prices, borrowers could no longer rely on home-price appreciation to build equity; they were accordingly unable to refinance and found themselves locked into their subprime arm contracts.",LABEL_0,0.9979463219642639
+11,"for example, even as delinquencies on subprime arms have soared, loss rates on subprime mortgages with fixed interest rates, though somewhat higher recently, remain in their historical range.",LABEL_2,0.6271066069602966
+12,"on the way up, expansive subprime lending increased the effective demand for housing, pushing up prices and stimulating construction activity.",LABEL_1,0.9982370138168335
+13,"on the way down, the withdrawal of this source of demand for housing has exacerbated the downturn, adding to the sharp decline in new homebuilding and putting downward pressure on house prices.",LABEL_0,0.9991572499275208
+14,"investors have also been concerned that, by further weakening the housing sector, the problems in the subprime mortgage market may lead overall economic growth to slow.",LABEL_0,0.9993059039115906
+15,"thus, banks too became subject to valuation uncertainty, as could be seen in their share prices and other market indicators such as quotes on credit default swaps.",LABEL_2,0.9962196350097656
+16,more-expensive and less-available credit seems likely to impose a measure of financial restraint on economic growth.,LABEL_0,0.9988902807235718
+17,"thus, notwithstanding the effects of multi-billion dollar write-downs on the earnings and share prices of some large institutions, the banking system remains sound.",LABEL_0,0.9960939288139343
+18,the federal reserve accordingly has taken a number of steps to help markets return to more orderly functioning and to foster its macroeconomic objectives of maximum sustainable employment and price stability.,LABEL_0,0.9926846027374268
+19,"broadly, the federal reserveâ€™s response has followed two tracks: efforts to support market liquidity and functioning and the pursuit of our macroeconomic objectives through monetary policy.",LABEL_0,0.9986649751663208
+20,"monetary policy (that is, the management of the short-term interest rate) is the fedâ€™s best tool for pursuing our macroeconomic objectives, namely to promote maximum sustainable employment and price stability.",LABEL_0,0.9912497401237488
+21,"although economic growth slowed in the fourth quarter of last year from the third quarterâ€™s rapid clip, it seems nonetheless, as best we can tell, to have continued at a moderate pace.",LABEL_2,0.9984246492385864
+22,"recently, however, incoming information has suggested that the baseline outlook for real activity in 2008 has worsened and the downside risks to growth have become more pronounced.",LABEL_0,0.9991338849067688
+23,"notably, the demand for housing seems to have weakened further, in part reflecting the ongoing problems in mortgage markets.",LABEL_0,0.9988477826118469
+24,"in addition, a number of factors, including higher oil prices, lower equity prices, and softening home values, seem likely to weigh on consumer spending as we move into 2008.",LABEL_1,0.6986347436904907
+25,financial conditions continue to pose a downside risk to the outlook for growth.,LABEL_0,0.9992696642875671
+26,a second consequential risk to the growth outlook concerns the performance of the labor market.,LABEL_2,0.8783173561096191
+27,"last weekâ€™s report on labor-market conditions in december was disappointing, as it showed an increase of 0.3 percentage point in the unemployment rate and a decline in private payroll employment.",LABEL_1,0.95371413230896
+28,"heretofore, the labor market has been a source of stability in the macroeconomic situation, with relatively steady gains in wage and salary income providing households the wherewithal to support moderate growth in real consumption spending.",LABEL_2,0.996401846408844
+29,"even as the outlook for real activity has weakened, there have been some important developments on the inflation front.",LABEL_2,0.9944909811019897
+30,"most notably, the same increase in oil prices that may be a negative influence on growth is also lifting overall consumer prices and probably putting some upward pressure on core inflation measures as well.",LABEL_1,0.9990680813789368
+31,"last year, food prices also increased exceptionally rapidly by recent standards, further boosting overall consumer price inflation.",LABEL_1,0.9991361498832703
+32,"thus far, inflation expectations appear to have remained reasonably well anchored, and pressures on resource utilization have diminished a bit.",LABEL_2,0.9983850121498108
+33,"however, any tendency of inflation expectations to become unmoored or for the fedâ€™s inflation-fighting credibility to be eroded could greatly complicate the task of sustaining price stability and reduce the central bankâ€™s policy flexibility to counter shortfalls in growth in the future.",LABEL_0,0.9925437569618225
+34,"accordingly, in the months ahead we will be closely monitoring the inflation situation, particularly as regards inflation expectations.",LABEL_2,0.9984211325645447
+35,monetary policy has responded proactively to evolving conditions.,LABEL_2,0.9981232285499573
+36,"however, in light of recent changes in the outlook for and the risks to growth, additional policy easing may well be necessary.",LABEL_1,0.997259259223938

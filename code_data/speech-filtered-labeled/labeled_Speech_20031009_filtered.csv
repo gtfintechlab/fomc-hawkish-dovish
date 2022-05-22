@@ -1,0 +1,12 @@
+Unnamed: 0,sentence,label,score
+0,the growth of subprime lending probably the key concept in the predatory lending debate is the difference between subprime lending and predatory lending.,LABEL_1,0.49066275358200073
+1,one of the important stories of the 1990s was the huge growth in subprime lending.,LABEL_1,0.9741581082344055
+2,"this rapid growth of subprime credit may have created problems, as we will see, but there is plenty of good news in this area.",LABEL_2,0.9967300891876221
+3,"to a great degree, the rapid growth in subprime lending has been fueled by technological changes.",LABEL_1,0.9692934155464172
+4,"despite the growth of subprime lending, we should remember that such loans still represent only a small portion of the overall mortgage market.",LABEL_0,0.9847486615180969
+5,predatory lending the growth in numbers and types of subprime credit has been accompanied by disturbing reports of abusive mortgage practices.,LABEL_1,0.8873639106750488
+6,"the fed has lowered the interest rate trigger defining loans subject to hoepa, thereby increasing hoepa coverage.",LABEL_0,0.995201051235199
+7,studies of the north carolina law generally conclude that the state has not experienced the same growth in subprime lending as neighboring states.,LABEL_2,0.996564507484436
+8,"preliminary review of hmda data by the fed, for example, suggests that the level of subprime lending in north carolina has grown by 54 percent since the law went into effect, compared with 97 percent growth in neighboring states.",LABEL_1,0.9712939262390137
+9,"a study by georgetown university's credit research center also found relatively slower growth of subprime lending activity in north carolina after the law took effect, with an especially large impact among lower-income borrowers.",LABEL_0,0.9966870546340942
+10,"studies by the university of north carolina and the center for responsible lending (crl) also showed relatively slower growth of subprime activity but concluded, in contrast, that the lower rate of growth was attributable to a reduced presence of credit with abusive terms.",LABEL_0,0.7502180933952332

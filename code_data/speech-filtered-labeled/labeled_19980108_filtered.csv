@@ -1,0 +1,136 @@
+Unnamed: 0,sentence,label,score
+0,"the second is the set of factors that have recently restrained inflation, despite persistent strong growth and a decline in the unemployment rate to the lowest level in a quarter century.",LABEL_0,0.9974359273910522
+1,"the strength of the cyclical upswing kept monetary policy alert, but -- given the quiescence of inflation -- mostly on hold, during the last year.",LABEL_0,0.969790518283844
+2,"the continued robustness of the expansion into the fourth quarter, including further tightening of the labor market in october and november, might, in my judgment, have tilted the balance toward the case for additional monetary restraint, notwithstanding the continued excellent inflation readings.",LABEL_0,0.6953052878379822
+3,"it has reinforced prospects for some spontaneous slowing of the economy, introduced a downside risk that had not previously been an important consideration in policy deliberations, and added an additional restraining force on inflation immediately ahead.",LABEL_0,0.9988113641738892
+4,"the task of the federal reserve in the coming year will be importantly shaped by the magnitude of the downdraft from the asian crisis, how it interacts with the remaining cyclical strength in domestic demand, and the degree to which its effects on import and commodity prices help keep inflation in check.",LABEL_2,0.6357795000076294
+5,"but before i return to the prospects for 1998 and the challenges for monetary policy, i will offer a retrospective on 1997.",LABEL_2,0.9711991548538208
+6,"let me emphasize that the views i present this afternoon, both about the outlook and about monetary policy, are my own views and should not be interpreted as the views of the fomc.",LABEL_2,0.9967762231826782
+7,the most dramatic feature of the 1997 macro experience was clearly the combination of faster-than-expected growth and lower-than-expected inflation.,LABEL_2,0.8448009490966797
+8,"growth over 1997 probably exceeded 3 ½% from the fourth quarter of 1996 through the fourth quarter of 1997, while inflation, measured by the cpi, was only about 2% over the same period.",LABEL_2,0.9981508255004883
+9,"in february of 1997, for example, the blue chip consensus forecast projected just 2% growth in gdp over 1997 and a 3% increase in the cpi.",LABEL_2,0.998985767364502
+10,"i would characterize the pace of output growth over 1997 as unsustainable, meaning that it was faster than the expansion of productive capacity and would ultimately be restrained going forward either by physical capacity constraints or by higher utilization rates, higher inflation, and policy tightening.",LABEL_1,0.9986054301261902
+11,"the unemployment rate declined by about ¾ percentage point this past year, consistent with the observation that growth was above trend.",LABEL_2,0.9974028468132019
+12,most estimates would put the actual unemployment rate at the end of the year perhaps ¾ percentage point below the nairu.,LABEL_0,0.9981374740600586
+13,"but we clearly have not faced the usual consequence of over-taxing capacity constraints-- namely, an acceleration in prices.",LABEL_1,0.9815479516983032
+14,"while wage gains did increase, albeit very modestly, over the year, inflation remained extraordinarily well contained.",LABEL_1,0.9598006010055542
+15,"the analogy is to an economy where growth is neither too fast nor too slow, allowing a comfortable and peaceful expansion without inflationary overtones.",LABEL_2,0.9937639832496643
+16,"in economic terms, goldilocks should be a story about a ""soft landing,"" a situation where growth slows to trend just as the economy reaches full employment and inflation stabilizes at a satisfactory level.",LABEL_2,0.9958244562149048
+17,"but growth over 1997 did not slow to trend, and, as a result, the unemployment rate declined to a level where overheating would normally be evident.",LABEL_0,0.6803137063980103
+18,yet we did not get the increase in inflation.,LABEL_2,0.9912328720092773
+19,"the overall forecast errors for output growth and inflation, in such a model, can be described in terms of some combination of errors made by the model's equations and incorrect assumptions about variables imposed judgmentally on the forecast.",LABEL_2,0.9985237121582031
+20,"or, the assumed path for oil and food prices might have turned out to be incorrect.",LABEL_2,0.9987639784812927
+21,"it is a story of a coincidence of favorable surprises, one set yielding stronger-than-expected growth and another set restraining inflation.",LABEL_2,0.5861918330192566
+22,"and, indeed, it may lean the forecast for 1998 toward slower growth and higher inflation, if one cannot identify another sequence of similarly fortunate shocks going forward.",LABEL_0,0.6602514982223511
+23,"nearly every major component of aggregate demand came in stronger than fundamentals (i.e., the model equations) would have justified.",LABEL_1,0.9650605916976929
+24,unexpected demand shocks are typically amplified by what is commonly referred to as the muliplier-accelerator process.,LABEL_2,0.9023816585540771
+25,"that is, an unexpected demand shock results in higher output and income, which, in turn, further boosts consumption and investment, reinforcing the effect of the errors on income and output.",LABEL_1,0.986094057559967
+26,this is also part of the story of faster-than-expected output growth in 1997.,LABEL_2,0.7702051401138306
+27,"but unexpected strength in aggregate demand is usually damped by more restrictive financial conditions, by some combination of monetary tightening and movements in longer-term interest rates.",LABEL_1,0.978506863117218
+28,"real long-term interest rates, measured using surveys of inflation expectations, were steady to declining over the year, likely reflecting a smaller-than-anticipated budget deficit and an unwinding of expectations of tighter monetary policy.",LABEL_0,0.9979767203330994
+29,"nominal rates matter, too, especially for housing, and longer-term nominal rates fell, due to the lower-than-expected inflation.",LABEL_0,0.9992796182632446
+30,"equity prices unexpectedly soared, reinforcing the strength of both consumption and investment.",LABEL_1,0.6926569938659668
+31,"so, instead of financial conditions dampening the demand shocks, as would normally be the case, more supportive financial conditions actually reinforced them.",LABEL_0,0.9877427816390991
+32,"financial conditions remained supportive partly because the better-than-expected inflation outcome kept the fed from raising the federal funds rate, except for the single ¼ percentage point move in march.",LABEL_0,0.9909188151359558
+33,"the decline in inflation, in turn, reflected reinforcing effects of a sharp decline in energy prices, a significant slowing in the increase in food prices, and a further decline in core inflation.",LABEL_0,0.9980237483978271
+34,overall cpi inflation was widely expected to slow because of a projected reversal of the sharp rise in oil prices over 1996.,LABEL_2,0.9976775646209717
+35,"about one percentage point of the slowing of overall cpi inflation over 1997 was, in fact, due to the relative movements of food and energy prices over 1996 and 1997.",LABEL_2,0.998676061630249
+36,this was a somewhat sharper effect than was anticipated at the beginning of the year and accounts for a small part of the forecast error on inflation.,LABEL_2,0.9363501667976379
+37,but the greater surprise was the decline in core inflation.,LABEL_0,0.9976970553398132
+38,a major source of this error was the unexpected further appreciation of the dollar and thus the renewed decline in import prices.,LABEL_1,0.9801941514015198
+39,continuing sharp declines in computer prices and the failure of medical benefit costs to rebound also contributed to the surprisingly favorable inflation outcome.,LABEL_0,0.9781702160835266
+40,there was upward pressure on wage change from the low and declining unemployment rate and from the increases in the minimum wage.,LABEL_1,0.9988617300987244
+41,but this was moderated by the effect on wage change of lower price inflation.,LABEL_0,0.9221057891845703
+42,"there was also a sharp acceleration in productivity over 1997, which held down unit labor costs.",LABEL_2,0.9931621551513672
+43,"in my view, most of this acceleration in productivity was cyclical, meaning it was in response to the faster pace of output growth.",LABEL_2,0.8195831179618835
+44,"cyclical increases in productivity mainly, in my view, result in higher profits, rather than lower prices.",LABEL_1,0.9608089923858643
+45,"but, there likely was some small moderating influence on inflation from such a cyclical increase in productivity.",LABEL_2,0.8320123553276062
+46,"putting the story together, the stronger-than-expected growth is explained by unexpected strength in aggregate demand, reinforced by more supportive financial conditions.",LABEL_0,0.9964905381202698
+47,"the excellent inflation outcome, in turn, is explained principally by a coincidence of favorable supply shocks.",LABEL_2,0.9733117818832397
+48,"a second story that could also explain the 1997 pattern of faster-than-expected growth and lower-than-expected inflation is a structural change or a series of structural changes that ushered in a new era of faster economic growth, perhaps lower average unemployment rates, and lower inflation.",LABEL_2,0.89594566822052
+49,"i will focus specifically on the possibility of an increase in trend productivity growth, allowing faster output growth and, at least temporarily, slower inflation at the same time.",LABEL_2,0.7387652397155762
+50,"in this story, part or all of the faster economic growth over 1997 is matched by faster growth in productive capacity, so it does not have inflationary consequences.",LABEL_2,0.9777675271034241
+51,"in addition, if the increase in the productivity trend is unexpected, it will generally result in lower inflation for a while, as wage gains, based on the previous trend of productivity, are more than outpaced by the faster increase in productivity, lowering unit labor costs and hence inflation.",LABEL_2,0.9884636402130127
+52,"this allows, in principle, faster real growth, lower unemployment rates, and lower inflation.",LABEL_0,0.7916907072067261
+53,"an increase in the productivity trend, by raising the profitability of investment, also is consistent with an investment boom, strong corporate profits, and soaring equity prices.",LABEL_1,0.9878357648849487
+54,"from my perspective, however, i do not see clear evidence of a break in the productivity trend in the data.",LABEL_2,0.9991074204444885
+55,"as i noted earlier, i view the acceleration in productivity over 1997 as a normal cyclical phenomenon.",LABEL_2,0.9913655519485474
+56,there was some surprise about how low productivity growth was during 1994 through 1996.,LABEL_2,0.99454665184021
+57,but now the level of productivity has returned to where it would be expected to be in light of the cyclical rebound in output.,LABEL_2,0.9986547827720642
+58,lessons and questions what are some of the lessons and lingering questions arising from the growth and inflation outcomes last year?,LABEL_2,0.8354178667068481
+59,"second, the excellent price performance in 1997, in the context of the surprise of a higher dollar and the resulting sharper-than-expected decline in import prices, suggests to me that we might be underestimating the effect of import prices on overall inflation.",LABEL_0,0.9824292063713074
+60,"many models, in particular, ignore the role of falling import prices in undermining the pricing power of producers of import-competing goods.",LABEL_0,0.9846939444541931
+61,"third, the pattern of wage change and inflation did not definitively reject the estimates of nairu and trend growth that underpinned my forecast; but neither did the outcome entirely reinforce my confidence in them.",LABEL_2,0.9985054731369019
+62,"the poor forecast of inflation was not principally due, in my judgment, to errors in the wage and price equations.",LABEL_2,0.9959812164306641
+63,"nevertheless, i would have made smaller forecast errors if i had used an estimate of nairu a bit below my current estimate of 5 ½% and would have made a smaller error forecasting inflation if i had used a slightly higher estimate of trend growth.",LABEL_2,0.9943702220916748
+64,"fourth, i wonder whether the divergent pattern in unemployment and capacity utilization rates contributed to the lower-than-expected inflation last year.",LABEL_0,0.9986115097999573
+65,"traditionally, these two measures of excess demand move together over the cycle.",LABEL_2,0.9943514466285706
+66,"the capacity utilization rate for manufacturing barely budged over 1997, remaining slightly below the point at which it has traditionally been accompanied by an increase in inflation.",LABEL_2,0.9785143733024597
+67,"if the historical relationship between unemployment and capacity utilization had been operative in this expansion, the capacity utilization rate would be more than two percentage points higher today.",LABEL_1,0.7584998607635498
+68,the failure of capacity utilization rates to move into a range that typically is associated with upward pressure on inflation likely has much to do with the perception of an absence of pricing power by firms.,LABEL_1,0.7261983156204224
+69,"it also may have encouraged firms to alter the way they operate in labor markets, encouraging them to avoid increases in wages that they were going to have difficulty passing along in higher prices.",LABEL_1,0.987716555595398
+70,the net result is that there may be less inflation pressure than would normally be associated with the current rate of unemployment.,LABEL_0,0.9965779185295105
+71,"prospects for 1998 economic growth is likely to slow over 1998 and inflation may rise somewhat, but remain modest.",LABEL_1,0.6269565224647522
+72,"however, a slowing in growth appears to be a higher probability than an increase in inflation.",LABEL_2,0.9965489506721497
+73,"the economy ended 1997 with still very positive fundamentals, notwithstanding some apparent weakness in demand in the fourth quarter.",LABEL_2,0.9501246213912964
+74,"momentum in income growth, a high level of wealth, a record level of consumer confidence, lower mortgage rates, and ready availability of jobs support the household sector.",LABEL_0,0.996211051940918
+75,inflation is low.,LABEL_2,0.9954506158828735
+76,it is from this base that growth is expected to slow over 1998 as a result of the combined effect of some spontaneous slowdown and the spillover from the asian crisis.,LABEL_2,0.6846194863319397
+77,"the slowdown should move growth closer to a sustainable rate, rather than threaten recession.",LABEL_0,0.9555127620697021
+78,a key for monetary policy will be whether growth slows to or below trend or remains above trend.,LABEL_2,0.8530799746513367
+79,"this, in turn, will be an important consideration in the inflation outcome next year and risks of higher inflation thereafter, and will, for me, be an important consideration in the decision about monetary policy.",LABEL_1,0.9978789687156677
+80,"a slowdown in growth an important rationale for a spontaneous slowing -- that is, one occurring without further fed tightening -- is that the pattern of consistent upside surprises across aggregate demand components over 1997 is unlikely to be repeated.",LABEL_2,0.9875004291534424
+81,"in this case, the explanation for the faster-than-expected growth over 1997 provides a rationale for a slowdown over 1998.",LABEL_2,0.9987466335296631
+82,gdp growth appears likely to have exceeded 3% again in the fourth quarter.,LABEL_1,0.6563524007797241
+83,"the production side data -- employment, hours worked, and industrial production -- certainly seem to point to solid growth, but the available data on demand components have been on the weak side.",LABEL_2,0.9974045753479004
+84,the spillover effects from the asian turmoil should further slow growth over 1998.,LABEL_0,0.790748119354248
+85,the degree of slowing in growth and the size of the depreciation in the exchange rates in the region still will be affected by policy actions to be taken by those authorities and the uncertain timing of any improvement in investor confidence.,LABEL_2,0.8885761499404907
+86,"as a result, developments in asia clearly add a considerable degree of uncertainty to the outlook, though around a forecast of slower growth and lower inflation than would otherwise have been the case.",LABEL_2,0.596530556678772
+87,"at this point, i expect, the direct effect of the shock from asian developments on u.s. net exports would slow the growth in our gdp by roughly ½ percentage point.",LABEL_0,0.9005389213562012
+88,"crosscurrents on inflation looking ahead, powerful crosscurrents should still be operating on inflation.",LABEL_2,0.9977351427078247
+89,"second, the decline in inflation over the last year should be an important moderating force on wage change going forward, partially offsetting the first factor.",LABEL_0,0.9779614806175232
+90,"third, the set of forces that have restrained inflation over the last year, the factors i have referred to as favorable supply shocks, will continue to restrain inflation.",LABEL_0,0.7948920726776123
+91,the unemployment rate is well below most estimates of nairu.,LABEL_0,0.9979884028434753
+92,"the resulting upward pressure on wage change and price inflation can be offset or even overwhelmed at times, as it was last year, by other influences.",LABEL_1,0.9967735409736633
+93,"nevertheless, the role of this consideration in inflation dynamics should not be overlooked or underestimated.",LABEL_2,0.9971318244934082
+94,it starts me with a bias toward higher inflation.,LABEL_1,0.9984104037284851
+95,the question is then whether there will be enough offsetting influences in 1998 to prevent inflation from rising.,LABEL_1,0.9854869842529297
+96,one such offset is the virtuous cycle set in motion by the lower inflation in 1997.,LABEL_0,0.9677772521972656
+97,the lower inflation last year should moderate the cyclical pressure for higher nominal wages over 1998.,LABEL_1,0.9976886510848999
+98,"that is, the real wage increases produced by the lower inflation substitute for nominal wage gains that would otherwise have been required to achieve the higher path of real wages.",LABEL_2,0.964809775352478
+99,"the pattern in food, energy, computer, and import prices and in benefit costs will again be important factors shaping the inflation outlook this year.",LABEL_2,0.9751463532447815
+100,the movements in these prices are not closely tied to the balance of supply and demand in overall labor and product markets and are often subject to wide swings and rapid reversals.,LABEL_2,0.9983046650886536
+101,"forecasts of these prices are, as a result, often wide of the mark.",LABEL_2,0.9688224792480469
+102,"it appears that energy, import, and, of course, computer prices will decline again over 1998 and food prices increases will again be modest.",LABEL_2,0.9981504678726196
+103,"while there is likely to be at least a modest rebound in benefit costs, we should add to the list of factors restraining measured inflation the one to two tenths decline in cpi inflation associated with technical revisions to be introduced by the bls this month.",LABEL_0,0.9946244359016418
+104,the restraint likely from favorable supply shocks this year has recently been reinforced by a further decline in crude petroleum prices and the projected effect of the asian crisis on import prices.,LABEL_0,0.9988272190093994
+105,"on balance, it now appears that these forces will continue to restrain inflation over 1998 perhaps by about as much as was the case over 1997.",LABEL_2,0.9989942312240601
+106,"in this case, favorable supply shocks would be neutral factor on inflation this year, neither contributing to higher or lower inflation.",LABEL_2,0.9990488886833191
+107,"on balance, i expect a small increase in inflation in 1998.",LABEL_2,0.739960789680481
+108,"the upward pressure on inflation will also depend on what happens to utilization rates over the year, which in turn will depend on precisely how much growth slows.",LABEL_2,0.8910830020904541
+109,one final influence is the sharp cyclical slowing in productivity i expect.,LABEL_0,0.9906187057495117
+110,this will raise unit labor costs and mainly undermine profit growth.,LABEL_1,0.9986202716827393
+111,but it could put some upward pressure on prices as well.,LABEL_1,0.9989913702011108
+112,"two scenarios and the challenges facing monetary policy there are many possible outcomes, particularly given the uncertainty about the degree of spontaneous slowing and the dimensions of the spillover from the asian crisis.",LABEL_0,0.6726445555686951
+113,"because upside and downside risks for growth and inflation appear to be more balanced than had been the case earlier, i believe monetary policy also needs to be in a more balanced position.",LABEL_0,0.9674802422523499
+114,"the course of monetary policy will, of course, depend on how much growth slows, what happens to utilization rates, and how the movement in utilization rates interacts with the other crosscurrents affecting inflation.",LABEL_2,0.9808841943740845
+115,"continued above-trend growth and a further rise utilization rates, on the other hand, could encourage further tightening.",LABEL_1,0.9989345669746399
+116,"but i want to focus on two intermediate outcomes, both because i view these as more likely and because they would raise more interesting questions for monetary policy.",LABEL_2,0.7480906248092651
+117,"as i noted earlier, in a soft landing, growth slows from an above-trend to trend rate just as output converges from below to its full employment level.",LABEL_2,0.9512426257133484
+118,but i believe output is already beyond the full employment level.,LABEL_2,0.9160986542701721
+119,a soft landing in this case requires growth to run below trend for a period to allow productive capacity to catch up to demand and to allow utilization rates to ease to sustainable levels.,LABEL_2,0.9969663619995117
+120,"ordinarily, inflation would be rising during the transition, given initial conditions of output in excess of sustainable capacity.",LABEL_2,0.7385067343711853
+121,"but, in the current episode, the virtuous cycle in play and renewal of forces that have recently been restraining inflation will continue to damp inflation over 1998, at least moderating the rise in inflation that would otherwise occur.",LABEL_1,0.5395876169204712
+122,"in this scenario, real growth slows to around 2% or slightly lower, the unemployment rate edges upward, but remains below nairu over 1998, and inflation is slightly higher.",LABEL_1,0.8324111700057983
+123,"this is a path back toward full employment, leaving inflation higher but still modest once full employment is reached, perhaps by the end of 1999.",LABEL_2,0.9789196848869324
+124,how should monetary policy respond in this scenario?,LABEL_0,0.7337831258773804
+125,should policy ease in response to the sharp slowing in growth and rise in the unemployment rate?,LABEL_0,0.6116270422935486
+126,"or should policy remain on hold, allowing the economy to converge slowly back to full employment and a still modest inflation rate?",LABEL_2,0.927203357219696
+127,"given the momentum in domestic demand, the still favorable financial conditions and other fundamentals, questions about the degree of spontaneous slowing, and uncertainty about the magnitude of the spillover from the asian crisis, an equally plausible forecast is that growth slows, but only to trend.",LABEL_0,0.5807774066925049
+128,"in this case, the unemployment rate would remain near its current level and inflation would increase slightly more than in the first scenario, though it would still be damped in 1998 by the virtuous cycle forces and the continued favorable supply shocks.",LABEL_2,0.6412331461906433
+129,"this scenario would, however, imply greater inflation risks going forward, in light of prospects that the favorable supply shocks eventually will abate, while the prevailing high labor utilization rate will continue to push wage gains higher.",LABEL_1,0.9985640645027161
+130,how should monetary policy respond in this case?,LABEL_0,0.694270670413971
+131,"should policy remain on hold, given the return to a sustainable rate of growth and stable utilization rates?",LABEL_2,0.9989016056060791
+132,"or, should there be a tightening of policy in light of the prospects for a gradual but persistent updrift in inflation associated with the still very high utilization rates?",LABEL_1,0.9990331530570984
+133,"the latter scenario is valuable in highlighting that the risks of higher inflation are related to the level of utilization rates, not to the rate of growth of output itself.",LABEL_1,0.9941753149032593
+134,"the point is that even if growth slows to trend, utilization rates could be left at unsustainable levels, leaving a risk of rising inflation over time.",LABEL_1,0.9989674687385559

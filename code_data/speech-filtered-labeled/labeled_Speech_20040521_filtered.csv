@@ -1,0 +1,7 @@
+Unnamed: 0,sentence,label,score
+0,"not surprisingly, subprime mortgages also carry higher interest rates than those for prime loans.",LABEL_1,0.997275710105896
+1,the growth in subprime lending represents a natural evolution of credit markets.,LABEL_1,0.9537831544876099
+2,this change encouraged further development and use of credit scoring and other technologies in the mortgage arena to better gauge risk and enabled lenders to price higher-risk borrowers rather than saying no altogether.,LABEL_1,0.9183223247528076
+3,"the federal housing administration, which guarantees mortgage loans of many first-time borrowers, liberalized its rules for guaranteeing mortgages, increasing competition in the market and lowering interest rates faced by some subprime mortgage borrowers.",LABEL_0,0.9985906481742859
+4,table 1 shows the dramatic growth in subprime lending.,LABEL_1,0.9844062924385071
+5,"as will be argued below, the growth of subprime mortgage lending has had its positive aspects in bringing credit to borrowers who previously would have been denied, but it has also entailed risks.",LABEL_1,0.9830816984176636

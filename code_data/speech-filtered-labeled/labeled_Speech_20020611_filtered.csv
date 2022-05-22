@@ -1,0 +1,19 @@
+Unnamed: 0,sentence,label,score
+0,"not only do i get to discuss economics and monetary policy, but also bank regulation and operations issues.",LABEL_2,0.9903661608695984
+1,"in response, the federal reserve reduced interest rates at every meeting of the federal open market committee in 2001 and an additional three times between meetings, for a total of eleven rate cuts accumulating to 475 basis points.",LABEL_0,0.9985173940658569
+2,"the federal reserve has now moved from a policy bias to address weakness, to one where the risks of inflation and weakness are balanced.",LABEL_0,0.9806880354881287
+3,we have often seen the cyclical nature of commercial real estate and its links to the general level of economic activity.,LABEL_2,0.9992151260375977
+4,the second area of potential risk relates to interest rates.,LABEL_1,0.6469939351081848
+5,lower interest rates undoubtedly eased payment pressures on many borrowers and prevented further deterioration in the quality of bank loan portfolios.,LABEL_0,0.999046266078949
+6,"however, lower interest rates will begin to narrow net interest margins for some institutions.",LABEL_0,0.99910569190979
+7,given the historically low interest rates at which recent mortgages have been originated or refinanced one might expect that these loans would be much slower to prepay than previous ones.,LABEL_0,0.9990790486335754
+8,"clearly, i am not about to forecast interest rates, something i've already learned that central bankers never do.",LABEL_2,0.993650496006012
+9,we should all ask ourselves how long depositors would be content earning the currently low rates as equity markets improve or interest rates rise once again.,LABEL_0,0.49761977791786194
+10,"they have historically had higher profitability, as measured by the return on average assets, than large regional and money center banks and, on an individual-institution basis, have enjoyed relatively strong asset and deposit growth.",LABEL_2,0.6175679564476013
+11,a study recently published in the federal reserve bulletin examined growth rates during the past fifteen years for large and small banks.,LABEL_2,0.9971684813499451
+12,community banks have greatly improved their management of interest rate risk in recent years.,LABEL_0,0.987354576587677
+13,"before i get into details, i'd like to emphasize that implementation of the proposal would not entail a change in the stance of monetary policy.",LABEL_0,0.5707858204841614
+14,there is nothing in the proposal that would necessitate a change in the target for the federal funds rate or the level of interest rates more generally.,LABEL_2,0.9967766404151917
+15,"unlike adjustment credit, which currently is extended at a below-market rate, primary credit would be extended at a rate that would be above the usual level of short-term market interest rates, including the federal funds rate.",LABEL_1,0.9954661726951599
+16,the interest rate for primary credit would be set through a procedure identical to that currently used for the basic discount rate.,LABEL_2,0.9937976598739624
+17,"in the proposal, it is envisioned that the interest rate on primary credit would initially be set 100 basis points above the target federal funds rate.",LABEL_1,0.9964883327484131

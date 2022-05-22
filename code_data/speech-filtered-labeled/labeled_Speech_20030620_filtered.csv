@@ -1,0 +1,3 @@
+Unnamed: 0,sentence,label,score
+0,"statements released by the federal open market committee (fomc) and congressional testimony by chairman greenspan are found to significantly affect market interest rates, indicating that central bank ""talk"" conveys important information to market participants.",LABEL_1,0.9933894276618958
+1,"by contrast, statements raising questions about asset valuations typically have not generated a significant response of those asset prices.",LABEL_2,0.998004674911499

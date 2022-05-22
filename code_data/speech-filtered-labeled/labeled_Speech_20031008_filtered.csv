@@ -1,0 +1,34 @@
+Unnamed: 0,sentence,label,score
+0,"as you will hear, recent readings on the economy suggest that the pace of economic activity has picked up of late, our financial system is healthy, and inflation pressures remain subdued.",LABEL_2,0.9892902970314026
+1,"although uncertainties remain, i believe that the economic fundamentals are now in place to generate a sustainable, non-inflationary upturn.",LABEL_2,0.9925676584243774
+2,"their inventories and hiring slumped, and demand for funds fell.",LABEL_0,0.9979161620140076
+3,both groups have consistently pointed to weak business demand as the main factor behind sluggish borrowing during this recovery.,LABEL_0,0.9973510503768921
+4,"supporting these gains have been large increases in real disposable incomes, higher stock prices, and favorable buying attitudes among consumers.",LABEL_1,0.9955106973648071
+5,"notably, many homeowners have taken advantage of low interest rates to refinance their mortgages, some having done so several times over the past couple of years.",LABEL_0,0.9990854263305664
+6,"in more than one-third of these ""refis,"" the borrower took cash out during the transaction, often to pay down loans with higher interest rates.",LABEL_1,0.9954027533531189
+7,"the resulting drop in the average interest rate on household debt, combined with the increase in after-tax income, has helped households stay current on their loan obligations.",LABEL_0,0.9556915760040283
+8,"four important factors have contributed to this improvement in financial conditions: a widespread restructuring of corporate liabilities over the past two years, a bounceback in corporate profitability from its trough in 2001, a narrowing in market risk premiums, and low interest rates.",LABEL_0,0.9992251992225647
+9,"many firms have refinanced high-interest-rate debt, paring the average interest rate on nonfinancial corporate debt by almost 150 basis points since the end of 2000.",LABEL_0,0.9979282021522522
+10,"in addition, many firms--especially in the most troubled industries--have retired debt via equity offerings and asset sales, helping to hold growth of total nonfinancial corporate debt in 2002 to its smallest gain since the early 1990s.",LABEL_0,0.9951252341270447
+11,"over the past two years, the drive to cut costs has generated rapid productivity gains, and this greater efficiency has boosted corporate profits despite tepid revenue growth.",LABEL_2,0.6098475456237793
+12,"although this growth has been somewhat unevenly distributed across sectors, large-firm profits in the aggregate are now up smartly.",LABEL_1,0.9879295825958252
+13,stock prices reflect this brighter view.,LABEL_2,0.8167175650596619
+14,"the broadest index of stock prices--the wilshire 5000--has risen about 20 percent so far this year, while the tech-heavy nasdaq index and the russell 2000 small-cap index have logged even more impressive gains.",LABEL_2,0.9705127477645874
+15,this is a direct benefit of the accommodative stance of monetary policy.,LABEL_0,0.9990096688270569
+16,"these four points all suggest that financial conditions are capable of supporting a sustained, healthy pickup in economic growth.",LABEL_2,0.8697765469551086
+17,"and, given the successful efforts to pare costs, firms are set to benefit from a further pickup in the growth of revenue.",LABEL_1,0.9344924688339233
+18,"employment, productivity and inflation so far, i have talked about the upbeat part of the current economic picture.",LABEL_2,0.9989892840385437
+19,"although aggregate demand appears to have grown rapidly in the third quarter, nonfarm payrolls continued to fall through august and increased only a bit in september--the result of ongoing efforts by businesses to restructure their operations and boost efficiency.",LABEL_2,0.5300493836402893
+20,"but if history is a guide, in an expanding economy job creation will eventually outstrip job destruction, and lower the unemployment rate.",LABEL_0,0.588893711566925
+21,i will be watching conditions in the labor market closely because an expansion that is sustainable in the long run will require solid growth in employment.,LABEL_1,0.6913931965827942
+22,the flip side of this so-called jobless recovery is that labor productivity has been increasing very rapidly.,LABEL_2,0.940617561340332
+23,that pace is quite high by historical standards and suggests to me that the productivity gains of recent years are not cyclical developments that will disappear as labor demand strengthens but are permanent gains in efficiency.,LABEL_2,0.9823176860809326
+24,that is good news because growth in labor productivity generates growth in real wages of workers and thus raises our nation's overall standard of living.,LABEL_1,0.9951621294021606
+25,strong growth in productivity also has been an element in the low rates of core consumer price inflation in recent years.,LABEL_0,0.9957581162452698
+26,the personal consumption expenditure price index excluding food and energy increased only 1.3 percent over the twelve months ending in august--about 1/2 percentage point less than in the year-earlier period.,LABEL_2,0.9991462826728821
+27,"in the current environment of excess capacity and intense global competition, most businesses simply do not have the ability to raise prices.",LABEL_1,0.9572917819023132
+28,"as a result, i do not see a large risk of a pickup in the underlying pace of price inflation anytime soon.",LABEL_2,0.9990036487579346
+29,"if the investment returns on the pension fund's assets are not enough to keep up with the growth in pension liabilities, firms must make additional pension contributions.",LABEL_1,0.9913345575332642
+30,"three years of negative equity returns, combined with sharply falling interest rates, have put considerable stress on some db plans.",LABEL_0,0.998897910118103
+31,"because pension funds typically invest more than half their portfolios in equities, stock market losses significantly eroded pension assets; at the same time, sharply declining interest rates raised the present value of future liabilities, weakening the funding status of many db plans.",LABEL_0,0.9990537762641907
+32,"indeed, db plans are increasingly concentrated in mature industries with aging workforces, for which the growth rate of liabilities is relatively high (and rising), while their duration is relatively low (and falling).",LABEL_2,0.9031856656074524

@@ -1,0 +1,8 @@
+Unnamed: 0,sentence,label,score
+0,"economic activity has picked up from its depressed second-quarter level, when much of the economy was shut down to stem the spread of the virus.",LABEL_0,0.918877124786377
+1,"household spending looks to have recovered about three-fourths of its earlier decline, likely owing in part to federal stimulus payments and expanded unemployment benefits.",LABEL_0,0.9867993593215942
+2,"both employment and overall economic activity, however, remain well below their pre-pandemic levels, and the path ahead continues to be highly uncertain.",LABEL_0,0.9950576424598694
+3,"state and local governments and other municipal bond issuers of a wide spectrum of types, sizes, and ratings have been able to issue bonds, including long maturity bonds, with interest rates that are at or near historical lows.",LABEL_0,0.9978944659233093
+4,"program usage, will depend on the course of the economy, the demand for credit by small and medium-sized businesses, and the ability of lenders to meet credit needs outside the main street program.",LABEL_2,0.8630000948905945
+5,demand for main street loans may increase over time if the pandemic continues to affect the ability of businesses and nonprofits to access credit through normal channels and as other support programs expire.,LABEL_0,0.9971107840538025
+6,the smccf purchases etf shares and corporate bonds at fair market value in the secondary market and avoids purchasing shares of etfs when they trade at prices that materially exceed the estimated net asset value of the underlying portfolio.,LABEL_2,0.7508676648139954

@@ -1,0 +1,12 @@
+Unnamed: 0,sentence,label,score
+0,economic trends economic conditions in the united states have in recent years been favorable to growth in spending and borrowing by the household sector and to strong growth in consumer lending by u.s. banks.,LABEL_1,0.8881204128265381
+1,"just since early 1992, nonfarm payroll employment has increased nearly 11 1/2 million, driving the u.s. unemployment rate to 5.3 percent in june of this year, its lowest level in six years.",LABEL_2,0.43429476022720337
+2,the dramatic rise in stock and bond prices in recent years has also produced sharp gains in wealth for some households.,LABEL_1,0.9960964322090149
+3,"indeed, as the economy emerged from recession in 1991, growth in nonmortgage consumer debt was much slower than typical, reflecting sluggish spending on durable goods and lingering fears about long-term layoffs and other threats to job security.",LABEL_0,0.998958170413971
+4,"however, by 1994, consumer confidence had recovered considerably and demand for autos and other durable goods had strengthened.",LABEL_2,0.9886342883110046
+5,lower inflation in recent years can account for some of the difference.,LABEL_1,0.9114413261413574
+6,"however, that performance--rapid growth during an expansion--is also typical of the last two decades.",LABEL_2,0.8439816832542419
+7,"our staff estimates that this ratio, which includes both mortgage and nonmortgage payments, peaked in late 1989 at about 17 1/2 percent, and then declined over the next four years to about 15 1/2 percent in 1993, as households curtailed their borrowing and average interest rates on their debts fell.",LABEL_0,0.9496866464614868
+8,"in part, it also reflects substantial growth in credit card debt.",LABEL_1,0.9822642207145691
+9,"conclusion to sum up, the rapid growth in consumer lending by banks, particularly that involving credit card loans, reflects a natural evolution of banking activities toward the household sector and has generally enhanced consumer convenience and produced significant profits for banks.",LABEL_1,0.9105024933815002
+10,"in recent years, this growth has been due, in part, to aggressive solicitations of credit card customers by a relatively small number of large bank and nonbank organizations and by an active market for securitized credit card debt.",LABEL_0,0.7571527361869812

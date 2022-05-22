@@ -1,0 +1,41 @@
+Unnamed: 0,sentence,label,score
+0,"the economy had weathered a further run-up in energy prices over the winter, and aggregate demand was again strengthening.",LABEL_1,0.9982731342315674
+1,"real gross domestic product (gdp) growth averaged 3-1/2 percent at an annual rate over the first half of the year, and subsequent readings on activity over the summer were positive.",LABEL_2,0.9090478420257568
+2,"by early august, the economy appeared to have considerable momentum, despite a further ratcheting up of crude oil prices; pressures on inflation remained elevated.",LABEL_1,0.9988597631454468
+3,"crude oil prices moved sharply higher in august, bid up by growth in world demand that continued to outpace the growth of supply.",LABEL_1,0.998940110206604
+4,"then hurricane katrina hit the gulf coast at the end of august, causing widespread disruptions to oil and natural gas production and driving the price of west texas intermediate crude oil above $70 per barrel.",LABEL_1,0.9927282929420471
+5,"because of a lack of ready access to foreign supplies, natural gas prices rose even more sharply.",LABEL_1,0.9985476732254028
+6,these events are likely to exert a drag on employment and production in the near term and to add to the upward pressures on the general price level.,LABEL_1,0.998278021812439
+7,"of course, the higher energy prices caused by the hurricanes are being felt well beyond the gulf coast region.",LABEL_1,0.9984264969825745
+8,those higher prices resulted from the substantial damage that occurred to our nation's energy production and distribution systems.,LABEL_1,0.9234075546264648
+9,"that shift has had benefits in the short run, though the longer it continues, the greater the possibility of upward pressure on distillate fuel oil prices during the winter heating season.",LABEL_1,0.9990929365158081
+10,"releases from the nation's strategic petroleum reserve relieved much of the upward pressure on crude oil prices, and imports of refined products responded rapidly to ease the price pressures stemming from the loss of refinery production in the gulf.",LABEL_0,0.9674625992774963
+11,"as a consequence, the nationwide retail price of gasoline for all grades has declined 60 cents per gallon from its peak of $3.12 per gallon in the week of september 5.",LABEL_0,0.9382003545761108
+12,"motorists appear to have economized on their driving, and gasoline demand appears to be off a bit.",LABEL_0,0.6114851236343384
+13,the far more severe reaction of natural gas prices to the production setbacks that have occurred in the gulf highlights again the need to expand our nation's ability to import natural gas.,LABEL_0,0.9924915432929993
+14,"in contrast to the fall in crude oil prices and the sharp narrowing of refinery margins during the past two months, natural gas prices have remained high.",LABEL_2,0.9469447135925293
+15,"moreover, judging from elevated distant futures prices, traders expect natural gas prices to edge lower but to stay high for the foreseeable future.",LABEL_2,0.9853770136833191
+16,"at present, natural gas supplies appear to be sufficient to meet the near-term demands--even with some ongoing shortfall in gulf production.",LABEL_2,0.9626259207725525
+17,"however, a colder-than-average winter would stress this market, and prices will likely remain vulnerable to spikes until the spring.",LABEL_1,0.5841847062110901
+18,the disruptions to energy production have noticeably affected economic activity.,LABEL_0,0.9930365085601807
+19,"except for the hurricane effects, readings on the economy indicate a continued solid expansion of aggregate demand and production.",LABEL_2,0.9912518262863159
+20,"that's up from an annual pace of 1-1/4 percent in the second quarter, when a marked slowing of inventory accumulation was a restraining influence on growth.",LABEL_2,0.9961894154548645
+21,"the september employment report showed a loss of 35,000 jobs.",LABEL_0,0.9896034598350525
+22,the bureau of labor statistics estimates that employment growth in areas not affected by the storms was in line with the average pace over the twelve months ending in august.,LABEL_2,0.9991746544837952
+23,"retail spending eased off in september, likely reflecting the effects of the hurricanes and higher gasoline prices.",LABEL_1,0.9921872615814209
+24,"structural productivity continues to grow at a firm pace, and rebuilding activity following the hurricanes should boost real gdp growth for a while.",LABEL_2,0.9912896156311035
+25,"more uncertainty, however, surrounds the outlook for inflation.",LABEL_2,0.9961150884628296
+26,the past decade of low inflation and solid economic growth in the united states and in many other countries around the world has been without precedent in recent decades.,LABEL_2,0.996931791305542
+27,"much of that favorable performance is attributable to the remarkable confluence of innovations that spawned new computer, telecommunication, and networking technologies, which, especially in the united states, have elevated the growth of productivity, suppressed unit labor costs, and helped to contain inflationary pressures.",LABEL_2,0.9837973713874817
+28,the result has been a virtuous cycle of low prices and solid growth.,LABEL_2,0.9942578077316284
+29,contributing to the disinflationary pressures that have been evident in the global economy over the past decade or more has been the integration of in excess of 100 million educated workers from the former soviet bloc into the world's open trading system.,LABEL_2,0.9635275602340698
+30,"of course, at current rates of productivity, the half of the world's labor force that has been newly added to the world competitive marketplace is producing no more than one quarter of world output.",LABEL_2,0.9985255599021912
+31,"over the past decade or more, the gradual assimilation of these new entrants into the world's free-market trading system has restrained the rise of unit labor costs in much of the world and hence has helped to contain inflation.",LABEL_2,0.9945436716079712
+32,"as this process has unfolded, inflation expectations have decreased, and accordingly, the inflation premiums embodied in long-term interest rates around the world have come down.",LABEL_0,0.9988724589347839
+33,the effective augmentation of world supply and the accompanying disinflationary pressures have made it easier for the federal reserve and other central banks to achieve price stability in an environment of generally solid economic growth.,LABEL_0,0.9921212792396545
+34,"nevertheless, the suppression of cost growth and world inflation, at some point, will begin to abate and, with the completion of this level adjustment, gradually end.",LABEL_2,0.9978669881820679
+35,these global forces pressing inflation and interest rates lower may well persist for some time.,LABEL_0,0.9989116787910461
+36,"thus, although spending continued to rise rapidly last year, the deficit in the unified budget dropped to $319 billion, nearly $100 billion less than the figure for fiscal year 2004 and a much smaller figure than many had anticipated earlier in the year.",LABEL_2,0.550910472869873
+37,"lowering the deficit further in the near term, however, will be difficult in light of the need to pay for post-hurricane reconstruction and relief.",LABEL_2,0.6094871759414673
+38,"as i have testified on numerous occasions, current entitlement law may have already promised to this next generation of retirees more in real resources than our economy, with its predictably slowing rate of labor force growth, will be able to supply.",LABEL_0,0.9711859822273254
+39,"specifically, large deficits will result in rising interest rates and an ever-growing ratio of debt service to gdp.",LABEL_1,0.9804726839065552

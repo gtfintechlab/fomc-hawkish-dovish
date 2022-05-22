@@ -1,0 +1,16 @@
+Unnamed: 0,sentence,label,score
+0,the federal reserve's monetary policy mandate is twofold: to promote maximum employment and stable prices.,LABEL_0,0.941216230392456
+1,"we track commodity prices, ag credit, and exports as factors that influence our outlook on inflation and economic growth.",LABEL_2,0.9991205334663391
+2,the price of major agricultural commodities has also remained low in early 2019.,LABEL_2,0.5752242207527161
+3,"for example, today, the price of corn is about 40 percent lower than it was from 2010 to 2013.",LABEL_2,0.7692137360572815
+4,"dairy producing states like new mexico are well aware that average milk prices were about 15 percent lower in 2018 than from 2010 to 2013, and well below the highs of 2014.",LABEL_2,0.7204940319061279
+5,the demand for chili peppers and pecans grown in new mexico is a good example of the kinds of regional variations we see in agriculture and many other industries.,LABEL_2,0.9978355169296265
+6,"high interest rates in the early 1980s, in response to the great inflation, contributed to the stress.3 despite the reductions in profits and liquidity, capital spending remained elevated in the early 1980s, and was financed with higher levels of debt made possible by rising land values.",LABEL_1,0.9980069994926453
+7,"farm incomes rose rapidly from 2000 before reaching their peak in 2013 at $123 billion.4 during that time, spurred by rising demand in china and a boom in biofuels, farmers invested heavily in new equipment and technology to meet this rising demand.",LABEL_1,0.9878690242767334
+8,"with current inflation low and stable, interest rates are substantially lower than in the 1980s, and overall leverage has been less pronounced.",LABEL_0,0.9989891052246094
+9,"the combination of relatively low interest rates and modest debt levels has resulted in more-manageable debt service requirements for many agricultural borrowers.5 some farm operations have faced significant financial stress, and it is important to recognize that there are still risks.",LABEL_0,0.9989230632781982
+10,"farmland prices are quite high, and working capital continues to decline.",LABEL_1,0.992124080657959
+11,"this combination of a cyclical deposit base, lower inflows of deposits into rural community banks, and growing loan demand from agricultural borrowers has resulted in a greater dependence on borrowed funds to support the recent growth in agricultural lending.",LABEL_1,0.5289844274520874
+12,"with respect to liquidity, as previously noted, rapid asset growth can strain a bank's liquidity position if its funding sources turn out to be unstable.",LABEL_1,0.7589985728263855
+13,"modern agriculture is a sophisticated and complex business that requires skilled forecasting of supply and demand, rigorous financial and operational management, and sharp technical expertise.",LABEL_2,0.9947476983070374
+14,a close working relationship between farmers and agricultural lenders is essential to the economic growth of agricultural borrowers and the continued success of many rural communities.,LABEL_1,0.4173212945461273

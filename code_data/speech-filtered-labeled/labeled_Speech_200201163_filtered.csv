@@ -1,0 +1,6 @@
+Unnamed: 0,sentence,label,score
+0,"it was rather a promise to pay, on demand, a certain quantity of gold or other valued commodity.",LABEL_1,0.9413889050483704
+1,"those banks that proved trustworthy were able to broadly issue bank notes, along with demand deposits, that is, zero interest rate liabilities.",LABEL_0,0.9950323104858398
+2,"and that, in turn, has largely rested on the quantity of fiat money created relative to demand.",LABEL_2,0.981156587600708
+3,"the early history of the post-bretton woods system of generalized fiat money was plagued, as we all remember, by excess money issuance and the resultant inflationary instability.",LABEL_1,0.9817195534706116
+4,"central bankers' success, however, in containing inflation during the past two decades raises hopes that fiat money can be managed in a responsible way.",LABEL_1,0.620414137840271

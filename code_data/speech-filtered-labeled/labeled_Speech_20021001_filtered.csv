@@ -1,0 +1,8 @@
+Unnamed: 0,sentence,label,score
+0,"in the ordinary course of business, firms are exposed to credit risk and the risk of price fluctuations in currency, commodity, energy, and interest rate markets.",LABEL_2,0.9913809895515442
+1,"for example, when an airline sells tickets months before a flight, the airline becomes exposed to fluctuations in the price of jet fuel.",LABEL_2,0.9813695549964905
+2,"a higher price of jet fuel translates directly into lower profits and, perhaps, a greater risk of bankruptcy.",LABEL_1,0.7071822881698608
+3,this is a direct response to the rapid growth of securitization and the opacity that securitization has introduced into financial reporting.,LABEL_2,0.5434765815734863
+4,"however, the bank's internal risk report would show much more extensive information, such as the interest rate and credit quality of the assets and the range of values the portfolio would take under alternative future scenarios.",LABEL_2,0.9992614984512329
+5,"the user of a risk-management report could determine whether changes in value were due to declining credit quality, rising interest rates, or sales or payoffs of loans.",LABEL_2,0.7843259572982788
+6,"shareholder activism may also pave the way for other forms of market discipline--such as corporate takeovers, share price changes, and funding cost changes--by eliminating management-takeover protections and by inducing greater transparency.",LABEL_1,0.9640375971794128

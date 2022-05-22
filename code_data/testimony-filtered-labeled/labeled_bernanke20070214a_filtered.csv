@@ -1,0 +1,71 @@
+Unnamed: 0,sentence,label,score
+0,"real activity in the united states expanded at a solid pace in 2006, although the pattern of growth was uneven.",LABEL_1,0.7730500102043152
+1,"after a first-quarter rebound from weakness associated with the effects of the hurricanes that ravaged the gulf coast the previous summer, output growth moderated somewhat on average over the remainder of 2006.",LABEL_2,0.9646106362342834
+2,"as we anticipated in our july report, the u.s. economy appears to be making a transition from the rapid rate of expansion experienced over the preceding several years to a more sustainable average pace of growth.",LABEL_2,0.9984526634216309
+3,"however, the weakness in housing market activity and the slower appreciation of house prices do not seem to have spilled over to any significant extent to other sectors of the economy.",LABEL_2,0.9818005561828613
+4,"consumer spending has continued to expand at a solid rate, and the demand for labor has remained strong.",LABEL_1,0.9982926249504089
+5,"on average, about 165,000 jobs per month have been added to nonfarm payrolls over the past six months, and the unemployment rate, at 4.6 percent in january, remains low.",LABEL_1,0.836966335773468
+6,inflation pressures appear to have abated somewhat following a run-up during the first half of 2006.,LABEL_1,0.9249264597892761
+7,"overall inflation has fallen, in large part as a result of declines in the price of crude oil.",LABEL_0,0.9891238212585449
+8,"readings on core inflation--that is, inflation excluding the prices of food and energy--have improved modestly in recent months.",LABEL_2,0.9961913228034973
+9,"nevertheless, the core inflation rate remains somewhat elevated.",LABEL_1,0.9982797503471375
+10,"so far, the incoming data have supported the view that the current stance of policy is likely to foster sustainable economic growth and a gradual ebbing of core inflation.",LABEL_2,0.9761898517608643
+11,"however, in the statement accompanying last month's policy decision, the fomc again indicated that its predominant policy concern is the risk that inflation will fail to ease as expected and that it is prepared to take action to address inflation risks if developments warrant.",LABEL_1,0.9988706111907959
+12,"let me now discuss the economic outlook in a little more detail, beginning with developments in the real economy and then turning to inflation.",LABEL_2,0.9875004291534424
+13,i will conclude with some brief comments on monetary policy.,LABEL_2,0.8910713791847229
+14,"personal consumption expenditures, which account for more than two-thirds of aggregate demand, increased at an annual rate of around 3-1/2 percent in real terms during the second half of last year, broadly matching the brisk pace of the previous three years.",LABEL_1,0.7319030165672302
+15,"consumer outlays were supported by strong gains in personal income, reflecting both the ongoing increases in payroll employment and a pickup in the growth of real wages.",LABEL_1,0.9982576966285706
+16,real hourly compensation--as measured by compensation per hour in the nonfarm business sector deflated by the personal consumption expenditures price index--rose at an annual rate of around 3 percent in the latter half of 2006.,LABEL_1,0.7598522305488586
+17,"by the middle of 2006, monthly sales of new and existing homes were about 15 percent lower than a year earlier, and the previously rapid rate of house-price appreciation had slowed markedly.",LABEL_2,0.9921825528144836
+18,the fall in housing demand in turn prompted a sharp slowing in the pace of construction of new homes.,LABEL_0,0.9960988759994507
+19,"single-family housing starts have dropped more than 30 percent since the beginning of last year, and employment growth in the construction sector has slowed substantially.",LABEL_0,0.9942461252212524
+20,"however, even if housing demand falls no further, weakness in residential investment is likely to continue to weigh on economic growth over the next few quarters as homebuilders seek to reduce their inventories of unsold homes to more-comfortable levels.",LABEL_0,0.9990488886833191
+21,"the exception is subprime mortgages with variable interest rates, for which delinquency rates have increased appreciably.",LABEL_0,0.561862051486969
+22,"the labor market is expected to stay healthy, and real incomes should continue to rise, although the pace of employment gains may be slower than that to which we have become accustomed in recent years.",LABEL_1,0.8877671360969543
+23,"in part, slower average job growth may simply reflect the moderation of economic activity.",LABEL_0,0.9984861612319946
+24,"also, the impending retirement of the leading edge of the baby-boom generation, and an apparent leveling out of women's participation rate in the workforce, which had risen for several decades, will likely restrain the growth of the labor force in coming years.",LABEL_0,0.9861838221549988
+25,"all told, consumer expenditures appear likely to expand solidly in coming quarters, albeit a little less rapidly than the growth in personal incomes if, as we expect, households respond to the slow pace of home-equity appreciation by saving more out of current income.",LABEL_0,0.8281006217002869
+26,"the business sector remains in excellent financial condition, with strong growth in profits, liquid balance sheets, and corporate leverage near historical lows.",LABEL_0,0.5565292239189148
+27,"growth in business spending slowed toward the end of last year, reflecting mainly a deceleration of spending on business structures; a drop in outlays in the transportation sector, where spending is notably volatile; and some weakness in purchases of equipment related to construction and motor vehicle manufacturing.",LABEL_0,0.933991014957428
+28,"outside the united states, economic activity in our major trading partners has continued to grow briskly.",LABEL_1,0.8837990760803223
+29,"the strength of demand abroad helped spur a robust expansion in u.s. real exports, which grew about 9 percent last year.",LABEL_1,0.9974156022071838
+30,"on balance, import growth slowed in 2006, to 3 percent.",LABEL_2,0.9987087249755859
+31,economic growth abroad should support further steady growth in u.s. exports this year.,LABEL_1,0.9940140247344971
+32,"despite the improvements in trade performance, the u.s. current account deficit remains large, averaging about 6-1/2 percent of nominal gdp during the first three quarters of 2006 (the latest available data).",LABEL_1,0.9864324331283569
+33,"overall, the u.s. economy seems likely to expand at a moderate pace this year and next, with growth strengthening somewhat as the drag from housing diminishes.",LABEL_2,0.9564234018325806
+34,the central tendency of those forecasts--which are based on the information available at that time and on the assumption of appropriate monetary policy--is for real gdp to increase about 2-1/2 to 3 percent in 2007 and about 2-3/4 to 3 percent in 2008.,LABEL_2,0.9843371510505676
+35,the projection for gdp growth in 2007 is slightly lower than our projection last july.,LABEL_0,0.8314347267150879
+36,the civilian unemployment rate is expected to finish both 2007 and 2008 around 4-1/2 to 4-3/4 percent.,LABEL_2,0.9971927404403687
+37,"similarly, spillover effects from developments in the housing market onto consumer spending and employment in housing-related industries may be more pronounced than expected.",LABEL_1,0.6884492039680481
+38,i turn now to the inflation situation.,LABEL_2,0.9785803556442261
+39,"as i noted earlier, there are some indications that inflation pressures are beginning to diminish.",LABEL_2,0.9793335199356079
+40,"the monthly data are noisy, however, and it will consequently be some time before we can be confident that underlying inflation is moderating as anticipated.",LABEL_2,0.9920752644538879
+41,"recent declines in overall inflation have primarily reflected lower prices for crude oil, which have fed through to the prices of gasoline, heating oil, and other energy products used by consumers.",LABEL_0,0.9982614517211914
+42,"after moving higher in the first half of 2006, core consumer price inflation has also edged lower recently, reflecting a relatively broad-based deceleration in the prices of core goods.",LABEL_0,0.9984862208366394
+43,"that deceleration is probably also due to some extent to lower energy prices, which have reduced costs of production and thereby lessened one source of pressure on the prices of final goods and services.",LABEL_0,0.9952979683876038
+44,the ebbing of core inflation has likely been promoted as well by the stability of inflation expectations.,LABEL_2,0.9866902232170105
+45,a waning of the temporary factors that boosted inflation in recent years will probably help foster a continued edging down of core inflation.,LABEL_0,0.9990341663360596
+46,"in particular, futures quotes imply that oil prices are expected to remain well below last year's peak.",LABEL_0,0.9666764140129089
+47,"if actual prices follow the path currently indicated by futures prices, inflation pressures would be reduced further as the benefits of the decline in oil prices from last year's high levels are passed through to a broader range of core goods and services.",LABEL_0,0.9976559281349182
+48,"nonfuel import prices may also put less pressure on core inflation, particularly if price increases for some other commodities, such as metals, slow from last year's rapid rates.",LABEL_2,0.9395632743835449
+49,"but as we have been reminded only too well in recent years, the prices of oil and other commodities are notoriously difficult to predict, and they remain a key source of uncertainty to the inflation outlook.",LABEL_2,0.9888163208961487
+50,"the faster pace of rent increases last year may have been attributable in part to the reduced affordability of owner-occupied housing, which led to a greater demand for rental housing.",LABEL_1,0.9987719058990479
+51,"rents should rise somewhat less quickly this year and next, reflecting recovering demand for owner-occupied housing as well as increases in the supply of rental units, but the extent and pace of that adjustment is not yet clear.",LABEL_2,0.9038934111595154
+52,upward pressure on inflation could materialize if final demand were to exceed the underlying productive capacity of the economy for a sustained period.,LABEL_1,0.998501181602478
+53,the implications for inflation of faster growth in nominal labor compensation depend on several factors.,LABEL_1,0.980318546295166
+54,"increases in compensation might be offset by higher labor productivity or absorbed by a narrowing of firms' profit margins rather than passed on to consumers in the form of higher prices; in these circumstances, gains in nominal compensation would translate into gains in real compensation as well.",LABEL_1,0.9846389889717102
+55,"underlying productivity trends appear favorable, and the markup of prices over unit labor costs is high by historical standards, so such an outcome is certainly possible.",LABEL_2,0.9813550710678101
+56,"that said, the possibility remains that tightness in product markets could allow firms to pass higher labor costs through to prices, adding to inflation and effectively nullifying the purchasing power of at least some portion of the increase in labor compensation.",LABEL_1,0.9987173080444336
+57,"thus, the high level of resource utilization remains an important upside risk to continued progress on inflation.",LABEL_2,0.9058231115341187
+58,another significant factor influencing medium-term trends in inflation is the public's expectations of inflation.,LABEL_2,0.9700446724891663
+59,"these expectations have an important bearing on whether transitory influences on prices, such as those created by changes in energy costs, become embedded in wage and price decisions and so leave a lasting imprint on the rate of inflation.",LABEL_2,0.7540155053138733
+60,it is encouraging that inflation expectations appear to have remained contained.,LABEL_2,0.9988479018211365
+61,the projections of the members of the board of governors and the presidents of the federal reserve banks are for inflation to continue to ebb over this year and next.,LABEL_1,0.9989078044891357
+62,"in particular, the central tendency of those forecasts is for core inflation--as measured by the price index for personal consumption expenditures excluding food and energy--to be 2 to 2-1/4 percent this year and to edge lower, to 1-3/4 to 2 percent, next year.",LABEL_0,0.8959075212478638
+63,"but as i noted earlier, the fomc has continued to view the risk that inflation will not moderate as expected as the predominant policy concern.",LABEL_1,0.9966802000999451
+64,monetary policy affects spending and inflation with long and variable lags.,LABEL_2,0.9980141520500183
+65,the dependence of monetary policy actions on a broad range of incoming information complicates the public's attempts to understand and anticipate policy decisions.,LABEL_2,0.9982380867004395
+66,"clear communication by the central bank about the economic outlook, the risks to that outlook, and its monetary policy strategy can help the public to understand the rationale behind policy decisions and to anticipate better the central bank's reaction to new information.",LABEL_2,0.9976677894592285
+67,"by reducing uncertainty, central bank transparency may also help anchor the public's longer-term expectations of inflation.",LABEL_1,0.5841672420501709
+68,much experience has shown that well-anchored inflation expectations tend to help stabilize inflation and promote maximum sustainable economic growth.,LABEL_2,0.9663898348808289
+69,my colleagues and i remain firmly committed to an open and transparent monetary policy process that enhances our ability to achieve our dual objectives of stable prices and maximum sustainable employment.,LABEL_0,0.9975062608718872

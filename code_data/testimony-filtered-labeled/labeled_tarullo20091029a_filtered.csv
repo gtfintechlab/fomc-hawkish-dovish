@@ -1,0 +1,6 @@
+Unnamed: 0,sentence,label,score
+0,"more fundamentally, though, it demonstrated that the regulatory framework had not kept pace with far-reaching changes in the financial sector, and the concomitant growth of new sources of risk to both individual institutions and the financial system as a whole.",LABEL_1,0.8709732890129089
+1,this perception can materially weaken what should be the normal market incentive of creditors to monitor the firm's risk-taking and appropriately price these risks in their transactions with the firm.,LABEL_0,0.9933095574378967
+2,"when this incentive is weakened, moral hazard increases, allowing the firm to raise funds at a price that may not fully reflect the firm's risk profile.",LABEL_0,0.9624398946762085
+3,"and, if well devised, it would inject an additional element of market discipline into large financial firms, because the price of those instruments would reflect market perceptions of the stability of the firm.",LABEL_2,0.997555136680603
+4,"for instance, if a firm cannot demonstrate a strong ability to estimate capital needs, then supervisors will place less credence on the firm's own internal capital evaluation and may demand higher capital cushions, among other things.",LABEL_1,0.9275127053260803

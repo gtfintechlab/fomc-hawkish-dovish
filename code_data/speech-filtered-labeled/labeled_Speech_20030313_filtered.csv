@@ -1,0 +1,15 @@
+Unnamed: 0,sentence,label,score
+0,"this past year was one in which commercial loan demand was very weak, and some of our largest banks stumbled.",LABEL_0,0.9982984662055969
+1,"low interest rates, strong home values and weak equity markets all had important roles to play.",LABEL_0,0.9974996447563171
+2,nearly all of this year's loan growth came in lending secured by real estate.,LABEL_1,0.9723748564720154
+3,construction and other commercial real estate lending represented about two-thirds of that growth and rose more than 10 percent during the year.,LABEL_1,0.8715630173683167
+4,"partly as a result of low interest rates and uncertainty in the stock market, money market deposit account (mmda) and savings deposits grew 10 percent in both 2001 and 2002 and, at this point, fund nearly 25 percent of community bank assets.",LABEL_0,0.9992150664329529
+5,deposit growth overall also brought higher deposit account fees.,LABEL_1,0.9982098937034607
+6,"community banks continue to thrive by providing retail-banking customers with the convenient locations, high-quality service, and attractive prices that they desire.",LABEL_1,0.8334583044052124
+7,"among those households that changed banks for reasons other than household relocation, the most frequently cited factors are better customer service and more attractive prices.",LABEL_1,0.9826435446739197
+8,"with market yields at long-term lows and with a relatively steep yield curve, community banks need to keep a watchful eye on interest rate risk issues.",LABEL_0,0.9622901082038879
+9,i noted earlier the remarkable recent growth in community bank holdings of mortgage pass-through securities.,LABEL_1,0.9696292281150818
+10,"most of the loan growth at community banks over the past two years has been in the form of commercial real estate lending--that is, lending secured by nonfarm nonresidential properties, construction projects, and multifamily units.",LABEL_1,0.3857863247394562
+11,"there are anecdotal indications that some portion of that growth may reflect conversion of unsecured c&i loans to secured loans in response to deterioration in the borrowers' condition, although it is not likely that this effect is very large.",LABEL_0,0.9896096587181091
+12,with the growth in assets and lending opportunities come potential complications with liquidity management.,LABEL_1,0.9750568866729736
+13,careful planning of growth and funding needs is a key aspect of sound management and requires the appropriate degree of management attention.,LABEL_2,0.9866823554039001

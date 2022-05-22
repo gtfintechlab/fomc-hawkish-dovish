@@ -1,0 +1,10 @@
+Unnamed: 0,sentence,label,score
+0,"those policies, aided by major technological advances, fostered a globalization, which unleashed powerful new forces of competition, and an acceleration of productivity, which at least for a time has held down cost pressures.",LABEL_1,0.8438654541969299
+1,"but while we lived through them, there was much uncertainty about the evolving structure of the economy and about the influence of monetary policy.",LABEL_2,0.979817271232605
+2,the federal reserve's experiences over the past two decades make it clear that such uncertainty is not just a pervasive feature of the monetary policy landscape; it is the defining characteristic of that landscape.,LABEL_2,0.6211779713630676
+3,"as a consequence, the conduct of monetary policy in the united states has come to involve, at its core, crucial elements of risk management.",LABEL_0,0.5301846265792847
+4,"this framework entails devising, in light of those risks, a strategy for policy directed at maximizing the probabilities of achieving over time our goals of price stability and the maximum sustainable economic growth that we associate with it.",LABEL_2,0.9524455070495605
+5,"as the transcripts of federal open market committee meetings attest, faced with these abundant challenges, we find the making of monetary policy to be an especially humbling activity.",LABEL_2,0.9042834043502808
+6,"in hindsight, the paths of inflation, real output, employment, productivity, stock prices, and exchange rates may seem to have been preordained, but no such insight existed as we experienced these developments at the time.",LABEL_2,0.9989374279975891
+7,"yet, during the past quarter-century, policymakers managed to defuse dangerous inflationary forces and to deal with the consequences of a stock market crash, a large asset price bubble, and a series of liquidity crises.",LABEL_0,0.7795655131340027
+8,these developments did not divert us from the pursuit and eventual achievement of price stability and the greater economic stability that goes with it.,LABEL_2,0.993668258190155

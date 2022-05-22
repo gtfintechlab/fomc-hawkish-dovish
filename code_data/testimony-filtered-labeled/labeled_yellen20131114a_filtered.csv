@@ -1,0 +1,13 @@
+Unnamed: 0,sentence,label,score
+0,"that prosperity depends most, of course, on the productiveness and enterprise of the american people, but the federal reserve plays a role too, promoting conditions that foster maximum employment, low and stable inflation, and a safe and sound financial system.",LABEL_0,0.9978064894676208
+1,"under the wise and skillful leadership of chairman bernanke, the fed helped stabilize the financial system, arrest the steep fall in the economy, and restart growth.",LABEL_0,0.9962028861045837
+2,the private sector has created 7.8 million jobs since the post-crisis low for employment in 2010.,LABEL_2,0.6420603394508362
+3,"housing, which was at the center of the crisis, seems to have turned a corner--construction, home prices, and sales are up significantly.",LABEL_2,0.9937059283256531
+4,"unemployment is down from a peak of 10 percent, but at 7.3 percent in october, it is still too high, reflecting a labor market and economy performing far short of their potential.",LABEL_0,0.9862573742866516
+5,"at the same time, inflation has been running below the federal reserve's goal of 2 percent and is expected to continue to do so for some time.",LABEL_0,0.9990614652633667
+6,"for these reasons, the federal reserve is using its monetary policy tools to promote a more robust recovery.",LABEL_0,0.998941957950592
+7,i believe that supporting the recovery today is the surest path to returning to a more normal approach to monetary policy.,LABEL_0,0.9991173148155212
+8,"like the chairman, i strongly believe that monetary policy is most effective when the public understands what the fed is trying to do and how it plans to do it.",LABEL_0,0.9862983226776123
+9,"at the request of chairman bernanke, i led the effort to adopt a statement of the federal open market committee's (fomc) longer-run objectives, including a 2 percent goal for inflation.",LABEL_2,0.9449809193611145
+10,i believe this statement has sent a clear and powerful message about the fomc's commitment to its goals and has helped anchor the public's expectations that inflation will remain low and stable in the future.,LABEL_0,0.8576026558876038
+11,"overall, the federal reserve has sharpened its focus on financial stability and is taking that goal into consideration when carrying out its responsibilities for monetary policy.",LABEL_0,0.998704731464386

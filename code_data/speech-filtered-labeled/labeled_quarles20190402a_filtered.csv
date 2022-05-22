@@ -1,0 +1,5 @@
+Unnamed: 0,sentence,label,score
+0,"conversations like these always remind me that, while we all approach our roles in the financial sector differently, we share a deeper commitment to a common goal: a safe, stable, and resilient financial system, capable of supporting strong and sustainable economic growth.",LABEL_0,0.9906941652297974
+1,"nonbank financing can also lead to lower lending standards, bidding up the price of risky assets and sending an encouraging signal to credit underwriters.",LABEL_1,0.8074160814285278
+2,is the growth of nonbank financing altering existing market structures?,LABEL_1,0.9807471036911011
+3,"second, the fsb develops policies to promote the resilience of these firms (without impeding the growth of sustainable nonbank financing models), and we work closely with other multinational organizations to monitor implementation.",LABEL_0,0.9924243092536926

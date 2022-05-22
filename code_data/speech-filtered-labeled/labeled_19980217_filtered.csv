@@ -1,0 +1,7 @@
+Unnamed: 0,sentence,label,score
+0,the other motive was to find a better use than income tax cuts for the federal budget surpluses that loomed ahead if the growth rates of the mid ‘60s continued into the future.,LABEL_1,0.9323802590370178
+1,"attempts to quantify costs and benefits and to analyze the effects of program changes are routine, rather than revolutionary, demanded not just by omb and the white house, but by the congress and second-guessed by think tanks all over town and those much feared nerds at cbo.",LABEL_2,0.9895880818367004
+2,"in 1967, aspe produced a slim report entitled, ""medical care prices.""",LABEL_2,0.9915112257003784
+3,"we bemoaned the fact that medical care costs, in the wake of new demand from medicare, medicaid, and other third party payers, rose at double digit rates in 1966 and a day in the hospital cost an unbelievable $45!",LABEL_1,0.9987801313400269
+4,"we analyzed the pressures of increasing demand on limited supply, pointed out distorted incentives, advocated prepaid group practice and coverage of alternatives to hospital and physician care.",LABEL_2,0.7739892601966858
+5,the success or failure of welfare reform depends heavily on avoiding recession and keeping growth and tight labor markets going.,LABEL_0,0.7918038368225098

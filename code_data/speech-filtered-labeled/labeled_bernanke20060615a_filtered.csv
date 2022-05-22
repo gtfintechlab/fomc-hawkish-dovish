@@ -1,0 +1,83 @@
+Unnamed: 0,sentence,label,score
+0,"as i am certain all of you are aware, the steep increases in energy prices over the past several years have had significant consequences for households, businesses, and economic policy.",LABEL_1,0.9990383982658386
+1,"at least since the time of the first oil shock in october 1973, economists have struggled to understand the ways that disturbances to the supply and demand balance in energy markets influence economic growth and inflation.",LABEL_2,0.9964280128479004
+2,"those decisions, in turn, influence the growth and composition of the stock of capital and the productive capacity of the economy.",LABEL_2,0.9887176752090454
+3,"over the past thirty-five years, the u.s. economy has experienced some wide swings in energy prices.",LABEL_2,0.9697592258453369
+4,"the oil price increases of the 1970s were followed by price declines in the mid-1980s and then a price spike in 1990, with numerous fluctuations since then.",LABEL_2,0.994137167930603
+5,"from the mid-1980s until fairly recently, market participants tended to look through these price cycles and did not allow their longer-term expectations for oil prices to be greatly affected by short-run swings in spot prices.",LABEL_2,0.9986994862556458
+6,"but beginning around 2003, futures prices began moving up roughly in line with the rise in spot prices.",LABEL_1,0.9966043829917908
+7,"thus, unlike in earlier episodes, the significantly higher relative price of energy that we are now experiencing is expected to be relatively long lasting and thus will likely prompt more-significant adjustments by households and businesses over time.",LABEL_1,0.9500733613967896
+8,this higher relative price of energy poses many important questions for economists and policymakers.,LABEL_1,0.9969501495361328
+9,why have the prices of oil and natural gas risen so much?,LABEL_1,0.9982993602752686
+10,what is the outlook for energy supplies and prices in the medium term and in the long term?,LABEL_2,0.9992983937263489
+11,and what implications does the behavior of energy prices have for the ongoing economic expansion and inflation?,LABEL_2,0.9990479350090027
+12,what accounts for the behavior of the current and expected future prices of petroleum?,LABEL_2,0.9991651773452759
+13,"supply and demand are among the most valuable concepts in the economist's toolkit, and i believe they are the key to understanding recent and prospective developments in oil markets.",LABEL_2,0.9989398717880249
+14,"for the most part, high oil prices reflect high and growing demand for oil and limited and uncertain supplies.",LABEL_1,0.9948781728744507
+15,"on the demand side, world oil consumption surged 4 percent in 2004 after rising a solid 2 percent in 2003.",LABEL_2,0.8605204820632935
+16,"in 2005, growth of world oil consumption slowed to 1.3 percent, partly reflecting the restraining effects of higher prices.",LABEL_1,0.7423847913742065
+17,"thus far this year, underlying demand pressures have remained strong in the context of a global economy that has continued to expand robustly.",LABEL_2,0.9781313538551331
+18,"in 2003 and 2004, as oil consumption and prices rose briskly, saudi arabia and other members of the organization of the petroleum exporting countries (opec) pumped more oil.",LABEL_1,0.9971317648887634
+19,"as a consequence, opec's oil production flattened out over the past year even as oil prices continued to soar.",LABEL_2,0.8160867094993591
+20,"oil production outside opec also leveled off last year, contrary to earlier expectations for continued growth.",LABEL_2,0.9958483576774597
+21,"with the background of strong demand and limited spare capacity, both actual production disruptions and concerns about the reliability and security of future oil supplies have contributed to the volatility in oil prices.",LABEL_1,0.5607040524482727
+22,"even before last year's hurricanes, however, a mismatch appeared to be emerging between the incremental supply of crude oil, which tended to be heavy and sulfurous, and the demand by refiners for light, sweet crude, which can be converted more easily into clean-burning transportation fuels.",LABEL_2,0.8667228817939758
+23,these developments have highlighted the need for additional investments in refining capacity to bridge the gap between upstream supply and final demand.,LABEL_0,0.6617772579193115
+24,"we can safely assume that world economic growth, together with the rapid pace of industrialization in china, india, and other emerging-market economies, will generate increasing demand for oil and other forms of energy.",LABEL_2,0.5538927316665649
+25,"in all likelihood, growth in the demand for energy will be tempered to some extent by continued improvements in energy efficiency which, in turn, will be stimulated by higher prices and ongoing concerns about the security of oil supplies.",LABEL_1,0.9990528225898743
+26,"still, as the global economic expansion continues, substantial growth in the use of oil and other energy sources appears to be inevitable.",LABEL_1,0.9966233372688293
+27,"in addition, today's proved reserve figures ignore not only the potential for new discoveries but also the likelihood that improved technologies and higher oil prices will increase the amount of oil that can be economically recovered.",LABEL_1,0.9457604885101318
+28,"in both the developed and the developing world, another factor holding back investment in oil infrastructure has been concern on the part of producers that oil prices might fall back as they did in the 1980s and 1990s.",LABEL_0,0.9915927648544312
+29,"in light of that recognition, some oil producers have been reluctant to launch exploration projects even with today's high prices.",LABEL_1,0.8887268900871277
+30,"in the 1990s, the u.s. spot price of natural gas at the henry hub averaged about $2 per million btu.",LABEL_2,0.7804167866706848
+31,"however, in recent years, the united states has seen a marked increase in the price of natural gas.",LABEL_1,0.9989883303642273
+32,"the average spot price climbed to nearly $9 per million btu in 2005, with the price spiking to $15 per million btu following hurricanes katrina and rita.",LABEL_1,0.982140302658081
+33,"so far this year, natural gas prices have fallen back to around $7 per million btu as an unusually warm winter curtailed consumption and boosted natural gas in storage to record levels.",LABEL_1,0.9727092981338501
+34,futures markets currently anticipate that the price of natural gas will be about $9 per million btu next year.,LABEL_2,0.9901243448257446
+35,"why have natural gas prices risen so sharply over the past few years, and why are they expected to remain elevated?",LABEL_1,0.9976915121078491
+36,"as with oil, high prices of natural gas reflect strong demand and diminished supplies.",LABEL_1,0.9967648983001709
+37,"demand for natural gas in north america has remained strong in recent years, particularly as environmental concerns have led clean-burning natural gas to become the fuel of choice for new electricity generation.",LABEL_1,0.9361873269081116
+38,"moreover, increases in oil prices have boosted the demand for energy substitutes such as natural gas.",LABEL_1,0.9983978271484375
+39,"increased trade can often mitigate price increases, but net imports of natural gas from canada, which currently account for around 16 percent of u.s. consumption, have failed to increase in response to higher prices.",LABEL_1,0.9393585920333862
+40,"both u.s. and canadian gas fields have matured and are yielding smaller increases in output, despite the incentive of high prices and a substantial increase in the number of drilling rigs in operation.",LABEL_1,0.9845299124717712
+41,"thus, natural gas prices are likely to remain elevated for at least the coming few years.",LABEL_1,0.9965410232543945
+42,"given time, these developments could serve to lower natural gas prices in the united states significantly.",LABEL_0,0.9983887672424316
+43,"nonetheless, because of the higher costs of producing these supplies relative to the traditional sources of natural gas, as well as the elevated cost of other energy sources such as oil, natural gas prices seem unlikely to return to the level of the 1990s.",LABEL_1,0.896246075630188
+44,"thus, the supply-demand fundamentals seem consistent with the view now taken by market participants that the days of persistently cheap oil and natural gas are likely behind us.",LABEL_2,0.9712715744972229
+45,economic and policy implications of increased energy priceswhat are the economic implications of the higher energy prices that we are experiencing?,LABEL_1,0.9985927939414978
+46,"in the long run, higher energy prices are likely to reduce somewhat the productive capacity of the u.s. economy.",LABEL_1,0.9980462193489075
+47,"all else being equal, these effects tend to restrain the growth of labor productivity, which in turn implies that real wages and profits will be lower than they otherwise would have been.",LABEL_0,0.9990237355232239
+48,"for the medium term at least, the higher bill for oil imports will increase the u.s. current account deficit, implying a greater need for foreign financing.",LABEL_1,0.9895559549331665
+49,"under the assumption that energy prices do not move sharply higher from their already high levels, these long-run effects, though clearly negative, appear to be manageable.",LABEL_2,0.9959516525268555
+50,"and conservation and the development of alternative energy sources will, over the long term, ameliorate some of the effects of higher energy prices.",LABEL_1,0.9699305891990662
+51,"moreover, ongoing productivity gains arising from sources such as technological improvements are likely to exceed by a significant margin the productivity losses created by high energy prices.",LABEL_1,0.9596766829490662
+52,"in the short run, sharply higher energy prices create a rather different and, in some ways, a more difficult set of economic challenges.",LABEL_1,0.9987335205078125
+53,"indeed, a significant increase in energy prices can simultaneously slow economic growth while raising inflation.",LABEL_1,0.9987768530845642
+54,an increase in oil prices slows economic growth in the short run primarily through its effects on consumer spending.,LABEL_1,0.9969040155410767
+55,"because the united states imports much of the oil that it consumes, an increase in oil prices is, as many economists have noted, broadly analogous to the imposition of a tax on u.s. residents, with the revenue from the tax going to oil producers abroad.",LABEL_1,0.9985482096672058
+56,"the imported oil bill jumped again last year by an additional $70 billion, and given the price increases we have experienced in 2006, it appears on track to increase $50 billion further at an annual rate in the first half of this year.",LABEL_1,0.9987543225288391
+57,it is a tribute to the underlying strength and resiliency of the u.s. economy that it has been able to perform well despite the drag from increased energy prices.,LABEL_1,0.9620197415351868
+58,"at the same time that higher oil prices slow economic growth, they also create inflationary pressures.",LABEL_1,0.9984309673309326
+59,"higher prices for crude oil are passed through to increased prices for the refined products used by consumers, such as gasoline and heating oil.",LABEL_1,0.9984236359596252
+60,"when oil prices rise, people may try to substitute other forms of energy, such as natural gas, leading to price increases in those alternatives as well.",LABEL_1,0.998723566532135
+61,"the rise in prices paid by households for energy--for example for gasoline, heating oil, and natural gas--represent, of course, an increase in the cost of living and in price inflation.",LABEL_1,0.9987268447875977
+62,this direct effect of higher energy prices on the cost of living is sometimes called the first-round effect on inflation.,LABEL_1,0.9984442591667175
+63,"in addition, higher energy costs may have indirect effects on the inflation rate--if, for example, firms pass on their increased costs of production in the form of higher consumer prices for non-energy goods or services or if workers respond to the increase in the cost of living by demanding higher nominal wages.",LABEL_1,0.9989038705825806
+64,"a jump in energy costs could also increase the public's longer-term inflation expectations, a factor that would put additional upward pressure on inflation.",LABEL_1,0.9991331696510315
+65,these indirect effects of higher energy prices on the overall rate of inflation are called second-round effects.,LABEL_1,0.9980045557022095
+66,the overall inflation rate reflects both first-round and second-round effects.,LABEL_2,0.995709240436554
+67,"economists and policymakers also pay attention to the so-called core inflation rate, which excludes the direct effects of increases in the prices of energy (as well as of food).",LABEL_2,0.5372104644775391
+68,"by stripping out the first-round inflation effects, core inflation provides a useful indicator of the second-round effects of increases in the price of energy.",LABEL_2,0.8649489283561707
+69,"in the past, notably during the 1970s and early 1980s, both the first-round and second-round effects of oil-price increases on inflation tended to be large, as firms freely passed on rising energy costs to consumers, workers reacted to the surging cost of living by ratcheting up their wage demands, and longer-run expectations of inflation moved up quickly.",LABEL_1,0.999103307723999
+70,"in this situation, monetary policymaking was extremely difficult because oil-price increases threatened to result in a large and persistent increase in the overall inflation rate.",LABEL_1,0.9990318417549133
+71,"the federal reserve attempted to contain the inflationary effects of the oil-price shocks by engineering sharp increases in interest rates, actions which had the consequence of sharply slowing growth and raising unemployment, as in the recessions that began in 1973 and 1981.",LABEL_0,0.6939433813095093
+72,"since about 1980, however, the federal reserve and most other central banks have worked hard to bring inflation and expectations of inflation down.",LABEL_0,0.8981042504310608
+73,an important benefit of these efforts is that the second-round inflation effect of a given increase in energy prices has been much reduced.,LABEL_1,0.8136851787567139
+74,"to the extent that households and business owners expect that the fed will keep inflation low, firms have both less incentive and less ability to pass on increased energy costs in the form of higher prices, and likewise workers have less incentive to demand compensating increases in their nominal wages.",LABEL_2,0.8285144567489624
+75,"as i noted in remarks last week, although the rate of pass-through of higher energy and other commodity prices to core consumer price inflation appears to have remained relatively low in the current episode--reflecting the inflation-fighting credibility built by the fed in recent decades the cumulative increases in energy and commodity prices have been large enough that they could account for some of the recent pickup in core inflation.",LABEL_2,0.7198752164840698
+76,"in addition, some survey-based measures of longer-term inflation expectations have edged up, on net, in recent months, as has the compensation for inflation and inflation risk implied by yields on nominal and inflation-indexed government debt.",LABEL_1,0.9989115595817566
+77,"as yet, these expectations measures have remained within the ranges in which they have fluctuated in recent years and inflation compensation implied by yields on government debt has fallen back somewhat in the past month.",LABEL_0,0.9963484406471252
+78,"in conclusion, energy prices have moved up considerably since the end of 2002, reflecting supply and demand factors.",LABEL_1,0.9988400340080261
+79,"in the short run, prices are likely to remain high in an environment of strong world economic growth and a limited ability to increase energy supplies.",LABEL_2,0.7300655245780945
+80,"moreover, prices are likely to be volatile in the near term, given the small margins of excess capacity to produce crude oil or natural gas that traditionally have buffered short-run shifts in supply and demand.",LABEL_2,0.9974278211593628
+81,"the higher relative prices of energy will create incentives for businesses to create new, energy-saving technologies and for energy consumers to adopt them.",LABEL_1,0.9987109899520874

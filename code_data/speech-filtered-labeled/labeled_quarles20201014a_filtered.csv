@@ -1,0 +1,9 @@
+Unnamed: 0,sentence,label,score
+0,"i will start with some brief remarks about the current economic situation and monetary policy and then turn to the actions that the federal reserve has taken this year to help ensure that the banking system remains a source of strength during the recovery from the covid event, the term i use for the complex set of responses in both the private and public sectors to the outbreak of covid-19.",LABEL_0,0.9903346300125122
+1,"the labor market remains deeply depressed, and employment is far short of the federal reserve's maximum employment goal.",LABEL_0,0.9989371299743652
+2,we are also keenly aware that the harm from higher unemployment has fallen even more than usual on those low-income households least able to bear it.,LABEL_0,0.9989029169082642
+3,"inflation is well below our 2 percent longer-run goal, and some measures of inflation expectations have ticked down.",LABEL_1,0.962255597114563
+4,"therefore, at the september federal open market committee (fomc) meeting, i voted in favor of the new and clearer forward guidance for monetary policy because it will provide additional support for the recovery.1 indeed, interest-rate and credit-sensitive sectorsâ€”business spending, home sales, auto sales, and other ""big-ticket"" itemsâ€”have helped fuel that recovery.",LABEL_0,0.9991430640220642
+5,"for monetary policy to fully support main street, we need a well-capitalized, stable banking system that is lending to creditworthy households and businesses.",LABEL_0,0.9985662698745728
+6,"as the crisis intensified in early march, banks stepped into the breach and met the massive demands for cash from businesses that drew on their preexisting credit lines.",LABEL_0,0.9946515560150146
+7,"interest rates are likely to remain very low for quite some time, putting downward pressure on banks' net interest margins and their profitability more generally.",LABEL_0,0.9992340803146362

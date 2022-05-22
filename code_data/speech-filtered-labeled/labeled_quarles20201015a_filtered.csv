@@ -1,0 +1,18 @@
+Unnamed: 0,sentence,label,score
+0,"output growth was solid, and unemployment was at a 50-year low.",LABEL_1,0.9336138367652893
+1,"in late 2019, market participants were telling us that the most salient risks to the u.s. economy were from trade frictions, the challenges facing monetary policy given the proximity of interest rates to their effective lower bound, and market liquidity.1 then the covid event unfolded.",LABEL_0,0.9968782663345337
+2,"this was a trigger for what became a rapid change in market sentiment, as investors began to prepare for what was beginning to seem might be a significant slowdown in economic activity.",LABEL_0,0.995332658290863
+3,"as other european governments began to adopt travel bans, lockdowns, and school closures, there was a surging demand for safe assets.",LABEL_0,0.997181236743927
+4,"with fears of a widespread economic slowdown proliferating in late february and early march, treasury prices rose and yields fell sharply, as usually happens when the economic outlook worsens.",LABEL_0,0.99726402759552
+5,"and as often happens when a shock leads to a surging demand for safe assets, some risky assets became very difficult to sell.",LABEL_0,0.9612142443656921
+6,"these actions can lead to sharp declines in asset prices and impair the ability of businesses to fund their operations, leading to strains across the financial system and declines in employment and spending.",LABEL_0,0.9992780685424805
+7,"and, the structure of the treasury market has evolved substantially in recent years, with the growth of high-speed and algorithmic trading, and a growing share of liquidity provided by new entrants alongside established broker-dealers.",LABEL_1,0.6070860624313354
+8,"during this dash for cash, treasury prices fell and yields increased, a surprising development since treasury prices usually rise when investors try to shed risk in the face of bad news or financial stress, reflecting their status as the ultimate safe asset.",LABEL_0,0.9925223588943481
+9,"first, in march, many businessesâ€”unable to satisfy their large cash demand through cp or corporate bond issuance, for the reasons i described earlierâ€”drew down on their existing credit lines with banks in order to raise cash.",LABEL_0,0.9907858967781067
+10,"the inflow of deposits resulted from increased demand for safe haven assets, reflecting confidence in u.s. banks.",LABEL_0,0.9905664920806885
+11,"effectively, the ability of creditworthy households, businesses, and state and local governments to borrow, even at elevated interest rates, was threatened.",LABEL_1,0.9965406060218811
+12,"fundamentally, each measure was designed to address an aspect of the pressures created by the large demand for cash in the real economy and the temporarily limited willingness of financial firms to provide it.",LABEL_1,0.8527739644050598
+13,"our liquidity facilities relieved pressure on markets created by mass liquidations of assets driven by the demand for cash, as did our direct purchases of treasuries.",LABEL_0,0.997986912727356
+14,our credit facilities satisfied the cash demand of borrowers more directly.,LABEL_0,0.8418161869049072
+15,"in addition, we have to ask: what can be done to improve treasury market functioning over the longer term so that this market can withstand a large shock to demand or supply?",LABEL_2,0.9360371232032776
+16,the covid event precipitated the most abrupt decline in u.s. and global economic activity in recorded history.,LABEL_0,0.9966127872467041

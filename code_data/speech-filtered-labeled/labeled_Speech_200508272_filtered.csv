@@ -1,0 +1,17 @@
+Unnamed: 0,sentence,label,score
+0,"monetary policy, supervision and regulation activities, and payments system operation will need to be calibrated to respond to the influences of that technological change.",LABEL_2,0.9899064302444458
+1,"monetary policy, for example, cannot ignore the potential inflationary pressures inherent in our current fiscal outlook, especially those that could arise in meeting commitments to future retirees.",LABEL_1,0.9976204037666321
+2,"however, i assume that these imbalances will be resolved before stark choices again confront us and that, if they are not, the fed would resist any temptation to monetize future fiscal deficits.",LABEL_0,0.9980767369270325
+3,we had too much experience with the dangers of inflation in the 1970s to tolerate going through another bout of dispiriting stagflation.,LABEL_2,0.711525559425354
+4,"as part of that process, house turnover will decline from currently historic levels, while home price increases will slow and prices could even decrease.",LABEL_0,0.9490967988967896
+5,"the surprisingly high correlation between increases in home equity extraction and the current account deficit suggests that an end to the housing boom could induce a significant rise in the personal saving rate, a decline in imports, and a corresponding improvement in the current account deficit.",LABEL_1,0.9868546724319458
+6,"on monetary policy, i envision a continuous refinement of our risk-management paradigm.",LABEL_2,0.9947689771652222
+7,"i presume maximum sustainable economic growth will continue to be our goal, with price stability pursued as a necessary condition to promote that goal.",LABEL_2,0.5455869436264038
+8,"to date, we have chosen not to formulate explicit inflation targets, in part, out of concern that they could inhibit the effective pursuit of our goal.",LABEL_2,0.8434410691261292
+9,i remain unpersuaded that explicit numerical inflation targets are a key characteristic that distinguishes behavior among the world's central banks.,LABEL_2,0.9809353351593018
+10,"despite the various public characterizations of the form of monetary policy regime, the federal reserve and most other central banks generally pursue price stability and, consistent with that goal, ease when economic conditions soften and tighten when they firm.",LABEL_0,0.9965221881866455
+11,debates on the relative merits of asset price targeting also will continue and possibly intensify in the years ahead.,LABEL_2,0.9749439358711243
+12,the configuration of asset prices is already an integral part of our evaluation of the large array of forces that influence financial stability and economic growth.,LABEL_2,0.9992138743400574
+13,"but given our current state of knowledge, i find it difficult to envision central banks successfully targeting asset prices any time soon.",LABEL_0,0.8451365828514099
+14,"however, i certainly do not rule out that future work could improve our understanding of asset price behavior, and with it, the conduct of monetary policy.",LABEL_2,0.9941030740737915
+15,"aside from its technical expertise in supervision and regulation and in overseeing an increasingly complex payments system, it combines for monetary policy an academic sophistication and a market-sensitive understanding that is brought to bear in formulating the tie between instruments and the goals of monetary policy.",LABEL_2,0.9847332239151001

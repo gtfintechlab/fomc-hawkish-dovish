@@ -1,0 +1,13 @@
+Unnamed: 0,sentence,label,score
+0,"since the panel published its report, commercial real estate losses and the risk to financial stability, one year ago, the rate of deterioration in market and credit conditions has leveled off, and there are some early signs of price stabilization in a number of key markets.",LABEL_2,0.5554578900337219
+1,"weakness in real estate markets, both commercial and residential, continues to be a drag on overall growth in the economy.",LABEL_0,0.999203085899353
+2,"in addition, proper restructuring can reduce the damage done to businesses and the economy by limiting the forced liquidation of commercial properties that would further depress prices.",LABEL_0,0.9973328113555908
+3,recent readings from cre price indexes indicate that the rate of price declines has slowed substantially.,LABEL_2,0.7337898015975952
+4,"in contrast, the index indicated that prices as of the third quarter of 2010 were only 0.2 percent lower than they were at the beginning of the year.",LABEL_2,0.9813770055770874
+5,"however, the degree of price stabilization across different types of properties and locations is uneven.",LABEL_2,0.9984768033027649
+6,"in particular, demand has been rebounding for well-occupied properties in top-tier markets, while less desirable properties in less favorable markets are still struggling from a lack of demand.",LABEL_2,0.8671882748603821
+7,"since the issuance of the october 2009 supervisory guidance on prudent loan workouts, banks have significantly increased the level of restructuring of cre loans.5 economic incentives to restructure or refinance existing loans are aided by the current low interest rate environment.",LABEL_0,0.9993383884429932
+8,some banks with properties in healthier markets are also beginning to see a pick-up in investor demand for high-quality properties with strong tenants.,LABEL_1,0.6302599906921387
+9,"while we can project potential losses facing banks, losses ultimately realized through this cycle will depend on the pace of improvement in the labor market, overall credit availability, and other macroeconomic and financial factors, especially unemployment rates and interest rates.",LABEL_2,0.8554943203926086
+10,we are also seeing signs of price stabilization in a number of cre markets.,LABEL_2,0.9978828430175781
+11,"while problems in the cre market will be an ongoing concern for a number of banking organizations and a negative factor for economic growth and lending, we do not see cre losses as a threat to systemically important financial institutions.",LABEL_0,0.9903964400291443

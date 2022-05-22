@@ -1,0 +1,6 @@
+Unnamed: 0,sentence,label,score
+0,"we have regularly met the public's heightened demand for u.s. currency in peak seasons or in extraordinary situations, such as natural disasters.",LABEL_1,0.9683681130409241
+1,we believe this increase in the level of currency should be ample to meet the public's demand for extra cash during the period surrounding the century rollover.,LABEL_1,0.9888836145401001
+2,"while we do not anticipate any extraordinary demand for cash, we believe it is important that the public have complete confidence that sufficient supplies of currency will be available.",LABEL_1,0.5304637551307678
+3,"in effect, the federal reserve is accelerating the timing of currency printing; we are planning for a possible short-lived increased demand for cash and will be able to reduce future print orders to lower-than-normal levels.",LABEL_1,0.4756563603878021
+4,"as we monitor the public's demand for currency, we can introduce other measures to further increase cash levels.",LABEL_1,0.9971938729286194

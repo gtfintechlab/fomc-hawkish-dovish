@@ -1,0 +1,6 @@
+Unnamed: 0,sentence,label,score
+0,equity prices and credit terms in liquid markets corroborate these improved fundamentals.,LABEL_2,0.9979143142700195
+1,"and for these firms, financial market conditions appear quite supportive of economic growth.",LABEL_2,0.9953693151473999
+2,"unemployment remains high, and stubbornly so.",LABEL_1,0.8850871920585632
+3,"small and medium-sized enterprises, which have tended to lead recoveries, are still hesitant to expand--revenue growth is tepid, costs are uncertain, and credit conditions remain more difficult than for large firms.",LABEL_0,0.9831429123878479
+4,increases in government expenditures around the world--ostensibly instituted as a bulwark against further economic weakness--are raising fiscal deficits significantly.,LABEL_0,0.7269642353057861

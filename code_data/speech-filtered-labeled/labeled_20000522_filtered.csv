@@ -1,0 +1,10 @@
+Unnamed: 0,sentence,label,score
+0,"this would clearly hinder the central bank from reaching its goals of achieving maximum sustainable long-term growth for the economy by maintaining low and stable inflation and promoting a safe, sound, competitive, and accessible banking system.",LABEL_0,0.9958295226097107
+1,"one outgrowth of this competition and erosion of return is the tendency for loan officers to grant loans on the basis that the current exceptionally strong financial conditions are the most likely, and perhaps nearly guaranteed, scenario going forward.",LABEL_0,0.9668288230895996
+2,"as a supervisory response, we are stepping up oversight of those individual institutions that have higher concentrations of commercial and construction loans, especially in markets in which growth has been particularly strong and those in which vacancy rates appear to be rising.",LABEL_1,0.9900805354118347
+3,"at the same time that credit risk may be rising largely unseen within bank loan portfolios, interest rate risk also appears to be on the uptick.",LABEL_1,0.9963220953941345
+4,"previously, conventional wisdom among community bankers was that taking on assets having longer maturities, such as fixed-rate mortgage loans and pass-throughs, was undesirable and entailed too much interest rate risk.",LABEL_1,0.8647701740264893
+5,"today, there appears to be a marked change in attitude regarding interest rate risk.",LABEL_1,0.9647142887115479
+6,"shrinking interest margins for many institutions as rates have risen, as well as the results of our surveillance screens, further confirm the rising levels of interest rate risk.",LABEL_1,0.9980727434158325
+7,"consequently, we are scrutinizing more carefully the management of interest rate risk and have found that most banks appear to be fully aware of and responsive to the need to understand and manage the risk they are taking.",LABEL_2,0.64935702085495
+8,it is our belief that more complete and analytically useful disclosures can help the marketplace to interpret risk profiles and price debt and equity more appropriately.,LABEL_2,0.996528685092926

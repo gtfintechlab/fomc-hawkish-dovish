@@ -1,0 +1,19 @@
+Unnamed: 0,sentence,label,score
+0,but the growth in credit card use as a source of finance among nonwhites was substantial.,LABEL_1,0.9947222471237183
+1,without any question the most important economic development has been a decline in the underlying rate of inflation and the consequent decline in medium- and long-term interest rates.,LABEL_0,0.999029815196991
+2,"and, when one considers mortgage market innovations that have eased traditional underwriting constraints, the increased opportunity that results from lower inflation and lower long-term rates is even more amplified.",LABEL_0,0.9984773993492126
+3,there is a school of thought among some politicians that fighting inflation is bad for low- and moderate-income people.,LABEL_0,0.9498739242553711
+4,"but the reduction in inflation during the 1980s and the continuation of that policy during the 1990s, has done more for homeownership opportunities among low- and moderate-income groups than any program administered by the government.",LABEL_0,0.9898303747177124
+5,it is important to stress the differential impact of inflation between those who already have their homes and those who are seeking to buy.,LABEL_2,0.597074568271637
+6,our system of long-term fixed interest rates and the home mortgage interest deduction makes increasing inflation highly profitable to those who already have financed their homes.,LABEL_1,0.9960185885429382
+7,that is why we all grew up being taught that homes were a great inflation hedge.,LABEL_2,0.7800111174583435
+8,"if, however, you are simply in the market for physical shelter and not a tax shelter or inflation shelter, high inflation, and consequently higher long-term interest rates, prices you out of qualifying for a home.",LABEL_1,0.9983349442481995
+9,"thus, a low-inflation environment is a key to maintaining homeownership opportunities.",LABEL_2,0.5609731078147888
+10,"while the commitment of the federal reserve to preserving a low-inflation environment is unwavering, i cannot assure you that all politicians feel the same way.",LABEL_0,0.9969596862792969
+11,nor can i guarantee you that sustaining the fight against inflation will not mean a temporary rise in interest rates at some time in the future.,LABEL_1,0.9981076717376709
+12,the price paid for this gamble on redeveloping downtown was a reduction in the availability of low-income housing.,LABEL_0,0.9982808828353882
+13,"this system would work well from a financing point of view until the mid-sixties, primarily because of stable interest rates, favorable demographics, and general prosperity.",LABEL_2,0.9783716797828674
+14,"on the economic side, the combination of inflation and government regulation of interest rates produced rapid disintermediation of funds out of the housing market in the late 1960s.",LABEL_0,0.7686120271682739
+15,"it also authorized section 235, allowing hud to provide mortgage assistance to allow the interest rate paid by the buyer to be as low as 1 percent and the downpayment to be as low as $200.",LABEL_0,0.9973281025886536
+16,the economics most closely resembles the 1950s cycle of low interest rates coupled with low inflation.,LABEL_0,0.9966849088668823
+17,"first, i think that it is vital for all of us to realize that a low-inflation environment is crucial to urban redevelopment and homeownership opportunities for low- and moderate-income individuals.",LABEL_0,0.9255066514015198

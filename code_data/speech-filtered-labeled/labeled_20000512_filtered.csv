@@ -1,0 +1,39 @@
+Unnamed: 0,sentence,label,score
+0,recent growth trends the national economy is enjoying an impressive period of economic prosperity.,LABEL_2,0.6554474830627441
+1,"national income, after adjusting for inflation, has grown about one-third since 1991--or about 3½ percent per year.",LABEL_1,0.9022893309593201
+2,growth in florida has been even more impressive.,LABEL_1,0.7873740792274475
+3,"the recession associated with the gulf war had a disproportionate impact on florida's growth, and your state started the decade with a slightly deeper recession than the rest of the southeast and the nation as a whole.",LABEL_0,0.998055100440979
+4,year-over-year employment growth in florida has outstripped that of the rest of both the southeast and the united states since 1992.,LABEL_2,0.589444637298584
+5,"the recent job growth and prosperity of the state has been powered by two components of services, tourism and back-office type business services.",LABEL_2,0.9299530982971191
+6,"there was a dramatic surge in service-sector growth beginning in 1997 that was associated with expansions of capacity in orlando and, to a lesser extent, miami.",LABEL_2,0.8920936584472656
+7,"as i have said recently, on the national level, and possibly in florida as well, the dominant force of late appears to have been a significant upshift in the rate of productivity growth.",LABEL_2,0.9327396750450134
+8,"having increased 1.6 percent per year from 1990 to 1995, output per hour in the nonfarm business sector--a conventional measure of productivity--has risen at an annual pace of about 2.6 percent since 1995.",LABEL_1,0.8532679677009583
+9,cyclical forces--such as the inability of businesses to add to their payrolls as rapidly as they would have liked in response to the rise in demand--have probably played some role in these efficiency gains.,LABEL_1,0.8020575046539307
+10,"through this increase in productivity, our national economy has successfully prepared itself to take advantage of the rapid globalization that has characterized the current economic expansion.",LABEL_2,0.8289271593093872
+11,i believe that this productivity increase might not have occurred were it not for the policy adjustments that were started in the late 1970s and are continuing even today.,LABEL_2,0.9531657695770264
+12,"in the end, free trade, deregulation, sound fiscal policy, and sound monetary policy have all played a role in the strength of the u.s. economy.",LABEL_0,0.9857051372528076
+13,"predictably, the new communications technology has brought with it a growth of new markets.",LABEL_2,0.6536900997161865
+14,the cost of growth economic transformation has not come without cost.,LABEL_2,0.6863624453544617
+15,"schumpeter saw that economies continually bounce from one growth path to another, all the time remaking themselves.",LABEL_2,0.9981805086135864
+16,"as they move toward higher levels of productivity, they necessarily make other production technologies obsolete.",LABEL_2,0.6452491879463196
+17,they have had the effect of directing or misdirecting economic growth by either substituting policymakers' judgment regarding the distribution of an economy's assets for the combined wisdom of individuals or allowing markets to send false signals.,LABEL_2,0.7578917145729065
+18,"the economic policies of the last century a very broad reading of economic history reveals that policymakers in many countries during the last century attempted to manipulate trade and other forms of economic activity by altering, artificially, the measures of value, that is, prices.",LABEL_2,0.9482788443565369
+19,"one such policy followed by some countries during the last century was known as the ""beggar thy neighbor"" policy, the manipulation of the exchange rate in order to boost a country's exports.",LABEL_1,0.9929730892181396
+20,a final example from the international sphere is the system of global fixed exchange rates that emerged following the second world war.,LABEL_2,0.9087900519371033
+21,"to blunt market forces, fixed exchange rates were usually accompanied by capital controls that tried to manage the inflows--and more importantly the outflows--of a nation's investment funds.",LABEL_2,0.869346559047699
+22,"ultimately, this system of global fixed exchange rates worked poorly and could not withstand the market forces that emerged in the 1970s.",LABEL_2,0.9901924133300781
+23,"finally, some central banks in the past engaged in policies that artificially altered the path of domestic prices in their effort to regulate their business cycles.",LABEL_1,0.877607524394989
+24,"if the monetary authority wanted more growth above trend, it lowered money-market interest rates by expanding the stock of money.",LABEL_0,0.5545299649238586
+25,such policies were expected to bolster demand and encourage an acceleration of growth.,LABEL_1,0.996815025806427
+26,there was the misunderstanding that somehow a long-run tradeoff existed between inflation and unemployment.,LABEL_2,0.9980314373970032
+27,"but it gradually became understood that inflation eroded investor and consumer confidence and distorted behavior, both because the average of prices gave a constantly depreciating reading of the values it was supposed to represent and because relative prices provided an inaccurate reflection of comparative worth.",LABEL_2,0.825317919254303
+28,monetary policies that intended to create growth through the inflation of prices ended up impeding markets and reducing economic prosperity.,LABEL_1,0.9945774674415588
+29,we now know that there is no long-run tradeoff between inflation and unemployment.,LABEL_2,0.9936894178390503
+30,the u.s. experience of the last several years has also taught us that low and stable inflation is the underpinning for sustainable growth and that sustainable growth fosters the maximum creation of jobs over time.,LABEL_2,0.9637769460678101
+31,"emergence of the communications era in recent decades, trade restrictions, ""beggar thy neighbor"" policies, and the pursuit of a supposed long-run tradeoff between inflation and unemployment have all been called into question and generally rejected.",LABEL_0,0.4941245913505554
+32,"in part because of the communications revolution and the substantially reduced costs of transacting from great distances, businesses have sought more globally integrated production processes, and investors have required the development of financial instruments to facilitate their demand for international portfolio diversification.",LABEL_0,0.9868482947349548
+33,"regarding monetary policy, central banks around the world are now endeavoring to provide stability to their domestic price levels.",LABEL_0,0.9945791363716125
+34,"in some cases, this focus on price stability was undertaken in order to return credibility to the central bank after a period of unacceptable inflationary pressures.",LABEL_1,0.9978214502334595
+35,"the federal reserve, with our mandate, must also seek to facilitate the transmission of the information that the price level is meant to convey.",LABEL_2,0.963243842124939
+36,this is a monetary policy that does not attempt to alter the information being transmitted by the marketplace but to increase its clarity and consistency.,LABEL_1,0.8434838056564331
+37,policies for a communications era--a local perspective this perspective on economic policy extends beyond the establishment of the national monetary policy that occupies much of my time.,LABEL_2,0.9925214648246765

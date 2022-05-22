@@ -1,0 +1,8 @@
+Unnamed: 0,sentence,label,score
+0,the u.s. mint is responsible for manufacturing an adequate volume of coin to meet the public's demand for transactions.,LABEL_1,0.7038620114326477
+1,it determines annual coin production and monitors reserve bank inventories to identify trends in coin demand.,LABEL_2,0.9973315596580505
+2,depository institutions order coin from the reserve banks to meet their customers' demand.,LABEL_0,0.575372576713562
+3,"reserve banks normally fill these orders from their inventories by first paying out circulated coin, and once the inventory of previously circulated coin is depleted, using new coin to meet demand.",LABEL_1,0.8912999033927917
+4,golden dollar demand the federal reserve and the mint worked together to meet high public demand for the golden dollar during the first months following its early 2000 introduction.,LABEL_1,0.9875394105911255
+5,demand remained strong throughout 2000 but declined to an average monthly net payment of $16 million during 2001.,LABEL_2,0.9810954332351685
+6,"at the end of april, reserve banks had sufficient inventories to fulfill all dollar coin orders for more than a year, assuming demand stays at its current level, without taking into consideration future dollar coin deposits that will be returned to the federal reserve from the banking industry.",LABEL_0,0.990196943283081

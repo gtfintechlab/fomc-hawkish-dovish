@@ -1,0 +1,4 @@
+Unnamed: 0,sentence,label,score
+0,"like many of my international counterparts in the audience, i maintain a deep commitment to cross-border banking and efficient movement of capital and liquidity, which are important contributors to long-term economic growth.",LABEL_1,0.6029239892959595
+1,"flexibility, or the ability to allocate capital and liquidity to different parts of the group on an as-needed basis, helps to meet unexpected demands on resources and reduces the risk of misallocation and inefficient use of resources.",LABEL_2,0.8884186148643494
+2,"yet i would also argue that home regulators should recognize host jurisdictions may take action to restrict the flow of resources, or worse yet, demand resources in the moment of crisis, even if the stress does not originally emanate from their location.",LABEL_0,0.9532735347747803

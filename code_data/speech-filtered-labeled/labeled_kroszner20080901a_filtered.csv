@@ -1,0 +1,15 @@
+Unnamed: 0,sentence,label,score
+0,"differences in â€œtoolsâ€ have been much discussed recently, in both the abstract (such as how the goals of monetary policy are set and communicated) and the operational (such as the structure of facilities used to provide liquidity to the financial system).",LABEL_2,0.7887919545173645
+1,"moving into 2008, concerns about potential spillovers from slower u.s. growth and weaknesses in the financial system weighed increasingly on advanced economy equity markets.",LABEL_0,0.9989404082298279
+2,"as the step-down in growth of gross domestic product (gdp) in a number of advanced economies became apparent, we also began to see reduced growth and prospects for growth in many emerging market economies, and stock markets in emerging economies declined sharply.",LABEL_0,0.9969756603240967
+3,"throughout the world, the challenges posed by weakening economic activity were further complicated by mounting inflationary pressures as food and energy prices soared.",LABEL_1,0.9989270567893982
+4,"when domestic markets for goods and services are unrestricted and open to sellers worldwide and when supply adjusts efficiently to meet changes in demand, costs to consumers are minimized.",LABEL_2,0.9876664280891418
+5,the recent sharp increases in global food prices have underscored the importance of reducing barriers to trade in agricultural products.,LABEL_1,0.9989988207817078
+6,"given the urgent need to expand the global food supply to meet burgeoning world demand, it is particularly unfortunate that these negotiations were unable to make progress.",LABEL_1,0.9838808178901672
+7,"for example, in two cases that i will discuss today, some observers have concluded, first, that the united states is able to borrow on highly advantageous terms to finance its external deficits and, second, that the united states receives a much higher return on its foreign investments than other countries receive on their investments in the united states.",LABEL_0,0.6252627372741699
+8,"as is well known, the united states has been running large current account deficits for many years.",LABEL_0,0.9960393905639648
+9,financing these deficits has required substantial borrowing from abroad.,LABEL_0,0.9984866380691528
+10,"however, the net increase in u.s. liabilities has been quite small relative to the cumulated current account deficits.",LABEL_1,0.763220489025116
+11,"to be more specific, over the past six years, the united states has run current account deficits that add up to over $3.8 trillion, and these deficits have required an equivalent amount of financing from the foreign sector.",LABEL_0,0.9928069710731506
+12,"over the same period, u.s. net liabilities increased by only $600 billion, which is $3.2 trillion less than the cumulated current account deficits.3 (see figure 4.)",LABEL_2,0.9806024432182312
+13,about $2.4 trillion of this divergence is due to valuation adjustments (capital gains) favoring u.s. claims; these adjustments arise from observed movements in asset prices and the dollar.,LABEL_2,0.966431736946106

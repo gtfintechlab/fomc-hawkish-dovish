@@ -1,0 +1,14 @@
+Unnamed: 0,sentence,label,score
+0,the riegle-neal act eliminated barriers to growth across state lines.,LABEL_1,0.9821982383728027
+1,"robust growth in loans and deposits has contributed to banks' strong profits, as has strong fee income, including mortgage origination and servicing revenues.",LABEL_1,0.9592134356498718
+2,"i like to use a productivity measure for banks called the efficiency ratio, which measures what proportion of total revenue is eaten up by overhead costs.",LABEL_2,0.9965821504592896
+3,"they are sometimes called ""affordability products"" because the low payment can make it possible for some households to qualify for higher-priced homes that they could not afford using traditional thirty-year fixed-rate mortgages.",LABEL_0,0.9224539995193481
+4,"the credit risk concern is, of course, that households stretching to qualify for loans will be severely challenged if, for example, interest rates rise, causing the adjustable rate on a hybrid loan to reset at a much higher rate.",LABEL_1,0.9940342307090759
+5,"another concern is that despite the lower monthly payment, the households will eventually have to repay or refinance the principal on these loans, whether or not the current home price is sustained.",LABEL_0,0.9928029775619507
+6,this increase continues a remarkable trend in which commercial real estate--or cre--lending has accounted for virtually all asset growth at community banks.,LABEL_2,0.756106972694397
+7,"in 2001 and 2002, growth in cre loans as a whole accounted for two-thirds of overall asset growth at community banks.",LABEL_2,0.6887729167938232
+8,"in 2003 and 2004, cre lending represented essentially all of that asset growth.",LABEL_2,0.9469009637832642
+9,"the continued rapid growth in cre lending was accompanied by declines in securities holdings, home equity loans, and other consumer loans.",LABEL_0,0.977668285369873
+10,this pattern of sustained and one-dimensional asset growth naturally raises questions about potential concentrations of credit risk in cre loans.,LABEL_1,0.993558406829834
+11,"these questions are most striking in markets where commercial vacancy rates are particularly high, where competition among lenders is most intense, or where potentially overheated home-price conditions have contributed to a sharp expansion in new-home construction.",LABEL_1,0.9937103390693665
+12,"the sharp growth in construction lending, which is predominantly variable rate, is one element that has allowed community bank loan yields to keep up with their funding costs.",LABEL_1,0.9917026162147522

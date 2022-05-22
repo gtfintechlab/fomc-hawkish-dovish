@@ -1,0 +1,6 @@
+Unnamed: 0,sentence,label,score
+0,"second, to reduce the downside risks to growth emanating from the tightening of credit, the fed, in a series of moves that began last september, has significantly lowered its target for the federal funds rate.",LABEL_0,0.999042809009552
+1,"indeed, earlier this month, in an unprecedented joint action with five other major central banks and in response to the adverse implications of the deepening crisis for the economic outlook, the federal reserve again eased the stance of monetary policy.",LABEL_0,0.9992914795875549
+2,"the ability to secure funding is a fundamental task in banking, and banks have been managing expected liquidity demands since the beginning of banking itself.",LABEL_0,0.7245941162109375
+3,"bank directors and senior management need to anticipate potential difficulties in funding the bank, and demand that solid contingency plans are in place--and are regularly updated--for a variety of funding and liquidity problems.",LABEL_0,0.9901102185249329
+4,"preparing for sudden changes in the pricing and availability at any price of funding sources is something that, leading up to the current turmoil, most banks did not fully consider.",LABEL_2,0.9637131094932556

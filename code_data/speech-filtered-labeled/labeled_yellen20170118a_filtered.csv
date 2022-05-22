@@ -1,0 +1,73 @@
+Unnamed: 0,sentence,label,score
+0,"i'll mention our principal duties and then focus on one--monetary policy, the responsibility that gets the most public attention.",LABEL_2,0.958031177520752
+1,"in addition to monetary policy, we--in collaboration with other regulatory agencies at both the federal and state levels--oversee banks and some other financial institutions to ensure they operate safely and soundly and treat their customers fairly.",LABEL_0,0.9977394342422485
+2,we also reliably and safely process trillions of dollars of payments for the nation's banks and the federal government and ensure that banks have an ample supply of currency and coin to meet the demands of their depositors.,LABEL_0,0.9860106110572815
+3,"but, as i noted, monetary policy draws the most headlines.",LABEL_0,0.6311628818511963
+4,"what is monetary policy, exactly?",LABEL_2,0.944376528263092
+5,"simply put, it consists of central bank actions aimed at influencing interest rates and financial conditions more generally.",LABEL_1,0.9601880311965942
+6,"but monetary policy cannot, by itself, create a healthy economy.",LABEL_0,0.9414244294166565
+7,i've said what monetary policy cannot do.,LABEL_0,0.9512550830841064
+8,"nearly 40 years ago, the congress set two main guideposts for that task--maximum employment and price stability.",LABEL_2,0.6149393916130066
+9,"when the economy is weak and unemployment is on the rise, we encourage spending and investing by pushing short-term interest rates lower.",LABEL_0,0.9990660548210144
+10,"as you may know, the interest rate that we target is the federal funds rate, the rate banks charge each other for overnight loans.",LABEL_0,0.8948614597320557
+11,"lowering short-term rates in turn puts downward pressure on longer-term interest rates, making credit more affordable--for families, for instance, to buy a house or for businesses to expand.",LABEL_0,0.992246150970459
+12,"similarly, when the economy is threatening to push inflation too high down the road, we increase interest rates to keep the economy on a sustainable path and lean against its tendency to boom and then bust.",LABEL_1,0.9922198057174683
+13,"but what exactly do the terms ""maximum employment"" and ""price stability"" mean?",LABEL_2,0.9303460717201233
+14,does maximum employment mean that every single person who wants a job has a job?,LABEL_2,0.761016845703125
+15,this so-called frictional unemployment is evident even in the healthiest of economies.,LABEL_0,0.9850735068321228
+16,then there is structural unemployment--a difficult problem both for the people affected and for policymakers trying to address it.,LABEL_0,0.9952275156974792
+17,these are factors over which monetary policy has little influence.,LABEL_0,0.714563250541687
+18,other measures--such as job training and other workforce development programs--are better suited to address structural unemployment.,LABEL_0,0.9975086450576782
+19,"after taking account of both frictional and structural unemployment, what unemployment rate is roughly equivalent to the maximum level of employment that can be sustained in the longer run?",LABEL_2,0.99648517370224
+20,"it's important to try to estimate the unemployment rate that is equivalent to maximum employment because persistently operating below it pushes inflation higher, which brings me to our price stability mandate.",LABEL_2,0.429513156414032
+21,does price stability mean having no inflation whatsoever?,LABEL_2,0.9956615567207336
+22,"by ""price stability,"" we mean a level of inflation that is low and stable enough that it doesn't need to figure prominently into people's and businesses' economic decisions.",LABEL_2,0.9936221241950989
+23,"based on research and decades of experience, we define that level as 2 percent a year--an inflation objective similar to that adopted by most other major central banks.1 individual prices, of course, move up and down by more than 2 percent all the time.",LABEL_2,0.9849135875701904
+24,they allow supply and demand to adjust for various goods and services.,LABEL_2,0.9990660548210144
+25,"by ""inflation,"" we mean price changes as a whole for all of the various goods and services that households consume.",LABEL_2,0.9945741295814514
+26,"no one likes high inflation, and it is easy to understand why.",LABEL_1,0.9978778958320618
+27,"although wages and prices tend to move in tandem over long periods, inflation erodes household purchasing power if it is not matched with similar increases in wages, and it eats away the value of households' savings.",LABEL_1,0.9907094836235046
+28,"so, then, why don't we and other central banks aim for zero inflation?",LABEL_0,0.9918978214263916
+29,"there are several technical reasons, but a more fundamental reason is to create a buffer against the opposite of inflation--that is, deflation.",LABEL_2,0.7865301966667175
+30,"deflation is a general and persistent decline in the level of prices, a phenomenon americans last experienced during the great depression of the 1930s and one that japan has confronted for most of the past two decades.",LABEL_0,0.9833645224571228
+31,i am sure we all remember learning in school about farm families in the great depression who couldn't pay their mortgages and lost their homes and their livelihoods when crop prices fell persistently.,LABEL_0,0.9980469346046448
+32,another important reason to maintain a modest inflation buffer is that too low inflation impairs the ability of monetary policy to counter economic downturns.,LABEL_0,0.9993876218795776
+33,"when inflation is very low, interest rates tend to be very low also, even in good times.",LABEL_0,0.98776775598526
+34,"and when interest rates are generally very low, the fed has only limited room to cut them to help the economy in bad times.",LABEL_0,0.999221682548523
+35,"in a nutshell, the fed's goal is to promote financial conditions conducive to maximum employment and price stability.",LABEL_0,0.998493492603302
+36,"unemployment peaked at 10 percent late in 2009, a level unseen for more than 25 years, and didn't move below 8 percent for nearly three years.",LABEL_2,0.9161534309387207
+37,"falling home prices put millions of homeowners ""underwater,"" meaning they owed more on their mortgages than their homes were worth.",LABEL_0,0.9971659779548645
+38,"the extraordinarily severe recession required an extraordinary response from monetary policy, both to support the job market and prevent deflation.",LABEL_0,0.9992153644561768
+39,we cut our short-term interest rate target to near zero at the end of 2008 and kept it there for seven years.,LABEL_0,0.9991909265518188
+40,"to provide further support to american households and businesses, we pressed down on longer-term interest rates by purchasing large amounts of longer-term treasury securities and government-guaranteed mortgage securities.",LABEL_0,0.9979981780052185
+41,"and we communicated our intent to keep short-term interest rates low for a long time, thus increasing the downward pressure on longer-term interest rates, which are influenced by expectations about short-term rates.",LABEL_0,0.9991507530212402
+42,"now, it's fair to say, the economy is near maximum employment and inflation is moving toward our goal.",LABEL_2,0.9057184457778931
+43,"the unemployment rate is less than 5 percent, roughly back to where it was before the recession.",LABEL_2,0.5483624339103699
+44,"although inflation has been running below our 2 percent objective for quite some time, we have seen it start inching back toward 2 percent last year as the job market continued to improve and as the effects of a big drop in oil prices faded.",LABEL_0,0.6896564364433289
+45,"last month, at our most recent meeting, we took account of the considerable progress the economy has made by modestly increasing our short-term interest rate target by 1/4 percentage point to a range of 1/2 to 3/4 percent.",LABEL_0,0.8457204699516296
+46,what i can tell you is what we expect--along with a very large caveat that our interest rate expectations will change as our outlook for the economy changes.,LABEL_2,0.9945866465568542
+47,"our foot remains on the pedal in part because we want to make sure the economic expansion remains strong enough to withstand an unexpected shock, given that we don't have much room to cut interest rates.",LABEL_0,0.9989103078842163
+48,"in addition, inflation is still running below our 2 percent objective, and, by some measures, there may still be some room for progress in the job market.",LABEL_0,0.9192779660224915
+49,"for instance, wage growth has only recently begun to pick up and remains fairly low.",LABEL_2,0.9324614405632019
+50,a broader measure of unemployment isn't quite back to its pre-recession level.,LABEL_0,0.9398582577705383
+51,"nevertheless, as the economy approaches our objectives, it makes sense to gradually reduce the level of monetary policy support.",LABEL_0,0.9992138743400574
+52,changes in monetary policy take time to work their way into the economy.,LABEL_2,0.9619840383529663
+53,"waiting too long to begin moving toward the neutral rate could risk a nasty surprise down the road--either too much inflation, financial instability, or both.",LABEL_1,0.9960182309150696
+54,"in that scenario, we could be forced to raise interest rates rapidly, which in turn could push the economy into a new recession.",LABEL_0,0.9374640583992004
+55,but a longer-term trend--slow productivity growth--helps explain why we don't think dramatic interest rate increases are required to move our federal funds rate target back to neutral.,LABEL_0,0.9964558482170105
+56,"labor productivity--that is, the output of goods and services per hour of work--has increased by only about 1/2 percent a year, on average, over the past six years or so and only 1-1/4 percent a year over the past decade.",LABEL_2,0.9988402724266052
+57,that contrasts with the previous 30 years when productivity grew a bit more than 2 percent a year.,LABEL_2,0.998214840888977
+58,this productivity slowdown matters enormously because americans' standard of living depends on productivity growth.,LABEL_2,0.8534965515136719
+59,"with productivity growth of 2 percent a year, the average standard of living will double roughly every 35 years.",LABEL_1,0.6970998048782349
+60,but productivity growth of 1 percent a year means the average standard of living will double only every 70 years.,LABEL_2,0.6158921122550964
+61,economists do not fully understand the causes of the productivity slowdown.,LABEL_0,0.9610802531242371
+62,"while each of these factors has likely played a role in slowing productivity growth, the extent to which they will continue to do so is an open question.2 why does slow productivity growth, if it persists, imply a lower neutral interest rate?",LABEL_0,0.9990389943122864
+63,"first, it implies that the economy's usual rate of output growth, when employment is at its maximum and prices are stable, will be significantly slower than the post-world war ii average.",LABEL_2,0.6313924789428711
+64,"slower economic growth, in turn, implies businesses will see less need to invest in expansion.",LABEL_0,0.9977746605873108
+65,"because interest rates are the mechanism that brings the supply of savings and the demand for investment funds into balance, more saving and less investment imply a lower neutral interest rate.",LABEL_0,0.9929625391960144
+66,"although we can't directly measure the neutral interest rate, it is something that can be estimated in retrospect.",LABEL_2,0.9964573979377747
+67,"if you are a borrower, it means that, although the interest rates you pay on, say, your auto loan or mortgage or credit card likely will creep higher, they probably will not increase dramatically.",LABEL_1,0.9965781569480896
+68,"at the end of the day, we all benefit from plentiful jobs and stable prices, whether we are savers or borrowers--and many of us, of course, are both.",LABEL_2,0.8714330792427063
+69,"economics and monetary policy are, at best, inexact sciences.",LABEL_2,0.9940186142921448
+70,figuring out what the neutral interest rate is and setting the right path toward it is not like setting the thermostat in a house: you can't just set the temperature at 68 degrees and walk away.,LABEL_2,0.9979343414306641
+71,"and, because changes in monetary policy affect the economy with long lags sometimes, we must base our decisions on our best forecasts of an uncertain future.",LABEL_2,0.7702623605728149

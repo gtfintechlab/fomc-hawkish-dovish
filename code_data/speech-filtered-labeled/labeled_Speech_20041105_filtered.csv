@@ -1,0 +1,10 @@
+Unnamed: 0,sentence,label,score
+0,"for asset-liability management purposes, historical cost accounting better reflects the use of the available-for-sale portfolio to hedge this type of interest rate risk.",LABEL_0,0.8241957426071167
+1,the guidance also permits sales for unexpected and significant changes in liquidity needs or for increases in interest rates.,LABEL_1,0.9986950159072876
+2,"but the trigger for recognizing impairments for changes in interest rates under eitf 03-1 would no longer be an intent to sell, but rather whether the investor no longer intends to hold the security until fair value recovers to its amortized cost.",LABEL_0,0.6853674054145813
+3,"significant growth in structured transactions, collateralized debt obligations, and credit derivatives are just a few examples of the significant developments over the past several years.",LABEL_1,0.5423895716667175
+4,the present value of the estimated future net cash flows attempts to anticipate prepayments of mortgages due to forecasted changes in interest rates.,LABEL_2,0.7357119917869568
+5,"the lack of observable market prices, differences in modeling assumptions, expectations of future events and market conditions, and customer behavior make the task of assigning appropriate valuations very difficult.",LABEL_2,0.9989372491836548
+6,"certainly, a noncomplex instrument that is highly liquid and that has an observable market price is easier to value with more precision than a highly complex, illiquid instrument.",LABEL_2,0.996074378490448
+7,the statute generally prohibits a bank from conditioning the availability or price of one product on a requirement that a customer also obtain another product that is not a traditional bank product from the bank or an affiliate of the bank.,LABEL_2,0.7661784291267395
+8,the statute and the federal reserve board's regulations expressly permit a bank to condition the availability or price of a product or service on a requirement that the customer also obtain one or more traditional bank products from the bank or an affiliate.,LABEL_0,0.6735736131668091

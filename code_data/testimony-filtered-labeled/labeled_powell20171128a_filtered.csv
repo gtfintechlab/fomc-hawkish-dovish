@@ -1,0 +1,7 @@
+Unnamed: 0,sentence,label,score
+0,my views on a wide range of monetary policy and regulatory issues are on the public record in speeches and testimonies during my service at the fed.,LABEL_1,0.8330782651901245
+1,"and, almost exactly 40 years ago, it assigned us monetary policy goals: maximum employment, meaning people who want to work either have a job or are likely to find one fairly quickly; and price stability, meaning inflation is low and stable enough that it need not figure into households' and businesses' economic decisions.",LABEL_0,0.8425019979476929
+2,"among them, we affirm our numerical inflation objective annually and publish our economic and interest rate projections quarterly.",LABEL_2,0.998928964138031
+3,"i am a strong supporter of this institutional structure, which helps ensure a diversity of perspectives on monetary policy and helps sustain the public's support for the federal reserve as an institution.",LABEL_0,0.997366189956665
+4,our aim is to sustain a strong jobs market with inflation moving gradually up toward our target.,LABEL_1,0.7314299941062927
+5,we expect interest rates to rise somewhat further and the size of our balance sheet to gradually shrink.,LABEL_1,0.6843884587287903

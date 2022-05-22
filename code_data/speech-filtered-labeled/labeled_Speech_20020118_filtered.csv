@@ -1,0 +1,8 @@
+Unnamed: 0,sentence,label,score
+0,"in particular, advances in technology, increased competition, deregulation, and low interest rates have served as important catalysts in improving access to credit, particularly for lower-income and minority populations and communities.",LABEL_0,0.9989714622497559
+1,"this rapid growth has given access to consumers who were not previously served by credit markets, either because they had difficulty in meeting the underwriting criteria of prime lenders or for other reasons.",LABEL_0,0.9315338730812073
+2,but sometimes the payments implicit in very high interest rates can spell financial ruin for borrowers.,LABEL_1,0.9797603487968445
+3,responses to concerns the disturbing accounts of borrowers becoming financially crippled by unaffordable mortgage arrangements have generated a demand for action.,LABEL_0,0.9860994219779968
+4,"in turn, these demands have provoked heated debates about particular policy responses because of the complexity of mortgage lending and concerns that unduly onerous legal and regulatory barriers could diminish the availability of credit in the subprime market.",LABEL_1,0.865828812122345
+5,"hoepa defines high cost in terms of threshold levels for interest rate, points, and fees.",LABEL_1,0.6352325677871704
+6,"as with the legislative and financial remedies discussed earlier, this response is designed to curtail abusive mortgage lending practices without hampering the growth of the legitimate subprime market.",LABEL_0,0.7362120151519775

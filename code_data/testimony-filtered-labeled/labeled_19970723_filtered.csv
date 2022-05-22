@@ -1,0 +1,98 @@
+Unnamed: 0,sentence,label,score
+0,"i am well aware that, despite the recent good performance of the economy, some members of this committee have reservations about the conduct of monetary policy, specifically the decision to raise the federal funds rate 1/4 percentage point on march 25.",LABEL_1,0.7562618255615234
+1,achieving price stability in the long run and preventing an increase in inflation in the short run are not ends in themselves.,LABEL_1,0.9933154582977295
+2,"they are a means to the end, important because they are the best way that the federal reserve can contribute to achieving the highest sustainable level of production and the maximum sustainable rate of growth for the american people.",LABEL_1,0.749527096748352
+3,"the best way to insure the durability of this expansion is, therefore, to be vigilant that we do not allow the economy to overheat and produce the inevitable rise in inflation.",LABEL_1,0.9987484812736511
+4,"failure to heed this lesson of history would result not only in higher inflation, but also in cyclical instability and higher unemployment rates.",LABEL_1,0.9984986782073975
+5,"monetary policy has laid the groundwork of stable, low inflation--an environment conducive to long-term planning by households and businesses.",LABEL_0,0.9527567028999329
+6,fiscal policy has helped lower the deficit and thus has increased national saving and reduced its competition for funds with the private sector.,LABEL_0,0.9979477524757385
+7,growth over the last year has been among the strongest in the past decade.,LABEL_1,0.6418029069900513
+8,the unemployment rate has declined to the lowest level in a quarter century.,LABEL_0,0.9972556233406067
+9,inflation is the lowest in more than 30 years.,LABEL_0,0.9953716993331909
+10,equity prices have soared.,LABEL_1,0.9961398839950562
+11,"herein lie the challenges: first, how do we explain such favorable performance, and specifically what accounts for the favorable combination of low inflation and low unemployment?",LABEL_2,0.913553774356842
+12,"second, what can monetary policy do to help extend the good performance; specifically, how should monetary policy be positioned in light of the uncertainties in the current environment so as to balance what i call regularities and possibilities – regularities that suggest there are limits to the economy’s productive capacity, at any point in time, and to the growth of capacity over time and possibilities that suggest these limits may have become more flexible in recent years.",LABEL_2,0.979953408241272
+13,in recent years monetary policy has not simply been guided by historical regularities about the relationship between inflation and unemployment inherited from the 1980s and early 1990s.,LABEL_2,0.9965015649795532
+14,"rather, monetary policy has been adaptive, pragmatic and flexible in response to evolving economic circumstances.",LABEL_2,0.801413357257843
+15,"key issues in the economic outlook the economy appears to have slowed to near a trend rate in the second quarter, after surprisingly robust growth in the previous quarter.",LABEL_2,0.9991317987442017
+16,"there is solid momentum in employment and income, financial conditions are highly supporting, and consumer confidence has soared to record levels.",LABEL_1,0.9828603267669678
+17,"i do not see any obstacles to the continuation of the expansion, with growth near trend, through 1998.",LABEL_2,0.9946818351745605
+18,"there are in my judgment two key issues in the outlook related to monetary policy and these focus on the interaction among growth, utilization rates and inflation.",LABEL_2,0.9990538358688354
+19,"first, will growth rebound to an above-trend rate, raising utilization rates still further?",LABEL_1,0.9829300045967102
+20,"second, are prevailing utilization rates already so high that inflation will begin to rise, even if growth remains at trend?",LABEL_1,0.998986005783081
+21,"they are the key questions that affected my judgment about the appropriate posture of monetary policy over the last year, and they remain relevant today.",LABEL_2,0.9698904156684875
+22,nairu stands for non-accelerating inflation rate of unemployment.,LABEL_1,0.8363277912139893
+23,"the relationship between inflation and unemployment, based on nairu, is called the phillips curve.",LABEL_2,0.9771168231964111
+24,"according to this concept, there is some threshold level of the unemployment rate (nairu) at which supply and demand are balanced in the labor market (and perhaps in the product market as well).",LABEL_2,0.9971504807472229
+25,this balance yields a constant inflation rate.,LABEL_2,0.9716580510139465
+26,you asked what the relationship was between full employment and inflation.,LABEL_2,0.9908392429351807
+27,"in this model, there is no relationship between full employment and inflation.",LABEL_2,0.9990100264549255
+28,"at full employment, defined as the rate of unemployment equal to nairu, inflation is constant, but any constant level of inflation is possible at full employment.",LABEL_2,0.9908388257026672
+29,the rate of inflation in the long run is therefore not determined by the unemployment rate at all.,LABEL_2,0.996173083782196
+30,it is determined by the rate of growth of the money supply.,LABEL_2,0.925532341003418
+31,this of course gives monetary policy unique responsibility for inflation in the long run.,LABEL_1,0.8281509876251221
+32,"if the unemployment rate falls below this threshold, inflation rises over time, indefinitely, progressively, and without limit.",LABEL_1,0.9984543919563293
+33,"it is a process that feeds upon itself, because once inflation begins to rise, further price increases feed into wage increases.",LABEL_1,0.999023973941803
+34,the basic framework is based on supply and demand.,LABEL_2,0.9987204074859619
+35,"at nairu, supply and demand are balanced, so inflation is stable, matched by expected inflation.",LABEL_2,0.9961483478546143
+36,the trigger for increases in inflation is excess demand for labor and goods.,LABEL_1,0.9981460571289062
+37,"the unemployment rate is a proxy for the balance between supply and demand in the labor market, for the degree of excess demand.",LABEL_2,0.9976023435592651
+38,"historically the balance between supply and demand in the product market – that is, for final goods and services--has closely paralleled the balance in the labor market, so that the unemployment rate has effectively summarized the relationship between supply and demand in both the product market and the labor market.",LABEL_2,0.9170671701431274
+39,"more recently, there has been a run of over-predictions, beginning in late 1994 for wages and the last year or so for prices.",LABEL_2,0.8925222754478455
+40,these errors are the very heart of the challenge of explaining the recent surprisingly favorable performance and of the challenge of setting monetary policy today.,LABEL_2,0.9956173300743103
+41,all those represented in the table view nairu as a central and important concept for forecasting inflation and identifying long-run values to which the actual unemployment rate will gravitate.,LABEL_2,0.9969387054443359
+42,"for example, in its budget projections, cbo is very disciplined in assuming that the unemployment rate gradually gravitates to nairu.",LABEL_0,0.9971373677253723
+43,"if we begin with an unemployment rate below their estimate of nairu, cbo assumes a period of below-trend growth to allow the unemployment rate to return to their estimate of nairu and to prevent on ongoing increase in the rate of inflation.",LABEL_2,0.9891481995582581
+44,"outside estimates of the current nairu and trend gdp growth (percent) organization nairu trend gdp growth macro advisers 5.9 2.2 dri 5 3/4 2.3 cea 5.5 2.1 cbo 5.8 2.1 gordon15.4-5.5 2.2 in the conduct of monetary policy, the process of analysis is more decentralized.",LABEL_2,0.9984442591667175
+45,"there is no single model or forecast, no single measure of nairu (not everyone on the fomc even believes that the concept is useful), no single measure of trend growth.",LABEL_2,0.9989097714424133
+46,"once the economy has moved to capacity, the maximum sustainable growth rate is limited by the rate at which productive capacity expands over time.",LABEL_2,0.9437308311462402
+47,this limit is generally referred to as trend growth.,LABEL_2,0.9516372084617615
+48,"once full employment is reached, the labor force expands with increases in the working age population, augmented by any trend in the labor force participation rate.",LABEL_1,0.8752002716064453
+49,the contribution of growth in capital stock and of technological improvements is summarized in the growth in labor productivity.,LABEL_2,0.8896129131317139
+50,the accompanying table also provides outside estimates of trend growth.,LABEL_2,0.9985864758491516
+51,about half of the increase in trend gdp is attributable to the long-term trend in labor force growth and about half to the long-term trend in productivity growth.,LABEL_2,0.9967687726020813
+52,the narrowness of the range of estimates in this table should not suggest the absence of an important degree of uncertainty about trend growth and i will consider in the next section some reasons why trend growth could turn out to be higher.,LABEL_2,0.8845348358154297
+53,"if output grows faster than the trend rate, demand increases relative to supply and resource utilization rates will rise.",LABEL_1,0.9984354376792908
+54,"at some point, above-trend growth will raise utilization rates to a point where excess demand puts upward pressure on inflation.",LABEL_1,0.9989014863967896
+55,note that trend growth does not cause inflation.,LABEL_2,0.9851647615432739
+56,"the higher the trend rate of growth, the better, as chairman greenspan noted yesterday in his testimony.",LABEL_1,0.9963534474372864
+57,"and while above-trend growth itself does not raise inflation, it does raise utilization rates which, after some point, will result in higher inflation.",LABEL_1,0.9985500574111938
+58,how do you explain the recent favorable performance of inflation and unemployment?,LABEL_2,0.9982068538665771
+59,"in the final analysis, we have to make monetary policy before we have all the answers, though we can and do constantly review our models in light of new data to refine our thinking.",LABEL_2,0.9985759854316711
+60,"the clearest and perhaps the most important factor is the temporary confluence of favorable supply shocks over the last couple of years; by favorable supply shocks, i refer to developments that have recently lowered the prices or slowed the rate of increase in the prices of specific goods, unrelated to the overall balance between supply and demand in u.s. labor and product markets.",LABEL_0,0.7027091979980469
+61,"first, non-oil import prices have declined, due in large measure to the appreciation of the dollar from mid 1995 through early 1997.",LABEL_1,0.9732139110565186
+62,this has both lowered the price of imported goods and constrained the pricing power of domestic firms that compete with imports.,LABEL_0,0.9925662279129028
+63,"third, most recently, energy prices have declined sharply this year and food prices are increasing less rapidly.",LABEL_0,0.9845905900001526
+64,"fourth, the price of computers is falling even faster, reflecting, in part, the rapid pace of technical change.",LABEL_2,0.9918228387832642
+65,some believe the collection of these temporary factors fully accounts for the recent favorable performance of inflation and such a view is not entirely implausible.,LABEL_2,0.9955373406410217
+66,i noted above that the change in utilization rates in the labor and goods markets (the unemployment rate and the capacity utilization rate) usually mirror one another over the cycle.,LABEL_2,0.9993236064910889
+67,"this divergence is likely related to another defining feature of this expansion, the investment boom which has raised the level of net investment to the point where the capital stock is expanding rapidly, raising capacity and preventing the increase in demand from overtaking supply.",LABEL_1,0.9376142621040344
+68,"the unemployment rate is signaling that the labor market is tight; but the capacity utilization rate indicates that supply and demand are well balanced, at least in the industrial sector of the economy.",LABEL_2,0.9985401630401611
+69,"as a result, there has been some upward pressure on wages, but no pass-through to higher price inflation.",LABEL_1,0.9987078309059143
+70,"firms report an absence of pricing leverage because nothing gives a firm pricing power like excess demand and there is no apparent excess demand for u.s. firms, especially in the global market place where there is plenty of slack abroad.",LABEL_2,0.9971519708633423
+71,the most intriguing explanations of the recent favorable performance are structural changes which may have expanded the limits to productive capacity and trend growth.,LABEL_2,0.9909629225730896
+72,"these possibilities come in two forms: structural change in the labor market which lowers nairu and structural change in the product market, specifically higher productivity growth, which, at least temporarily also lowers the nairu, and which pushes out the limit of trend growth.",LABEL_2,0.7373150587081909
+73,one explanation for why we can sustain stable inflation with lower unemployment is the worker insecurity hypothesis.,LABEL_2,0.989117443561554
+74,"as a result, workers have been willing to accept some restraint on their real wages in order to increase their prospects of remaining employed, leading to a more moderate rate of increase in wages than would otherwise have occurred at any given rate of unemployment.",LABEL_1,0.9783413410186768
+75,an example of a product market structural change would be an increase in trend productivity growth.,LABEL_1,0.8185573220252991
+76,"it can explain why we are in a midst of an investment boom, why the profit share of income has been rising, why inflation is so well contained, and why stock prices have soared.",LABEL_2,0.9627957344055176
+77,it is true that productivity has increased more rapidly recently.,LABEL_1,0.9627030491828918
+78,"this is not clear-cut evidence of a shift in the productivity trend, however, because productivity normally accelerates when output growth rises, as it has over the last year.",LABEL_2,0.6731002330780029
+79,"there is, however, some support for the view that we are experiencing a speed-up in the trend rate of productivity growth.",LABEL_1,0.9347459077835083
+80,"for example, if we measure productivity from the income side rather than the product side of the national accounts, we do observe a sharper acceleration in productivity.",LABEL_2,0.9429312348365784
+81,this income-side measure of productivity provides at least a tantalizing hint of an increase in trend productivity growth.,LABEL_2,0.9671230316162109
+82,"during the period from june 1996, when i joined the board, through february 1997, utilization rates had remained in a very narrow range, in the case of the unemployment rate only a shade below my estimate of nairu.",LABEL_2,0.919839084148407
+83,recall that the unemployment rate averaged 5.4% in 1996.,LABEL_1,0.7237899899482727
+84,"there was some risk that utilization rates were already so high that inflation might increase over time, but this risk was not clear enough, in my judgment, to justify action.",LABEL_1,0.9973339438438416
+85,"i viewed growth as either close to trend already or about to slow to trend, implying that there was negligible risk that utilization rates would rise further.",LABEL_2,0.9994274377822876
+86,"so, before march 25, the federal reserve’s posture was one of ""watchful waiting,"" but with an asymmetric directive, based on the judgment that the risks were weighted toward higher inflation.",LABEL_1,0.9990041851997375
+87,"in march, my view was that there was sufficient momentum in growth to justify a forecast that utilization rates would rise materially further, in the absence of a change in policy.",LABEL_1,0.9985194206237793
+88,"the policy action was clearly a preemptive one, not based on inflation pressures evident at the time, but on inflation pressures likely to emerge in the absence of policy action.",LABEL_1,0.9966141581535339
+89,"as the chairman has repeatedly emphasized, lags in the response to monetary policy make it imperative that monetary policy be forward looking and anticipatory, not backward looking and reactive.",LABEL_0,0.9963910579681396
+90,"one of the principles of prudent monetary policy management, in my judgment, is to lean gently against the cyclical winds.",LABEL_0,0.9976333975791931
+91,"this means that when growth is above trend and utilization rates are increasing, it is often prudent to allow short-term rates to rise.",LABEL_1,0.9933601021766663
+92,monetary policy should not sit on interest rates and wait until the economy blows by capacity and inflation takes off.,LABEL_1,0.636909008026123
+93,"to do so would risk a serious boom-bust cycle, and would require abrupt and decisive increases in interest rates later to regain control of inflation.",LABEL_1,0.9991557598114014
+94,growth was much stronger in the first quarter than i had anticipated and appears to have slowed to trend in the second quarter.,LABEL_2,0.9974404573440552
+95,the legacy of the robust first-quarter growth was a decline in the unemployment rate to below 5% in the second quarter.,LABEL_0,0.9873402118682861
+96,"i call the march 25 move, as a result, ""just-in-time"" monetary policy.",LABEL_0,0.9828011393547058

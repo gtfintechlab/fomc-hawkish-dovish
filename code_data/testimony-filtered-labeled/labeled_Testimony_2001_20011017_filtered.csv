@@ -1,0 +1,11 @@
+Unnamed: 0,sentence,label,score
+0,"aggregate measures of production, employment, and business spending continued to be weak in august.",LABEL_0,0.9941699504852295
+1,"as the initial shock began to wear off, economic activity recovered somewhat from the depressed levels that immediately followed the attacks, though the recovery has been uneven.",LABEL_2,0.9894635081291199
+2,it was essential in such an environment to meet all appropriate demands for dollar liquidity.,LABEL_0,0.9926510453224182
+3,"to cushion these effects, we have eased the stance of monetary policy appreciably since september 11.",LABEL_0,0.9989786148071289
+4,the shock of the tragedies at the world trade center and the pentagon has reshaped those assessments of risk and required an abrupt realignment of prices in many markets to reflect the expected costs of operating in what we now recognize as a more hostile world.,LABEL_0,0.47746390104293823
+5,"in this regard, increased security threats, not pooled through insurance, have exactly the opposite effect on productivity than that which is gained by an improvement in information technology.",LABEL_2,0.5303470492362976
+6,"but these adjustments in prices and in the associated allocation of resources, when complete, represent one-time level adjustments, without necessary implications for our longer-term growth prospects.",LABEL_2,0.9986160397529602
+7,the level of productivity will presumably undergo a one-time downward adjustment as our economy responds to higher levels of perceived risk.,LABEL_0,0.6047122478485107
+8,"but once the adjustment is completed, productivity growth should resume at rates in excess of those that prevailed in the quarter-century preceding 1995.",LABEL_2,0.997245192527771
+9,"our productivity measures have always endeavored to capture increased productive efficiency, not increased well-being.",LABEL_2,0.99757319688797

@@ -1,0 +1,3 @@
+Unnamed: 0,sentence,label,score
+0,"consumer reports are used for credit, insurance, employment, and certain other limited purposes.",LABEL_2,0.9409449100494385
+1,"as chairman greenspan observed, ""[l]imits on the flow of information among financial market participants, or increased costs resulting from restrictions that differ based on geography, may lead to an increase in the price or a reduction in the availability of credit[.",LABEL_1,0.9983662366867065

@@ -1,0 +1,7 @@
+Unnamed: 0,sentence,label,score
+0,"what appeared to be a successful locking of currencies onto the dollar over a period of years in east asia, led, perhaps inevitably, to large borrowings of cheaper dollars to lend, unhedged, at elevated domestic interest rates that reflected unheeded devaluation risk premiums.",LABEL_1,0.9978381395339966
+1,"when the amount of such unhedged dollar borrowings finally became excessive, as was almost inevitable, the exchange rate broke.",LABEL_1,0.9857065677642822
+2,the heightened sensitivity of exchange rates of emerging economies under stress would be of less concern if banks and other financial institutions in those economies were strong and well capitalized.,LABEL_0,0.9103026390075684
+3,"product and asset prices, interest rates, debt by maturity, and detailed accounts of central banks and private enterprises are among the signals so essential to the effective functioning of a global economy.",LABEL_2,0.996865451335907
+4,"this short-sighted approach ignores the insurance imbedded in long-term debt, insurance that is almost always well worth the price.",LABEL_0,0.8711817264556885
+5,"if the confidence of domestic residents is undermined, they can generate demands for foreign exchange that would not be captured in this analysis.",LABEL_1,0.9713579416275024

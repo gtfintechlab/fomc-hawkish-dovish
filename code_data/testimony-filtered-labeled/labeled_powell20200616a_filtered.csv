@@ -1,0 +1,25 @@
+Unnamed: 0,sentence,label,score
+0,"chairman crapo, ranking member brown, and other members of the committee, thank you for the opportunity to present the federal reserve's semiannual monetary policy report.",LABEL_2,0.8725330233573914
+1,"current economic situation and outlook beginning in mid-march, economic activity fell at an unprecedented speed in response to the outbreak of the virus and the measures taken to control its spread.",LABEL_0,0.9734368324279785
+2,"even after the unexpectedly positive may employment report, nearly 20 million jobs have been lost on net since february, and the reported unemployment rate has risen about 10 percentage points, to 13.3 percent.",LABEL_1,0.9928832650184631
+3,"as discussed in the june monetary policy report, low-income households have experienced, by far, the sharpest drop in employment, while job losses of african americans, hispanics, and women have been greater than that of other groups.",LABEL_0,0.9991359114646912
+4,"recently, some indicators have pointed to a stabilization, and in some areas a modest rebound, in economic activity.",LABEL_2,0.9961211681365967
+5,"with an easing of restrictions on mobility and commerce and the extension of federal loans and grants, some businesses are opening up, while stimulus checks and unemployment benefits are supporting household incomes and spending.",LABEL_0,0.9968633651733398
+6,"as a result, employment moved higher in may.",LABEL_1,0.9985079169273376
+7,"that said, the levels of output and employment remain far below their pre-pandemic levels, and significant uncertainty remains about the timing and strength of the recovery.",LABEL_2,0.6985070109367371
+8,long periods of unemployment can erode workers' skills and hurt their future job prospects.,LABEL_0,0.9988923072814941
+9,persistent unemployment can also negate the gains made by many disadvantaged americans during the long expansion and described to us at our fed listens events.,LABEL_0,0.9981690049171448
+10,"the pandemic is presenting acute risks to small businesses, as discussed in the monetary policy report.",LABEL_0,0.9989013671875
+11,"with weak demand and large price declines for some goods and servicesâ€”such as apparel, gasoline, air travel, and hotelsâ€”consumer price inflation has dropped noticeably in recent months.",LABEL_0,0.980758547782898
+12,but indicators of longer-term inflation expectations have been fairly steady.,LABEL_2,0.997894287109375
+13,"as output stabilizes and the recovery moves ahead, inflation should stabilize and then gradually move back up over time closer to our symmetric 2 percent objective.",LABEL_2,0.9809312224388123
+14,inflation is nonetheless likely to remain below our objective for some time.,LABEL_0,0.9983494281768799
+15,"monetary policy and federal reserve actions to support the flow of credit the federal reserve's response to this extraordinary period is guided by our mandate to promote maximum employment and stable prices for the american people, along with our responsibilities to promote the stability of the financial system.",LABEL_0,0.998667299747467
+16,"in march, we quickly lowered our policy interest rate to near zero, reflecting the effects of covid-19 on economic activity, employment, and inflation, and the heightened risks to the outlook.",LABEL_0,0.9975277185440063
+17,we expect to maintain interest rates at this level until we are confident that the economy has weathered recent events and is on track to achieve our maximum-employment and price-stability goals.,LABEL_0,0.9969078302383423
+18,"as described in the june monetary policy report, these purchases have helped restore orderly market conditions and have fostered more accommodative financial conditions.",LABEL_0,0.9990350008010864
+19,"to sustain smooth market functioning and thereby foster the effective transmission of monetary policy to broader financial conditions, we will increase our holdings of treasury securities and agency mortgage-backed securities over coming months at least at the current pace.",LABEL_0,0.9982582330703735
+20,"the june monetary policy report provides details on these facilities, which fall into two categories: stabilizing short-term funding markets and providing more-direct support for credit across the economy.",LABEL_0,0.9987596273422241
+21,"to support the employment and spending of investment-grade businesses, we established two corporate credit facilities.",LABEL_0,0.9968653917312622
+22,the june monetary policy report reviews the implications of these tools for the federal reserve's balance sheet.,LABEL_0,0.6233720183372498
+23,"we will be disclosing, on a monthly basis, names and details of participants in each such facility; amounts borrowed and interest rate charged; and overall costs, revenues, and fees for each facility.",LABEL_2,0.9220382571220398

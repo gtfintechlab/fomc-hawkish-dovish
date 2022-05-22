@@ -1,0 +1,5 @@
+Unnamed: 0,sentence,label,score
+0,"since 2005, pursuant to board changes to regulation c, lenders have also been required to report certain price data on higher-priced loans.",LABEL_1,0.9972090125083923
+1,"based on cost and privacy concerns, however, hmda data lack several factors that lenders routinely use to make credit decisions and set loan prices, such as information about the borrower's creditworthiness and loan-to-value and debt-to-income ratios.",LABEL_2,0.9986733794212341
+2,"the institution purchased loans in which auto dealers had charged higher interest rates, through the use of mark-ups, based upon the race of the borrowers.",LABEL_1,0.9983082413673401
+3,"relevant factors may include: the age or longevity of the business; the track record of the business in terms of sales growth and profitability; the size of the business as measured by employment, sales, and assets; the industry in which the business operates and the risk of lending to businesses in that industry; the experience of the owners of the business; and the personal creditworthiness of the owners of the business.",LABEL_2,0.994219183921814

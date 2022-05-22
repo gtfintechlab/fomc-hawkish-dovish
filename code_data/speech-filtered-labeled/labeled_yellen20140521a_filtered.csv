@@ -1,0 +1,5 @@
+Unnamed: 0,sentence,label,score
+0,a second tool for lifelong intellectual growth is a willingness to listen carefully to others.,LABEL_2,0.5991384983062744
+1,but research indicates that our best measures of these qualities are unreliable predictors of performance in academics or employment.,LABEL_2,0.999193012714386
+2,one aspect of grit that i think is particularly important is the willingness to take a stand when circumstances demand it.,LABEL_1,0.9441648125648499
+3,"to stabilize the financial system and restore economic growth, he took courageous actions that were unprecedented in ambition and scope.",LABEL_0,0.9870315790176392

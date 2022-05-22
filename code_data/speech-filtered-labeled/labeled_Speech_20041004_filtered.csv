@@ -1,0 +1,4 @@
+Unnamed: 0,sentence,label,score
+0,"home-host: global banking, international consensus, and sovereign countries banks with significant cross-border operations have understandable concerns about the prospect of each national supervisor asking different questions about basel ii implementation, demanding different data, applying the rules differently, or taking other actions that increase cost or are inconsistent with the principle of consolidated supervision.",LABEL_1,0.9852704405784607
+1,"host-country supervisors, of course, have the right to demand more capital than may result from such allocations.",LABEL_1,0.9824677109718323
+2,home country supervisors of consolidated entities facing such capital demands are likely to be more tolerant of double leverage or gearing in reflection of this reality.,LABEL_1,0.5891290903091431

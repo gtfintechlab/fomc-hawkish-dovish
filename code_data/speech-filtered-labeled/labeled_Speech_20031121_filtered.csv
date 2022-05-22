@@ -1,0 +1,6 @@
+Unnamed: 0,sentence,label,score
+0,"the lingering effects of the corporate governance scandals, rising oil prices, and growing uncertainties about the economic consequences of a possible war in iraq were holding back the nascent recovery from the 2001 recession.",LABEL_1,0.9947882890701294
+1,"moreover, the federal reserve eased monetary policy an additional 25 basis points in june.",LABEL_0,0.9977290630340576
+2,"by early this summer, a significant amount of monetary and fiscal stimulus was in place, and although there was no evidence in hand at the time, most forecasters anticipated a step-up in the pace of economic activity.",LABEL_1,0.7494559288024902
+3,"indeed, until the most recent employment report, many commentators had described this period as the ""jobless recovery.""",LABEL_2,0.9799445867538452
+4,"given the very slow employment growth in the two years after the past two recessions, should we consider ""jobless recoveries"" to be the new norm?",LABEL_0,0.6071829199790955

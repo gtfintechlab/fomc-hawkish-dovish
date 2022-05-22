@@ -1,0 +1,28 @@
+Unnamed: 0,sentence,label,score
+0,"great uncertainty about the values of financial assets, particularly more complex and opaque assets, has made investors extremely reluctant to bear credit risk, resulting in further declines in asset prices and a drying up of liquidity in a number of funding markets.",LABEL_0,0.9990268349647522
+1,"considerable experience in both industrialized and emerging economies has shown that severe financial instability, together with the associated declines in asset prices and disruptions in credit markets, can take a heavy toll on the broader economy if left unchecked.",LABEL_0,0.998964786529541
+2,"on the heels of nearly a year of stress in credit markets, investors' and creditors' concerns about funding and credit risks at financial firms intensified over the summer as mortgage-related assets deteriorated further, economic growth slowed, and uncertainty about the economic outlook increased.",LABEL_0,0.9984385967254639
+3,"as investors and creditors lost confidence in the ability of certain firms to meet their obligations, their access to capital markets as well as to short-term funding markets became increasingly impaired and their stock prices fell sharply.",LABEL_0,0.9986664652824402
+4,"equity prices have fallen sharply, the cost of short-term credit, where such credit has been available, has spiked, and liquidity has dried up in many markets.",LABEL_1,0.9627706408500671
+5,"at the same time, a marked increase in the demand for safe assets--a flight to quality and liquidity--resulted in a further drop in the value of mortgage-related assets and sent the yield on treasury bills down to a few hundredths of a percent.",LABEL_0,0.9990217089653015
+6,"by potentially restricting future flows of credit to households and businesses, the developments in financial markets pose a significant threat to economic growth.",LABEL_0,0.999000072479248
+7,"the fed has also significantly increased the quantity of funds it auctions to banks and has accommodated heightened demands for funding from banks and primary dealers; as of last wednesday, our various lending facilities, including our securities lending program, were providing more than $800 billion of liquidity to the financial system.",LABEL_0,0.997956395149231
+8,economic activity had shown signs of decelerating even before the recent upsurge in financial-market tensions.,LABEL_1,0.9890637397766113
+9,"however, the slowdown in economic activity has spread outside the housing sector.",LABEL_0,0.9937999248504639
+10,"private payrolls have continued to contract, and the declines in employment, together with earlier increases in food and energy prices, have eroded the purchasing power of households.",LABEL_1,0.9967543482780457
+11,the intensification of financial turmoil and the further impairment of the functioning of credit markets seem likely to increase the restraint on economic activity in the period ahead.,LABEL_0,0.9986889362335205
+12,"all told, economic activity is likely to be subdued during the remainder of this year and into next year.",LABEL_0,0.885040283203125
+13,the heightened financial turmoil that we have experienced of late may well lengthen the period of weak economic performance and further increase the risks to growth.,LABEL_0,0.9869256615638733
+14,"to support growth and reduce the downside risks, continued efforts to stabilize the financial markets are essential.",LABEL_0,0.9799547791481018
+15,"inflation has been elevated, reflecting the steep increases in the prices of oil, other commodities, and imports that occurred earlier this year, as well as some pass-through by firms to consumers of their higher costs of production.",LABEL_1,0.9989848136901855
+16,"however, more recently, the prices of oil and other commodities, while remaining quite volatile, have fallen from their peaks, and prices of imports show signs of decelerating.",LABEL_0,0.9904960989952087
+17,"in addition, expected inflation, as measured by consumer surveys and inflation-indexed treasury securities, has held steady or eased.",LABEL_2,0.9648862481117249
+18,"these recent developments, together with economic activity that is likely to fall short of potential for a time, should lead to rates of inflation more consistent with price stability.",LABEL_1,0.5465025305747986
+19,"still, the inflation outlook remains highly uncertain, in part because of the extraordinary volatility of commodity prices.",LABEL_2,0.9864349365234375
+20,we will need to continue to monitor price developments closely.,LABEL_2,0.9988018870353699
+21,"overall, the combination of the incoming data and recent financial developments suggests that the outlook for economic growth has worsened and that the downside risks to growth have increased.",LABEL_0,0.998670756816864
+22,"at the same time, the outlook for inflation has improved somewhat, though it remains uncertain.",LABEL_2,0.9989620447158813
+23,the tarp's purchases of illiquid assets from banks and other financial institutions will create liquidity and promote price discovery in the markets for these assets.,LABEL_2,0.9015019536018372
+24,"with time, strengthening our financial institutions and markets will allow credit to begin flowing again, supporting economic growth.",LABEL_0,0.9510714411735535
+25,"if the tarp promotes financial stability, leading ultimately to stronger economic growth and job creation, it will have proved a very good investment indeed, to everyone's benefit.",LABEL_2,0.46604886651039124
+26,"to be sure, there are many challenges associated with the design and implementation of the tarp, including determining which assets will be purchased and how prices will be determined.",LABEL_2,0.986744225025177

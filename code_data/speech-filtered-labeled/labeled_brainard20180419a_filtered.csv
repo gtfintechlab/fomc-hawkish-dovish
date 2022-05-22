@@ -1,0 +1,15 @@
+Unnamed: 0,sentence,label,score
+0,"the job market is strong, household balance sheets have improved, and business activity is solid.",LABEL_2,0.9335070252418518
+1,"banks are doing well--credit growth is robust, profitability is strong, and capital and liquidity buffers have been fortified.",LABEL_2,0.8969974517822266
+2,our growth here at home has been bolstered by synchronized growth abroad as well as supportive financial conditions.,LABEL_0,0.9465881586074829
+3,"employment growth has been heartening, and we are seeing the strong labor market continue to draw prime age americans back into the labor force from the sidelines.",LABEL_1,0.8210958242416382
+4,sizable fiscal stimulus is likely to reinforce cyclical pressures at a time of above-trend growth and tightening resource utilization.,LABEL_1,0.9941895008087158
+5,"but in the few cases where resource utilization has been near the levels we may soon be approaching, there have been heightened risks either of inflation, in earlier decades, or of financial imbalances more recently.",LABEL_1,0.9937348365783691
+6,"currently, inflation appears to be well-anchored to the upside around our 2 percent target, but there are some signs of financial imbalances.",LABEL_0,0.9965070486068726
+7,"prices of multifamily residential and industrial commercial real estate (cre) have risen, while capitalization rates for these segments have reached historical lows.",LABEL_2,0.7741419672966003
+8,"as we have seen in previous cycles, unexpected negative shocks to earnings in combination with increased interest rates could lead to rising levels of delinquencies among business borrowers and related stresses to some banks' balance sheets.",LABEL_1,0.6232726573944092
+9,"the ccyb is an additional margin of capital that the nation's largest banks can be asked to build to sustain resilience when there is an elevated risk of above-normal losses, which often follow periods of rapid asset price appreciation or credit growth.",LABEL_0,0.8496044278144836
+10,countercyclical capital requirements can lean against rising financial vulnerabilities at a time when the degree of monetary tightening that would be needed to achieve the same goal would be inconsistent with the dual mandate goals of full employment and price stability.,LABEL_0,0.980993390083313
+11,"moreover, countercyclical capital requirements build resilience, unlike monetary policy.",LABEL_0,0.9971843361854553
+12,i also support moving forward with minimum haircuts for securities financing transactions (sfts) on a marketwide basis to counter the growth of volatile funding structures outside the banking sector.,LABEL_0,0.9966090321540833
+13,conclusion history and experience show that stable economic growth is aided by strong regulatory buffers that bolster the resilience of our large banking organizations and help reduce the severity of downturns.,LABEL_0,0.9907947182655334

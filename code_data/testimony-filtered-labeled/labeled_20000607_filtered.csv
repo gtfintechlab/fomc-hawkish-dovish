@@ -1,0 +1,7 @@
+Unnamed: 0,sentence,label,score
+0,it focuses on seed capital for the creation of new companies or equity needed for the continuation or growth of small firms.,LABEL_2,0.973712682723999
+1,the contribution of a broad and deep private equity market to economic growth is considerable and its existence is critical to our nation's continued economic vibrancy.,LABEL_2,0.9005177021026611
+2,the attraction of banking organizations to the high returns and growing buoyancy in stock prices-especially for ipos (initial public offerings)-has matched the growth in the entire private equity market.,LABEL_1,0.9206625819206238
+3,"investors in private equity securities demand high expected returns, ranging from 15 percent to 25 percent for mature firms seeking expansion capital to 60 percent to 80 percent for early stage ventures.",LABEL_2,0.9109724164009094
+4,this increase in value-even though unrealized and subject to decline-is then permitted to count as capital for the firm and can be used to support growth of the firm.,LABEL_2,0.6527836322784424
+5,"private equity holdings are large and growing rapidly now, and the restraints on further growth are being relaxed.",LABEL_1,0.8665207028388977

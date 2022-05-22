@@ -1,0 +1,20 @@
+Unnamed: 0,sentence,label,score
+0,"regardless of economic conditions, the acting profession has an unemployment rate of about 95 percent--or so it seemed to me at the time.",LABEL_2,0.6491422653198242
+1,"my early experiences with making reserve decisions for a tiny community bank makes it much easier to connect the dots between federal reserve actions to add or withdraw reserves, bankers' decisions to manage their reserve accounts, and the resulting impact on interest rates, which in turn influence economic activity.",LABEL_2,0.9805225729942322
+2,"but in modern times, many people think of its primary role as responsibility for monetary policy.",LABEL_2,0.7466607689857483
+3,"the congress has given the federal reserve two objectives, known as our dual mandate, to foster maximum employment and price stability.",LABEL_0,0.9969722032546997
+4,"in its conduct of monetary policy, the fed influences the level of output and the level of prices in the economy through changes to interest rates and credit conditions.",LABEL_2,0.8297780156135559
+5,"during more normal times, the federal reserve's policymaking is focused on short-term interest rates, our main tool for steering the economy.",LABEL_2,0.9528577327728271
+6,the fed influences the costs of borrowing to buy everything from cars to condos to computers by controlling short-term interest rates.,LABEL_0,0.9385937452316284
+7,"interest rates can be lowered to stimulate borrowing and spending when demand is otherwise weak, or raised to dampen demand and curb inflation.",LABEL_0,0.9740909934043884
+8,"from a historical perspective, 2 percent is an extremely low level for interest rates.",LABEL_0,0.9988718628883362
+9,"for more than two years now, our policies have held short-term interest rates close to zero.",LABEL_0,0.9991072416305542
+10,"just as the federal reserve used traditional concepts in unconventional ways to provide liquidity to the shadow banking system and stop the panic, once our main shortâ€‘term interest rate lever was effectively at zero, we moved beyond traditional monetary policy to purchase longer-term assets and push down longer-term interest rates.",LABEL_0,0.9991255402565002
+11,"those purchases put downward pressure on longer-term interest rates generally and helped normalize the spread between mortgage rates and long-term treasury rates, which had widened during the financial crisis.",LABEL_0,0.9990013241767883
+12,"in november 2010, recognizing that progress toward the achievement of our dual mandate was disappointingly slow, the fed decided to put additional downward pressure on longer-term interest rates by purchasing longer-term treasury securities with a stated objective to purchase $600 billion by the end of june 2011.",LABEL_0,0.9975903034210205
+13,the ability to make monetary policy decisions that are free of short-term political influence is critical for central banks.,LABEL_0,0.9847026467323303
+14,this is especially true because the effective conduct of monetary policy requires a long-term perspective.,LABEL_2,0.980339527130127
+15,a central bank that is subject to political pressure might opt for policies that favor rapid expansion in the near term at the expense of higher inflation in the future.,LABEL_1,0.9987300038337708
+16,such actions would surely result in the loss of the confidence and credibility that are needed to achieve the objectives of monetary policy.,LABEL_0,0.999049723148346
+17,"indeed, research has shown that countries with independent central banks have better economic performance and lower inflation than countries whose central banks are not independent.2 the structure of the federal reserve is uniquely american in its decentralization.",LABEL_0,0.9825865626335144
+18,monetary policy decisions are made by the federal open market committee (fomc).,LABEL_2,0.9986885190010071

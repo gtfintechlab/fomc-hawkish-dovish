@@ -1,0 +1,29 @@
+Unnamed: 0,sentence,label,score
+0,"chairman crapo, ranking member brown, and other members of the committee, i am happy to present the federal reserve's semiannual monetary policy report to the congress.",LABEL_2,0.8189656138420105
+1,let me start by saying that my colleagues and i strongly support the goals congress has set for monetary policy--maximum employment and price stability.,LABEL_0,0.9984040856361389
+2,today i will review the current economic situation and outlook before turning to monetary policy.,LABEL_0,0.6129831671714783
+3,"current economic situation and outlook the economy grew at a strong pace, on balance, last year, and employment and inflation remain close to the federal reserve's statutory goals of maximum employment and stable pricesâ€‘â€‘our dual mandate.",LABEL_2,0.8843228220939636
+4,last year's growth was led by strong gains in consumer spending and increases in business investment.,LABEL_1,0.9867477416992188
+5,"growth was supported by increases in employment and wages, optimism among households and businesses, and fiscal policy actions.",LABEL_1,0.9975923895835876
+6,the job market remains strong.,LABEL_1,0.9497876167297363
+7,"the unemployment rate stood at 4 percent in january, a very low level by historical standards, and job openings remain abundant.",LABEL_2,0.852329671382904
+8,"in another welcome development, we are seeing signs of stronger wage growth.",LABEL_1,0.9983922243118286
+9,the job market gains in recent years have benefited a wide range of families and individuals.,LABEL_1,0.5569021701812744
+10,"for example, unemployment rates for african americans and hispanics are still well above the jobless rates for whites and asians.",LABEL_0,0.6363858580589294
+11,the february monetary policy report provides additional information on employment disparities between rural and urban areas.,LABEL_2,0.8958611488342285
+12,"overall consumer price inflation, as measured by the 12-month change in the price index for personal consumption expenditures (pce), is estimated to have been 1.7 percent in december, held down by recent declines in energy prices.",LABEL_2,0.8234667778015137
+13,"core pce inflation, which excludes food and energy prices and tends to be a better indicator of future inflation, is estimated at 1.9 percent.",LABEL_2,0.9154306054115295
+14,"at our january meeting, my colleagues and i generally expected economic activity to expand at a solid pace, albeit somewhat slower than in 2018, and the job market to remain strong.",LABEL_1,0.9366179704666138
+15,"recent declines in energy prices will likely push headline inflation further below the federal open market committee's (fomc) longer-run goal of 2 percent for a time, but aside from those transitory effects, we expect that inflation will run close to 2 percent.",LABEL_2,0.987220287322998
+16,"financial markets became more volatile toward year-end, and financial conditions are now less supportive of growth than they were earlier last year.",LABEL_0,0.9932520985603333
+17,"growth has slowed in some major foreign economies, particularly china and europe.",LABEL_2,0.9129627346992493
+18,"for example, productivity growth, which is what drives rising real wages and living standards over the longer term, has been too low.",LABEL_0,0.4951345920562744
+19,"monetary policy over the second half of 2018, as the labor market kept strengthening and economic activity continued to expand strongly, the fomc gradually moved interest rates toward levels that are more normal for a healthy economy.",LABEL_0,0.7995267510414124
+20,"in january, with inflation pressures muted, the fomc determined that the cumulative effects of these developments, along with ongoing government policy uncertainty, warranted taking a patient approach with regard to future policy changes.",LABEL_2,0.7484608292579651
+21,"for guideposts on appropriate policy, the fomc routinely looks at monetary policy rules that recommend a level for the federal funds rate based on measures of inflation and the cyclical position of the u.s. economy.",LABEL_2,0.9989206790924072
+22,the february monetary policy report gives an update on monetary policy rules.,LABEL_2,0.998184859752655
+23,"we do, however, conduct monetary policy in a systematic manner to promote our long-run goals of maximum employment and stable prices.",LABEL_0,0.9965026378631592
+24,"as part of this approach, we strive to communicate clearly about our monetary policy decisions.",LABEL_2,0.9864708781242371
+25,"in the longer run, the size of the balance sheet will be determined by the demand for federal reserve liabilities such as currency and bank reserves.",LABEL_2,0.9974554181098938
+26,the february monetary policy report describes these liabilities and reviews the factors that influence their size over the longer run.,LABEL_2,0.9926472306251526
+27,"last november we announced a plan to conduct a comprehensive review of the strategies, tools, and communications practices we use to pursue our congressionally assigned goals for monetary policy.",LABEL_2,0.882500171661377

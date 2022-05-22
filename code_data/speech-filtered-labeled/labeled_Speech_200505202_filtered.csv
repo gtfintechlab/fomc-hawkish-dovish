@@ -1,0 +1,64 @@
+Unnamed: 0,sentence,label,score
+0,"but we have also been subjected to other shocks, the most immediately prominent ones being the oil and gas price surges of the past two years.",LABEL_1,0.8530385494232178
+1,increased demand and lagging additions to productive capacity have combined to eliminate a significant amount of the slack in energy markets that was essential in containing energy prices between 1985 and 2000.,LABEL_2,0.9446601867675781
+2,"reflecting a low short-term elasticity of demand, higher prices in recent months have slowed the growth of oil demand, but only modestly.",LABEL_1,0.9813571572303772
+3,"that slowdown, coupled with expanded production also induced by the price firmness, required markets to absorb an unexpected pickup in the pace of inventory accumulation.",LABEL_1,0.9318932294845581
+4,"the initial response was a marked drop in spot prices for light, sweet crude oil.",LABEL_0,0.9938356876373291
+5,"but that drop left forward prices sufficiently above spot prices to create an above-normal rate of return for oil bought for inventory and hedged, even after storage and interest costs are accounted for.",LABEL_2,0.5736021399497986
+6,"as i indicated in early april, this emerging condition could encourage the buildup of enough of an inventory buffer to damp the price frenzy.",LABEL_2,0.9801150560379028
+7,"inventory accumulation is likely to continue unless demand rises, output declines, or we run out of storage capacity.",LABEL_2,0.8877769708633423
+8,"in the united states, natural gas prices in recent weeks, seasonally adjusted, have come off their peak of early april, but those prices still remain significantly above the average level of 2004.",LABEL_2,0.9481606483459473
+9,"working levels of gas inventories are seasonally moderate, but domestic dry gas production plus net imports has not expanded sufficiently over the past few years to have prevented a marked rise in price.",LABEL_1,0.9689419269561768
+10,"the inexorable rise in residential and utility use has priced the more marginal industrial gas users partially out of the market and has induced significant gains in gas efficiency among a number of gas users, such as petroleum refineries, steel mills, and paper and board mills.",LABEL_2,0.9934691786766052
+11,"* * * for both oil and natural gas, the inventory, production, and price outlook beyond the current episode will doubtless continue to reflect longer-term concerns.",LABEL_2,0.9962887763977051
+12,much will depend on the response of demand to price over the longer run.,LABEL_2,0.9969666004180908
+13,prices of spot crude oil and natural gas have risen sharply over the past year in response to constrained supply and the firming of overall demand.,LABEL_1,0.9988076090812683
+14,"but if history is any guide, should higher prices persist, energy use over time will continue to decline relative to gross domestic product (gdp).",LABEL_1,0.8819690346717834
+15,"in the wake of sharply higher prices, the energy intensity of the united states economy has been reduced about half since the early 1970s.",LABEL_1,0.9909151196479797
+16,"this more-modest rate of decline in energy intensity should not be surprising, given the generally lower level of real oil prices that prevailed between 1985 and 2000.",LABEL_0,0.9016390442848206
+17,"with real energy prices again on the rise, more-rapid decreases in the intensity of use in the years ahead seem virtually inevitable.",LABEL_1,0.9982824325561523
+18,"as would be expected, long-term demand elasticities have proved noticeably higher than those evident in the short term.",LABEL_1,0.9979892373085022
+19,"for years, long-term prospects for oil and gas prices appeared benign.",LABEL_2,0.9990970492362976
+20,"when choosing capital projects, businesses in the past could mostly look through short-run fluctuations in oil and natural gas prices, with an anticipation that moderate prices would prevail over the longer haul.",LABEL_2,0.9992480874061584
+21,"* * * aside from uncertain demand, the resolution of current major geopolitical uncertainties will materially affect oil prices in the years ahead.",LABEL_0,0.9119099378585815
+22,"the effect on oil prices, in turn, will significantly influence the levels of investment over the next decade in crude oil productive capacity and, only slightly less importantly, investment in refining facilities.",LABEL_2,0.9985648989677429
+23,"unless those policies and political institutions and attitudes change, a greater proportion of the cash flow of producing countries will be needed for oil re-investment to ensure that capacity keeps up with projected world demand.",LABEL_0,0.9102409482002258
+24,concerns about potential shortfalls in investment certainly have contributed to recent record-high long-term futures prices.,LABEL_1,0.9984351396560669
+25,"but investment to convert reserves to productive capacity has fallen short of the levels required to match unexpected recent gains in demand, especially gains in china.",LABEL_2,0.9942529201507568
+26,* * * the extraordinary uncertainties about oil prices of late are reminiscent of the early years of oil development.,LABEL_2,0.990490198135376
+27,"over the past few decades, crude oil prices have been determined largely by international market participants, especially opec.",LABEL_2,0.9980303645133972
+28,"reportedly appalled by the volatility of crude oil prices in the early years of the petroleum industry, rockefeller endeavored with some success to control those prices.",LABEL_2,0.9283714890480042
+29,"after the breakup of standard oil in 1911, pricing power remained with the united states--first with the u.s. oil companies and later with the texas railroad commission, which raised allowable output to suppress price spikes and cut output to prevent sharp price declines.",LABEL_0,0.986883282661438
+30,"however, that historical role came to an end in 1971, when excess crude oil capacity in the united states was finally absorbed by rising demand.",LABEL_1,0.8760568499565125
+31,"during that period, posted crude oil prices at ras tanura, saudi arabia, rose to more than $11 per barrel, significantly above the $1.80 per barrel that had been unchanged from 1961 to 1970.",LABEL_1,0.9964320063591003
+32,a further surge in oil prices accompanied the iranian revolution in 1979.,LABEL_1,0.9912866353988647
+33,the higher prices of the 1970s brought to an abrupt end the extraordinary period of growth in u.s. consumption of oil and the increased intensity of its use that was so evident in the decades immediately following world war ii.,LABEL_1,0.9956812262535095
+34,"between 1945 and 1973, consumption of petroleum products rose at a startling average annual rate of 4-1/2 percent, well in excess of growth of real gdp.",LABEL_1,0.9914060831069946
+35,"although opec production quotas have been a significant factor in price determination for a third of a century, the story since 1973 has been as much about the power of markets as it has been about power over markets.",LABEL_2,0.9930427670478821
+36,the signals provided by market prices have eventually resolved even the most seemingly insurmountable difficulties of inadequate domestic supply in the united states.,LABEL_2,0.6281652450561523
+37,the gap projected between supply and demand in the immediate post-1973 period was feared by many to be so large that rationing would be the only practical solution.,LABEL_1,0.9370786547660828
+38,"to be sure, mandated fuel-efficiency standards for cars and light trucks induced slower growth of gasoline demand.",LABEL_2,0.8147361874580383
+39,"indeed, the number of small, fuel-efficient japanese cars that were imported into the united states markets rose throughout the 1970s as the price of oil moved higher.",LABEL_1,0.9982979893684387
+40,"moreover, at that time, prices were expected to go still higher.",LABEL_1,0.9980940222740173
+41,"our department of energy, for example, had baseline projections showing prices reaching $60 per barrel--the equivalent of about twice that amount in today's prices.",LABEL_2,0.9700264930725098
+42,the failure of oil prices to rise as projected in the late 1970s is a testament to the power of markets and the technologies they foster.,LABEL_2,0.995519757270813
+43,"today, despite its recent surge, the average price of crude oil in real terms is still only three-quarters of the price peak of february 1981.",LABEL_1,0.5147053599357605
+44,"moreover, the effect of the current surge in oil prices, though noticeable, is likely to prove less consequential to economic growth and inflation than in the 1970s.",LABEL_2,0.8236517310142517
+45,"but, obviously, the risk of more-serious negative consequences would intensify if oil prices were to move materially higher.",LABEL_1,0.9987260699272156
+46,"* * * u.s. natural gas prices have historically displayed greater volatility than prices of crude oil, doubtless reflecting, in part, the less-advanced development of price-damping global trade in natural gas.",LABEL_2,0.9668247103691101
+47,significant upward pressure on prices has ensued.,LABEL_1,0.998904824256897
+48,"because international trade in natural gas has been insufficient to equalize prices across markets, u.s. natural gas prices since late 2002 have been notably higher, on average, than prices abroad.",LABEL_1,0.9952654838562012
+49,the difficulties associated with inadequate domestic supplies will eventually be resolved as consumers and producers react to the signals provided by market prices.,LABEL_2,0.9866874814033508
+50,this activity has accelerated sharply over the past few years as profitable arbitrage has emerged in natural gas prices across international markets.,LABEL_2,0.8551537394523621
+51,"clearly, the gas trade has significant margin to exercise its price-damping opportunities.",LABEL_2,0.958311915397644
+52,"the larger question, of course, is what will increased world trade in lng and expanded u.s. import capacity do to natural gas prices in the united states?",LABEL_1,0.9804530739784241
+53,"during the past couple of years, when u.s. prices of natural gas hovered around $6 per million btu, import prices of lng in europe have ranged between $2 and $4, and those in japan and korea have generally been between $3 and $5.",LABEL_2,0.9472746849060059
+54,"in the short run, exporters to the united states are likely to receive our domestic price, currently above $6 per million btu.",LABEL_1,0.7114006280899048
+55,"but unless world gas markets tighten aggressively, competitive pressures will arbitrage the u.s. natural gas price down, possibly significantly, through increased imports.",LABEL_0,0.901715874671936
+56,"but because of inexorably rising demand, these improved technologies have been unable to prevent the underlying long-term prices of oil and natural gas in the united states from rising.",LABEL_1,0.9973096251487732
+57,but at current market prices they have become competitive.,LABEL_1,0.8088724613189697
+58,"according to projections from the energy information administration, most of the growth in the domestic supply of natural gas over the next twenty years will come from unconventional sources.",LABEL_2,0.6425197720527649
+59,"as the manner in which energy is produced and consumed evolves, it is not unreasonable to expect that, in the long run, the prices per unit of energy from various sources would tend to converge.",LABEL_2,0.9947398900985718
+60,"at present, long-term futures prices for natural gas are, on a btu-equivalent basis, notably less expensive than those for crude oil.",LABEL_2,0.9726907014846802
+61,"in addition, given the concerns over the long-term adequacy of liquid production capacity from conventional oil reserves, gas to liquids may provide an attractive, competitively priced, option for making use of stranded gas, which, for lack of access to transportation infrastructure, cannot be brought to market.",LABEL_2,0.5846145153045654
+62,"* * * in summary, improving technology and ongoing shifts in the structure of economic activity are reducing the energy intensity of industrial countries, and presumably recent oil price increases will accelerate the pace of displacement of energy-intensive production facilities.",LABEL_1,0.9974770545959473

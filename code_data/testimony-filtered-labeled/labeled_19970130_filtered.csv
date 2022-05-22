@@ -1,0 +1,8 @@
+Unnamed: 0,sentence,label,score
+0,"i will be happy to respond to questions relating to any of those issues, but in my formal comments this morning i intend to focus on the accuracy of the consumer price index.",LABEL_2,0.9972270727157593
+1,"that is, a serious examination of all available evidence should yield the conclusion that there is just as great a chance that the index understates the rate of growth of the target concept as there is that it overstates the truth.",LABEL_2,0.9970688819885254
+2,the present-day consumer price index does not meet this standard.,LABEL_2,0.9985575675964355
+3,"in fact, the best available evidence suggests that there is virtually no chance that the cpi as currently published understates the rate of growth of the appropriate concept.",LABEL_2,0.9977080225944519
+4,"in other words, there is almost a 100 percent probability that we are overcompensating the average social security recipient for increases in the cost of living, and almost a 100 percent probability that we are causing the inflation-adjusted burden of the income tax system to decline more rapidly than i presume the congress intends.",LABEL_1,0.7762556672096252
+5,a major reason for this is that consumers respond to changes in relative prices by changing the composition of their actual marketbasket.,LABEL_2,0.9985117316246033
+6,"moreover, new goods and services deliver value to consumers even at the relatively elevated prices that often prevail early in their life cycles; currently, that value is not reflected in the cpi.",LABEL_2,0.5804075598716736
