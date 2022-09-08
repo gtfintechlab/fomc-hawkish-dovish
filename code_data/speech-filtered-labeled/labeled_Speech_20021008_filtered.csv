@@ -1,0 +1,12 @@
+Unnamed: 0,sentence,label,score
+0,"when i joined the federal reserve board of governors last december, i knew i would be doing more than helping to set short-term interest rates.",LABEL_0,0.8287631273269653
+1,"the treasury functions of corporations routinely use models to assess and manage price, interest rate, liquidity, and foreign exchange risk.",LABEL_2,0.9988788366317749
+2,"in the ordinary course of business, firms are exposed to credit risk and the risk of price fluctuations in currency, commodity, energy, and interest rate markets.",LABEL_2,0.9913809895515442
+3,"for example, when an airline sells tickets months before a flight, it becomes exposed to fluctuations in the price of jet fuel.",LABEL_2,0.978976845741272
+4,"a higher price of jet fuel translates directly into lower profits and, perhaps, a greater risk of bankruptcy.",LABEL_1,0.7071831822395325
+5,"rapid growth, merger of operation centers, and introduction of new products and delivery channels are examples of situations that put stress on the control environment.",LABEL_1,0.9894142150878906
+6,rapid growth and change also modify the relative risks to an organization.,LABEL_2,0.9402036070823669
+7,"but the personalities of these individuals, in many cases, led to a focus on sales growth and support and inadequate time spent building the control infrastructure.",LABEL_2,0.9881995916366577
+8,"however, the bank's internal risk report would show much more extensive information, such as the interest rate, maturity, and credit quality of the assets and the range of values the portfolio would take under alternative future scenarios.",LABEL_2,0.99930340051651
+9,"the user of a risk-management report could determine whether changes in value were due to declining credit quality, rising interest rates, portfolio sales, or payoffs of underlying loans.",LABEL_2,0.7656596302986145
+10,"for companies undergoing rapid growth and those engaged in relatively new business processes and practices, risk management can provide a method for developing an internal control infrastructure to support the success of the business strategy.",LABEL_2,0.9923964142799377

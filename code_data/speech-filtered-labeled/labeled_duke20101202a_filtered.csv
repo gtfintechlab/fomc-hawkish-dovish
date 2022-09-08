@@ -1,0 +1,6 @@
+Unnamed: 0,sentence,label,score
+0,"still, it is worthwhile to examine the data and try to understand why credit growth is not more robust.",LABEL_2,0.9979693293571472
+1,"although our economy has experienced other long episodes in which revolving credit growth has slowed, we have never seen such a prolonged period of outright decline.",LABEL_0,0.9976720213890076
+2,"all told, we estimate that the rise in charge-offs can account for about one-third of the net decline in revolving credit growth from 2007 to 2009.",LABEL_2,0.9546247124671936
+3,"historically, households tend to repay their credit card balances at a faster rate during good economic times and tend to slow this rate when economic activity is weak.",LABEL_0,0.9820543527603149
+4,"however, beginning in 2007, as housing markets weakened and unemployment climbed, households began to pay off their card debt at a significantly slower pace--a trend that extended into 2008 and 2009 as the economic downturn worsened.",LABEL_0,0.999335765838623

@@ -1,0 +1,11 @@
+Unnamed: 0,sentence,label,score
+0,"moreover, small tax increases or benefit cuts will not do the job--the implicit actuarial deficits of these programs are so large that halfway measures will not be adequate.",LABEL_0,0.9973865151405334
+1,this joint proposal fully corrects the long-term actuarial deficit for social security and would also make a start on a solution for medicare.,LABEL_0,0.9964420199394226
+2,"the actuaries make a number of long-term projections for life expectancy, birth rates, economic growth variables, prices, in general as well as specifically for health care; they then compute the expected actuarial situation for the trust funds for both programs.",LABEL_2,0.9989502429962158
+3,"today, medicare part a is financed by a 2.9 percent combined payroll tax on all wages, and social security is financed by a combined 12.4 percent combined payroll tax on wages up to $90,000, a threshold that is increased each year with the growth in wages.",LABEL_1,0.9920802712440491
+4,a standard argument against raising the retirement age is that people are working physically demanding jobs and are simply not able to continue.,LABEL_1,0.8721384406089783
+5,"but it still makes sense to look at the share in demanding jobs, as is done in table 3.",LABEL_2,0.9988408088684082
+6,"in 1950, one-fifth of the work force worked in jobs judged by the labor department to be physically demanding.",LABEL_1,0.9104904532432556
+7,"by 1996 it was down to only 7.5 percent of workers in physically demanding jobs, and by the time any of my suggested measures take effect, the share should be on the order of 3 or 4 percent--not zero, but probably not high enough to argue against measures to raise the retirement age at a gradual rate.",LABEL_2,0.5212443470954895
+8,"workers have a valid desire to consume some of their increasing productivity in the form of leisure time, or earlier retirement.",LABEL_2,0.9848291873931885
+9,if we were to combine this increase in the retirement age with a few standard measures to improve the horizontal equity of social security--including all newly-hired state and local workers and using a chained price index--the total improvement reaches about 1.4 percentage points.,LABEL_0,0.6101484298706055

@@ -1,0 +1,22 @@
+Unnamed: 0,sentence,label,score
+0,"for this country's first century and a half, government was only peripherally engaged in what we currently term the management of aggregate demand.",LABEL_2,0.9828910827636719
+1,"any endeavor to alter the path of private economic activity through active intervention would have been deemed inappropriate and, more important, unnecessary.",LABEL_1,0.9355533123016357
+2,"economic growth and prosperity, he argued, would emerge if governments stood aside and allowed markets to work.",LABEL_2,0.6114956736564636
+3,"as the global depression deepened, the seeming failure of competitive markets to restore full employment perplexed economists until john maynard keynes offered an explanation that was to influence policy practitioners for generations to come.",LABEL_0,0.947473406791687
+4,"he argued that, contrary to the tenets of smith and his followers, market systems did not always converge to full employment.",LABEL_1,0.5037856698036194
+5,in the place of smith's laissez-faire approach arose the view that government action was required to restore full employment and to rectify what were seen as other deficiencies of market-driven outcomes.,LABEL_1,0.7739992141723633
+6,"the apparent success of the economy during world war ii, which operated at full employment in contrast to the earlier frightening developments during the depression years, led to a considerable reluctance to fully dismantle wartime regulations when the hostilities came to an end.",LABEL_2,0.9720760583877563
+7,"at the macro level, the system of wage and price controls imposed in the 1970s to deal with the problem of inflation proved unworkable and ineffective.",LABEL_1,0.9758654832839966
+8,"the stated purpose of this deregulation was to enhance competition, which had come to be seen as a significant spur to productivity growth and elevated standards of living.",LABEL_1,0.965103268623352
+9,"through this process, wealth is created, incremental step by incremental step, as high levels of productivity associated with innovative technologies displace less-efficient productive capacity.",LABEL_1,0.6775325536727905
+10,"insurance companies, especially those in reinsurance, pension funds, and hedge funds continue to be willing, at a price, to supply credit protection.",LABEL_0,0.8191737532615662
+11,"individual prices, exchange rates, and interest rates, adjust incrementally in real time to restore balance.",LABEL_2,0.9986597299575806
+12,"most recently, the flexibility of our market-driven economy has allowed us, thus far, to weather reasonably well the steep rise in spot and futures prices for oil and natural gas that we have experienced over the past two years.",LABEL_2,0.993519127368927
+13,"monetary policy--in fact, all economic policy--to the extent that it is successful over a prolonged period, will reduce economic variability and, hence, perceived credit risk and interest rate term premiums.",LABEL_0,0.7225174307823181
+14,"whatever the reason for narrowing credit spreads, and they differ from episode to episode, history cautions that extended periods of low concern about credit risk have invariably been followed by reversal, with an attendant fall in the prices of risky assets.",LABEL_0,0.8640059232711792
+15,"therefore, because it is difficult to suppress growing market exuberance when the economic environment is perceived as more stable, a highly flexible system needs to be in place to rebalance an economy in which psychology and asset prices could change rapidly.",LABEL_2,0.9926276803016663
+16,relying on policymakers to perceive when speculative asset bubbles have developed and then to implement timely policies to address successfully these misalignments in asset prices is simply not realistic.,LABEL_1,0.4093227684497833
+17,and equity prices continued to rise during the tightening of policy between mid-1999 and may 2000.,LABEL_1,0.9986938238143921
+18,"market participants, however, read the resilience of the economy and stock prices in the face of monetary tightening as an indication of undiscounted market strength.",LABEL_0,0.9986683130264282
+19,"by the late 1990s, it appeared to us that very aggressive action would have been required to counteract the euphoria that developed in the wake of extraordinary gains in productivity growth spawned by technological change.",LABEL_2,0.8116011619567871
+20,"the net effect, to the surprise of most, has been what appears to be a decline in the structural unemployment rate in the united states.",LABEL_0,0.9933179020881653

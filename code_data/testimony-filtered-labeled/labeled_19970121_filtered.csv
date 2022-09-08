@@ -1,0 +1,8 @@
+Unnamed: 0,sentence,label,score
+0,in just a few weeks the federal reserve board will submit its semiannual report on monetary policy to the congress.,LABEL_2,0.9585704207420349
+1,that report and my accompanying testimony will cover in detail our assessment of the outlook for the u.s. economy and the challenges facing monetary policy.,LABEL_0,0.7460846304893494
+2,"the current cyclical upswing is now approaching six years in duration, and the economy has retained considerable vigor, with few signs of the imbalances and inflationary tensions that have disrupted past expansions.",LABEL_2,0.9984822273254395
+3,"this increase may seem quite moderate compared with the gains registered in some earlier years of the postwar period; however, at a time when the working-age population is expanding relatively slowly and unemployment is already low, this economic growth is appreciable indeed.",LABEL_2,0.8382401466369629
+4,"it was enough to generate more than 2-1/2 million new payroll jobs last year and to cause the unemployment rate to edge down to 5-1/4 percent--a figure roughly matching the low of the last cyclical upswing, in the late 1980s.",LABEL_0,0.7294754385948181
+5,"but, in contrast to that earlier period, we have not experienced a broad increase in inflation; in fact, by some important measures of price trends, inflation actually slowed a bit in 1996.",LABEL_2,0.9404365420341492
+6,the balance and solidity of the expansion last year can be seen in the composition of the growth.,LABEL_2,0.9670906066894531

@@ -1,0 +1,10 @@
+Unnamed: 0,sentence,label,score
+0,"i began my career in academia, where i first delved into the bureau's vast wealth of data on productivity, employment, hours of work, wages, and prices.",LABEL_2,0.9985509514808655
+1,"bls bulletins and monthly labor review articles of the 1930s helped me analyze the behavior of the labor market during the depression.1 later, when i served on the national bureau of economic research's business cycle dating committee, i paid close attention to current economic data, in particular to your monthly employment series.",LABEL_2,0.996432363986969
+2,"as you know, in conducting monetary policy, the federal reserve aims for maximum employment and price stability.",LABEL_0,0.9985307455062866
+3,"clearly, the timeliness and reliability of your labor market and price reports are critical to us.",LABEL_2,0.9979822039604187
+4,"besides those monthly indicators, our analysis and forecasting of inflation and real activity require a number of bls inputs.",LABEL_2,0.9986209869384766
+5,we need to understand productivity because it is a key element in determining how fast the economy can expand without generating inflation.,LABEL_2,0.9782499670982361
+6,"and we need to factor in trends in wages and benefits, in consumer spending, and in how u.s. wage, price, and productivity trends compare with those abroad.",LABEL_2,0.9987525343894958
+7,"additionally, if monetary policy is to be effective, the public must understand current and prospective economic developments.",LABEL_2,0.9946484565734863
+8,an important channel of monetary policy is its effect on expectations.,LABEL_2,0.9840387105941772

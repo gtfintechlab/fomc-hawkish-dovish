@@ -1,0 +1,56 @@
+Unnamed: 0,sentence,label,score
+0,"as laura requested several months ago, my topic this evening will be the ""new economy"" and more specifically the growth of labor productivity.",LABEL_2,0.9405373930931091
+1,the answer--i submit--is not that the productivity of my fellow economists is low or that the economics profession has failed in a key mission.,LABEL_0,0.843432605266571
+2,"rather, it is that the underlying sources of productivity growth are very complex.",LABEL_2,0.9945862889289856
+3,"on the surface, the determinants of productivity growth might seem straightforward: factors such as technological progress, capital deepening, and the changing institutional structure of labor and product markets.",LABEL_2,0.9988083839416504
+4,"thus, before embarking on any serious discussion of productivity growth, one must recognize the very difficult measurement challenges that we face.",LABEL_2,0.9946255087852478
+5,"but if we are consistent in our methods, i believe both our aggregate statistics and also microeconomic studies of productivity growth at the firm and industry level can yield important insights.",LABEL_2,0.997675359249115
+6,"with that caveat about productivity measurement aside, let me state right from the outset of this lecture that i continue to be cautiously optimistic about productivity growth in the united states.",LABEL_2,0.9980941414833069
+7,"based on my reading of the data and my understanding of numerous business case studies, i believe that trend labor productivity in the united states accelerated in the mid-1990s.",LABEL_2,0.93357914686203
+8,"but other factors were also at work, including well-aligned monetary and fiscal policies that created an economic environment conducive to noninflationary economic growth.",LABEL_0,0.997934877872467
+9,the statistical evidence i think it would be useful at this point to review what the data actually tell us about the pattern of productivity growth in the united states.,LABEL_2,0.9986022710800171
+10,"from the beginning of 1960 until the fall of 1973, labor productivity in the nonfarm business sector grew about 3 percent per year.",LABEL_2,0.9781008362770081
+11,"productivity growth then fell to an annual pace of 1-1/2 percent, likely in response to the supply shocks that hit the world economy during that period, higher inflation, a rise in uncertainty about the prospects for future economic growth, and public policy decisions that diverted resources from activities that would have generated more measured output.",LABEL_1,0.976542055606842
+12,"i should stress that, although i have listed several likely contributors, the ultimate cause or causes of this post-1973 productivity slowdown have eluded researchers.",LABEL_0,0.9549083709716797
+13,productivity continued to grow at an annual pace of about 1-1/2 percent from 1973 to 1995.,LABEL_2,0.8922951817512512
+14,"we can divide this period into several subperiods, yet the results are essentially the same: continued gains in labor productivity but well below the pre-1973 pace.",LABEL_2,0.9987093210220337
+15,"from 1995 to 2001, labor productivity grew at an annual pace of 2-1/4 percent.",LABEL_2,0.9321430921554565
+16,research by my colleagues at the federal reserve--steve oliner and dan sichel--sheds some light on the sources of this faster productivity growth.,LABEL_2,0.8328767418861389
+17,"using a growth accounting methodology, they find that about half the acceleration in productivity can be attributed to capital deepening.",LABEL_2,0.9791602492332458
+18,"at the aggregate level, the high levels of business investment raised the amount of capital per worker and thereby boosted productivity.",LABEL_1,0.8948981165885925
+19,the other half of the pickup in productivity growth reflected technological innovations in the actual production of computer hardware and semiconductors as well as better management--perhaps assisted by these high-tech investments--of the nation's capital and labor.,LABEL_2,0.9825010299682617
+20,"oliner and sichel estimate that, if one consolidates all the influences of high-tech investments, they fully account for the acceleration in productivity over the 1995-2001 period.",LABEL_2,0.9980714917182922
+21,i mention this fact to address the concerns of some observers that recent revisions to the national income and product accounts have changed the evidence on post-1995 productivity growth.,LABEL_2,0.9679071307182312
+22,"the last two annual revisions have indeed lowered output growth, but these adjustments followed several years of upward revisions.",LABEL_0,0.806439995765686
+23,research by board economists--karen dynan and doug elmendorf--clearly shows that we initially overestimate growth during recessions and periods of economic weakness.,LABEL_0,0.9838287830352783
+24,but we also initially underestimate growth in recovery periods.,LABEL_2,0.9950681924819946
+25,"thus, based on the revisions to growth over the past three years, i do not believe that one should presume that future data revisions will whittle away the post-1995 acceleration in productivity.",LABEL_2,0.9990480542182922
+26,microeconomic studies provide corroborating information to the macroeconomic evidence of a post-1995 acceleration in productivity growth.,LABEL_2,0.6136928796768188
+27,"these executives consistently say that, when they have little leverage to raise their prices, the key to boosting profits is productivity growth.",LABEL_1,0.9509689211845398
+28,"having said that i think the post-1995 productivity acceleration was real, let me also assert that we should constantly challenge our assumptions.",LABEL_2,0.9725316166877747
+29,"furthermore, we don't understand how this overinvestment should be factored into our analysis of productivity growth over this period.",LABEL_2,0.9987983107566833
+30,"similarly, i don't think we yet fully understand the role of year 2000 preparations in either the late 1990s investment boom or the acceleration in productivity.",LABEL_2,0.9985241293907166
+31,"billions of dollars were invested to fix the y2k bug, and we don't know how much of that spending was for the replacement of obsolete systems (and hence should be considered as depreciation in measuring the stock of available capital) or for the expansion and upgrading of systems (which, parenthetically, is the assumption we use in all our growth accounting exercises).",LABEL_2,0.9983971118927002
+32,current and prospective productivity growth the cyclical slowing in 2001 and gradual expansion in 2002 have raised a critical issue.,LABEL_2,0.6716572046279907
+33,that question is: will productivity growth in the years ahead more closely resemble the substantial gains over the 1960-73 period or the weaker performance of the 1973-95 slowdown?,LABEL_2,0.9977329969406128
+34,"i tend to believe that future growth will most likely follow the 1960-73 pattern, and the most recent record of productivity growth reinforces that view.",LABEL_2,0.9914152026176453
+35,productivity is a cyclical variable that typically falls in recessions.,LABEL_2,0.9031563401222229
+36,"however, during the most recent downturn, productivity never declined and instead continued to grow at a fairly strong pace.",LABEL_2,0.9960819482803345
+37,"moreover, after the tragic events of september 11, many economists feared that the u.s. economy would weaken substantially and that productivity growth would suffer a severe setback as well.",LABEL_0,0.9983463883399963
+38,"after september 11, many businesses sharply reduced their payrolls in anticipation of a slump in demand.",LABEL_0,0.9980598092079163
+39,"but demand continued to grow briskly, and these companies learned to squeeze more output out of a smaller workforce.",LABEL_1,0.9283161163330078
+40,"adjusting to new technologies takes time, and it is plausible that such an adjustment process has continued to boost productivity growth in recent years.",LABEL_2,0.9971892237663269
+41,"more fundamentally, i believe that the trend in productivity growth has ratcheted up, and this development has been the driving force behind the recent extraordinary productivity growth.",LABEL_1,0.712037205696106
+42,some analysts have cited the low level of business confidence today and the possibility that it could inhibit economic growth.,LABEL_0,0.9993429780006409
+43,"others contend that productivity growth itself can be a problem because efficiency gains are achieved by a reduction in payrolls, which tends to deflate aggregate demand.",LABEL_0,0.9956854581832886
+44,"but, this pain is transitory, and ultimately, the faster productivity growth raises real wages, stimulates growth in real incomes, and contributes to an increase in our standard of living.",LABEL_1,0.9642500877380371
+45,"in many cases, new technologies are introduced into our economy through capital investment, and the important productivity gains of recent years will not be repeated unless businesses continue to invest in new plant and equipment.",LABEL_2,0.9782277941703796
+46,"however, a period of inadequate corporate investment that results in ""capital shallowing"" rather than capital deepening would almost surely hurt our productivity performance.",LABEL_0,0.9989323019981384
+47,"although some industries have suffered severe losses and have sharply curtailed their capital expenditures, other sectors have posted growth in earnings and have continued to invest.",LABEL_0,0.9652026891708374
+48,"and ultimately, if i'm right about the stronger underlying pace of productivity growth, aggregate profits will continue to recover once the sectoral imbalances are eliminated.",LABEL_2,0.9984714388847351
+49,"in the 1990s, the high-tech boom appears to have been sparked by the confluence of three key trends: the rapid growth in computing power generated by explosive advances in semiconductor technology; the advent of new networking technologies that permitted computers to communicate more easily with each other in private networks and through the public internet; and the development of software programs that facilitated these interactions and greatly expanded the uses of personal computers.",LABEL_2,0.9744224548339844
+50,"ultimately, more businesses entered the high-tech field than could be supported by the substantial growth in demand in this sector.",LABEL_2,0.9383963942527771
+51,"in the end, the economy was left with an overhang of high-tech capital, which is exerting a drag on economic activity to this day.",LABEL_0,0.9984740614891052
+52,"nonetheless, the ongoing evolution of these technologies is continuing to generate productivity gains.",LABEL_2,0.9976126551628113
+53,"conclusion to sum up, none of us, obviously, can see the future, and instead we shall have to monitor incoming data closely for evidence of any shifts in recent productivity trends.",LABEL_2,0.999021589756012
+54,"nonetheless, i remain cautiously optimistic that the u.s. economy can continue to enjoy strong productivity-led growth that will raise living standards in the years to come.",LABEL_2,0.9868117570877075

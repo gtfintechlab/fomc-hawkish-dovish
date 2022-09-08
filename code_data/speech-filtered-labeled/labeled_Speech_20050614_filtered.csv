@@ -1,0 +1,11 @@
+Unnamed: 0,sentence,label,score
+0,"commercial-loan demand has rebounded and consumer lending, particularly mortgage financing, has been brisk.",LABEL_0,0.9051581621170044
+1,"in particular, in the commercial and residential real estate sectors, we worry that borrowers could become increasingly speculative, buying beyond their means and hoping for asset price appreciation--whether they are buying for their own use or strictly for the sake of investment.",LABEL_1,0.9884992837905884
+2,"the residential real estate sector has been experiencing a remarkable bull market, with home prices rising 11.2 percent last year--the fastest rate in more than a quarter-century.",LABEL_1,0.93577641248703
+3,"along with the high home prices, we see indications that underwriting standards are beginning to weaken.",LABEL_1,0.9081531763076782
+4,"more homes are being purchased not as primary dwellings, but as vacation homes or pure investments, in which case anticipated price appreciation may be a large factor influencing purchase decisions.",LABEL_1,0.6645307540893555
+5,"given the vast growth in residential housing markets and the apparent slippage in underwriting standards in certain sectors, it is entirely appropriate for banking supervisors to seek to ensure that banks are employing proper risk-management practices.",LABEL_1,0.9867141246795654
+6,"the recent growth in helocs has been remarkable; at the end of 2004, outstanding drawn helocs at all insured commercial banks totaled $398 billion, a 40 percent increase over 2003.",LABEL_1,0.9681397080421448
+7,"given this easing of standards, there is concern that portions of banks' home equity loan portfolios may be vulnerable to a rise in interest rates and a decline in home values.",LABEL_1,0.9879820346832275
+8,"at banks with high concentrations, bank supervisors expect risk-management practices, underwriting standards, and capital levels to keep pace with loan growth.",LABEL_2,0.6798303723335266
+9,"meanwhile, even if supervisors did not call for a minimum leverage ratio, i firmly believe that bankers, investors, and rating agencies would demand it.",LABEL_1,0.6239282488822937

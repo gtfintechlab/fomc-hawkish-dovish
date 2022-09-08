@@ -1,0 +1,28 @@
+Unnamed: 0,sentence,label,score
+0,let me start by saying that my colleagues and i strongly support the goals of maximum employment and price stability that congress has set for monetary policy.,LABEL_0,0.9981812834739685
+1,today i will discuss the outlook for the economy and monetary policy.,LABEL_2,0.9782929420471191
+2,"but it also reflects weakness in business investment, which is being restrained by sluggish growth abroad and trade developments.",LABEL_0,0.9909582138061523
+3,"in contrast, household consumption has continued to rise solidly, supported by a healthy job market, rising incomes, and favorable levels of consumer confidence.",LABEL_1,0.8741702437400818
+4,the unemployment rate was 3.6 percent in octoberâ€”near a half-century low.,LABEL_0,0.764117956161499
+5,"significant differences, however, persist across different groups of workers and different areas of the country: unemployment rates for african americans and hispanics are still well above the jobless rates for whites and asians, and the proportion of the people with a job is lower in rural communities.",LABEL_0,0.8336559534072876
+6,inflation continues to run below the federal open market committee's (fomc) symmetric 2 percent objective.,LABEL_0,0.9989575743675232
+7,"the total price index for personal consumption expenditures (pce) increased 1.3 percent over the 12 months ending in september, held down by declines in energy prices.",LABEL_2,0.9853882193565369
+8,"core pce inflation, which excludes food and energy prices and tends to be a better indicator of future inflation, was 1.7 percent over the same period.",LABEL_2,0.980461597442627
+9,"looking ahead, my colleagues and i see a sustained expansion of economic activity, a strong labor market, and inflation near our symmetric 2 percent objective as most likely.",LABEL_1,0.809120237827301
+10,"in particular, sluggish growth abroad and trade developments have weighed on the economy and pose ongoing risks.",LABEL_0,0.9991487860679626
+11,"moreover, inflation pressures remain muted, and indicators of longer-term inflation expectations are at the lower end of their historical ranges.",LABEL_0,0.9686223268508911
+12,persistent below-target inflation could lead to an unwelcome downward slide in longer-term inflation expectations.,LABEL_0,0.9991285800933838
+13,we will continue to monitor these developments and assess their implications for u.s. economic activity and inflation.,LABEL_2,0.9992552995681763
+14,"monetary policy over the past year, weakness in global growth, trade developments, and muted inflation pressures have prompted the fomc to adjust its assessment of the appropriate path of interest rates.",LABEL_0,0.9982635378837585
+15,the committee took these actions to help keep the u.s. economy strong and inflation near our 2 percent objective and to provide some insurance against ongoing risks.,LABEL_0,0.9882664084434509
+16,"as monetary policy operates with a lag, the full effects of these adjustments on economic growth, the job market, and inflation will be realized over time.",LABEL_2,0.9920614361763
+17,"we see the current stance of monetary policy as likely to remain appropriate as long as incoming information about the economy remains broadly consistent with our outlook of moderate economic growth, a strong labor market, and inflation near our symmetric 2 percent objective.",LABEL_0,0.6970846056938171
+18,"nonetheless, the current low interest rate environment may limit the ability of monetary policy to support the economy.",LABEL_0,0.9993014335632324
+19,"we are currently conducting a public review of our monetary policy strategy, tools, and communicationsâ€”the first of its kind for the fed.",LABEL_2,0.9870968461036682
+20,"with the u.s. economy operating close to maximum employment and price stability, now is an especially opportune time to conduct such a review.",LABEL_2,0.8664727210998535
+21,we will draw on these insights as we assess how best to achieve and maintain maximum employment and price stability.,LABEL_2,0.5614191889762878
+22,"however, as noted in the congressional budget office's recent long-term budget outlook, the federal budget is on an unsustainable path, with high and rising debt: over time, this outlook could restrain fiscal policymakers' willingness or ability to support economic activity during a downturn.1 in addition, i remain concerned that high and rising federal debt can, in the longer term, restrain private investment and, thereby, reduce productivity and overall economic growth.",LABEL_0,0.9715284109115601
+23,i will conclude with a few words on the technical implementation of monetary policy.,LABEL_2,0.987882137298584
+24,"in january, the fomc made the key decision to continue to implement monetary policy in an ample-reserves regime.",LABEL_0,0.99881911277771
+25,these actions are purely technical measures to support the effective implementation of monetary policy as we continue to learn about the appropriate level of reserves.,LABEL_0,0.9954606890678406
+26,they do not represent a change in the stance of monetary policy.,LABEL_0,0.948289155960083

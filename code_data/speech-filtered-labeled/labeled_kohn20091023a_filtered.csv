@@ -1,0 +1,6 @@
+Unnamed: 0,sentence,label,score
+0,"when house prices leveled out and then began to decline, default rates on subprime mortgages started to rise rapidly.",LABEL_1,0.9714373350143433
+1,and asset prices--especially real estate prices--were unsustainably high in a number of countries.,LABEL_1,0.9900039434432983
+2,liquidity risk had also been mispriced.,LABEL_2,0.7892797589302063
+3,"moreover, even countries where assets weren't obviously mispriced felt the effects of the growing dislocations when global banks were forced to deleverage and conserve liquidity.",LABEL_0,0.998464822769165
+4,"however, this requirement, in addition to imposing costs on the banks, might also impede the ability of the global financial system to channel capital to where it is most likely to enhance productivity and growth.",LABEL_0,0.975292444229126

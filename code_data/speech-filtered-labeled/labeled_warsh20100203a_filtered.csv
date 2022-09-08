@@ -1,0 +1,5 @@
+Unnamed: 0,sentence,label,score
+0,"the policy judgments currently being considered are as significant as those made during the darkest days of the panic.1 and here, i am not only referring to the appropriate conduct of monetary policy.2 fiscal, trade, and regulatory policies may turn out to be no less determinative to the path of the u.s. economy.",LABEL_0,0.6205005049705505
+1,will they support long-term economic growth?,LABEL_1,0.6218172907829285
+2,"the growing specter of government support threatens to weaken market discipline, confuse price signals, and create a class of institutions that operate under different rules of the game.",LABEL_0,0.639948844909668
+3,"markets can help effectively discipline the behavior of firms by re-pricing funding costs as perceived risks change.4 and regulators can use market prices and changes in funding mix, among other information, to evaluate whether firms are being evaluated independent of government backing.",LABEL_2,0.9972390532493591

@@ -1,0 +1,5 @@
+Unnamed: 0,sentence,label,score
+0,recent re-assessments of circuit breakers have focused on increasing the magnitude of price declines necessary to trigger coordinated trading halts.,LABEL_0,0.9828502535820007
+1,"many features of financial markets have changed over the last ten years, not least of which is the continuing growth in international activity.",LABEL_2,0.8207231163978577
+2,such episodes are generally accompanied by dramatic increases in uncertainty and increased demands for liquidity and safety.,LABEL_1,0.9239099025726318
+3,"some of these demands for liquidity may, in turn, reflect the fear that the crisis will spread more broadly to the economy.",LABEL_0,0.9944397807121277

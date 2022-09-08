@@ -1,0 +1,11 @@
+Unnamed: 0,sentence,label,score
+0,"these meetings provide excellent opportunities for information-sharing and networking, connecting entrepreneurs with the ideas and the resources that help foster the concepts that generate new business growth.",LABEL_1,0.7289387583732605
+1,these essential elements of business management are vital to the growth of an enterprise because they demonstrate a firm's organizational capacity and position it for future development and financing opportunities.,LABEL_2,0.9716266989707947
+2,"this type of financing represents the opposite end of the funding spectrum from microlenders and is provided by professionals who invest alongside management in young, rapidly growing companies that show the potential for significant growth.",LABEL_2,0.6159219741821289
+3,"equity partners, be they corporations, foundations, pension funds, government, or individuals, are a source of patient capital that can be critical to the growth of a business.",LABEL_2,0.885722279548645
+4,"entrepreneurs seeking equity funding to support their firms' growth and development should identify investors whose investment objectives are consistent with their businesses' needs, characteristics, and role in the local economy.",LABEL_2,0.9639320969581604
+5,"in fact, studies have demonstrated that the quality of these relationships can affect the availability and price of credit to small firms.",LABEL_0,0.8998598456382751
+6,"depending on their focus, these groups offer entrepreneurs a myriad of services, including support in evaluating proposals, developing a business plan, designing marketing strategies, and managing growth.",LABEL_2,0.9772106409072876
+7,these organizations provide small businesses with valuable resources for obtaining education and information that can foster growth and development.,LABEL_1,0.6628713607788086
+8,"consistent with its economic growth objectives, the federal reserve seeks to promote small business development, particularly in underserved markets, through its community affairs offices (caos).",LABEL_0,0.7780202627182007
+9,"fed studies have focused on trends in the demand and use of financial services by small businesses, fostering a better understanding of the issues involved with access to credit and capital.",LABEL_2,0.9961031675338745

@@ -1,0 +1,23 @@
+Unnamed: 0,sentence,label,score
+0,outlook and monetary policy congress assigned the federal reserve the job of promoting maximum employment and price stability.,LABEL_0,0.9986444115638733
+1,"the unemployment rate is 3.7 percent, a 49-year low, and many other measures of labor market strength are at or near historic bests.",LABEL_2,0.7567328214645386
+2,inflation is near our 2 percent target.,LABEL_2,0.9942286610603333
+3,"for seven years during the crisis and its painful aftermath, the federal open market committee (fomc) kept our policy interest rate unprecedentedly low--in fact, near zero--to support the economy as it struggled to recover.",LABEL_0,0.999352216720581
+4,"interest rates are still low by historical standards, and they remain just below the broad range of estimates of the level that would be neutral for the economyâ€‘â€‘that is, neither speeding up nor slowing down growth.",LABEL_0,0.9968060255050659
+5,"my fomc colleagues and i, as well as many private-sector economists, are forecasting continued solid growth, low unemployment, and inflation near 2 percent.",LABEL_2,0.7268955111503601
+6,our gradual pace of raising interest rates has been an exercise in balancing risks.,LABEL_1,0.9449619054794312
+7,we also know that moving too slowly--keeping interest rates too low for too long--could risk other distortions in the form of higher inflation or destabilizing financial imbalances.,LABEL_1,0.9941954612731934
+8,"as always, our decisions on monetary policy will be designed to keep the economy on track in light of the changing outlook for jobs and inflation.",LABEL_0,0.9657273888587952
+9,"under the dual mandate, jobs and inflation are the fed's meat and potatoes.",LABEL_2,0.9979356527328491
+10,"he argued that, while the fed should not act as the arbiter of correct asset prices, it did have a primary responsibility to protect the banking system's capacity to meet the credit needs of households and businesses.",LABEL_0,0.9929826259613037
+11,"at the meeting, critics argued that public statements about inflated asset prices were ""fraught with danger;"" that the nation's banks were so well managed that they should not ""face public admonition""; and, more generally, that the fed was ""out of its sphere.",LABEL_1,0.9926628470420837
+12,"those decades saw many advances in monetary policy and in bank regulatory policy, but the appropriate role for government in managing threats to the broader financial system remained unresolved.",LABEL_0,0.9955580830574036
+13,"before the crisis, prime institutional money market funds were permitted to report a constant, $1 share price so long as the value of the underlying assets remained near $1.",LABEL_2,0.9980738162994385
+14,both the resulting decline in asset prices and the impaired ability of the segment to play its role in the economy can amplify the effects of a downturn.,LABEL_0,0.9984455704689026
+15,"further, the upward trend in recent years appears broadly consistent with the growth in business assets relative to gdp.",LABEL_1,0.835892379283905
+16,"the contentious term ""bubble"" does not appear in our work, however.11 instead, we focus is on the extent to which an asset's price is high or low relative to conventional benchmarks based on expected payoffs and current economic conditions.",LABEL_2,0.999365508556366
+17,"historically, when asset prices soar far above standard benchmarks, sharp declines follow with some regularity, and those declines may bring economic misery reaching far beyond investors directly involved in the speculative boom.",LABEL_0,0.9970508813858032
+18,"today, equity market prices are broadly consistent with historical benchmarks such as forward price-to-earnings ratios (see figure 8).",LABEL_2,0.9988933801651001
+19,"large, sustained declines in equity prices can put downward pressure on spending and confidence.",LABEL_0,0.9991222023963928
+20,"for example, discussions with contacts currently point to risks emanating from the normalization of monetary policy in the united states and elsewhere, the unsettled state of trade negotiations, brexit negotiations, budget discussions between italy and the european union, and cyber-related disruptions.12 having identified possible triggers, we can assess how a particular trigger is likely to interact with known vulnerabilities.",LABEL_0,0.9701117873191833
+21,"to paraphrase a famous line, ""eternal vigilance is the price of financial stability.""",LABEL_0,0.386710524559021

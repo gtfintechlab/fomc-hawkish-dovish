@@ -1,0 +1,17 @@
+Unnamed: 0,sentence,label,score
+0,then i shall discuss the actions that are being taken by both the public and private sectors to deal with the millennium bug and the effects these measures are having on economic activity at the present time.,LABEL_2,0.6385485529899597
+1,"such capital expenditures should raise the level of productivity in those enterprises, and addressing y2k has increased the awareness of many senior executives of the complexity and importance of carefully managing their corporate information technology resources.",LABEL_2,0.8996304273605347
+2,the increased replacement demand also has contributed to the spectacular recent growth in this country's computer hardware and software industries.,LABEL_2,0.9126814603805542
+3,"while year 2000 preparation efforts may give a temporary boost to economic activity in some sectors, the probable net effect on the aggregate economy is slightly negative.",LABEL_2,0.996638298034668
+4,"our estimates of the net effect of y2k remediation efforts, on both our nation's overall labor productivity and on real gross domestic product, are that it will likely shave a tenth or two per year off our growth rate, but a more substantial effect is possible if some of the larger estimates of y2k costs turn out to be accurate.",LABEL_2,0.9544967412948608
+5,"that said, let me now turn to a discussion of the spectrum of plausible outcomes for economic activity in the year 2000.",LABEL_2,0.9992416501045227
+6,"i anticipate that there will be isolated production problems and disruptions to commerce, and perhaps some public services, that could reduce the pace of economic activity early in 2000.",LABEL_0,0.9734169840812683
+7,most of us have experienced examples of how economic activity has been affected by disruptions to the physical infrastructure of some part of our country.,LABEL_0,0.9598714113235474
+8,"some businesses were hurt by the strike, but its effect on economic activity was small in the aggregate.",LABEL_0,0.741407573223114
+9,"under these circumstances, the decline in economic activity would prove to be longer lasting, and a recession could conceivably ensue.",LABEL_0,0.999150812625885
+10,now you might appropriately ask a fed representative what monetary policy can do to offset any y2k disruption.,LABEL_0,0.9984791874885559
+11,"the y2k problem is primarily an issue affecting the aggregate supply side of the economy, whereas the federal reserve's monetary policy works mainly on aggregate demand.",LABEL_0,0.9404241442680359
+12,"we all understand how creating more money, and lowering the level of short-term interest rates, gives a boost to interest-sensitive sectors, such as homebuilding, but these tools are unlikely to be very effective in generating more y2k remediation efforts or accelerating the recovery process if someone experiences some type of disruption.",LABEL_0,0.9951872825622559
+13,"and, in the unlikely event a serious y2k disruption should have significant feedback effects on aggregate demand, such as i outlined earlier, there obviously would be a role for the federal reserve to play in countering a downturn.",LABEL_0,0.9988064169883728
+14,but there is nothing monetary policy can do to offset the direct effects of a y2k disruption.,LABEL_0,0.9991744756698608
+15,"in summary, as i stated at the outset of my remarks, i am cautiously but increasingly optimistic that the united states will weather this storm without major disruptions to economic activity.",LABEL_2,0.7275657653808594

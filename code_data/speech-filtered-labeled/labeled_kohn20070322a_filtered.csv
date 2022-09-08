@@ -1,0 +1,18 @@
+Unnamed: 0,sentence,label,score
+0,but my emphasis today will be not the structure or mechanics of credit markets but rather the information contained in the prices we observe in these markets.,LABEL_2,0.9988864064216614
+1,"in our role as monetary policy makers, we analyze information from credit-risk markets to get readings on the cost of capital to businesses and on forward-looking indicators of the health of the corporate sector that can have implications for future macroeconomic developments.",LABEL_2,0.9917688965797424
+2,"extracting information from asset prices as a consequence, the staff at the federal reserve puts considerable effort into research on asset prices and into reporting the results of that research to policymakers.",LABEL_2,0.9858466982841492
+3,"of course, we look at a great deal of data from the nonfinancial side of the economy, such as gross domestic product (gdp) growth, the unemployment rate, and changes in the prices of goods and services.",LABEL_2,0.9990621209144592
+4,"because financial asset prices embody expectations about the future, they also contain forward-looking information about prospective developments, and many are available continuously and instantaneously.",LABEL_2,0.9720345139503479
+5,"we pay attention to an extensive range of asset prices, including those of treasury securities (both nominal and real), corporate debt and equities, and derivatives.",LABEL_2,0.9984850287437439
+6,"although it is not easy, we use these asset prices to tease out information about expectations that help us to interpret and predict the pace of economic activity and prices.",LABEL_2,0.9991515278816223
+7,the price of an asset reflects the future cash flows that investors expect to receive from owning that asset.,LABEL_2,0.9965296983718872
+8,"the price also reflects a risk premium, which is the excess expected return over the risk-free rate that investors require for holding risky assets in their portfolios.",LABEL_2,0.9155939817428589
+9,"in equity markets, corporate earnings are the future cash flows that affect equity prices.",LABEL_2,0.9985414743423462
+10,"given the marketâ€™s outlook for corporate earnings--as embodied, for example, in the predictions of market analysts--we make a crude estimate of the risk premium on equities as the difference between the ratio of trend earnings to price and a real long-term treasury yield.",LABEL_2,0.9951336979866028
+11,"to judge what market prices of risk might be telling us, we try to understand how the resulting credit-risk premiums relate to other sources of information, such as the strength of business balance sheets, historical levels of risk premiums, and premiums observed in related markets, like that for equities.",LABEL_2,0.9992433190345764
+12,we look to prices in treasury markets and in markets for interest rate options and futures to infer investorsâ€™ expected future path of monetary policy and their uncertainty about that path.,LABEL_2,0.9944669604301453
+13,"to do so, we need to model term premiums to tease out the links between long-term interest rates and investorsâ€™ expectations of future short-term rates.",LABEL_2,0.9983128905296326
+14,"we also compare the treasury yield curve with the prices on treasury inflation-protected securities to infer expected inflation, a key variable tracked by monetary policy makers.",LABEL_2,0.9735326766967773
+15,"although we use a variety of techniques for extracting information from asset prices, what we can learn has limits.",LABEL_2,0.9961220622062683
+16,"first, asset prices are tough to work with.",LABEL_2,0.9963940382003784

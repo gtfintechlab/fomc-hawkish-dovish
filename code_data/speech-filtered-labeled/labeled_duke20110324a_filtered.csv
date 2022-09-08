@@ -1,0 +1,5 @@
+Unnamed: 0,sentence,label,score
+0,"the other question that continually arises is whether the sharp reduction in small business credit was due to changes in the supply of credit, demand for credit, or creditworthiness of potential borrowers.",LABEL_2,0.8668832778930664
+1,the large changes in asset prices over the period may have had an effect on the willingness of the families in this age group to consume out of gains to assets or to reduce spending in response to asset losses.3 the survey responses suggest that the large drop in asset prices over the period may have increased boomer families' sensitivity to future losses more than it affected their sensitivity to future gains.,LABEL_0,0.9883748888969421
+2,"while the data are still not definitive, the panel survey allows us to look at supply, demand, and assessment of creditworthiness from the borrowers' point of view.",LABEL_2,0.9983809590339661
+3,"some of the decrease in activity may be driven by a decline in demand for services, but some may come from credit constraints.",LABEL_0,0.9984498620033264

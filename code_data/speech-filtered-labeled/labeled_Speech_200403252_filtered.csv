@@ -1,0 +1,92 @@
+Unnamed: 0,sentence,label,score
+0,"with the target level of the nominal federal funds rate at a historically low 1 percent and inflation running at a similar rate, the real funds rate is around zero.",LABEL_0,0.9929381012916565
+1,"low short-term interest rates, in turn, have held down longer-term rates, raised asset prices, and fostered an improvement in financial conditions more generally.",LABEL_0,0.9102581739425659
+2,"this policy stance was adopted, as you know, in response to a sharp retrenchment in aggregate demand during the past few years.",LABEL_1,0.6572860479354858
+3,"as a consequence of weak output, declining employment, and a decrease in core inflation to a low level, the federal reserve eased policy aggressively.",LABEL_0,0.9991731643676758
+4,"i anticipate that a principal challenge facing the federal reserve in coming years will be to return monetary policy from its current, stimulative stance to a more neutral posture in a way that will promote full employment while maintaining price stability.",LABEL_0,0.9988743662834167
+5,"in doing so, we will need to assess and respond to three interrelated transitions: the transition of aggregate demand from weakness to solid growth; the transition of the growth of potential supply from extraordinary to merely rapid; and the transition from disinflation to a more balanced price outlook.",LABEL_2,0.9986585378646851
+6,today i plan to examine these transitions and then discuss some of their possible implications for the strategy of monetary policy.,LABEL_2,0.9929834008216858
+7,"the transition from weakness to solid growth of aggregate demand during the past several years, a confluence of forces restrained aggregate demand.",LABEL_2,0.9697020649909973
+8,reinforcing this tendency to curtail capital outlays was a deterioration in the financial conditions of businesses: profits sagged and decreasing equity prices and widening risk spreads inhibited access to external funds.,LABEL_0,0.998099684715271
+9,"at the same time, the financial condition of businesses has improved considerably; their profitability and cash flow have surged, and low interest rates have facilitated a restructuring of their balance sheets.",LABEL_0,0.9986480474472046
+10,"with house prices rising as well, household wealth has been increasing again, and more rapidly than income.",LABEL_1,0.9988744854927063
+11,"as a consequence, aggregate demand has strengthened considerably, aided greatly by stimulative fiscal and monetary policies.",LABEL_0,0.985654890537262
+12,"the accommodative stance of monetary policy has raised the prices of assets on household balance sheets and lowered the cost of acquiring houses and durable goods, while also reducing the cost of capital for businesses and helping them to strengthen their financial positions.",LABEL_0,0.9983300566673279
+13,"looking ahead, the prospects for growth in household and business spending seem bright.",LABEL_1,0.9314557313919067
+14,rising energy prices and a heightening of concerns about global terrorism appear to have eroded some of the optimism of late last year without as yet undermining the forward thrust of the economy.,LABEL_1,0.9979220628738403
+15,"for reasons i will come back to later, i anticipate that labor demand will begin to strengthen noticeably in coming quarters.",LABEL_1,0.9953058958053589
+16,"the accompanying lift to personal income should lend support to future household spending, even as the impetus from the tax cuts to consumption growth diminishes.",LABEL_0,0.9861004948616028
+17,"investment should continue to be spurred by several factors: the accelerator effects of sales growth, favorable cash flow and financial conditions, ongoing opportunities to upgrade capital stocks with new technologies, and for this year, partial expensing.",LABEL_2,0.7845718264579773
+18,"meanwhile, the decline in the dollar over the past two years and faster growth among our trading partners suggest that less of the strengthening of our domestic demand will be met by higher imports than it would be otherwise, and that rising exports will help to stimulate production in the united states.",LABEL_1,0.9131975173950195
+19,"indeed, the global nature of the pickup in economic activity encourages me to think that we are seeing a fundamental turnaround in confidence and spending propensities that is likely to be self-reinforcing.",LABEL_2,0.9967442154884338
+20,"all told, the u.s. economy has apparently made the transition from weakness to solid growth.",LABEL_2,0.9976053833961487
+21,"i expect that the growth in household investment will taper off, but a more pronounced pullback in spending cannot be ruled out, especially once interest rates rise.",LABEL_1,0.5497670769691467
+22,"some observers have expressed concern that weakness in hiring, should it persist, would hold down the growth of labor income and weigh on consumer confidence, and thus could depress spending at some point.",LABEL_0,0.9993090629577637
+23,"in recent quarters, however, slow hiring has been accompanied by strong productivity growth.",LABEL_2,0.9639331102371216
+24,"over time, higher productivity will show up in higher wages.",LABEL_1,0.9971809983253479
+25,"but even in the short-run, these new efficiencies have boosted capital income, and the resulting increases in dividend income and stock prices have, in the aggregate, provided at least a partial offset to restrained growth of wages and salaries.",LABEL_2,0.8386685252189636
+26,businesses' caution about making commitments to meet future demand appears still to be eroding only slowly.,LABEL_2,0.8816383481025696
+27,"the transition from extraordinary to merely rapid growth of potential aggregate supply the transition to more-rapid and self-sustaining increases in aggregate demand is critical to the outlook, but it is only part of the story.",LABEL_1,0.8306308388710022
+28,the full tale also requires an assessment of the economy's productive potential--both its level and its rate of growth.,LABEL_2,0.995761513710022
+29,i should note that the course of aggregate demand is not independent of the course of potential aggregate supply.,LABEL_2,0.9985923767089844
+30,"both economic theory and empirical evidence suggest that households and businesses make decisions about spending with an eye to future incomes and sales, so that a rosier long-term outlook tends to raise demand today.",LABEL_2,0.9929620027542114
+31,"thus, as the fomc notes frequently in its statements, robust underlying growth in productivity is providing ongoing support to economic activity.",LABEL_2,0.851844847202301
+32,"nevertheless, owing to the restraints that i spoke of earlier, demand has fallen well short of potential supply during the past several years, as can be seen in the elevated unemployment rate, the depressed rate of capacity utilization, and the decline in inflation.",LABEL_0,0.9992998242378235
+33,"between 1973 and 1995, labor productivity in the nonfarm business sector increased at an annual average rate of 1-1/2 percent; between 1995 and 2000, productivity climbed 2-1/2 percent per year; and since 2000, productivity has jumped more than 4 percent per year on average.",LABEL_2,0.6403299570083618
+34,understanding the reasons for this surge is critical to judging the likely path of productivity and potential supply going forward.,LABEL_2,0.998285710811615
+35,some of the step-up in productivity growth since 2000 probably reflects cyclical influences or factors that may offer only one-time improvements in the production process.,LABEL_2,0.9879989624023438
+36,"to the extent that these processes have revealed inefficiencies in production, they have raised the level of productivity on a permanent basis; however, they are unlikely to be a source of continued productivity gains.",LABEL_2,0.9677207469940186
+37,"all that said, some of the recent step-up in productivity growth may well persist.",LABEL_2,0.9940480589866638
+38,"taken together, these arguments suggest that productivity will continue to advance at a rapid rate, but not at the extraordinary pace of recent years.",LABEL_2,0.9987041354179382
+39,"this transition, combined with solid growth in aggregate demand, should result in stronger hiring and a narrowing of the output gap.",LABEL_1,0.9856975078582764
+40,"as with the transition in demand, the transition to less-spectacular growth of potential supply involves important risks.",LABEL_2,0.9263162612915039
+41,we have been persistently surprised by the extent of the pickup in productivity and could be facing a higher level and growth rate of productivity than many expect.,LABEL_2,0.5270024538040161
+42,"if we are so fortunate as to be confronting these circumstances, policymakers will need to be alert to the need for a faster expansion of aggregate demand to match the stepped-up pace of supply.",LABEL_1,0.9986191987991333
+43,"conversely, perhaps the transitory factors boosting productivity will recede more sharply than most observers anticipate, and the output gap will close more rapidly.",LABEL_2,0.705422043800354
+44,it appears to me that uncertainty in our current situation is at least as great for potential output as it is for demand.,LABEL_2,0.9969147443771362
+45,the transition from disinflation to more balanced risks for inflation let me turn now to the implications of these demand and supply transitions for inflation.,LABEL_2,0.9415085911750793
+46,"over the past several years, slack in resource utilization and declining unit labor costs owing to rapid productivity growth have reduced the inflation rate.",LABEL_2,0.9750152826309204
+47,"the chain-weighted price index for personal consumption expenditures increased more than 2 percent in the four quarters of 2000, but it rose only 1-1/2 percent last year.",LABEL_2,0.9564650654792786
+48,"pce inflation excluding food and energy items has eased a similar amount, with core prices rising 1-1/2 percent in 2000 but just 1 percent last year.",LABEL_2,0.9979226589202881
+49,the cpi and core cpi show even steeper decelerations than do pce prices.,LABEL_0,0.9897451996803284
+50,"moreover, leaving aside the reduction in inflation, the level of core inflation is now quite low--in the neighborhood of 1 percent when measured by either the cpi or the pce price index.",LABEL_2,0.9853355884552002
+51,"allowing for measurement biases in these series, the u.s. economy has entered a zone of price stability.",LABEL_2,0.9990925192832947
+52,"indeed, last spring the fomc noted the risk that, for the first time in forty years, inflation in the united states might fall too low.",LABEL_0,0.9982370138168335
+53,"the incoming data contain some indications that underlying inflation is no longer declining, but the evidence is inconclusive thus far.",LABEL_2,0.9990357160568237
+54,"in particular, recent monthly changes in core prices have been within the range of increases seen in 2003, but this flattening out of inflation has not persisted long enough to be clearly distinguished from the normal volatility in these data.",LABEL_2,0.9836264848709106
+55,"still, if aggregate demand and potential aggregate supply follow the paths that i outlined earlier, the slack in resource utilization should diminish, unit labor costs should begin to move higher, and the underlying rate of inflation should stabilize.",LABEL_1,0.7954908013343811
+56,sources of potential upward pressure on prices have become more prominent in recent months.,LABEL_1,0.9989864826202393
+57,overall inflation has been boosted by a jump in energy prices.,LABEL_1,0.9989800453186035
+58,such a jump could raise core inflation temporarily if it is passed through to other prices or if it contributes to increasing inflation expectations.,LABEL_1,0.9975671172142029
+59,"indeed, by several measures, near-term inflation expectations have risen of late.",LABEL_1,0.999094545841217
+60,"however, futures market participants have priced in some decline in energy prices from these elevated levels; and even if energy prices remain high, they would not be adding to inflation over time.",LABEL_2,0.9940365552902222
+61,another factor some observers have cited as possibly boosting inflation is a tendency for increases in resource utilization to generate bottlenecks that can push up some prices more rapidly.,LABEL_1,0.9985376596450806
+62,"indeed, periods like the current one with rising global demand have often been accompanied by marked accelerations in the prices of crude and, to a lesser extent, intermediate materials, which seem to be most sensitive to changes in demand.",LABEL_1,0.9743729829788208
+63,but this variation in upstream producer prices has left little imprint on consumer prices in the past--perhaps because these inputs account for a small share of the final value of industrial output and even less of total consumption.,LABEL_2,0.9983853697776794
+64,a related concern is the effect of a declining dollar on import prices and the prices of competing domestic goods.,LABEL_0,0.896618127822876
+65,"over time, however, foreign producers seem to be absorbing a greater share of the impact of a falling dollar in their profit margins rather than passing it on fully in their prices, and i expect the drop in the dollar to have only a modest effect on u.s. inflation.",LABEL_0,0.7409653663635254
+66,"at the same time, other forces are likely to be acting to restrain inflation.",LABEL_0,0.43599629402160645
+67,"in addition, because hourly compensation has lagged productivity, unit labor costs have fallen markedly.",LABEL_0,0.997991144657135
+68,"the resulting markup of prices over unit labor costs is quite elevated, further encouraging firms to reach for market share as well as providing scope for workers' real wages to rise without pushing up inflation.",LABEL_1,0.9989540576934814
+69,"overall, the tenor of the inflation outlook has shifted over recent quarters.",LABEL_2,0.9912890791893005
+70,"solid growth in economic activity, higher prices in some sectors, and hints of the stabilization of overall inflation, along with perceptions by businesses that ""pricing power"" may be returning, are marking a transition from asymmetric risks of additional disinflation to more nearly balanced risks of rising and falling inflation.",LABEL_1,0.998021125793457
+71,this transition is another key piece of the backdrop for monetary policy.,LABEL_0,0.9971404671669006
+72,"monetary policy strategy as i noted at the outset of my talk, the federal funds rate is quite low: it is low relative to interest rates associated in the past with sustained high employment and stable prices; and it is low relative to recent rates of economic growth--a disparity that has attracted increasing attention from some observers.",LABEL_0,0.9939864873886108
+73,"in fact, the low funds rate has been necessary to promote growth that, to date, has been just sufficient to begin reducing substantial margins of slack in resource utilization.",LABEL_0,0.795738160610199
+74,"still, as my analysis indicates, the unusual shocks that have impinged on demand and bolstered potential supply over the past several years are abating, or should soon do so.",LABEL_2,0.9897645115852356
+75,"as the output gap closes, economic stability will require that interest rates eventually move up from unusually low levels if we are to preserve price stability.",LABEL_0,0.5788439512252808
+76,one set of reasons for patience in my view can be found in the levels of inflation and resource utilization likely to prevail for a while.,LABEL_2,0.8500366806983948
+77,"as i have already noted, a considerable gap exists today between actual and potential output, and consumer price inflation is very low.",LABEL_2,0.9833424091339111
+78,"in addition, the transitions i have discussed in aggregate demand, potential aggregate supply, and inflation are gradual processes.",LABEL_2,0.9963582158088684
+79,the move to solid growth of demand and some easing in the growth of potential supply are unlikely to lead to a rapid closing of the gaps in resource utilization or a marked rise in inflation.,LABEL_1,0.951759397983551
+80,"given our uncertainty about the rate of growth of potential supply, actually observing a closing output gap will be particularly important for policymakers.",LABEL_2,0.9909753203392029
+81,"given our uncertainty about the level of potential supply and thus the level of the output gap, observing stable inflation will also be particularly important.",LABEL_2,0.998155951499939
+82,"moreover, the low current levels of inflation and resource utilization imply, from my perspective, that the welfare costs of the economy running stronger than expected for a while are considerably lower than the costs of its running weaker.",LABEL_2,0.8683212995529175
+83,"in these circumstances, i think policy action can await convincing evidence that labor market slack is on a declining trend and that inflation is no longer decreasing.",LABEL_0,0.995102047920227
+84,"they are concerned that continued policy accommodation is distorting interest rates and asset prices and encouraging a build-up of debt, and thereby laying the groundwork for financial and economic instability.",LABEL_0,0.7578532099723816
+85,"clearly, the low funds rate has held down long-term interest rates and boosted asset prices.",LABEL_0,0.9917857646942139
+86,"these movements are, in fact, some of the key channels through which monetary policy has stimulated demand.",LABEL_0,0.9958375692367554
+87,whether prices in some markets have gone beyond what one might have expected from easier monetary policy is unclear.,LABEL_0,0.9816047549247742
+88,"when interest rates increase, prices will undoubtedly adjust to some extent--in some cases simply by rising less rapidly than they would otherwise--and debt-service obligations will move up.",LABEL_1,0.9983243942260742
+89,"but i think the hurdle is high--and appropriately so--for a central bank to tighten policy, and in the process damp an expansion of economic activity in the short run, on the suspicion that movements in asset prices and increases in debt threaten economic stability over the longer run.",LABEL_1,0.9964784979820251
+90,"conclusion in sum, monetary policy will be facing some interesting challenges over the next several years, even if the economy proceeds along the favorable path i have outlined today.",LABEL_0,0.996780276298523

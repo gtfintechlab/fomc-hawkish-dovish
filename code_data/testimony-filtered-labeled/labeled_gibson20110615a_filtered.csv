@@ -1,0 +1,3 @@
+Unnamed: 0,sentence,label,score
+0,"market participants have already established central counterparties that provide clearing services for some otc interest rate, energy, and credit derivatives contracts.",LABEL_2,0.7200583219528198
+1,"the act permits domestic banks to continue to engage in derivatives activities that have been a traditional focus of banks, including hedging activities and dealing in interest rate swaps, currency swaps, certain cleared credit default swaps, and other swaps that reference assets that banks are eligible to hold.",LABEL_0,0.962156355381012

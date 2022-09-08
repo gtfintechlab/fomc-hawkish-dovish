@@ -1,0 +1,9 @@
+Unnamed: 0,sentence,label,score
+0,"adjusted for inflation, gross domestic product increased at a brisk rate in the first quarter of the year.",LABEL_1,0.9986592531204224
+1,"to be sure, most forecasters are expecting the overall pace of economic activity to moderate to a more sustainable pace in coming quarters as housing markets gradually cool and the delayed effects of higher interest rates and energy prices temper domestic demand.",LABEL_1,0.9803122878074646
+2,"however, with economic activity abroad expanding at a solid pace, export sales should provide some support for domestic production.",LABEL_2,0.9407715797424316
+3,"against a backdrop of sustained growth in sales, businesses should be well positioned to undertake potentially profitable projects.",LABEL_2,0.9779311418533325
+4,the increase in street traffic and economic activity makes the neighborhood a livelier and safer place.,LABEL_1,0.9850414991378784
+5,"of course, the higher home prices and rents that result from the increased desirability of this neighborhood also limit the availability of affordable housing.",LABEL_1,0.998662531375885
+6,"the federal reserve bank of richmond is currently studying patterns of home price changes and gentrification in neighborhoods here in washington, d.c.",LABEL_2,0.996954083442688
+7,"in the meantime, my colleagues at the board of governors and i are committed to sustaining a noninflationary economic expansion and a healthy financial system, which should create a solid foundation for the development of new business opportunities.",LABEL_0,0.7386556267738342

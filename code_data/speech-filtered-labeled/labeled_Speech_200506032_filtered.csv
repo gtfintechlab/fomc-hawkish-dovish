@@ -1,0 +1,28 @@
+Unnamed: 0,sentence,label,score
+0,"the industry delivered this excellent performance as it adapted to rising interest rates and more-rapid economic growth, including a gradual improvement in business loan demand.",LABEL_1,0.9750288724899292
+1,"first-quarter earnings announcements by the major banks were generally quite positive, highlighting further acceleration in loan growth, continuing improvement in credit quality, and robust trading revenues.",LABEL_2,0.8609577417373657
+2,"loan growth was solid at about 2 percent, including a pickup in the growth of commercial and industrial (c&i), construction, and mortgage loans.",LABEL_1,0.9891374111175537
+3,"bankers have been pleased to report that c&i loans have shown greater strength, consistent with loan officer surveys and market reports that indicate loan demand has returned.",LABEL_2,0.8892877697944641
+4,"banks were not able to fully enjoy the benefits of growth in loans and securities, however, because banks' net interest margins narrowed further to 3.61 percent.",LABEL_2,0.8132252097129822
+5,"rising short-term interest rates, a flattening yield curve, competitive pressure on spreads, and rapid growth in assets funded with purchased money each played a role in the margin compression.",LABEL_1,0.9864850044250488
+6,"the net result was that, despite solid asset growth, the industry's net interest income barely rose in the first quarter.",LABEL_2,0.7819381952285767
+7,"as market interest rates fell in 2000 and 2001, banks reduced the rates on their nonmaturity deposits more slowly than rates on comparable nondeposit instruments had declined.",LABEL_0,0.9991681575775146
+8,"as short-term interest rates have risen, banks have repriced these deposits more slowly.",LABEL_1,0.9933918714523315
+9,steady improvement in already-strong asset quality has supported earnings growth by allowing for lower provisions.,LABEL_0,0.9973906874656677
+10,"at this point, it appears that such increases will primarily reflect growth in loan portfolios because asset quality has not yet shown signs of impending deterioration.",LABEL_2,0.9905956983566284
+11,service charges on deposits weakened as a result of fewer retail overdrafts and the indirect effects of increases in compensating balances--as higher market interest rates boosted internal earnings credit rates on such balances--that damped direct-fee revenue received from commercial depositors.,LABEL_1,0.9967527985572815
+12,"nevertheless, bankers would probably admit they would like to see a greater share of their earnings growth come from improved lending and margins rather than lower provisions.",LABEL_2,0.41935890913009644
+13,"consolidation and the growth of large banking organizations do not alter the fundamental competitive advantages that banks enjoy, namely, deposit insurance, reputation and public confidence, branch networks and other delivery systems, and technology.",LABEL_2,0.9958224296569824
+14,"a key issue for management's attention at this time is the sustained rapid growth in commercial real estate lending--that is, construction loans as well as loans secured by nonfarm nonresidential and multifamily properties.",LABEL_1,0.967397928237915
+15,let me take a moment to put that growth in perspective.,LABEL_2,0.9524866938591003
+16,"at community banks, growth in commercial real estate lending (cre)--nearly $32 billion in 2004 alone--has accounted for at least two-thirds of total asset growth every year since 2001; cre lending accounted essentially for all of the asset growth at these institutions in 2003 and 2004.",LABEL_2,0.9055972695350647
+17,"among community banks, construction loans increased at a compounded growth rate of 17.4 percent annually over the same period.",LABEL_1,0.9973617196083069
+18,this is a remarkable pace of growth--and a growing concentration for community banks.,LABEL_1,0.8855242133140564
+19,"nonetheless, credit risk concentrations are a critical ""franchise"" risk for bankers, especially community bankers, and they can assume even greater importance when they involve high-growth lines of business.",LABEL_2,0.4886438846588135
+20,"as economic conditions and business loan demand have improved, we have expected and seen some degree of easing in commercial lending standards.",LABEL_0,0.9702234268188477
+21,"in a similar vein, supervisors have been attentive to indications that home equity lending standards and risk-management practices may not have kept up with the very rapid growth in this form of lending.",LABEL_2,0.635875403881073
+22,let me conclude with a few thoughts on managing interest rate risk.,LABEL_0,0.8424575328826904
+23,"since then, the share of these assets has been pared back to 16.3 percent, as short-term interest rates have increased.",LABEL_1,0.987785816192627
+24,bankers continue to rely significantly on the interest rate protection provided by their stable and reliable core deposit base.,LABEL_0,0.9967290163040161
+25,"if recent deposit growth has been fueled by low interest rates and weakness in the equity markets, unexpected liquidity and interest rate pressures may develop if deposit customers shift funds to other investment vehicles.",LABEL_0,0.9821432828903198
+26,"conclusions the u.s. banking industry is healthy, strong, profitable, and well positioned to support economic growth and prosperity.",LABEL_2,0.9621133804321289

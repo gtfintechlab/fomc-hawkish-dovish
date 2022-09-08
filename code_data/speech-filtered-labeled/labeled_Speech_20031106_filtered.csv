@@ -1,0 +1,29 @@
+Unnamed: 0,sentence,label,score
+0,"business fixed investment then stalled in the first quarter of this year, and many firms, particularly outside the motor vehicle sector, were content to meet some of the increase in demand by drawing down inventories.",LABEL_0,0.9440426826477051
+1,risk spreads fell sharply as did the price of oil.,LABEL_0,0.9791635870933533
+2,stock prices rose.,LABEL_1,0.9930132031440735
+3,economic activity perked up in late spring and then accelerated further this summer as tax cuts provided a substantial boost to the disposable incomes of households.,LABEL_1,0.9757804274559021
+4,"for the third quarter as a whole, real gdp, our broadest measure of output, is reported to have increased 7-1/4 percent at an annual rate, the fastest quarterly rate of growth in nearly twenty years and obviously a pace not sustainable over the longer run.",LABEL_1,0.9547269344329834
+5,"indeed, since november 2001--the estimated trough of this cycle--total payroll employment is currently reported to have declined by 1 million, and aggregate hours worked in the nonfarm business sector have come down 1-1/2 percent.",LABEL_0,0.9988102912902832
+6,the combination of growing output and falling hours worked was made possible by a startlingly large rise in productivity.,LABEL_1,0.9412490129470825
+7,the explanations of the past two years' surge in productivity are wide-ranging.,LABEL_2,0.9489588141441345
+8,one hypothesis is that some of the increase represents a temporary rise in the level of productivity reflecting a view that an unusual amount of caution is leading businesses to press workers and facilities to a greater degree than can be sustained over the longer haul.,LABEL_1,0.5459273457527161
+9,"by this hypothesis, as that caution dissipates, employment growth will pick up and the level of output per hour will drop back.",LABEL_2,0.9991092681884766
+10,another hypothesis is that the level of productivity has undergone a one-time permanent upward shift.,LABEL_2,0.9747450351715088
+11,"but with tepid sales growth, uncertainty about the strength of future demand, and a fierce discipline exerted by financial markets, companies have been forced to search aggressively for ways to use resources more efficiently, to cut costs, and restore operating profit margins.",LABEL_0,0.9982534646987915
+12,"finally, yet another hypothesis stresses a more-lasting increase in the growth of output per hour.",LABEL_1,0.9717484712600708
+13,"of course, given the exceptionally high rate of growth in output per hour over the past two years, some combination of short-term and longer-term productivity-enhancing forces seems likely to have been at work.",LABEL_1,0.8254103064537048
+14,"in any event, one consequence of these improvements in efficiency has been a temporary ability of many businesses to meet increases in demand while paring existing workforces and continuing to exercise restraint on capital spending.",LABEL_2,0.9927194118499756
+15,"* * * if businesses are to spend and hire more vigorously, they will need to be convinced that economic growth can be sustained beyond the short run.",LABEL_1,0.9822474718093872
+16,the surge in final demand in recent months has been met in part by drawing down inventories.,LABEL_0,0.8542484641075134
+17,efforts to rebuild inventories and a dwindling pool of possible efficiencies seem a combination that could generate a notable pickup in hiring should growth in final sales remain firm.,LABEL_1,0.7352120876312256
+18,* * * a critical factor distinguishing the current economic environment from much of the previous experience of the past half century is the inflation backdrop.,LABEL_2,0.8538095951080322
+19,"in previous recessions since the 1960s, the underlying rate of inflation at economic troughs remained clearly above any level that could be associated with effective price stability.",LABEL_1,0.9757965803146362
+20,"as a consequence, with some risk to economic activity, monetary policy typically had to move aggressively in the uncertain early stages of past economic recoveries to ensure that inflation would be contained.",LABEL_0,0.8812161087989807
+21,"by contrast, in the current episode, core consumer price inflation as measured in the national income and product accounts has been running only a little more than 1 percent over the last year, and firms exhibit scant evidence that they are gaining appreciable pricing power despite the pickup in the pace of economic growth.",LABEL_2,0.994987428188324
+22,"indeed, the federal open market committee has judged that the probability, though minor, of an unwelcome fall in inflation exceeds that of a rise in inflation from its already low level.",LABEL_1,0.8807677626609802
+23,"in these circumstances, monetary policy is able to be more patient.",LABEL_0,0.9969944357872009
+24,"that said, no central bank can ever afford to be less than vigilant about the prospects for inflation.",LABEL_1,0.9977750778198242
+25,"as you know, the congressional budget office is projecting that, if current policies remain in place, the unified budget will post deficits throughout the remainder of this decade--a sharp turnaround from the large and growing surpluses projected just a few years ago.",LABEL_0,0.9987990856170654
+26,merely maintaining a given force structure rather than increasing it will remove an important factor driving the deficit higher.,LABEL_2,0.6642824411392212
+27,"in retrospect, the emergence of budget surpluses in the late 1990s eroded the discipline that emerged as a consequence of the earlier fear of ever rising and, hence, potentially destructive deficits.",LABEL_1,0.8652192950248718

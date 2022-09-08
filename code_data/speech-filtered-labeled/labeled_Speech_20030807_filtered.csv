@@ -1,0 +1,6 @@
+Unnamed: 0,sentence,label,score
+0,"members of that committee should use the reports to ensure business strategy, changing business processes, management reorganizations, and positioning for future growth are conducted within the context of a sound system of internal controls and governance.",LABEL_2,0.9801274538040161
+1,directors must demand that management fix problems promptly and provide appropriate evidence to internal audit confirming this.,LABEL_1,0.8856180310249329
+2,"for subprime accounts, rapid growth of the account base can mask underlying revenue trends.",LABEL_2,0.9498996138572693
+3,"by relying on reports for the portfolio as a whole, rather than by vintage of the account, portfolio growth can mask the increasing amount of losses.",LABEL_2,0.9835380911827087
+4,"thus, when growth slows, losses catch up.",LABEL_0,0.9576436281204224

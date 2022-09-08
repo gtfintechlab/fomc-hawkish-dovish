@@ -1,0 +1,12 @@
+Unnamed: 0,sentence,label,score
+0,"even as the number of banking organizations has declined, the number of banking offices has continued to increase in response to the demands of consumers, and measures of local banking concentration have remained quite stable.",LABEL_2,0.6120360493659973
+1,"also included in this analysis are the financial and accounting effects of the transaction, that is, the purchase price, the funding and sources thereof, and any purchase accounting adjustments.",LABEL_2,0.9953251481056213
+2,individuals familiar with them are in wide demand.,LABEL_1,0.6249933838844299
+3,potential implications of bank mergers the rapid rate of bank mergers has raised a number of questions regarding the potential effects of banking consolidation on those consumers whose demands for banking services are primarily local in nature and on the performance of the merged banks.,LABEL_2,0.99784255027771
+4,"moreover, this is occurring at the same time as banks are unbundling and explicitly pricing individual services that were not previously priced separately.",LABEL_0,0.9778185486793518
+5,"put differently, if consumers demand locational convenience, banks of all sizes will need to, and are now able to, respond if they expect to remain viable competitors for retail customers.",LABEL_0,0.8878626823425293
+6,"some of these studies have focused on the effect of mergers on bank profits and prices, while others have looked at the potential for cost savings and efficiencies derived from mergers.",LABEL_2,0.9986576437950134
+7,"of those studies concerned with profits and prices, some have examined the effects of mergers directly, although most studies have approached this issue more indirectly by considering how bank profits and prices differ across banking markets.",LABEL_2,0.998693585395813
+8,other studies have looked across banking markets for differences in the prices that banks charge or pay their loan and deposit customers.,LABEL_2,0.9988503456115723
+9,"for the most part, such studies have found that banks located in relatively concentrated markets tend to charge higher rates for certain types of loans, particularly small business loans, and tend to offer lower interest rates on certain types of deposits, particularly transactions accounts, than do banks in less concentrated markets.",LABEL_0,0.9897568821907043
+10,"in general, these studies support the need to maintain antitrust constraints if locally limited bank customers are to continue to receive competitively priced banking services.",LABEL_1,0.93372642993927

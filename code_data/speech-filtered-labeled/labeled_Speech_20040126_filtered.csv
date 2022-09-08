@@ -1,0 +1,22 @@
+Unnamed: 0,sentence,label,score
+0,"market systems, he argued, contrary to the conventional wisdom, did not at all times converge to full employment.",LABEL_2,0.8712863326072693
+1,"the notion prevalent in the 1920s and earlier--that economies, when confronted with unanticipated shocks, would quickly return to full employment--fell into disrepute as the depression festered.",LABEL_0,0.6786626577377319
+2,in its place arose the view that government action was required to restore full employment.,LABEL_1,0.9020677208900452
+3,"the ostensible success of wartime economies operating at full employment, in contrast to the earlier frightening developments of the depression years, thwarted a full dismantlement of wartime regimens when hostilities came to an end.",LABEL_0,0.6880404949188232
+4,"wage and price controls, coupled with rationing, lingered in many economies well into the first postwar decade.",LABEL_2,0.6805002689361572
+5,"because full employment was no longer perceived as ensured by the marketplace, government initiatives promoting job growth dominated the postwar economic policy framework of the western democracies.",LABEL_2,0.6149696707725525
+6,"in the united states, the congress passed, and the president signed, the ""employment act of 1946.""",LABEL_1,0.9339996576309204
+7,"in the united states, unbalanced macroeconomic policies led to a gradual uptrend in the rate of inflation in the 1960s.",LABEL_1,0.9988802671432495
+8,the imposition of wage and price controls in the 1970s to deal with the problem of inflation proved unworkable and ineffective.,LABEL_1,0.9930999875068665
+9,"the stated purpose was to enhance competition, which was increasingly seen as a significant spur to productivity growth and elevated standards of living.",LABEL_1,0.9613083004951477
+10,"through this process, wealth is created, incremental step by incremental step, as high levels of productivity associated with innovative technologies displace lesser productive capabilities.",LABEL_2,0.6431617736816406
+11,"whether this seeming greater capacity to discharge workers would increase or decrease the level of structural unemployment was uncertain, however.",LABEL_0,0.9947947859764099
+12,"in the event, structural unemployment decreased because the broadened freedom to discharge workers rendered hiring them less of a potentially costly long-term commitment.",LABEL_0,0.9828981161117554
+13,the increased flexibility of our labor market is now judged an important contributor to economic resilience and growth.,LABEL_1,0.8076865673065186
+14,"insurance companies, especially those in reinsurance, pension funds, and hedge funds continue to be willing, at a price, to supply this credit protection, despite the significant losses on such products that some of these investors experienced during the past three years.",LABEL_0,0.9971053600311279
+15,"in the event, of course, prices of telecommunications stocks collapsed, and many firms went bankrupt.",LABEL_0,0.9948920011520386
+16,"yet, in our roles as consumers, we seem to insist on the low product prices and high quality that are the most prominent features of our current frenetic economic structure.",LABEL_2,0.9908744692802429
+17,"if a producer can offer quality at a lower price than the competition, retailers are pressed to respond because the consumer will otherwise choose a shopkeeper who does.",LABEL_0,0.6224055886268616
+18,"those industries in which labor costs are a significant part of overall costs have been under greater competition from foreign producers with lower labor costs, adjusted for productivity.",LABEL_0,0.591313362121582
+19,"in recent years, competition from abroad has risen to a point at which developed countries' lowest skilled workers are being priced out of the global labor market.",LABEL_0,0.9894806146621704
+20,"what we in the united states do know is that, over the years, more than 94 percent of our workforce, on average, has been employed as markets matched idled workers seeking employment to new jobs.",LABEL_2,0.9964710474014282

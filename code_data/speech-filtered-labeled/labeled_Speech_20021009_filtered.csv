@@ -1,0 +1,36 @@
+Unnamed: 0,sentence,label,score
+0,"fortunately, the increasing supply of services provided by our financial system--and the increasing complexity and diversity of product offerings--have increased consumer demand for improved financial education.",LABEL_1,0.9835923314094543
+1,"the bond market foundation, like the federal reserve, has been looking for new ways to meet that demand.",LABEL_0,0.9931529760360718
+2,"obviously, the impulse of monetary policy is transmitted, in part, through interest rates set by the market.",LABEL_1,0.7425656914710999
+3,"we target only the overnight rate, and traders and investors, such as those represented and serviced by those here this evening, determine longer-term interest rates on treasury and private securities.",LABEL_2,0.9363588690757751
+4,your role is to allocate scarce savings among competing demands.,LABEL_2,0.997886061668396
+5,"ours is to set overall conditions, particularly by maintaining price stability, that allow market prices to accurately reflect supply and demand dynamics.",LABEL_2,0.9991829991340637
+6,"a price system that is accurate in that way supports the market allocation of all resources, including capital, to their most productive uses.",LABEL_2,0.9837914705276489
+7,"however, it is also important to understand the limits of what the federal reserve, or monetary policy more generally, can do.",LABEL_0,0.9817716479301453
+8,"first, monetary policy action cannot appropriately be targeted to benefit one industry, region, or economic group.",LABEL_0,0.9928596615791321
+9,a closely related logic applies to relative prices.,LABEL_2,0.9934049248695374
+10,"with one major exception, the federal reserve does not attempt to adjust the relative price of any class of goods, services, or assets.",LABEL_2,0.9986006021499634
+11,"in that market, in which we have a monopoly on supply, we set the price and let the market determine the quantity demanded.",LABEL_2,0.981821596622467
+12,we do this because we find that adjusting the price of overnight credit is currently the most efficient way to achieve our mandate of low and stable inflation and maximum sustainable growth.,LABEL_2,0.973667562007904
+13,"short-term interest rates are such a powerful tool for central banks because so many other financial assets are priced based, in part, on the price of short-term credit and market expectations about the future adjustment of that price.",LABEL_0,0.9397804141044617
+14,"in all other markets, the forces of supply and demand determine prices.",LABEL_2,0.9874041080474854
+15,"some have suggested that under some circumstances central banks should adjust the overnight funds rate to affect intentionally the relative price of another asset class, namely equities.",LABEL_0,0.9790997505187988
+16,"but if a central bank elevates another set of relative prices to being targets of policy, i believe that it should have strong conviction in two areas.",LABEL_1,0.9888045191764832
+17,"first, that its tool, the provision of reserves to the banking system, will predictably influence that relative price, and with minimal unintended consequences.",LABEL_2,0.9848825335502625
+18,"second, that adjusting that relative price will, in turn, have a predictable and significant role in achieving our mandate.",LABEL_2,0.9960368275642395
+19,"the link between overnight reserves and prices of equities is too remote and indirect, and the impact of equity prices on the balance of aggregate supply and demand is too uncertain, for those prices to be a target of policy.",LABEL_2,0.993974506855011
+20,"to be clear, this is not an argument for never considering prices in asset markets when determining how well we are likely to do in achieving our goals.",LABEL_2,0.999386191368103
+21,monetary policymakers follow developments in the equity and other asset markets as part of the process of evaluating and forecasting economic conditions.,LABEL_2,0.9988563060760498
+22,"that is, the values of equity claims affect spending decisions and help forecast economic activity.",LABEL_2,0.9983994960784912
+23,"but, in that regard, a similar role is played by many other important determinants of spending, including long-term interest rates, the foreign exchange value of the currency, the government's fiscal position, and economic activity abroad.",LABEL_2,0.9965771436691284
+24,our tool is most efficiently deployed to adjust overnight interest rates.,LABEL_2,0.9948785901069641
+25,"nobody would deny that central banks can be quite powerful and that monetary policy works, over time.",LABEL_0,0.9354783296585083
+26,"but in the scheme of things, a central bank's ability to smooth asset prices (if it wanted to) or to buffer shocks to spending or production is somewhat limited.",LABEL_2,0.7723565101623535
+27,the textbooks teach that monetary policymakers can vary interest rates to offset fluctuations in aggregate demand.,LABEL_2,0.9102914333343506
+28,"the reality is that when the shortfall in desired spending is large or arises quite quickly, as was the case last year when businesses slashed their investment plans in light of a perceived overhang of capital, the initial monetary policy offset can be only partial and not necessarily synchronous.",LABEL_0,0.9988816976547241
+29,"eventually, of course, monetary policy does work; but the lags continue to be unpredictable and both the level of rates and the time required for policy to have the desired equilibrating impact depend greatly on the force of the macroeconomic instability that must be confronted and are not knowable at the start of a cyclical event.",LABEL_0,0.80129075050354
+30,"similarly, the central bank can meet elevated demands for liquidity during times of crisis, but the private sector cannot look to the central bank to eliminate all risk, just as it cannot look to us to support specific subsets of the economy or alter relative prices.",LABEL_0,0.9968358278274536
+31,"what we can do, of course, is strive to minimize macroeconomic risks--such as the risk that the general price level will fluctuate erratically and unpredictably, as is the case when inflation is high, or that the adjustment of economic activity will be made more difficult because the overall price level is declining.",LABEL_2,0.9671509861946106
+32,we can also make your job in pricing and trading risk easier by reducing uncertainty about the goals and tactics of monetary policy in dealing with macroeconomic forces.,LABEL_0,0.6461330056190491
+33,the balance-of-risks statement does not itself predict the future course of monetary policy but rather provides the committee's assessment of the risks to good economic performance going forward.,LABEL_2,0.9990305304527283
+34,"although this judgment may have obvious implications for policy if those risks are realized, it is up to investors to draw out the expected path of short-term interest rates, looking primarily to incoming data and changed forecasts of the real economy.",LABEL_2,0.9808477163314819

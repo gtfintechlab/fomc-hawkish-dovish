@@ -1,0 +1,162 @@
+Unnamed: 0,sentence,label,score
+0,"called inflation targeting, this new procedure essentially commits a country's central bank to hit an inflation target, usually expressed as a low, positive rate of inflation subject to some margin of error and some allowance for outside price shocks.",LABEL_2,0.9932470321655273
+1,new zealand was the first country to adopt a formal inflation targeting regime back in 1990.,LABEL_1,0.6968936920166016
+2,"the european central bank at least alludes to inflation targeting in its strategy statements, as do many countries in eastern europe that aspire to join the european union.",LABEL_1,0.5652250647544861
+3,at least ten emerging-market countries have adopted inflation targeting as a way to correct persistent inflation problems.,LABEL_2,0.7137911915779114
+4,"in the last few months alone, turkey, switzerland, and south africa have announced that they are switching to inflation targeting.",LABEL_2,0.7488685250282288
+5,"when tallied up, the number of countries on either a formal or an informal inflation-targeting regime now approaches thirty.",LABEL_2,0.9914700984954834
+6,"perhaps more meaningfully, there seems to be no country that has first tried inflation targeting and then abandoned it.",LABEL_2,0.9272482395172119
+7,"while u.s. central bankers have often stressed the paramount importance of controlling inflation, the united states has never adopted a formal inflation target or an inflation-targeting regime.",LABEL_2,0.7434624433517456
+8,"the federal reserve operates under the federal reserve act, which requires the fed to try to achieve maximum employment along with price stability.",LABEL_0,0.9853940010070801
+9,"in a series of articles and books, bernanke, laubach, mishkin, and posen (1999) have proposed that the united states adopt an explicit inflation-targeting regime.",LABEL_1,0.9952133893966675
+10,"recognizing that the question of whether the united states should adopt inflation targeting is ultimately a congressional prerogative, one could still ask the normative question of whether the united states should go to inflation targeting.",LABEL_0,0.48365452885627747
+11,"while inflation targeting seems to have been successful around the world, the preconditions for success may not be relevant for this country.",LABEL_2,0.9935217499732971
+12,"given the strong u.s. commitment to controlling inflation, in the end there may be little difference between the way monetary policy already is practiced in the united states and the way it is practiced under the flexible, forward-looking inflation-targeting regimes followed by many countries.",LABEL_0,0.7796169519424438
+13,"finally, although one can find economic circumstances in which inflation targeting will work well, it is also possible to imagine circumstances in which even forward-looking, flexible inflation targeting may not work so well, some of these circumstances from the fairly recent past of the united states.",LABEL_0,0.98712158203125
+14,basic aspects of inflation targeting describing an inflation-targeting regime is straightforward.,LABEL_2,0.9973558783531189
+15,"a country or its central bank commits to controlling inflation, with an explicit target rate and usually a tolerance band around this target rate.",LABEL_2,0.9677589535713196
+16,"obvious price shocks such as indirect taxes, commodity prices, or interest rates themselves are usually excluded in the calculation of inflation targets.",LABEL_2,0.9983820915222168
+17,"many inflation-targeting regimes permit flexibility for pursuing other goals, such as output stabilization, though the primary commitment of the central bank is clearly to control inflation.",LABEL_2,0.4467020332813263
+18,"given the lags in monetary policy, many regimes also are forward-looking, in the sense that the central bank operates not against current inflation but expected inflation in the near future.",LABEL_2,0.9753687977790833
+19,"three rationales normally are given for the adoption of inflation-targeting regimes: the provision of a nominal anchor for policy, transparency, and credibility.",LABEL_2,0.9958897829055786
+20,a nominal anchor may be required if countries permit their exchange rates to vary and if they do not target either the growth of monetary quantities or nominal income.,LABEL_2,0.9978719353675842
+21,"governments or their central banks may need such an anchor to stabilize inflation, and they can generate the anchor by announcing an inflation target and then doing what they must do to hit that target.",LABEL_2,0.8963547945022583
+22,"to the extent that monetary authorities can hit their target, central banks would also gain credibility, which many need after years of inflation.",LABEL_1,0.9962340593338013
+23,it is commonly argued that inflationary expectations are a key aspect of the inflation process.,LABEL_2,0.9474685192108154
+24,"in lowering inflationary expectations, inflation targeting can itself help reduce inflationary pressures.",LABEL_0,0.9966663718223572
+25,one can also rationalize inflation targeting through another form of economic reasoning.,LABEL_2,0.9739662408828735
+26,"some years ago many believed, along with milton friedman, that stabilizing the growth of the money supply would lead to stable prices.",LABEL_2,0.9918335676193237
+27,but this approach is now generally discredited because shocks in the demand for money and an unstable transmission mechanism imply that stable growth of monetary aggregates could lead to quite unstable behavior for prices and real incomes.,LABEL_2,0.9872720241546631
+28,the next step was to follow bennett mccallum (1988) and avoid inappropriate responses to shocks in the demand for money by having the central bank simply stabilize nominal income growth.,LABEL_2,0.8580784201622009
+29,"but again, if there were shocks in this nominal income growth, say productivity shocks, stabilizing nominal income growth would not necessarily stabilize prices.",LABEL_2,0.9911832809448242
+30,"the same productivity shocks have led to difficulties with the instrument rule proposed by john taylor (1993), which requires either a predictable rate of growth of potential output or a predictable natural rate of unemployment.",LABEL_2,0.9989004731178284
+31,"as these other procedures for conducting monetary policy have run into difficulty, academic economists have increasingly drifted to the straightforward view of bernanke, laubach, mishkin, posen and many others that, if central banks want to stabilize prices, they should just do that by inflation targeting.",LABEL_0,0.7178087830543518
+32,but the migration of academic economists to inflation targeting is nothing compared with the migration of actual real world countries to inflation targeting.,LABEL_2,0.9926429986953735
+33,"the earliest and still most elaborate procedures were adopted by new zealand, where the parliamentary government in 1990 began negotiating inflation targets with its newly independent central bank, making these targets public, and holding the bank responsible for hitting the targets.",LABEL_1,0.9946423172950745
+34,"other regimes came later and were less elaborate, but by now a great many countries have regimes in which they publish inflation targets, have the central bank commit to meeting these targets, and comment on the progress in meeting the targets.",LABEL_2,0.9981662034988403
+35,"because all central banks in the world are responsible for controlling inflation, it is reasonable to ask how explicit inflation-targeting regimes differ from non-targeting regimes.",LABEL_2,0.9934994578361511
+36,"inflation-targeting regimes have explicit inflation targets, explicit commitments of the central bank to meet these targets, and less formal commitments to achieve other goals, such as output stabilization.",LABEL_2,0.9239411354064941
+37,"on one side, even non-targeting countries often will be strongly committed to controlling inflation.",LABEL_1,0.9839712381362915
+38,"on the other side, countries that target inflation flexibly and in a forward-looking manner may also strive to reduce output variability, perhaps because it helps to stabilize future inflation.",LABEL_2,0.9970207810401917
+39,"all existing inflation targets around the world are for low, positive rates of inflation.",LABEL_2,0.9984111189842224
+40,"for developed countries with stable inflation rates, the world average target rate of inflation is around 2 percent, with an acceptable band that normally ranges from 1 to 3 percent.",LABEL_2,0.9973052740097046
+41,"target levels are higher, but are promised to be stepped down gradually over time, for emerging-market countries that are trying to bring inflation down from very high levels.",LABEL_2,0.9829952120780945
+42,there is academic interest in targeting future price levels as opposed to inflation rates.,LABEL_2,0.9988827705383301
+43,the two approaches differ mainly in their response to past errors: is the central bank to be held responsible for offsetting these past errors and getting the price level back on track or just for stabilizing inflation from this time forward?,LABEL_2,0.9490683674812317
+44,"king (1999) shows that, if a long enough interval is given to hit the target, there may be little difference between a price level target and an inflation rate target.",LABEL_2,0.9986385703086853
+45,"in any event, no country now targets the future price level.",LABEL_2,0.9988481402397156
+46,"however, there could be an important difference between a target of a low positive rate of inflation and one of a zero rate of inflation.",LABEL_2,0.9662491679191589
+47,"many potential inflation targeters ask, ""why not zero?""",LABEL_0,0.7278635501861572
+48,there are three reasons for targeting for an inflation rate above zero.,LABEL_2,0.984697699546814
+49,"try as they might, most countries do have some bias in their price indexes.",LABEL_2,0.9964953064918518
+50,but there may still be some irreducible upward bias in measuring inflation.,LABEL_1,0.997459888458252
+51,the second reason for shooting at a rate of inflation slightly above zero is known as the zero bound problem.,LABEL_2,0.9940546751022339
+52,"if a country's real interest rates are close to zero and its inflation rate is close to zero, its nominal interest rates will also be close to zero.",LABEL_0,0.988237738609314
+53,"since costs of holding cash are minimal, a central bank cannot push nominal interest rates much below zero.",LABEL_0,0.9989246129989624
+54,this means that countries that target for zero inflation could get in the bind of being unable to ease monetary policy in response to recessionary shocks.,LABEL_0,0.9993239641189575
+55,"this forms a strong rationale for avoiding the danger in the first place, which can be helped by targeting for a low positive rate of inflation.",LABEL_2,0.9789131879806519
+56,the third reason for targeting a low positive rate of inflation is labor market inefficiencies.,LABEL_0,0.985282301902771
+57,"akerlof, dickens, and perry (1996) argue that these can be lessened with some positive inflation.",LABEL_2,0.8604283332824707
+58,"essentially, employers can be spared the necessity of cutting workers' nominal wage when these workers' productivity falls below their real wage.",LABEL_0,0.9983823895454407
+59,"while akerlof, dickens, and perry make an empirical case for their views, others find little evidence that labor markets become less efficient when inflation drops to very low levels.",LABEL_0,0.8506048917770386
+60,"while economists are still debating these issues, from a pragmatic standpoint many countries do seem to be gravitating toward a consensus on how inflation targeting should work.",LABEL_2,0.995164155960083
+61,"all inflation-targeting developed countries target a low positive rate, and emerging-market countries aspire to this kind of target.",LABEL_2,0.9887562990188599
+62,most countries target inflation in a flexible and forward-looking manner.,LABEL_2,0.9982272386550903
+63,"theoretical pros and cons from a theoretical perspective, one might think that inflation targets would be most valuable to countries with a history of bad inflation.",LABEL_0,0.7595521211624146
+64,one is to peg their exchange rate to some hard currency and essentially tie the hands of their central bank.,LABEL_1,0.830865740776062
+65,the second route is to adopt an inflation target and to stick to it.,LABEL_2,0.9979745745658875
+66,"if the prior inflation is very bad, as it often is in emerging-market countries, these targets might have to start at a high level and be worked gradually down as the central bank brings inflation under control.",LABEL_2,0.5877763032913208
+67,"although inflation targeting is usually described as an antidote to past inflationary binges, it has also been suggested as a cure to potential deflation.",LABEL_0,0.4877288341522217
+68,"krugman (1998), for example, has argued that japan, with nominal interest rates stuck at their floor of zero, can lower real interest rates and stimulate investment by having the bank of japan target a positive rate of inflation and do what it can to hit that target.",LABEL_0,0.988698422908783
+69,inflation-targeting regimes might also work well when a country undergoes what is known as a productivity shock.,LABEL_2,0.934664785861969
+70,"suppose a wave of innovations makes productivity rise, pushing up output and lowering unit labor costs.",LABEL_2,0.7768175005912781
+71,"for a time this shock might be reflected in higher-than-trend rates of growth of output and lower-than-trend rates of unemployment, making it difficult to rely on normal indicators of demand and supply growth in the conduct of monetary policy.",LABEL_2,0.8119874000549316
+72,"in such circumstances, a cautious central bank might well just wait for signs of inflation to emerge, thwart the inflation if it occurs, and not rely as heavily on normal measures of aggregate demand growth or labor market tightness.",LABEL_1,0.47225221991539
+73,"such a central bank would, in effect, be following an inflation-targeting regime.",LABEL_1,0.9852759838104248
+74,"although liberals in general have been very critical of inflation targeting (galbraith, 1999), in this case inflation targeting would lead to exactly the type of monetary policy they would favor.",LABEL_1,0.9551839232444763
+75,"but in some cases, inflation targeting might not work out so well.",LABEL_2,0.9274265766143799
+76,suppose there were a recessionary shock to aggregate demand.,LABEL_0,0.9505608081817627
+77,"because inflation normally responds slowly to such shocks, inflation targeters could respond in any of three ways.",LABEL_2,0.9984859228134155
+78,"strict inflation targeters, sometimes snidely called inflation nutters, might sit idly by and let the recession happen.",LABEL_0,0.9857090711593628
+79,"or, if inflation fell below target ranges, some central banks might take steps to boost inflation by expansionary monetary policy.",LABEL_1,0.9550718665122986
+80,"they would clearly do this if deflation threatened, but they might do it even with low positive rates of inflation below target ranges.",LABEL_0,0.8406352996826172
+81,the third possible response involves flexible and forward-looking inflation targeting as is actually practiced in most countries.,LABEL_2,0.9980016946792603
+82,"because inflation usually responds slowly to output changes in recessions, flexible inflation-targeting regimes would be free to ease policy to stabilize output, much as would non-targeting central banks.",LABEL_0,0.9702503681182861
+83,forward-looking central banks could even act affirmatively against recessions to prevent future inflation from falling below its target range.,LABEL_0,0.9993424415588379
+84,but even here the flexibility to be forward-looking and to pursue other goals is less than a commitment of the central bank to try to stabilize output or promote full employment.,LABEL_0,0.5116055607795715
+85,"the exact importance of these other objectives remains in question, even for flexible and forward-looking inflation-targeting regimes.",LABEL_2,0.9972929954528809
+86,"other instances in which inflation targeting might not work so well are negative supply shocks, such as most economies experienced in the mid-1970s when oil prices exploded.",LABEL_1,0.9045280814170837
+87,"in these times, inflation rises just as output falls.",LABEL_1,0.9985157251358032
+88,the most flexible and competent central bank in the world would be faced with a difficult dilemma in such circumstances--forestall the recession by making inflation worse or limit the inflation by making the recession worse.,LABEL_0,0.9907761216163635
+89,"in general, an inflation-targeting central bank would not have much of a choice.",LABEL_0,0.610259473323822
+90,"it would be forced to try to limit the inflation by contractionary policies, hence making the recession worse.",LABEL_0,0.9990493655204773
+91,"even a flexible, forward-looking inflation-targeting central bank would not have much freedom in such a situation, because in the end the central bank would be evaluated much more on its success in meeting inflation targets than in meeting output growth targets.",LABEL_2,0.9983468055725098
+92,"hence, inflation targeting does not appear to solve all the problems central banks might face and cannot be prescribed as a panacea.",LABEL_0,0.5985868573188782
+93,"it still might be a reasonable policy strategy for most purposes, and it still seems to be generally the proper approach for dealing with histories of inflation or deflation and, perhaps, with productivity shocks.",LABEL_2,0.9979031682014465
+94,"actual experience theoretical arguments aside, many countries have used inflation targeting for most of the 1990s.",LABEL_2,0.9076884388923645
+95,hence we can do more than theorize: we can actually look at the inflation-targeting experience in several countries and see how it has worked out.,LABEL_2,0.9986688494682312
+96,"they have compared a country's post-inflation-targeting history with its pre-inflation-targeting history, and they have compared outcomes in inflation-targeting countries with those in non-targeting countries.",LABEL_2,0.999226450920105
+97,"the time series studies have focused mainly on the three countries that have had the longest experience with inflation targeting--new zealand (adopted in 1990), canada (1991), and the united kingdom (1992).",LABEL_2,0.9949198365211487
+98,"according to the simple numbers, once these countries adopted inflation targeting, actual inflation has fallen in each country, and nominal interest rates have fallen, suggesting lower inflation expectations.",LABEL_0,0.9965415596961975
+99,"real measures, such as the growth in output or unemployment, have either shown little change or worsened only slightly.",LABEL_2,0.9992780685424805
+100,"generally, unemployment rose as a country disinflated and then returned to its former average level, but sometimes not all the way there.",LABEL_2,0.6444174647331238
+101,"ammer and freeman (1995) estimated var models for real gdp, price levels, and real interest rates up to the adoption of a targeting regime and then simulated these models into the targeting era, comparing simulated values with actual values.",LABEL_2,0.9984921813011169
+102,they found that inflation fell below predictions in all three countries.,LABEL_2,0.6715380549430847
+103,a subsequent analysis by freeman and willis (1995) focused more intensely on interest rates.,LABEL_2,0.8484233617782593
+104,the authors noted that long-term nominal rates fell in all three countries following the adoption of inflation targeting but then came back up in the mid-1990s.,LABEL_2,0.9877084493637085
+105,the latter rises could either indicate that inflation-targeting regimes became less credible or simply reflect the fact that world interest rates were rising at this time.,LABEL_1,0.9985610246658325
+106,"freeman and willis worked out a model to disentangle the two effects and put most of the explanation for rising long-term nominal rates on the behavior of world interest rates, hence suggesting that inflation-targeting regimes remained credible.",LABEL_2,0.9106124639511108
+107,mishkin and posen (1997) noted that all three inflation-targeting countries reduced inflation before adopting a formal targeting regime.,LABEL_2,0.9911394119262695
+108,"the achievement of inflation targeting, then, was to lock in the gains of earlier fights to stabilize prices.",LABEL_2,0.9962175488471985
+109,"the authors also estimated var equations up to the adoption of inflation targeting and simulated these equations into the targeting period, now for six years.",LABEL_2,0.9985974431037903
+110,"just as in the earlier analysis of ammer and freeman, this analysis suggested that in all three countries the inflation targeting led to a drop in inflation and nominal interest rates.",LABEL_0,0.9489346742630005
+111,"in canada, the rate of growth of real gdp was down slightly; in the other two countries, there was no change in the rate of growth of real gdp.",LABEL_2,0.9986212253570557
+112,"despite the fact that inflation had dropped in all three countries before the adoption of inflation targeting, these authors observed upward inflationary blips in new zealand and canada; so perhaps the achievement of keeping inflation under control should not be taken for granted.",LABEL_1,0.994117259979248
+113,"their results were buttressed by those of kuttner and posen (1999), whose var regressions for the united kingdom found that inflation persistence was reduced by inflation targeting, as measured by inflation itself and by nominal interest rates.",LABEL_2,0.9911607503890991
+114,"in canada, there was no inflation persistence before or after inflation targeting as measured by inflation rates, though again targeting reduced inflation persistence as measured by nominal interest rates.",LABEL_2,0.9957297444343567
+115,"in new zealand, the results were the opposite--targeting reduced persistence as measured by inflation rates but seemed to increase it slightly as measured by nominal interest rates.",LABEL_2,0.846326470375061
+116,"they noted that the decade of the 1990s, when many countries went to inflation targeting, was a good one for economic outcomes: many monetary regimes tried in this decade are likely to look good.",LABEL_2,0.9973046183586121
+117,"in their formal work, these authors fit var models for twenty-three countries, nine inflation targeters and fourteen non-targeters.",LABEL_2,0.9987399578094482
+118,"from these models, they deduced policymakers' aversion to inflation volatility.",LABEL_2,0.9972212314605713
+119,they found that inflation aversion rose in countries that adopted inflation targeting but only to the level of aversion already apparent in the policies of the non-targeting countries.,LABEL_2,0.6105413436889648
+120,"at this point, there is very little difference between aversion to inflation in countries that target and countries that do not target inflation.",LABEL_2,0.9984280467033386
+121,"taken together, the basic data, the time series tests, and the cross-section tests indicate that inflation targeting has seemed to succeed.",LABEL_2,0.997070848941803
+122,"inflation has dropped materially in the three countries with the longest experience with the regime, and all inflation-targeting countries are still content with inflation targeting, in some cases eight to ten years after its adoption.",LABEL_2,0.9918299317359924
+123,measures of inflation persistence also have dropped.,LABEL_2,0.8703532218933105
+124,"a seeming weakness of inflation targeting is in its response to unemployment, but at this time one can find little evidence that unemployment has worsened in targeting countries.",LABEL_2,0.9979322552680969
+125,"at the same time, inflation targeting has been adopted in the 1990s, a good decade for economic outcomes in most countries.",LABEL_2,0.997681200504303
+126,it is unclear how inflation targeting would look in more difficult economic circumstances such as the 1970s.,LABEL_2,0.9956306219100952
+127,is inflation targeting right for the united states?,LABEL_2,0.7594401836395264
+128,"the hidden question in all this, of course, is whether the united states should go to a regime of explicit inflation targeting.",LABEL_1,0.997330904006958
+129,"first, the question of whether the united states does or does not adopt a formal inflation targeting regime is not up to the federal reserve.",LABEL_2,0.9074074625968933
+130,"the federal reserve act now requires the fed to strive for maximum employment and balanced growth, along with price stability and moderate long-term interest rates.",LABEL_0,0.9208996891975403
+131,"second, the federal reserve is strongly committed to controlling inflation, however formally this goal is specified in the fed's mandate.",LABEL_1,0.9776443243026733
+132,countless official pronouncements and testimony affirm the importance of controlling inflation.,LABEL_1,0.974291980266571
+133,"as for actions, at least cecchetti and ehrmann find that the fed's revealed inflation aversion is now as high as that of the formal inflation-targeting countries.",LABEL_1,0.9975662231445312
+134,"given this strong inflation aversion, ultimately there may be little difference between informal inflation targeting as practiced in the united states and flexible, forward-looking inflation targeting as practiced in many other countries around the world.",LABEL_2,0.9949657320976257
+135,"that said, one could still ask the normative question of whether the united states should go to what i will call a more formal system of inflation targeting.",LABEL_1,0.9413641691207886
+136,"even if the present-day pragmatic fed responds to exogenous rises in the growth of aggregate supply or drops in the non-inflationary rate of unemployment in a fully accommodative manner, inflation targeting may better communicate the strategy.",LABEL_0,0.653769850730896
+137,"for example, explicit inflation-targeting statements may help to make it clear that the fed is really fighting inflation, not economic growth.",LABEL_1,0.9450984597206116
+138,"economic circumstances have been good in the 1990s, when countries have gone over to inflation targeting, and it is worth repeating that inflation targeting is no panacea.",LABEL_2,0.8489404320716858
+139,"moreover, there is a potential problem with inflation targeting even in good economic times.",LABEL_0,0.7727594971656799
+140,"if forecasting inflation is difficult, even forward-looking inflation-targeting central banks may respond to inflationary shocks too late to ward off inflation.",LABEL_1,0.9365230798721313
+141,"although there are several ways to forecast inflation, none may be that reliable.",LABEL_2,0.9982661008834839
+142,"on the other side, one could imagine constructing leading indicators of inflation, but the experience until now is that not many of these are reliable either.",LABEL_2,0.9989566206932068
+143,"one could also rely on market expectations of inflation, survey evidence, or other forecasts of inflation.",LABEL_2,0.9973846077919006
+144,"without models or leading indicators, even forward-looking inflation targeting strategies may not work as well as advertised.",LABEL_2,0.6266200542449951
+145,conclusion inflation targeting has many things going for it.,LABEL_2,0.9955664277076721
+146,"this strategy of conducting monetary policy has been widely adopted around the world, and it has seemed to be successful in lowering inflation and perceptions of future inflation.",LABEL_0,0.9923773407936096
+147,"it has a potential drawback in ignoring explicit consideration of output gaps and unemployment, but perhaps because it has been applied flexibly and in a forward-looking manner, in fact it has not seemed to generate more unemployment than other monetary regimes would have.",LABEL_0,0.9116122722625732
+148,"for the united states, given the strong aversion to inflation already apparent in policy responses, there are various pros and cons, but it is not obvious that a more formal regime of inflation targeting will lead to very great differences in actual monetary policies.",LABEL_0,0.5390138626098633
+149,"references akerlof, george a., william t. dickens, and george l. perry, 1996, ""the macroeconomics of low inflation,"" brookings papers on economic activity, 1:1996, 1-76.",LABEL_2,0.9968070387840271
+150,"ammer, john, and richard t. freeman, 1995, ""inflation targeting in the 1990s: the experiences of new zealand, canada, and the united kingdom,"" journal of economics and business, 47:165-192.",LABEL_2,0.9974493384361267
+151,"bernanke, ben s., thomas laubach, frederic s. mishkin, and adam s. posen, 1999, inflation targeting: lessons from the international experience, princeton university press.",LABEL_2,0.9940587282180786
+152,"cecchetti, stephen g., and michael ehrmann, 1999, ""does inflation targeting increase output volatility?",LABEL_1,0.5826373100280762
+153,"freeman, richard t., and jonathan l. willis, 1995, targeting inflation in the 1990s: recent challenges, federal reserve board, international finance discussion papers 1995-525.",LABEL_2,0.9979045391082764
+154,"galbraith, james k, 1999, ""the inflation obsession: flying in the face of facts,"" foreign affairs, january-february, 78, 152-156.",LABEL_1,0.9826318621635437
+155,"kahn, george a., and klara parrish, 1998, ""conducting monetary policy with inflation targets,"" federal reserve bank of kansas city, economic review, 3rd quarter, 5-32.",LABEL_2,0.9964444041252136
+156,"king, mervyn, 1999, ""challenges for monetary policy: new and old,"" new challenges for monetary policy, federal reserve bank of kansas city, forthcoming.",LABEL_2,0.71379154920578
+157,"krugman, paul r.,1998, ""it's baaack: japan's slump and the return of the liquidity trap,"" brookings papers on economic activity, 2:1998, 137-206.",LABEL_0,0.8676798343658447
+158,"inflation targeting and central bank behavior,"" federal reserve bank of new york, mimeo.",LABEL_2,0.9361988306045532
+159,"mccallum, bennett t., 1998, ""robustness properties of a rule for monetary policy,"" carnegie-rochester conference series on public policy, 29, 173-204.",LABEL_2,0.9786726236343384
+160,"mishkin, frederic s., and adam s. posen, 1997, ""inflation targeting: lessons from four countries,"" federal reserve bank of new york, economic policy review, august, 9-110.",LABEL_2,0.9931660294532776

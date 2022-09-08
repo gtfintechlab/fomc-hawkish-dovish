@@ -1,0 +1,85 @@
+Unnamed: 0,sentence,label,score
+0,"that analysis reinforced my motivation for lecturing on this topic, but i allowed the marketing gurus to use the more boring but nevertheless still quite descriptive title, ""the making of monetary policy.""",LABEL_2,0.9904279112815857
+1,the fomc is widely recognized as the primary decision-making body with respect to monetary policy.,LABEL_2,0.8441867232322693
+2,its objectives are maximum employment and price stability.,LABEL_0,0.7033281326293945
+3,"to insure that these objectives are consistent, we have interpreted maximum employment as maximum sustainable employment, or what we generally refer to as full employment.",LABEL_2,0.9463558197021484
+4,"the current language governing the federal reserve's objectives, as well as other requirements related to reporting and testimony before the congress, is contained in the full employment and balanced growth act of 1978 (often referred to as the humphrey-hawkins act).",LABEL_2,0.5773857831954956
+5,"the federal reserve has three principal instruments of monetary policy--the discount rate, reserve requirement ratios, and open market operations--that can be used in support of these objectives.",LABEL_0,0.9928576946258545
+6,the discount rate is the interest rate on borrowing by depository institutions from the federal reserve.,LABEL_1,0.6342271566390991
+7,"changes in the discount rate are, for the most part, made to keep the discount rate in appropriate relation to other short-term interest rates.",LABEL_2,0.9985564947128296
+8,"changes in reserve requirements are rare, and not used in the routine conduct of monetary policy.",LABEL_2,0.9971467852592468
+9,so open market operations are the principal instrument of monetary policy.,LABEL_2,0.7045507431030273
+10,"which makes the fomc a very important committee, indeed the principal decision-making body with respect to monetary policy.",LABEL_0,0.49300074577331543
+11,the emphasis was on the provision of currency and reserves to meet seasonal demands and on assisting the banking system to accommodate the needs of commerce and business by allowing reserves and therefore loans to expand during expansions.,LABEL_2,0.43244555592536926
+12,"when seasonal or cyclical demand for loans was high, banks could bring eligible loans to the federal reserve for rediscounting, increasing the aggregate amount of reserves and hence lending capacity for the banking system.",LABEL_1,0.9721581935882568
+13,i won't dwell on that controversy because the overwhelming view has and continues to be that the fomc in its present form has served the interests of monetary policy and the nation well.,LABEL_0,0.8824260234832764
+14,"during this period, it is the practice not to talk publicly about the economic outlook or current monetary policy.",LABEL_2,0.9941878318786621
+15,his presentation covers developments in the domestic financial and foreign exchange markets and provides details of open market operations and any foreign exchange rate intervention during the period since the last fomc meeting.,LABEL_2,0.9979265332221985
+16,"it is a judgmental forecast, constructed with the help of a variety of equations which describe the way various components of aggregate demand and various prices get determined.",LABEL_2,0.9983595609664917
+17,the only issues i might note here are the questions of what the staff assumes about future monetary policy in putting its forecast together and whose forecast it really is.,LABEL_2,0.9982267022132874
+18,but how can the staff make a forecast of what is going to happen in the economy if it does not include in that forecast a view of how monetary policy will evolve?,LABEL_2,0.9950895309448242
+19,"the presidents, in addition to having regional information, also tend to have real-time information about consumer spending, business investment, and wage and price developments, for example, gathered from speaking to firms in their districts.",LABEL_2,0.9946675300598145
+20,"the presentations do not offer detailed alternative forecasts, compared to the staff, but committee members often seek to position themselves relative to the staff forecast--stronger or weaker growth, higher or lower inflation, etc.",LABEL_2,0.9987447261810303
+21,"the role of policy is to move the economy from where we are--and where we will be in the future in the absence of change--to some preferred state, specifically related to the federal reserve's objectives of full employment and price stability.",LABEL_2,0.9295949935913086
+22,it is essentially the price associated with the borrowing of reserves.,LABEL_1,0.8770843744277954
+23,and we all know what determines the price in any market: supply and demand.,LABEL_2,0.9499337077140808
+24,"the economy, by influencing the quantity of transactions balances, determines the demand for reserves, and the federal reserve affects the supply.",LABEL_2,0.9873175024986267
+25,"while the federal funds rate itself is not a particularly important influence on the economy, movements in the federal funds rate (and expectations about future federal funds rate encouraged by any change) influence the broad spectrum of interest rates and financial asset prices in the economy.",LABEL_2,0.9969810247421265
+26,"in this way, changes in the federal funds rate exercise an important influence on the demand for goods and services, especially those that are relatively interest-sensitive.",LABEL_1,0.42795389890670776
+27,"by affecting the demand for goods and services, open market operations can affect the level of production relative to productive capacity and inflation pressure in the economy.",LABEL_2,0.9974300265312195
+28,"first, monetary policy cannot influence real variables--such as output and employment--in the long run (except via the contribution of price stability to living standards).",LABEL_2,0.997885525226593
+29,"the fed, for example, cannot raise the long-run rate of economic growth.",LABEL_2,0.43428072333335876
+30,"second, money growth is the principal determinant of inflation in the long run.",LABEL_1,0.5107533931732178
+31,"this immediately makes price stability (in some shape or form) the direct, unequivocal, and singular long-term objective of monetary policy.",LABEL_1,0.6750129461288452
+32,"when it comes to price stability, the buck, literally, stops at the central bank.",LABEL_0,0.7524913549423218
+33,"third, because prices in many markets are slow to react to changes in supply and demand, shocks to the economy can lead to persistent departures of the economy from full employment--in both directions.",LABEL_0,0.993527889251709
+34,this proposition offers at least the potential for monetary policy to play a role in smoothing out business cycles.,LABEL_0,0.9989491701126099
+35,"this is the basis for what is sometimes referred to as stabilization policy, adjusting the level of aggregate demand so that it supports a level of production consistent with full employment.",LABEL_2,0.9909515976905823
+36,"fourth, full employment and price stability are compatible.",LABEL_2,0.9938949346542358
+37,"indeed, we define full employment as the maximum rate of employment that can be sustained without rising inflation.",LABEL_2,0.7720203995704651
+38,"many of us define it specifically in terms of a threshold unemployment rate, the rate below which inflation rises over time.",LABEL_2,0.9810774326324463
+39,"this is the concept of the nonaccelerating-inflation rate of unemployment, or nairu.",LABEL_2,0.5508455038070679
+40,this means that the two objectives of monetary policy--full employment and price stability--are compatible in the long run.,LABEL_0,0.8733327388763428
+41,"fifth, inflation pressures arise, in part, from departures of the economy from full employment.",LABEL_1,0.8182502388954163
+42,"if the economy moves below full employment, the resulting slack results in disinflation, that is, downward pressure on inflation.",LABEL_0,0.9990109205245972
+43,when the economy moves above this threshold there is continuing upward pressure on inflation.,LABEL_1,0.9990285038948059
+44,"as a result, open market operations which affect the demand for output relative to productive capacity provide the fomc with the ability to influence inflation pressures in the economy and move the economy toward its price stability objective.",LABEL_1,0.9693071246147156
+45,"fifth, short-run swings in inflation can also be driven by supply shocks, changes in prices of particular goods that are unrelated to the overall balance of supply and demand in the economy.",LABEL_2,0.982073962688446
+46,"an example would be a change in oil prices due, for example, to production decisions by opec or weather developments.",LABEL_2,0.9957028031349182
+47,"it would be difficult, for example, to understand recent u.s. economic performance and monetary policy without an understanding of the role of favorable supply shocks.",LABEL_2,0.996414840221405
+48,this consideration means that monetary policymakers must also try to decipher the sources and persistence of shocks to the economy.,LABEL_0,0.873261034488678
+49,"it has focused on where the economy is relative to full employment, how fast the economy is growing relative to its long-term trend, and whether or not inflation pressures are building.",LABEL_2,0.998764157295227
+50,the staff forecast has provided one view of whether current policy is consistent with the federal reserve's objectives of full employment and price stability.,LABEL_2,0.9981703758239746
+51,"with the asian crisis and the associated expectation of a slowing in growth, policy turned symmetric in november.",LABEL_2,0.9941906929016113
+52,"for example, a symmetric policy would be indicated by the wording: ""in the context of the committee's long-run objectives for price stability and sustainable economic growth and giving careful consideration to economic, financial and monetary developments, a slightly higher federal funds rate or a slightly lower federal funds rate might be acceptable in the intermeeting period.""",LABEL_2,0.9985107779502869
+53,the two-day meetings occur in february and july and precede the federal reserve's semi-annual report on monetary policy and the chairman's semi-annual testimony on monetary policy.,LABEL_2,0.8713327646255493
+54,"to prepare for these the board members and reserve bank presidents submit their forecasts for real and nominal gdp growth, for cpi inflation, and the unemployment rate.",LABEL_2,0.999194860458374
+55,"the meetings include a discussion of the target ranges for monetary aggregates, also to be included in the monetary policy report and the chairman's testimony, and may also include some other topic related to longer-run strategic policy.",LABEL_2,0.9965410828590393
+56,"the bluebook explicitly includes longer-term, specifically five-year, forecasts and alternative scenarios to help the committee assess the policy requirements for achieving the fed's long-run objective of price stability.",LABEL_2,0.9987671375274658
+57,"the full employment and balanced growth act of 1978, in addition to setting full employment and price stability as the fed's dual mandate, requires the fed to set ranges for monetary and credit aggregates.",LABEL_2,0.9959161281585693
+58,the fed currently sets ranges for the growth of two measures of the money supply--m2 and m3--and for total debt of the nonfinancial sector.,LABEL_2,0.9988433718681335
+59,one way to understand the role of monetary aggregates in the monetary policy process is via the famous equation of exchange.,LABEL_2,0.9956943392753601
+60,"if the demand for money is stable, v will not necessarily be constant, but would be related in a reasonably predictable fashion to a small number of other economic variables, most importantly, to the level of interest rates.",LABEL_2,0.9980819821357727
+61,open market operations then can be conducted to yield a desired path of reserves that in turn will result in an approximately equivalent growth rate for the money supply.,LABEL_2,0.9450170993804932
+62,"the growth in the money supply, in turn, will insure the same rate of growth for nominal income.",LABEL_2,0.6914207339286804
+63,the growth of nominal income in turn is approximately equal to the sum of the growth rates in real gdp and the inflation rate.,LABEL_2,0.9629164934158325
+64,"this is your mathematics lesson for the day: the growth rate of a product (in this case, nominal income, p times q) is approximately equal to the sum of the growth rates of the two components.",LABEL_2,0.9963302612304688
+65,"on average, the growth in real gdp is independent of the rate of money growth.",LABEL_2,0.9985557794570923
+66,"then, on average, and in the long run, the rate of inflation will equal the rate of money growth less the economy's trend rate of real gdp growth.",LABEL_2,0.9979541301727295
+67,"hence, a target for money growth effectively imposes what we refer to as a nominal anchor for the economy (the rate of nominal income growth) and also pins down the long-run rate of inflation.",LABEL_2,0.992771327495575
+68,"this connection between money growth and nominal income and, in the long run, inflation, clearly identifies a potentially important role for monetary aggregate targets, particularly in the long run when any short-run variation in velocity may net out.",LABEL_2,0.9908958673477173
+69,"unfortunately, velocity is not constant and, more importantly, is not always even a stable function of the interest rate.",LABEL_2,0.992904782295227
+70,"when the demand for money is unstable, v will be unstable, the simple relationship between money growth and nominal income will break down, and the usefulness of money growth targets in pinning down inflation in the long run evaporates.",LABEL_2,0.9601045846939087
+71,"as a result, m2 has not resumed an important role in the implementation of monetary policy.",LABEL_0,0.9861477613449097
+72,"nevertheless, the fed is required by statute to set ranges for the growth of money and credit aggregates.",LABEL_2,0.9989304542541504
+73,"the fed has developed a practice of fulfilling this requirement that allows for a potential long-run role for the monetary aggregates, but also reflects the diminished role of the monetary aggregates in short-run monetary policy decision-making.",LABEL_0,0.9945126175880432
+74,"the fed sets the range, not to reflect the policy it intends to implement over the coming year, but to correspond to the rate of growth that would be appropriate in the long run in an environment of price stability and normal velocity behavior.",LABEL_2,0.998778760433197
+75,"the width of the target range also reflects the degree of uncertainty about money growth relative to nominal income, even under the best of circumstances.",LABEL_2,0.9988452196121216
+76,"if trend real gdp growth were 2 ½% for example--about a consensus estimate of the average growth rate expected over the long run--a 3% rate of growth of nominal income would leave long-run inflation at about ½ percent for the gdp price index, a rate of inflation just about equal to the consensus estimate of measurement bias for that index.",LABEL_2,0.9884004592895508
+77,"that is, the midpoint of the target range is about equal to true price stability.",LABEL_2,0.9983554482460022
+78,"even if v2 continued its recent stability, money growth would probably not be the primary focus of short-run monetary policy decisions.",LABEL_2,0.9761425852775574
+79,"even before the recent episode of instability of m2, the fed, most of the time, implemented monetary policy by setting a federal funds rate target, even when it said it was adjusting the tightness of reserve positions!",LABEL_0,0.9952031970024109
+80,this preference for interest rate targets reflected some ongoing concern about whether velocity was ever stable enough to be a guide for the conduct of short-run policy decisions and also a desire on the part of the fed to smooth interest rates.,LABEL_0,0.9052887558937073
+81,"under a money supply target, where open market operations are directed to a path of reserves consistent with a money growth target, interest rates might be quite volatile on a day-to-day basis.",LABEL_2,0.9898330569267273
+82,"nevertheless, in the 1970's and early 1980's, monetary aggregates had a much more important role in the setting of monetary policy than they do today.",LABEL_2,0.9958164691925049
+83,"the fomc, during this period, often moved the federal funds rate directly in response to deviations of money growth from the mid-points of their target ranges.",LABEL_2,0.9232999086380005

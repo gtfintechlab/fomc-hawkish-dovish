@@ -1,0 +1,8 @@
+Unnamed: 0,sentence,label,score
+0,any process that prevents all banking problems would be extremely invasive to banking organizations and would likely inhibit economic growth.,LABEL_0,0.8820988535881042
+1,"banks held their loans to maturity; they acquired deposits locally and at a pace similar to local economic growth; their product lines were stable; and management turnover, itself, was typically low.",LABEL_2,0.9482067823410034
+2,"in large part, these changes and innovations are unequivocally good for society and have produced more efficient markets and, in turn, greater international trade and economic growth.",LABEL_1,0.8539268970489502
+3,"in both cases, these developments have spurred the demand for highly trained and qualified personnel.",LABEL_1,0.8533106446266174
+4,a challenge now for many institutions may be to manage their growth and the continuing process of industry consolidation.,LABEL_2,0.9823259115219116
+5,"growth into a wider array of activities is especially important if banks are to meet the wide-ranging needs of their business and household customers, while competing effectively with other regulated and unregulated firms.",LABEL_2,0.7715060710906982
+6,initiatives in recent years include guidance on disclosure and on managing interest rate risk and derivative activities.,LABEL_2,0.9941984415054321

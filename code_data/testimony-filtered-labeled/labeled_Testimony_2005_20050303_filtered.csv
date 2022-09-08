@@ -1,0 +1,4 @@
+Unnamed: 0,sentence,label,score
+0,"just as price stability facilitates economic decisionmaking by limiting the potential distortions from unanticipated changes in the price level, some semblance of predictability in the tax code also would facilitate better forward-looking economic decisionmaking by households and businesses.",LABEL_2,0.8812776803970337
+1,"as you know, many economists believe that a consumption tax would be best from the perspective of promoting economic growth--particularly if one were designing a tax system from scratch--because a consumption tax is likely to encourage saving and capital formation.",LABEL_1,0.9884987473487854
+2,"circumstances are different today, and the right choice will require assessing anew the tradeoffs between complexity, fairness, and economic growth.",LABEL_2,0.9842706322669983

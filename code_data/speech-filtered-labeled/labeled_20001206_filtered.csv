@@ -1,0 +1,4 @@
+Unnamed: 0,sentence,label,score
+0,"this rapid growth has given access to credit to consumers who have difficulty in meeting the underwriting criteria of ""prime"" lenders because of blemished credit histories or other aspects of their profile.",LABEL_0,0.8693925142288208
+1,but sometimes the payments implicit in very high interest rates can spell financial ruin for borrowers.,LABEL_1,0.9797604084014893
+2,"the board took into account changes in the home mortgage market, including growth in areas such as home equity lines of credit and subprime lending.",LABEL_2,0.9970173239707947

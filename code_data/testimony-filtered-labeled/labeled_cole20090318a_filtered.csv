@@ -1,0 +1,4 @@
+Unnamed: 0,sentence,label,score
+0,"other areas of focus pertained to credit card subprime lending, the growth in leveraged lending, credit risk management practices for home equity lending, counterparty credit risk related to hedge funds, and effective accounting controls after the fall of enron.",LABEL_2,0.990516185760498
+1,"we have communicated our findings to firms individually, which included their need to improve some key practices, and demanded corrective actions.",LABEL_2,0.8479418158531189
+2,"we have demanded that institutions address more serious risk management deficiencies so that risk management is appropriately independent, that incentives are properly aligned, and that management information systems (mis) produce comprehensive, accurate, and timely information.",LABEL_0,0.9359018802642822

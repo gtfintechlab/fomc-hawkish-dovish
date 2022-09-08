@@ -1,0 +1,3 @@
+Unnamed: 0,sentence,label,score
+0,"now, as a member of the federal reserve board, and chair of the board's committee on supervisory and regulatory affairs, i find myself focusing on the growth and evolution of the financial system from a slightly different perspective than when i was a chief financial officer.",LABEL_2,0.9980693459510803
+1,"firms also use derivatives to manage their risk exposures to price fluctuations in currency, commodity, energy, and interest rate markets.",LABEL_2,0.9868326783180237

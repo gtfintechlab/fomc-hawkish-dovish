@@ -1,0 +1,30 @@
+Unnamed: 0,sentence,label,score
+0,"their ability to boost output without adding appreciably to their workforces, appears to have reflected a backlog of unexploited capabilities to enhance productivity with minimal capital investment, a delayed effect of the capital goods boom of the 1990s.",LABEL_2,0.9975286722183228
+1,"even now, the proportion of increases in temporary workers relative to total employment gains has been unusually large, suggesting that business caution remains a feature of the economic landscape.",LABEL_2,0.9973520040512085
+2,"an increased willingness to borrow, and ample liquid assets, should provide a further lift to capital investment and, with it, economic activity.",LABEL_1,0.7882469892501831
+3,"* * * with concerns of deflation now presumably safely behind us, developments ahead are likely to be dominated by the paths of productivity growth and profit margins--assuming, of course, the always latent danger of terrorism in the united states remains in check.",LABEL_2,0.8895512819290161
+4,"this sharp recovery in profits reflects, at least in part, the dramatic swing over the past couple of years from relatively heavy business price discounting to the restoration of a significant degree of pricing power.",LABEL_2,0.9906768202781677
+5,the most visible manifestation of the return to pricing power can be seen in the recent acceleration of core consumer prices.,LABEL_1,0.9986233711242676
+6,"the twelve-month percent change in the core pce price index, which stood at just above 0.8 percent in december of last year, was at 1.4 percent in april.",LABEL_2,0.9972591996192932
+7,"to better understand recent developments, it is helpful to view prices from the perspective of consolidated costs and profit margins.",LABEL_2,0.9988276958465576
+8,"hence, at least from an accounting perspective, all of the 1.1 percent increase in the prices of final goods and services produced in that sector during that period was the consequence of a rise in profit margins.",LABEL_1,0.9762081503868103
+9,the 6.4 percent increase in nonfinancial corporate business productivity over those four quarters accounts for much of the decline in unit costs.,LABEL_2,0.9963912963867188
+10,productivity in the nonfinancial corporate sector evidently decelerated somewhat this year.,LABEL_0,0.9723445773124695
+11,"moreover, as best we can judge, the growth of compensation per hour has stepped up in recent months.",LABEL_1,0.9978800415992737
+12,"with gains in hourly compensation now apparently outstripping advances in productivity, unit labor costs have moved up.",LABEL_1,0.9984622001647949
+13,"moreover, the increase in overall operating expenses over the last couple of months has also reflected higher energy costs and rising prices of imported non-oil inputs.",LABEL_1,0.9989471435546875
+14,"it seems unlikely, however, that a further rise in profit margins will contribute to significantly higher prices of final goods and services.",LABEL_1,0.9941714406013489
+15,"if history is any guide, this will tend to increase both real wages and interest rates.",LABEL_1,0.9987999200820923
+16,fears of losing market share should dissuade businesses from passing these high costs fully through to prices.,LABEL_1,0.9840911626815796
+17,"nonetheless, the persistence of the rise in energy prices is a worrisome element in the cost picture.",LABEL_1,0.9986567497253418
+18,this run-up presumably reflects a broadening of demand for claims on oil inventories beyond traditional commercial buyers and sellers of crude oil and petroleum products.,LABEL_1,0.9575956463813782
+19,oil prices accordingly have surged.,LABEL_1,0.9970430731773376
+20,"when that occurs, their demand will presumably stop rising, thus removing some of the current upward pressure on prices.",LABEL_1,0.9512482285499573
+21,"moreover, higher oil prices, if they persist, are likely to boost core consumer prices, as well as the total price level, in this country.",LABEL_1,0.9991024136543274
+22,the recent modest declines in oil and natural gas prices may or may not signal a trend but are nonetheless welcome.,LABEL_0,0.9960057735443115
+23,"* * * the end of deflationary fears and the onset of modest upward pressure on costs, coupled with a strengthening economic outlook in the united states, have driven long-term interest rates higher, which has spurred a marked shift in credit flows and has prompted many firms to focus on the possibility of further interest rate increases in developing their hedging strategies.",LABEL_1,0.9972065091133118
+24,"holders of mbs endeavoring to hedge developing interest rate gaps rapidly shed receive-fixed swaps and treasuries, and these actions markedly aggravated last summer's long-term interest rate upturn.",LABEL_1,0.94941246509552
+25,* * * economic developments going forward will determine the level and term structure of interest rates.,LABEL_2,0.996032178401947
+26,federal funds futures prices already reflect expectations of a substantial firming of policy by the federal open market committee (fomc).,LABEL_1,0.9955348372459412
+27,"lastly, let me emphasize that recent financial indicators, including rapid growth of the money supply, underscore that the fomc has provided ample liquidity to the financial system that will become increasingly unnecessary over time.",LABEL_1,0.9478045701980591
+28,"the committee is of the view, as you know, that monetary policy accommodation can be removed at a pace that is likely to be measured.",LABEL_1,0.7673016786575317

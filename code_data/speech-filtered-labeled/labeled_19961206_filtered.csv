@@ -1,0 +1,12 @@
+Unnamed: 0,sentence,label,score
+0,"however, beginning in the year 2012, the annual expected costs of social security are projected to exceed annual earmarked tax receipts, and the consequent deficits are projected to deplete the trust funds by the year 2029.",LABEL_0,0.9935740828514099
+1,"while such evaluations are based on an uncertain future, the benefit per current retiree under existing law, adjusted for inflation, can be forecast with some precision over the next thirty years.",LABEL_2,0.9983316659927368
+2,"the price escalation of benefits, of course, is even more difficult to pin down.",LABEL_1,0.7459200024604797
+3,"but since price inflation has an equal effect on wages subject to social security taxation, for all practical purposes, the degree of inflation does not have a large direct effect on the net funding of the system over the long run.",LABEL_2,0.836871862411499
+4,"however, the rate of inflation, because it affects the overall economy, presumably does affect the real wage base from which social security taxes and future benefits are derived.",LABEL_2,0.6185866594314575
+5,"the projection of inflation-adjusted taxes, which are subject to a wider degree of uncertainty than total benefits, is largely driven by real wage growth--that is, wage growth adjusted for inflation--which, in turn, is primarily determined by the growth of productivity.",LABEL_2,0.9865350127220154
+6,projecting productivity in line with the pattern of the last quarter century suggests a trend of revenue falling far short of the levels required to finance the benefits of the large baby-boomer bulge in retirees anticipated to start at about 2010.,LABEL_2,0.7278648018836975
+7,"i should state, parenthetically, that if recent productivity trends are underestimated, as i suspect they are, for much the same reasons are the projected trends of both real benefits and payroll taxes.",LABEL_2,0.9963668584823608
+8,"the latter can come from either higher tax rates or higher real wage growth--in effect, higher productivity growth.",LABEL_1,0.9985465407371521
+9,"however, as i will be explaining shortly, higher productivity is unlikely alone to do the trick.",LABEL_1,0.9816822409629822
+10,"moreover, increased social security tax rates, of course, are controversial in that many perceive them, myself included, to adversely affect employment.",LABEL_1,0.9941359758377075

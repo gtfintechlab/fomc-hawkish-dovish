@@ -1,0 +1,9 @@
+Unnamed: 0,sentence,label,score
+0,the market shock measures the trading mark-to-market losses associated with sudden changes in asset prices.,LABEL_2,0.9404367804527283
+1,"given that some decline in demand by creditworthy borrowers for loans is inevitable in a serious recession, this simpler assumption would still achieve the macroprudential policy objective that any such decline in lending during a recession is attributable to the impact of the recession, rather than to capital constraints at the large banks.",LABEL_0,0.9980617761611938
+2,the first would be to make the severity of the change in the unemployment rate less severe during downturns.,LABEL_0,0.9984656572341919
+3,the second would be to replace the current judgmental approach to setting the hypothesized path of house prices by tying this variable to disposable personal income.,LABEL_2,0.9980815052986145
+4,the result would be a more countercyclical path of house prices and increased transparency into how we determine the severity of this very important element of the scenario.,LABEL_2,0.9909492135047913
+5,"as banks incur losses and their capital base erodes, some of their creditors will demand additional compensation and bank funding costs will increase.",LABEL_1,0.9332585334777832
+6,"liquidity shocks and fire sale dynamics as we saw during the last financial crisis, repo and other funding markets can simply close to distressed institutions, which are then unable to access certain kinds of funds at any price.",LABEL_0,0.9961829781532288
+7,the fire sale price discounts required for such rapid execution in turn imposed mark-to-market losses on other firms with similar holdings.,LABEL_0,0.9918203949928284

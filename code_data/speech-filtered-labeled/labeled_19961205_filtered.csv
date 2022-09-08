@@ -1,0 +1,5 @@
+Unnamed: 0,sentence,label,score
+0,bryan was arguing for monetizing silver at an above-market price in order to expand the money supply.,LABEL_1,0.9559346437454224
+1,"the presumed consequences would have been an increase in product prices and an accompanying shift in the value of net claims on future wealth from the ""monied interests"" of the east to the indebted farmers of the west who would arguably be able to pay off their obligations with cheaper money.",LABEL_1,0.996002733707428
+2,"clearly in this context, the general price level, that is, the average exchange rate for money against all goods and services, and how it changes over time, plays a profoundly important role in any society, because it influences the nature and scope of our economic and social relationships over time.",LABEL_2,0.998563289642334
+3,"the general price level declined for more than two decades, which meant borrowers were paying off their loans in more expensive dollars than those they borrowed.",LABEL_0,0.5451217889785767

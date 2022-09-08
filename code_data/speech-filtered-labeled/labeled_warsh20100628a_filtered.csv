@@ -1,0 +1,29 @@
+Unnamed: 0,sentence,label,score
+0,"it rests in our hands--the hands of fiscal, regulatory, trade, and monetary policymakers.",LABEL_1,0.6964176297187805
+1,"excessive growth in government spending is not the economy's salvation, but a principal foe.",LABEL_1,0.9933748841285706
+2,"slowing the creep of protectionism is no small accomplishment, but it is not the equal of meaningful expansion of trade and investment opportunities to enhance global growth.",LABEL_1,0.9791700839996338
+3,economic and financial market developments recent economic data support a moderate recovery in economic activity.,LABEL_2,0.9901547431945801
+4,"household spending is increasing, but remains constrained by high unemployment, modest income growth, lower housing wealth, and tight credit.",LABEL_0,0.9985335469245911
+5,"after sizable increases in march and april, private nonfarm payroll employment rose by only 41,000 in may.",LABEL_1,0.7821073532104492
+6,"meanwhile, most broad measures of inflation remain subdued.",LABEL_0,0.9341400265693665
+7,and long-term inflation expectations appear stable.,LABEL_2,0.9987563490867615
+8,"financial conditions, notably, have become less supportive of economic growth.",LABEL_0,0.9993360042572021
+9,the implied volatility of equity prices (vix) jumped to levels not seen in more than a year.,LABEL_1,0.8557264804840088
+10,"equity prices, reacting to increased risk and prospects for weaker global growth, also fell.",LABEL_0,0.9988612532615662
+11,broad equity price indexes touched lows as much as 14 percent below their recent peak in april.,LABEL_0,0.8407858610153198
+12,"risk spreads on u.s. investment-grade and high-yield bond prices rose, and corporate bond issuance fell to about half the run-rate of earlier this year.",LABEL_1,0.7174234390258789
+13,broad measures of industrial commodity prices decreased substantially from their peaks--mostly on account of weaker expected global demand.,LABEL_0,0.9983127117156982
+14,"in times of economic weakness or financial distress, policymakers are often troubled by the messages embedded in financial market prices or bank lending statistics.",LABEL_0,0.7324326038360596
+15,some supervisors might disagree--even strongly--with the prices markets assign to a banking system's financial wherewithal.,LABEL_2,0.9950926899909973
+16,some out-of-favor fiscal authorities may take great umbrage at the prices assigned to their funding costs.,LABEL_1,0.8609870672225952
+17,"in benign economic times, market prices can lull investors and policymakers into a false sense of security.",LABEL_2,0.973873496055603
+18,financial market prices may appear more sanguine about prospects than fundamentals suggest.,LABEL_2,0.9954702258110046
+19,inflation expectations may appear well anchored.,LABEL_2,0.9976553320884705
+20,market prices adjust slowly and steadilyâ€¦until they don't.,LABEL_2,0.9982225894927979
+21,"then, market prices can act in a nonlinear fashion.",LABEL_2,0.9980672001838684
+22,the economy's long-term growth prospects must be given top billing.,LABEL_1,0.9512438178062439
+23,that fine-tuning aggregate demand requires a precision that is difficult for governments to execute effectively.,LABEL_2,0.8021976351737976
+24,what about the conduct of monetary policy?,LABEL_2,0.9719379544258118
+25,the challenges for monetary policy are not dissimilar from those confronting the fiscal authorities.,LABEL_0,0.9346764087677002
+26,"by considering, communicating, and, potentially, deploying our policy tools independent of one another, we have the best chance to achieve the federal reserve's dual objectives of price stability and maximum employment.",LABEL_0,0.8598175048828125
+27,"in making this judgment, we should continue to assess investor demand for these assets.",LABEL_2,0.998504102230072

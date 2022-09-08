@@ -1,0 +1,5 @@
+Unnamed: 0,sentence,label,score
+0,"in particular, banking regulators failed to appreciate fully the implications of the growth--in size, leverage, and maturity transformation levels--of the shadow banking system for the balance sheets of commercial banks and for overall financial stability.",LABEL_2,0.9576656818389893
+1,"the requirement was based on returns over a 10-day holding period, used a one-year observation period that had been characterized by unusually low price volatility, and did not adequately account for the credit risks inherent in these traded instruments.",LABEL_2,0.9815053343772888
+2,"those who participated in the 2009 exercise, both at the banks and at regulatory agencies, know that the resource demands associated with it were considerable.",LABEL_1,0.5594147443771362
+3,"and, i believe, the demands of supervisors for well-specified data and projections from firms has improved risk management at these institutions.",LABEL_2,0.9940385222434998

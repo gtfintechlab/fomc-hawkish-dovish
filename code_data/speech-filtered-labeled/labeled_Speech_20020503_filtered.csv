@@ -1,0 +1,20 @@
+Unnamed: 0,sentence,label,score
+0,"while the vital contribution of new technology to the growth of our economy is evident to all, not all new ideas create value on net.",LABEL_2,0.8705378174781799
+1,this waste is an inevitable byproduct of the risk-taking that generates the growth in our economy.,LABEL_1,0.8288083076477051
+2,"a company's share price, and hence the value of related options, is heavily influenced by economy-wide forces--that is, by changes in interest rates, inflation, and myriad other forces wholly unrelated to the success or failure of a particular corporate strategy.",LABEL_2,0.9978761672973633
+3,there have been more than a few dismaying examples of ceos who nearly drove their companies to the wall and presided over a significant fall in the price of the companies' stock relative to that of their competitors and the stock market overall.,LABEL_0,0.9958609342575073
+4,"they, nonetheless, reaped large rewards because the strong performance of the stock market as a whole dragged the prices of the forlorn companies' stocks along with it.",LABEL_2,0.8163942098617554
+5,the ability of options to substitute for cash obviously rests on an expectation by an employee that the price of the company's stock will rise.,LABEL_1,0.8324680924415588
+6,"expectations of stock price movements, in turn, appear to be significantly influenced by recent stock price behavior.",LABEL_2,0.9986233115196228
+7,"thus, there is little surprise that stock options gained considerable favor as a form of compensation with the steep rise in stock prices in the late 1990s.",LABEL_1,0.9880352020263672
+8,"similarly, one might reasonably expect that in an environment with slower stock price gains, option grants would no longer be so favorably viewed by employees as a substitute for cash.",LABEL_0,0.9438323378562927
+9,the upshot of this reasoning is that stock prices should be unaffected by whether option grants are expensed or not.,LABEL_2,0.9988773465156555
+10,"to be sure, lower reported earnings as a result of expensing, should it temper stock price increases, could inhibit option issuance.",LABEL_0,0.9967830777168274
+11,"under tax law, when options are exercised, the value realized by an employee--that is, the difference between the share price and the strike price--is a deductible compensation expense for the company.",LABEL_2,0.575282096862793
+12,the amount of this compensation for tax purposes reflects a rise in the price of the stock after the option grant.,LABEL_1,0.9957877397537231
+13,"any such price changes are of no relevance in judging the cost of purchasing labor services, though they do affect the tax liability and possibly the after-tax earnings reported to shareholders of the firm that granted the option.3 how capital gains and losses associated with these transactions should be reflected in reported earnings is a separate issue.",LABEL_2,0.9948983192443848
+14,"yes, if investors take currently reported earnings as real, expensing will reduce a corporation's perceived earnings and conceivably its stock price.",LABEL_0,0.9942160844802856
+15,"as i indicated earlier, the continued popularity among employees of option grants as a substitute for cash compensation requires a persistent expected uptrend in a company's stock price.",LABEL_2,0.9219395518302917
+16,"should compensation shift more to cash, the trend in reported earnings growth would decline relative to an earnings trend in which options have always been expensed.",LABEL_0,0.5117112994194031
+17,"if, however, markets do not fully see through the failure to expense real factor inputs, market values are distorted and real capital resources are being diverted from their most efficient employment.",LABEL_0,0.9906068444252014
+18,the reason is that future movements in the price of the underlying stock will create capital gains or losses in the stock option between the time of grant and expiration.,LABEL_2,0.994259238243103

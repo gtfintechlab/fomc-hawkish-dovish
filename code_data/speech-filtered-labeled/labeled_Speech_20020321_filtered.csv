@@ -1,0 +1,19 @@
+Unnamed: 0,sentence,label,score
+0,"during my brief term on the board, i have heard other governors say that they came to washington expecting to spend most of their time discussing the economy and monetary policy with many of the board's 225 phd.",LABEL_2,0.9915068745613098
+1,"in response, the federal reserve reduced interest rates at every meeting of the federal open market committee in 2001 and an additional three times between meetings, for a total of eleven rate cuts totaling 475 basis points.",LABEL_0,0.9986859560012817
+2,"in short, smaller banks here in ohio and across the country have weathered recent periods quite well and are advantageously situated to do their part in supporting economic growth.",LABEL_0,0.834372341632843
+3,we have often seen the cyclical nature of commercial real estate and its links to the general level of economic activity.,LABEL_2,0.9992151260375977
+4,the second area of potential risk relates to interest rates.,LABEL_1,0.646996259689331
+5,lower interest rates undoubtedly eased payment pressures on many borrowers and prevented further deterioration in the quality of bank loan portfolios.,LABEL_0,0.999046266078949
+6,lower interest rates also spurred a record volume of mortgage refinancings and sizable gains in bank securities portfolios.,LABEL_0,0.996522843837738
+7,"given the historically low interest rates at which recent mortgages have been originated or refinanced, one might expect that these loans would be much slower to prepay than previous ones.",LABEL_0,0.9990577101707458
+8,"clearly, i am not about to forecast interest rates, something i've already learned that central bankers never do.",LABEL_2,0.993650496006012
+9,we should all ask ourselves how long depositors would be content earning the currently low rates as equity markets improve or interest rates rise once again.,LABEL_0,0.49761638045310974
+10,"they have historically had higher profitability, as measured by the return on average assets, than large regional and money center banks and, on an individual-institution basis, have enjoyed relatively strong asset and deposit growth.",LABEL_2,0.6175674796104431
+11,a study recently published in the federal reserve bulletin examined growth rates during the past fifteen years for large and small banks.,LABEL_2,0.9971683621406555
+12,"among small banks, those located in urban areas have done best, presumably because economic activity has been expanding the fastest in cities.",LABEL_2,0.819770097732544
+13,"asset and deposit growth at small agricultural banks, by contrast, lagged behind that at other small banks, although not at large banks.",LABEL_2,0.9193028807640076
+14,"the comparatively poor performance of agricultural banks seems to reflect the level of credit demand in the agricultural sector itself, as growth of farm business debt has lagged behind that of total nonfinancial debt.",LABEL_0,0.9614018201828003
+15,"the surprisingly strong and persistent growth in the number of branch offices also suggests that the personal touch, which plays to the strength of community banks, remains an important element of banking in the age of the internet.",LABEL_1,0.9639695286750793
+16,"adjusting the data to account for inflation and real industry growth, the community bank share of industry assets has steadily declined, falling from 25 percent a decade ago to about 16 percent now.",LABEL_0,0.6525073051452637
+17,community banks have greatly improved their management of interest rate risk in recent years.,LABEL_0,0.9873545169830322

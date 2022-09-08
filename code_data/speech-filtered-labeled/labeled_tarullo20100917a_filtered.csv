@@ -1,0 +1,5 @@
+Unnamed: 0,sentence,label,score
+0,"it builds on two important insights from work gorton had pursued well before the financial crisis began: first, that the enormous growth of the shadow banking system generally, and the repurchase agreement, or ""repo,"" market specifically, depended on the engineering of aaa-rated securities that led participants to believe they did not need to inquire into the soundness of the underlying collateral.",LABEL_2,0.8550877571105957
+1,"in that event, there would be significant additions to the cost side of the proposal's ledger, in the form of the price and quantity effects that result from non-competitive industry structures.",LABEL_2,0.6545012593269348
+2,"yet by the terms of the g-m proposal, they apparently would not be able to hedge interest rate or other risks.",LABEL_0,0.7669157981872559
+3,"given the demand for repo funding, it seems worth considering whether this device could be used to create the necessary franchise value.",LABEL_2,0.9766685962677002

@@ -1,0 +1,21 @@
+Unnamed: 0,sentence,label,score
+0,"conditions in financial markets and the economy although the nationwide unemployment rate remains very high and real estate markets remain weak, conditions in financial markets have improved in recent months.",LABEL_0,0.9947681427001953
+1,"in particular, the functioning of interbank and other short-term funding markets has improved considerably, interest rate spreads on corporate bonds have narrowed significantly, prices of syndicated loans have increased, and some securitization markets have resumed operation.",LABEL_2,0.8419902920722961
+2,"in addition, equity prices have increased sharply, on net, since their low in early 2009.",LABEL_1,0.7419127225875854
+3,some of this reduction in debt represents reduced demand for credit from borrowers who would like to deleverage.,LABEL_0,0.9981762170791626
+4,"indeed, the most recent results from the federal reserve's senior loan officer opinion survey on bank lending practices indicate that both the availability and demand for bank loans are well below pre-crisis levels.",LABEL_0,0.6112261414527893
+5,the survey also suggests that demand for consumer and business loans remains weak.,LABEL_0,0.9975848197937012
+6,"of note, decreased loan demand from creditworthy borrowers was the most common explanation given by respondents for the contraction of business loans this past year.",LABEL_0,0.9989820718765259
+7,"credit losses at banking organizations continue to rise, and banks face risks of sizable additional credit losses given the likelihood that employment will take some time to recover.",LABEL_0,0.9984756112098694
+8,"in addition, while housing prices appear to have stabilized in recent months, foreclosures and mortgage loss severities are likely to remain elevated.",LABEL_0,0.9982677102088928
+9,"in the months since, and with the strong encouragement of the federal banking supervisors, many of these largest institutions have raised billions of dollars in new capital, improving their ability to withstand possible future losses and to extend loans as demand for credit recovers.",LABEL_0,0.9990217089653015
+10,"demand for commercial property, which is sensitive to trends in the labor market, has declined significantly and vacancy rates have increased.",LABEL_2,0.932612419128418
+11,"hit hard by the loss of businesses and employment, an increasing amount of retail, office, and industrial space is standing vacant.",LABEL_0,0.9932364821434021
+12,it is expected that all property types will continue to experience declining values and weak demand through the remainder of this year.,LABEL_0,0.9947268962860107
+13,"also of note, many of the failed banks relied heavily on brokered deposit funding, rather than core deposits, to support what had been very strong asset growth.",LABEL_0,0.9753549098968506
+14,"in atlanta, cre conditions are largely dependent on employment trends and job losses have continued to rise as unemployment has risen above 10 percent in the region.",LABEL_0,0.98929363489151
+15,"in addition, the rate of home price appreciation (hpa) continues to erode in atlanta while it appears to have stabilized in a number of major metropolitan areas.",LABEL_2,0.9982414245605469
+16,"as job losses continue, demand for commercial property has declined, vacancy rates increased, and property values fallen.",LABEL_0,0.9984155893325806
+17,"in addition to aggressively lowering short-term interest rates, the federal reserve has established a number of facilities to improve liquidity in financial markets.",LABEL_0,0.9990164637565613
+18,"investor demand for the new issuance was high, in part because of the improved investor protections put in place so that securities would be eligible collateral for talf loans.",LABEL_0,0.5351772904396057
+19,we also have aggressively pursued monetary policy actions and have provided liquidity to help restore stability to the financial system and support the flow of credit to households and businesses.,LABEL_0,0.999017596244812

@@ -1,0 +1,54 @@
+Unnamed: 0,sentence,label,score
+0,homebuilding and house prices have gone through prolonged and deep declines; the resulting broad pullback in financial markets from risk-taking and credit extension has transmitted some of the weakness in the housing sector to other types of spending.,LABEL_0,0.99867844581604
+1,"at the same time, a substantial run-up in the prices of petroleum and other commodities has simultaneously increased inflation and damped spending on other goods and services.",LABEL_1,0.998542845249176
+2,"finally, i'll end with a few thoughts about what the recent turbulence in financial markets may imply for the administration of public pension funds.1 recent economic developmentseconomic activity this year has been quite sluggish.",LABEL_2,0.7815403938293457
+3,"the demand for housing continued to decline early this year, and sales could fall even further in coming months, given the tightness in mortgage lending.",LABEL_0,0.9986226558685303
+4,all prominent measures of house prices are now showing declines.,LABEL_0,0.9977840781211853
+5,"although lower prices would eventually help bolster housing demand, the expectations of further declines in prices may currently be exacerbating the difficulties in housing markets.",LABEL_0,0.9989133477210999
+6,the sharp contraction in housing was at the center of the slowdown in economic activity that began late last year.,LABEL_0,0.998123288154602
+7,"since last fall, rising prices for energy and food have made a significant dent in the purchasing power of consumers' incomes.",LABEL_1,0.9989196062088013
+8,"moreover, despite some improvement in the stock market recently, households' net worth has deteriorated since the beginning of the year as the prices of homes have declined; and credit conditions have tightened.",LABEL_0,0.9992822408676147
+9,"sales of commercial properties fell sharply in the first quarter, and late last year prices appeared to have begun to decline.",LABEL_0,0.9749050140380859
+10,"some of the pullback in u.s. demand has been absorbed by declines in imports, and the decline in the dollar has made u.s. firms more competitive in export markets, though it has also accentuated inflation concerns.",LABEL_1,0.9688770771026611
+11,"the deceleration in economic activity has been reflected in the labor market, where layoffs have risen and hiring has slowed.",LABEL_0,0.998896598815918
+12,payroll employment has now fallen for four consecutive months.,LABEL_0,0.9987455010414124
+13,the combination of job losses and the greater difficulty in finding jobs has pushed the unemployment rate up to 5 percent in recent months.,LABEL_1,0.712203323841095
+14,equity prices have risen noticeably since mid-march.,LABEL_1,0.9986442923545837
+15,"apparently, a combination of factors has contributed to a perception that financial markets and the economy are less likely than some had feared to experience very adverse outcomes: among those factors were federal reserve actions to bolster liquidity and ease monetary policy, the success of a number of financial institutions in raising capital, and incoming economic data and earnings reports that were not as weak as market participants had expected.",LABEL_0,0.9985573291778564
+16,"the economic outlookalthough the current financial and economic situation remains quite difficult, i believe that the most likely scenario over the next year or so is one in which economic activity firms during the second half of this year and then gathers some strength in 2009.",LABEL_2,0.9991071224212646
+17,"of course, the stimulus to domestic production will depend on the extent to which the additional demand is met by a temporary drawdown of inventories or an increase in imports rather than by an expansion in domestic output.",LABEL_2,0.9600303173065186
+18,"the demand for housing is not likely to rebound substantially for a while after this episode, but the drag on growth from declining activity and prices in the housing market will ebb as excess inventories are worked off and affordability improves.",LABEL_2,0.9331656098365784
+19,"with a lag, business investment should turn up as prospects for a sustained expansion of economic activity become clearer.",LABEL_1,0.5518876910209656
+20,and both households and businesses should benefit from a leveling-off in the prices of energy and other commodities along the path implied by futures markets.,LABEL_2,0.9905324578285217
+21,"if the retrenchment in house prices becomes deeper than anticipated, its effect on lenders and financial markets could further damp overall economic activity.",LABEL_0,0.9649237990379333
+22,"inflationanother area of concern is the implications for inflation as a result of the recent run-up in the prices of energy, food, and other commodities.",LABEL_1,0.9987128973007202
+23,the recent news on inflation has been mixed.,LABEL_2,0.9984272122383118
+24,core inflation has moderated a little so far this year.,LABEL_2,0.6350318193435669
+25,"however, we have seen no relief from the pressures of rising prices for energy and food; thus headline inflation has been quite elevated.",LABEL_1,0.9988188743591309
+26,"these prices have continued to rise despite slowing demand in the united states and, to a lesser extent, in other countries.",LABEL_1,0.9938340783119202
+27,"over the past few years, emerging market economies have increased demand for many of these commodities, and world supply has not kept pace with this growing demand.",LABEL_2,0.9463150501251221
+28,"as for food prices, bad weather has combined with higher production costs to restrain supplies.",LABEL_1,0.9948940277099609
+29,"consequently, agricultural inventories have been drawn down to low levels and have not been available to absorb the rising demand.",LABEL_2,0.7815811634063721
+30,"furthermore, higher energy prices have affected agricultural prices not only through higher costs of production but also by boosting the demand for biofuels.",LABEL_1,0.998969316482544
+31,some observers have questioned whether the news on fundamentals affecting supply and demand in commodities markets has been sufficient to justify the sharp price increases in recent months.,LABEL_2,0.8757243752479553
+32,some of these commentators have cited the actions of the federal reserve in reducing interest rates as an important consideration boosting commodity prices.,LABEL_0,0.9985166192054749
+33,"to be sure, commodity prices did rise as interest rates fell.",LABEL_0,0.8192452192306519
+34,"however, for many commodities, inventories have fallen to all-time lows, a development that casts doubt on the premise that speculative demand boosted by low interest rates has pushed prices above levels that would be consistent with the fundamentals of supply and demand.",LABEL_0,0.9990332126617432
+35,"as interest rates in the united states fell relative to those abroad, the dollar declined, which could have boosted the prices of commodities commonly priced in dollars by reducing their cost in terms of other currencies, hence raising the amount demanded by people using those currencies.",LABEL_1,0.9954579472541809
+36,"but the prices of commodities have risen substantially in terms of all currencies, not just the dollar.",LABEL_1,0.998380720615387
+37,"in sum, lower interest rates and the reduced foreign exchange value of the dollar may have played a role in the rise in the prices of oil and other commodities, but it probably has been a small one.",LABEL_1,0.81822270154953
+38,the rise in commodity prices presents particular challenges for monetary policy because such increases both add to near-term inflationary pressures and damp demand.,LABEL_1,0.9988924264907837
+39,a tendency for increases in commodity prices to become a factor in ongoing pricing and wage-setting more generally would be a worrisome development that would over time tend to undermine economic welfare.,LABEL_1,0.9988488554954529
+40,"in the near term, headline inflation is likely to continue to be boosted by the direct effects of the recent increases in the prices of energy and food.",LABEL_1,0.9990860819816589
+41,"if, as futures markets suggest, those prices level off later this year, prospects seem reasonably good for headline inflation to move back in line over time with core inflation.",LABEL_2,0.9978171586990356
+42,and i expect core inflation to ease off slowly as commodity prices level out and as economic slack creates competitive conditions that inhibit increases in labor costs and prices.,LABEL_0,0.8460869193077087
+43,"despite the elevated headline inflation of the past four years, we have seen little evidence of faster wage inflation.",LABEL_1,0.888472855091095
+44,and healthy gains in productivity have helped to hold down labor cost pressures on prices.,LABEL_2,0.969146728515625
+45,my expectations for moderating inflation and limited spillover effects from commodity price increases depend critically on the continued stability of inflation expectations.,LABEL_2,0.9977476596832275
+46,"in that regard, year-ahead inflation expectations of households have increased this year in response to the jump in headline inflation.",LABEL_1,0.9991537928581238
+47,"of greater concern, some measures of longer-term inflation expectations appear to have edged up.",LABEL_1,0.9990137815475464
+48,if longer-term inflation expectations were to become unmoored--whether because of a protracted period of elevated headline inflation or because the public misinterpreted the recent substantial policy easing as suggesting that monetary policy makers had a greater tolerance for inflation than previously thought--then i believe that we would be facing a more serious situation.,LABEL_1,0.9988152980804443
+49,monetary policythe federal open market committee will be monitoring inflation developments closely for any sign that our longer-run objective of promoting price stability is threatened.,LABEL_1,0.764380693435669
+50,"at the same time, we also need to continue to carefully assess whether, after a period of near-term softness in economic activity, the economy is likely to be on track for sustained economic expansion over time.",LABEL_2,0.9981271028518677
+51,"with the information now in hand, it is my judgment that monetary policy appears to be appropriately calibrated for now to promote both rising employment and moderating inflation over the medium term.",LABEL_0,0.8662986755371094
+52,"but as has been so clearly and forcefully demonstrated over the past year, there is no free lunch with risk-taking: the price is volatility, the extent of which should be well disclosed and the implications of which should be well understood.",LABEL_1,0.5521806478500366

@@ -1,0 +1,14 @@
+Unnamed: 0,sentence,label,score
+0,"improved technologies, however, have been unable to prevent the underlying long-term price of natural gas in the united states from rising.",LABEL_1,0.997782289981842
+1,"that price has risen gradually from $2 per million btu in 1997 for delivery in 2000, and presumably well beyond, to more than $4.50 for delivery in 2009, the crude oil heating equivalent of rising from less than $12 per barrel to $26 per barrel.",LABEL_1,0.9917427897453308
+2,"over the same period, the distant futures price of light sweet crude oil has edged up only $4 per barrel and is selling at a historically rare discount to comparably dated natural gas.",LABEL_2,0.5647265315055847
+3,and high gas prices projected in the american distant futures market have made us a potential very large importer.,LABEL_1,0.9962636828422546
+4,"even with markedly less geopolitical instability confronting world gas than world oil in recent years, spot gas prices have been far more volatile than those for oil, doubtless reflecting, in part, less-developed, price dampening global trade.",LABEL_1,0.945115864276886
+5,the updrift and volatility of the spot price for gas have put significant segments of the north american gas-using industry in a weakened competitive position.,LABEL_2,0.8583574295043945
+6,"increased marginal supplies from abroad, while likely to notably damp the levels and volatility of american natural gas prices, would expose us to possibly insecure sources of foreign supply, as it has for oil.",LABEL_1,0.9884738922119141
+7,creating a price-pressure safety valve through larger import capacity of lng need not unduly expose us to potentially unstable sources of imports.,LABEL_1,0.9454610347747803
+8,such contradictions are resolved only by debilitating spikes in price.,LABEL_1,0.9195656180381775
+9,"* * * * * in summary, the long-term equilibrium price for natural gas in the united states has risen persistently during the past six years from approximately $2 per million btu to more than $4.50.",LABEL_1,0.9928533434867859
+10,"although futures markets project a near-term modest price decline from current highly elevated levels, contracts written for delivery in 2009 are more than double the levels that had been contemplated when much of our existing gas-using capital stock was put in place.",LABEL_1,0.993358850479126
+11,the perceived tightening of long-term demand-supply balances is beginning to price some industrial demand out of the market.,LABEL_1,0.9712201356887817
+12,"it is not clear whether these losses are temporary, pending a fall in price, or permanent.",LABEL_2,0.8968604803085327

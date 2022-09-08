@@ -1,0 +1,24 @@
+,sentence
+0,"they understand that they make crucial contributions to the policymaking process, not only in the realm of monetary policy but in banking, payments, consumer affairs, and other areas, and they bring great pride and professionalism to their work."
+1,"the theme of the panel is ""monetary policy modeling: where are we and where should we be going?"""
+2,"so i think the best i can do is highlight three general areas in which much good work has already been done, including research by messrs. henderson, porter, and tinsley, but in which further progress would be enormously helpful to monetary policymaking in practice."
+3,the first area is the characterization of good monetary policy in increasingly realistic and complex model environments.
+4,"we have learned a great deal in recent years about the effects of monetary policy in dynamic, stochastic, sticky-price models, with michael woodford's recent book (woodford, 2003) perhaps best representing the state of the art."
+5,"for example, in some of these models, strict inflation targeting--a policy of keeping inflation at zero at all times--is the optimal policy."
+6,"the erceg-henderson-levin (ehl) paper explores the implications for monetary policy of a plausible complication, the inclusion in the model of nominal wage stickiness as well as price stickiness."
+7,"specifically, in the ehl model, monetary policy can no longer achieve a fully optimal outcome but instead faces tradeoffs among its objectives."
+8,"for example, canzoneri, cumby, and diba consider further complications of the sticky-price, sticky-wage model, including capital investment and habit formation in consumption, while benigno and woodford explore the case in which the steady state of the model is not pareto optimal, as assumed by ehl."
+9,"a second important area, one that will always be central to monetary policy, is macro forecasting."
+10,"because monetary policy works with a lag, the ability of policymakers to stabilize the economy depends critically on our ability to peer into our cloudy crystal balls and see something resembling the future."
+11,one of the key variables to be forecast is inflation.
+12,"a variety of approaches to forecasting inflation are used at the board, of course."
+13,one of dick porter's many contributions was to develop a monetary approach to forecasting inflation at medium-term horizons.
+14,"that equation is of course the quantity equation, mv = py, or money times velocity equals the price level times output."
+15,this equation can be used to define a link between money growth and inflation that depends on the evolution of the velocity of money.
+16,"this approach seems to work reasonably well at predicting inflation at medium-term horizons, and the forecasts of this model are reported routinely to the board of governors."
+17,"because good forecasts are so crucial to good monetary policy, i hope and expect to see a great deal more work exploring the robustness of alternative forecasting methods."
+18,"for example, a rich recent literature on learning and macroeconomics has emphasized that actual inflation and inflation expectations may to some degree evolve independently, and that effective monetary policy stabilizes inflation expectations as well as inflation itself (orphanides and williams, 2003)."
+19,"for example, kozicki and tinsley (2001) show that it is far easier to make sense of the term structure of treasury yields if one assumes that expectations about long-run inflation adjust in a reasonable adaptive manner."
+20,"in a paper presented at a recent conference at the federal reserve bank of san francisco, kozicki and tinsley (2003) develop an empirical model of the economy under the assumptions that the fed's implicit inflation target is subject to permanent shocks and that the public learns about the fed's target over time."
+21,"although simple, their model allows for a much richer and realistic description of the evolution of monetary policy and the economy."
+22,"for example, their approach gives empirical content to the idea of imperfect monetary policy credibility; in their model, monetary policy is credible when private expectations of long-run inflation tend to align closely with the central bank's true underlying inflation target."

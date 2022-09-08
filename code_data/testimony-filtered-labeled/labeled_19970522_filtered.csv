@@ -1,0 +1,7 @@
+Unnamed: 0,sentence,label,score
+0,10 and the other proposed bills promote a financial system that makes the maximum contribution to the growth and stability of the u.s. economy?,LABEL_1,0.9731516242027283
+1,"the most profound force is, of course, technology: the rapid growth of computers and telecommunications.",LABEL_1,0.7530273795127869
+2,other risks come from the same sorts of credit and interest rate risks about which banks are already knowledgeable.,LABEL_2,0.7230337858200073
+3,"life, automobile, and other insurance sales are virtually riskless and authorizing insurance brokerage sales by banks is likely to add additional convenience and service, as well as lower prices, for the public.",LABEL_0,0.9968808889389038
+4,"for these reasons, the agency charged with consolidated oversight should have a clearly defined role—one that permits it to protect affiliated banks and the safety net from abuse and excessive risk, while permitting operational synergies and imposing minimal interference with the growth or activities of the bank's affiliates.",LABEL_2,0.6541169285774231
+5,"i believe the united states currently has a strong and effective supervisory process, and one that has also permitted its banking and financial system to fuel economic growth to a degree unmatched in the world today.",LABEL_1,0.7315248847007751

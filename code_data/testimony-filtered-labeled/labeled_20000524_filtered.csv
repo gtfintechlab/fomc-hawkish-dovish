@@ -1,0 +1,8 @@
+Unnamed: 0,sentence,label,score
+0,"these practices may involve, among other things, excessive fees and interest rates, unnecessary insurance, and fraud.",LABEL_1,0.995103657245636
+1,"thus, even though most consumer advocates applaud the growth of subprime lending--because it expands the availability of credit to those with less-than-perfect credit records--they are concerned about whether, in practice, some subprime lenders or their brokers are taking unfair advantage of many of these consumers.",LABEL_0,0.9921361207962036
+2,this overall growth in home-equity lending has featured a sharp boost in the subprime mortgage market.,LABEL_1,0.9700763821601868
+3,the result of this growth has been a massive increase in the availability of credit to borrowers having less-than-perfect credit histories and to other consumers who do not meet the underwriting standards of prime lenders.,LABEL_0,0.8465123176574707
+4,"although hoepa's purpose is to regulate abusive lending practices, coverage by the act depends on price triggers rather than on a definition or finding of ""predatory lending.""",LABEL_1,0.8204020261764526
+5,this means that hoepa's price triggers bring some subprime loans not associated with unfair or abusive lending within the act's coverage and that abusive practices may occur in transactions that fall below the hoepa triggers.,LABEL_0,0.5914425253868103
+6,consumer advocates express concern about high-pressure sales tactics sometimes used to sell high-priced credit insurance that does not allow for a discount for advance payments.,LABEL_1,0.995764970779419

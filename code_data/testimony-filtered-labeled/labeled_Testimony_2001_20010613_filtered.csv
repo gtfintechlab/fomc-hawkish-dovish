@@ -1,0 +1,10 @@
+Unnamed: 0,sentence,label,score
+0,"congress has given the federal reserve three monetary policy objectives: maximum employment, stable prices and moderate long-term interest rates.",LABEL_0,0.9958136081695557
+1,"we have viewed these objectives as congruent with a goal of maximum sustainable growth, which can occur only in the context of long-run price stability.",LABEL_2,0.9979909062385559
+2,but faster productivity growth fed back on the demand for goods and services in ways that complicated the calibration of monetary policy.,LABEL_1,0.9921101331710815
+3,faster growth in productivity and the reactions of businesses and households to this acceleration of productivity have combined with other forces-particularly those associated with the growing interconnectedness of the global economy- to require substantial adjustments in the federal reserve's policy interest rate in recent years.,LABEL_0,0.880872368812561
+4,but those adjustments in our policy instrument have been in the service of our objective of promoting maximum sustainable growth.,LABEL_1,0.938994288444519
+5,making monetary policy has been only part of the challenge.,LABEL_0,0.991710901260376
+6,"while macroeconomic conditions are of overriding importance, the role of the federal reserve is broader than monetary policy.",LABEL_0,0.996265709400177
+7,but our study also found that existing policies appear adequate to allow regulators to maintain safe and sound financial industries now and in the intermediate term and for monetary policy to work through many of the same mechanisms as in the past.,LABEL_0,0.621618926525116
+8,financial literacy will certainly play an important role in avoiding the growth of abusive or deceptive financial practices and in allowing consumers to protect their interests.,LABEL_0,0.6078774929046631

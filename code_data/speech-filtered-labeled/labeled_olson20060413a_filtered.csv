@@ -1,0 +1,23 @@
+Unnamed: 0,sentence,label,score
+0,"by the end of last year, businesses had added another 2 million jobs to their payrolls, and the unemployment rate had dropped to its lowest level in five years.",LABEL_0,0.8976412415504456
+1,"although top-line consumer price inflation was boosted by the run-up in energy prices, core consumer price inflation remained relatively steady, at about 2 percent for the year.",LABEL_1,0.9975928664207458
+2,one of the significant challenges for a policymaker is to be able to discern the underlying trends in real activity and inflation in the midst of the inevitable noise and shocks that come along.,LABEL_2,0.9988911747932434
+3,"the resulting disruptions to economic activity, particularly in the energy and petrochemical sectors, held down the rise in real gdp in the fourth quarter.",LABEL_0,0.6060193777084351
+4,"another, more persistent economic challenge in recent years has been the climb in world oil prices.",LABEL_1,0.9988011717796326
+5,"to be sure, higher energy prices cut into households' purchasing power and the profits of non-energy firms.",LABEL_1,0.9968774318695068
+6,"while recognizing the difficulty of identifying the reactions of consumers and businesses to higher energy prices, chairman bernanke has recently noted that the surge in energy prices since late 2003 probably reduced the growth of real gdp between 1/2 percent and 1 percent per year.",LABEL_2,0.9617705345153809
+7,"after taking into consideration the unusual factors that have been influencing the pattern of economic activity of late, most forecasters are projecting that, after a sizable increase in the first quarter, production and spending will return to a moderate and sustainable pace over the remainder of the year.",LABEL_2,0.9986480474472046
+8,"finally, households' real income has been receiving a boost from the recent strong gains in employment, and the ongoing increases in house prices and gains in the stock market have kept the ratio of wealth to income at a high level.",LABEL_1,0.9913530349731445
+9,"in addition, the continued low level of new claims for unemployment insurance bodes well for further net gains in employment and, thus, income.",LABEL_1,0.9080483913421631
+10,another important factor in the outlook for the united states is the likelihood of a continued solid expansion in economic activity abroad.,LABEL_2,0.9953780770301819
+11,"notably, the japanese economy has strengthened, and economic activity in emerging asian economies has continued to rise at a brisk pace, while the outlook in canada calls for sustained moderate growth.",LABEL_2,0.9985129237174988
+12,domestic economic activity should also continue to receive a boost in coming quarters from reconstruction in the gulf region.,LABEL_2,0.9939269423484802
+13,the most recent indicators suggest that demand and home-price inflation have begun to moderate.,LABEL_2,0.9971722960472107
+14,"with respect to inflation, although forecasting energy prices is risky, i should note that the futures market suggests that crude oil prices will move up a bit further in coming months before flattening out at $70 per barrel.",LABEL_2,0.5757429599761963
+15,"if so, the drag on real income and spending from rising energy costs should diminish over time, as should the risk of additional energy cost pressure on underlying, or ""core,"" inflation.",LABEL_1,0.9972013831138611
+16,"the general contour of economic activity that most forecasters are expecting, in which they see little change in resource utilization over the year, should be consistent with relatively stable core inflation.",LABEL_2,0.9990324378013611
+17,"as i noted earlier, the unemployment rate is now at a five-year low of 4-3/4 percent.",LABEL_0,0.9888642430305481
+18,"at this point, we have seen few signs of upward pressure on labor compensation or core inflation.",LABEL_2,0.9950673580169678
+19,"although we have experienced run-ups in prices of commodities, such as building supplies, that are more sensitive to changes in supply and demand conditions and in prices of energy-intensive commodities and services, the pass-through to core inflation appears to have been limited.",LABEL_1,0.8767120242118835
+20,"important in that regard is the fact that longer-run inflation expectations have been well anchored, as is apparent in the stability of the five-to-ten-year inflation expectations of households in the michigan src survey and in the reading implicit in treasury-inflation-protected securities.",LABEL_2,0.9881095886230469
+21,the observations i've just shared illustrate the evolving economic forces that the federal open market committee (fomc) will consider as it makes monetary policy decisions over the remainder of the year.,LABEL_2,0.8840374946594238

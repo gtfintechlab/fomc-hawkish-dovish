@@ -1,0 +1,5 @@
+Unnamed: 0,sentence,label,score
+0,"finally, many institutions may have expanded to meet ambitious aspirations for growth that comparatively small local markets might not accommodate.",LABEL_1,0.5800873041152954
+1,nor did they appear to achieve superior revenue growth.,LABEL_2,0.9414250254631042
+2,"moreover, the accord does not explicitly address interest rate risk, operational risk, or other risks that can be substantial at some banks.",LABEL_0,0.9943205118179321
+3,"but just as derivatives have allowed you to unbundle risks and to price and structure financial products with more precision, similar technologies and innovations are requiring more precision in almost everything else you do.",LABEL_2,0.6736017465591431

@@ -1,0 +1,3 @@
+Unnamed: 0,sentence,label,score
+0,this new standard will certainly put more demands on external auditors and public companies alike.,LABEL_1,0.9947878122329712
+1,"but this is the price to be paid for ""raising the bar"" to achieve greater reliability in corporate financial statements and to regain the confidence of the public and the trust of financial markets.",LABEL_1,0.9716107845306396

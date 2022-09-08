@@ -1,0 +1,15 @@
+Unnamed: 0,sentence,label,score
+0,"against that background, i will touch briefly on fiscal and monetary policy here in the united states, before turning to financial regulatory issues.",LABEL_2,0.9962816834449768
+1,"over the last few years, the fiscal authorities have cut federal spending and raised taxes, and our congressional budget office estimates that these fiscal headwinds will reduce real gdp growth by about 1.5 percentage points this year from what it otherwise would have been.",LABEL_0,0.9984953999519348
+2,i will turn for a moment to monetary policy.,LABEL_2,0.6411793828010559
+3,the congress has tasked the federal reserve with conducting monetary policy to foster stable prices and full employment.,LABEL_0,0.9978453516960144
+4,"today, inflation is well below our 2 percent longer-term objective, as measured by prices for personal consumption expenditures.",LABEL_0,0.9902508854866028
+5,"and although the unemployment rate has declined notably since its peak in 2010, it remains well above our estimate of a longer-run, more normal level.",LABEL_0,0.9984177350997925
+6,"i expect that inflation will return gradually to our 2 percent objective, and that we will continue to make progress in reducing unemployment.",LABEL_0,0.9381283521652222
+7,"in the meantime, the case for continued support for our economy from monetary policy remains strong.",LABEL_0,0.9990036487579346
+8,"with these fiscal headwinds and the lingering effects of the recession, growth has remained in the range of 2 percent since 2009.",LABEL_0,0.8471997976303101
+9,"house prices are rising, and that is supporting improvement in household net worth and consumer attitudes.",LABEL_1,0.9802541136741638
+10,"homebuilders are responding to this price signal with rising housing starts, which will support job growth.",LABEL_1,0.9966017603874207
+11,"together, these and other factors give grounds to hope for the kind of self-reinforcing cycle of economic growth that we have been waiting to see.",LABEL_2,0.9874653816223145
+12,"and as our economy has gradually improved, it has become possible, and appropriate, for the federal reserve to provide clearer guidance on the path of monetary policy.",LABEL_0,0.9987552762031555
+13,"in all likelihood, this path will involve continued support from accommodative monetary policy for quite some time.",LABEL_0,0.999098002910614

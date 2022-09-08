@@ -1,0 +1,7 @@
+Unnamed: 0,sentence,label,score
+0,these risks include the possibility that expectations for future income growth for marginal borrowers may be optimistic.,LABEL_1,0.8544868230819702
+1,"during the recent housing boom, faced with soaring home prices and rising interest rates, many borrowers have sought to lower their debt service obligations by turning to mortgages with nonstandard payment and amortization schedules.",LABEL_1,0.9937952756881714
+2,"at the same time, some banks have weakened proof of income and appraisal standards, and did not fully assess borrowers' ability to pay when interest rates rise and full amortization begins.",LABEL_1,0.9890542030334473
+3,"the recent rise in subprime mortgage delinquencies has been concentrated among adjustable-rate subprime loans, which is probably related to interest rates resetting--as the first reset tends to occur much earlier for subprime arms than prime arms.",LABEL_1,0.7836430072784424
+4,we have had clear initial signals in recent months that housing prices are no longer rising as they had been and are declining modestly in some key markets.,LABEL_0,0.9847362041473389
+5,"growth in housing wealth may slow or stagnate while the debt service obligation continues to rise, as teaser rates expire and fully-indexed loan rates eventually catch up with increases in market rates.",LABEL_1,0.9946566820144653

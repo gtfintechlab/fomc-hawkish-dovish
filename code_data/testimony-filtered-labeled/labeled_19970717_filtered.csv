@@ -1,0 +1,7 @@
+Unnamed: 0,sentence,label,score
+0,"while there is some limit on the original size of each nonfinancial firm acquired by a bank holding company and on the original size of the one bank that a nonfinancial company could purchase, the subsequent growth is only constrained by the 15 percent revenue limit.",LABEL_2,0.9944349527359009
+1,"this constraint may be more apparent than real, given the ongoing growth and consolidation of the financial services industry.",LABEL_1,0.829944908618927
+2,"but other debt instruments also benefit, and the capital ratio demanded by the market is lower.",LABEL_0,0.9931739568710327
+3,"mr. chairman, we believe that the federal reserve needs to continue to have consolidated oversight authority, especially for organizations in which the bank is large enough that its failure could cause disruptions in financial markets sufficient to affect economic activity.",LABEL_0,0.997026264667511
+4,"in periods of stress, such credit demands surge just at the time when some banks are least willing or able to meet them.",LABEL_0,0.9769697785377502
+5,"these demands, if unmet, could produce gridlock in payment and settlement systems, exposing financial markets to dangerous stress.",LABEL_0,0.9972241520881653

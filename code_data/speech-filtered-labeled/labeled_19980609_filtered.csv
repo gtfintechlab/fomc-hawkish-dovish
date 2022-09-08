@@ -1,0 +1,8 @@
+Unnamed: 0,sentence,label,score
+0,"when people think of the federal reserve, i am pretty sure that most americans think of monetary policy, interest rates, international finance, and the fed's macroeconomic responsibilities in all of these areas.",LABEL_2,0.5815881490707397
+1,"key trends challenging bank supervisors surely the most profound force transforming the financial, and for that matter other sectors of our economy, is the rapid growth of computer and telecommunications technology.",LABEL_2,0.8332809805870056
+2,"in finance, a critical and complementary force is the development of intellectual ""technologies"" that enable financial engineers to separate risk into its various components, and price each component in an economically rational way.",LABEL_2,0.9966698884963989
+3,implementation of financial engineering strategies typically requires massive amounts of cheap data processing; and the cheap data processing would not be useful without the formulas required to compute prices.,LABEL_2,0.9979534149169922
+4,competitive markets are our best assurance that consumers receive the highest quality products at the lowest possible prices.,LABEL_2,0.8943222165107727
+5,"an additional benefit of having subordinated debt traded on the open market is that price movements would provide a clear signal of the market's evaluation of the bank's financial condition that, even if it were not used to help price deposit insurance, could serve as an early warning aid to supervisors.",LABEL_2,0.9966476559638977
+6,"i believe that the fed has an important role to play in banking supervision in order to carry out its responsibilities for monetary policy, economic stabilization, and crisis management.",LABEL_0,0.9973023533821106

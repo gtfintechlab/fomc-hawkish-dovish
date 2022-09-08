@@ -1,0 +1,5 @@
+Unnamed: 0,sentence,label,score
+0,"this topic is particularly relevant in light of current economic conditions and the impact that depreciating home and stock values, tightened credit markets, and increased unemployment have had on consumers' finances.",LABEL_0,0.9987323880195618
+1,"unemployment has risen.5 as consumers tapped their lines of credit to help make ends meet, revolving consumer debt grew 9 percent across 2007 and 2008.6 during those two years, delinquency rates on credit cards rose from 3.9 percent to 5.6 percent while charge-offs rose from 3.9 percent to 6.2 percent.7 even financially savvy consumers are challenged in this difficult economic environment.",LABEL_0,0.9862831234931946
+2,"when creditors charge different interest rates for purchases, cash advances, and balance transfers, they can increase their revenues through their payment allocation policies.",LABEL_1,0.9950177669525146
+3,"staff is developing the fed challenge online, an e-learning site for high school students and teachers to learn about macroeconomics and monetary policy.",LABEL_2,0.9945461750030518

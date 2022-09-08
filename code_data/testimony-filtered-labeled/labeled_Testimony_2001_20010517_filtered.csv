@@ -1,0 +1,14 @@
+Unnamed: 0,sentence,label,score
+0,"before turning to the latest information on credit market conditions, however, i think it important to highlight the special characteristics of small businesses that make them such an important part of our economy and at the same time create a heterogeneous set of financial needs and credit demands.",LABEL_2,0.9971596002578735
+1,the continuous entry and exit of firms is a clear sign that resources are responding to shifting demands of consumers and businesses and to changes in the costs of production.,LABEL_2,0.992049515247345
+2,"further injections of equity are required in the early stages of growth and ultimately some form of ""take-out"" financing is arranged, such as an initial public offering or a buyout by another firm, that allows the venture capitalist to extract his or her investment.",LABEL_0,0.7401070594787598
+3,"but for every new, high-growth firm seeking venture capital, there are hundreds of small businesses in the manufacturing, construction, trade, and service sectors that have quite different financing needs.",LABEL_2,0.8173206448554993
+4,"bolstered by a technology-led acceleration in productivity, real gdp growth averaged 4-1/4 percent in the latter half of the 1990s, and the unemployment rate had dropped to 4 percent by the end of the decade.",LABEL_2,0.9906520247459412
+5,it became increasingly apparent over the course of last year that the pace of economic growth was slowing.,LABEL_0,0.9961434602737427
+6,"as corporate profits fell and businesses revised down their outlook for sales and earnings growth, investors became less certain about the returns they should expect on investments.",LABEL_0,0.9976174831390381
+7,"these surveys ask about banks' credit terms and standards, about loan demand, and other issues that may be topical.",LABEL_2,0.9979515075683594
+8,"in their latest reports, bank loan officers also indicated that the demand for business credit has waned of late, largely owing to reductions in planned investments and diminished financing for mergers.",LABEL_0,0.9968708753585815
+9,"for creditworthy businesses, large and small, the cost of borrowing has declined with the easing in monetary policy and the associated decline in lending rates since the fall.",LABEL_0,0.9993767738342285
+10,"the prime lending rate has fallen 2 percentage points since the end of last year, and the average interest rate paid by respondents on the april nfib survey was down almost 1 percentage point over the same period, to its lowest level in nearly a year.",LABEL_0,0.9988464117050171
+11,"in contrast to that period, our financial institutions have had a long stretch of solid earnings growth during which to build capital and liquidity positions.",LABEL_2,0.8467116355895996
+12,such tightening might be expected in an economy that has slowed after several years of rapid expansion and debt growth.,LABEL_2,0.9764955639839172

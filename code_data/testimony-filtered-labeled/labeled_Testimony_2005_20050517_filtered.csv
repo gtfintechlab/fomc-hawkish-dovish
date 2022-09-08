@@ -1,0 +1,11 @@
+Unnamed: 0,sentence,label,score
+0,"thus, the apr on closed-end transactions can be somewhat higher than the interest rate identified in the loan agreement, whenever other fees are present in the finance charge.",LABEL_1,0.9979953169822693
+1,credit card account agreements typically allow card issuers to change interest rates and other fees during the life of the account.,LABEL_2,0.8022889494895935
+2,the general rule is that fifteen days' advance notice is required to increase the interest rate (or other finance charge) or an annual fee.,LABEL_1,0.9985026121139526
+3,"a notice is required, but not in advance, if the interest rate increases due to a consumer's default or delinquency.",LABEL_1,0.9972727298736572
+4,"this is the case, for example, when the agreement specifies that the interest rate will increase if the consumer pays late.",LABEL_1,0.9984001517295837
+5,"the applicability of a protection can hinge on timing (when the cardholder notifies the card issuer about the problem), the outstanding balance (how much of the sale price remains unpaid at the time the cardholder notifies the card issuer), and receipt of the good or services (nothing was delivered, or something was delivered but didn't meet the cardholder's expectations).",LABEL_2,0.8829463720321655
+6,"the data show that complainants' main concerns were about interest rates and terms, penalty charges and fees such as late fees, over-the-limit fees, and annual fees.",LABEL_1,0.9803909063339233
+7,role for consumer financial education this detailed description of the issues of concern in our review of regulation z is illustrative of both the complexity of and the growth in today's consumer credit markets.,LABEL_2,0.960176944732666
+8,"in addition, credit scoring models, the mathematical formulations lenders use to predict credit risk, have enabled creditors to price credit more efficiently, and charge rates of interest commensurate with a consumer's repayment risk.",LABEL_0,0.475974440574646
+9,"in addition, as the industry has become more competitive on interest rate pricing, it has adopted more complex fee structures that, if triggered, affect a consumer's overall cost associated with the credit card.",LABEL_1,0.9873974323272705

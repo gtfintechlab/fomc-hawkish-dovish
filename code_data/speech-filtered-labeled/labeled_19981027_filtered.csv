@@ -1,0 +1,5 @@
+Unnamed: 0,sentence,label,score
+0,"we are also aware of the potential for cross marketing, where economies of scope on the supply side allow firms to sell multiple products to their customers, and on the demand side allow consumers to conveniently purchase bundles of services.",LABEL_2,0.8686056733131409
+1,"on the demand side, retail customers may become more receptive to one-stop shopping as the range of services increases and as new opportunities for accessing these services become available.",LABEL_1,0.8112494945526123
+2,"in addition, changes in the price of a bank's subordinated debt might prove to be a useful signal of the market's evaluation of a bank's financial condition.",LABEL_2,0.9990857243537903
+3,"finally, regulators should implement antitrust policy in a manner that will ensure competitive prices and services as the financial sector evolves and consolidates.",LABEL_1,0.7643000483512878

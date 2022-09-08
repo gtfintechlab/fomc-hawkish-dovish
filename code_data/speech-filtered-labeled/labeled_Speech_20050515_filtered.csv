@@ -1,0 +1,4 @@
+Unnamed: 0,sentence,label,score
+0,trillions of dollars of assets are priced and traded daily in our financial markets.,LABEL_2,0.8302030563354492
+1,"indeed, we could not have achieved our current level of national productivity if ethical behavior had not been the norm or if corporate governance had been deeply flawed.",LABEL_0,0.9501684308052063
+2,"after the revelations of recent corporate malfeasance, the market punished the stock and bond prices of those corporations whose behaviors had cast doubt on the reliability of their reputations.",LABEL_0,0.9981613159179688

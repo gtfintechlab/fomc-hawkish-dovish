@@ -1,0 +1,18 @@
+Unnamed: 0,sentence,label,score
+0,"but first, i would like to share with you some thoughts about the outlook for the u.s. economy and monetary policy.1 in its 11th year of a record expansion, the u.s. economy is in a good place.",LABEL_2,0.9950501918792725
+1,"the labor market remains strong, economic activity is increasing at a moderate pace, and the federal open market committee's (fomc) baseline outlook is for a continuation of this performance in 2020.2 at present, personal consumption expenditures, or pce, price inflation is running somewhat below the committee's 2 percent objective, but we project that, under appropriate monetary policy, inflation will rise gradually to our symmetric 2 percent objective.",LABEL_2,0.9802634119987488
+2,"although the unemployment rate is around a 50-year low, wages are rising broadly in line with productivity growth and underlying inflation.",LABEL_1,0.9606430530548096
+3,we are not seeing any evidence to date that a strong labor market is putting excessive cost-push pressure on price inflation.,LABEL_2,0.80547034740448
+4,"although the fundamentals supporting household consumption remain solid, over 2019, sluggish growth abroad and global developments weighed on investment, exports, and manufacturing in the united states.",LABEL_0,0.9977938532829285
+5,"coming into this year, indications suggested that headwinds to global growth had begun to abate, and uncertainties around trade policy had diminished.",LABEL_0,0.7626307010650635
+6,"in particular, we are closely monitoring the emergence of the coronavirus, which is likely to have a noticeable impact on chinese growth, at least in the first quarter of this year.",LABEL_1,0.8358142375946045
+7,"in addition, u.s. inflation remains muted.",LABEL_2,0.9842283129692078
+8,"and inflation expectationsâ€”those measured by surveys, market prices, and econometric modelsâ€”reside at the low end of a range i consider consistent with our price-stability mandate.",LABEL_2,0.9979634284973145
+9,"over the course of 2019, the fomc undertook a shift in the stance of monetary policy to offset some significant global growth headwinds and global disinflationary pressures.",LABEL_0,0.9974501729011536
+10,"monetary policy is in a good place and should continue to support sustained growth, a strong labor market, and inflation returning to our symmetric 2 percent objective.",LABEL_2,0.39138391613960266
+11,"as long as incoming information about the economy remains broadly consistent with this outlook, the current stance of monetary policy likely will remain appropriate.",LABEL_0,0.9979996085166931
+12,"that said, monetary policy is not on a preset course.",LABEL_0,0.7286630272865295
+13,"and as reserves reach durably ample levels, we intend to slow the pace of purchases such that our balance sheet grows in line with trend demand for our liabilities.",LABEL_0,0.9884130954742432
+14,"let me emphasize that we stand ready to adjust the details of this program as appropriate and in line with our goal, which is to keep the federal funds rate in the target range desired by the fomc, and that these operations are technical measures not intended to change the stance of monetary policy.",LABEL_0,0.9922345280647278
+15,"finally, allow me to offer a few words about the fomc's review of the monetary policy strategy, tools, and communication practices that we commenced in 2019.",LABEL_2,0.9985922574996948
+16,we are drawing on these insights as we assess how best to achieve and maintain maximum employment and price stability.,LABEL_0,0.5709406733512878

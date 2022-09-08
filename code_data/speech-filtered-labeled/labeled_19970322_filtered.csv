@@ -1,0 +1,7 @@
+Unnamed: 0,sentence,label,score
+0,"in turn, small, new businesses, often employing new technology, account for much of the growth in employment in our economy.",LABEL_1,0.6212143898010254
+1,the new firms come into existence often to replace old firms that were not willing or able to take on the risks associated with high-growth strategies.,LABEL_2,0.9697295427322388
+2,"this replacement of stagnating firms with dynamic new firms--what the economist joseph schumpeter called the ""perennial gale of creative destruction""--is at the heart of our robust, growth-oriented economy.",LABEL_2,0.5546900629997253
+3,"as i have been pointing out, the historic purpose of banks is to take risk through the extension of credit to businesses and households--credit that is so vital to the growth and stability of the economy.",LABEL_0,0.9316686391830444
+4,"in the early 1990s, we saw how, in response to fdicia, new regulations, weakened capital, and large loan losses, banks reduced their willingness to take risks, thereby contributing to a credit crunch and slower economic growth.",LABEL_0,0.9992901086807251
+5,a regulator without responsibility for macroeconomic growth and stability tends to have a bias against risk-taking.,LABEL_0,0.7301663756370544

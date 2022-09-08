@@ -1,0 +1,3 @@
+Unnamed: 0,sentence,label,score
+0,another factor that has made sovereign wealth funds stand out in recent years has been their rapid growth.,LABEL_1,0.9876461029052734
+1,"this rapid growth arises from the growth in revenues from the sale of oil and other commodities, following significant increases in commodities prices.",LABEL_1,0.9848758578300476

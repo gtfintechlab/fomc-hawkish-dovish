@@ -1,0 +1,9 @@
+Unnamed: 0,sentence,label,score
+0,"that is, at least in normal times, they were seen as comparable to demand deposits created by the traditional banking sector.",LABEL_2,0.8678773641586304
+1,"when growth in nonbank intermediation reflects a migration of traditional banking activities to less-regulated entities, a number of similar considerations are relevant to an evaluation of the costs and benefits of the migration and the potential need for a regulatory response.",LABEL_2,0.9983720779418945
+2,"in this regard, i would note that one way to limit the growth of shadow banking that simply arbitrages bank regulation is to make sure that the regulated sector itself is not unnecessarily burdened.",LABEL_0,0.9737938046455383
+3,"the resulting declines in asset prices can trigger margin calls on other investors, who themselves may need to de-lever by selling their own holdings, adding to the fire sale-induced price impact on these, and potentially other, assets.",LABEL_0,0.9981775879859924
+4,"in the worst case, the result can be the kind of generalized asset price decline and liquidity freeze observed at the height of the financial crisis.",LABEL_0,0.998235285282135
+5,"while the haircuts and other conditions associated with sfts today are considerably more conservative than during the period leading up to the crisis, there is good reason to believe that this conservatism could be eroded as economic conditions continue to improve and credit growth accelerates.",LABEL_2,0.5128763914108276
+6,"this approach would take into account such considerations as system-wide demands on liquidity during stress periods and correlated risks that could exacerbate liquidity, redemption, or fire sale pressures.",LABEL_0,0.8445852398872375
+7,conclusion the financial stability board study to which i referred earlier notes that the growth of shadow banking in the united states in recent years has been relatively modest.,LABEL_2,0.982281506061554

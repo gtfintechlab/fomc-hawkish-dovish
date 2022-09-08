@@ -1,0 +1,41 @@
+Unnamed: 0,sentence,label,score
+0,my comments today will focus on u.s. economic prospects and monetary policy.,LABEL_2,0.9951812624931335
+1,"economic activity in the united states has been growing moderately so far this year, and the labor market has continued to strengthen.",LABEL_2,0.948131799697876
+2,"while the effects of the hurricanes on the u.s. economy are quite noticeable in the short term, history suggests that the longer-term effects will be modest and that aggregate economic activity will recover quickly.",LABEL_2,0.8943617343902588
+3,i would expect employment to bounce back in subsequent months as communities recover and people return to their jobs.,LABEL_2,0.9961458444595337
+4,"the unemployment rate, which seems not to have been noticeably affected by the hurricanes, declined further to 4.2 percent, down about 1/2 percentage point from the end of 2016 and below the median of federal open market committee (fomc) participants' estimates of its longer-run normal level.",LABEL_0,0.9948890209197998
+5,"on balance, wage gains appear moderate, and the pace seems broadly consistent with a tightening labor market once we account for the disappointing productivity growth in recent years.",LABEL_2,0.9965067505836487
+6,i expect the labor market to strengthen further as economic growth continues.,LABEL_2,0.5636637210845947
+7,"the hurricanes will likely result in some hit to gdp growth in the third quarter but a rebound thereafter, and smoothing through those movements, i'm expecting growth that continues to exceed potential in the second half of the year.",LABEL_2,0.9986228942871094
+8,the latest projections from fomc participants have a median of 2-1/2 percent gdp growth this year.,LABEL_2,0.9986185431480408
+9,growth of consumer spending has been supported by the ongoing job gains and relatively high levels of household wealth and consumer sentiment.,LABEL_1,0.7779266238212585
+10,the faster gains partly reflect an upturn in investment in the energy sector as oil prices have firmed.,LABEL_1,0.7926326394081116
+11,"exports also have risen this year, as growth abroad has solidified and the exchange value of the dollar has declined somewhat.",LABEL_0,0.9944949746131897
+12,my fellow fomc participants and i perceive that risks to global growth have receded somewhat and expect growth to continue to improve over the near term.,LABEL_2,0.9986567497253418
+13,the biggest surprise in the u.s. economy this year has been inflation.,LABEL_1,0.9877899289131165
+14,"earlier this year, the 12-month change in the price index for personal consumption expenditures (pce) reached 2 percent, and core pce inflation reached 1.9 percent.",LABEL_2,0.8691504597663879
+15,"these readings seemed consistent with the view that inflation had been held down by both the sizable fall in oil prices and the appreciation of the dollar starting around mid-2014, and that these influences have diminished significantly by this year.",LABEL_0,0.9978000521659851
+16,"accordingly, inflation seemed well on its way to the fomc's 2 percent inflation objective on a sustainable basis.",LABEL_2,0.9644114375114441
+17,"inflation readings over the past several months have been surprisingly soft, however, and the 12-month change in core pce prices has fallen to 1.3 percent.",LABEL_0,0.6204755902290344
+18,"the recent softness seems to have been exaggerated by what look like one-off reductions in some categories of prices, especially a large decline in quality-adjusted prices for wireless telephone services.",LABEL_0,0.9959391951560974
+19,"more generally, it is common to see movements in inflation of a few tenths of a percentage point that are hard to explain, and such ""surprises"" should not really be surprising.",LABEL_2,0.994101881980896
+20,"my best guess is that these soft readings will not persist, and with the ongoing strengthening of labor markets, i expect inflation to move higher next year.",LABEL_1,0.9924467206001282
+21,"in the latest summary of economic projections, my colleagues and i project inflation to move higher next year and to reach 2 percent by 2019.",LABEL_1,0.9986352920532227
+22,"to be sure, our understanding of the forces that drive inflation is imperfect, and we recognize that this year's low inflation could reflect something more persistent than is reflected in our baseline projections.",LABEL_0,0.9604364633560181
+23,the fact that a number of other advanced economies are also experiencing persistently low inflation understandably adds to the sense among many analysts that something more structural may be going on.,LABEL_0,0.9977932572364807
+24,"let me mention a few possibilities of more fundamental influences.1 first, given that estimates of the natural rate of unemployment are so uncertain, it is possible that there is more slack in u.s. labor markets than is commonly recognized, which may be true for some other advanced economies as well.",LABEL_0,0.9865656495094299
+25,"if so, some further tightening in the labor market might be needed to lift inflation back to 2 percent.",LABEL_1,0.9984661340713501
+26,"second, some measures of longer-term inflation expectations have edged lower over the past few years in several major economies, and it remains an open question whether these measures might be reflecting a true decline in expectations that is broad enough to be affecting actual inflation outcomes.",LABEL_0,0.9985184669494629
+27,"third, our framework for understanding inflation dynamics could be misspecified in some way.",LABEL_2,0.9966344833374023
+28,"for example, global developments--perhaps technological in nature, such as the tremendous growth of online shopping--could be helping to hold down inflation in a persistent way in many countries.",LABEL_1,0.9901484847068787
+29,or there could be sector-specific developments--such as the subdued rise in medical prices in the united states in recent years--that are not typically included in aggregate inflation equations but which have contributed to lower inflation.,LABEL_0,0.9244399666786194
+30,such global and sectoral developments could continue to be important restraining influences on inflation.,LABEL_0,0.9959369897842407
+31,"of course, there are also risks that could unexpectedly boost inflation more rapidly than expected, such as resource utilization having a stronger influence when the economy is running closer to full capacity.",LABEL_1,0.9988343119621277
+32,"in this economic environment, with ongoing improvements in labor market conditions and softness in inflation that is expected to be temporary, the fomc has continued its policy of gradual policy normalization.",LABEL_2,0.6383569240570068
+33,"as a result, our balance sheet will decline gradually and predictably.2 by limiting the volume of securities that private investors will have to absorb as we reduce our holdings, the caps should guard against outsized moves in interest rates and other potential market strains.",LABEL_0,0.9966829419136047
+34,changing the target range for the federal funds rate is our primary means of adjusting the stance of monetary policy.,LABEL_2,0.9028741717338562
+35,our balance sheet is not intended to be an active tool for monetary policy in normal times.,LABEL_0,0.9968053102493286
+36,we continue to expect that the ongoing strength of the economy will warrant gradual increases in that rate to sustain a healthy labor market and stabilize inflation around our 2 percent longer-run objective.,LABEL_1,0.7135933041572571
+37,"i have spoken about some of the uncertainties associated with the inflation outlook in particular, and we will be paying close attention to the inflation data in the months ahead.",LABEL_2,0.9979047179222107
+38,but uncertainty about the outlook is by no means limited to inflation.,LABEL_2,0.9972872734069824
+39,"as always, the committee will adjust the stance of monetary policy in response to incoming economic information and the evolution of the economic outlook to achieve its objectives of maximum employment and stable prices.",LABEL_0,0.9971660375595093

@@ -1,0 +1,8 @@
+Unnamed: 0,sentence,label,score
+0,"today, much of that high-value output demands workers with the creativity, cognitive abilities, and skills to interact with challenging technologies.",LABEL_2,0.9800950884819031
+1,"in short, an educated workforce is a must if our economy is to continue to enjoy significant gains in productivity and living standards.",LABEL_2,0.6239274740219116
+2,an investment in education is associated with a higher probability of employment.,LABEL_1,0.9719811677932739
+3,"last year, for example, when the national unemployment rate averaged 5.1 percent, the jobless rate for black adults (25 years and older) with a bachelor's degree or higher was 3.5 percent; for white adults, the jobless rate was 2 percent.",LABEL_2,0.934026300907135
+4,"for persons with only a high school diploma, both the rates of joblessness and the disparity between the rate for blacks and that for whites were greater: an unemployment rate of 8.5 percent for blacks versus 4 percent for whites.",LABEL_2,0.8103231191635132
+5,"economists have identified a number of reasons for the racial gap in dropout rates, including lower expected returns to education because of discrimination in the job market and the lower quality of schools attended by blacks.",LABEL_0,0.998618483543396
+6,"the federal reserve's survey of consumer finances, which collects data every three years on the balance sheets of american families, provides comprehensive information on household income, assets, and liabilities.11 data from the most recent survey show that, from 2001 to 2004, real (that is, inflation-adjusted) family income was little changed for both african american and non-hispanic white households.",LABEL_2,0.9987732768058777

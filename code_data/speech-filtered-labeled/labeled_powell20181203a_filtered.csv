@@ -1,0 +1,6 @@
+Unnamed: 0,sentence,label,score
+0,"unemployment is 3.7 percent, the lowest in nearly half a century.",LABEL_0,0.9967716932296753
+1,"the steady decline in the unemployment rate is mirrored by the decline in financial hardship reported by respondents to the federal reserve's survey of household economics and decisionmaking over the past five years.1 wage gains, increased household wealth, and elevated consumer confidence are supporting robust consumer spending.",LABEL_1,0.5026412010192871
+2,"moreover, the economy faces a number of longer-term challenges.3 while there have been gains in the pace of wage growth recently, wages for lower-income workers have grown quite slowly over the past few decades.",LABEL_0,0.9957609176635742
+3,"productivity has picked up in recent months after several years of very slow growth, but it is not clear whether this is a trend that will be sustained.",LABEL_2,0.9990981817245483
+4,"an aging population is limiting growth in labor supply, which in turn limits potential growth.",LABEL_0,0.9804098010063171

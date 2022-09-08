@@ -1,0 +1,7 @@
+Unnamed: 0,sentence,label,score
+0,"in the decades since that first meeting, this conference has seen a number of boom and bust cycles in agriculture, most often the result of volatile swings in commodity prices, land price valuations, and borrowing costs for agricultural business owners.",LABEL_2,0.9986425042152405
+1,"these subjects are vital to preparing our children for the opportunities and challenges of a more competitive and technological workplace.3 one in five people in rural areas have a bachelor's degree, compared to one in three in urban areas.4 this educational disparity helps explain why the employment-to-population and labor force participation rates in rural areas are lower than in many urban areas.5 another contributing factor to low rural labor force participation is the opioid crisis, which the entire nation is struggling to overcome.",LABEL_0,0.994979202747345
+2,"and while employment is growing more slowly in rural areas than in urban areas, rural unemployment has recovered and is now 1 percentage point below pre-recession levels.6 the rate of poverty in rural areas is also falling.",LABEL_0,0.9947569370269775
+3,the prices of major agricultural commodities have also remained low in early 2019.,LABEL_2,0.679692268371582
+4,"for example, today, the price of corn is about 40 percent less than it was from 2010 to 2013.",LABEL_2,0.8405115008354187
+5,and price-to-rent ratios are at historic highs.,LABEL_1,0.8262596726417542

@@ -1,0 +1,22 @@
+Unnamed: 0,sentence,label,score
+0,"heightened investor concerns about the credit quality of mortgages, especially subprime mortgages with adjustable interest rates, triggered the financial turmoil.",LABEL_0,0.9975461959838867
+1,"banks have also reported large losses, reflecting marked declines in the market prices of mortgages and other assets that they hold.",LABEL_0,0.9986409544944763
+2,more-expensive and less-available credit seems likely to continue to be a source of restraint on economic growth.,LABEL_0,0.9978373646736145
+3,"in part as the result of the developments in financial markets, the outlook for the economy has worsened in recent months, and the downside risks to growth have increased.",LABEL_0,0.9992226362228394
+4,"the virtual shutdown of the subprime mortgage market and a widening of spreads on jumbo mortgage loans have further reduced the demand for housing, while foreclosures are adding to the already-elevated inventory of unsold homes.",LABEL_0,0.9982656836509705
+5,"payroll employment, after increasing about 95,000 per month on average in the fourth quarter, declined by an estimated 17,000 jobs in january.",LABEL_0,0.5373973846435547
+6,"employment in the construction and manufacturing sectors has continued to fall, while the pace of job gains in the services industries has slowed.",LABEL_0,0.996309757232666
+7,"the softer labor market, together with factors including higher energy prices, lower equity prices, and declining home values, seem likely to weigh on consumer spending in the near term.",LABEL_0,0.9576299786567688
+8,"on the other hand, growth in u.s. exports should continue to provide some offset to the softening in domestic demand, and the recently approved fiscal package should help to support household and business spending during the second half of this year and into the first part of next year.",LABEL_1,0.43199652433395386
+9,"on the inflation front, a key development over the past year has been the steep run-up in the price of oil.",LABEL_1,0.9989491701126099
+10,"last year, food prices also increased exceptionally rapidly by recent standards, and the foreign exchange value of the dollar weakened.",LABEL_1,0.9983083605766296
+11,"all told, over the four quarters of 2007, the price index for personal consumption expenditures (pce) increased 3.4 percent, up from 1.9 percent during 2006.",LABEL_1,0.9490275979042053
+12,"excluding the prices of food and energy, pce price inflation ran at a 2.1 percent rate in 2007, down a bit from 2006.",LABEL_2,0.997983992099762
+13,"to date, inflation expectations appear to have remained reasonably well anchored, but any tendency of inflation expectations to become unmoored or for the fed's inflation-fighting credibility to be eroded could greatly complicate the task of sustaining price stability and reduce the central bank's policy flexibility to counter shortfalls in growth in the future.",LABEL_0,0.9938545227050781
+14,"accordingly, in the months ahead we will be closely monitoring inflation expectations and the inflation situation more generally.",LABEL_2,0.9991533160209656
+15,"in the area of monetary policy, the federal open market committee (fomc) has moved aggressively, cutting its target for the federal funds rate by a total of 225 basis points since september, including 125 basis points during january alone.",LABEL_0,0.9988734126091003
+16,"as the fomc noted in its most recent post-meeting statement, the intent of these actions is to help promote moderate growth over time and to mitigate the risks to economic activity.",LABEL_1,0.962186336517334
+17,"a critical task for the federal reserve over the course of this year will be to assess whether the stance of monetary policy is properly calibrated to foster our mandated objectives of maximum employment and price stability and, in particular, whether the policy actions taken thus far are having their intended effects.",LABEL_0,0.9987302422523499
+18,monetary policy works with a lag.,LABEL_2,0.9936255812644958
+19,"therefore, our policy stance must be determined in light of the medium-term forecast for real activity and inflation, as well as the risks to that forecast.",LABEL_2,0.9993001818656921
+20,"at present, my baseline outlook involves a period of sluggish growth, followed by a somewhat stronger pace of growth starting later this year as the effects of monetary and fiscal stimulus begin to be felt.",LABEL_0,0.9545043706893921

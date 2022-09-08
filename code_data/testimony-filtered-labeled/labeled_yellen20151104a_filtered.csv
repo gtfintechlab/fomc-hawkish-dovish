@@ -1,0 +1,5 @@
+Unnamed: 0,sentence,label,score
+0,"in addition, in conjunction with this change, we eliminated quarterly and more detailed consolidated financial reporting requirements for holding companies with less than $1 billion in assets, and instead require parent-only financial statements on a semiannual basis.6 consistent with the economic growth and regulatory paperwork reduction act (egrpra), the board is also working with the other federal banking agencies to identify banking regulations that are outdated, unnecessary, or unduly burdensome.",LABEL_0,0.9780930280685425
+1,"both large and regional banking organizations experienced dramatic improvements in profitability since the financial crisis, although these banks have also faced challenges in recent years due to weak growth in interest and noninterest income.",LABEL_0,0.9988706707954407
+2,both large and regional institutions have seen robust growth in commercial and industrial lending.,LABEL_1,0.7306039333343506
+3,"loan growth is picking up, and problem loans are now at levels last seen early in the financial crisis.",LABEL_1,0.9182301759719849

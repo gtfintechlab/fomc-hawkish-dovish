@@ -1,0 +1,7 @@
+Unnamed: 0,sentence,label,score
+0,"concerns about low saving have been amplified lately, what with the previously reported consumer saving rate dropping below zero for several quarters now, the high level of personal bankruptcy filings, and the nation's enormous trade deficits, which suggest a deficiency of national saving.",LABEL_0,0.998649537563324
+1,"for many years net foreign investment was close to zero, indicating that trade deficits were also close to zero and that not much foreign saving was needed to close the investment-saving gap.",LABEL_2,0.9375699162483215
+2,this point can be amplified when we consider relative prices.,LABEL_2,0.9506221413612366
+3,"but computer prices are dropping rapidly, and computers are a much bigger component of investment in the 1990s than the 1980s.",LABEL_0,0.5421916842460632
+4,"that will require some adjustments in the u.s. economy--some combination of higher exports, higher interest rates, lower investment, and/or lower dollar values.",LABEL_1,0.7493433356285095
+5,"but the rising national saving is still being supplemented by large-scale foreign saving, implying a hefty trade deficit that probably cannot continue and will require some macroeconomic readjustments.",LABEL_1,0.9692246317863464

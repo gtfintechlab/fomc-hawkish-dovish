@@ -1,0 +1,6 @@
+Unnamed: 0,sentence,label,score
+0,"when information on alternatives is readily available, product offerings will have to meet customersâ€™ demands and offering prices will have to reflect those of market competitors.1 in addition, information helps individual consumers by improving their ability to compare products and to choose those that will help them meet their personal goals.",LABEL_2,0.9927700161933899
+1,"creditorsâ€™ solicitations disclose only a nominal apr based on the periodic interest rate, and they list any fees separately.",LABEL_2,0.9897623658180237
+2,"creditors discount their initial interest rates, sometimes deeply.",LABEL_0,0.9968128204345703
+3,the boardâ€™s proposal also would require creditors to give consumers more advance notice before increasing the interest rate or making changes to other key terms.,LABEL_1,0.9848331212997437
+4,of course there is an inherent difficulty in adjustable-rate mortgage disclosures because future interest rate changes are not known.,LABEL_2,0.9965730309486389

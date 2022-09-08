@@ -1,0 +1,6 @@
+Unnamed: 0,sentence,label,score
+0,"the real interest rate on u.s. treasury bonds, by comparison, has generally been below 3 percent.",LABEL_0,0.9980185627937317
+1,"for productivity and standards of living to grow, financial capital raised in markets or generated from internal cash flow from existing plant and equipment must be continuously directed by firms to its most profitable uses--namely new physical capital facilities perceived as the most efficient in serving consumers' multiple preferences.",LABEL_1,0.486779123544693
+2,"indeed, improved productivity of capital probably explains much of why the american economy has done so well despite our comparatively low national saving rate.",LABEL_2,0.6902254223823547
+3,"for example, as recently as february 1997, omb projected a deficit for fiscal year 1998 of $121 billion--a $191 billion error.",LABEL_2,0.9788298010826111
+4,"it is possible, as some maintain, that the oasi actuaries are too conservative, and that productivity growth could be far greater than is anticipated in their ""intermediate"" estimate.",LABEL_2,0.5813003182411194

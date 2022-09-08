@@ -1,0 +1,12 @@
+Unnamed: 0,sentence,label,score
+0,"with a firming of monetary policy by the federal reserve widely expected, they built large short positions in long-term debt instruments in anticipation of the increase in bond yields that has been historically associated with a rising federal funds rate.",LABEL_1,0.995873749256134
+1,"even in emerging economies, whose history has been too often marked by inflationary imbalances and unstable exchange rates, access to longer-term finance has improved.",LABEL_0,0.5830817818641663
+2,* * * a number of hypotheses have been offered as explanations of this remarkable worldwide environment of low long-term interest rates.,LABEL_0,0.9986649751663208
+3,this demand for increasingly longer-term obligations is evident in the favorable reception given the fifty-year-maturity bonds recently issued by france and the united kingdom.,LABEL_0,0.5463282465934753
+4,"a final hypothesis takes as its starting point the breakup of the soviet union and the integration of china and india into the global trading market, developments that have permitted more of the world's lower-cost productive capacity to be tapped to satisfy global demands for goods and services.",LABEL_2,0.8427124619483948
+5,"the enlargement of global markets for goods, services, and finance has contributed importantly to the favorable inflation performance that we are witnessing in so many countries.",LABEL_2,0.9901610016822815
+6,"that improved performance has doubtless contributed to lower inflation-related risk premiums, and the lowering of these premiums is reflected in significant declines in nominal and real long-term rates.",LABEL_0,0.9991703629493713
+7,"although this explanation contributes to an understanding of the past decade, i do not believe it explains the decline of long-term interest rates over the past year despite rising short-term rates.",LABEL_2,0.6277806758880615
+8,"to meet this demand, hedge fund managers are devising increasingly more complex trading strategies to exploit perceived arbitrage opportunities, which are judged--in many cases erroneously--to offer excess rates of return.",LABEL_2,0.49914970993995667
+9,this effort is particularly evident in the pronounced growth and increasing complexity of collateralized debt obligations.,LABEL_1,0.9902302622795105
+10,"although collateralized debt obligations are a powerful tool for enhancing risk management by separating idiosyncratic risks from systematic risks, the models used to price and hedge these instruments are just beginning to be tested.",LABEL_2,0.9914678931236267

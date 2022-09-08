@@ -1,0 +1,10 @@
+Unnamed: 0,sentence,label,score
+0,"the rising birth rate after world war ii, which, in due course, contained the growth of the ratio of retirees to workers, helped make the social security program exceptionally popular, even among those paying the taxes to support it.",LABEL_1,0.9693267941474915
+1,"the real interest rate on u.s. treasury securities, by comparison, has generally been below 3 percent.",LABEL_0,0.9982773661613464
+2,we must endeavor to increase the real resources available to retirees without blunting the growth in living standards among our working population.,LABEL_1,0.5405571460723877
+3,"it seems likely that a rise in the interest rate paid on treasuries, and perhaps an increase in equity prices and a reduction in the expected future return on equity, would be necessary in order to induce private investors to reallocate their portfolios from equities to u.s. treasury securities.",LABEL_1,0.9983999729156494
+4,"that said, exactly what changes in bond and stock prices would result from this type of large-scale swap of u.s. treasuries for equities is extremely difficult to predict.",LABEL_2,0.9758421182632446
+5,"indeed, improved productivity of capital probably explains much of why the american economy has done so well in recent years despite our comparatively low national saving rate.",LABEL_2,0.5433676838874817
+6,"for productivity and standards of living to grow, financial capital raised in markets or generated from internal cash flow from existing plant and equipment must be continuously directed by firms to its most profitable uses--namely new physical capital facilities perceived as the most efficient in serving consumers' multiple preferences.",LABEL_1,0.48677781224250793
+7,"for example, as recently as february 1997, omb projected a deficit for fiscal year 1998 of $121 billion--a $191 billion error.",LABEL_2,0.9788298010826111
+8,"it is possible, as some maintain, that the oasi actuaries are too conservative, and that productivity growth could be far greater than is anticipated in their ""intermediate"" estimate.",LABEL_2,0.581300675868988

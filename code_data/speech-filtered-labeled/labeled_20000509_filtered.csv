@@ -1,0 +1,59 @@
+Unnamed: 0,sentence,label,score
+0,"in this environment, the unemployment rate has fallen to 4 percent, and the underlying rate of price inflation has slowed, on net, despite very high rates of resource utilization.",LABEL_2,0.8558360934257507
+1,"productivity growth and cost reductions so, what happened?",LABEL_2,0.9941611886024475
+2,"as a policymaker, i'd like to think that well-executed monetary and fiscal policies played some role in creating an economic environment that was conducive to non-inflationary economic growth.",LABEL_0,0.9959925413131714
+3,but the dominant force of late appears to have been a significant upshift in the rate of productivity growth.,LABEL_2,0.6757073998451233
+4,"after increasing 1.6 percent per year from 1990 to 1995, output per hour in the nonfarm business sector--a conventional measure of productivity--has increased at an annual pace of about 2.6 percent since 1995.",LABEL_1,0.8123641610145569
+5,cyclical forces--such as the inability of businesses to add to their payrolls as rapidly as they would have liked in response to the rise in demand--have probably played some role in these efficiency gains.,LABEL_1,0.8020576238632202
+6,why are the growth rate of productivity and the sources of that growth so important to policymakers?,LABEL_2,0.9854483604431152
+7,"very simply, economic theory indicates that, over the long run, faster growth of labor productivity allows faster growth of real wages--that is, wages adjusted for inflation.",LABEL_1,0.9915884733200073
+8,"without faster growth in productivity, businesses faced with a nominal wage bill that is increasing faster than productivity would be tempted to pass those increased labor costs to consumers in the form of higher prices for goods and services in order to protect profit margins.",LABEL_1,0.9990289211273193
+9,"adding the growth rate of labor productivity, or output per hour, to the growth rate of the number of labor hours gives an approximation of the rate of increase in the economy's ability to create goods and services.",LABEL_2,0.8750491142272949
+10,"since labor hours tend to be determined in the long run by increases in the working-age population, growth in productivity is the focal point.",LABEL_2,0.9774652123451233
+11,why then are the sources of productivity growth important?,LABEL_2,0.9929253458976746
+12,"if that growth in productivity is due to a change that outlasts the business cycle, then economists and policymakers can have confidence that the productive potential of the economy has changed.",LABEL_2,0.9970282316207886
+13,"economists speak of that as ""trend"" productivity and the resulting growth rate as the ""trend"" growth rate.",LABEL_2,0.9980095028877258
+14,the structural changes that i mentioned above have had effects beyond increasing the rate of productivity growth.,LABEL_2,0.545224130153656
+15,"in many industries, investments in information technologies have helped firms to cut back on the volume of inventories that they hold as a precaution against glitches in their supply chain or as a hedge against unexpected increases in aggregate demand.",LABEL_2,0.7995899319648743
+16,this intense focus on cost reduction has been an important element in helping to head off the development of inflationary pressures in this expansion.,LABEL_1,0.9917189478874207
+17,technology change and productivity growth bob solow--the mit economist who won the nobel prize in economics for his work on the theory of economic growth--once quipped that you can see computers everywhere except in the productivity statistics!,LABEL_2,0.9958214163780212
+18,"that situation has recently begun to change, and we now have strong evidence that the productivity growth that our economy has experienced is in fact due in part to newer technologies.",LABEL_2,0.8458146452903748
+19,research by two economists on the board staff--steve oliner and dan sichel--sheds some light on the sources of this faster productivity growth.,LABEL_2,0.9225093722343445
+20,"about one-half of the 1 percentage point increase in productivity growth over the 1995-1999 period can be attributed to so-called ""capital deepening.""",LABEL_2,0.9740481376647949
+21,"likewise, at the aggregate level, the high (and rising) levels of business investment raised the amount of capital per worker and thereby boosted productivity.",LABEL_1,0.9555954933166504
+22,another 1/2 percentage point of the pickup in productivity growth reflected technological innovations in the actual production of computer hardware and semiconductors as well as better management--perhaps assisted by these high-tech investments--of the nation's capital and labor resources.,LABEL_2,0.9847685098648071
+23,"oliner and sichel estimate that, if one consolidates all the influences of high-tech investments, they account for about two-thirds of the acceleration in productivity since 1995.",LABEL_2,0.9966073036193848
+24,"but technological waves ebb and flow, and it is natural to ask whether we can count on such rapid productivity growth in the future.",LABEL_2,0.996531069278717
+25,"but, as an economist, i need to see hard evidence of actual ongoing productivity gains or cost reductions in the economic statistics to truly believe that the world is continuing to change in a fundamental way.",LABEL_2,0.9122056365013123
+26,"but no one really knows how big those productivity gains will be, how long they will take to be realized, and who will be the ultimate beneficiaries.",LABEL_2,0.9836734533309937
+27,the macroeconomic implications of faster productivity growth a step-up in the growth rate of technological change certainly would have important implications for economic activity and inflation.,LABEL_1,0.9952144622802734
+28,"as i indicated above, the main reason policymakers and economists are interested in the growth rate of productivity is that understanding that rate gives a clear understanding of the economy's potential to supply goods and services.",LABEL_2,0.9982083439826965
+29,where would we look for corroborating evidence of this improved growth rate in technological change?,LABEL_2,0.8748201131820679
+30,"while supply-side effects are clear, a new higher level of productivity growth would also affect the demand side of the economy.",LABEL_1,0.9870193600654602
+31,the employment and income generated by business spending on capital goods boosts consumer spending and sets off another round of investment spending.,LABEL_2,0.5306804180145264
+32,this is the process through which an innovation on the supply side of the economy generates a comparable increase in aggregate demand.,LABEL_1,0.5149864554405212
+33,theory also teaches that the increase in the rate of return on capital--even if generated by a rise in the growth rate of technical change--ultimately requires an increase in real market interest rates.,LABEL_1,0.9986882209777832
+34,"market interest rates must rise in order to maintain equilibrium between the demand for investment funds, which increases, and the supply of investment funds.",LABEL_1,0.9751399159431458
+35,"and, indeed, we have seen that market interest rates, particularly for corporate issuers, have risen steadily for the last year or so.",LABEL_1,0.9985246658325195
+36,"this somewhat abstract description of the effects of a step-up in the growth rate of technical change bears a striking resemblance to the developments in labor markets, prices of goods and services, capital investments, and fixed-income markets of recent years.",LABEL_2,0.9893856644630432
+37,a higher rate of technical change that raises the productivity and hence the profitability of capital should elevate the valuation of equities.,LABEL_1,0.9897820353507996
+38,"however, equity markets obviously do have spillover effects on the real economy and, thus, need to be considered in assessing the aggregate balance of supply and demand.",LABEL_2,0.9985182285308838
+39,"to put a rough number on these influences, simulations by the board staff using our econometric model of the economy suggest that wealth generated in the equity markets over the last four years added about 1 percentage point to the growth rate of real gdp.",LABEL_2,0.99415522813797
+40,"some particularly enthusiastic observers of the ""new"" economy argue that inflationary pressures are no longer a risk.",LABEL_2,0.9915190935134888
+41,"i firmly believe that we should recognize that, even in a high-productivity economy, stresses and imbalances might emerge.",LABEL_2,0.6053701043128967
+42,"in the present context, the most obvious indication of an imbalance is the current account deficit, which is both large and growing.",LABEL_1,0.943157434463501
+43,the other indicator of an imbalance between demand and supply growth is the gradual decline in the unemployment rate over the last few years.,LABEL_0,0.9963346123695374
+44,"it may be that this imbalance has served only to bring the unemployment rate to a new and lower sustainable rate, but it is also true that the wedge between demand and supply growth cannot continue indefinitely because, once pressures on limited resources rise sufficiently, inflation will start to pick up.",LABEL_1,0.998832106590271
+45,"monetary policy and the ""new"" economy as i have said many times before, uncertainty about productivity trends is a major challenge in the design and implementation of monetary policy.",LABEL_2,0.6517630815505981
+46,"the considerable uncertainty regarding statistical constructs such as the ""natural"" rate of unemployment or the ""sustainable"" rate of growth of the economy suggest, in my judgment, the need to downplay forecasts of inflation based solely on those variables.",LABEL_2,0.9989418983459473
+47,"for example, there are several estimates of the growth in real gdp in any particular quarter.",LABEL_2,0.9989235401153564
+48,"even in a period of some uncertainty, monetary policy authorities have an important responsibility to remain vigilant with regard to inflationary pressures.",LABEL_1,0.7451562285423279
+49,"since in the long run there is no tradeoff between unemployment and inflation, we know that keeping inflation low and stable and maintaining an obvious stance of vigilance vis a vis inflation, so that inflation expectations are also relatively low, is the main value that a central bank can add to this equation.",LABEL_0,0.9758561253547668
+50,"besides the issue of how monetary policy should respond to a productivity shock, questions have recently resurfaced about the effectiveness of any actions that the federal reserve might take.",LABEL_0,0.9790533185005188
+51,"some analysts note that economic growth has not slowed even though the fomc has raised the federal funds rate five times over the past year, and they draw the conclusion that the central bank has lost its effectiveness.",LABEL_1,0.9839311838150024
+52,there have always been lags between the initiation of a monetary policy action and its effect on the economy.,LABEL_2,0.5577656626701355
+53,"second, what makes the internet unique in its potential to improve productivity, and is the potential greater than that of other recent technological developments?",LABEL_2,0.9679093956947327
+54,"third, how have you used information technology or the internet to improve productivity or reduce costs in your own businesses?",LABEL_2,0.9793794751167297
+55,are new technologies emerging from r&d that have the realistic potential to increase productivity growth in the economy even further?,LABEL_1,0.8602072596549988
+56,"given recent volatility in equity prices and the ipo market, are venture capital funds less forthcoming?",LABEL_2,0.9477280974388123
+57,"concluding remarks in conclusion, let me remind you that, while these are challenging times for monetary policymakers and financial market participants, the u.s. economy is enjoying a period of unprecedented prosperity.",LABEL_0,0.9988062381744385

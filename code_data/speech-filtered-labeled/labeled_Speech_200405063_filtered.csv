@@ -1,0 +1,8 @@
+Unnamed: 0,sentence,label,score
+0,"this outcome is remarkable because of the significant negative factors at work through much or all of the year--a soft equity market, weak demand for commercial loans, and elevated asset quality problems.",LABEL_0,0.9988503456115723
+1,"market forces gradually changed this arrangement, spurred in particular by high interest rates in the late 1970s and early 1980s.",LABEL_1,0.9591782689094543
+2,growth in the commercial paper market eroded the industry's signature product--the short-term commercial loan.,LABEL_0,0.9735201001167297
+3,"bank supervisors are well aware of the importance of reputation, and expect bank staff to manage the bank's risk of reputation just as they manage other risk exposures such as credit risk and interest rate risk.",LABEL_2,0.9106388688087463
+4,"community banks continue to thrive by providing retail banking customers with convenient locations, high-quality service, and the attractive prices that customers desire.",LABEL_1,0.8952090740203857
+5,"among those households that changed banks for reasons other than household relocation, the most frequently cited factors are better customer service and more attractive prices.",LABEL_1,0.9826436042785645
+6,"many of you may have participated in meetings across the country between regulators and the community under the aegis of the economic growth recovery and paperwork reduction act, or egrpra.",LABEL_2,0.7841114401817322

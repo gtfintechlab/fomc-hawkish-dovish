@@ -1,0 +1,28 @@
+Unnamed: 0,sentence,label,score
+0,the most recent information on the labor market--the number of new and continuing claims for unemployment insurance through late april--suggests that we are likely to see further sizable job losses and increased unemployment in coming months.,LABEL_0,0.989504873752594
+1,"however, the recent data also suggest that the pace of contraction may be slowing, and they include some tentative signs that final demand, especially demand by households, may be stabilizing.",LABEL_2,0.9756088852882385
+2,"although some of the boost to sales in the market for existing homes is likely coming from foreclosure-related transactions, the increased affordability of homes appears to be contributing more broadly to the steadying in the demand for housing.",LABEL_1,0.8443841338157654
+3,"in particular, the average interest rate on conforming 30-year fixed-rate mortgages has dropped almost 1-3/4 percentage points since august, to about 4.8 percent.",LABEL_0,0.998127818107605
+4,"our recent survey of bank loan officers reported further weakening of demand for commercial and industrial loans.1 the survey also showed that the net fraction of banks that tightened their business lending policies stayed elevated, although it has come down in the past two surveys.",LABEL_0,0.9980596303939819
+5,"vacancy rates for existing office, industrial, and retail properties have been rising, prices of these properties have been falling, and, consequently, the number of new projects in the pipeline has been shrinking.",LABEL_2,0.6936836838722229
+6,the outlook for economic activity abroad is also an important consideration.,LABEL_2,0.9987229108810425
+7,"a few indicators suggest, again quite tentatively, that the decline in foreign economic activity may also be moderating.",LABEL_0,0.8349519968032837
+8,"as economic activity weakened during the second half of 2008 and prices of energy and other commodities began to fall rapidly, inflationary pressures diminished appreciably.",LABEL_0,0.994771420955658
+9,weakness in demand and reduced cost pressures have continued to keep inflation low so far this year.,LABEL_0,0.9796714186668396
+10,"although energy prices have recently risen some, the personal consumption expenditure (pce) price index for energy goods and services in march remained more than 20 percent below its level a year earlier.",LABEL_2,0.9943915605545044
+11,"food price inflation has also continued to slow, as the moderation in crop and livestock prices has been passing through to the retail level.",LABEL_2,0.9881144165992737
+12,"core pce inflation (prices excluding food and energy) dropped below an annual rate of 1 percent in the final quarter of 2008, when retailers and auto dealers marked down their prices significantly.",LABEL_0,0.9931395649909973
+13,"in the first quarter of this year, core consumer price inflation moved back up, but to a still-low annual rate of 1.5 percent.",LABEL_1,0.9959579706192017
+14,"the economic outlookwe continue to expect economic activity to bottom out, then to turn up later this year.",LABEL_2,0.9979882836341858
+15,final demand should also be supported by fiscal and monetary stimulus.,LABEL_0,0.9988346695899963
+16,an important caveat is that our forecast assumes continuing gradual repair of the financial system; a relapse in financial conditions would be a significant drag on economic activity and could cause the incipient recovery to stall.,LABEL_0,0.9981150031089783
+17,"even after a recovery gets under way, the rate of growth of real economic activity is likely to remain below its longer-run potential for a while, implying that the current slack in resource utilization will increase further.",LABEL_0,0.9987850785255432
+18,"in particular, businesses are likely to be cautious about hiring, implying that the unemployment rate could remain high for a time, even after economic growth resumes.",LABEL_0,0.9978755712509155
+19,"in this environment, we anticipate that inflation will remain low.",LABEL_0,0.8891637325286865
+20,"indeed, given the sizable margin of slack in resource utilization and diminished cost pressures from oil and other commodities, inflation is likely to move down some over the next year relative to its pace in 2008.",LABEL_0,0.9983376264572144
+21,"however, inflation expectations, as measured by various household and business surveys, appear to have remained relatively stable, which should limit further declines in inflation.",LABEL_2,0.9982125163078308
+22,"conditions in financial marketsas i noted, a sustained recovery in economic activity depends critically on restoring stability to the financial system.",LABEL_2,0.8949636220932007
+23,"however, financial markets and financial institutions remain under considerable stress, and cumulative declines in asset prices, tight credit conditions, and high levels of risk aversion continue to weigh on the economy.",LABEL_0,0.9993425011634827
+24,"in particular, concerns about credit risk in those markets appear to have receded somewhat, there is more lending at longer maturities, and interest rates have declined.",LABEL_0,0.9974616169929504
+25,the decline in mortgage rates has spurred a pickup in refinancing as well as providing some support for housing demand.,LABEL_0,0.9991669654846191
+26,"the combination of a broad rally in equity prices and a sizable reduction in risk spreads in corporate debt markets reflects a somewhat more optimistic view of the corporate sector on the part of investors, and perhaps some decrease in risk aversion.",LABEL_2,0.9736769199371338

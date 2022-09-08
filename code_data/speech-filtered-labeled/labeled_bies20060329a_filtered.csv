@@ -1,0 +1,4 @@
+Unnamed: 0,sentence,label,score
+0,"hard numbers, linked to specific risks, also allow business lines to more accurately price their products.",LABEL_2,0.9850459694862366
+1,"for example, market-risk models can be violated when the price of financial products moves in a way that is outside of the historical norm.",LABEL_2,0.9641078114509583
+2,"credit-risk models need to consider downturn estimates for loss given default, which can depend on the severity of the economic downturn and the price of collateral.",LABEL_0,0.9247618317604065

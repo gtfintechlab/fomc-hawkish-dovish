@@ -1,0 +1,12 @@
+Unnamed: 0,sentence,label,score
+0,"we strongly suspect, though we do not know for sure, that the accelerating expansion of global finance may be indispensable to the continued rapid growth of world trade in goods and services.",LABEL_1,0.8953635096549988
+1,"to be sure, the recent weakened pace of world economic activity has raised concerns that the full cycle of the past decade has yet to be definitively concluded.",LABEL_2,0.9927323460578918
+2,this market's flexibility has been particularly enhanced by extensive use of interest rate swaps and options to hedge maturity mismatches and prepayment risk.,LABEL_0,0.9739375114440918
+3,"in the event, of course, prices of telecommunication stocks collapsed, and many firms went bankrupt.",LABEL_0,0.9943048357963562
+4,"credit default swaps, for example, are priced to reflect the probability of the net loss from the default of an ever-broadening array of borrowers, both financial and nonfinancial.",LABEL_0,0.9933655261993408
+5,"as the market for credit default swaps expands and deepens, the collective knowledge held by market participants is exactly reflected in the prices of these derivative instruments.",LABEL_1,0.9083026051521301
+6,"to be sure, loan officers have always looked to the market prices of the stocks and bonds of a potential borrower for guidance, but none directly answered the key question for any prospective loan: what is the probable net loss in a given time frame?",LABEL_2,0.9578982591629028
+7,"credit default swaps, of course, do just that and presumably in the process embody all relevant market prices of the financial instruments issued by potential borrowers.",LABEL_2,0.9889825582504272
+8,price trends of default swaps have been particularly sensitive to concerns about corporate governance in recent months.,LABEL_0,0.9340185523033142
+9,"we are scarcely likely to reform the underlying human traits that lead to excess, but we do need to buttress our risk-management capabilities as best we can to delimit such detours from the path of balanced growth.",LABEL_2,0.9629809856414795
+10,"* * * the extent of government intervention in markets to control risk-taking beyond the commonly practiced control of systemic risk is, at the end of the day, a trade off between economic growth with its associated potential instability and a more civil and less stressful way of life with a lower standard of living.",LABEL_0,0.9966883063316345

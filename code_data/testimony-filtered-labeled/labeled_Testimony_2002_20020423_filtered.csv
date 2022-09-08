@@ -1,0 +1,8 @@
+Unnamed: 0,sentence,label,score
+0,"the last increase, in 1980, was a more than doubling of the cap level and was clearly designed to let depository institutions, particularly thrifts, offer an insured deposit free of the then prevailing interest rate ceilings on such instruments, which applied only to deposits below $100,000.",LABEL_1,0.9867432117462158
+1,"insured deposits of exactly $100,000 thus became fully insured instruments in 1980, but were not subject to an interest rate ceiling.",LABEL_0,0.5421835780143738
+2,"in this way, the 1980 increase in the deposit insurance cap to $100,000 exacerbated the fundamental thrift problem associated with concentration on long-term assets in a high and rising interest rate environment.",LABEL_1,0.9965672492980957
+3,"in short, insured banks and thrifts receive a subsidy in the form of a government guarantee that allows them both to attract deposits at lower interest rates than would be necessary without deposit insurance, and to take more risk without the fear of losing their deposit funding.",LABEL_0,0.9986289143562317
+4,"the federal government should not sell an identical service, like deposit insurance, at different prices.",LABEL_2,0.6774852275848389
+5,"and, if premiums were fully priced by the government or the private sector, the issuing entities would likely lower their offering rates, reducing the amount of insured deposits demanded, and consequently the amount outstanding would decline.",LABEL_0,0.9988102912902832
+6,"indeed, the data indicate that the weakness in stock prices in recent quarters has been marked by increased flows into bank and thrift deposits.",LABEL_0,0.9970065355300903

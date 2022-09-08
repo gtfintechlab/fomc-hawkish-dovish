@@ -1,0 +1,5 @@
+Unnamed: 0,sentence,label,score
+0,"however, the internalization of these principal-agent problems would come at a price: a price that could include less vibrant money and capital markets, an unwarranted expansion of the federal safety net, potentially dangerous conflicts of interest, and excessive concentration of power.",LABEL_1,0.5736347436904907
+1,"that's what the computer facilitated: quantification of risk, the necessary prerequisite to price it accurately and manage it effectively.",LABEL_2,0.995385468006134
+2,quantification did not change the fact that banks continue to deal with two very old-fashioned risks: credit risk--will the counterparty perform as promised?--and market risk--will changes in interest rates or other market factors reduce the value of my portfolio?,LABEL_0,0.9935277104377747
+3,examples include interest rate swaps designed to make counterparties more comfortable with their interest rate exposures and credit derivatives designed to reduce correlations of risk in a loan portfolio.,LABEL_0,0.9943761825561523

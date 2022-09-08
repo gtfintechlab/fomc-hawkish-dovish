@@ -1,0 +1,16 @@
+Unnamed: 0,sentence,label,score
+0,"issues related to the housing market and housing finance are important factors in the federal reserveâ€™s various roles in formulating monetary policy, regulating banks, and protecting consumers of financial services.",LABEL_0,0.9877220392227173
+1,"in particular, the failure of the housing market to respond to lower interest rates as vigorously as it has in the past indicates that factors other than financial conditions may be restraining improvement in mortgage credit and housing market conditions and thus impeding the economic recovery.",LABEL_0,0.9993793964385986
+2,"six years after aggregate house prices first began to decline, and more than two years after the start of the economic recovery, the housing market remains a significant drag on the u.s. economy.",LABEL_0,0.9980091452598572
+3,"once the cycle bottoms out, improving economic prospects and diminishing uncertainty usually help unleash this pent-up demand.",LABEL_2,0.9919055700302124
+4,"this upward demand pressure is often augmented by lower interest rates, to which housing demand is typically quite responsive.",LABEL_0,0.9986851215362549
+5,"the extraordinary fall in national house prices has resulted in $7 trillion in lost home equity, more than half the amount that prevailed in early 2006.",LABEL_0,0.9976446628570557
+6,"another result of the fall in house prices is that around 12 million households are now underwater on their mortgages--that is, they owe more on their mortgages than their homes are worth.",LABEL_0,0.9990568161010742
+7,"without equity in their homes, many households who have experienced hardships, such as unemployment or unexpected illness, have been unable to resolve mortgage payment problems through refinancing their mortgages or selling their homes.",LABEL_0,0.9982883930206299
+8,"neighborhoods and communities have also suffered profoundly from the onslaught of foreclosures, as the neglect and deterioration that may accompany vacant properties makes neighborhoods less desirable places to live and may put further downward pressure on house prices.",LABEL_0,0.9988243579864502
+9,an ongoing imbalance between supply and demand exacerbates these problems in the housing market.,LABEL_0,0.9672819375991821
+10,"for the past few years, the actual and potential supply of single-family homes for purchase has greatly exceeded the effective demand, in part because of the large number of homes that have come back onto the market after moving through the foreclosure process.",LABEL_1,0.949398398399353
+11,"the elevated pace of foreclosures, unfortunately, is likely to be sustained for quite a while and therefore will continue to put downward pressure on home prices.",LABEL_0,0.9986324310302734
+12,"at the same time, a host of factors have been weighing on housing demand.",LABEL_0,0.9669881463050842
+13,"many households have been reluctant or unable to purchase homes because of concerns about their income, employment prospects, and the future path of home prices.",LABEL_2,0.6671152114868164
+14,"for its part, the federal reserve will continue to use its policy tools to support the economic recovery and carry out its dual mandate to foster maximum employment in the context of price stability.",LABEL_0,0.9973562359809875

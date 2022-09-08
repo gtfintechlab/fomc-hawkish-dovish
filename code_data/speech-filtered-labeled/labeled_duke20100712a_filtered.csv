@@ -1,0 +1,8 @@
+Unnamed: 0,sentence,label,score
+0,that experience gives me a deep appreciation for the importance of credit to economic growth and the particular importance of small business lending to job creation in local communities.,LABEL_0,0.8221824765205383
+1,equally numerous are the challenges facing small businesses and limiting their demand for credit.,LABEL_0,0.9972826242446899
+2,public and nonprofit sector solutions part of the ongoing debate about whether we have a supply or demand problem with small business lending is based on the fact that bankers and small business owners have different ideas about what a creditworthy small business looks like.,LABEL_2,0.9868841767311096
+3,"the demand for technical assistance is most acute among start-up businesses, but it continues to be important for businesses that are trying to grow.",LABEL_2,0.7403660416603088
+4,"cdfis and some community banks and credit unions are uniquely situated to provide small-dollar loans and other products tailored to small business customers, but funding, capacity, and certain regulatory constraints have hindered their ability to fully meet the demand for these loans.",LABEL_0,0.9970516562461853
+5,"several ideas to help cdfis, community banks, and credit unions meet the increased demand for small business loans were discussed today, and we are committed to following up on them.",LABEL_0,0.8985775113105774
+6,"the more we do now, the better prepared our small businesses and lending institutions will be when economic growth and consumer demand pick up.",LABEL_2,0.5570790767669678

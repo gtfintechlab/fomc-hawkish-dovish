@@ -1,0 +1,3 @@
+Unnamed: 0,sentence,label,score
+0,"consumer reports are used for credit, insurance, employment, and certain other limited purposes.",LABEL_2,0.9409447312355042
+1,"for example, a consumer demonstrated to have an extremely low risk of default or delinquency, based on a consumer report, would likely be offered a very favorable interest rate; a consumer with a marginal credit history, on the other hand, may also be offered credit, but at a higher rate.",LABEL_1,0.9917940497398376

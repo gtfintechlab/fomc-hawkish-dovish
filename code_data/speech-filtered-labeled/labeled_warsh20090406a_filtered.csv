@@ -1,0 +1,13 @@
+Unnamed: 0,sentence,label,score
+0,"in the case of the united states, these periods were endured, and growth resumed apace, matched by new opportunities.",LABEL_2,0.9632973074913025
+1,"increased withdrawals of interbank deposits exceeded the money center banks' ability to meet demand, and payments were suspended to other banks.",LABEL_0,0.9791609644889832
+2,and the deterioration in employment conditions in the current episode already ranks comparably to the recession of 1981-82.,LABEL_0,0.9943466186523438
+3,"the unemployment rate is 8.5 percent and likely, in my view, to increase steadily through the balance of the year.",LABEL_1,0.9972533583641052
+4,"though the pace of decline is likely to abate, i am decidedly uncomfortable forecasting a sharp and determined resumption of growth in the coming quarters.",LABEL_2,0.6078208684921265
+5,"policymakers should be wary of policies that make the economy still less capable of the growth, productivity, and employment trends that have marked the postwar period.",LABEL_0,0.9984313249588013
+6,"in the united states, average stock prices have fallen by 40 percent in 2008 and another 6 percent this year.",LABEL_0,0.9809319972991943
+7,house price declines accounted for much of the decline in net worth for the median household.,LABEL_0,0.995841383934021
+8,"but, more than in previous periods, household wealth was harmed by declining share prices through direct equity exposure and retirement plan holdings.",LABEL_0,0.998909592628479
+9,"in a typical recession, the mix of balance sheet contraction by households and businesses and of trends on employment and production would pose meaningful challenges for policymakers.",LABEL_0,0.997616708278656
+10,"the trading of legacy loans and securities continues to reveal systematic underpricing at issuance of once seemingly benign risks--credit, liquidity, counterparty, and even sovereign risks--which are demanding continued reassessment and recalibration.",LABEL_0,0.9928995370864868
+11,"until these assessments are more cleanly refined and more broadly understood, we are likely to observe elevated levels of volatility and unwillingness by many investors to participate in certain asset markets at virtually any price.",LABEL_1,0.940281867980957

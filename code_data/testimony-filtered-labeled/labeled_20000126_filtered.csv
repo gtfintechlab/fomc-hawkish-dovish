@@ -1,0 +1,10 @@
+Unnamed: 0,sentence,label,score
+0,"for the economy overall, the marked pickup in technological innovation has accelerated productivity and raised standards of living for many--though regrettably, not all--americans.",LABEL_1,0.9564295411109924
+1,"our challenge in monetary policy is to foster, as best we can, the financial conditions that will allow this economic expansion and technological revolution to continue as long, and as vigorously, as possible.",LABEL_0,0.9977259039878845
+2,"experience has demonstrated that an essential ingredient in this prosperity, and an ingredient for which the central bank has ultimate responsibility over the long run, is low and stable inflation.",LABEL_0,0.9906538128852844
+3,effective price stability removes a major source of uncertainty and distortion that would otherwise interfere with the spending and saving decisions of households and businesses.,LABEL_2,0.995332658290863
+4,maintaining price stability also reduces the likelihood that imbalances could develop that would ultimately undermine economic expansion.,LABEL_0,0.998903214931488
+5,"as you know, we have made considerable efforts in recent years to improve the communication of our decisions, our expectations, and their rationales to the public consistent with our mandate to deliver effective monetary policy.",LABEL_0,0.9235827922821045
+6,"this information enhances our ability not only to conduct monetary policy, but also to supervise financial institutions and deal with emerging problems in the financial sector, and to play a constructive role in regional economic developments.",LABEL_0,0.9456508755683899
+7,but monetary policy is not the only area in which this unique blend of skills and perspectives is brought to bear.,LABEL_2,0.9774280190467834
+8,"certainly, we have enjoyed good fortune--dealing with the challenges of a pickup in innovation and productivity is decidedly more enjoyable than the task faced by our predecessors in the 1970s when productivity slowed and stagflation held sway.",LABEL_2,0.9981386661529541

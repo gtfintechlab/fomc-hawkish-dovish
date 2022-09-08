@@ -1,0 +1,4 @@
+Unnamed: 0,sentence,label,score
+0,"cash settlement typically is based on a rate or price in a highly liquid market with a very large or virtually unlimited deliverable supply, for example, libor or the spot dollar-yen exchange rate.",LABEL_2,0.7959481477737427
+1,"thus, attempts to corner a market, even if successful, could not induce sellers in privately negotiated transactions to pay significantly higher prices to offset their contracts or to purchase the underlying assets.",LABEL_1,0.9797869920730591
+2,"most important, prices established in privately negotiated transactions are not used directly or indiscriminately as the basis for pricing other transactions, so any price distortions would not affect other buyers or sellers of the underlying asset.",LABEL_2,0.9976126551628113
