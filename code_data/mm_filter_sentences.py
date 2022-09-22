@@ -33,6 +33,7 @@ def save_csv(token_list, name):
 def dictionary_filter(token_list):
     temp = []
     for sentence in token_list:
+        sentence = sentence.lower()
         if any(word1 in sentence for word1 in A1) or any(word2 in sentence for word2 in B1):
             temp.append(sentence)
     return temp

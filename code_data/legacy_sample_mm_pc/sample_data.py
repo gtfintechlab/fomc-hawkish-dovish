@@ -14,13 +14,13 @@ for f_name in os.listdir(directory):
 
 df = pd.DataFrame(samples, columns=["sentence"])  # convert samples list to df and then to csv
 
-df.to_excel('../training_data/manual_new.xlsx')
+df.to_excel('../../training_data/manual_new.xlsx')
 
 
 df = df.drop_duplicates("sentence")
 print(df.shape)
 #### Verify generated sample 
-df_annotated = pd.read_excel("../training_data/manual_v2.xlsx")
+df_annotated = pd.read_excel("../../training_data/manual_v2.xlsx")
 df_annotated = df_annotated.drop_duplicates("sentence")
 print(df_annotated.shape)
 

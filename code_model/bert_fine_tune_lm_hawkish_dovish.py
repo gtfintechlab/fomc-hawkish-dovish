@@ -201,26 +201,29 @@ def train_lm_price_change_experiments(gpu_numbers: str, train_test_data_path: st
 
                 results.append(train_lm_hawkish_dovish(gpu_numbers, train_test_data_path, language_model_to_use, seed, batch_size, learning_rate, None))
                 df = pd.DataFrame(results, columns=["Seed", "Learning Rate", "Batch Size", "Val Cross Entropy", "Val Accuracy", "Val F1 Score", "Test Cross Entropy", "Test Accuracy", "Test F1 Score"])
-                df.to_excel(f'../grid_search_results/hawkish_dovish_{language_model_to_use}.xlsx', index=False)
+                df.to_excel(f'../grid_search_results/pc_split_hawkish_dovish_{language_model_to_use}.xlsx', index=False)
 
 
 if __name__=='__main__':
     save_model_path = "../model_data/final_model"
+    train_test_data_path = "../training_data/manual-pc-split.xlsx"
     start_t = time()
     
     # experiments
     '''
     language_model_to_use = "bert"
-    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
+    train_lm_price_change_experiments(gpu_numbers="0", train_test_data_path=train_test_data_path, language_model_to_use=language_model_to_use)
     language_model_to_use = "roberta"
-    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
+    train_lm_price_change_experiments(gpu_numbers="0", train_test_data_path=train_test_data_path, language_model_to_use=language_model_to_use)
+    language_model_to_use = "bert-large"
+    train_lm_price_change_experiments(gpu_numbers="0", train_test_data_path=train_test_data_path, language_model_to_use=language_model_to_use)
+    '''
+    language_model_to_use = "roberta-large"
+    train_lm_price_change_experiments(gpu_numbers="0", train_test_data_path=train_test_data_path, language_model_to_use=language_model_to_use)
+    '''
     language_model_to_use = "finbert"
     train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
     language_model_to_use = "flangbert"
-    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
-    language_model_to_use = "bert-large"
-    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
-    language_model_to_use = "roberta-large"
     train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
     '''
     '''
@@ -229,9 +232,10 @@ if __name__=='__main__':
     language_model_to_use=language_model_to_use, seed=5768, batch_size=8, learning_rate=1e-5, save_model_path=save_model_path)
     print(output)
     '''
+    '''
     language_model_to_use = "pretrain_roberta"
     output = train_lm_hawkish_dovish(gpu_numbers="0", train_test_data_path="../training_data/manual_v2.xlsx", 
     language_model_to_use=language_model_to_use, seed=5768, batch_size=8, learning_rate=1e-5, save_model_path=None)
     print(output)
-
+    '''
     print((time() - start_t)/60.0)
