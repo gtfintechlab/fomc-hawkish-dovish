@@ -1,0 +1,184 @@
+I think I can safely say that this year they have outdone themselves.
+Recently, the subject of housing finance has preoccupied financial-market participants and observers in the United States and around the world.
+The financial turbulence we have seen had its immediate origins in the problems in the subprime mortgage market, but the effects have been felt in the broader mortgage market and in financial markets more generally, with potential consequences for the performance of the overall economy.
+In my remarks this morning, I will begin with some observations about recent market developments and their economic implications.
+I will then try to place recent events in a broader historical context by discussing the evolution of housing markets and housing finance in the United States.
+In particular, I will argue that, over the years, institutional changes in U.S. housing and mortgage markets have significantly influenced both the transmission of monetary policy and the economy's cyclical dynamics.
+As our system of housing finance continues to evolve, understanding these linkages not only provides useful insights into the past but also holds the promise of helping us better cope with the implications of future developments.
+Recent Developments in Financial markets and the EconomyI will begin my review of recent developments by discussing the housing situation.
+As you know, the downturn in the housing market, which began in the summer of 2005, has been sharp.
+Sales of new and existing homes have declined significantly from their mid-2005 peaks and have remained slow in recent months.
+As demand has weakened, house prices have decelerated or even declined by some measures, and homebuilders have scaled back their construction of new homes.
+The cutback in residential construction has directly reduced the annual rate of U.S. economic growth about 3/4 percentage point on average over the past year and a half.
+Despite the slowdown in construction, the stock of unsold new homes remains quite elevated relative to sales, suggesting that further declines in homebuilding are likely.
+The outlook for home sales and construction will also depend on unfolding developments in mortgage markets.
+A substantial increase in lending to nonprime borrowers contributed to the bulge in residential investment in 2004 and 2005, and the tightening of credit conditions for these borrowers likely accounts for some of the continued softening in demand we have seen this year.
+As I will discuss, recent market developments have resulted in additional tightening of rates and terms for nonprime borrowers as well as for potential borrowers through "jumbo" mortgages.
+Obviously, if current conditions persist in mortgage markets, the demand for homes could weaken further, with possible implications for the broader economy.
+We are following these developments closely.
+As house prices have softened, and as interest rates have risen from the low levels of a couple of years ago, we have seen a marked deterioration in the performance of nonprime mortgages.
+The problems have been most severe for subprime mortgages with adjustable rates: the proportion of those loans with serious delinquencies rose to about 13-1/2 percent in June, more than double the recent low seen in mid-2005.1 The adjustable-rate subprime mortgages originated in late 2005 and in 2006 have performed the worst, in part because of slippage in underwriting standards, reflected for example in high loan-to-value ratios and incomplete documentation.
+With many of these borrowers facing their first interest rate resets in coming quarters, and with softness in house prices expected to continue to impede refinancing, delinquencies among this class of mortgages are likely to rise further.
+Apart from adjustable-rate subprime mortgages, however, the deterioration in performance has been less pronounced, at least to this point.
+For subprime mortgages with fixed rather than variable rates, for example, serious delinquencies have been fairly stable at about 5-1/2 percent.
+The rate of serious delinquencies on alt-A securitized pools rose to nearly 3 percent in June, from a low of less than 1 percent in mid-2005.
+Delinquency rates on prime jumbo mortgages have also risen, though they are lower than those for prime conforming loans, and both rates are below 1 percent.
+Investors' concerns about mortgage credit performance have intensified sharply in recent weeks, reflecting, among other factors, worries about the housing market and the effects of impending interest-rate resets on borrowers' ability to remain current.
+Credit spreads on new securities backed by subprime mortgages, which had jumped earlier this year, rose significantly more in July.
+Issuance of such securities has been negligible since then, as dealers have faced difficulties placing even the AAA-rated tranches.
+Issuance of securities backed by alt-A and prime jumbo mortgages also has fallen sharply, as investors have evidently become concerned that the losses associated with these types of mortgages may be higher than had been expected.
+With securitization impaired, some major lenders have announced the cancellation of their adjustable-rate subprime lending programs.
+A number of others that specialize in nontraditional mortgages have been forced by funding pressures to scale back or close down.
+Some lenders that sponsor asset-backed commercial paper conduits as bridge financing for their mortgage originations have been unable to "roll" the maturing paper, forcing them to draw on back-up liquidity facilities or to exercise options to extend the maturity of their paper.
+As a result of these developments, borrowers face noticeably tighter terms and standards for all but conforming mortgages.
+As you know, the financial stress has not been confined to mortgage markets.
+The markets for asset-backed commercial paper and for lower-rated unsecured commercial paper market also have suffered from pronounced declines in investor demand, and the associated flight to quality has contributed to surges in the demand for short-dated Treasury bills, pushing T-bill rates down sharply on some days.
+Swings in stock prices have been sharp, with implied price volatilities rising to about twice the levels seen in the spring.
+Credit spreads for a range of financial instruments have widened, notably for lower-rated corporate credits.
+Diminished demand for loans and bonds to finance highly leveraged transactions has increased some banks' concerns that they may have to bring significant quantities of these instruments onto their balance sheets.
+These banks, as well as those that have committed to serve as back-up facilities to commercial paper programs, have become more protective of their liquidity and balance-sheet capacity.
+Although this episode appears to have been triggered largely by heightened concerns about subprime mortgages, global financial losses have far exceeded even the most pessimistic projections of credit losses on those loans.
+In part, these wider losses likely reflect concerns that weakness in U.S. housing will restrain overall economic growth.
+But other factors are also at work.
+Investor uncertainty has increased significantly, as the difficulty of evaluating the risks of structured products that can be opaque or have complex payoffs has become more evident.
+Also, as in many episodes of financial stress, uncertainty about possible forced sales by leveraged participants and a higher cost of risk capital seem to have made investors hesitant to take advantage of possible buying opportunities.
+More generally, investors may have become less willing to assume risk.
+Some increase in the premiums that investors require to take risk is probably a healthy development on the whole, as these premiums have been exceptionally low for some time.
+However, in this episode, the shift in risk attitudes has interacted with heightened concerns about credit risks and uncertainty about how to evaluate those risks to create significant market stress.
+On the positive side of the ledger, we should recognize that past efforts to strengthen capital positions and the financial infrastructure place the global financial system in a relatively strong position to work through this process.
+In the statement following its August 7 meeting, the Federal Open Market Committee (FOMC) recognized that the rise in financial volatility and the tightening of credit conditions for some households and businesses had increased the downside risks to growth somewhat but reiterated that inflation risks remained its predominant policy concern.
+In subsequent days, however, following several events that led investors to believe that credit risks might be larger and more pervasive than previously thought, the functioning of financial markets became increasingly impaired.
+Liquidity dried up and spreads widened as many market participants sought to retreat from certain types of asset exposures altogether.
+Well-functioning financial markets are essential for a prosperous economy.
+As the nation's central bank, the Federal Reserve seeks to promote general financial stability and to help to ensure that financial markets function in an orderly manner.
+In response to the developments in the financial markets in the period following the FOMC meeting, the Federal Reserve provided reserves to address unusual strains in money markets.
+On August 17, the Federal Reserve Board announced a cut in the discount rate of 50 basis points and adjustments in the Reserve Banks' usual discount window practices to facilitate the provision of term financing for as long as thirty days, renewable by the borrower.
+The Federal Reserve also took a number of supplemental actions, such as cutting the fee charged for lending Treasury securities.
+The purpose of the discount window actions was to assure depositories of the ready availability of a backstop source of liquidity.
+Even if banks find that borrowing from the discount window is not immediately necessary, the knowledge that liquidity is available should help alleviate concerns about funding that might otherwise constrain depositories from extending credit or making markets.
+The Federal Reserve stands ready to take additional actions as needed to provide liquidity and promote the orderly functioning of markets.
+It is not the responsibility of the Federal Reserve--nor would it be appropriate--to protect lenders and investors from the consequences of their financial decisions.
+But developments in financial markets can have broad economic effects felt by many outside the markets, and the Federal Reserve must take those effects into account when determining policy.
+In a statement issued simultaneously with the discount window announcement, the FOMC indicated that the deterioration in financial market conditions and the tightening of credit since its August 7 meeting had appreciably increased the downside risks to growth.
+In particular, the further tightening of credit conditions, if sustained, would increase the risk that the current weakness in housing could be deeper or more prolonged than previously expected, with possible adverse effects on consumer spending and the economy more generally.
+The incoming data indicate that the economy continued to expand at a moderate pace into the summer, despite the sharp correction in the housing sector.
+However, in light of recent financial developments, economic data bearing on past months or quarters may be less useful than usual for our forecasts of economic activity and inflation.
+Consequently, we will pay particularly close attention to the timeliest indicators, as well as information gleaned from our business and banking contacts around the country.
+Inevitably, the uncertainty surrounding the outlook will be greater than normal, presenting a challenge to policymakers to manage the risks to their growth and price stability objectives.
+The Committee continues to monitor the situation and will act as needed to limit the adverse effects on the broader economy that may arise from the disruptions in financial markets.
+Beginnings: Mortgage Markets in the Early Twentieth CenturyLike us, our predecessors grappled with the economic and policy implications of innovations and institutional changes in housing finance.
+In the remainder of my remarks, I will try to set the stage for this weekend's conference by discussing the historical evolution of the mortgage market and some of the implications of that evolution for monetary policy and the economy.
+The early decades of the twentieth century are a good starting point for this review, as urbanization and the exceptionally rapid population growth of that period created a strong demand for new housing.
+Between 1890 and 1930, the number of housing units in the United States grew from about 10 million to about 30 million; the pace of homebuilding was particularly brisk during the economic boom of the 1920s.
+Remarkably, this rapid expansion of the housing stock took place despite limited sources of mortgage financing and typical lending terms that were far less attractive than those to which we are accustomed today.
+Required down payments, usually about half of the home's purchase price, excluded many households from the market.
+Also, by comparison with today's standards, the duration of mortgage loans was short, usually ten years or less.
+A "balloon" payment at the end of the loan often created problems for borrowers.2 High interest rates on loans reflected the illiquidity and the essentially unhedgeable interest rate risk and default risk associated with mortgages.
+Nationwide, the average spread between mortgage rates and high-grade corporate bond yields during the 1920s was about 200 basis points, compared with about 50 basis points on average since the mid-1980s.
+The absence of a national capital market also produced significant regional disparities in borrowing costs.
+Hard as it may be to conceive today, rates on mortgage loans before World War I were at times as much as 2 to 4 percentage points higher in some parts of the country than in others, and even in 1930, regional differences in rates could be more than a full percentage point.3 Despite the underdevelopment of the mortgage market, homeownership rates rose steadily after the turn of the century.
+As would often be the case in the future, government policy provided some inducement for homebuilding.
+When the federal income tax was introduced in 1913, it included an exemption for mortgage interest payments, a provision that is a powerful stimulus to housing demand even today.
+By 1930, about 46 percent of nonfarm households owned their own homes, up from about 37 percent in 1890.
+The limited availability of data prior to 1929 makes it hard to quantify the role of housing in the monetary policy transmission mechanism during the early twentieth century.
+Comparisons are also complicated by great differences between then and now in monetary policy frameworks and tools.
+Still, then as now, periods of tight money were reflected in higher interest rates and a greater reluctance of banks to lend, which affected conditions in mortgage markets.
+Moreover, students of the business cycle, such as Arthur Burns and Wesley Mitchell, have observed that residential construction was highly cyclical and contributed significantly to fluctuations in the overall economy (Burns and Mitchell, 1946).
+Indeed, if we take the somewhat less reliable data for 1901 to 1929 at face value, real housing investment was about three times as volatile during that era as it has been over the past half-century.
+During the past century we have seen two great sea changes in the market for housing finance.
+The first of these was the product of the New Deal.
+The second arose from financial innovation and a series of crises from the 1960s to the mid-1980s in depository funding of mortgages.
+I will turn first to the New Deal period.
+The New Deal and the Housing MarketThe housing sector, like the rest of the economy, was profoundly affected by the Great Depression.
+When Franklin Roosevelt took office in 1933, almost 10 percent of all homes were in foreclosure (Green and Wachter, 2005), construction employment had fallen by half from its late 1920s peak, and a banking system near collapse was providing little new credit.
+As in other sectors, New Deal reforms in housing and housing finance aimed to foster economic revival through government programs that either provided financing directly or strengthened the institutional and regulatory structure of private credit markets.
+Actually, one of the first steps in this direction was taken not by Roosevelt but by his predecessor, Herbert Hoover, who oversaw the creation of the Federal Home Loan Banking System in 1932.
+This measure reorganized the thrift industry (savings and loans and mutual savings banks) under federally chartered associations and established a credit reserve system modeled after the Federal Reserve.
+The Roosevelt administration pushed this and other programs affecting housing finance much further.
+In 1934, his administration oversaw the creation of the Federal Housing Administration (FHA).
+By providing a federally backed insurance system for mortgage lenders, the FHA was designed to encourage lenders to offer mortgages on more attractive terms.
+This intervention appears to have worked in that, by the 1950s, most new mortgages were for thirty years at fixed rates, and down payment requirements had fallen to about 20 percent.
+In 1938, the Congress chartered the Federal National Mortgage Association, or Fannie Mae, as it came to be known.
+The new institution was authorized to issue bonds and use the proceeds to purchase FHA mortgages from lenders, with the objectives of increasing the supply of mortgage credit and reducing variations in the terms and supply of credit across regions.4 Shaped to a considerable extent by New Deal reforms and regulations, the postwar mortgage market took on the form that would last for several decades.
+The market had two main sectors.
+One, the descendant of the pre-Depression market sector, consisted of savings and loan associations, mutual savings banks, and, to a lesser extent, commercial banks.
+With financing from short-term deposits, these institutions made conventional fixed-rate long-term loans to homebuyers.
+Notably, federal and state regulations limited geographical diversification for these lenders, restricting interstate banking and obliging thrifts to make mortgage loans in small local areas--within 50 miles of the home office until 1964, and within 100 miles after that.
+In the other sector, the product of New Deal programs, private mortgage brokers and other lenders originated standardized loans backed by the FHA and the Veterans' Administration (VA).
+These guaranteed loans could be held in portfolio or sold to institutional investors through a nationwide secondary market.
+No discussion of the New Deal's effect on the housing market and the monetary transmission mechanism would be complete without reference to Regulation Q--which was eventually to exemplify the law of unintended consequences.
+The Banking Acts of 1933 and 1935 gave the Federal Reserve the authority to impose deposit-rate ceilings on banks, an authority that was later expanded to cover thrift institutions.
+The Fed used this authority in establishing its Regulation Q.
+The so-called Reg Q ceilings remained in place in one form or another until the mid-1980s.5 The original rationale for deposit ceilings was to reduce "excessive" competition for bank deposits, which some blamed as a cause of bank failures in the early 1930s.
+In retrospect, of course, this was a dubious bit of economic analysis.
+In any case, the principal effects of the ceilings were not on bank competition but on the supply of credit.
+With the ceilings in place, banks and thrifts experienced what came to be known as disintermediation--an outflow of funds from depositories that occurred whenever short-term money-market rates rose above the maximum that these institutions could pay.
+In the absence of alternative funding sources, the loss of deposits prevented banks and thrifts from extending mortgage credit to new customers.
+The Transmission Mechanism and the New Deal ReformsUnder the New Deal system, housing construction soared after World War II, driven by the removal of wartime building restrictions, the need to replace an aging housing stock, rapid family formation that accompanied the beginning of the baby boom, and large-scale internal migration.
+The stock of housing units grew 20 percent between 1940 and 1950, with most of the new construction occurring after 1945.
+In 1951, the Treasury-Federal Reserve Accord freed the Fed from the obligation to support Treasury bond prices.
+Monetary policy began to focus on influencing short-term money markets as a means of affecting economic activity and inflation, foreshadowing the Federal Reserve's current use of the federal funds rate as a policy instrument.
+Over the next few decades, housing assumed a leading role in the monetary transmission mechanism, largely for two reasons: Reg Q and the advent of high inflation.
+The Reg Q ceilings were seldom binding before the mid-1960s, but disintermediation induced by the ceilings occurred episodically from the mid-1960s until Reg Q began to be phased out aggressively in the early 1980s.
+The impact of disintermediation on the housing market could be quite significant; for example, a moderate tightening of monetary policy in 1966 contributed to a 23 percent decline in residential construction between the first quarter of 1966 and the first quarter of 1967.
+State usury laws and branching restrictions worsened the episodes of disintermediation by placing ceilings on lending rates and limiting the flow of funds between local markets.
+For the period 1960 to 1982, when Reg Q assumed its greatest importance, statistical analysis shows a high correlation between single-family housing starts and the growth of small time deposits at thrifts, suggesting that disintermediation effects were powerful; in contrast, since 1983 this correlation is essentially zero.6 Economists at the time were well aware of the importance of the disintermediation phenomenon for monetary policy.
+Frank de Leeuw and Edward Gramlich highlighted this particular channel in their description of an early version of the MPS macroeconometric model, a joint product of researchers at the Federal Reserve, MIT, and the University of Pennsylvania (de Leeuw and Gramlich, 1969).
+The model attributed almost one-half of the direct first-year effects of monetary policy on the real economy--which were estimated to be substantial--to disintermediation and other housing-related factors, despite the fact that residential construction accounted for only 4 percent of nominal gross domestic product (GDP) at the time.
+As time went on, however, monetary policy mistakes and weaknesses in the structure of the mortgage market combined to create deeper economic problems.
+For reasons that have been much analyzed, in the late 1960s and the 1970s the Federal Reserve allowed inflation to rise, which led to corresponding increases in nominal interest rates.
+Increases in short-term nominal rates not matched by contractually set rates on existing mortgages exposed a fundamental weakness in the system of housing finance, namely, the maturity mismatch between long-term mortgage credit and the short-term deposits that commercial banks and thrifts used to finance mortgage lending.
+This mismatch led to a series of liquidity crises and, ultimately, to a rash of insolvencies among mortgage lenders.
+High inflation was also ultimately reflected in high nominal long-term rates on new mortgages, which had the effect of "front loading" the real payments made by holders of long-term, fixed-rate mortgages.
+This front-loading reduced affordability and further limited the extension of mortgage credit, thereby restraining construction activity.
+Reflecting these factors, housing construction experienced a series of pronounced boom and bust cycles from the early 1960s through the mid-1980s, which contributed in turn to substantial swings in overall economic growth.
+The Emergence of Capital Markets as a Source of Housing FinanceThe manifest problems associated with relying on short-term deposits to fund long-term mortgage lending set in train major changes in financial markets and financial instruments, which collectively served to link mortgage lending more closely to the broader capital markets.
+The shift from reliance on specialized portfolio lenders financed by deposits to a greater use of capital markets represented the second great sea change in mortgage finance, equaled in importance only by the events of the New Deal.
+Government actions had considerable influence in shaping this second revolution.
+In 1968, Fannie Mae was split into two agencies: the Government National Mortgage Association (Ginnie Mae) and the re-chartered Fannie Mae, which became a privately owned government-sponsored enterprise (GSE), authorized to operate in the secondary market for conventional as well as guaranteed mortgage loans.
+In 1970, to compete with Fannie Mae in the secondary market, another GSE was created--the Federal Home Loan Mortgage Corporation, or Freddie Mac.
+Also in 1970, Ginnie Mae issued the first mortgage pass-through security, followed soon after by Freddie Mac.
+In the early 1980s, Freddie Mac introduced collateralized mortgage obligations (CMOs), which separated the payments from a pooled set of mortgages into "strips" carrying different effective maturities and credit risks.
+Since 1980, the outstanding volume of GSE mortgage-backed securities has risen from less than $200 billion to more than $4 trillion today.
+Alongside these developments came the establishment of private mortgage insurers, which competed with the FHA, and private mortgage pools, which bundled loans not handled by the GSEs, including loans that did not meet GSE eligibility criteria--so-called nonconforming loans.
+Today, these private pools account for around $2 trillion in residential mortgage debt.
+These developments did not occur in time to prevent a large fraction of the thrift industry from becoming effectively insolvent by the early 1980s in the wake of the late-1970s surge in inflation.7 In this instance, the government abandoned attempts to patch up the system and instead undertook sweeping deregulation.
+Reg Q was phased out during the 1980s; state usury laws capping mortgage rates were abolished; restrictions on interstate banking were lifted by the mid-1990s; and lenders were permitted to offer adjustable-rate mortgages as well as mortgages that did not fully amortize and which therefore involved balloon payments at the end of the loan period.
+Critically, the savings and loan crisis of the late 1980s ended the dominance of deposit-taking portfolio lenders in the mortgage market.
+By the 1990s, increased reliance on securitization led to a greater separation between mortgage lending and mortgage investing even as the mortgage and capital markets became more closely integrated.
+About 56 percent of the home mortgage market is now securitized, compared with only 10 percent in 1980 and less than 1 percent in 1970.
+In some ways, the new mortgage market came to look more like a textbook financial market, with fewer institutional "frictions" to impede trading and pricing of event-contingent securities.
+Securitization and the development of deep and liquid derivatives markets eased the spreading and trading of risk.
+New types of mortgage products were created.
+Recent developments notwithstanding, mortgages became more liquid instruments, for both lenders and borrowers.
+Technological advances facilitated these changes; for example, computerization and innovations such as credit scores reduced the costs of making loans and led to a "commoditization" of mortgages.
+Access to mortgage credit also widened; notably, loans to subprime borrowers accounted for about 13 percent of outstanding mortgages in 2006.
+I suggested that the mortgage market has become more like the frictionless financial market of the textbook, with fewer institutional or regulatory barriers to efficient operation.
+In one important respect, however, that characterization is not entirely accurate.
+A key function of efficient capital markets is to overcome problems of information and incentives in the extension of credit.
+The traditional model of mortgage markets, based on portfolio lending, solved these problems in a straightforward way: Because banks and thrifts kept the loans they made on their own books, they had strong incentives to underwrite carefully and to invest in gathering information about borrowers and communities.
+In contrast, when most loans are securitized and originators have little financial or reputational capital at risk, the danger exists that the originators of loans will be less diligent.
+In securitization markets, therefore, monitoring the originators and ensuring that they have incentives to make good loans is critical.
+I have argued elsewhere that, in some cases, the failure of investors to provide adequate oversight of originators and to ensure that originators' incentives were properly aligned was a major cause of the problems that we see today in the subprime mortgage market (Bernanke, 2007).
+In recent months we have seen a reassessment of the problems of maintaining adequate monitoring and incentives in the lending process, with investors insisting on tighter underwriting standards and some large lenders pulling back from the use of brokers and other agents.
+We will not return to the days in which all mortgage lending was portfolio lending, but clearly the originate-to-distribute model will be modified--is already being modified--to provide stronger protection for investors and better incentives for originators to underwrite prudently.
+The Monetary Transmission Mechanism Since the Mid-1980sThe dramatic changes in mortgage finance that I have described appear to have significantly affected the role of housing in the monetary transmission mechanism.
+Importantly, the easing of some traditional institutional and regulatory frictions seems to have reduced the sensitivity of residential construction to monetary policy, so that housing is no longer so central to monetary transmission as it was.8 In particular, in the absence of Reg Q ceilings on deposit rates and with a much-reduced role for deposits as a source of housing finance, the availability of mortgage credit today is generally less dependent on conditions in short-term money markets, where the central bank operates most directly.
+Most estimates suggest that, because of the reduced sensitivity of housing to short-term interest rates, the response of the economy to a given change in the federal funds rate is modestly smaller and more balanced across sectors than in the past.9 These results are embodied in the Federal Reserve's large econometric model of the economy, which implies that only about 14 percent of the overall response of output to monetary policy is now attributable to movements in residential investment, in contrast to the model's estimate of 25 percent or so under what I have called the New Deal system.
+The econometric findings seem consistent with the reduced synchronization of the housing cycle and the business cycle during the present decade.
+In all but one recession during the period from 1960 to 1999, declines in residential investment accounted for at least 40 percent of the decline in overall real GDP, and the sole exception--the 1970 recession--was preceded by a substantial decline in housing activity before the official start of the downturn.
+In contrast, residential investment boosted overall real GDP growth during the 2001 recession.
+More recently, the sharp slowdown in housing has been accompanied, at least thus far, by relatively good performance in other sectors.
+That said, the current episode demonstrates that pronounced housing cycles are not a thing of the past.
+My discussion so far has focused primarily on the role of variations in housing finance and residential construction in monetary transmission.
+But, of course, housing may have indirect effects on economic activity, most notably by influencing consumer spending.
+With regard to household consumption, perhaps the most significant effect of recent developments in mortgage finance is that home equity, which was once a highly illiquid asset, has become instead quite liquid, the result of the development of home equity lines of credit and the relatively low cost of cash-out refinancing.
+Economic theory suggests that the greater liquidity of home equity should allow households to better smooth consumption over time.
+This smoothing in turn should reduce the dependence of their spending on current income, which, by limiting the power of conventional multiplier effects, should tend to increase macroeconomic stability and reduce the effects of a given change in the short-term interest rate.
+These inferences are supported by some empirical evidence.10 On the other hand, the increased liquidity of home equity may lead consumer spending to respond more than in past years to changes in the values of their homes; some evidence does suggest that the correlation of consumption and house prices is higher in countries, like the United States, that have more sophisticated mortgage markets (Calza, Monacelli, and Stracca, 2007).
+Whether the development of home equity loans and easier mortgage refinancing has increased the magnitude of the real estate wealth effect--and if so, by how much--is a much-debated question that I will leave to another occasion.
+Conclusion I hope this exploration of the history of housing finance has persuaded you that institutional factors can matter quite a bit in determining the influence of monetary policy on housing and the role of housing in the business cycle.
+Certainly, recent developments have added yet further evidence in support of that proposition.
+The interaction of housing, housing finance, and economic activity has for years been of central importance for understanding the behavior of the economy, and it will continue to be central to our thinking as we try to anticipate economic and financial developments.
+In closing, I would like to express my particular appreciation for an individual whom I count as a friend, as I know many of you do: Edward Gramlich.
+Ned was scheduled to be on the program but his illness prevented him from making the trip.

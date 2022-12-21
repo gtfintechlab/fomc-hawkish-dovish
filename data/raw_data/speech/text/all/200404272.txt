@@ -1,0 +1,47 @@
+As many of you know, before my appointment to the Board of Governors, I was quite active in this organization, particularly on the Committee on Corporate Reporting.
+I also served on the Financial Accounting Standards Board's Emerging Issues Task Force.
+Now, as a member of the Federal Reserve Board, and Chair of the Board's Committee on Supervisory and Regulatory Affairs, I find myself focusing on the growth and evolution of the financial system from a slightly different perspective than when I was a chief financial officer.
+The continuing evolution of the banking and financial markets has created opportunities both for providers and for users of financial products, and this evolution has been beneficial to the economy.
+However, innovations in financial products also have given rise to some new challenges for market participants and their supervisors in the areas of corporate governance and compliance.
+The events of the past three years demonstrate again that fraudulent conduct and weak corporate governance at a few firms can dramatically change the cost of capital and impose additional regulatory burden on even well-managed organizations.
+When similar events occurred in the 1980s, FEI, one of the five members of the Committee of Sponsoring Organizations (COSO) of the Treadway Commission, took the lead in defining best practices for internal controls.
+FEI should be proud that the COSO Internal Control Framework was the basis of much of the internal control mandates of the Sarbanes-Oxley Act and still is seen as the seminal work in its field.
+Fundamental elements of corporate governance and compliance naturally become more challenging as activities become more complex.
+The major breaks in the internal controls of corporations in the past few years, and the role of bankers in those events, has led bank regulators to change their view of bankers' relationships with their corporate clients.
+Today, I'd like to touch on some of these challenges and on how financial institutions and their corporate customers can adopt new ways of working together.
+I am going to talk about some new regulatory guidance on complex structured finance transactions and guidance on industry best practice regarding credit risk transfer instruments.
+I also want to speak about an issue that is confusing to many companies: anti-tying regulation as it relates to services provided by banking organizations.
+But before I talk about these issues, I would like to step back and discuss some broader, longer-term issues that affect accounting and corporate governance.
+Looking beyond the isolated cases of outright fraud, I believe a fundamental problem is this: As organizations have grown in size and scope, innovative financing techniques have made it more difficult for outside investors to understand a particular firm's risk profile and the performance of its various lines of business.
+Traditional accounting standards have not kept pace with the risk-management tools employed by sophisticated corporations.
+Thus, more meaningful disclosure of firms' risk-management positions and strategies is crucial for improving corporate transparency for market participants.
+Financial Innovations and Disclosure Over the past few decades, firms have acquired effective new tools with which to manage financial risk.
+For example, securitization helps a firm manage the risk of a concentrated exposure by transferring some of that exposure outside the firm.
+By pooling assets and issuing marketable securities, firms obtain liquidity and reduce funding costs.
+Of course, moving assets off the balance sheet and into special purpose entities, with the attendant creation of servicing rights and high risk residual interests retained by firms, generates its own risks and reduces transparency unless the firm takes additional steps to enhance disclosure.
+Several types of securitization have grown rapidly over the past decade.
+One of the fastest growing has been asset-backed commercial paper, which soared from only $16 billion outstanding at the end of 1989 to about $690 billion as of year-end 2003.
+Commercial mortgage securitizations have also proliferated noticeably since the early 1990s.
+The dollar amount of outstanding securities backed by commercial and multifamily mortgages has risen from $36 billion at the end of 1989 to just under $450 billion as of this past September.
+In addition, commercial banks and finance companies have moved business loans off their books through the development of collateralized debt obligations.
+Securitized business loans amounted to $100 billion in the third quarter of 2003, up from a relatively miniscule $2 billion in 1989.
+Firms also use derivatives to manage their risk exposures to price fluctuations in currency, commodity, energy, and interest rate markets.
+More recently, firms have used credit derivatives, a relatively new type of derivative that allows them to purchase protection against the risk of loss from the default of a given entity.
+By purchasing such protection, financial and nonfinancial firms alike can reduce their exposures to particular borrowers or counterparties.
+Credit derivatives also allow financial firms to achieve a more diversified credit portfolio by acquiring credit exposure to borrowers with which they do not have a lending relationship.
+For example, European insurance companies reportedly have used credit derivatives to acquire exposure to European corporations that, because they rely primarily on bank lending, have little publicly traded debt outstanding.
+The improvements in technology, the quick pace of financial innovation, and the evolving risk-management techniques almost ensure that businesses will increasingly use almost limitless configurations of products and services and sophisticated financial structures.
+Accordingly, outsiders will have ever more difficulty understanding the risk positions of many large, complex organizations.
+These developments represent significant challenges to standard setters and to firms.
+For market discipline to be effective, accounting standards must evolve to accurately capture these developments.
+Company managers must also do their part, by ensuring that public disclosures clearly identify all significant risk exposures--whether on or off the balance sheet--and their effects on the firm's financial condition and performance, cash flow, and earnings potential.
+With regard to securitizations, derivatives, and other innovative risk-transfer instruments, accounting measurement of a company's balance sheet at a point in time is insufficient to convey the full effect of a company's financial risk profile.
+Organizations should continue to improve their enterprise-wide risk-management and reporting functions.
+The FEI's leadership in the proposed COSO Enterprise Risk Management Framework demonstrates this organization's recognition of the importance of this new discipline.
+I would like to challenge companies to use their new risk-management discipline as a framework also to begin disclosing this information to the market, perhaps in summary form, paying due attention to the need for keeping proprietary business data confidential.
+Disclosures would not only provide more qualitative and quantitative information about the firm's current risk exposure to the market but also help the market assess the quality of the risk oversight and risk appetite of the organization.
+My last comment on disclosures is that less than fully transparent disclosures are not limited to "complex" off-balance-sheet transactions.
+One glaring example is the treatment of expenses associated with defined-benefit pension plans.
+In recent years we have seen how the accounting rules for these plans can produce, quite frankly, some very misleading measures of corporate earnings and balance sheets.
+In effect, firms use expectations of the long-term return on assets in defined-benefit plans to calculate current-period pension costs (income).
+At the same time, they use a spot rate to discount the future liabilities.

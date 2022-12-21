@@ -1,8 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"expansion of the geographic scope of banking activities, rapid technological change in the production of financial services, the increasing importance of nonbank providers, and evolving patterns of economic growth are among the factors that are changing the banking marketplace.",LABEL_1,0.6390068531036377
-1,"beyond these changes, the federal reserve is participating in an ongoing interagency review of banking regulations pursuant to the economic growth and regulatory paperwork reduction act, known as egrpra.",LABEL_0,0.9591299295425415
-2,"the rapid growth in commercial real estate exposures relative to capital and assets raises the possibility that risk-management practices in community banks may not have kept pace with growing concentrations and may be due for upgrades in oversight, policies, information systems, and stress testing.",LABEL_1,0.7481587529182434
-3,adjusting to changes in the level of short-term interest rates can also pose challenges to community banks.,LABEL_1,0.9352720379829407
-4,"thus far, the relative stability of community bank net interest margins suggests that they have done a good job of managing their interest rate risk exposure throughout the recent increase in market rates.",LABEL_2,0.8032125234603882
-5,"importantly, most community banks have effectively controlled the maturity distributions of their assets and made significant improvements over the past decade to their management and measurement of interest rate risk.",LABEL_2,0.9818748831748962
-6,"community banks provide vital services for their customers and are key contributors to sustained economic growth, both locally and nationally.",LABEL_1,0.8754046559333801

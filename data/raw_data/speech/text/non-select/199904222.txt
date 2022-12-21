@@ -1,0 +1,151 @@
+While that may seem straightforward guidance (if not always easy politically!
+), it is not so simple in practice.
+Considering the broader question of stabilization policy, there are two sets of authorities that could take away the punch bowl, monetary policymakers or fiscal policymakers.
+Which should, under what conditions?
+Another question involves the heat--exactly how warm should the party be?
+A third involves timing--should the bowl be taken away slightly in advance of when the party is expected to warm up, or once it is clear that the party really has warmed up?
+Economists and others have debated these questions of stabilization policy strategy for years, with many issues still unresolved.
+In this talk I take the opportunity to give my own views.
+Fiscal and Monetary Policy in Theory In domestic macroeconomic theory either fiscal or monetary policy can be used to stabilize output and employment around their trend levels, and hence prevent booms or recessions from getting out of hand.
+When this domestic model is broadened to open the economy to international trade and capital flows, this conclusion no longer holds but the results depend on the flexibility of the nation's exchange rate.
+Suppose first that a nation's exchange rate is flexible, which means that the central bank generally does not intervene in currency markets and allows private markets to set the value of its currency.
+In response to an incipient recession, expansionary fiscal policy will raise interest rates, attract international funds, drive up the value of the nation's currency, and reduce net exports.
+In a strict small country model, this process will continue until the fiscal expansion has no impact at all on the nation's output and is ineffective as a stabilization policy measure.
+In less strict models the international link greatly reduces the expansionary impact of the fiscal change and still makes it generally unproductive to use fiscal policy for stabilization purposes.
+By contrast, the impact of a monetary expansion is enhanced by flexible exchange rates.
+Monetary expansion will lower interest rates, lower the value of the nation's currency, raise net exports, and generally have a more stimulatory impact on output and employment than it would have without changing exchange rates.
+In this exchange regime it makes sense for a country to rely on monetary policy as its primary stabilization tool and let fiscal policy influence the nation's overall saving rate.
+It might seem like this assignment of responsibilities would consign fiscal policy to oblivion, but in fact not so.
+In the long run the most important policy a country has to influence its long run living standards is fiscal policy, operating through just this influence on national saving.
+Interestingly, these conclusions are totally inverted if a country is following a fixed exchange rate policy, which means that its central bank intervenes in markets to set the value of its currency.
+A great variety of exchange arrangements fall into this category--a gold standard, a currency board, dollarization, and exchange rate zones would all be considered as fixed exchange rate regimes for these purposes.
+In these cases, central bank policy (if indeed there is a domestic central bank at all) must be dedicated to setting the exchange rate and cannot be used to stabilize output and employment.
+Interest rates cannot deviate from the level necessary to determine the pre-set exchange rate.
+Fiscal policy becomes the preeminent stabilization tool by necessity.
+As expansionary fiscal policy threatens to raise interest rates and drive up the exchange rate, the process induces a rise in the money supply to preserve the fixed interest and exchange rates, accommodating a larger rise in output than would be the case in a closed economy.
+For this reason the impact of fiscal policy on the economy is even greater than it would be in a closed economy.
+Timing Issues Since stabilization policy is dedicated to mitigating business cycles that can be of relatively short duration, timing also matters in developing a stabilization strategy.
+Fiscal policy contains automatic stabilizers--basically tax revenues that rise in booms and fall in recessions, hence stabilizing overall spending demands.
+These stabilizers cut the amplitude of cycles in output and employment, but they do not eliminate the cycles.
+To eliminate cycles altogether, policymakers must act in time for their policies to offset incipient booms or recessions.
+The average postwar recession in the United States has been slightly less than a year long, which narrows the time horizon for what are known as discretionary policies considerably.
+Two types of lags can cause problems, inside lags and outside lags.
+Inside lags involve the time between the need for action and the action, outside lags the time between policy action and its impact on the economy.
+An inevitable component of the inside lag is simply the time it takes policymakers, whether on the monetary or fiscal side, to recognize shifts in economic indicators.
+Policymakers can rely on forecasting models, but these can be sufficiently wide of the mark that policymakers often prefer to see real world data before they act.
+In most countries first reports on economic data come out about a month after the quarter or month for which the data are reported, but these first reports are subject to considerable short run noise, often revised substantially, and in fact are themselves often little better than forecasts.
+If there were a sharp but unexpected change in the pace of activity, policymakers would probably not have a good statistical idea of this change until a month or more after the fact.
+The other component of the inside lag is the time between recognition and action.
+For monetary policy this time period is usually relatively short.
+Central bank monetary policy committees generally meet at two to six weeks' intervals throughout the year.
+Normally these committees respond to changes in economic information at the first meeting after the fact, sometimes the second.
+If the change were to be extreme, most committees have the ability to make inter-meeting changes in policy.
+Summing the two components, for monetary policy the inside lag is probably on the order of a quarter, less if the monetary authorities are prepared to act on the basis of forecasts.
+For fiscal policy, the time between recognition and action is long in parliamentary countries, seemingly interminable in the United States.
+In the U.S. if the need for action is recognized in the fall of the year, the President's budget message can reflect that.
+But the budget message, which comes out in early February, lays the groundwork for Congressional debate on the budget, which most of the time is not quite completed by the time the fiscal year starts in October.
+Hence, at best this component of the inside lag for U.S. discretionary fiscal policy is about a year, already longer than the average recession, and the lag can be substantially longer than that if the relevant action is at all controversial.
+In parliamentary countries it is possible to act faster, but even in these countries there can be substantial procedural bottlenecks to altering a budget that has already been submitted.
+Most of the time even parliamentary countries will wait for the next budget cycle to incorporate new discretionary fiscal policies.
+The second lag is what is known as the outside lag--the time between the action being taken and an observable impact on the real economy.
+For monetary policy this lag was formerly thought to be long--on the order of nine months to a year in most developed countries.
+Monetary policy has traditionally operated through changes in short term interest rates, which then change long term rates with some lag, and real spending with some further lag.
+But there are reasons why this lag may have speeded up in recent years--credit markets have now become more forward-looking and asset values have a sizeable and relatively quick impact on spending through the wealth effect.
+For fiscal policy, tax changes that alter withholding probably operate within a quarter or two, though those that raise spending such as for construction can take many years to plan routes, purchase land, let contracts and the like.
+The upshot of all of this is that it does seem possible to use monetary policy as an effective stabilization instrument.
+Because of its relatively short inside lag and possibly reduced outside lag, monetary actions are likely to have some effects within a half-year of the recognition of the need for a change, perhaps even faster when authorities act on the basis of forecasts.
+But what is possible for monetary policy seems basically impossible for discretionary fiscal policy.
+When the extra year-long piece of the inside lag is added on, it is hard to escape the conclusion that fiscal policy should be used for stabilization purposes only in the deepest and longest of recessions.
+If an economy has flexible exchange rates, no harm is done by this conclusion, because the economics of flexible exchange rates suggest that monetary policy is best used for stabilization and fiscal policy for long-term policies in any case.
+If the economy operates under fixed exchange rates, the lesson here is that discretionary fiscal policy should generally only be used to deal with long run needs.
+The only operative stabilization force in these economies is then the automatic fiscal stabilizers--indeed, this suggests a potential problem for countries on fixed exchange rates.
+Fiscal Policy in the United States Turning now from the general to the specific, I examine these issues in more detail for the United States.
+The first point to make is that for nearly three decades the U.S. has operated under flexible exchange rates.
+Neither the Federal Reserve nor the Treasury typically intervenes in exchange markets to try to influence exchange rates.
+This means both that monetary policy is free to operate on stabilization needs, and should be able to do that effectively.
+Fiscal policy, on the other hand, is best devoted to longer run considerations.
+The second salient point is that for two decades American fiscal policy has been hamstrung by low national saving rates.
+Much attention lately has been devoted to the low rate of personal saving in the United States--the rate that just recently dipped below zero.
+But while personal saving is one important component of national saving, it is only one component.
+A country with high business and/or government saving can provide plenty of resources for new capital investment, even with low personal saving.
+The overall national saving rate, based on a summation of saving in all sectors of the economy, is the key indicator of how much a country is providing for its future.
+Through an accounting identity, it can be shown that this overall national saving rate equals output less private and public consumption, perhaps an easier way to think about the concept.
+This overall rate of net national saving in the United States averaged 11.4 percent of net national product from 1950 to 1970, but then fell to 6.1 percent in the 1980s and to 5.2 percent in the 1990s.
+In the long run this drop is bound to show up in a reduced growth path for per capita output.
+Now, when the United States is on the verge of a dramatic rise in potential entitlement spending, seems a particularly poor time for such a sharp drop.
+But national saving is a long run concept, and the fact that the U.S. rate has fallen does not inevitably make for economic problems.
+Indeed, Alan Greenspan has recently attributed much favorable recent economic performance to significant capital gains on wealth.
+These wealth gains are not counted in income from production but they raise consumption, implying a drop in national saving.
+They also can raise investment, implying an investment boom financed by the saving of foreigners.
+Of course the current account balance of payments deficit implied by the rise in investment and drop in saving may not be sustainable.
+Nor might the capital gains persist.
+If a nation could consistently count on large-scale capital gains and foreign capital inflows, it would not need as much saving.
+But capital gains come and go, and inflows may not be sustainable.
+To provide a strong and consistent basis for future growth, a developed nation will generally need to do its own saving.
+While there are a number of policy changes that could in principle raise national saving, the tried and true method is through contractionary fiscal policy.
+Higher budget surpluses imply lower public and/or private consumption and permit more funds to be devoted to capital investment.
+Making the same point from another perspective, higher surpluses retire some of the outstanding public debt and free up more funds for investment.
+In this regard, the recent return of overall budget surpluses is most welcome, and it has already begun to raise national saving.
+The overall net national saving rate in the budget surplus year of 1998 was 7.5 percent, significantly above the decade average for the 1990s, despite the fact that the personal saving rate fell.
+Since contractionary fiscal policy is at the heart of the national saving issue, it is natural to seek out budget procedures that promote saving.
+One, used by many national governments and most American states, is the convention of separating accounts into a current and capital budget.
+There would normally be restrictions against borrowing on current account, but not against borrowing to finance capital investment.
+While there have been arguments that the U.S. federal government should use a capital budget, such a change is unlikely to help promote saving in the present environment.
+One problem is that the federal government does remarkably little direct investment spending, so the current budget deficit or surplus would differ little from the overall deficit or surplus.
+And, at the present time the main policy issue is that the current budget is likely to run a surplus, in which case restrictions against current deficit spending would be irrelevant.
+Countries that have come upon large petroleum resources have hit on another contractionary budget procedure.
+They have often devoted the resources to a special trust fund, insuring that the rise in income does not translate to a rise in consumption.
+For many years the United States has had a budgetary device that operates in a similar manner, involving its Social Security trust fund.
+While generally considered within the federal budget, Social Security has operated as a budget within a budget--being financed so that current and future payroll tax revenues are sufficient to cover the current and future benefits scheduled under present law, looking ahead for the next 75 years.
+Several times in the past two decades this long run actuarial budget constraint for Social Security has been responsible for cuts in future benefits to bring the forward-looking Social Security budget into long term actuarial balance.
+Many have argued for strengthening this separation by removing Social Security altogether from the federal government's budget.
+In his proposed budget for year 2000 and beyond, President Clinton came up with another way to promote national saving, ironically by reducing the segmentation between Social Security and the rest of the budget.
+He proposed making general revenue transfers out of the anticipated general budget surplus and to the Social Security trust fund.
+The idea is similar to the special trust fund employed by oil producing countries.
+While such a move may make for more responsible general budgets, one wonders what happens on the other side of the transfer.
+Since Social Security's long term budget constraint has been responsible for significant forward benefit cuts, it may not be as feasible, or as easy, to make these cuts in future benefits if there is now the tradition of making general revenue transfers to fill Social Security's revenue gaps.
+What may encourage national saving in one budget may discourage it in another.
+While these budget structures are interesting and potentially worth exploring, my own view is that they are not likely to work in the United States.
+To me, a capital budget is unlikely to solve any problems and the arrangements involving the Social Security trust fund are best left alone.
+In the end, I believe that the way to promote the desirable fiscal goal of raising national saving is simply to argue for it.
+Paying down the national debt reduces interest costs and adds to long term fiscal flexibility.
+The implicit rise in saving also generates new funds for raising investment, adding skilled jobs and raising living standards in the long run.
+One would hope that these benefits could be defended in their own right.
+Monetary Policy Previously we saw that it often makes sense to use monetary policy for stabilization purposes.
+Precisely how is this to be done?
+The textbook way of thinking about monetary policy still runs in terms of quantities.
+The central bank operates so that some measure of the money stock or liquidity grows in some relation to the desired growth in real output.
+But the sharp changes in money velocity in the early 1990s have changed many economists and central bankers from being money quantity watchers to being interest rate watchers.
+Rather than trying to guess the optimal rate of monetary expansion, many analysts now focus directly on interest rates--should they be lower, higher, or the same?
+John Taylor has worked out a simple way of thinking about this question.
+Under what is known as the Taylor Rule, monetary authorities first determine an equilibrium level of a target interest rate, say the real federal funds rate.
+The authorities can then adjust the actual funds rate relative to this equilibrium rate depending on inflation relative to its target, and unemployment relative to its target.
+If, for example, inflation were above its target and unemployment were close to its target, monetary authorities would raise the real funds rate above its equilibrium value.
+While Taylor's Rule provides a useful framework for policymakers to think about policy, as an operating rule it too is beginning to encounter empirical difficulties.
+The Taylor Rule requires precise point estimates of the equilibrium real funds rate and targets for inflation and unemployment.
+None of these estimates is easily come by.
+The equilibrium real funds rate is difficult to estimate, and may change with productivity growth and national saving rates.
+On the inflation side, there are a number of different price indices, any of which could be used as a target.
+All of these indices can tell different stories about whether or not inflation is heating up, and there are a number of measurement problems with the Consumer Price Index, the most widely watched of these measures.
+On the unemployment side, the fear that inflation will accelerate if unemployment drops below an estimated natural rate has at this point proven groundless--inflation has not accelerated when unemployment has remained in a zone that would have been felt to be well below the estimated natural rate.
+Over this recent period the Taylor Rule would have called for higher federal funds rates to raise unemployment, a policy change that may well prove to be unwarranted when the final history is written.
+One ad hoc remedy would be to drop the unemployment term, the one that seems to be giving trouble, from the Taylor Rule.
+Less drastically, the policy weight on the inflation term might be raised and that on the unemployment term lowered.
+In these cases the Taylor Rule comes very close to an inflation-targeting rule, which indeed many economists have also advocated.
+But there is uncertainty about more than the unemployment target, and there may be an even better way to modify the Taylor Rule.
+Whenever there is doubt about the point estimates of the equilibrium funds rate, the inflation target, or the unemployment target, the Taylor Rule can be converted to a change rule.
+If levels of inflation and unemployment seem to be at least within their target bands, if not at unknown point estimates of the target, monetary policy can just try to keep inflation and unemployment in these desirable bands.
+Policy would respond only when movements in the economy threaten to take inflation and/or unemployment out of their preferred bands.
+Solving a standard model of the macro-economy, such a policy would effectively convert monetary policy into what might be called "speed limit" form, where policy tries to insure that aggregate demand grows at roughly the expected rate of increase of aggregate supply, which increase can be more easily predicted.
+This version of the Taylor Rule goes back to the spirit of Martin's initial remark, where the monetary authority is happy with the cocktail party temperature at present but moves against anything that increases its warmth.
+Should demand growth threaten to outrun supply growth (the party to warm up), the seeds of accelerating inflation may be planted and monetary policy should curb the growth of demand by raising interest rates.
+Should demand growth threaten to fall behind supply growth, rising unemployment is probably in the works, and monetary policy should try to boost the growth in demand by lowering interest rates.
+As long as inflation and unemployment remain in the acceptable band, this change version of the rule simply tries to maintain a good thing, without requiring precise quantification of inflation and unemployment policy goals.
+This approach has not addressed the question of supply shocks, which are dealt with in the general formulation of Taylor's Rule.
+But one can incorporate supply shocks into the change rule as well.
+If there are temporary supply shocks that do not seem likely to be incorporated into the broader inflation process, they should be ignored.
+If there are positive or negative shocks that do seem likely to be incorporated, the change rule may not work well, and one may have to go back to the general form of the rule.
+Policy Strategies This all amounts to what might be considered a stabilization policy strategy.
+Given the flexible exchange rate regime, fiscal policy should be used to influence overall national saving, which is still lower than it has been for most of the postwar period for the United States.
+I personally would argue for a rise in national saving, especially in view of the likely increase in future government entitlement spending.
+But I would not argue for any of the recently suggested changes in budget procedures that are alleged to help in this process.

@@ -1,0 +1,90 @@
+These summits are highly valuable as a forum for sharing information and fostering a shared sense of purpose.
+Today, I would like to reinforce the importance of the Year 2000 challenge, describe some of the work of the Joint Year 2000 Council, and suggest some actions that you might wish to undertake in order to help your firms, your countries, and the world to prepare for the century date change.
+Year 2000 Challenge in the Context of Current Financial Turmoil In the past weeks we have heard much about the current challenges facing the global financial system.
+National economies and international capital markets are facing turmoil, with liquidity and risk being repriced rapidly.
+Recession is impacting significant numbers of nations, and even the world's strongest economies are facing unusual threats to continued healthy growth.
+These uncertain economic times create a difficult backdrop for keeping the appropriate level of focus on long-term challenges, such as the Year 2000 problem.
+Without in any way diminishing the importance and urgency of the immediate financial challenges, I do want to emphasize the importance of giving continued attention to the challenge of completing preparations for the Year 2000.
+This may seem like a somewhat archane topic to discuss as world financial markets struggle to right themselves.
+However, the current global financial upset has reminded us that the world is truly interdependent and that counterparty and country risks can be, and are, reevaluated quickly.
+An exchange rate problem that started in a small economy in Southeast Asia has, within a little more than one year, created a contagion that may potentially impact the growth performance, as well as financial performance, in the most highly developed industrial economies.
+Similarly Year 2000 problems, if not addressed, remedied and planned for, can have unexpected spillover effects.
+Because of this interconnectedness, it is most urgent that we complete our Year 2000 preparations and provide full information to the public so that markets are not surprised and can operate as smoothly as possible during the crossover to the new century.
+It is natural to turn attention to the immediate and very real financial problems; but those in this room, and many others, can provide an important service by remaining attentive to the important task that we face in preparing for the century date change.
+Interaction between Year 2000 and the Euro The current economic backdrop is not the only challenge facing those of us with a focus on the Year 2000 challenge.
+Most countries represented here today are also making a significant investment in preparing for the introduction of the euro.
+While the introduction of the euro is an event to be welcomed by market participants, it does raise several interesting challenges for Year 2000 preparations.
+First, of course, is the contention for scarce IT resources and the issue of whether there are either "economies of scope" in these two projects or at least a benefit in "learning by doing."
+The overlap between the two problems and two technical solutions is not as great as many would like.
+At the narrowest level, they involve different approaches to the technical solution.
+More generally, the testing approaches are different, with the euro relying on operational testing and Year 2000 being more of a technical test.
+Finally, Year 2000 involves embedded systems while the euro will not affect systems with embedded chips in most cases.
+There may also be contention for another limited resource, which is top management attention.
+Year 2000 was initially considered a technical problem, which many managers may have thought could be best handled by technicians.
+The euro conversion is obviously a business issue, which entails strategy and is more accessible to the well-informed senior manager.
+More importantly, the euro may be seen by some as having revenue potential that comes from offering new services ahead of competitors.
+Year 2000 may offer some revenue opportunities, but it is probably most correctly perceived as a cost concern for many senior managers.
+Both conversions must be managed as business issues because of the significant risks they both pose to operations.
+Some commentators may have created another, false, relationship between these two technical challenges by suggesting that the Year 2000 problem is a creation of some that want to distract attention and resources from the euro.
+I know of no responsible person who would create the need to spend the large sums necessary to prepare for the century date change or risk other disruptions for the purpose of diverting attention from a legitimate and beneficial effort of creating a common currency for a major economic region.
+In addition, computer professionals have known of this problem for years and are, I believe, universal in recognizing its importance.
+However, the story is more complex than these elements of resource contention; there are some benefits from having these two major systems changes in close proximity.
+First, we can all learn about the importance of cross-firm coordination in tackling these systems issues in the new era.
+In addition, there will be learning on how best to perform contingency planning for these cross-firm, cross-border events.
+Finally, the euro-conversion experience may be seen as a leading indicator for the Year 2000 weekend that will follow a year later.
+If things proceed well, many may interpret that as lessening the pressure, and efforts to prepare for Year 2000 might appear to have a lower priority.
+If euro conversion is not as seamless as expected, the perceptions of Year 2000 risk will likely increase, possibly leading to excessive concern and overreaction.
+It will be incumbent upon knowledgeable and balanced commentators to assess the situation coolly and point out appropriate similarities and differences between the two events.
+Disclosure and Transparency One way in which we can all ensure that balanced and rational discussion prevails is by adequate disclosure and transparency.
+The lack of adequate information on Year 2000 preparations by firms and countries is a significant concern because, as we have seen recently, lack of information may feed negative perceptions in the marketplace.
+The interdependence of financial institutions, markets and payments systems, and the overall dependence by firms on the readiness of the public infrastructure, make it very important for firms and countries to share information on the status of plans and preparations.
+The Year 2000 problem could potentially lead to a cross-border reassessment of counterparty and country risks similar to that occurring now.
+Unless we continue to make steady progress in preparing for the century change and communicate clearly how we are doing, we may experience what I call the "Year 2000 shadow" in the financial markets.
+Financial market participants, and entire countries, may find that capital will become scarce, or at least dear, if they are not seen to be making sufficient progress toward resolving this problem.
+The uncertainty surrounding preparedness for Year 2000 may make markets less liquid as institutions seek to insulate themselves from risk with counterparties who are thought to be unprepared.
+The financial cost of this is not clear, and I am not one of those forecasting recession as a result of a Year 2000 slowing, but we know from recent events that a flight to liquidity can have severe repercussions in the real economy.
+In the United States, legislation has recently been passed by Congress to protect firms that share information in good faith on the status of their Year 2000 projects.
+In July, the U.S. Securities and Exchange Commission issued new guidance for publicly traded companies requiring them to disclose information regarding the scope of their Year 2000 problem and the status of their Year 2000 readiness.
+These actions are intended to prompt firms to be more forthcoming in providing information so that firms and investors may respond appropriately.
+While disclosure rules like those mandated by the SEC are a positive development, the Year 2000 process itself is constantly evolving, so formal disclosures will almost certainly be months behind the marketplace in accessing the status of firms.
+Voluntary disclosure, therefore, must form an integral part of plans.
+Firms that are forthcoming and disclose their status in forums like the Global 2000 meetings set an example for other firms in their countries and provide the marketplace with vital information.
+In the United States, the oil and gas industry associations recently surveyed their members on the status of company readiness.
+While the survey revealed that 45 percent of the respondents are still in the assessment phase, there has been no negative reaction in the marketplace or in the public press to the information.
+One probable reason for this reaction is that the survey and public disclosure conveys a message that companies have recognized the risks and have implemented programs and resources necessary to address the Year 2000 problem; information is reassuring.
+The Joint Year 2000 Council The Joint Year 2000 Council is providing a complement to these private sector efforts.
+We do not represent the global "official sector," but we are attempting to coordinate and share information among the world's financial regulators.
+To that end, we have issued a number of policy papers to provide regulators with a strong sense of better practice.
+The Council also provides information through a bulletin and a website.
+We also plan to sponsor a series of regional meetings before the end of the year to bring together regulators at a regional level to discuss progress and to provide solutions to challenges.
+Finally, we have held conversations with senior members of the private sector who are members of our External Consultative Committee to impress upon them the important role that they play in making these preparations.
+Early in its life, the Joint Year 2000 Council issued a statement emphasizing the importance of each country's developing a national Year 2000 strategy, including having senior government coordination.
+In the United States we have created a President's Council, which is one example of government coordination of Year 2000 preparations.
+This has been a particularly useful tool for allowing further information sharing and disclosure, as well as speeding preparations.
+In spite of these efforts and examples of good practice, some countries will probably not be as prepared as we would hope.
+Time will run out for a few; however, that should not stop all countries and firms from continuing their best efforts.
+It is never too late to start the remediation process, focused in the first instance on the most critical systems, and working diligently to seek the highest level of preparation possible.
+The risks of some disruption to international trade and financial markets are certainly not negligible, but those risks can best be handled by continued hard work and by planning for current and likely contingencies.
+Plan of Action As we move forward, I would like to suggest some steps we can all take.
+First, you and your colleagues are critical in continuing to build awareness within your financial and business communities and within your countries, about the importance of focusing on the Year 2000 so this event does not become the next crisis impacting financial markets.
+Second, some governments do not yet fully appreciate the magnitude of the Year 2000 problem.
+The Joint Year 2000 Council has an active program to raise awareness among financial regulators worldwide and to share information on important Year 2000 tasks.
+You can assist these efforts by raising the topic with political and regulatory leaders in countries in which your firms are active and providing your market-based sense of the risks.
+Third, I believe that accurate and timely information is the best antidote to the misinformation that is likely to spread as we get closer to the critical dates.
+I would, therefore, strongly encourage the efforts like those currently underway by Global 2000 to obtain voluntary disclosure of information about the status and readiness of firms.
+I expect that market participants and the public at large will start to expect more information, and those that do not disclose face the risk of being considered unprepared for the Year 2000 transitions, raising business viability and even systemic concerns.
+Fourth, the "dependencies" in the public infrastructure that we all have, namely telecommunications, power, and water, need further attention.
+This is a vital link that is becoming increasingly obvious.
+I would encourage you to have conversations with your utilities and telecommunications providers, and with appropriate regulatory authorities, about preparedness of the industries that are vital in operating the public infrastructure.
+Utilities have been particularly cautious in explaining their preparedness.
+More disclosure from them would be useful.
+Finally, an important and responsible part of any project includes contingency planning.
+Contingency planning should be recognized as a legitimate exercise, not an admission that you expect failure in the core effort of preparing for Year 2000.
+Conclusion In closing, let me say that we have achieved much in the past few months.
+The level of awareness and appreciation for the seriousness of the risks posed by the Year 2000 is growing every day.
+For example, despite many competing issues and concerns, the Year 2000 was addressed during the recent meetings of the IMF and World Bank.
+The Joint Year 2000 Council is committed to accomplishing its goals of sharing information and helping supervisory authorities perform their duties.
+We also remain committed to work with our colleagues in Global 2000 as they encourage the private-sector to take responsibility for their preparations.
+We must also continue to work hard to encourage governments and companies that provide public infrastructure services to prepare for the Year 2000.
+Finally, we should all encourage disclosure and sharing of information by firms and governments.
+I am confident that the current business and technical headlines, whether they regard international financial contagion or euro conversion, will continue to receive the appropriate level of private-sector and official attention.

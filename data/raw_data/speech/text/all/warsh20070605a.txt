@@ -1,0 +1,132 @@
+New financial instruments and changing models of financial intermediation are having a profound impact on global financial markets.
+London, home to one of the worldâ€™s fastest growing and much admired financial centers, represents a most appropriate venue to discuss these changes.1 During the past few decades--particularly the last few years--we have witnessed an escalating supply of new financial instruments scarcely able to match surging demand.
+Through the technique of unbundling risks--dividing them by category and tranche--financial instruments proliferated to enable risks to be borne by those most willing to accept them.
+And with the benefit of ample liquidity, which I described in previous remarks as broadly equal to confidence, financial products quickly found deep markets, ensuring robust trading.2 Indeed, liquidity-fueled innovation has made markets substantially more â€œcompleteâ€--that is, more risks are more readily priced and traded without significant diminution in value than in prior periods.3 The concept of â€œcomplete marketsâ€ is, in my view, a useful, aspirational, and theoretical construct, even though perfectly complete markets, in which every agent is able to costlessly trade claims on every state of the world, represents an unachievable goal.
+After all, the fundamental departures from the complete markets paradigm--transactions costs and asymmetric information--will never vanish.
+Nevertheless, in these heady times, one wonders whether some market participants may treat recent developments as a testament to an all-but-assured path to complete markets.
+In my remarks today, I will discuss how liquidity and financial innovation are making markets more complete--or more precisely, less incomplete--than in earlier periods.4 I will also describe how the acceleration toward complete markets conflated the roles among financial intermediaries.
+Finally, I will consider the possible consequences should this trend toward complete markets be slowed or upended by some form of negative liquidity shock.
+Financial Intermediation: Remembering the â€œGood Old Daysâ€Broadly speaking, intermediaries facilitate the transfer of capital and risk between borrowers and savers.
+The case for financial intermediation rests on two premises: (1) borrowers hold superior information about their own financial condition and prospects than prospective providers of capital; (2) the search and screening costs to match creditors and debtors without the services of trusted third parties are prohibitive.
+The history of financial intermediation, thus, is the story of individual types of institutions--FDIC-insured commercial banks, SEC-registered broker dealers, Federal Reserve-supervised holding companies, just to name a few--adapting their products and practices to meet customer demands.
+Traditionally, commercial banks played critical roles as principals in the financial intermediation process.
+Community banks today--to a somewhat greater degree than their larger money-center brethren--most clearly retain the traditional commercial banking approach to financial intermediation.
+Community banks finance relatively opaque entities, such as private companies and households.
+They raise funds primarily by issuing demand deposits.
+They deploy capital by underwriting loans, monitoring borrowers, and retaining some loans in portfolio as long-term investments.
+Of course, when banks originate and hold loans, they internalize the costs of their own underwriting standards, and so have strong incentives to screen borrowers and enforce contractual covenants, as appropriate.5 Investment banks also served important roles in financial intermediation.
+Somewhat unlike commercial banks, investment banks traditionally acted more as agents, distributing, rather than holding, most of their resulting exposures.
+They focused predominantly on the business of underwriting; that is, helping firms gain access to the public securities markets.
+In this role, investment banks added value to the intermediation process, in part, by de facto certification of a companyâ€™s operations, practices, and prospects.
+As repeat players in the underwriting business, investment banks sought to maintain prudent underwriting standards to bolster their reputations as effective screeners of companies.
+In so doing, they built significant value in their distribution networks.
+Financial intermediation has also long been provided by less-regulated institutions.
+For decades, relatively high net worth, sophisticated investors formed private pools of capital to invest their funds.
+To allow flexibility in their investments, these pooled investment vehicles were structured to be exempt from regulation as investment companies.
+Reflecting the nature of the investor base, these informal pools often sought to gain exposure to asset classes to diversify their portfolios.
+These traditional roles of financial intermediaries seem, somehow, oddly quaint in 2007.
+As I will next describe, financial intermediaries have been transformed by their own actionsâ€‘â€‘their massive investments in human and technological capital to develop new financial productsâ€‘â€‘and by the worldwide rise in liquidity that has added depth and resiliency to the markets for these new products.
+The Brave New World: Massive Financial Innovation and Ample LiquidityNo single statistic can put the recent surge of financial product and market innovation into perspective.
+I will, however, cite a few illustrative indicators.
+The value added by the U.S. financial sector gives a rough sense of the effect these innovations have had on the U.S. economy.
+In 1960, financial services accounted for about 3-1/2 percent of U.S. gross domestic product.
+By 2006, that percentage had more than doubled.
+Securitized products are one important area of product and market innovation.
+Of the $3.6 trillion in net borrowing in U.S. credit markets in 2006, $820 billion, or nearly one-fourth, was securitized.
+As of year-end 2006, roughly 30 percent of the outstanding balances of corporate bonds and household credit resided in asset-backed securities.
+In addition, use of derivative products has soared; the notional amount of interest rate swaps and options has tripled in the past four years to nearly $300 trillion.
+The notional amount of credit default swaps has almost quintupled in only two years, from $6.4 trillion outstanding in 2004 to $29 trillion in 2006.
+Product and market innovations, such as these, have contributed to the high degree of liquidity found today in global financial markets.
+As I have discussed in prior remarks, â€œliquidityâ€ in the sense of â€œtrading liquidityâ€ reflects the ability to transact quickly without exerting a material effect on prices.
+Underlying this concept is the fact that although the many buyers and sellers have different views on the most likely outcomes, the distributions of possible outcomes for which they demand risk-based compensation can be quantified.
+Liquidity exists when investors are confident and willing to take risks.
+Liquidity, then, can be viewed as confidence on the part of buyers and sellers of securities.
+By disaggregating a security into its constituent risk components, financial innovation can unlock this liquidity.
+Strong global economic performance provides another important support for the high liquidity and levels of confidence in todayâ€™s capital markets.
+Many economies have achieved a marked reduction in the volatility of real output and core inflation in the past twenty years or so.
+Liquidity can flourish if investors interpret strong performance to mean that future economic outcomes will be benign and that â€œtailâ€ realizations are either highly improbable or, at the very least, quantifiable and, hence, can be traded upon.6 There is little doubt, then, that liquidity in most financial markets is high today and that investors seem willing to take risks, even at todayâ€™s market-prevailing prices.
+In the United States, term premiums on long-term Treasury yields are very low, corporate bonds appear to be nearly â€œpriced for perfection,â€ and stock prices are setting new records.
+Credit markets are highly accommodative for issuers, and the volume of loans to finance highly leveraged transactions is escalating rapidly.
+These prices, terms and credit conditions may reflect solid economic fundamentals--low output and inflation uncertainty, healthy corporate balance sheets, and corporate profits that exceed market expectations--and if so, they may help to ease the effects of fluctuations in liquidity should they occur.
+The prices and conditions may also reflect increased appetite for risk; or, far less auspiciously, they may be indicative of investor overconfidence.
+The Brave New World: More Complete Markets and Conflating Roles The powerful combination of liquidity and financial innovation has made markets seemingly more complete--that is, more risks are priced and traded without undue penalty owing to their unique nature or shallowness of the relevant financial market.
+Financial innovation, by definition, makes markets more complete by expanding the set of available types of securities and reducing transaction costs.
+And liquidity provides some degree of assurance that funds will readily flow into new structures and new securities.
+The benefits of more complete markets are three-fold.
+First, they allow firms and households to hedge a variety of risks, a considerable benefit when volatility is costly.
+Second, they make it more feasible for investors to fine tune the risk-return profiles of their portfolios.
+The concomitant reduction in risk premiums required by investors should reduce capital costs for all economic agents.
+Third, risks once held within the four walls of financial institutions are converted into tradable securities and distributed and dispersed to a broader base of institutions and interests.
+Liquidity and financial innovation have also led to a conflation of the roles played by financial intermediaries, themselves.
+Intermediation has moved increasingly to financial markets and away from regulated bank institutions.
+The core functions of financial institutionsâ€‘â€‘creating, distributing, and owning riskâ€‘â€‘have remained the same, but the type of firm performing the various functions appears to have changed dramatically.
+This conflation of roles has the potential to alter some incentives in the credit extension process.
+And these roles may well change with further product and market developments, and, not least of all, due to a potential ebbing of liquidity.
+First, consider the changing role of commercial banks.
+In the syndicated loan market, lead banks have increasingly distributed large shares of syndicated loans to other banks and institutional lenders, many in the form of collateralized loan obligations (CLOs).
+In addition, commercial banks in some cases now sell entire loans rather than retain them on their books.
+Indeed, they now securitize a variety of credit exposures, such as credit cards and mortgages, and sell them to structured entities.
+While banks still maintain large loan exposures, including most recently those for â€œequity bridges,â€ the increased trend to distribute rather than hold some residual risks is unmistakable.
+Second, consider the critical role played by investors purportedly with high tolerance for risk.
+A CLO structure does not in and of itself convert a pool of low-rated securities into tranches of high-rated securities through some form of alchemy.
+Rather, a class of investors must be willing to hold the most concentrated risks as residual claimants.
+Today, that role appears to be tailor-made for hedge funds, and sometimes the trading desks at leading investment banks.
+By serving as willing counterparties in a variety of contracts, these institutions, in my view, are serving as a critical linchpin in the development of more complete markets.
+Third, consider the evolving role of investment banks, no longer just originating and distributing primary securities, but increasingly owning assets in portfolio.
+The more traditional agent role surely provided an enviable advantage in gauging investor appetite for new securities.
+Similarly, their expertise in pricing public securities may have served them well in developing new financial products--so well in fact that they are increasingly creating and underwriting new securitized and risk-management products.
+As part of their modern-day underwriting role, investment banks sometimes hold (at least for a time) the residual or other tranches, of these new products.
+Even more recently, many one-time broker-dealers have increased their principal investing by serving as general partners of private equity funds.
+Changes in intermediation roles certainly raise potential challenges, though they may be alleviated somewhat by reputation and other market-based factors.
+The increased specialization of some commercial banks as originators and distributors--and less as long-term owners--of some loans may have lessened their incentives to screen borrowers, and to write and monitor loan covenants.
+Notably, this incentive problem may be more pronounced when they sell an entire loan, as in mortgage securitization programs, and less so when the bank retains some portion of the loan, as with syndicated loans.
+Moreover, in the subprime mortgage market, for example, some believe that investment banks that pool and structure loans might have insufficient incentives in some cases to effectively screen.
+After all, critics assert, a borrower walks into a commercial bank for a loan, not into the investment bank that packages and distributes the loan through a structured vehicle.
+Greater liquidity or confidence does little to mitigate these problems; indeed, it could exacerbate them if confidence begets complacency.
+For instance, if in liquid times, investors in structured products become complacent, they may not fully evaluate or accurately model the nature of the underlying assets in structured entities.
+Complacent investors also may be willing to buy new debt offerings that are light on traditional covenants if they come to believe that outcomes are assuredly benign.
+Moreover, without strong covenants on existing debt, firms can raise additional funds without triggering defaults, which may decrease defaults in the short run, but perhaps increase them in the long run.
+In these cases, this â€œglossâ€ of confidence could cause a misallocation of resources, if companies or consumers without compelling prospects for full repayment nonetheless readily obtain credit.
+We, as policymakers, should be careful, and indeed humble, in making definitive judgments in this fast-changing area.
+Investment banks and commercial banks with enduring reputations--and growing private pools seeking permanent capital--are wont to protect their credibility and financial strength, even in liquid market conditions.
+To the extent that investment banks hold portions of the equity or lower-rated tranches of the securitized pools, they have strong incentives to screen effectively.
+Moreover, evidence from secondary markets that suggests that investors differentiate securitized pools according to the identity of the originating banks, and not just by credit ratings, provides some comfort that traditional certification functions are at work.
+What Happens When Liquidity Falters?Of course, we as policymakers should be careful not to suffer from a failure of imagination in considering the causes and consequences of an unexpected negative shock to liquidity.
+(Surely, financial innovators have not suffered from a lack of imagination.)
+Indeed, we must ask ourselves what may happen when liquidity falters.
+Well, consider the consequence if stock prices sold off globally, implied volatility jumped, and record trading volumes overwhelmed the trading capacity on the stock exchanges.
+Consider a spike in a measure of implied U.S. equity-market volatility so large that it would be in the top 1/2 of one percent of one-day changes in nearly a generation.
+Then, reflect on the likely divergence of opinions on the possible causes of such a rapid change in sentimentâ€‘â€‘perhaps it was a freefall in stock prices in a growing emerging-market economy, or escalating concerns about lending standards in some markets, or rapidly changing animal spirits eroding investor confidence.
+Well, it does not take a long memory to recall that this scenario played out for a few days in late February, a bit more than three months ago.
+As you all know, share prices quickly recovered, and implied volatility reverted to near-record low levels.
+What lessons can be drawn from such an episode?
+Perhaps because of more complete markets, shocks to liquidity are less likely to become self-fulfilling and less likely to impose more lasting damage.
+That hypothesis seems particularly credible when the shock is based neither on rapidly changing economic fundamentals nor a genuine breakdown in market infrastructure.
+In the recent episode, opportunistic capital apparently viewed large movements in asset prices as trading opportunities.
+Or, perhaps, striking as it was, we have not yet witnessed a scenario that subjects the latest product innovations and behavior of market participants to a sufficiently stringent stress test.
+Some highly-leveraged private pools of capital may be unable to ride out bouts of very high turbulence if they are compelled to sell assets to meet margin calls or withdrawals, and by so doing, amplify the initial shocks.
+The losses would be sharper and correlations would be higher for assets in which markets quickly become shallow.
+In theory, to the extent that more complete markets yield deeper, more robust asset markets and better-diversified positions, the dynamics of the disturbance should be more manageable.
+But, the question of actual experience versus theory remains.
+Of course, a reduction in liquidity rooted in economic fundamentals would likely be more protracted and beget far more serious consequences.
+In a period of sustained and diminished liquidity, it is indeed plausible that financial intermediaries could revert to their traditional roles, thereby likely worsening the efficiency and completeness of markets.
+In such a case, those who pine for the good old days and purported good old roles of commercial and investment banks might not enjoy the economic environment that accompanies their return.
+Even so, over the long-term, I remain a watchful optimist: Reductions in liquidity are unlikely to turn back the clock on financial innovation.
+The knowledge of how to bundle, distribute, and price risk cannot be erased from our collective memories.
+Nor can this knowledge be walled off from the rest of the world by one country or financial center.
+The culture of capitalism remains on the march.
+First-mover advantages are growing, even while the half-life of financial innovation is shrinking.
+The growth of competing financial centers around the globe is testament to the enduring power of financial innovation and the dynamism of financial intermediaries.
+In my judgment, while the completeness of markets will remain an elusive goal, and the depth and breadth of financial markets will invariably be tested in ways that punish the ill-advised and unprepared, the secular trend toward more complete markets is unlikely to abate.
+Cyclical variances, however, are far more difficult to predict with precision.
+Perhaps, then, we should consider the growth in financial innovation as being analogous to Mooreâ€™s Law, which has for more than a generation accurately predicted the growth in computing power of a transistor at constant cost.7 Neither Mooreâ€™s Law nor the development of new financial products is a mathematical or physical certainty based on some geometric extrapolation or law of the universe.
+Rather, it is an ex post description of that which already transpired, an occurrence caused by a healthy mix of investment in human and technological capital, a culture of capitalism, and sound regulatory and legal policies.
+As a result, meaningful erosion of any these core elements could impair the future evolution of financial products and jeopardize the continued development of markets.
+ConclusionInnovations in financial products and practices, combined with strong liquidity, have accelerated the trend toward more complete markets.
+These changes have altered the roles of traditional financial intermediaries.
+In so doing, the products and practices of financial intermediation have, in my view, forever changed.
+As for the financial intermediaries themselves, they will continue to evolve with changing economic and financial risks.
+Indeed perhaps some may retreat to the practices of an earlier era if liquidity falters.
+In this case, markets may, for a time, become less complete.
+However, I believe that the advances of intellectual capital and the culture of capitalism will likely continue to increase the ability of markets to transfer risk even as liquidity fluctuates.
+As policymakers, we should continually review the changing financial landscape.8 Our regulatory and supervisory responses should be as dynamic as the financial intermediaries and the products they proffer, while adhering to our long-standing objectives to promote financial stability, investor protection, and market integrity.

@@ -1,5 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"in recent years, increases in debit card interchange fee rates, together with the significant growth in the volume of debit card transactions, have led to a substantial rise in the total value of interchange fees paid by merchants.",LABEL_1,0.9990895390510559
-1,"moreover, critics contend that merchants are constrained from charging customers different prices for different payment methods.",LABEL_1,0.9395474195480347
-2,"these proposed network exclusivity and routing rules, along with the statutory provisions that provide merchants more flexibility to set differential prices based on method of payment used, could promote competition among networks and place downward pressure on interchange fees.",LABEL_0,0.660487174987793
-3,"on the other hand, consumers will benefit to the extent merchants pass on their interchange fee savings in the form of lower prices.",LABEL_0,0.9582828283309937

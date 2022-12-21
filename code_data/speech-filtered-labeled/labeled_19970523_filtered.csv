@@ -1,5 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"for example, as the relationship matures, banks typically reduce the interest rates charged and often drop the collateral requirements on small business loans.",LABEL_0,0.9987961053848267
-1,"i stick to predicting interest rates, gdp growth, and inflation -- items over which i have more control and inside information -- and i leave the banking forecasts to others!",LABEL_2,0.9985378384590149
-2,"even if small business borrowers are able to find financing after their bank fails, it may be at a higher interest rate and with additional collateral requirements until the new bank has had a chance to learn about the borrower's condition and prospects.",LABEL_1,0.9944151639938354
-3,"research has also suggested that high local-market deposit concentration may lead to reduced managerial efficiency, as the price cushion provided by market power allows a ""quiet life"" for managers in which relatively little effort is required to be profitable.",LABEL_2,0.8900859951972961

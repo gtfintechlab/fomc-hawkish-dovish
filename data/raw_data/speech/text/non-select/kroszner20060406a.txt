@@ -1,0 +1,112 @@
+Earlier this week I spoke at the European Central Bank, and I am honored today to be able to address this group at the London School of Economics (LSE).
+The global collection of top academics, key policymakers, and leading private-market participants in these audiences represents what I believe is vital in today's world: a strong spirit of international cooperation and understanding.
+I am also pleased about the forward-looking nature of the conference on "The Future of Financial Regulation" and would like to express special thanks to two of our hosts at the LSE who have had much first-hand experience at policymaking, Sir Howard Davies, formerly of the U.K.'s Financial Services Authority, and Professor Charles Goodhart, formerly a member of the Bank of England's Monetary Policy Committee.
+LSE certainly seems to have all of the bases covered!
+I will focus my remarks on the U.S. experience with removing restrictions on the geographic expansion of banking organizations because I believe that this experience is timely and important for current debates in the European Union (EU).
+Over the past year or so, the winds of nationalistic protectionism seem to have strengthened in Europe, especially with regard to cross-border mergers.
+The desire to impede cross-border integration has been expressed in quite a few EU countries and with respect to a number of different industries, including banking.
+Just a month ago, in commenting on this position in a speech at the LSE on "The Development of the European Capital Market," EU Commissioner McCreevy said, "Protectionism denies everyone in Europe the economic benefits of market integration--higher growth, and more jobs."
+And later in that speech, he said, "We have to get rid of the unfavorable and even disabling environment for conducting cross-border transactions.
+Some supervisors and governments play fair, regrettably others do not.
+"1 What I want to do in my remarks today is to focus on the economic consequences of removing cross-border barriers in banking to show that Commissioner McCreevy is correct: After the removal of barriers to the geographic expansion of banks, the United States experienced substantial gains in terms of banking efficiency, employment growth, and economic growth.
+Before I begin, I want to emphasize that much of my speech is based on research I conducted with Philip Strahan, of Boston College, before I joined the Federal Reserve Board.2 The views I express here today are my own and do not necessarily reflect those of my colleagues on the Board.
+Historically, banking in the United States has been subject to extensive government regulation covering the prices banks can charge, the activities they can engage in, the risks they can take, the capital they must hold, and the locations in which they can operate.
+But during the past thirty years, many restrictions on bank prices and activities in the United States have been lifted, including the restrictions on entry and geographic expansion.
+As barriers to banking expansion across borders have come down, the structure of the industry has changed dramatically.
+Geographic deregulation has spawned a substantial reduction in the number of banking organizations in the United States with, on average, virtually no change in concentration at the local level.
+In addition, the average number of distinct banking organizations operating in local markets--both urban and rural--is little changed.
+The total number of banking offices in the United States has risen steadily since the mid-1990s.
+Moreover, consolidation has produced important benefits for the banking industry, as many banks have become more diversified, less risky, and more efficient.
+A growing body of research provides evidence that geographic deregulation has provided substantial benefits to the broader economy as well (Levine, 2004).
+In the United States, economic performance improved after geographic deregulation, as evidenced by increases in the rate of state-level employment growth and the rate of new business formation.
+Geographic deregulation may also be associated with improvements in state-level economic stability.
+Volatility in the growth rates of employment declined, and the link between the health of local banks and growth in the local economy weakened.
+In my judgment, the U.S. experience with geographic deregulation provides some valuable lessons for the European Union, so let me turn to that experience now.
+Origins and Deregulation of Geographic Restrictions in the United States Restrictions on the geographic expansion of banks have a long history in the United States.
+Because the U.S. Constitution prevents states from issuing paper money and from taxing interstate commerce, the states used their power to grant bank charters to generate a substantial part of state revenues (Sylla, Legler, and Wallis, 1987).
+A state received no charter fees from banks incorporated in other states, so states prohibited out-of-state banks from operating in their territories--hence the prohibition on interstate banking originated in the states themselves and as a fiscal strategy rather than as a matter of optimal policy for banking and consumers.
+In addition, states restricted the ability of banks to expand geographically within their borders, effectively creating a series of local monopolies from which state governments could extract at least part of the rents.
+Some state legislatures even passed "unit banking" laws, which prevented a bank from having any branches at all.
+In 1927, the Congress passed the McFadden Act, which clarified the authority of the states over national banks' branching within their borders.
+Although some branching restrictions were removed in the 1930s, most states continued to enforce restrictions into the 1970s.
+Between 1970 and 1994, however, most states relaxed their restrictions on branching, typically in a two-step process.
+First, states permitted multibank holding companies to convert subsidiary banks (existing or acquired) into branches.
+The holding companies could then expand geographically by acquiring banks and converting them into branches of one of their existing bank subsidiaries.
+Second, states began permitting de novo branching, whereby banks could open new branches anywhere within state borders.
+Figure 1 describes the timing of intrastate branching deregulation across the states.
+In addition to limiting branching within a state, states prohibited cross-state ownership of banks until the 1980s.
+Although some banks attempted to circumvent the McFadden Act by building multibank holding companies with operations in many states, the Congress stopped them with the 1956 amendments to the Banking Holding Company Act.
+Starting in 1978, states began to pass "reciprocity" laws in which a state would allow entry by bank holding companies from other states if, in return, bank holding companies from the state were permitted to enter the other states.
+By 1992, all states but Hawaii had passed such laws.
+The transition to full interstate banking was completed with passage of the Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994, which effectively permitted banks and holding companies to enter any state (Kroszner and Strahan, 1999).
+Consequences of Deregulation of Geographic Restrictions Deregulation of restrictions on geographic expansion within the United States has led to a more consolidated, but not a less competitive, banking system--one that is increasingly characterized by better diversified and more-efficient banking organizations that operate across wider geographic areas.
+Moreover, this system has also has had positive effects on overall economic and employment growth.
+I believe that better cross-border integration of the European banking system would produce similar benefits in Europe.
+Structural Changes Let me begin by describing the effect of geographic deregulation on the structure of the banking industry itself.
+Figure 2 shows that the number of bank and thrift organizations--that is, holding companies and independent institutions--has fallen by more than half since the early 1980s, when states began to dismantle restrictions on geographic expansion.
+Much of this decline in the number of bank and thrift organizations is due to mergers and acquisitions, although some is also due to failures.3 Although consolidation is often a mechanism for eliminating excess capacity from an industry, such does not appear to be the case for the U.S. banking industry.
+Again as figure 2 illustrates, the number of bank and thrift offices was about the same in 1993 as it had been in 1984, and the number has increased steadily since 1993.
+Moreover, the rate of de novo bank formation resulting from new charters has been high, on average, since the early 1980s, another indication that the decline in the number of institutions and organizations does not reflect the removal of excess capacity.4 After passage of the Riegle-Neal act in 1994, the U.S. banking industry was transformed from a balkanized system, in which institutions operated locally or within a state, to a system that is increasingly integrated nationally.
+As shown in figure 3, the number of multistate organizations, defined as those with offices in more than one state, more than doubled from 1990 to 2005.
+Moreover, as figure 3 also illustrates, between 1990 and 2005 the share of offices located in a state other than the one in which the parent organization was headquartered rose substantially; currently, more than 37,000 such bank and thrift offices are in the United States.
+Clearly, a lot of customers are being served by banking facilities that are located outside the state in which the banking organization's main office is located.5 It is important to consider whether such dramatic structural changes had an effect on competition, particularly at the local level.
+Although concentration increased at the national level, a comparable increase in concentration at the local level has not taken place.6 Figure 4 illustrates the local market effects: For both urban and rural markets, the average Herfindahl-Hirschman index (HHI) based on bank and thrift deposits, a commonly used measure of concentration in local areas, remained basically unchanged from 1990 to 2005.7 Patterns in the average number of bank and thrift organizations operating in local markets tell a similar story, as shown in figure 5.
+The average number of alternatives available to the many banking customers that rely on local institutions has remained remarkably constant in rural markets over the past fifteen years and has been quite stable in urban markets since the mid-1990s.
+The many customers--primarily households and small businesses--that rely on local banks and thrifts for financial products and services have not been harmed by structural changes in the industry.
+The consolidation of the banking system has involved mergers across local areas as well as within a single area (Pilloff, 2004).
+Antitrust policy in the United States has also likely contributed to the absence of a change in concentration in local urban and rural markets because mergers that would have significantly increased concentration at the local level were discouraged or were permitted only on the condition of appropriate divestitures.
+Effect on Efficiency and Pricing in the Banking Sector I would now like to turn to the effect of geographic deregulation on efficiency and pricing in the banking sector.
+Regulatory changes appear to have led to meaningful improvements in the efficiency of banks, reductions in costs, and reductions in the prices of banking services.
+Studies show that non-interest costs, wages, and loan losses all declined in the aftermath of branching reform (Jayaratne and Strahan, 1998; Black and Strahan, 2001).
+These cost reductions led, in turn, to lower prices on loans, although deposit interest rates changed little.
+The mechanism for this improved performance seems to be changes in the market shares of banks after geographic deregulation (Stiroh and Strahan, 2003).
+Before regulatory reform, well-run banks faced binding constraints on the markets in which they could operate.
+When these constraints were lifted, however, assets were reallocated toward more-profitable banks as they gained the opportunity to increase market share, largely by acquiring less-profitable banks.
+The consequences of these healthy competitive dynamics are shown in figure 6, which portrays the average share of assets held by banks with above-median profits (or, for short, the "high-profit share of assets").
+In 1980, before geographic deregulation, the high-profit share of assets in the sixteen unit-banking states (those that did not permit any form of branching) was much less than the high-profit share in the twelve states that have permitted branching since the 1930s or earlier.
+This difference disappears completely by 1994.
+By then, the unit-banking states had permitted within-state branching, thus allowing more-profitable banks to dominate the industry.
+The Real Economic Effect of Geographic Deregulation beyond Banking The consequences of a more efficient banking system can go beyond the banking industry to affect the real performance of the economy as a whole.
+It has been argued that efficient financial systems promote innovations; hence, better finance leads to faster growth (Schumpeter, 1969).
+This argument has been countered by assertions that the causality is reversed; economies with good growth prospects develop institutions to provide the funds necessary to support those good prospects (Robinson, 1952).
+In other words, the economy leads and finance follows.
+Recent theoretical developments have fleshed out two ways that good financial systems can lead to growth.
+Financial markets can matter by affecting the volume of savings available for investment and by increasing the productivity or quality of that investment.
+These theories show that an improvement in financial market efficiency can act as a lubricant to the engine of economic growth, allowing that engine to run faster.
+Of course other factors, including sound monetary and fiscal policies, remain critical; but it seems increasingly clear that well-functioning financial markets are also a central factor.
+Empirical research provides support for the view that financial market development can play an important role in driving long-run growth.
+For example, one study finds evidence of a positive correlation between the size and depth of an economy's financial system and its future growth in per capita real income (King and Levine, 1993).
+Although this evidence is appealing, it cannot rule out the possibility that financial development and growth are simultaneously driven by some common factor, such as good political or legal institutions, that may be difficult to fully hold constant in the empirical analysis.
+Other studies attempt to answer this criticism by exploiting cross-industry differences in financial dependence within a country, thereby holding constant those factors specific to a country.
+These works suggest that in countries with well-developed financial markets, industries that require more external sources of financing for their investment (that is, the "financially dependent") tend to grow faster than "cash cow" industries (that is, those that can finance investment with internally generated funds).8 Other research that I have been involved with examines the consequences of banking crises across different types of industries.
+In particular, this work finds that bank crises have a disproportionately negative effect on financially dependent firms in countries with well-developed financial systems: In such systems, the financially dependent firms grow faster in normal times but are hit harder in crisis times, a difference suggesting that the banking system plays a critical role in overall economic performance (Kroszner, Laeven, and Klingebiel, forthcoming).
+The state-by-state deregulation of branching and banking restrictions provides a useful laboratory for investigating the effect of better banking on economic growth.
+Because states share a common legal system and broadly similar institutional environments, we can investigate the response of the state economy to policy changes that lead to more-efficient finance.
+A number of studies give a consistent answer: State economic performance measured in a variety of ways improves after the deregulation of geographic restrictions on banking (for example, Kroszner and Strahan, 2006; Stiroh and Strahan, 2003; Black and Strahan, 2001; Jayaratne and Strahan, 1998; and Jayaratne and Strahan, 1996).
+These results have important implications for the policy debate in Europe and around the globe.
+First, after controlling for other factors, data on state-level economic performance over the period 1972 to 1992 suggests that state-level branching deregulation spurred faster economic growth (Jayaratne and Strahan, 1996).
+Second, evidence from 1976 to 1994 shows that state-level employment growth accelerated after the deregulation of intrastate branching as well as after the deregulation of interstate banking (Kroszner and Strahan, 2006).
+Third, if more competitive banking really spurs growth, we would expect particularly large benefits among relatively bank-dependent sectors of the economy, such as small firms or entrepreneurs.
+In work with Strahan, I have found that the rate of new business incorporation increases significantly after branching deregulation (Kroszner and Strahan, 2006; Black and Strahan, 2001).
+Moreover, the magnitude of the effects of geographic banking reform on entrepreneurial activity are larger than their effects on the overall growth of employment.
+This differential effect makes sense because bank credit is most important in financing small businesses that do not have access to public securities markets; the effect suggests that the reason that growth accelerates after geographic deregulation is that credit supply to the entrepreneurial sector expands.9 Fourth, a more efficient and diversified financial sector might have an important effect on overall economic stability.
+The expected effect of banking integration on business cycles is theoretically ambiguous, however.
+On the one hand, shocks to the local economy and local banking system may become less destabilizing when banks are well diversified and operate across many markets.
+On the other hand, some commentators have raised concerns that negative shocks to the local economy might be destabilizing after integration because, for example, multistate banks can move capital elsewhere.
+Recent empirical evidence suggests that the former effect dominates, as state-level economic volatility appears to decline with interstate banking deregulation.10 This finding of better state-level economic stability after geographic deregulation may reflect the fact that state economies became more insulated from shocks to their own banks.
+In a non-integrated banking system, such as the one we had in the United States before the 1970s, shocks to bank capital lead to reductions in lending, thereby worsening local downturns.
+In contrast, with integration, a state can import bank capital from other regions when its banks are down, thus continuing to fund projects with a positive net present value.
+According to this explanation, the correlation of local measures of economic performance or loan availability with the financial capital of local banks ought to weaken with geographic deregulation and integration.
+Recent evidence seems to support this idea (Kroszner and Strahan, 2006; Morgan, Rime, and Strahan, 2004).
+Before the advent of geographic deregulation, there was a nearly one-to-one correspondence between state-level loan growth and state-level bank capital growth.
+This link weakened significantly after interstate deregulation.
+Similarly, we also observe a weakened correlation between the growth of local employment and that of local bank capital, although the effect is less dramatic than the effect on loan growth.
+In short, banking integration appears to have salutary effects on business cycles by insulating the local economy from the ups and downs of its local banking system, and vice versa.
+Lessons for Europe As I mentioned at the beginning of my remarks, I think that the U.S. experience with the change in its banking structure holds potentially valuable lessons for Europe.
+In my view, if Europeans can prevent nonprudential, noncompetitive, political concerns from impeding cross-border, intra-European bank mergers, then Europe will be likely to enjoy benefits similar to those enjoyed in the United States when interstate banking restrictions were removed.
+To recap, these benefits are likely to be greater banking efficiency (as more-efficient banks acquire less-efficient banks) and greater diversification of banks higher economic and employment growth, spurred by more-efficient and more-diverse banks more entrepreneurial activity, as the more bank-dependent sectors of the economy, such as small businesses and entrepreneurs, achieve greater access to credit reduced economic volatility, as the increase in their geographic diversification and efficiency allows banks to increase their portfolio diversification Barriers to Greater Banking Integration in Europe Of course, some of you may be thinking that I am overlooking significant structural obstacles to cross-border mergers in Europe and that such obstacles may make such integration less beneficial, on net.
+I have, however, already mentioned what I view as the largest obstacle--political opposition, which makes integration less likely to happen (but not less beneficial when it occurs).
+I hope that I have given pause to opponents of such integration by pointing out the benefits that the United States has reaped from reducing geographic restrictions on banking.
+Another obstacle is posed by differences in language and culture, which are clearly greater across European countries than they are across U.S. states, and these differences can create nonregulatory barriers.
+I have no easy answers for reducing such barriers.
+However, I would point out that a few truly global banks seem to have succeeded in overcoming them.

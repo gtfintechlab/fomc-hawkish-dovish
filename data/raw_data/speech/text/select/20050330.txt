@@ -1,0 +1,123 @@
+Nineteen men and women--the seven members of the Board of Governors and the Presidents of the twelve Reserve Banks--gather in Washington eight times each year to participate in FOMC deliberations on the course of monetary policy.1 If necessary, the FOMC can also convene by conference call between regularly scheduled meetings.
+The FOMC's decisions are guided by the dual mandate given to the Federal Reserve by the Congress, which enjoins the Committee to use its powers to pursue both price stability and maximum sustainable employment.
+To achieve its mandated objectives, the FOMC must influence the course of the U.S. economy, helping it to grow rapidly enough to make full use of available resources but not so rapidly as to stoke inflation.
+How, specifically, does the Committee exert this influence?
+The person in the street might tell you that the Fed "controls interest rates."
+That statement is not literally accurate.
+In fact, the Fed has little or no direct influence over the interest rates that matter most for the economy, such as mortgage rates, corporate bond rates, or the rates on Treasury securities.
+Instead, the Fed affects these key rates, as well as the prices of financial assets such as stocks, only indirectly.
+Since many of you plan to work in the financial markets, I thought that you might find it interesting to hear some of the details of how U.S. monetary policy is actually implemented and how policy decisions affect asset prices and yields.
+I will begin by discussing how the Federal Reserve influences the federal funds rate, the one market interest rate over which it has fairly direct control.
+I will then discuss the effects of changes in the federal funds rate on the asset prices and yields that matter the most for economic activity and inflation.2 Monetary Policy and the Federal Funds Rate Broadly speaking, the Federal Open Market Committee's principal task is to determine the degree of financial stimulus needed to steer the economy onto a desirable path and then to set monetary policy so as to provide that amount of stimulus.
+"Financial stimulus" is not a precisely measured concept, but in general, financial conditions are stimulative to the extent that the asset prices and yields prevailing in financial markets induce households and firms to spend more freely.
+For example, low mortgage rates promote increased spending on new homes, low auto-financing rates tend to increase the sales of new cars, and low corporate bond yields and high stock prices generally induce firms to invest in new capital goods, such as factories and machines, at a faster pace.
+When the economy is growing too sluggishly to fully employ its capital and labor resources, and if insufficient aggregate demand is the cause of slow growth, increased financial stimulus can help return the economy to full employment by expanding the aggregate demand for goods and services.
+Similarly, if the economy is growing at an unsustainably quick rate, more-restrictive financial conditions (in the form of higher mortgage rates, auto financing rates, and corporate bond rates, for example) can help to restrain spending and reduce the risk of an inflationary overshoot.
+Although the FOMC's ultimate objective is to provide the appropriate degree of financial stimulus to the economy, the Committee has no direct control over the key interest rates and asset prices that jointly determine the extent of financial stimulus, as I have already noted.
+Instead, the FOMC's monetary policy decision is expressed in terms of the Committee's target value for an otherwise obscure short-term interest rate, the federal funds rate.
+For example, the FOMC's current target for the federal funds rate, as established at its meeting last week, is 2.75 percent.
+What is the federal funds rate (often called the funds rate for short)?
+The funds rate is the interest rate prevailing in the market for borrowing and lending reserve balances, also called the federal funds market.
+Reserve balances are deposits held at the Federal Reserve by commercial banks and other depository institutions.3 Banks hold reserve balances at the Fed for several reasons.
+First, balances at the Fed can be used to satisfy banks' legal requirement to hold reserves in proportion to the level of their own customers' transactions deposits (checking accounts, for example).4 A bank's legal reserve requirement is calculated based on the average level of deposits held by the bank's own customers over a two-week period, called the computation period, and must be satisfied by having sufficient reserves on average over a subsequent two-week period, called the maintenance period.
+Second, banks can choose to hold what are called contractual clearing balances.
+Unlike balances held at the Fed for reserve purposes, which pay no interest, contractual clearing balances earn implicit interest in the form of earnings credits.
+Banks can use these credits to pay for services provided by the Federal Reserve, such as check clearing and the use of the Fedwire, the Federal Reserve's electronic large-value payment system.5 Together, balances held at the Fed to satisfy reserve requirements and contractual clearing balances are referred to as required balances.
+Total required balances in recent years have been around $20 billion, divided roughly equally between required reserves and contractual clearing balances.6 Banks may also choose to hold balances at the Fed in excess of their required balances.
+These so-called excess balances are costly for banks because they earn no interest and do not satisfy legal reserve requirements.
+Nevertheless, a bank may hold them to facilitate financial transactions with other institutions.7 Whenever a bank makes or receives large payments electronically over Fedwire, either as a result of its own activities or those of its depositors, reserves are shifted out of the account of the paying bank into the reserve account of the receiving bank.
+Payments made by check also result in a transfer of reserves between banks.
+Trillions of dollars of reserves are transferred between banks every day as a result of these financial settlements, which end each day at 6:30 p.m.
+ET when the Fed closes its Fedwire system.
+Payments flows may be exceptionally large on certain days, such as major tax dates and days on which the purchases of bonds in Treasury auctions are settled.
+In the face of large and often unpredictable payments flows, a financially-active bank must confront the problem of managing its reserve account both to meet its reserve requirement for the period and also to avoid ending any day with its account at the Fed overdrawn (which may carry a financial penalty).
+At the same time, banks try to accumulate as few excess reserves as possible, because holding non-interest-paying excess reserves instead of interest-bearing securities is costly.
+A bank that finds itself short of reserve balances on a given day can borrow in the federal funds market from other institutions that happen to hold more balances at the Fed than they need on that day.
+The interest rate that banks pay when they borrow in the federal funds market is the aforementioned funds rate.
+Banks generally contract to borrow fed funds on an unsecured basis and for very short periods, typically overnight.
+Loans of fed funds can be made through brokers whose business is to arrange such transactions, or they can be made directly between institutions.8 Of late, the daily volume of overnight fed funds transactions handled by brokers has ranged between $60 billion and $80 billion, an amount several times greater than the total level of reserves in the banking system.
+The volume of direct (that is, non-brokered) transactions is not reported but is estimated to be of similar magnitude.
+The funds rate is a market rate, not an administered rate set by fiat--that is, the funds rate is the rate needed to achieve equality between the demand for and the supply of reserves held at the Fed.
+As I have already discussed, the demand for reserve balances arises both because banks must hold required reserves and because reserve balances are useful for facilitating transactions.
+Because of the scale of and volatility in daily payments flows, the demand for reserve balances can vary substantially from one day to the next.
+The supply of reserve balances is largely determined by the Federal Reserve--at the operational level, by the specialists at the Federal Reserve's Open Market Desk, located in the Federal Reserve Bank of New York in the New York financial district.
+For example, to increase the supply of reserves, the Open Market Desk purchases securities (usually government securities) on the open market, crediting the seller with an increase in reserve balances on deposit at the Fed in the amount of the purchase.9 Thus, a purchase of a billion dollars' worth of securities by the Open Market Desk increases the supply of funds available to lend in the fed funds market by the same amount.
+Similarly, sales of securities from the Fed's financial portfolio result in debits against the accounts of commercial banks with the Fed and thus serve to drain reserve balances from the system.10 Collectively, these transactions are called open-market operations.
+Factors outside the control of the Open Market Desk can also affect the supply of reserve balances.
+For example, when the Federal Reserve receives an order for currency from a bank, it debits the reserve account of the bank in payment when the currency is shipped, thereby reducing reserve supply.
+When deciding upon open market operations to control the supply of reserves, the Open Market Desk must take account of these external factors.
+In practice, the Open Market Desk uses several methods of performing open-market operations.
+In some cases it purchases securities outright, that is, with the intention of holding the securities in its portfolio indefinitely.
+Outright purchases are used to offset long-lasting changes in factors affecting the demand for and supply of reserves.
+For example, long-term increases in the private sector's demand for currency have largely been met by outright purchases of securities.
+Over the years, the Fed has accumulated a portfolio of more than $700 billion of Treasury securities, mostly as an offset to its issuance of currency.
+In contrast, in cases in which variations in the demand for reserves or in external factors affecting reserve supply appear likely to be temporary, the Desk typically prefers to conduct open-market operations through short-term or long-term repurchase agreements, known as repos.
+Under a repurchase agreement, the buyer and seller of a security agree to reverse the transaction after a certain fixed period.
+Thus, when the Open Market Desk purchases securities under a repo agreement, the resulting increase in reserve balances lasts only until the time at which the transaction is reversed.
+Over the course of a year, the value of repos on the Fed's books on any given day may range from a few billion dollars to $30 billion or more.
+In the period before the millennium date change (Y2K), when the demand for currency was temporarily very high, the daily value of repos peaked at nearly $150 billion.
+The manager of the Open Market Desk and his team bear the responsibility of adjusting the supply of fed funds to maintain the funds rate at or near the target established by the FOMC.
+Meeting this objective on a daily basis is technically challenging.
+To hit the funds rate target, the Desk staff must forecast the daily demand for balances as well as changes in external factors affecting reserves supply.
+Open-market operations are then set in motion to balance the supply of and demand for reserves at the target funds rate.
+Shortly after 9 a.m. each morning, the Desk staff and staff members at the Board of Governors confer over the phone to discuss their respective estimates of the day's demand for balances as well as to consider factors that may affect supply.
+The Desk manager and his staff also keep in close touch with fed funds brokers and other market participants so as to be able to assess general market conditions.
+The Desk's market contacts are useful not only for controlling the funds rate but also for obtaining broader financial-market information for the use of Fed policymakers.
+At 9:20 a.m., a conference call is held between the Desk staff, Board staff, and the President of a Reserve Bank.11 The Desk staff summarize the projections for reserves demand and supply, report on conditions in the federal funds market and global financial market developments, and present to the President their plans for open-market operations for his or her comment.
+Open-market operations will be arranged shortly after this "call," and the results are disclosed to the public generally within a few minutes.
+The Desk is in the market on most business days, adding from $2 billion to $10 billion in reserves to keep the funds rate near the FOMC's target.
+As an additional means for managing the fed funds, the Federal Reserve stands ready to lend reserves to depository institutions that request them.
+Financially sound banks are eligible to borrow from the Fed at what is called the primary credit rate, which to date has been set at 100 basis points (1 percentage point) above the target funds rate.
+Historically, reserve shortages occasionally caused the funds rate to "spike" well above its target, once even hitting 100 percent (in 1991).
+The primary credit facility is designed to avoid such spikes by providing an elastic supply of reserves at a rate not far above the funds rate target.
+Since the introduction of the primary credit facility, the rate has exceeded the primary credit rate only in a few unusual circumstances, such as the power outage in the eastern United States in August 2003.
+The Federal Reserve's multiple means of injecting reserves into the banking system--a belt-and-suspenders approach--was shown in its best light following the September 11 terrorist attacks.
+With a significant part of the financial system inoperative and with many payments not being made as scheduled, the banking system's demand for reserve balances rose sharply.
+Those reserve needs were met initially through large amounts of direct borrowing from the Fed.
+As market functioning improved, needed reserves were provided by means of open-market operations.
+The increase in the supply of reserves topped $80 billion by the end of the week.
+The Funds Rate and Other Market Rates I have discussed at some length how the Federal Reserve manages the federal funds rate, the most direct instrument of monetary policy.
+As I have already hinted, however, monetary policy is effective only to the extent that Federal Reserve actions can affect a wide range of interest rates and asset prices.
+What is the link between the funds rate and these key financial variables?
+The interest rates most closely linked to the funds rate are those prevailing in short-term money markets.
+Financial market participants are able to trade short-term liquid funds in a number of markets, including, for example, the market for repurchase agreements based on Treasury securities (the repo market).
+The federal funds market is tied particularly closely to the so-called Eurodollar market.
+Technically, Eurodollar deposits are dollar-denominated deposits held at non-U.S. banks, but regulatory and technological developments have made these deposits easily tradable even by U.S. banks and by many nonbank institutions not eligible to participate in the fed funds market.
+Accessible to a wide range of borrowers and lenders and operating virtually around the clock, the Eurodollar market has grown rapidly and become highly liquid.
+Because large banks can trade in either the federal funds market or the Eurodollar market and because fed funds and Eurodollars are easily substitutable forms in which to hold short-term liquidity, it should not be surprising that overnight Eurodollar interest rates line up closely with the funds rate, even within the day (Bartolini, Gudell, Hilton, and Schwarz, 2005).
+Were that not the case, then banks could profit by borrowing in the cheaper market and lending in the market in which the rate is higher.
+As a consequence of this potential arbitrage, the FOMC's target for the funds rate effectively determines other very short-term rates as well.
+This linkage establishes one important connection between the FOMC's target funds rate and interest rates more broadly.
+As I have noted, however, to affect overall financial conditions, the FOMC's actions must affect not only very short-term rates but also longer-term yields and asset prices, including mortgage rates, corporate bond rates, and stock prices.
+Considerable empirical evidence suggests that monetary-policy actions do affect these longer-term yields and asset prices as well as very short-term rates.12 But what is the mechanism?
+To keep things simple, we can focus on the relationship between the FOMC's actions and the yield on longer-term Treasury securities, such as five-year or ten-year Treasury notes.
+If monetary policy can affect Treasury yields, then clearly it can affect other yields and asset prices as well.
+For example, mortgage rates are closely linked to long-term Treasury yields, the spread between the two rates being explained largely by factors such as the risk of default on mortgage loans and the so-called prepayment risk (that is, the risk that homeowners will choose to pay off their mortgages early).
+Likewise, changes in Treasury yields affect stock prices by affecting both the profit prospects of publicly traded companies as well as the rate at which expected future profits are discounted to the present.
+Basic financial theory suggests that any long-term interest rate, such as a five-year or ten-year Treasury rate, is the sum of two components: a weighted average of expected short-term interest rates and a term premium, which in turn depends on risk, liquidity, and other factors affecting the desirability of the financial instrument in question.
+Monetary policy probably influences the term premium on Treasury securities to some extent.
+13 However, in all likelihood, the more important means by which monetary policy affects Treasury yields is through the effect of policy on the expected future path of short-term interest rates, and I will focus on that channel.
+Expected short-term interest rates influence long-term rates because any investor has the choice of holding either a long-term security or a series of short-term securities, re-investing his or her funds in a new short-term security as the old short-term security matures.
+All else being equal, the choice between the two strategies depends on the expected return.
+If, on the one hand, short-term rates are expected to be higher on average than the long-term rate that spans the same period, investors will choose the strategy of rolling over short-term securities.
+If, on the other hand, the long-term rate exceeds the average of expected future short-term rates, the long-term security will be the more attractive.
+Since both short-term and long-term Treasury securities are willingly held in the marketplace, investors must be roughly indifferent between short-term and long-term securities, implying that (on average and abstracting from any term premiums) expected future short-term rates must be similar to the current long-term yield.
+You may be beginning to understand at this point why making monetary policy is not a simple matter--and, in particular, why the Fed has only very indirect control over long-term yields and asset prices.
+The Fed controls very short-term interest rates quite effectively, but the long-term rates that really matter for the economy depend not on the current short-term rate but on the whole trajectory of future short-term rates expected by market participants.
+Thus, to affect long-term rates, the FOMC must somehow signal to the financial markets its plans for setting future short-term rates.
+How can this be done?
+The most direct method is through talk.
+The FOMC's post-meeting statement, the minutes released three weeks after the meeting, and speeches and congressional testimony by the Chairman and other Federal Reserve officials all provide information to the markets and the public about the near-term economic outlook, the risks to that outlook, and the appropriate course for monetary policy.
+With the aid of this information, financial market participants make estimates of the likely future path of short-term interest rates, which in turn helps them to price longer-term bonds.
+FOMC talk probably has the greatest influence on expectations of short-term rates a year or so into the future, as beyond that point the FOMC has very little, if any, advantage over market participants in forecasting the economy or even its own policy actions.
+Influencing policy expectations for the more distant future may be more difficult.
+However, the FOMC has two general ways to help financial market participants divine the long-run course of policy.
+First, to the extent practical, the FOMC strives to be consistent in how it responds to particular configurations of economic conditions and transparent in explaining the reasons for its response.
+By building a consistent track record, the FOMC increases its own predictability as well as public confidence in its policies.
+Second, more generally, comments by FOMC officials about the Committee's general policy framework, including the Committee's economic objectives and members' views about the channels of monetary policy transmission and the structure of the economy, help the public deduce how policy is likely to respond to future economic circumstances.
+Importantly, FOMC members do not have to guess about the effects of their words and actions on the public's expectations of future policy actions.
+Information about those expectations is revealed in a number of ways in financial markets.
+For example, market prices on actively-traded futures contracts on the funds rate or on the Eurodollar rate tell us a great deal about the funds rate that market participants expect to prevail at various dates in the future.14 Options on fed funds and Eurodollar futures are also actively traded; the prices of these options provide useful information about the degree of uncertainty that market participants have about future monetary policy.
+By watching financial markets and listening to the views of market participants, FOMC members are able to know with considerable accuracy what the markets expect for monetary policy.
+This information helps Committee members deduce how their own actions and statements are likely to affect asset prices and yields.
+To conclude, the FOMC controls very short-term interest rates fairly directly.

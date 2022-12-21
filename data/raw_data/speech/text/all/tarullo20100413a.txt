@@ -1,0 +1,108 @@
+The Federal Reserve and other financial regulators have, under existing statutory authority, already implemented some changes to prudential rules and to supervisory oversight processes.
+Other changes are under active consideration.
+Against this backdrop, and mindful that my audience is composed of institutional investors, I would like this morning to discuss the importance of more thoroughly involving markets and the public in the financial regulatory system.1 The Emerging Structure of Financial Regulatory Reform The crisis arose against the backdrop of a regulatory system that had not adjusted to the extensive integration of traditional lending with capital market activities, which had created new sources of systemic risk.
+The internal information and risk-management systems of many financial firms were revealed as inadequate to the task of identifying the scope of market and credit risks, much less ensuring the soundness of those firms, in a period of severe stress.
+The already significant problem of institutions perceived as too-big-to-fail was further amplified by the government's actions in 2008 to prevent a complete collapse of the financial system.
+To succeed, proposed reforms to counteract systemic risk must address these quite fundamental deficiencies.
+It may be helpful to organize the reform agenda by reference to the "three pillars" of financial regulation enunciated by the Basel Committee on Banking Supervision--minimum prudential requirements, supervisory oversight, and market discipline.
+Although the Basel Committee formulated the three-pillar approach in the context of the Basel II framework for capital requirements, this structure can also be applied to the broader set of reform measures.
+There seems to be a fair consensus that the first two pillars of minimum prudential requirements and supervisory oversight need to be substantially improved in the wake of the crisis, including additional requirements based on the systemic role of firms.
+The widespread acceptance of the need for a robust mechanism for resolving large financial institutions reflects a consensus that market discipline needs to be substantially increased in order to provide a genuine third pillar of the regulatory system.
+Finally, support for structural measures such as the Volcker rule, mandatory central counterparties for certain derivatives trading, and limits on the growth of large financial institutions reveals a belief that even a strengthened three-pillar approach may not be enough to ensure financial stability.
+These measures are, in effect, a proposed fourth regulatory pillar.
+The evolution of this multi-pillar approach is an understandable response to the severity of the financial crisis and ensuing recession.
+There are differing, though not necessarily mutually exclusive, views as to what methods will be most effective in limiting the incidence and severity of future financial crises.
+Thus, we should not be surprised to see a variety of regulatory measures in both agency actions and legislative reform packages.
+Indeed, building a regulatory system with multiple instruments has advantages, since established regulatory mechanisms each have well-documented shortcomings, and the effectiveness of new ones will necessarily be uncertain.
+Yet some fear that the result will be an unwieldy system that will contain too many half measures, rather than a few strong regulatory mechanisms.
+Others worry that the multiplicity of regulatory instruments will suppress not just behavior that is excessively risky in light of expected social returns, but also some socially desirable financial intermediation.
+The result would be lower potential economic growth rates.
+There is also concern that imposing additional forms of regulation on already supervised institutions could drive more financial activity into unregulated firms and markets.
+Certainly, with multiple instruments comes the need for meshing them into an effective system of regulation, in which the shortcomings of each regulatory tool will be offset by other tools in what must surely be a dynamic process of adjusting to new financial products and practices.
+Channeling the information provided by market assessments of financial institutions and organizing opportunities for public comment on the regulatory process can play a key role in achieving a self-critical, dynamic regulatory system.
+Incorporating Market Discipline into the Regulatory System Despite years of interesting academic work on incorporating market discipline into financial regulation, it has to this point been consigned to a mostly cosmetic role.
+One obvious consequence of this neglect was that moral hazard grew unchecked, as expectations of government support for the financial system meant that potential losses from risky behaviorâ€‘â€‘even where understood by market participants--were not fully internalized by the counterparties of, and investors in, large financial institutions.
+But the underpricing of risk also meant that market judgments on such institutions were not as useful for regulatory purposes as they could have been.
+Any market signal about the absolute or relative health of a financial firm will always contain considerable noise.
+And market signals will be of less use if, as may be the case, some forms of risk are almost exclusively systemic, in the sense that the risk will turn into loss only in a systemic crisis.
+But surely, even with these qualifications, the regulatory system has much to gain from increasing market discipline in financial markets.
+Two possibilities have been most widely discussed.
+First, as already noted, there is wide support for a resolution mechanism for large financial firms that would create a third alternative to the current, unsatisfactory options of bailout or possibly destructive disorderly bankruptcy.
+Both the reform bill passed by the House last year and the bill to be considered on the floor of the Senate contain variations on this basic proposal.
+Yet the debate around resolution proposals has highlighted the challenge of crafting a workable resolution regime for large, interconnected firms.
+The basic design problem is that such a regime must advance the goals of both financial stability and market discipline.
+While these goals are usually complementary, they can at times be competing--especially in periods of high financial stress, when time consistency problems can loom large.
+In the midst of a crisis, governments fearful of financial upheaval can be tempted to provide assistance to supposedly uninsured creditors, even at the cost of increasing moral hazard in the post-crisis period.
+Despite the design difficulties, I think certain features are essential in any special resolution process.
+One is that any new regime should be used only in those rare circumstances where a firm's failure would have serious adverse effects on financial stability.
+That is, the presumption should be that generally-applicable bankruptcy law applies to nonbank financial firms--even large, interconnected ones.
+Another is that once the new regime is invoked, the government should have broad authority to wind down the financial firm in an orderly way.
+Most importantly, there should be a clear expectation that the shareholders and creditors of the failing firm will bear losses to the fullest extent consistent with preserving financial stability.
+To personalize things for this audience, we must ensure that if you have invested money in a large financial firm that runs aground, you will suffer losses.
+Shareholders of the firm ultimately are responsible for the organization's management (or mismanagement) and are supposed to be in a first-loss position upon failure of the firm.
+Shareholders, therefore, should pay the price for the firm's failure and should not benefit from a government-managed resolution process.
+To promote market discipline on the part of the creditors of large, interconnected firms, unsecured creditors of the firms must also bear losses.
+Here is where the potential conflict of policy goals is obvious.
+While losses imposed on creditors will increase market discipline in the longer term, the immediate effect could be to provoke a run on other firms with broadly similar positions or business strategies.
+Thus, the allocation of such losses may need to depend on the facts of the individual case.
+At the very least, however, subordinated debt, or other financial interests that can qualify as regulatory capital, should be fully exposed to losses.
+As is implicit in the foregoing discussion, a novel resolution regime will probably not acquire complete credibility until it is actually applied successfully.
+Other devices, such as the so-called "living will" requirement, could help, but some uncertainty will inevitably remain.
+For this reason, among others, it is important to ensure that other regulatory tools will help compensate for the uncertainties associated with an essentially untested mechanism.
+It also suggests the importance of exploring additional means to increase market discipline.
+A good resolution mechanism is an essential component of an effective regulatory system, but standing alone it is far from sufficient.
+A second proposal that has received considerable attention is to require large financial institutions to hold so-called contingent capital, which is basically debt that converts to common equity as a result of some predefined triggering event.
+There are actually two distinct concepts that may be characterized as "contingent" capital.
+The first is a requirement for a specified kind of capital instrument to be issued by the firm--one that would have debt-like characteristics in normal times but would convert to equity upon the triggering event.
+The other is a requirement that all instruments qualifying as Tier 2 regulatory capital convert to common equity under specified circumstances, such as a determination that the firm would otherwise be on the brink of insolvency.
+The market discipline effects of both variants could be considerable, since holders of certain kinds of capital instruments would know that their debt-like interests in the firm would be lost if the firm's financial situation deteriorated.
+However, there are also significant questions about the feasibility of both.
+The specification of the trigger is critical.
+If supervisors can trigger the conversion, investors cannot be certain as to when the government will exercise the trigger.
+That uncertainty would make it difficult to price a convertible capital instrument and diminish investors' willingness to hold it.
+Tying the trigger to the capital level of the firm runs headlong into the serious problem that capital has traditionally been a lagging indicator of the health of a firm.
+Using a market-based trigger could invite trading against the trigger, which, in extreme cases, could lead to a so-called death spiral for the firm's stock.
+Despite the work that has been done on contingent proposals, it is not yet clear if there is a viable form of contingent capital that would increase market discipline and provide additional equity capital in times of stress without raising the price of the convertible debt close to common equity levels.
+The appeal of the concept is such as to make further work very worthwhile but, for the moment at least, there is no proposal ready for implementation.
+Before closing the discussion of mechanisms to increase market discipline, I want to add a complementary thought to my earlier observation that these mechanisms are designed to ensure that investors and counterparties suffer losses.
+If we are committed to achieving this end--as I believe we should be--we also need to provide market participants with the information needed to make accurate assessments of a financial firm's condition.
+I will have more to say about disclosing supervisory information in a moment.
+As to disclosures bv firms themselves, the opaque nature of parts of a financial institution's balance sheet makes special disclosure requirements especially important.
+There is, for example, a good case to be made for enhancing the Basel II requirements for disclosures relevant to a firm's internal ratings system, consistent with the protection of genuinely proprietary information.
+On the other hand, there is little pointâ€‘â€‘and the potential for considerable unnecessary cost--in compelling disclosure of massive amounts of information that cannot be effectively assimilated by investors and counterparties.
+We invite suggestions from investors such as yourselves as to the kind and form of disclosures that will be most useful.
+Incorporating the Public Into the Regulatory System As noted earlier, the financial regulatory system needs to be not only multifaceted, but also adaptive in responding to changes in financial firms and markets.
+A dynamic regulatory regime is most likely to be realized if it receives non-governmental perspectives on these changes.
+In addition to disclosing more data to investors and counterparties, exposing supervisory practices and policies to external assessment in a structured way can improve supervision.
+Such exposure could, for example, reduce the chances of regulators converging around a conventional wisdom that overlooks anomalous data.
+One means for furthering this aim was suggested by our experience with the Supervisory Capital Assessment Program (SCAP) last year.
+As you recall, the stress tests--as they have been popularly called--were a stringent, forward-looking assessment of prospective losses and revenues at the 19 largest U.S. regulated financial institutions.
+We took the unusual, if not unprecedented, step of releasing publicly the methodology and findings of the SCAP, including the capital needs and loss estimates for the 19 institutions.
+The decision to make this information public was made in the context of a systemic crisis, in which markets were hungry for information and in which the Treasury stood ready to inject capital into any of the 19 institutions that were found to need it.
+Even so, it was much debated within the Federal Reserve, in part because of concerns that weaker banks might be significantly harmed by the disclosures.
+But I think that regularizing both stress tests and the release of information relevant to them deserves serious consideration for at least two reasons.
+First, in line with my earlier discussion of market discipline, releasing such information could assist investors in the difficult task of valuing loan portfolios that at present are not very transparent.
+Second, releasing details about assumptions, methods, and conclusions would expose our supervisory approach to greater outside scrutiny and discussion.
+Whether the result is critique or validation of our approach, the reaction of informed investors and analysts to our assumptions and methods would be beneficial.
+I have previously identified several ways we might increase the transparency of our stress tests.2 There are doubtless additional possibilities.
+There are, to be sure, countervailing concerns.
+In economic times more normal than those prevailing when we conducted the SCAP, market participants will not be fearing the worst and banks will not have access to government capital injections as a backstop.
+At such a moment, the revelation that some major banks may have capital needs under a stress scenario might be unnecessarily destabilizing, though the possibility of this kind of market reaction may be lower if such information is released frequently.
+Major unpleasant surprises would be less likely with frequent, detailed disclosures.
+In any case, I hope that interested parties will consider the merits of these possibilities and help advance the debate.
+There are other ways to incorporate non-governmental views into the regulatory system.
+We have already taken steps in this direction in conjunction with the Federal Reserve's overhaul of its approach to supervising the largest financial holding companies.
+As part of this effort--and with the aim of advancing both our microprudential and macroprudential goals--we have created a quantitative surveillance mechanism (QSM) to regularize the collection and analysis of relevant data.
+Among other things, the QSM will use market-based indicators such as stock prices, option prices, credit default swap spreads, and short-term funding costs to provide an external perspective on the condition of these institutions--one that will be formally presented to regular meetings of senior supervisory and other Federal Reserve staff.
+Market-based indicators of macroeconomic and financial market risks that could pose threats to the largest institutions also will be used to assess their condition.
+Indeed, the relatively undeveloped nature of macroprudential analytic and oversight functions argues for extensive transparency by regulators and involvement of non-regulators.
+If, for example, the Congress creates a council of regulators with, among other responsibilities, the task of issuing periodic financial stability reports, the public at large will have ample opportunity to comment on the council's analyses.
+Personally, I would go further and establish an advisory committee that would assess not just the stability report, but other macroprudential evaluations such as scenarios used in stress testing.
+By formalizing this activity, senior regulatory officials would be required to confront and respond to the critiques directly, an exercise that would help develop the embryonic function of macroprudential oversight.
+Conclusion To conclude, I have covered a handful of specific ideas to involve markets and the public more closely in the regulatory system.
+My more general point is that the reform of our financial system to strengthen market discipline is both an essential change in itself and also a starting point for increasing useful information flows between markets and regulators.
+Market forces will operate more efficiently with information about banks that has usually remained largely hidden from investors in anything but the most aggregated form.
+The regulatory system will operate more effectively if the supervisory process integrates market information which should, as a result of innovations such as a resolution mechanism, be even more sensitive to the conditions of financial firms.
+Experience before the financial crisis suggests that institutionalizing opportunities for external voices, including dissident voices, will be an important element of macroprudential supervisory efforts.
+Outside critics are not always right, of course.
+But the best way to separate insightful and well-grounded criticisms from unfounded ones is through a rigorous discussion in which the views of outside critics, as well as those of the regulators themselves, will be subject to inquiry.

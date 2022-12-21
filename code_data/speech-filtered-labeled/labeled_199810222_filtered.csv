@@ -1,5 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"moreover, my reading of history suggests that, despite the strong indications of the success of market discipline, the cost of the associated financial market disturbances on real economic activity are too high for market discipline to be the sole regulator of banking.",LABEL_1,0.38619092106819153
-1,providing incentives is important because such incentives can encourage banks to provide voluntarily the information the market demands.,LABEL_2,0.515555202960968
-2,"an additional benefit of having subordinated debt traded on the open market, at least if the market for subordinated debt was sufficiently liquid, is that price movements would provide a clear signal of the market evaluation of the bank's financial condition that would serve as an early warning signal to aid supervisors.",LABEL_2,0.9874293208122253
-3,"the fact is that regulatory capital arbitrage is an outgrowth of the considerable resources that banks have devoted to better measuring, pricing and managing risk.",LABEL_2,0.9417080283164978

@@ -1,0 +1,414 @@
+This agreement is reflected both in the mandates set for monetary policy by governments and in the practice of central banks.
+Several other important questions about the objectives for monetary policy are less settled: Should there be other objectives?
+If there are multiple objectives, should one of the objectives take priority?
+And how explicit should the objectives be?
+Central banks typically operate under one of two types of mandate.
+A hierarchical mandate makes price stability the primary objective for monetary policy and subordinates other potential objectives.
+A dual mandate recognizes two objectives--price stability and full employment--and puts them on an equal footing.
+Either regime could make the price stability objective more precise by setting an explicit numerical target for inflation.
+Thus we can describe a typical central bank's mandate and objectives in terms of two sets of alternatives: between a hierarchical or a dual mandate, on the one hand, and an implicit or explicit inflation objective, on the other hand.
+During the 1990s, a number of central banks adopted a framework that is called inflation targeting, combining a hierarchical mandate and an explicit inflation objective.
+The United States, in contrast, combines a dual mandate and an implicit inflation objective.
+Most of the discussion in the United States on the subject of mandates and objectives has been about whether to identify inflation as the single or primary objective and whether to move to a formal inflation-targeting regime.1 The title of my lecture--"Inflation Targets and Inflation Targeting"--is intended to differentiate between two options for changing the policy mandate for the Federal Reserve.
+The first option, which I favor, is setting an explicit numerical target for inflation within the context of our current dual mandate.
+The second option, which I do not favor, is moving to an inflation-targeting regime, that is, also substituting a hierarchical mandate for our current dual mandate.
+The purpose of this lecture is therefore to explain the benefits of an explicit inflation target in the context of the Federal Reserve's dual mandate and to set out the operational steps for implementing such a target.
+Before proceeding, let me note that the views that I am presenting here are my own.
+I am not speaking for the Board of Governors or the Federal Open Market Committee (FOMC).
+I.
+The Evolution of Monetary Policy Mandates A good starting point is a survey of mandates around the world.
+I will begin by discussing the evolution of the mandate in the United States, including the precise language related to the dual mandate, the way in which the price stability objective has been interpreted, and proposed legislation that would have amended the mandate.
+Then I sketch an inflation-targeting regime and discuss some common elements and differences among the inflation-targeting regimes of developed economies around the world.
+A.
+The Evolution of Policy Objectives in the United States In the United States, it took quite some time for the Congress to establish a precise set of objectives for monetary policy.
+In fact, remarkably little about policy objectives was included in the original Federal Reserve Act in 1913.
+The only policy objectives of the Fed, as identified in that statute, were "to furnish an elastic currency [and] to afford means of rediscounting commercial paper."
+The absence of any mention of price stability undoubtedly reflected confidence that the gold standard, under which the United States was operating, would promote price stability.
+The intent of providing an elastic currency and of rediscounting commercial paper was to expand the supply of money and credit to accommodate expansions in production and the accompanying demand for credit.
+Given that the immediate impetus of the founding of the Federal Reserve was the Panic of 1907, promoting financial stability was a clear focus.
+The framers' intention was that the Federal Reserve would provide banks with a source of liquidity through rediscounting to meet deposit withdrawals.
+On several occasions during the 1920s and 1930s, the Congress debated a price-stability objective for the Fed.
+The Fed opposed such a mandate and it was not adopted.
+Congress did take a step toward a more explicit treatment of policy objectives in the Employment Act of 1946.
+This act identified the objectives for the government in general, but not specifically for the Fed.
+Still, the act was generally viewed as applying to the Fed, as a part of government.
+The objectives identified in the act were "to promote maximum employment, production, and purchasing power."
+Although this set of objectives could be interpreted as including both full employment and price stability, the title of the bill and the specific language suggests that the priority at the time was more to maintain full employment than to promote price stability.
+Such a focus on stabilizing employment and a relative inattention to inflation was perhaps an understandable reaction to the Great Depression when, for a decade, high unemployment and falling prices were the major problems facing the U.S. economy.
+The specific mandate for the Federal Reserve was first added to the Federal Reserve Act in 1977, although that same language had been included in a 1975 concurrent resolution of the Congress.
+The 1977 amendment required the Board of Governors and the FOMC to "maintain the growth of monetary and credit aggregates commensurate with the economy's long-run potential to increase production, so as to promote effectively the goals of maximum employment, stable prices, and moderate long-term interest rates."
+This language makes the objective of price stability explicit.
+Because the Fed can contribute to moderate long-term interest rates principally by achieving low and stable inflation, that objective is generally not viewed as an independent one.
+In addition, the goal of maximum employment is usually interpreted as maximum sustainable employment--meaning the highest level of employment that can be maintained without upward pressure on inflation.
+The mandate is therefore interpreted as a dual mandate: full employment and price stability.
+The Federal Reserve has not set an explicit, numerical objective for inflation.
+Paul Volcker offered the following definition of price stability in 1983: A workable definition of reasonable "price stability" would seem to me to be a situation in which expectations of generally rising (or falling) prices over a considerable period are not a pervasive influence on economic and financial behavior.
+Stated more positively, "stability" would imply that decisionmaking should be able to proceed on the basis that "real" and "nominal" values are substantially the same over the planning horizon--and that planning horizons should be suitably long.2 Alan Greenspan has described the price stability objective in a similar way: We will be at price stability when households and businesses need not factor expectations of changes in the average level of prices into their decisions.3 These definitions make clear a commitment to low inflation.
+But they leave open whether, for example, the inflation rate prevailing today--about 2-1/2 percent for the core consumer price index (CPI) measure of consumer prices--is consistent with this definition.
+Is policy going to be set to lower inflation over time, and if so, by how much?
+These definitions also leave open the possibility of changing interpretations as the FOMC membership changes over time.
+The Fed often prefers to state its objective without specifically mentioning price stability.
+This is perhaps because the emphasis on price stability is taken by some as carrying a hint of restrictive policy and as an inclination to always be leaning against cyclical increases in demand.
+The Fed sometimes prefers to state its objective simply as promoting maximum sustainable growth.
+Stating its objective in this way allows the Fed to offer a more positive message and leaves implicit the price stability objective in two ways.
+First, if the economy were to grow above a sustainable rate for long enough, overheating and higher inflation would eventually follow.
+Second, price stability contributes to a high and perhaps faster rate of growth in productive capacity, a point I will return to below.
+Nevertheless, I prefer to state the Fed's objectives as full employment and price stability.
+In my view, the Fed has no growth objective.
+At full employment, the rate of growth will automatically be the maximum sustainable rate the economy is capable of achieving and a rate largely independent of monetary policy, except insofar as monetary policy is successful in achieving price stability.
+In recent years, bills have been introduced on a few occasions that would have made price stability the sole or primary objective for monetary policy and required the Fed to set an explicit numerical inflation target.
+In 1989, 1991, and 1993, Representative Steve Neal, Chairman of the House Banking Committee's Subcommittee on Domestic Monetary Policy, introduced resolutions instructing the Federal Reserve "to adopt and pursue monetary policies leading to, and then maintaining, zero inflation."
+In the 1991 and 1993 versions, zero inflation was defined as "when the expected rate of change of the general level of prices ceases to be a factor in individual and business decisionmaking."
+While these resolutions did not pass, the definition of price stability in the 1991 and 1993 resolutions was, undoubtedly not by accident, nearly identical to the language used by Chairman Greenspan and to the concept articulated earlier by Chairman Volcker.
+A second set of bills was introduced by Senator Connie Mack and Representative Jim Saxton in 1995 and 1997.
+These bills instructed the Fed to set an explicit numerical definition of price stability and to "maintain a monetary policy that effectively promotes long-term price stability."
+Representative Saxton introduced a significantly revised version of these bills in 1997 and 1999, mandating price stability as the "primary goal" of the Federal Reserve and requiring the Fed to establish an explicit numerical definition of inflation.
+Senator Mack reintroduced his version in 1999.
+I interpret these bills as attempts to push the United States toward a full inflation-targeting regime.
+Indeed, the Mack versions would establish an inflation-targeting regime among the strictest in the world, given that it would have established price stability as the sole objective of monetary policy, not simply a hierarchical set of objectives.
+The Saxton version is more in line with hierarchical mandates employed in many inflation-targeting regimes.
+These bills were, therefore, vigorously opposed by advocates of the dual mandate.
+Perhaps because these bills formed the backdrop to the debate in the United States about the policy mandate, little discussion has taken place on the merits of moving to an explicit numerical inflation target in the context of the prevailing dual mandate.
+Of course, another explanation for the lack of debate is that few are unhappy with macroeconomic performance under the current regime.
+B. Mandates in Inflation-Targeting Regimes New Zealand in 1990 became the first country to establish a formal inflation-targeting regime.
+Canada followed in 1991, the United Kingdom in 1992, and Australia and Sweden in 1993.
+Subsequently, Finland and Spain adopted inflation targeting (before becoming members of the European Monetary Union) and in the last few years several developing countries have adopted this approach.
+Although the European Central Bank does not identify itself as an inflation-targeting regime, the Maastricht Treaty set price stability as the ECB's primary objective and the ECB has set an explicit numerical target for inflation.
+What Is an Inflation-Targeting Regime?
+Inflation-targeting regimes generally identify price stability as the primary objective, usually in the context of a hierarchical mandate.
+They set an explicit numerical target for inflation and set a period over which any deviation of inflation from its target is to be eliminated, although some regimes provide escape clauses and other flexibility related to the pace of return to price stability.
+The inflation target is sometimes set as a point and sometimes as a range.
+In most cases, the inflation objective is set for a measure of overall consumer price inflation, the point or midpoint of the ranges is generally around 2 percent, and the ranges (where employed) are generally 2 percentage points wide--typically 1 percent to 3 percent.
+The time period prescribed for return to the inflation target following departures is sometimes explicit and sometimes not, generally in the range of eighteen months to two years.
+Examples of Inflation-Targeting Regimes In New Zealand, the first inflation-targeting regime, the numerical target is set jointly by the Minister of Finance and the Governor of the central bank and is currently a range of 0 percent to 3 percent, the widest of any of the ranges in inflation-targeting regimes.
+New Zealand is quite well-known for establishing performance contracts for government officials, and this approach is followed in the law governing the operation of the central bank: The statute allows the governor to be dismissed if inflation performance is inadequate.
+The Bank of Canada operates under the vaguest legal mandate among inflation-targeting central banks.
+Its statute requires it to regulate "credit and currency in the best interests of the economic life of the nation."
+Despite the absence of a precise legal mandate, the details of the Bank's monetary policy objectives are reached by agreement between the Bank and the Department of Finance.
+This agreement has set price stability as the principal objective for monetary policy.
+To implement this objective, the agreement sets the range for inflation as 1 percent to 3 percent and identifies the midpoint as the explicit target.
+The Reserve Bank of Australia has a mandate most closely resembling ours, though it is even broader and more open-ended.
+Their legislative mandate is "to [promote] stability of the currency of Australia;…[maintain] full employment in Australia; and…[foster] economic prosperity and welfare of the people of Australia."
+The explicit inflation target, 2 percent to 3 percent, is set by the central bank and applies to the average inflation rate over a business cycle.
+Although Australia is counted among inflation-targeting countries, it has a dual mandate rather than a hierarchical one.
+Indeed, it is a model for the combination I prefer: an explicit inflation target within a dual mandate.
+The mandate in the United Kingdom is hierarchical.
+Article 11 of the Bank of England Act sets the objectives for monetary policy as "to maintain price stability" and "subject to that, to support the economic policy of Her Majesty's Government, including its objectives for growth and employment."
+The explicit target, set by the Chancellor of the Exchequer (the equivalent of the Minister of Finance in many countries or the Secretary of the Treasury in the United States), is currently 2.5 percent and the target is for retail prices excluding mortgage interest payments.
+The Governor of the Bank of England must write a letter to the Chancellor if inflation deviates by more than 1 percentage point from the target.
+The ECB does not view itself as an inflation-targeting central bank.
+However, the Maastricht Treaty--the equivalent of the statute establishing the objectives for a central bank--identifies price stability as the principal objective in the context of a hierarchical mandate.
+Article 105 of the Maastricht Treaty states that "the primary objective of the [European System of Central Banks (ESCB)] shall be to maintain price stability.
+Without prejudice to the objective of price stability, the ESCB shall support the general economic policies in the community with a view to contributing to the objectives of the Community laid down in Article 2."
+The objectives mentioned in Article 2 include "sustainable and non-inflationary growth," a "high level of employment," and "raising the standard of living" among member states.
+The ECB's Governing Council sets the explicit numerical inflation target.
+This is currently set with an explicit ceiling of 2 percent and an implicit lower bound of 0 percent.
+This is the case of a range rather than a point, with no preference stated for the midpoint.
+The Evolution of Inflation-Targeting Regimes Over their short history, inflation-targeting regimes have evolved to give central banks greater flexibility in conducting monetary policy.
+Mervyn King calls regimes which take no account of output gaps (where the coefficient on the output gap is zero in the loss function) "inflation nutters.
+"4 That language suggests that entirely ignoring output stabilization is now viewed as an extreme position and not as a desirable option for central banks.
+Lars Svensson argues that there has, in fact, been a convergence toward "flexible inflation targeting"--meaning inflation-targeting regimes that in practice take into account deviations in both output and inflation from their respective targets.5 Such an evolution has brought many inflation-targeting regimes closer in practice to a dual mandate regime.
+II.
+The Case for a Dual Mandate The appropriate goals for monetary policy depend on the structure of the economy and the preferences of the citizenry.
+My support for a dual mandate reflects my views about the structure of the economy and about the public's preferences.
+These can be summarized as follows: Low and stable inflation ("price stability") is essential to good macroeconomic performance and hence should be an objective of macroeconomic policy.
+The central bank is uniquely responsible for the inflation rate in the long run.
+Monetary policy can make some contribution to lowering the variability of output relative to potential.
+The public desires both low and stable inflation and a low variability of output relative to potential.
+The first two points, of course, are shared by most central bank mandates.
+The case for the dual mandate includes the third and fourth points.
+Price Stability as a Policy Objective As I noted at the outset, it is widely agreed that low and stable inflation is desirable.
+Several costs of high and variable inflation have been identified.
+These costs typically arise from distortions in economic decisionmaking arising from high or variable inflation rates and result in lower levels of output than would otherwise be the case.
+I won't elaborate in detail about these costs here, because I take as a starting point the agreement that price stability is an important, if not the singular objective for monetary policy.6 But the key point is that price stability is not an end in itself; it is important because it contributes to a higher level of output and perhaps faster growth in output.
+Monetary Policy and Inflation Few economists would disagree that inflation is, as Milton Friedman taught us long ago, always and everywhere a monetary phenomenon.
+This was earlier interpreted as a statement about a tight relationship between money growth (controlled by the central bank) and inflation.
+Today, it is recognized that even if the relationship between money growth and inflation has weakened, perhaps because of financial innovations, central banks can achieve their inflation targets by adjusting their preferred instrument, typically some short-term interest rate.
+Hence, monetary policy still determines the rate of inflation in the long run.
+While it is also well understood that supply shocks--such as abrupt changes in the price of energy or food unrelated to the overall balance between aggregate demand and supply--can result in short-run changes in inflation, such changes in inflation can persist only if central banks accommodate them.
+Central banks therefore must accept full responsibility for inflation in the long run and have the tools to achieve price stability.
+The Ability to Stabilize Output While monetary policy can achieve a long-run inflation target, economic theory suggests that it cannot affect the level of output or its growth rate in the long run, other than by maintaining low and stable inflation.
+Therefore, the objective of price stability should be assigned to monetary policymakers, but the objective of high and rising living standards should not be.
+On the other hand, the Congress and the Administration have many opportunities to affect the level and growth in potential output--including the size of the structural budget deficit relative to output, the details of the tax code, and the composition of government spending.
+Whether central banks should accept responsibility for stabilizing output relative to potential is more controversial.
+Milton Friedman, for example, has always questioned the ability of central banks to stabilize output relative to potential and worried that attempting to do so could be counterproductive, given the "long and variable lags" between policy actions and the economic effects.
+Economists agree that monetary policy cannot "fine tune" the economy to ensure that the full employment objective is continuously maintained.
+However, a considerable amount of research supports the contention that monetary policy can reduce the variability of output around its full-employment level.7 Preferences Households and businesses are presumed to prefer low and stable inflation to high and variable inflation.
+But they also prefer high and rising real income per capita and output that is consistently close to the economy's maximum sustainable level of output.
+This is often expressed in terms of a loss function where the loss to society is expressed as a weighted average of squared deviations of inflation from its target and of output from its potential level.
+The squaring of the deviations ensures that deviations on either side of the target are treated equivalently as losses.8 The weights, a and 1-a, indicate the relative intensity of the public's distaste for deviating from their preferred rates of inflation and output.
+The loss to society, L, can be expressed as (1) L = a (p - p*)2 + (1-a) (y - y*)2 where p is the rate of inflation, p* is the target rate of inflation, y is the level of output and y* is the target level of output or potential output.
+Tradeoff between Inflation and Output Variability Although it is possible in principle to achieve price stability and full employment simultaneously, an inevitable tradeoff between the variability of output and the variability of inflation exists.9 This tradeoff is most obvious in the case of a supply shock, for example an abrupt increase in the price of oil.
+An adverse supply shock typically raises inflation and lowers aggregate demand (by reducing the purchasing power of consumers), thereby moving inflation up and output down.
+This gives rise to a well-known dilemma for monetary policy: Should monetary policy ease to reduce the decline in output or tighten to counter the rise in inflation?
+The structure of the economy is such that the quicker monetary policy tries to return inflation to its target (to reduce the variability of inflation), the greater the variability in output.
+The choice of a hierarchical versus a dual mandate may be the most important consideration determining where a country ends up along this tradeoff.
+That is, countries with hierarchical mandates are more likely to end up with lower inflation variability at the expense of higher output variability.10 A dual mandate, therefore, provides flexibility for the central bank to select the point along this tradeoff that matches the public's preference.
+Focusing Policymakers on What They Can Achieve An argument often made for a hierarchical mandate is that identifying price stability as the sole or primary objective focuses monetary policy on what it can achieve and, thereby, reduces political pressure to pursue goals that are not achievable.
+To be sure, wide agreement exists that central banks can achieve low and stable inflation and should be held accountable for doing so.
+There is also agreement that central banks cannot raise the level or growth of potential output (other than through achieving their price stability objective) and should therefore not be held accountable for these dimensions of macroeconomic performance.
+But the public also cares about the variability of output relative to potential, and the conduct of monetary policy inevitably will affect output variability.
+Therefore, in my view, the importance of keeping monetary policy focused on what it can do supports the case for a dual mandate that explicitly recognizes both price stability and output stabilization as objectives for monetary policy.
+Is There a Single Long-run Objective?
+It is sometimes argued, however, that price stability can be the only objective for monetary policy in the long run, again placing price stability on a higher plane than full employment.
+In the long run, theory holds that the economy gravitates to full employment by self-equilibrating forces, principally through the effects of price flexibility.
+That is, if the economy is operating at a level of output below full employment, the price level will tend to fall, and at least for a given value of the nominal money supply, this will tend to stimulate aggregate demand.
+Over time, this process will raise aggregate demand to a level consistent with full employment.
+Hence, policymakers do not have to be concerned with full employment in the long run, leaving price stability as their unique long-run concern.
+But this view is misleading in a couple of respects.
+First, monetary policymakers should be concerned about two long-run properties of the economy.
+One is price stability and the other is the variability of output around full employment.
+Policy has to be judged by its success in both dimensions.
+Second, policy is made in the short run, not the long run.
+The speed of return of output to its potential level is influenced by policy decisions and cannot be treated with indifference.
+It may just take too long and waste too many resources in the interim to rely on the self-equilibrating forces of the economy.
+Policymakers will therefore have to take into account, in practice, both objectives in their policy actions.
+Still, a meaningful difference in the interpretation of the two objectives remains.
+A central bank can achieve the inflation target, with considerable precision, in the long run, meaning on average over a period of years.
+But it cannot be expected to maintain the economy continuously at full employment.
+The full employment objective might therefore be better interpreted as an output stabilization objective.
+It instructs the central bank to work to reduce the variability of output around its full employment level.
+The Need for Flexibility The purpose of a hierarchical mandate is to impose constraints on the operation of monetary policy, constraints that proponents believe enhance credibility, focus policy on what monetary policy can achieve, and reduce political pressures for policy to aim at impossible-to-achieve and potentially destabilizing output goals, such as a level of output above the economy's maximum sustainable rate.
+However, those same constraints might interfere with the pursuit of other legitimate objectives of monetary policy, specifically with policy adjustments to reduce the variability of output around potential output.
+Most inflation-targeting regimes explicitly recognize that returning inflation to its target too rapidly following some departure could result in excessive variability of output.
+The solution has been to encourage a gradual return to the inflation target by explicitly or implicitly setting a policy horizon over which policymakers commit to return inflation to its target.
+Setting fixed horizons for the return to the inflation target, independent of the size or the nature of the shock, clearly reduces the flexibility of monetary policy.
+To be fair, many regimes explicitly note that the policy horizons need not be fixed or include escape clauses that would allow greater flexibility, for example, in response to a supply shock.
+But setting a policy horizon is intended to, and does, constrain policy responses.
+It may therefore interfere with an appropriate balancing of the full-employment and price-stability goals.
+This is especially the case if the mandate is hierarchical, where other objectives can be pursued only if the inflation objective is achieved.
+The Taylor Rule and the Dual Mandate The Taylor rule is a useful characterization of U.S. monetary policy.11 According to the Taylor rule, monetary policymakers should adjust the target for the short-term interest rate in response to deviations of output and inflation from their respective targets and in response to changes in inflation.
+It is therefore well aligned with a dual mandate.
+The Taylor rule can be written as (2) R = r* + p + c [(y/y*)-1] + d (p - p*) where R is the target nominal policy rate, r* is the equilibrium real level of the policy rate (consistent with price stability and full employment), y is output, y* is the level of potential output, p is inflation, p* is the target for inflation, and c and d are the parameters that describe the response of the policy rate to deviations of output and inflation from their respective targets.
+The Taylor rule is consistent with the loss function described in equation 1 because the rule prescribes an adjustment of the federal funds rate in response to the deviations from target values that are presumed to give rise to costs to society.
+The Taylor rule also helps to make the point that policymakers can operate with an output stabilization goal and still ensure that inflation is, on average, consistent with the inflation target in the long run.12 A strict version of inflation targeting would be one based on a loss function, taking into account only losses associated with inflation deviating from its target.
+In terms of equation 1, that would mean that a = 0--that is, no costs were associated with deviation of output from its potential level.
+Based on a simple model, we could derive an optimal policy response to shocks, based on this loss function and the more general one where costs are assigned to deviations from both price stability and full employment.
+If policy is set assuming a = 0 (as would be the case in a very strict inflation-targeting regime), it is clear that policy will be suboptimal if the true loss function does assign a cost to deviating from full employment.13 The more difficult question is: How suboptimal are inflation-targeting regimes that recognize the costs of excessive output variability, but nevertheless constrain monetary policymakers from responding to deviations of output from its target, except when the inflation target has already been met or when policymakers can project that it will be met in a reasonable period?
+In my view, such regimes are likely to remain suboptimal, compared with a more flexible dual-mandate regime.
+Transparency, Accountability, and the Dual Mandate As I noted, transparency about monetary policy requires a full and accurate account of the objectives.
+But pretending that inflation is the only objective, while taking account of output variability in practice, only makes for less-transparent policy and ensures that the central bank will have difficulty communicating the rationale for its policy actions.
+I remember the first conference I attended after joining the Board of Governors.
+Two foreign central bankers--each from inflation-targeting countries--lectured me about how "good" central bankers acted in public.
+They each told me that a disciplined central banker would never admit to having a stabilization objective and never admit that there was a cost of lowering inflation.
+Such admissions, they warned, would only undermine the public's confidence in a central banker's commitment to price stability.
+I responded that this lesson in central banking surprised me.
+I would not have thought obfuscating about policy objectives or the way monetary policy affects the economy would have enhanced the credibility of a policymaker.
+I still don't.
+III.
+The Case for an Explicit Inflation Target An explicit inflation target would, in my view, give added precision to an already mandated objective.
+Three of the arguments for inflation-targeting regimes, it seems to me, also support an explicit inflation target within a dual mandate.
+First, an explicit inflation target would improve the transparency and accountability of monetary policy.
+Second, it might help, at the margin, to anchor inflation expectations.
+Third, it would help to institutionalize recent good monetary policy.
+It would also, in my view, make the decisionmaking process more coherent.
+Indeed, moving in this direction would extract most of the benefits of an inflation-targeting regime without suffering the loss of flexibility inherent in its hierarchical mandate.
+Improving Transparency and Accountability Transparency is an important goal for monetary policymakers for two reasons.
+First, a more transparent policy may be a more effective one.
+Monetary policy works both through the setting of a target short-term nominal interest rate and by the expectations policymakers induce in the markets, wittingly or unwittingly, about the course of future policy.
+To the extent that market participants correctly anticipate future policy moves, long-term interest rates will move in response to expectations of future moves in short-term rates, in effect, speeding the response of aggregate demand to monetary policy.
+Second, central bank independence has to be balanced by accountability.
+More precise goals increase both the transparency and the accountability of monetary policy.
+Anchoring Inflation Expectations and Increasing Credibility Anchoring inflation expectations at the targeted rate of inflation is an important goal for monetary policy.
+However, whether an explicit inflation target or a formal inflation-targeting regime would boost the credibility of the central bank's commitment to price stability is more debatable.
+In my judgment, credibility is primarily earned by performance.
+In addition, there is little empirical evidence to suggest that either explicit inflation targets or inflation-targeting regimes lower the cost of disinflation by directly lowering inflation expectations.
+Still, at the margin, such a target might enhance the ability of the Fed to anchor inflation expectations and perhaps also enhance the ability of the Fed to pursue its stabilization objective without undermining the public's confidence in its commitment to low inflation.
+Institutionalizing Good Monetary Policy Most observers would rate monetary policy in the United States over the last two decades as very good.
+Good policy, in turn, depends on the combination of a well-defined mandate, a disciplined strategy for achieving the mandate, and the quality of the FOMC and its staff working to implement the strategy.
+The Chairman has considerable influence over the policy outcome, disproportionate to the one vote he or she casts, so that the quality of the chairman is especially important.
+The Federal Reserve has been fortunate to have strong leadership for many years under both Paul Volcker and Alan Greenspan.
+A more fully articulated mandate could help ensure that policy remains well focused and disciplined as the leadership of the Fed changes.
+Facilitating the Policymaking Process The Fed staff routinely shows policymakers the prescriptions from several Taylor-rule type policy reaction functions and such a rule is explicitly incorporated into the Fed's large-scale model used for policy analysis.
+The staff has never asked FOMC members about their preferences for a numerical inflation target and instead often employs the target that John Taylor used in the policy rule he introduced in 1993.
+I have great regard for John, but this seems to be a rather unusual way for a policy rule to be run at the Fed.
+More important, if the target is implicit, and therefore imprecise, members of the FOMC inevitably will each make policy decisions in pursuit of different inflation targets.
+It seems to me that the internal discussion of policy would be more coherent if policymakers agreed in advance on an inflation objective.
+There would still be differences in policy preferences at FOMC meetings due, for example, to different views about the economic outlook, different views about the structure of the economy, and different views about the sustainable level of the unemployment rate or the maximum sustainable rate of growth in output.
+But, provided that all FOMC members agreed to seek the objective chosen by the majority, an explicit target would prevent members from pulling in different directions because of different inflation objectives.
+Retaining Flexibility with the Dual Mandate The key issue for me is whether setting an explicit inflation target would reduce the flexibility of policymakers to pursue a dual mandate and select the preferred point along the tradeoff between output and inflation variability.
+That is, would making the p* in the Taylor rule explicit inevitably also lead to a change in the relative responses to deviations from the output and inflation targets (the c and d parameters in equation 2)?
+Specifically, would implementing an explicit inflation target inevitably also raise the response parameter on the inflation gap relative to that on the output gap?
+In my view, the answer is that this need not be the case, but I agree that there is some risk of this outcome.
+It seems to me, however, that it is less likely if the move to an explicit inflation target is taken in the context of a reaffirmation of the dual mandate.
+If It Ain't Broke, Don't Fix It As I noted above, most observers believe that monetary policy has been excellent in recent years.
+Why, then, change the underlying framework for policy, especially when this change is not likely to have much of an influence on the conduct of monetary policy?
+The case for moving to an explicit inflation target within our current dual mandate is that it extracts most of the potential benefits of inflation-targeting regimes without necessarily reducing the flexibility of policy.
+I believe that the Fed remains more responsive to deviations of output from its target than most inflation-targeting central banks, even allowing for the convergence that has been under way.
+I believe we could retain that flexibility with an explicit inflation target because of our historical commitment to a dual mandate and because there would be no presumption that the fundamental strategy for conducting monetary policy, summarized by the Taylor rule, would change.
+At the same time, I believe transparency and accountability are appropriate goals for monetary policymakers and that an explicit inflation target would contribute to each of these goals, even if it would not have had much effect on the actual course of policy in recent years.
+Should the Full Employment Objective Be Explicit Also?
+A natural question in the case of a dual mandate is whether both objectives should be made explicit.
+Some members of the Congress, for example, might encourage the Fed to adopt an explicit objective for full employment to balance an explicit inflation objective.
+Although I support an explicit objective for inflation, it would not be constructive, in my view, to set an explicit numerical target for full employment.
+The central bank is capable of achieving an inflation objective, at least on average over a period of years.
+In contrast, if we define full employment in terms of a threshold for the unemployment rate consistent with maximum sustainable employment, the central bank has no choice about what this threshold should be.14 It is determined by the structure of the economy, including the effectiveness of institutions and markets in matching vacancies and unemployed workers, and by policies, such as the levels of unemployment compensation and minimum wage rates.
+Because institutions and markets evolve and labor market policies change, it would be inappropriate to set a fixed numerical objective for full employment.
+That does not rule out central banks being more transparent about their estimate of the unemployment rate that is consistent with maximum sustainable employment, though no central bank has ventured into this territory.
+That's perhaps not surprising.
+Indeed, it would be difficult to do so because there is considerable debate--both inside and outside central banks--about the usefulness of a "full employment rate of unemployment" as a guide to policy and, even among those who believe this is an important and useful concept, about what that rate may be today and how it tends to change over time.
+So the issue here is not simply one of transparency and accountability.
+In addition, political considerations may be at work.
+At times, an increase in the unemployment rate may be required to sustain stable, low inflation.
+Rare is the leader of a monetary policy committee who relishes going to the legislature and reporting that the central bank is concerned that too many people have jobs.
+The uncertainty about the threshold unemployment rate also suggests a differing degree of intensity in the response of monetary policy to deviations of inflation and output to their respective targets.
+That uncertainty derives from our inability to precisely pin down two key parameters--the threshold unemployment rate and the trend rate of growth in potential output.
+As a result, there is a subtle difference between the two objectives in the dual mandate.
+One objective--price stability--can be well defined and is fully under the control of monetary policymakers, at least over a period of time.
+The other--full employment--is set by the structure of the economy, not policymakers, and cannot be precisely pinned down numerically at any point in time and can vary over time.
+IV.
+Practical Considerations Let us now assume that a decision has been made to move to an explicit inflation target.
+Several steps would be required to implement such a decision.
+First, we would have to decide who would set the explicit target.
+Second, a specific price index would have to be selected to serve as the basis for the inflation target.
+Third, we would have to decide whether the target should be a point or a range.
+Fourth, we would have to decide on the level of the point or the values that establish the range.
+Who Should Set the Inflation Target?
+Among inflation-targeting regimes, there is a mix of practices with respect to who sets the numerical target for inflation.
+In almost all cases, the government identifies price stability as a target, either as the single target or as part of a hierarchical mandate.
+In about half the cases, the explicit numerical target for inflation is set by the government, typically the finance ministry, generally in consultation with the central bank; in about half the cases, the target is set by the central bank, often in consultation with the finance ministry.
+The United States already has a mandate that includes price stability.
+The existing law therefore seems to be compatible with the Federal Reserve setting an explicit numerical inflation rate consistent with the notion of price stability.
+Thus, the FOMC could move in this direction without any amendment to the Federal Reserve Act.
+Perhaps the setting of an explicit inflation target by the Federal Reserve might be analogous to its earlier setting of numerical money growth ranges.
+In 1978, the Congress instructed the Fed to report an objective for money growth.
+The FOMC then decided unilaterally on the numerical ranges.
+In 2000, the Congress amended the Federal Reserve Act to remove the requirement that the Fed report to the Congress on the ranges for monetary aggregates.
+In the case of an inflation objective, the Congress has already imposed a price-stability objective.
+All the FOMC would be doing is communicating back to the Congress and the public its interpretation of that objective.
+Nevertheless, such a move would likely be interpreted as an important change in the conduct of monetary policy.
+Consequently, if the FOMC desired to move in this direction, extensive prior consultations would be appropriate, especially with the Congress, but also with the Administration.
+It might also be constructive to get feedback from a wider audience on a proposal to set an explicit inflation target before proceeding in this direction.
+It would, however, be problematic for the United States to follow the approach in many inflation-targeting countries of having the ministry of finance (in our case, the Treasury Department) set the inflation target.
+Such an approach is more comfortable politically in a parliamentary system, in which the legislative and executive branches are always controlled by the same party or coalition.
+It seems unlikely that the Congress would delegate this responsibility to the Treasury Department.
+Even regular consultation with the Treasury department about a specific goal under the approach I have mentioned here might raise questions unless the Congress explicitly authorized it.
+Choosing a Specific Price Index Most broad measures of inflation move roughly in concert over time.
+Nevertheless, the differentials among the most widely used aggregate measures of inflation generally are not stable over long periods.
+Therefore, it does make some difference which measure is selected for the target.
+All inflation-targeting central banks use a measure of consumer price inflation for their target.
+In the absence of a complete model of the cost of inflation to guide the choice, the use of consumer price measures seems appropriate because these measures are the most relevant to the calculation of real income for households, because the welfare of households is ultimately the goal for monetary policy, and because measures of consumer price inflation are often the most visible of inflation measures.
+In the United States, this would mean a choice between the consumer price index (CPI) and the price index for personal consumption expenditures.
+The CPI is the most widely recognized measure of consumer price inflation, but the Federal Reserve has expressed the view that the measure based on personal consumption expenditures has advantages as a measure of trends in consumer price inflation.
+Setting the inflation rate in terms of the price index for personal consumption expenditures would further elevate this measure in the public consciousness.
+A related decision is whether to set the target in terms of overall inflation or in terms of core inflation--that is, consumer price inflation net of the direct influence of movements in energy and food prices, which tend to be volatile.
+Focusing on core inflation might increase the likelihood that monetary policy would respond to underlying inflation developments that promised to be persistent, and not on transitory changes in inflation.
+Nevertheless, most inflation-targeting regimes set their explicit inflation target in terms of overall inflation.
+As long as policy is focused on achieving a longer-run inflation outcome, as opposed to meeting the target each quarter or even each year, a target for overall inflation can work well, because swings in energy and food prices that lead to shorter-run inflation blips tend to dissipate or wash out over longer periods.
+In this case, it would also be useful, as is the practice at some inflation-targeting central banks, to monitor movements in core inflation as a guide to whether current monetary policy is well aligned with the longer-term objective for overall inflation.
+Weighing the pros and cons, policy might be better and the communication to the public might be most clear if the target itself was expressed in terms of the core inflation rate.
+Point or Range Practice differs among inflation-targeting central banks, with about half setting their targets as points and the other half as ranges.
+Among those who adopt ranges, some also identify the midpoint of the range as the specific target.
+I prefer a point target.
+This provides a more precise anchor for inflation expectations and a more specific target for monetary policymakers.
+If a range is selected, questions will arise about the differing implications of movements of inflation inside the range and outside the range and, in the absence of explicitly identifying the mid-point as the target, about where within the range policymakers would prefer inflation to gravitate.
+If there is indifference about movements inside the range, this will tilt policy toward allowing greater variability of inflation.
+What Level?
+If the objective is price stability, this may seem like a pointless question.
+But it is an important issue for two reasons.
+First, assuming that the official indexes are biased upward, true price stability will be achieved at some positive rate for measured inflation.
+Second, there are considerations that favor allowing some small positive rate of true inflation, rather than true price stability.
+In 1995, the Boskin Commission estimated that the measurement bias for the CPI was between 0.8 and 1.6 percentage points.
+Since then, the Bureau of Labor Statistics has made a series of methodological improvements in the CPI, lowering the bias.
+In 1999, the Congressional Budget Office estimated that the cumulative effects of these improvements had been to reduce the measurement error to a point estimate of 0.8 percent.
+Therefore, in terms of the CPI, if this were the only consideration, the target could be set at 1 percent to allow for measurement error (and also a round number).
+This also suggests that the target should not be fixed in time, but should be adjusted over time to take into account changes in the estimated bias.
+There are a couple of reasons to consider setting an inflation target above the level consistent with true price stability.
+If there is resistance to declines in nominal wages, a small amount of wage inflation may enhance the flexibility of real wages and facilitate the movement to equilibrium in the labor market.15 Whether this requires positive price inflation will depend on the variance of the wage changes, the degree of nominal wage rigidity, and the rate of growth of labor productivity.
+In addition, a positive rate of inflation increases the flexibility of monetary policy by allowing policymakers to drive real interest rates below zero.
+Particularly in light of the latter consideration, I would set the inflation target at what I refer to as true price stability plus a small cushion.
+Specifically, for the CPI, I would set it at 2 percent, 1 percentage point for the measurement error and 1 percentage point for the cushion.16 This would correspond roughly to a 1-1/2 percent inflation rate for the price index for personal consumption expenditures, based on recent differentials of this measure relative to the inflation rate for the CPI.
+The precise magnitude of the cushion should also be subject to adjustment over time to reflect ongoing research about its optimal size.
+Time Horizon There should be no fixed time horizon for returning inflation to its target when deviations occur.
+Such a horizon would be arbitrary, in some cases might not be credible, and potentially would constrain the ability of the FOMC to pursue the dual mandate.
+On the other hand, it would be useful to use a measure for inflation that smoothes over transient shocks and that is not subject to potential problems with seasonal adjustment.
+For that reason, I would favor a year-over-year measure of the inflation rate--for example, a twelve-month CPI or price index for personal consumption expenditures--for evaluating performance relative to the target.
+V. Conclusion It is widely agreed that price stability is an important objective of monetary policy and that central banks should be held responsible for that objective.
+That said, central banks differ over whether they should set an explicit inflation target and whether they should acknowledge and take responsibility for other objectives, specifically full employment or output stabilization.
+An explicit inflation target would give added precision to an already mandated objective and would thereby improve the transparency of and accountability for monetary policy.
+Moving to an explicit inflation target would, in my view, be consistent with the current statute governing the objectives of monetary policy in the United States and would, in turn, require no fundamental change in the current Federal Reserve strategy for implementing monetary policy.
+The most important question that has to be addressed in order to assess the costs and benefits of a move in this direction is whether it could be accomplished without reducing the flexibility the Fed now has to pursue a dual mandate.
+In my view, if the explicit mandate is set in the context of a reaffirmation of the dual mandate, the flexibility now enjoyed by U.S. monetary policy will likely be maintained.
+A second question is whether moving in this direction would matter much for the conduct of monetary policy in the United States.
+I believe the answer to that question is that it would not matter much today, with the current Chairman and the current FOMC.
+But moving in this direction would provide some greater assurance of continuity in policy.
+In addition, it would have the virtue of enhancing transparency and accountability.
+Footnotes 1.
+See, for example, Bernanke et al.
+(1999) and Gramlich (2000).
+Return to text 2.
+Volcker (1983).
+Return to text 3.
+Greenspan (1994).
+Return to text 4.
+King (1997).
+Return to text 5.
+Svensson (1999).
+Return to text 6.
+For a discussion of the case for price stability, see Fischer (1996).
+Return to text 7.
+Much of this research involves simulations of empirical macroeconomic models with alternative policy rules.
+The simple policy rules used in these exercises mimic the systematic aspects of the response of discretionary policy to changes in the macroeconomy.
+For example, Taylor has shown that Federal Reserve policy actions in recent years have been broadly similar to what a simple policy rule would have prescribed.
+These exercises therefore demonstrate the ability of simple rules--and by extension, discretionary monetary policy more broadly--to both reduce the variability of output and achieve a long-run inflation target.
+See Taylor (1999) for a series of papers involving simulations of models with various policy rules.
+Return to text 8.
+Squaring the deviations from target values also penalizes larger deviations more than proportionately compared to smaller ones.
+Return to text 9.
+Levin, Volker and Williams (1999) analyze the output-inflation volatility frontier in four different macroeconomic models.
+Return to text 10.
+For some supporting evidence, see Cecchetti and Ehrmann (2001).
+Return to text 11.
+Taylor (1993).
+Return to text 12.
+A Taylor rule could also be consistent with a regime that set inflation as the sole objective.
+In this case, the output gap terms would be viewed as a predictor of inflation, allowing policymakers to take pre-emptive action to contain the threat of higher inflation, in addition to directly responding to higher inflation itself.
+Return to text 13.
+See Kim and Henderson (2000).
+Return to text 14.
+This threshold is often referred to as the non-accelerating inflation rate of unemployment or the NAIRU.
+Return to text 15.
+See Akerlof, Dickens, and Perry (1966).
+Return to text 16.
+See Fuhrer and Sniderman (2000) for a series of papers on the implications of a zero nominal bound for the nominal interest rate for setting inflation targets.
+The paper by Reifschneider and Williams in that volume provides some support for the one percentage point cushion I have suggested.
+They conclude: "[I]n very low inflation environments…the zero bound could prove to be a significant constraint on policy…With the effectiveness of open market operations diminished at times, the economy would likely experience a noticeable increase in the variability of output and employment, particularly if policymakers were to pursue an inflation target of 1 percent or below."
+Return to text References Akerlof, George, William Dickins, and George Perry.
+"The Macroeconomics of Low Inflation," Brookings Papers on Economic Activity, 1:1996, pp.
+1-59.
+Bernanke, Ben S., Thomas Laubach, Frederic S. Mishkin, and Adam S. Posen.
+Inflation Targeting: Lessons from the International Experience.
+Princeton, N.J.: Princeton University Press, 1999.
+Cecchetti, Stephen G., and M. Ehrmann.
+"Does Inflation Targeting Increase Output Volatility?
+An International Comparison of Policymakers' Preferences and Outcomes," in Klaus Schmidt-Hebbel, ed., Monetary Policy: Rules and Transmission Mechanisms, Proceedings of the Third Annual Conference of the Central Bank of Chile, 1999 (Central Bank of Chile) (www.bcentral.cl).
+Fischer, Stanley.
+"Why Are Central Banks Pursuing Long-Run Price Stability," in Achieving Price Stability: A Symposium Sponsored by the Federal Reserve Bank of Kansas City, (Federal Reserve Bank of Kansas City, 1996).
+Fuhrer, Jeffrey C., and Mark S. Sniderman, eds.
+"Monetary Policy in a Low Inflation Environment: A Conference Sponsored by the Federal Reserve Banks of Boston, New York, Cleveland, Richmond, Atlanta, St. Louis and Minneapolis and the Board of Governors of the Federal Reserve System, October 18-20, 1999."
+Journal of Money, Credit and Banking, vol.
+32 (November 2000) part 2.
+Gramlich, Edward M. "Inflation Targeting," (speech delivered before the Charlotte Economics Club, Charlotte, N.C., January 13, 2000) (www.federalreserve.gov/boarddocs/speeches/2000/20000113.htm).
+Greenspan, Alan.
+Statement before the Subcommittee on Economic Growth and Credit Formulation of the Committee on Banking, Finance, and Urban Affairs, U.S. House of Representatives, February 22, 1994.
+Kim, Jinill and Dale Henderson.
+"Exactly How Suboptimal are Inflation Targeting and Nominal Income Targeting."
+December 2000, (www.people.virginia.edu/~jk9n/hk3001219.pdf).
+King, Mervyn.
+"Changes in U.K. Monetary Policy: Rules and Discretion in Practice," Journal of Monetary Economics, vol.
+39 (June 1997), pp.
+81-97.
+Levin, Andrew T., Volker Wieland and John C. Williams.
+"Robustness of Simple Monetary Policy Rules under Model Uncertainty," in John B. Taylor, ed., Monetary Policy Rules.
+Chicago: University of Chicago Press, 1999.
+Svensson, Lars O.
+"How Should Monetary Policy be Conducted in an Era of Price Stability?"
+in New Challenges for Monetary Policy: A Symposium Sponsored by the Federal Reserve Bank of Kansas City, (Federal Reserve Bank of Kansas City, 1999), pp.
+195-259.
+Taylor, John B.
+"Discretion versus Policy Rules in Practice," Carnegie-Rochester Conferences Series on Public Policy, vol.
+39 (December 1993), pp.
+195-214.
+Taylor, John B., ed.. Monetary Policy Rules.
+A National Bureau of Economic Research Conference Report.
+Chicago and London: The University of Chicago Press, 1999.

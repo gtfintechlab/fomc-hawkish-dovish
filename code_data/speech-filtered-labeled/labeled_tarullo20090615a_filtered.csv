@@ -1,6 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,the most visible manifestations of this trend were the explosive growth of securitization and the increasing involvement of banks and their affiliates in all parts of the securitization process.,LABEL_1,0.8286738991737366
-1,"the new market-based liquidity problems arose from sudden, sharp movements in asset prices that led to enormous market uncertainty concerning the values of those assets.",LABEL_1,0.7119397521018982
-2,"as now liquidity-strained institutions made increasingly distressed asset sales, they placed further downward pressure on asset prices, leading to margin calls for leveraged actors and mark-to-market losses for all holders of the assets.",LABEL_0,0.9990240931510925
-3,"since multiple firms were relying on similar marketable assets as a ready source of liquidity, extreme price declines could ensue, engendering a negative feedback loop that, if unchecked, would threaten the solvency of firms operating on the assumption of liquidity through asset sales or borrowings secured by such assets.",LABEL_0,0.9939024448394775
-4,"the number of offices per community bank did increase from 2.4 to 3.9, but even this 60% growth must be understood in the context of the changes in larger banks.",LABEL_1,0.5178773999214172

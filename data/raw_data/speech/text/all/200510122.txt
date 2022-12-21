@@ -1,0 +1,105 @@
+I would like to thank the National Bankers Association for inviting me to participate in the annual convention today.
+I know that regulatory issues are always a critical concern for your members.
+Today, I would like to focus on three regulatory issues that are currently high on the list of both bankers and supervisors: credit risk, particularly in residential and commercial real estate; the proposed revisions to the current minimum regulatory capital requirements; and the new disclosures under the Home Mortgage Disclosure Act (HMDA).
+Credit Risk First, I would like to talk about credit risk, which has been the leading cause of bank failures over the years and remains the biggest risk for most financial institutions.
+While credit performance has been very strong lately, and banks of all sizes survived the 2001 recession with only a slight decline in credit quality, banking supervisors have become concerned recently about apparent increased risk-taking in both commercial and residential real estate lending.
+Of course, when property values rise and the loan business grows increasingly competitive, bank supervisors tend to worry that more-aggressive underwriting may set the stage for future deterioration in credit quality.
+The federal agencies issued joint guidance on home equity lines of credit, or HELOCs, in May; we are now working on additional guidance on affordability products in the residential mortgage market and on underwriting practices in the commercial real estate market.
+Residential real estate lending has been a significant focus of supervisory attention this year.
+Average U.S. housing prices have appreciated more than 80 percent since 1997, and were up 13.4 percent in the second quarter--the largest year-to-year increase in more than a quarter century.
+Home prices react fundamentally to factors affecting affordability, such as household income growth and mortgage interest rates.
+But another factor apparently fueling price appreciation has been an increase in speculative buying; in other words, more property purchases have been made by investors for profit and not for use as their residence.
+As home prices have risen, lenders have turned to a variety of ways to help their customers buy the homes they want.
+These include non-traditional, or "affordability," mortgage products.
+We've also seen the increased use of HELOCs as part of purchase financing, supplementing the first lien.
+At the end of 2004, outstanding drawn HELOCs at all insured commercial banks totaled $398 billion, a 40 percent increase over 2003.
+Meanwhile, the federal banking agencies have observed some easing of underwriting standards, with lenders competing to attract home equity lending business.
+Lenders are sometimes offering interest-only loans, high loan-to-value ratios, and limited requirements for documentation of a borrower's assets and income.
+Given this easing of standards, there is some concern that banks' home equity loan portfolios may be vulnerable to a rise in interest rates and, in some markets, a decline in home values.
+In May, the federal banking agencies issued guidance describing the sound risk management practices that institutions should follow to keep pace with the risks of a growing home equity portfolio.
+For instance, underwriting standards for interest-only and variable rate HELOCs should include an assessment of the borrower's ability to absorb potential increases in interest rates.
+Non-traditional, or "affordability," mortgage products are designed to minimize down-payments, initial monthly payments, or both.
+These include option adjustable-rate mortgages, or option ARMs, which allow borrowers to choose among four payment options; interest-only mortgages, which defer principal repayments for up to ten years; and simultaneous second mortgages, which allow buyers to finance up to 100 percent of the value of their homes.
+Affordability products are growing rapidly but still represent only a small share of outstanding mortgages.
+From the point of view of bank supervisors, affordability products do not necessarily pose solvency concerns.
+Despite the apparent decline in underwriting standards, less than 5 percent of outstanding mortgages have a loan-to-value ratio greater than 90 percent, which means that the vast majority of homeowners have a significant equity cushion; in the event prices fall, only a very small percentage of owners are likely to see their debts exceed the value of their homes.
+Moreover, depository institutions are generally well-capitalized and well-diversified, which means that prices could fall significantly without leading to a significant number of bank failures.
+Still, affordability products pose special risks--for instance, there is a greater likelihood that borrowers will experience negative amortization, that is, since the monthly payments do not cover current accruing interest, their mortgage balances will increase over time.
+Since borrowers with traditional mortgages expect the amortization of their loans will decrease their balances and build equity in their homes, we would expect lenders to clearly communicate to borrowers that this may not happen with non-traditional products.
+When affordability products are offered along with easing of traditional credit underwriting practices, such as income verification and sound property appraisals, these products may pose potentially higher risks of default than traditional mortgages.
+In August, Standard & Poor's revised its ratings criteria for option-ARM securitizations, increasing the amount of credit enhancement required.
+The bank regulators are conducting a survey of industry practices with respect to affordability products and are considering guidance on the subject in the near future.
+We hope to find out whether financial institutions are fully assessing and managing the new risks posed by affordability products.
+Bank supervisors today also have concerns about commercial real estate, defined as those real estate loans where the primary source of repayment is derived from the rental income or sale proceeds of commercial property.
+This has historically been a highly volatile asset class, and it played a central role in the banking problems of the late 1980s and early 1990s.
+Federal Reserve staff is currently considering supervisory guidance on sound risk management practices for commercial real estate exposures, with the goal of issuing the guidance on an interagency basis.
+Banking supervisors are carefully monitoring rising commercial real estate concentrations at some banking organizations.
+At banks with high concentrations, bank supervisors expect risk-management practices, underwriting standards, and capital levels to keep pace with loan growth.
+During previous downturns in the credit cycle, banks with high commercial real estate concentrations have suffered significant losses.
+Smaller banks as a group have shown the strongest appetite for commercial real estate loans, and some believe that commercial real estate lending remains an area in which small banks can particularly effectively compete with larger banks.
+So far, underwriting standards are high by historic standards, and much higher than in the period preceding the earlier crises.
+Still, standards may be under some downward pressure as a result of strong competition and tight spreads.
+Regulatory Capital Developments I would now like to discuss a few recent developments pertaining to regulatory capital.
+As most of you probably know, in the past two weeks there has been activity in U.S. implementation of the Basel II capital framework, as well as in the development of revisions to current U.S. Basel I-based capital rules.
+Last week, the four federal bank regulatory agencies--the Federal Reserve Board, the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency and the Office of Thrift Supervision--decided to publish an interagency advance notice of proposed rulemaking (ANPR) for revisions to the existing risk-based capital rules.
+All four agencies are looking forward to comments from the industry and others on the proposal.
+I would like to touch on a few key points.
+First, our current risk-based capital rules, issued in 1989, have served us reasonably well over the years, but of course require ongoing "maintenance" from time to time.
+Some proposals in the Basel I ANPR address areas that have been overdue for review, such as capturing short-term commitments; other portions of the ANPR are directed specifically at possible competitive implications of Basel II implementation in the United States, such as altering the risk-weights for mortgage exposures.
+The rules under discussion in the ANPR, which would still apply to the vast majority of institutions in the United States, would be made more effective and more reflective of risk-taking, while still remaining relatively simple.
+In contrast, the more complex Basel II rules, we propose, would be required only for a small set of large, complex organizations--although any institution that can qualify would be free to opt-in to the Basel II rules.
+I would also like to emphasize that the Basel I proposal released last week is an advance notice, meaning the agencies are signaling their intent and direction on proposals, but are also intentionally leaving a number of areas open in order to solicit a broad range of comments.
+And I should make it clear that the ANPR does not propose changes to the existing U.S. prompt corrective action or leverage requirements, nor does it suggest a new risk-based charge for operational risk.
+Major areas covered in the ANPR include proposals to: increase the number of risk weight categories; permit greater use of external ratings as an indicator of credit risk for externally rated exposures; expand the types of guarantees and collateral that may be taken into account when assigning exposures to risk weight categories; and modify the risk weights associated with residential mortgages.
+The ANPR also sets forth proposals to modify the credit conversion factors for certain types of commitments and to assign a risk-based capital charge to certain securitizations with early-amortization provisions.
+It also seeks comment on assigning a higher risk weight to loans that are ninety days or more past due or in nonaccrual status and to certain commercial real estate exposures with highly volatile characteristics.
+Finally, the ANPR also indicates that the agencies are considering modifying the risk weights on other retail and commercial exposures based on credit scores or some other factors.
+Bankers--particularly at small-to-medium-sized institutions--have expressed concerns about our work on regulatory capital rules because of the potential competitive implications of implementing Basel II rules.
+In drafting the ANPR, the agencies have tried to take those concerns into account.
+At the Federal Reserve, we are particularly interested in effects that Basel II could have on banking markets.
+In that vein, we have published several white papers analyzing the potential impact on specific aspects of banking, such as small-business lending, mortgage lending, and mergers and acquisitions; a paper on credit cards should be available before the end of the year.
+While the conclusions of the papers published so far do not point to broad disruptions in existing banking markets as a result of Basel II, we do acknowledge that certain participants could be affected, especially in commercial and residential credit markets.
+As we move forward with revisions to our Basel I-based rules, we continue to be quite interested in the comments of bankers and others about the potential implications of these proposals.
+Your input is vital to making the final product the right one.
+As supervisors, our focus will continue to be on ensuring that risk-management processes are appropriate for operations of each institution and that those risk systems operate effectively.
+Thus, we expect that non-Basel II banks can continue to have CAMELS 1 and 2 ratings as long as they operate in a safe and sound manner.
+The ANPR represents our attempt to reduce some of the differences between Basel I and Basel II, while acknowledging that simpler rules are still appropriate for nearly all members of the banking industry.
+To be quite clear, from the Federal Reserve's perspective, institutions should not be looked upon as having deficient risk-management systems simply because they choose to stay under the Basel I capital framework.
+In considering changes to Basel I, a challenge we face is how to make the capital requirements more risk sensitive and responsive to potential competitive concerns, while not adding unnecessary regulatory burden.
+To make capital more risk sensitive requires regulators and bankers to employ clearer measures of risk taking.
+If these measures are used by bankers in their internal credit-decision process and are readily available for reporting purposes, then the regulatory burden will be smaller.
+However, some of the proposed amendments may require significant changes to internal information systems.
+We hope that bankers and others will give us specific comments on this tradeoff between risk sensitivity and competitive concerns, on the one hand, with the additional reporting burden on the other, so that we can develop a proposal for capital that is workable for the large number of banks that will continue to use Basel I as amended.
+In addition to the Basel I ANPR, the U.S. banking agencies issued within the past two weeks a statement about the plans for Basel II implementation in the United States.
+The agencies had previously indicated a delay in the Basel II notice of proposed rulemaking based on the results from a recent quantitative impact study (QIS4), which showed a wider dispersion and larger overall drop in regulatory capital requirements for the QIS4 population of banks than the agencies had expected.
+I am very pleased that the agencies, based on additional analysis of QIS4 data over the summer, were able to come to an agreement on a way forward, described in the recent interagency statement.
+In our statement, we made every effort to provide as much information as possible to institutions interested in Basel II, and also, I hope, showed how seriously we are taking Basel II implementation and paying attention to its possible consequences.
+In particular, the agencies underscored the prudence we are using in moving to Basel II by revising the proposed implementation timeline and suggesting extra safeguards beyond the ones already in the Basel II framework.
+As we move forward, we continue to heed the findings from QIS4, especially those relating to the overall level of regulatory capital.
+Capital serves as an important backstop against risk-taking and we need to ensure that an adequate level of capital is produced by the Basel II framework.
+As I have said before, the Federal Reserve would not be comfortable qualifying any bank based on the results of QIS4, if Basel II were to be applied today.
+The QIS4 results demonstrated that bank data and risk-management systems required by Basel II are not yet fully developed and implemented as expected by the framework.
+To be sure, by the time that Basel II "goes live," bankers would have significantly more information regarding our expectations on model specifications and more robust default and loss-severity data.
+Banks would also have to adhere to the qualification standards set by supervisors.
+The road to Basel II will take several more additional steps, but we believe they are well worth the effort.
+We will carefully review the comments to the ANPR on Basel I amendments, and then move to a notice of proposed rulemaking.
+We plan to coordinate the NPRs for Basel I and Basel II so that bankers and others can evaluate each proposal, and compare the two proposals.
+Thus, commenters should have full information when considering both proposals for changes to the capital framework for financial institutions in the United States.
+HMDA Data The topic of fair lending, seen through the prism of the new Home Mortgage Disclosure Act data on mortgage loan pricing, is easily worth a speech in itself.
+Today, I will only be able to touch on the topic.
+However, you will be hearing more from the Federal Reserve about these data as we conduct further analysis.
+The data contain a wealth of information, but in many respects they raise as many questions as they answer.
+Remember that the new interest rate information provides supervisors with a screening tool to identify banks where additional testing needs to be conducted to determine if fair lending compliance is effective.
+Some of the differences in pricing may reflect credit risk, and the HMDA data by itself does not include this information.
+As you have seen in recent headlines, the data show that African-American and Hispanic borrowers obtain higher-priced mortgage loans much more frequently than do whites or Asian-Americans.
+For example, African-American borrowers obtained higher-priced conventional home purchase loans in 2004 more than three-and-one-half times as often as white borrowers; Hispanics, more than twice as often as whites.1 Such great disparities raise legal issues of compliance with fair lending laws as well as basic ethical, social, and economic questions.
+Attempting to answer those questions would be well beyond the scope of my remarks today.
+I will simply emphasize that disparities of this kind challenge us to understand them better.
+For only by understanding the disparities more deeply can we hope to discern their root causes and decide on appropriate responses.
+An article by Federal Reserve staff in the Summer edition of the Federal Reserve Bulletin takes a step in the direction of deepening our understanding.
+It notes that a major reason that African-Americans and Hispanics obtain higher-priced loans more frequently than whites is that they more frequently obtain loans from mortgage lenders that concentrate their business on originating higher-priced loans.
+This partial explanation for the differences in the incidence of higher-priced borrowing, however, begs for its own explanation: Why is there a racial and ethnic difference in the tendency of borrowers to obtain loans from lenders that concentrate on higher-priced lending?
+Qualitative and quantitative research on such questions will be critical to understanding racial and ethnic differences in lending outcomes.
+Staff at the Federal Reserve will continue their research, and we hope and expect others will join them.
+Research would benefit greatly from the input of banks and mortgage lenders such as yourselves.
+The National Bankers Association, in particular, has provided valuable insight in the past into the structure and dynamics of mortgage lending markets with substantial minority populations, and into ways lenders could better serve those markets.

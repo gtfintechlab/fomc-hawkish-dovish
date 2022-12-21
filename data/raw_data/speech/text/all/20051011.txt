@@ -1,0 +1,170 @@
+In one sense, much has changed since my time here in the early 1960s, when my intellectual energy was too often focused on such pursuits as evading compulsory chapel in favor of coffee and a cigarette at The Shack.
+But in a much more important sense, the essence of the Wooster educational experience remains unchanged.
+I know from conversations, reading, and my occasional forays back to campus that Wooster continues to be a place where close, continuing contact with knowledgeable and enthusiastic scholars can open new horizons to students, shaping their subsequent intellectual lives and careers.
+I know that is what happened to me here.
+Another strong thread in the Wooster tradition has been putting the knowledge acquired here to work for the common good as well as for individual gain.
+In that tradition, I suggest to the students in the audience that you consider government service at some point in your careers.
+Governments at all levels have the power to help or harm.
+To increase the odds on the former, we need to apply the kinds of knowledge and analytic skills you are obtaining here.
+I can tell you from personal experience that going to work each morning knowing that how well you do your job could affect the welfare of your fellow citizens can be a little scary, but it is also tremendously challenging and rewarding.
+In keeping with the habits of mind I developed here, I approached this talk as a term paper project.
+I picked a topic that I wanted to think through, one that would not require any truly original research and could be done in a limited amount of time.
+Well, my Wooster experience has been replicated: The topic has turned out to be larger and more complex than I anticipated, I have been working and revising up to the last minute, and I have yet to arrive at very settled conclusions.1 Still, Wooster is an especially fitting venue for this assignment.
+I intend to spend much of the remaining time discussing the evolving linkages between globalization and monetary policy.
+And here, much is different from my undergraduate days, importantly because of the shift to flexible exchange rates in the early 1970s.
+If memory serves, this change was one I advocated in my senior Independent Study (IS) thesis in 1964, though I do not pretend that my effort was a cause of the breakdown of the Bretton Woods system.
+Introductory Observations "Globalization" can mean many things, but tonight I mean it to refer to increased interdependence of national economies as reflected in greater and freer flows of goods, services, capital, and even labor across national borders.
+In recent years, world trade--imports and exports--has risen much faster than world income and production, and so has the flow of capital.
+No doubt the big players--multinational corporations and "production groups" in an intricate chain of subcontracting--have played a major role in this phenomenon.
+They have relocated production around the globe to more cost-efficient locations and prompted a worldwide expansion of trade in parts and semifinished goods as well as in final products.
+But increasingly, small businesses also are participating in global markets.
+When we hear the term "globalization," we tend to think first of trade in physical goods, but among the most striking aspects of recent developments is the expansion of global trade in services and the closer integration of global financial markets.
+Who has not had the experience of realizing that the person on the phone helping with a problem with software or a credit card lives in another country?
+Indeed, arrangements are now available to academic researchers to outsource their routine statistical work and other support to anonymous foreign research assistants via the Internet, though I doubt this technique is an acceptable approach for your IS project.
+The accelerated pace of globalization has reflected a number of key developments.
+Rapidly changing technology has reduced the cost of transporting goods and services; advances in computing and telecommunications have greatly facilitated the flow of information around the world.
+Recognizing the benefits to their citizens from greater economic integration, governments have reduced barriers to trade and capital flows.
+They have done this bilaterally, among groups of countries, between economic blocs, and on a regional basis--such as within the European Community and in the North American Free Trade Agreement in our own hemisphere.
+But we should not overlook the main drivers behind exploiting these opportunities--ourselves.
+As consumers responding to lower prices and the greater availability of goods and services, and as investors seeking higher returns on investment, we have forced the growth of cross-border trade and financial transactions.
+Globalization has widened product choice everywhere and lowered costs to consumers by improving the global allocation of resources and moving factors of production into their most effective uses.
+The consensus that market-based economic systems, open to competition and innovation, provide the most promising path to higher standards of living has also propelled these trends.
+Partly as a consequence, for the past fifteen years or so, globalization has featured the integration of three major economic regions--China, South Asia, and the former Soviet-bloc states--that previously had been essentially closed or at least heavily insulated from the global trading system.
+Although the details vary greatly, each of these regions has a large low-wage workforce.
+Many of the questions about the effects of globalization arise from the potential consequences of adding these workers to the global network of production and distribution.
+Their very low wages reflected their abysmally low productivity under the rigid economic and political systems they were saddled with.
+They will become more productive as they acquire the essential tools--physical capital, training, and the freedom to make choices--and their real wages will rise on average.
+Worker productivity and real wages could be expected to be boosted further by efficiency gains associated with the spread of new production methods, new technologies, and new skills that often accompany greater openness to trade and foreign investment.
+Think of it: Hundreds of millions of people are gaining the opportunity to climb out of poverty as a result of the possibilities generated by their participation in open trading and market systems.
+Such changes in previously underdeveloped areas of our globe cannot but have effects on prevailing economic relationships.
+The mix and location of production, relative product prices, and relative returns to the various inputs into production will change for economies already in the system, perhaps dramatically.
+From the introduction of large numbers of new workers into the global economy, we might expect to see returns on capital rise relative to returns on labor in those economies.
+In addition, we would expect to see downward pressure on the compensation of low-skill workers in those countries relative to that of their fellow citizens with higher skills.
+At the same time, prices of goods and services imported from newly industrializing economies will decline relative to the prices of the products they buy from us and other developed nations, effectively raising the real incomes of U.S. citizens.
+As part of this process, some dislocations are inevitable.
+Here in northern Ohio, the difficulties have been especially intense as less-expensive foreign-produced goods have become more readily available--to the detriment of local manufacturers and their employees.
+Expanding trade produces pain for some, as well as gain.
+But resisting adjustment would be costly to our society as a whole.
+We know from Smith and Ricardo that the welfare of all countries, whether new entrants or incumbents, should increase on balance from greater trade and specialization as well as from the ability of capital to find its highest return.
+Barriers to trade and other forms of protectionism not only interfere with these processes but also block the associated growth of productivity and, more generally, impede an economy's ability to weather shocks.
+They also put money on the table in the form of rents to be gained from keeping or evading the barriers, and the resulting rent-seeking behavior undercuts the rule of law and respect for government.
+Thus, sustaining the momentum toward freer trade, and at the same time helping people in this country adapt--by providing the skills necessary to share in the prosperity and by helping workers relocate to expanding sectors--are critical public policy issues today.
+These issues, although very important, are not the focus of my concerns tonight, however.
+I am going to address some of the effects of the process of globalization on my job as a central banker.
+Under the Federal Reserve Act, that job is to foster over the long run stable prices and maximum employment for the U.S. economy.
+Our instructions are not to focus on particular industries, sectors, or regions.
+Rather, what we can do is to provide, as best we can, a stable overall macroeconomic background to facilitate the many transitions and changes going on within the economy.
+If we did our job poorly and tolerated significant deviations from price stability and fluctuations in aggregate income and output, we would only add to the difficulties workers and businesses face in discerning the correct signals from evolving relative prices and in making the resultant necessary and beneficial adjustments in resource allocation.
+How we have needed to go about doing our job well has changed over the years with the evolution of international economic relationships.
+If we look back several decades--say, to the immediate post-World War II period--the external sector of the U.S. economy had a much smaller overall role and, correspondingly, a smaller place in U.S. macroeconomic policy than it does today.
+Because of the United States' great relative size and comparatively low degree of exposure to outside economic forces, foreign economic developments generally did not have material consequences on the U.S. macroeconomy.
+Moreover, international financial flows moved through only a few established channels.
+Exchange rates for the dollar with respect to major currencies were fixed in a system in which the United States enjoyed the "exorbitant privilege" of being the reserve currency.
+In effect, the United States was the "nth" country in the global economic system, meaning that U.S. economic preeminence implied that policy--including monetary policy--could be set essentially independently of the global economy; our trading partners would have to react to the downstream consequences of U.S. developments.
+The recovery of our trading partners from World War II, the development of more-sophisticated financial markets, the growth of trade, and the desires of other countries to pursue policies independent from those of the United States strained to the breaking point the exchange rate system put in place at the end of the war.
+In the early 1970s, we shifted from fixed exchange rates under the Bretton Woods system to the present arrangements, in which the dollar's value against major currencies is set by market forces.
+This change and the steady trends toward greater openness and integration that I described earlier have exposed our economy more directly to the effects of foreign developments.
+Swings in business cycles abroad, disruptions to the supply of imported goods like oil, and variations in exchange rates have left their imprint on the U.S. economy over the past thirty years.
+Importantly, the fallout from such shocks has not been restricted to its effects on our trade in goods and services; for some disturbances, links through the financial sector have been an important avenue of transmission.
+In the late 1990s, for example, financial crises in Asia, Latin America, and Russia created serious disturbances in the global financial system, posing new challenges for U.S. monetary policy makers.
+Although foreign shocks have been more noticeable as we have become more globalized, greater openness has probably not made our economy more volatile on balance.
+The reason is that the external sector also acts as a buffer for shocks that arise domestically.
+For example, a change in domestic demand should have a smaller effect on gross domestic product, employment, and prices in an open economy than in a closed one because some of its effect will fall on imports--through changes in income or the dollar's exchange rate, or both.
+In addition, the business cycles of the new entrants to global trading tend to be less closely in phase with cycles in already industrialized economies and, as a result, may have a damping effect on balance--although this effect might be expected to dissipate gradually as global integration proceeds.
+Perhaps the most consequential development for monetary policy was the shift to more-flexible exchange rates.
+This shift both lifted the constraint of defending the exchange rate and strengthened the effect of policy actions.
+According to the textbooks, when exchange rates can move, easier monetary policy--lower interest rates--should stimulate demand by depreciating the currency and boosting net exports as well as by reducing the cost of borrowing domestically.
+Similarly, tighter policy should restrain demand and hold down prices through an appreciation of the currency in addition to raising interest rates.
+Admittedly, the exchange rate channel does not always work this way in practice; among other things, exchange rates also depend on trade and current account balances and on what is happening in the economies of our trading partners; and currency values respond more to the expected pattern of interest rates here and abroad than to the current short-term rates that central banks control.
+These factors mean that the exchange rate sometimes moves in surprising directions, complicating monetary policy.
+Furthermore, the exchange rate channel can amplify the effects of mistaken policies--for example, the dollar may fall and add to domestic inflation pressures if the stance of policy is overly accommodative.
+It took central banks some time to learn to operate successfully without the anchor of a fixed exchange rate, and partly for this reason inflation soared in the 1970s while economic activity stagnated.
+As central banks and governments came to recognize the critical importance of long-term price stability, inflation subsequently subsided.
+The fall in inflation coincided with a step-up in the pace of global economic integration, including in the past decade or more the increasing involvement of those economies in Asia and elsewhere.
+The question is whether that development has affected overall inflation and employment in industrial countries, and thus whether it may have changed the setting of monetary policy needed to maintain price stability and sustained high employment.
+The Implications for Inflation I have been struck recently by the contrast between the views reported in the media and views among academic economists on this issue of globalization and inflation.
+The media tend to concentrate on the increasing availability of cheap goods and competitive pressures on labor compensation as a continuing, pervasive check on inflationary tendencies in industrial economies.
+In contrast, just two weeks ago, I attended a conference of leading academic and central bank researchers on inflation hosted by the Federal Reserve Board, at which globalization was hardly mentioned.
+One modeler had tacked an import price variable onto the equations explaining U.S. inflation, but the rest simply ignored any developments beyond our borders.
+For a monetary policy practitioner, this disconnect raises a puzzle and some very basic concerns.
+A possible implication of the view in the media is that the inflation penalty for allowing economies to run a little "hotter" than normal--that is, a bit beyond an economic long-run sustainable output--could be quite small, if there is any penalty at all.
+The academic view implies that for the most part I can proceed with regard to inflation as if the United States is, to a first approximation, a closed economy.
+To act as if the outside world does not matter flies in the face of the major changes we have witnessed in recent decades.
+The advance of globalization has increased the range of goods and services available to be imported by U.S. households and firms and reduced the prices of many imported goods and services.
+In the case of consumer goods, these developments have directly held down the rate of increase of the imported-goods component of the consumer price index (CPI) and, thus, the rate of increase of the overall index; this direct effect on CPI inflation has risen over time as the import share of household spending has increased.
+Beyond this effect, falling prices for imported materials as well as capital equipment have reduced the production costs of U.S. firms, thereby indirectly restraining the growth of prices of domestically produced goods and services.
+Globalization has reinforced disinflation by intensifying the competitive pressures faced by U.S. firms and workers.
+For some firms, the actual or potential availability of less-expensive foreign goods has squeezed profit margins and may have intensified the firms' search for cost-saving productivity enhancements.
+For workers in some sectors, labor compensation has likely been restrained by the threat of jobs being shifted overseas to take advantage of lower production costs in the new trading nations, and this wage restraint in turn has helped to hold down domestic prices.
+How important have these direct and indirect price effects been?
+A precise answer to this question is beyond our abilities, but we can try to get a handle on the likely magnitude by using a simple reduced-form inflation equation of the sort employed by the Board's staff as an input into its inflation forecasts.
+This equation relates inflation to, among other factors, lagged inflation, resource utilization, and movements in the relative price of imports excluding energy, semiconductors, and computers.
+With it, we can simulate how core consumer prices would have been expected to evolve over the past ten years if relative import prices had remained constant--that is, had import prices gone up in line with those of domestically produced goods rather than rising approximately 1 percent per year slower on average, as actually occurred.
+The arithmetic of this exercise suggests that the decline in import prices since the mid-1990s has shaved between 1/2 and 1 percentage point off core inflation over the past ten years.
+But this arithmetic is just a useful starting point.
+Only part of this estimated effect can be chalked up to globalization per se.
+Some of the historical decline in import prices was probably driven by movements in the dollar's exchange rate largely unrelated to the growing integration of world markets.
+For example, the dollar rose strongly in the second half of the 1990s, when investment was attracted here by a pickup in productivity growth and profits.
+And relative import prices would have been likely to decline even in the absence of increased globalization, given the dominant role in trade of manufacturing, in which technological advances have put important restraint on prices.
+On the basis of these considerations, the contribution of globalization to low inflation in the United States in recent years has probably been appreciably smaller than the simple model simulation might suggest--although not necessarily inconsequential.
+In this regard, although direct empirical studies of the effect of an individual country's export prices on the United States are scarce, one recent study by the Board's staff concluded that lower prices of Chinese imports have had at most only modest effects on U.S. prices in recent years, although more-significant effects were recorded in a few specific categories.2 In addition, a focus on past declines in the prices of imported products is only part of the story of the effects of globalization on inflation in this country.
+Globalization and the integration of the newly emerging market economies have implications for the demand for goods and services as well as for their supply.
+By raising the purchasing power of incomes in industrial countries, trade increases the spending of their residents.
+Perhaps more consequentially, as trade theory, trade models, and recent experience suggest is likely to occur, new global traders are adding significant demand as well--especially for energy, basic commodities, and capital goods.
+For example, between 2000 and 2004, increases in Chinese steel consumption are estimated to have accounted for two-thirds of the increase in global steel demand.
+In fact, historically, industrializing countries have often raised global demand more than supply.
+Somewhat surprisingly, however, a number of these countries are currently producing more than they are spending.
+Their trade accounts tend to be in surplus, in some cases substantially, an indication that they are supplying more goods into the global economy than they are demanding.
+Part of the explanation for the tendency toward trade surpluses may be that household saving rates in many emerging-market economies have been quite high, possibly because of such factors as caution regarding debt accumulation; uncertainty about government support for retirement, health care, or education; or simply a lack of opportunity to spend.
+These elevated saving rates may also reflect the consequences of domestic financial markets that are not fully functional: If borrowing is expensive or simply unavailable, households will be unable to tap expected future earnings to finance the purchases of cars and other long-lived durable goods but instead will need to postpone spending until they have accumulated the necessary cash.
+Over time, one would expect the national savings surpluses of these newly integrating economies to decrease or even turn into deficits as opportunities to invest at home come to seem more profitable than placing savings abroad and as the desire of their residents to consume their rising wealth intensifies.
+As part of this adjustment process, the currencies of these countries would be expected to appreciate over time.
+Rising exchange rates, reflecting increasing productivity and real incomes, would help to reduce the countries' trade surpluses in two ways: Exports to industrial economies would no longer enjoy as large a price advantage and, obviously, would exert less downward pressure on inflation in those economies; and the demand for imports by the developing countries would rise.
+For a variety of reasons, some emerging-market economies have resisted upward pressures on their exchange rates, even if that resistance requires buying large quantities of dollars to keep their currencies from appreciating.
+But changes in exchange rates will be helpful in enabling them to adapt to rapidly changing internal and external developments while maintaining economic stability, and their recognition of that advantage should continue to lead to greater flexibility.
+I expect to be as correct in that prediction as I was in my 1964 IS thesis, recognizing of course that the lags can be long and variable.
+Meanwhile, less than fully flexible exchange rates are probably contributing to the surpluses of these economies and to their disinflationary effect on the rest of the world.
+Taking all these factors into account, where do I come out on the question of how recent trends in globalization have affected inflation in the United States and other industrial countries?
+On balance, under current circumstances, the entry of China, India, and others into the global trading system is probably having a modest disinflationary effect here.
+But it is neither large nor inevitable.
+If some fundamental conditioning factors were to change--for example, if these countries' exchange rates were to rise and their demand to increase--different spending patterns that could reduce the degree of downward pressure on prices might emerge.
+In fact, we cannot rule out the possibility that globalization might some day even create inflationary pressures on balance.
+The Implications for Productivity, Potential Output, and the NAIRU If globalization is having a modest but persistent downward effect on U.S. inflation, what about its effects on employment, the other component of the Federal Reserve's dual mandate?
+Here, I think the answer is clearer: An expansion of trade does not impinge on an economy's ability to create jobs and operate at its potential, given time for any temporary sectoral disruptions to be worked out.
+The logic behind this claim is Ricardo's classic observation that, even if one economy could produce every good and service less expensively than another economy, in a trading world it could not and would not become a seller of everything.
+Instead, every economy benefits by specializing in producing those goods in which it has a comparative efficiency advantage.
+Thus, as trade expands, even high-cost economies will see jobs become available in those industries in which they are comparatively more efficient.
+To be sure, a major increase in job turnover as a consequence of expanding trade, with the attendant shifting of resources from one industry to another, could make it harder to match jobs and people, especially if the people losing jobs failed to meet the skill requirements of the sectors gaining jobs.
+This job-worker mismatch might for a time tend to raise the economy's sustainable nonaccelerating-inflation rate of unemployment (NAIRU).
+But globalization-related job losses, even with rather generous estimates, are modest compared with the massive amount of job destruction and creation that takes place continuously in the United States in the normal course of the economy.
+As a result, the aggregate labor market readily absorbs such disruptions as those from trade, leaving overall employment little affected.
+That we now have an unemployment rate as low as 5 percent, and have sustained that rate without an appreciable pickup of underlying inflation, is evidence that our economy's ability to provide jobs on a sustained basis has not been impaired.
+Although globalization should have little effect on aggregate employment and the NAIRU, international trade does expand the economy's productive potential.
+By enabling a country to concentrate on producing those goods and services in which it is most efficient, an expansion of trade boosts the productivity of domestic labor and capital, permanently raising the level of potential output.
+Moreover, the heightened competitive environment fostered by an increasingly global trading system, as I noted earlier, may force firms to be more innovative, further boosting the level, and perhaps even the growth rate, of productivity.
+The expansion in aggregate supply and national income implied by these forces in turn leads to a corresponding rise in aggregate demand; in particular, households are able to increase their standard of living by consuming more goods and services, both imported and domestic.
+And it is the balance between potential supply and aggregate demand that concerns monetary policy.
+The Implications for Monetary Policy Globalization in its latest manifestations does not relieve central banks of their responsibility for maintaining price and economic stability.
+Inflation can be affected by a number of factors in the short run, but over time it will be determined by the interactions of aggregate demand, potential supply, and the expectations of businesses and households about future inflation.
+Through their control over the amount of bank reserves in the financial system and short-term interest rates, central banks can influence the balance of demand and potential supply, and their actions may also have direct effects on inflation expectations over time.
+Over the long run, the central bank has full responsibility for determining the economy's average rate of inflation.
+How the forces of demand, potential supply, and expectations interact has probably not been changed in any fundamental way by the recent trend of globalization.
+To be sure, the integration of newly industrializing economies into the global trading system is exerting downward pressure on costs and prices.
+But the effect on inflation--the rate of change in prices--has probably not been large to date, and the extent and duration of its damping influence on inflation in the future are open questions.
+Inflation will still rise if central banks allow economies to run "too hot"--beyond sustainable potential--and such a pickup could become self-perpetuating if it became embedded in inflation expectations.
+True, the specialization and efficiencies resulting from expanding trade enlarge potential supply by increasing productivity, enabling an increase in actual consumption and investment.
+But, so far, the evidence does not suggest that they have materially raised or lowered the extent of resource utilization associated with the economy producing at its sustainable potential.
+However, the integration of national economies in the global economic system does leave them more open to influences from abroad.
+And this integration could manifest itself in the interest rates the Federal Reserve needs to implement to keep the economy growing at its potential.
+For example, the increasing integration of global capital markets has facilitated the investment of the current high volume of world savings in dollar assets.
+The result has been lower interest rates here along with a stronger dollar, as well as a larger U.S. current account deficit than probably could have been sustained fifteen or twenty years ago.
+And the dynamics of the economy's response to policy has been affected by globalization.
+In one sense, an open economy may be more forgiving as shortfalls or excesses in demand are partly absorbed by other countries through adjustments of our imports and exports.
+To the extent that the U.S. can more readily draw upon world capacity, the inflationary effect of an increase in aggregate demand might be damped.
+But from another perspective, integrated economies and financial markets can also exert powerful feedback, which may be less forgiving of any perceived policy error.
+For example, if financial market participants thought that the Federal Reserve were not dedicated to maintaining long-run price stability, they would be less willing to hold dollar-denominated assets and the resulting decline in the exchange value of the dollar would tend to add to inflationary pressures.
+Overall, the ability of producers, consumers, and investors to shift purchases and resources provides rapid feedback on perceptions of policy--and not only in the monetary sphere.
+The need to compete for business in a globalized economy has quite likely raised the efficiency and flexibility of economic systems as well as reinforcing the requirement for noninflationary monetary policies.
+Globalization is a powerful force that raises productivity and living standards.
+To realize its benefits fully, however, many of us are being required to adapt in various ways.
+Globalization has made my job more interesting but no easier.

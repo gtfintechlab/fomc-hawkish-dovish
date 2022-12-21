@@ -4,7 +4,7 @@ from get_sentiment import get_sentiment
 target_word_list = ["inflation expectation", "interest rate", "bank rate", "fund rate", "price", "economic activity", "inflation",
       "employment", "unemployment", "growth", "exchange rate", "productivity", "deficit", "demand", "job market", "monetary policy"]
 
-df = pd.read_excel("../training_data/manual_v2.xlsx")
+df = pd.read_excel("../training_data_old/manual_v2.xlsx")
 
 senti_nomics_df = get_sentiment(text = list(df["sentence"]), include = target_word_list)
 

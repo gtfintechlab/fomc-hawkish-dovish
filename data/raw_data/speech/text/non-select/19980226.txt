@@ -1,0 +1,124 @@
+It is my pleasure to join President McDonough and our colleagues from the Bank of Japan and the Bank of England in hosting this timely conference.
+Capital, of course, is a topic of never-ending importance to bankers and their counterparties, not to mention the regulators and central bankers whose job it is to oversee the stability of the financial system.
+Moreover, this conference comes at a most critical and opportune time.
+As you are aware, the current structure of regulatory bank capital standards is under the most intense scrutiny since the deliberations leading to the watershed Basle Accord of 1988 and the FDIC Improvement Act of 1991.
+In this tenth anniversary year of the Accord, its architects can look back with pride at the role played by the regulation in reversing the decades-long decline in bank capital cushions.
+At the time the Accord was drafted, the use of differential risk weights to distinguish among broad asset categories represented a truly innovative and, I believe, effective approach to formulating prudential regulations.
+The risk-based capital rules also set the stage for the emergence of more general risk-based policies within the supervisory process.
+Of course, the focus of this conference is on the future of prudential capital standards.
+In our deliberations we must therefore take note that observers both within the regulatory agencies and the banking industry itself are raising warning flags about the current standard.
+These concerns pertain to the rapid technological, financial, and institutional changes that are rendering the regulatory capital framework less effectual, if not on the verge of becoming outmoded, with respect to our largest, most complex banking organizations.
+In particular, it is argued that the heightened complexity of these large banks' risk-taking activities, along with the expanding scope of regulatory capital arbitrage, may cause capital ratios as calculated under the existing rules to become increasingly misleading.
+I, too, share these concerns.
+In my remarks this evening, however, I would like to step back from the technical discourse of the conference's sessions and place these concerns within their broad historical and policy contexts.
+Specifically, I would like to highlight the evolutionary nature of capital regulation and then discuss the policy concerns that have arisen with respect to the current capital structure.
+I will end with some suggestions regarding basic principles for assessing possible future changes to our system of prudential supervision and regulation.
+To begin, financial innovation is nothing new, and the rapidity of financial evolution is itself a relative concept -- what is "rapid" must be judged in the context of the degree of development of the economic and banking structure.
+Prior to World War II, banks in this country did not make commercial real estate mortgages or auto loans.
+Prior to the 1960s, securitization, as an alternative to the traditional "buy and hold" strategy of commercial banks, did not exist.
+Now, banks have expanded their securitization activities well beyond the mortgage programs of the 1970s and 1980s, to include almost all asset types, including corporate loans.
+And most recently, credit derivatives have been added to the growing list of financial products.
+Many of these products, which would have been perceived as too risky for banks in earlier periods, are now judged to be safe owing to today's more sophisticated risk measurement and containment systems.
+Both banking and regulation are continuously evolving disciplines, with the latter, of course, continuously adjusting to the former.
+Technological advances in computers and in telecommunications, together with theoretical advances -- principally in option-pricing models -- have contributed to this proliferation of ever-more complex financial products.
+The increased product complexity, in turn, is often cited as the primary reason why the Basle standard is in need of periodic restructuring.
+Indeed, the Basle standard, like the industry for which it is intended, has not stood still over the past ten years.
+Since its inception, significant changes have been made on a regular basis to the Accord, including, most visibly, the use of banks' internal models for assessing capital charges for market risk within trading accounts.
+All of these changes have been incorporated within a document that is now quite lengthy -- and written in appropriately dense, regulatory style.
+While no one is in favor of regulatory complexity, we should be aware that capital regulation will necessarily evolve over time as the banking and financial sectors themselves evolve.
+Thus, it should not be surprising that we constantly need to assess possible new approaches to old problems, even as new problems become apparent.
+Nor should the continual search for new regulatory procedures be construed as suggesting that existing policies were ill-suited to the times for which they were developed or will be ill-suited for those banking systems at an earlier stage of development.
+Indeed, so long as we adhere in principle to a common prudential standard, it is appropriate that differing regulatory regimes may exist side by side at any point in time, responding to differing conditions between banking systems or across individual banks within a single system.
+Perhaps the appropriate analogy is with computer-chip manufacturers.
+Even as the next generation of chip is being planned, two or three generations of chip -- for example, Pentium IIs, Pentium Pros, and Pentium MMXs -- are being marketed, while, at the same time, older generations of chip continue to perform yeoman duty within specific applications.
+Given evolving financial markets, the question is not whether the Basle standard will be changed, but how and why each new round of change will occur, and to which market segment it will apply.
+In overseeing this necessary evolution of the Accord, as it applies to the more advanced banking systems, it would be helpful to address some of the basic issues that, in my view, have not been adequately addressed by the regulatory community.
+In so doing, perhaps we can shed some light on the source of our present concerns with the existing capital standard.
+There really are only two questions here: First, how should bank "soundness" be defined and measured?
+Second, what should be the minimum level of soundness set by regulators?
+When the Accord was being crafted, many supervisors may have had an implicit notion of what they meant by soundness -- they probably meant the likelihood of a bank becoming insolvent.
+While by no means the only one, this is a perfectly reasonable definition of soundness.
+Indeed, insolvency probability is the standard explicitly used within the internal risk measurement and capital allocation systems of our major banks.
+That is, many of the large banks explicitly calculate the amount of capital they need in order to reduce to a targeted percentage the probability, over a given time horizon, that losses would exceed the allocated capital and drive the bank into insolvency.
+But whereas our largest banks have explicitly set their own, internal soundness standards, regulators really have not.
+Rather, the Basle Accord set a minimum capital ratio, not a maximum insolvency probability.
+Capital, being the difference between assets and liabilities, is of course an abstraction.
+Thus, it was well understood at the time that the likelihood of insolvency is determined by the level of capital a bank holds, the maturities of its assets and liabilities, and the riskiness of its portfolio.
+In an attempt to relate capital requirements to risk, the Accord divided assets into four risk "buckets," corresponding to minimum total capital requirements of zero percent, 1.6 percent, 4.0 percent, and 8.0 percent, respectively.
+Indeed, much of the complexity of the formal capital requirements arises from rules stipulating which risk positions fit into which of the four capital "buckets."
+Despite the attempt to make capital requirements at least somewhat risk-based, the main criticisms of the Accord, at least as applied to the activities of our largest, most complex banking organizations, appear to be warranted.
+In particular, I would note three: First, the formal capital ratio requirements, because they do not flow from any particular insolvency probability standard, are, for the most part, arbitrary.
+All corporate loans, for example, are placed into a single 8 percent "bucket."
+Second, the requirements account for credit risk and market risk, but not explicitly for operating and other forms of risk that may also be important.
+Third, except for trading account activities, the capital standards do not take account of hedging, diversification, and differences in risk management techniques, especially portfolio management.
+These deficiencies were understood even as the Accord was being crafted.
+Indeed, it was in response to these concerns that, for much of the 1990s, regulatory agencies have focused on improving supervisory oversight of capital adequacy on a bank-by-bank basis.
+In recent years, the focus of supervisory efforts in the United States has been on the internal risk measurement and management processes of banks.
+This emphasis on internal processes has been driven partly by the need to make supervisory policies more risk-focused in light of the increasing complexity of banking activities.
+In addition, this approach reinforces market incentives that have prompted banks themselves to invest heavily in recent years to improve their management information systems and internal systems for quantifying, pricing, and managing risk.
+While it is appropriate that supervisory procedures evolve to encompass the changes in industry practices, we must also be sure that improvements in both the form and content of the formal capital regulations keep pace.
+Inappropriate regulatory capital standards, whether too low or too high in specific circumstances, can entail significant economic costs.
+This resource allocation effect of capital regulations is seen most clearly by comparing the Basle standard with the internal "economic capital" allocation processes of some of our largest banking companies.
+For internal purposes, these large institutions attempt explicitly to quantify their credit, market, and operating risks, by estimating loss probability distributions for various risk positions.
+Enough economic, as distinct from regulatory, capital is then allocated to each risk position to satisfy the institution's own standard for insolvency probability.
+Within credit risk models, for example, capital for internal purposes often is allocated so as to hypothetically "cover" 99.9 percent or more of the estimated loss probability distribution.
+These internal capital allocation models have much to teach the supervisor, and are critical to understanding the possible misallocative effects of inappropriate capital rules.
+For example, while the Basle standard lumps all corporate loans into the 8 percent capital "bucket," the banks' internal capital allocations for individual loans vary considerably -- from less than 1 percent to well over 30 percent -- depending on the estimated riskiness of the position in question.
+In the case where a group of loans attracts an internal capital charge that is very low compared to the Basle eight percent standard, the bank has a strong incentive to undertake regulatory capital arbitrage to structure the risk position in a manner that allows it to be reclassified into a lower regulatory risk category.
+At present, securitization is, without a doubt, the major tool used by large U.S. banks to engage in such arbitrage.
+Regulatory capital arbitrage, I should emphasize, is not necessarily undesirable.
+In many cases, regulatory capital arbitrage acts as a safety-valve for attenuating the adverse effects of those regulatory capital requirements that are well in excess of the levels warranted by a specific activity's underlying economic risk.
+Absent such arbitrage, a regulatory capital requirement that is inappropriately high for the economic risk of a particular activity, could cause a bank to exit that relatively low-risk business, by preventing the bank from earning an acceptable rate of return on its capital.
+That is, arbitrage may appropriately lower the effective capital requirements against some safe activities that banks would otherwise be forced to drop by the effects of regulation.
+It is clear that our major banks have become quite efficient at engaging in such desirable forms of regulatory capital arbitrage, through securitization and other devices.
+However, such arbitrage is not costless and therefore not without implications for resource allocation.
+Interestingly, one reason why the formal capital standards do not include very many risk "buckets" is that regulators did not want to influence how banks make resource allocation decisions.
+Ironically, the "one-size-fits-all" standard does just that, by forcing the bank into expending effort to negate the capital standard, or to exploit it, whenever there is a significant disparity between the relatively arbitrary standard and internal, economic capital requirements.
+The inconsistencies between internally required economic capital and the regulatory capital standard create another type of problem -- nominally high regulatory capital ratios can be used to mask the true level of insolvency probability.
+For example, consider the case where the bank's own risk analysis calls for a 15 percent internal economic capital assessment against its portfolio.
+If the bank actually holds 12 percent capital, it would, in all likelihood, be deemed to be "well-capitalized" in a regulatory sense, even though it might be undercapitalized in the economic sense.
+The possibility that regulatory capital ratios may mask true insolvency probability becomes more acute as banks arbitrage away inappropriately high capital requirements on their safest assets, by removing these assets from the balance sheet via securitization.
+The issue is not solely whether capital requirements on the bank's residual risk in the securitized assets are appropriate.
+We should also be concerned with the sufficiency of regulatory capital requirements on the assets remaining on the book.
+In the extreme, such "cherry-picking" would result in only those assets left on the balance sheet for which economic capital allocations are greater than the 8 percent regulatory standard.
+Given these difficulties with the one-size-fits-all nature of our current capital regulations, it is understandable that calls have arisen for reform of the Basle standard.
+It is, however, premature to try to predict exactly how the next generation of prudential standards will evolve.
+One set of possibilities revolves around market-based tools and incentives.
+Indeed, as banks' internal risk measurement and management technologies improve, and as the depth and sophistication of financial markets increase, bank supervisors should continually find ways to incorporate market advances into their prudential policies, where appropriate.
+Two potentially promising applications of this principle have been discussed at this conference.
+One is the use of internal credit risk models as a possible substitute for, or complement to, the current structure of ratio-based capital regulations.
+Another approach goes one step further and uses market-like incentives to reward and encourage improvements in internal risk measurement and management practices.
+A primary example is the proposed pre-commitment approach to setting capital requirements for bank trading activities.
+I might add that pre-commitment of capital is designed to work only for the trading account, not the banking book, and then only for strong, well-managed organizations.
+Proponents of an internal-models-based approach to capital regulations may be on the right track, but at this moment of regulatory development it would seem that a full-fledged, bank-wide, internal-models approach could require a very substantial amount of time and effort to develop.
+In a paper given earlier today by Federal Reserve Board economists David Jones and John Mingo, the authors enumerate their concerns over the reliability of the current generation of credit risk models.
+They go on to suggest, however, that these models may, over time, provide a basis for setting future regulatory capital requirements.
+Even in the shorter term, they argue, elements of internal credit risk models may prove useful within the supervisory process.
+Still other approaches are of course possible, including some combination of market-based and traditional, ratio-based approaches to prudential regulation.
+But regardless of what happens in this next stage, as I noted earlier, any new capital standard is itself likely to be superceded within a continuing process of evolving prudential regulations.
+Just as manufacturing companies follow a product planning cycle, bank regulators can expect to begin working on still another generation of prudential policies even as proposed modifications to the current standard are being released for public comment.
+In looking ahead, supervisors should, at a minimum, be aware of the increasing sophistication with which banks are responding to the existing regulatory framework and should now begin active discussions on the necessary modifications.
+In anticipation of such discussions, I would like to conclude by focusing on what I believe should be several core principles underlying any proposed changes to our current system of prudential regulation and supervision.
+First, a reasonable principle for setting regulatory soundness standards is to act much as the market would if there were no safety net and all market participants were fully informed.
+For example, requiring all of our regulated financial institutions to maintain insolvency probabilities that are equivalent to a triple-A rating standard would be demonstrably too stringent, because there are very few such entities among unregulated financial institutions not subject to the safety net.
+That is, the markets are telling us that the value of the financial firm is not, in general, maximized at default probabilities reflected in triple-A ratings.
+This suggests, in turn, that regulated financial intermediaries can not maximize their value to the overall economy if they are forced to operate at unreasonably high soundness levels.
+Nor should we require individual banks to hold capital in amounts sufficient to fully protect against those rare systemic events which, in any event, may render standard probability evaluation moot.
+The management of systemic risk is properly the job of the central banks.
+Individual banks should not be required to hold capital against the possibility of overall financial breakdown.
+Indeed, central banks, by their existence, appropriately offer a form of catastrophe insurance to banks against such events.
+Conversely, permitting regulated institutions that benefit from the safety net to take risky positions that, in the absence of the net, would earn them junk-bond ratings for their liabilities, is clearly inappropriate.
+In such a world, our goals of protecting taxpayers and reducing the misallocative effects of the safety net simply would not be realized.
+Ultimately, the setting of soundness standards should achieve a complex balance -- remembering that the goals of prudential regulation should be weighed against the need to permit banks to perform their essential risk-taking activities.
+Thus, capital standards should be structured to reflect the lines of business and degree of risk-taking in which the individual bank chooses to engage.
+A second principle should be to continue linking strong supervisory analysis and judgment with rational regulatory standards.
+In a banking environment characterized by continuing technological advances, this means placing an emphasis on constantly improving our supervisory techniques.
+In the context of bank capital adequacy, supervisors increasingly must be able to assess sophisticated internal credit risk measurement systems, as well as gauge the impact of the continued development in securitization and credit derivative markets.
+It is critical that supervisors incorporate, where practical, the risk analysis tools being developed and used on a daily basis within the banking industry itself.
+If we do not use the best analytical tools available, and place these tools in the hands of highly trained and motivated supervisory personnel, then we cannot hope to supervise under our basic principle -- supervision as if there were no safety net.
+Third, we have no choice but to continue to plan for a successor to the simple risk-weighting approach to capital requirements embodied within the current regulatory standard.
+While it is unclear at present exactly what that successor might be, it seems clear that adding more and more layers of arbitrary regulation would be counter productive.
+We should, rather, look for ways to harness market tools and market-like incentives wherever possible, by using banks' own policies, behaviors, and technologies in improving the supervisory process.
+Finally, we should always remind ourselves that supervision and regulation are neither infallible nor likely to prove sufficient to meet all our intended goals.
+Put another way, the Basle standard and the bank examination process, even if both are structured in optimal fashion, are a second line of support for bank soundness.
+Supervision and regulation can never be a substitute for a bank's own internal scrutiny of its counterparties, as well as the market's scrutiny of the bank.

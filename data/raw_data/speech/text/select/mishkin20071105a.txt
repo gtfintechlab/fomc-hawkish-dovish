@@ -1,0 +1,132 @@
+This ongoing episode has reminded investors and policymakers alike that financial instability, if allowed to develop fully, could have severely negative consequences not only for the functioning of financial markets but also, importantly, for the macroeconomic prospects of our country as well as others.
+It is this connection with the real side of the economy that makes financial stability a central concern for me and my colleagues at the Federal Reserve and at other central banks around the world.
+Policymakers, particularly those in a central bank, are faced with the questions of what they should do to prevent financial instability and what their responses should be when financial instability threatens to compromise economic performance.
+To start answering these questions, we must first understand the nature of financial instability and how it might affect the macroeconomy.1 The Nature of Financial InstabilityThe financial system performs the function of efficiently channeling funds to individuals or corporations with worthy investment opportunities.
+If shocks interfere with the information flows that are necessary for a smooth functioning of the financial system, the system can be disrupted and financial instability can arise.
+By disrupting the flow of credit, financial instability, in turn, becomes a threat to economic performance.2 The information that is necessary for the efficient functioning of the financial system is by its nature asymmetric: Often, one party to a financial contract (typically the lender) has much less accurate information about the outcome of an investment than does the other party (typically the borrower).
+As I have explained in more detail in a recent speech, such asymmetry leads to two prominent difficulties for the functioning of the financial system: adverse selection and moral hazard (Mishkin, 2007).
+Adverse selection arises when investments that are most likely to produce an undesirable (adverse) outcome are the most likely to be financed (selected).
+For example, investors who intend to take on large amounts of risk are the most likely to be willing to seek out loans because they know that they are unlikely to pay them back.
+Moral hazard arises because a borrower has incentives to invest in high-risk projects, in which the borrower does well if the project succeeds but the lender bears most of the loss if the project fails.
+Historically, banking institutions and other financial intermediaries have played a major role in reducing the asymmetry of information because they are well placed to collect information from borrowers and to engage in long-term relationships with clients.
+In more recent times, improved transparency and financial innovation--in the form of new financial products as well as new types of institutions that have become active in markets--have also contributed to the efficient flow of information across the system.
+The continuity of this flow helps keep adverse selection and moral hazard in check and is crucial to the process of price discovery--that is, the ability of markets to collect information and properly evaluate the worth of financial assets.
+During periods of financial distress, information flows may be disrupted, and price discovery may be impaired.
+The high risk spreads and reluctance to purchase assets that are characteristic of such episodes are natural responses to the increased uncertainty resulting from the disruption of information Two types of risks are particularly important for understanding financial instability.
+The first is what I will refer to as valuation risk: The market, realizing the complexity of a security or the opaqueness of its underlying creditworthiness, finds it has trouble assessing the value of the security.
+For example, this sort of risk has been central to the repricing of many structured-credit products during the turmoil of the past few months, when investors have struggled to understand how potential losses in subprime mortgages might filter through the layers of complexity that such products entail.
+The second type of risk that I consider central to the understanding of financial stability is what I call macroeconomic risk--that is, an increase in the probability that a financial disruption will cause significant deterioration in the real economy.
+Because economic downturns typically result in even greater uncertainty about asset values, such episodes may involve an adverse feedback loop whereby financial disruptions cause investment and consumer spending to decline, which, in turn, causes economic activity to contract.
+Such contraction then increases uncertainty about the value of assets, and, as a result, the financial disruption worsens.
+In turn, this development causes economic activity to contract further in a perverse cycle.
+Deterioration of balance sheets during a recession can also intensify problems of adverse selection and moral hazard because it removes an important channel through which information asymmetries are mitigated--the use of collateral.
+If a borrower defaults on a loan backed by collateral, the effects of the adverse selection problem are less severe because the lender can take title to the collateral and thus make up for the loss.
+In addition, the threat of losing the collateral gives the borrower more incentives not to take unmanageable risks that might ultimately lead to a default, and it thus reduces the moral hazard problem.
+These mechanisms work only as long as the collateral is of sufficient quality; during macroeconomic downturns, the value of collateral may fall, problems of adverse selection and moral hazard again become central, and lenders become much less willing to lend.
+Again, these events can result in an adverse feedback loop.
+Shocks of various natures can interfere with the information flow in financial markets and thereby precipitate financial instability through valuation and macroeconomic risk.
+Historical examples of such shocks include higher interest rates, problems in the banking sector, increases in uncertainty, and asset market effects on balance sheets.
+Of those, the last two appear to have been especially prominent in the ongoing episode of financial instability.
+Interpreting the Recent Episode of Financial InstabilityOne could argue that the valuation of financial products backed by mortgages and corporate loans has always been uncertain, as the ability of borrowers to repay their debt ultimately depends on the performance of the economy.
+Yet, especially in very recent years, investors appeared to be less concerned about macroeconomic uncertainty or about the attendant problems of adverse selection and moral hazard inherent in asset-backed products.
+Thus, abundant credit flowed cheaply to borrowers regardless of the risks involved.
+However, beginning in the spring and continuing to the present time, a considerable amount of uncertainty has surrounded markets' valuations of many structured-finance products--part of the flurry of innovative financial instruments that have become popular among market participants in recent years.
+Generally, increased uncertainty in financial markets makes it harder for lenders to screen good credit risks from bad and ultimately makes information more asymmetric, thereby possibly exacerbating the adverse selection problem.
+Consequently, lenders may become less willing to lend, and that reluctance may lead to a decline in investment and aggregate activity.
+During the recent turmoil, the opaqueness of structured-credit products contributed to market uncertainty until investors in those products (who were ultimately lenders to households and corporations) withdrew from the market and left borrowers without an important source of credit.
+In the housing market, where price appreciation has slowed or even turned to depreciation in many areas, delinquencies and defaults have risen of late, especially in the variable-rate subprime sector.
+In addition, the decline in house prices has induced a clear deterioration in the collateral behind home mortgages.
+As a consequence, lenders have responded by tightening standards and terms and, ultimately, by reducing credit.
+Similarly, the collateral offered by many financial institutions to back the borrowing they needed to finance their operations also became questionable.
+As a result, these institutions found credit much more difficult to obtain, or much more costly, or both.
+Funding difficulties for financial institutions clearly have the potential to turn into tighter credit conditions for households and nonfinancial businesses alike.
+The Role of the Federal ReserveAgainst this backdrop, what role should the Federal Reserve perform to pursue its objectives?
+To answer this question, we must first understand exactly what those objectives are.
+The Federal Reserve was created by the Congress in 1913 to provide an effective backstop against the recurring episodes of financial panic that were relatively frequent at the time.
+Even so, the interest of the Congress was not financial stability per se.
+Rather, the Congress was concerned that financial panics were often followed by sharp contractions in economic activity, and it recognized that a stabilization of the financial system would lead to a stabilization of the whole U.S. economy.
+Originally, the preamble to the Federal Reserve Act of 1913 stated that the Federal Reserve System was created "to furnish an elastic currency, to afford means of rediscounting commercial paper, to establish a more effective supervision of banking in the United States, and for other purposes."
+Later, in 1977, the Congress amended the act to introduce macroeconomic objectives explicitly.
+Accordingly, it stated that "the Board of Governors of the Federal Reserve System and the Federal Open Market Committee shall maintain long run growth of the monetary and credit aggregates commensurate with the economy's long run potential to increase production, so as to promote effectively the goals of maximum employment, stable prices, and moderate long-term interest rates."
+Because long-term interest rates can remain low only in a stable macroeconomic environment, these goals are often referred to as the dual mandate--that is, the Federal Reserve seeks to promote the two coequal objectives of maximum employment and price stability.
+But although the main interests of the Federal Reserve are macroeconomic in nature, well-functioning financial markets are ancillary to good economic performance.
+Conversely, financial instability can compromise economic growth and price stability.
+Because of this intimate connection with economic performance, the Federal Reserve has a clear interest in promoting the stability of financial markets.
+The Federal Reserve has various tools at its disposal to promote financial stability.
+In a speech two weeks ago, I discussed its role as a liquidity provider (Mishkin, 2007).
+Today, I will instead focus on how monetary policy can be used as an effective instrument to keep markets stable and to counter the macroeconomic effects of a system that has become unstable.
+As a general principle, a sound monetary policy is one that will foster the objectives of price stability and maximum sustainable employment.
+Such a policy can make financial instability less likely.
+In my view, the reason that this is so resides once again in the informational asymmetries that pervade our financial system.
+For example, in an economy that experiences severe swings in output growth, lenders will be more reluctant to lend and will demand higher interest rates because of the higher risks that borrowers will default.
+But this situation is likely to exacerbate the adverse selection problem, as only riskier borrowers will be willing to take out loans at higher interest rates.
+Similarly, in an environment of high inflation, lenders will not be willing to lend for long periods.
+Debt contracts will then tend to have short maturities, thereby increasing the system's exposure to cash flow and liquidity problems.
+Financial instability, however, can arise even if macroeconomic fundamentals are good and monetary policy is sound, simply because of shocks that are unforeseen by policymakers or that cannot be prevented from occurring.
+In this case, monetary policy can also be useful because it can help forestall the negative macroeconomic consequences of financial instability.
+An easier monetary policy provides a direct stimulus to the economy, as it generally leads to lower interest rates across the term structure.
+Lower rates reduce the cost of capital for borrowers and therefore encourage investment.
+They also generally boost asset prices, thereby increasing wealth and encouraging consumer spending.
+Researchers have also identified other channels through which monetary policy is effective.
+One important one is the credit channel.
+The credit-channel view holds that monetary policy has additional effects because interest rate decisions influence the cost and availability of credit by more than would be implied by the associated movement in risk-free interest rates (Bernanke and Gertler, 1995; Bernanke, 2007a).
+For example, an easier monetary policy strengthens the balance sheets of borrowers.
+This stronger financial position, in turn, enables the borrower to reduce its potential conflict of interest with the lender, either because the borrower is able to self-finance a greater share of its investment projects, or because it can offer more or better collateral to guarantee its liabilities.
+As a result, firms and households will find it easier to increase their spending.
+In addition to having beneficial macroeconomic effects, monetary policy can also help directly restore stability in financial markets after a period of financial instability.
+As we have seen, financial instability can basically be viewed as a disruption of information; therefore, its resolution requires a restoration of information flows.
+Monetary policy can contribute to this process by minimizing market uncertainty.
+I noted a moment ago that periods of financial instability are characterized by valuation risk and macroeconomic risk.
+Monetary policy cannot have much influence on the former, but it can certainly address the latter--macroeconomic risk.
+By cutting interest rates to offset the negative effects of financial turmoil on aggregate economic activity, monetary policy can reduce the likelihood that a financial disruption might set off an adverse feedback loop.
+The resulting reduction in uncertainty can then make it easier for the markets to collect the information that enables price discovery and to hasten the return to normal market functioning.
+To achieve this result most effectively, monetary policy needs to be timely, decisive, and flexible.
+Quick action is important for a central bank once it realizes that an episode of financial instability has the potential to set off a perverse sequence of events that pose a threat to its core objectives.
+Waiting too long to ease policy in such a situation would only risk a further deterioration in macroeconomic conditions and thus would arguably only increase the amount of easing that would eventually be needed.
+Decisive action is also important.
+In circumstances when the risk of particularly bad economic outcomes is very real, a central bank may want to buy some insurance and, so to speak, "get ahead of the curve"--that is, ease policy more than it otherwise would have simply on the basis of its modal economic outlook.
+However, because monetary policy makers can never be certain of the amount of policy easing that is needed to forestall the adverse effects of disruptions in financial markets, decisive policy actions may, from time to time, go too far and thus produce unwelcome inflationary pressures.
+That's why I said that flexibility is also an important characteristic of monetary policy during a time of financial turmoil.
+If, in their quest to reduce macroeconomic risk, policymakers overshoot and ease policy too much, they need to be willing to expeditiously remove at least part of that ease before inflationary pressures become a threat.
+Some may see a monetary policy that actively addresses episodes of financial instability along the lines that I have just described as promoting excessive risk-taking and thus increasing the probability of future crises.
+In other words, such a policy might appear to create some moral hazard problems of its own.
+I question, however, the validity of this view.
+As I pointed out earlier, the Federal Reserve has a mandate from the Congress to promote maximum employment and stable prices, and it will choose its monetary policy actions so as to best meet that mandate.
+That said, as pointed out recently by Chairman Bernanke, it is not the responsibility of the Federal Reserve--nor would it be appropriate--to protect lenders and investors from the consequences of their financial decisions (Bernanke, 2007b).
+Indeed, the Federal Reserve can hardly insulate investors from risk, even if it wished to do so.
+And the fact that investors who misjudged the risks they were taking lost money over the past few months as well as during most other episodes of financial turmoil, independently of the monetary policy actions taken by the Federal Reserve, certainly corroborates this argument.
+The point is that, although the Federal Reserve can and should offset macroeconomic risk with monetary policy decisions, investors remain responsible for dealing with valuation risk.
+Indeed, monetary policy is and should be powerless in that respect.
+It is solely the responsibility of market participants to do the hard work of price discovery and to ascertain and manage the risks involved in their investments.
+The Federal Reserve's Recent Monetary Policy DecisionsWhat I just said should serve as a framework for understanding the recent decisions of the Federal Reserve to ease policy, first by 50 basis points on September 18 and then by another 25 basis points last week.
+The first action was larger than markets expected at the time--indeed, quotes from the federal funds futures market as well as survey data indicated that most investors had anticipated a cut of only 25 basis points in the target federal funds rate ahead of that meeting.
+As reported in the minutes, the Federal Open Market Committee (FOMC) judged that a policy easing of 50 basis points was appropriate to help offset the effects of tighter financial conditions on the economic outlook.
+Had the FOMC not eased policy, it would have faced a risk that the tightening of credit conditions and an intensifying housing correction would lead to significant broader weakness in output and employment.
+In addition, it would have faced the possibility that the impaired functioning of financial markets would persist for some time or worsen, which would create an adverse feedback loop not dissimilar to what I earlier called macroeconomic risk.
+The cut of 50 basis points at that meeting was the most prudent action from a macroeconomic standpoint, even given the Federal Reserve's objective of price stability.
+Indeed, with economic growth likely to run below its potential for a while and with incoming inflation data to the favorable side, the easing of policy, even if substantial, seemed unlikely to affect adversely the outlook for inflation.
+It should be clear at this point that the FOMC's decision was made purely on macroeconomic grounds--that is, policy was eased solely to offset macroeconomic risk.
+The changed policy stance would not have interfered with the ongoing adjustments in the pricing of financial instruments--that is, the policy action, even if larger than investors had expected, would not have had any effects on valuation risk.
+The response of the markets to the easing of monetary policy in September was encouraging.
+Financial market functioning improved after the decision was announced, an outcome that partially allayed the risks of a coming credit crunch and thus suggested that macroeconomic risk may have been reduced.
+Still, conditions in several markets remained strained.
+In part, those tensions certainly reflected the fact that valuation risk was still substantial and would not be reduced quickly.
+Indeed, the process of price discovery is ongoing, and it will likely be some time before it is completed.
+At the FOMC meeting last week, the federal funds rate target was lowered by another 25 basis points.
+Our economy grew at a solid pace in the third quarter and was boosted importantly by personal consumption and business expenditures, an indication of considerable underlying strength in spending before the recent financial turbulence.
+However, the pace of economic expansion is expected to slow in the near term, largely because of the intensification of the housing correction.
+The combined 75 basis points of policy easing put in place at the past two meetings should help forestall some of the adverse effects on the broader economy that might otherwise arise from the disruptions in financial markets and should help promote moderate growth over time.
+Going into the meeting, I was comforted by the lack of direct evidence to date of serious spillovers of the housing weakness and of tighter credit conditions on the broader economy.
+But with an unchanged policy interest rate, I saw downside risks to the outlook for growth.
+I was mindful, in particular, of the risk that still-fragile financial markets could be particularly exposed to potential adverse news on the housing situation, or on the macroeconomy more generally, and that renewed strains in financial markets could feed back adversely on economic performance.
+My vote to ease policy at the meeting was motivated by my wish to reduce those risks.
+The FOMC perhaps could have waited for more clarity and left policy unchanged last week, but I believe that the potential costs of inaction outweighed the benefits, especially because, should the easing eventually appear to have been unnecessary, it could be removed.
+In voting to ease policy, I carefully considered the effect of that decision on our other objective--price stability.
+I reasoned that the anticipated softening of economic growth and perhaps the emergence of some slack in the labor market might reduce those pressures, and I judged that a cut of 25 basis points in the target federal funds rate would not materially alter that modal outlook.
+However, I recognized the risk that, even if readings on core inflation have improved modestly this year, recent increases in energy and commodity prices, among other factors, may put renewed upward pressure on inflation.
+Consequently, in considering appropriate future adjustments to policy, I will monitor inflation developments carefully.
+Overall, I think that the cumulative policy easing the FOMC put in place at its past two meetings reduced significantly the downside risks to growth so that those risks are now balanced by the upside risks to inflation.
+In these circumstances, I will want to carefully assess incoming data and gauge the effects of financial and other developments on economic prospects before considering further policy action.
+As always, my colleagues on the FOMC and I will act to foster our dual objectives of price stability and sustainable economic growth.
+ConclusionsAs I have argued here, under the mandate it has been given by the Congress, the Federal Reserve has a responsibility to take monetary policy actions to minimize the damage that financial instability can do to the economy.
+I hope I was clear in communicating to you that policies to achieve this goal are designed to help Main Street and not to bail out Wall Street.

@@ -1,0 +1,84 @@
+The discussion has focused on the following question: "How did the Fed get so far behind the curve?"
+My response is to relate how my view of the economy changed over the course of 2021 and how that evolving view shaped my policy position.
+When thinking about this question, there are three points that need to be considered.
+First, the Fed was not alone in underestimating the strength of inflation that revealed itself in late 2021.
+Second, to determine whether the Fed was behind the curve, one must take a position on the evolving health of the labor market during 2021.
+Finally, setting policy in real time can create what appear to be policy errors after the fact due to data revisions.
+Let me start by reminding everyone of two immutable facts about setting monetary policy in the United States.
+First, we have a dual mandate from the Congress: maximum employment and price stability.
+Whether you believe this is the appropriate mandate or not, it is the law of the land, and it is our job to pursue both objectives.
+Second, policy is set by a large committee of up to 12 voting members and a total of 19 participants in our discussions.
+This structure brings a wide range of views to the table and a diverse set of opinions on how to interpret incoming economic data and how best to respond.
+We need to reconcile those views and reach a consensus that we believe will move the economy toward our mandate.
+This process may lead to more gradual changes in policy as members have to compromise in order to reach a consensus.
+Back in September and December 2020, respectively, the Federal Open Market Committee (FOMC) laid out guidance for raising the federal funds rate off the zero lower bound and for tapering asset purchases.
+We said that we would "aim to achieve inflation moderately above 2 percent for some time" to ensure that it averages 2 percent over time and that inflation expectations stay anchored.
+We also said that the Fed would keep buying $120 billion per month in securities until "substantial further progress" was made toward our dual-mandate objectives.
+It is important to stress that views varied among FOMC participants on what was "some time" and "substantial further progress."
+The metrics for achieving these outcomes also varied across participants.
+A few months later, in March 2021, I made my first submission for the Summary of Economic Projections as an FOMC member.
+My projection had inflation above 2 percent for 2021 and 2022, with unemployment close to my long-run estimate by the second half of 2022.
+Given this projection, which I believed was consistent with the guidance from December, I penciled in lifting off the zero lower bound in 2022, with the second half of the year in mind.
+To lift off from the ZLB in the second half of 2022, I believed tapering of asset purchases would have to start in the second half of 2021 and conclude by the third quarter of 2022.
+This projection was based on my judgment that the economy would heal much faster than many expected.
+This was not 2009, and expectations of a slow, grinding recovery were inaccurate, in my view.
+In April 2021, I said the economy was "ready to rip," and it did.1 I chose to look at the unemployment rate and job creation as the labor market indicators I would use to assess whether we had made "substantial further progress."
+My projection was also based on the belief that the jump in inflation that occurred in March 2021 would be more persistent than many expected.
+There was a range of views on the Committee.
+Eleven of my colleagues did not have a rate hike penciled in until after 2023.
+With regard to future inflation, 13 participants projected inflation in 2022 would be at or below our 2 percent target.
+In the March 2021 SEP, no Committee member expected inflation to be over 3 percent for 2021.
+As I argued in a speech last December, this view was consistent with private-sector economic forecasts.2 When inflation broke loose in March 2021, even though I had expected it to run above 2 percent in 2021 and 2022, I never thought it would reach the very high levels we have seen in recent months.
+Indeed, I expected it would eventually fade, due to the nature of these shocks.
+All the suspected drivers of this surge in inflation appeared to be temporary: the one-time stimulus from fiscal policy, supply chain shocks that previous experience indicated would ease soon, and a surge in demand for goods.
+In addition, we had very accommodative monetary policy that I believed would end in 2022.
+The issue in my mind was whether these factors would start fading away later in 2021 or in 2022.
+Over the summer of 2021, the labor market and other data related to economic activity came in as I expected, and so I argued publicly that we were rapidly approaching "substantial further progress" on the employment leg of our mandate.
+In the June Summary of Economic Projections, seven participants had liftoff in 2022 and only five participants projected liftoff after 2023.
+Also, unlike the March SEP, every Committee participant now expected inflation to be over 3 percent in 2021 and just five believed inflation would be at 2 percent or below in 2022.
+In addition, the vast majority of participants now saw risks associated with inflation weighted to the upside.
+The June 2021 minutes also describe the vigorous discussion about tapering asset purchases.
+Numerous participants said that new data indicated that tapering should begin sooner than anticipated.3 Thus, in June, after observing high inflation for only three months, the Committee was moving in a hawkish direction and was considering tapering sooner and pulling liftoff forward.
+At the July FOMC meeting, the minutes show that most participants believed that "substantial further progress" had been made on inflation but not employment.4 Tapering was not viewed as imminent by most participants.
+Again, individual participants had different metrics for evaluating the health of the labor market, and this approach influenced how each thought about policy.
+So, in my view, one cannot address the question of "how did the Fed get so far behind the curve?"
+without taking a stand on the health of the labor market as we moved through 2021.
+Based on the incoming data over the summer, my position was that we would soon achieve the substantial further progress needed to start tapering of asset purchasesâ€”in particular, our purchases of agency mortgage-backed securitiesâ€”and that we needed to "go early and go fast" on tapering our asset purchases to position ourselves for rate hikes in 2022 should we need to tighten policy.5 I also argued that, if the July and August job reports came in around the forecast values of 800,000 to 1 million job gains per month, we should commence tapering our asset purchases at the September 2021 FOMC meeting.
+The July report was indeed over 1 million new jobs, but then the August report shocked us by reporting only 235,000 new jobs when the consensus forecast was for 750,000.
+I considered this a punch in the gut and relevant to a decision on when to start tapering.6 Nevertheless, the September FOMC statement noted that the economy had made progress toward the Committee's goals and that, if progress continued, it would soon be time to taper.7 Up until October, monthly core personal consumption expenditures (PCE) inflation was actually slowing.
+As shown in Figure 1, it went from 0.62 percent in April to 0.24 percent for the month of September.
+The September jobs report was another shock, with only 194,000 jobs created.
+So, up until the first week of October 2021, the story of high inflation being temporary was holding up, and the labor market improvements had slowed but were continuing.
+Based on the incoming data, the FOMC announced the start of tapering at its early November meeting.8 It was the October and November consumer price index (CPI) reports that showed that the deceleration of inflation from April to September was short lived and year-over-year inflation had topped 6 percent.
+It became clear that the high inflation realizations were not as temporary as originally thought.
+And the October jobs report showed a significant rebound with 531,000 jobs created and big upward revisions to the previous two months.
+It was at this pointâ€”with a clearer picture of inflation and revised labor market data in handâ€”that the FOMC pivoted.
+In its December meeting, the Committee accelerated tapering, and the SEP showed that each individual participant projected an earlier liftoff in 2022 with a median projection of three rate hikes in 2022.
+These forecasts and forward guidance had a significant effect on raising market interest rates, even though we did nothing with our primary policy tool, the federal funds rate, in December 2021.
+It is worth noting that markets had the same view of likely policyâ€”federal funds rate futures in November and December called for three hikes in 2022, indicating an economic outlook that was similar to the Committee's.
+Given this description of how policy evolved over 2021, did the Fed fall far behind the curve?
+First, I want to emphasize that forecasting is hard for everyone, especially in a pandemic.
+In terms of missing on inflation, policymakers' projections looked very much like most of the public's.
+For example, as shown in table 1, the median SEP forecast for 2021 Q4/Q4 PCE inflation was very similar to the consensus from the Blue Chip, which is a compilation of private sector forecasts.
+In short, nearly everyone was behind the curve when it came to forecasting the magnitude and persistence of inflation.
+Second, as I mentioned, you cannot answer this question without taking a stand on the employment leg of our mandate.
+There was a clear difference in views on this and on what indicators should be looked at to determine whether we had met the 'substantial further progress" criteria we laid out in our December 2020 guidance.
+Some of us concluded the labor market was healing fast and we pushed for earlier and faster withdrawal of accommodation.
+For others, data suggested the labor market was not healing that fast and it was not optimal to withdraw policy accommodation soon.
+Many of our critics tend to focus only on the inflation aspect of our mandate and ignore the employment leg of our mandate.
+But we cannot.
+So, what may appear as a policy error to some was viewed as appropriate policy by others based on their views regarding the health of the labor market.
+Third, one must account for setting policy in real time.
+The Committee was getting mixed signals from the labor market data in August and September.
+Two consecutive weak job reports didn't square with a rapidly falling unemployment rate.
+Later that fall, and then with the Labor Department's 2021 revisions, we found that payrolls were quite steady over the course of the year.
+As shown in table 2, revisions to changes in payroll employment since late last summer have been quite substantial.
+From the original reports to the current estimate, the change in payroll employment has been revised up nearly 1.5 million.
+As the revisions came in, a consensus grew that the labor market was much stronger than we originally thought.
+If we knew then what we know now, I believe the Committee would have accelerated tapering and raised rates sooner.
+But no one knew, and that's the nature of making monetary policy in real time.
+Finally, if one believes we were behind the curve in 2021, how far behind were we?
+In a world of forward guidance, one simply cannot look at the policy rate to judge the stance of policy.
+Even though we did not actually move the policy rate in 2021, we used forward guidance to start raising market rates starting with the September 2021 statement, which indicated tapering was coming soon.
+The 2-year Treasury yield, which I view as a good market indicator of our policy stance, went from approximately 25 basis points in late September 2021 to 75 basis points by late December.
+That is the equivalent, in my mind, of two 25 basis point policy rate hikes for impacting the financial markets.

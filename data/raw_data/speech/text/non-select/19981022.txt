@@ -1,0 +1,96 @@
+There is a famous play by the Italian playwright Luigi Pirandello entitled "Six Characters in Search of an Author."
+Today, I would like to discuss three themes for which I have been in search of a forum.
+These themes are the result of several events of the last two weeks.
+First, Congress left town without finally passing H.R.
+10.
+Second, I have traveled literally around the globe involved in discussions of the Year 2000 problem or millennium bug.
+Third, the Federal Reserve took the unusual move of adjusting the federal funds target rate and the discount rate at a time other than a regular meeting.
+I would like to share some thoughts on each of these current events.
+Life after H.R.
+10 Congress missed perhaps the best opportunity in 50 years to reform the Glass-Steagall Act.
+However, to paraphrase a famous author, the reports of the demise of H.R.
+10 are exaggerated.
+I say that because, by the last week of the Congressional session, H.R.
+10 had garnered quite a lot of support among bankers, securities firms, insurance companies, and insurance agents as a result of compromises that were brokered in the couple of weeks after the Senate Banking Committee markup.
+It seems that what held up H.R.
+10 was a fight over CRA provisions that had been widely accepted by the banking industry.
+So it seems incorrect to think that H.R.
+10 hasn't succeeded based on its merits.
+And it remains the only bill reforming the Glass-Steagall Act to ever pass the full House.
+Chairman Leach has already publicly announced that he will reintroduce H.R.
+10, perhaps with the compromises reached in the Senate, early in the new Congress.
+That suggests that, rather than being dead, H.R.
+10 is really in hibernation.
+Clearly the pressure from the market will continue to mount for reform of our laws governing the financial industry.
+There has been doubt about the wisdom of the Glass-Steagall Act from the start--even Senator Glass led a repeal effort within 3 years of the Act's initial passage.
+And the evolution of the markets during the past two decades has confirmed those doubts.
+The financial markets are evolving and have blurred the distinctions between banking products, securities, insurance and other financial instruments.
+As the products blur, the distinction between providers does as well.
+As long as our statutes do not evolve, these market changes will increase pressure on banking organizations to exploit loopholes in order to stay competitive.
+Similarly, regulators are forced to interpret old laws that were drafted under different times and may not be sufficiently flexible to cover today's circumstances.
+The result of this ad hoc approach to modernizing the legal structure is an unlevel playing field that helps the most aggressive and that, for all, is mined with legal uncertainties.
+It also means that different players will gain different advantages, depending on the aggressiveness of their functional regulator in interpreting the law.
+Only Congress has the ability to fix the over-arching framework in a way that is fair to all of the industry players.
+The difficulties over the past year in reaching the compromises in H.R.
+10 show that this is not an easy task.
+That is why you may not hear many people saying that H.R.
+10 is the perfect bill from their individual point of view.
+But maybe that is what makes it the perfect bill overall.
+In short, Congress missed an historic opportunity to enact H.R.
+10.
+It did so once before in another banking area--interstate banking.
+Hopefully, Congress will do as it did there, and quickly enact legislation upon its return.
+Year 2000 Problem The Year 2000 problem has been much discussed, but I believe that it now requires a renewed focus, particularly, in light of the current global financial turmoil.
+Some have suggested that, against the backdrop of the current global financial uncertainties, the Year 2000 problem could tip the balance toward global recession in year 2000.
+I think that it is a possible scenario, but not the most probable scenario.
+However, to minimize the risk of major disruptions, business, government, and technical leaders must not allow the current financial turmoil, or in certain countries, the introduction of the euro, to distract them from the important job of Year 2000 preparedness.
+The current market turmoil, in addition to being an inhospitable background for serious technical work, reminds us of how interdependent global markets have become.
+As you know, a currency and current account crisis in Thailand a little more than a year ago initiated a series of events with profound effect on the financial markets and on the world's strongest economies.
+A few themes come to mind following my worldwide discussions of Year 2000.
+First, as I traveled there were many questions of what governments and international agencies will do to fix the problem.
+The reality is that we in the official sector have important roles to play, but the primary responsibility rests with the private sector.
+Private firms have the obligation to fix this problem.
+They must maintain Year 2000 as a top management priority, or quickly raise it to that level, if needed.
+At these various meetings, I was all too frequently met by the technicians asking me to help them to get senior management involved in solving this problem.
+Senior managers in internationally active firms and institutions must give sufficient attention to ensure that their firms are ready for the century date change.
+As my colleague, Bill McDonough of the Federal Reserve Bank of New York, has said, "The Year 2000 problem is an issue for every country, firm, organization, government agency, bank, and piece of critical infrastructure in the world."
+The second responsibility of the private sector is to engage in full disclosure and information sharing with counterparties.
+This sharing should be either pursuant to officially-mandated standards or voluntary.
+Markets function most smoothly when full information is shared.
+The lack of full disclosure may lead to a vacuum in which inaccurate information can thrive.
+Soon financial markets will make Year 2000 preparedness an element in counter party credit risk assessment.
+Those firms not ready or those perceived not to be ready may find access to credit more difficult to obtain.
+One industry group in the private sector--the public infrastructure--has a particularly pressing need for fuller disclosure and information sharing.
+The public infrastructure sector is an important dependency upon which financial firms rely.
+These infrastructure providers, including telecommunication, power, and water utilities, have been noticeably reticent to share their degree of preparedness with others.
+The Year 2000 disclosure bill recently signed by the President reduces the risk of litigation for firms that share in information in good faith on the status of their Year 2000 preparations.
+All organizations should be more forthcoming to maintain public trust.
+The final obligation of the private sector is to engage in company-based contingency planning.
+We all hope that the century date change will be seamless.
+However, we know that with any system change for which the fix is so time consuming and labor intensive, and for which the deadline offers no extension, there will certainly be some transitions that are not as faultless as we would like.
+Therefore, contingency planning should not be seen as an admission of failure.
+Rather it is a responsible part of any system conversion.
+The public sector has its own set of responsibilities.
+First, all financial regulators must work hard at the oversight function.
+It is our obligation to hold the private sector participants that we supervise to the highest level of preparedness.
+We are not guarantors of private performance, but we do have a public obligation.
+I believe that the Federal Reserve is performing this function well.
+Also, it is critical that financial regulators worldwide continue to follow better practices in regulatory oversight of the Year 2000 problem.
+Additionally, my regulatory colleagues worldwide need to raise the level of cross-border planning.
+Year 2000 presents a novel problem that requires novel solutions, not bureaucratic dithering.
+Finally, governments, everywhere need to disclose as much accurate information on preparedness as they can, particularly the elements of government that provide service directly to the public.
+Monetary Policy Last week, the FOMC reached a consensus to lower the target federal funds rate by twenty-five basis points, and the Board of Governors decided to cut the discount rate by a similar amount.
+This move, coming between normally scheduled meetings, has received a bit of media attention.
+As we said in our press release, "growing caution by lenders and unsettled conditions in financial markets more generally are likely to be restraining aggregate demand in the future."
+The world's financial markets are in turmoil with risk being repriced rapidly and some markets showing an unusual lack of liquidity.
+Although we see few strong signs of it in the data at present, it is unlikely that real economic activity could maintain growth at or near trend if our financial markets are strained--at least not without some offsetting easing of monetary policy.
+Moreover, this financial situation in the United States emerges as several countries that are important trading partners for us face economic weakness; problems abroad have already had an impact on the growth of demand in the goods, commodities, and manufacturing sectors of our economy.
+It is unlikely that the economy will come through this period unaffected, and most forecasters foresee significant slowdown.
+For me, this combination of factors was sufficient to justify last week's movement.
+Many have asked, "What does the Fed know that we don't?"
+The answer to this question now, as in nearly every situation in which we change policy, is--"very little, if anything."
+The statement we released reflected the consensus that emerged from internal discussions and summarized the most salient elements of the discussion.
+We based our decision on our analysis of the general tenor of financial markets and their likely effects on the economy, not on foreknowledge of a major financial disaster, as some have speculated.
+I would not presume to predict the future trend of interest rates.
+I, as one policy maker, will take into consideration incoming data from the real and financial sectors.
+I do believe that, with inflation already quite low, the Federal Reserve should be as vigilant and forward looking as possible to offset as best we can shortfalls in aggregate demand just as we are vigilant to maintain price stability.

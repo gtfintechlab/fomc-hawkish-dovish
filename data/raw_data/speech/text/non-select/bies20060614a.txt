@@ -1,0 +1,147 @@
+It is a pleasure to be here today, and I thank you for the invitation.
+It almost goes without saying that over the past several years, residential housing markets have been attracting considerable attention, and they have been a strong contributor to the overall growth of the U.S. economy.
+Today I would like to offer some thoughts on the current state of both residential and commercial mortgage markets and then discuss some ways in which U.S. bank supervisors are trying to ensure that bank lending in those markets is safe and sound.
+Conditions in Real Estate MarketsResidential Real Estate MarketsActivity in U.S. housing markets is slowing.
+Incoming data point to a decided, but so far moderate, cooling.
+Starts of single-family houses fell appreciably in March and April.
+Because construction had been spurred in the preceding months by unusually mild weather, some slowing in the spring was natural.
+However, the level of housing starts lately has fallen below not just the elevated winter pace but also the pace of last fall.
+Indeed, construction permit issuance for single-family homes, which is less affected by the weather, has been declining since September.
+Sales of new and existing homes have dropped noticeably from their highs of last year.
+In addition, inventories of unsold homes have increased, and your own MBA index of loan applications for home purchases has trended lower in recent months.
+Although a slowdown in housing activity is apparent in a wide range of indicators, it seems to be occurring in a gradual way.
+Notwithstanding their recent slip, both home construction and home sales are still at relatively high levels.
+The underlying fundamentals of housing demand also remain favorable.
+Real disposable income is growing at a solid pace.
+In the aggregate, household balance sheets appear to be in a good position, even though risks clearly exist for some households.
+Long-term mortgage rates, although up substantially from last summer's level, remain low relative to their historical experience.
+The latest data on house prices from the Office of Federal Housing Enterprise Oversight suggest that house-price appreciation has moderated but that prices in the aggregate continue to move up.
+Between the first quarter of 2005 and the first quarter of this year, the price index for existing homes sold in repeat transactions increased 10 percent--a solid gain but down a bit from the record pace for the period mid-2004 to mid-2005.
+Focusing on the first quarter of 2006 alone, prices increased at an annual rate of 7.3 percent.
+However, quarterly figures should be treated with a good degree of caution given the volatility of this data series.
+Given the slowing conditions in the housing market, spending for the construction of new housing is unlikely to be an important direct source of overall GDP growth this year, after having contributed close to ½ percentage point last year.
+In addition, the slackening of house-price appreciation could hold back growth in consumption spending through the so-called wealth effect, or the effect that lower overall housing wealth has on consumption.
+Estimates from various econometric models of consumer spending suggest that each dollar of change in wealth is associated with a change in consumption of approximately 3½ cents, with roughly half of the effect occurring within a year.
+Of course, these consumption estimates are just that--estimates.
+Beyond the usual issues of measurement and interpretation associated with any statistical estimate, one can easily point to some specific risks in estimating how housing wealth affects spending.
+First, econometric modeling has had difficulty distinguishing between the effects of movements in housing wealth and movements in other components of household balance sheets, even though housing may be a unique asset in a number of ways.
+Thus, the estimate of change in consumption that I cited is based on the historical relationship between spending and changes in overall wealth.
+Changes in housing wealth may have a somewhat different effect.
+Second, the linkages between housing wealth and consumption may change over time.
+For example, these linkages may be stronger now than in the past because financial innovation has made it easier and less costly for households to tap their accumulated housing equity.
+Third, a pronounced deceleration in house prices could have an outsized effect on consumer confidence, and such a decline in confidence could be an additional damping force on consumption.
+Another housing-related issue that bears watching is mortgage debt accumulation.
+Since the end of 2002, home mortgage debt outstanding has risen about 50 percent.
+The increase has substantially pushed up homeowners' mortgage payments in relation to their income, in spite of historically low mortgage rates, the growing use of interest-only mortgages, and the lengthening of average loan maturities over the past few years.
+That said, homeowners appear to be able to manage these higher payments: we have seen only a little deterioration in mortgage credit quality as yet, and overall delinquency rates remain low.
+Going forward, I expect aggregate homeowner mortgage payments to continue to rise, especially as adjustable-rate mortgages reach their initial reset dates.
+However, these reset adjustments are expected to be gradual, and only a modest number of outstanding mortgages are expected to reset during 2006 and 2007.
+To date, consumers appear to be managing changes in their mortgage payments quite well.
+One area of potential concern relates to the portion of home sales accounted for by investors, as opposed to owner-occupants.
+Historically, only around 5 percent of U.S. homes were purchased each year by investors; in 2005, it appears that figure was considerably higher.
+In many cases, investors purchased homes because they believed prices were going to rise further, not necessarily because they wanted to retain the property over time for rental income.
+As prices level off or even decline, it will be important to see whether this investor activity subsides significantly, and if so, the impact on mortgage markets more broadly.
+Commercial Real Estate MarketsIn addition to monitoring residential markets, the Federal Reserve keeps a close watch on developments in commercial real estate markets.
+Overall, conditions in this sector appear to be improving.
+Demand for commercial space has been growing moderately, while the construction of new space has generally remained tame, restrained in part by steep land prices and high construction costs.
+The result has been a widespread decline in vacancy rates over the past few years.
+Reflecting this improved balance between demand and supply, rents on commercial properties have been increasing after a prolonged period of softness.
+Although the level of commercial construction remains well below its peak in 2000, the latest data indicate what may be the beginning of a pickup.
+Census Bureau data on nonresidential construction put in place suggest that real spending rose in April for the sixth consecutive month.
+Leading indicators of commercial construction spending, such as billings by architectural firms for design work, point to further increases in activity in coming months.
+An upturn in commercial construction could offset part of what is anticipated to be a waning contribution to GDP growth from the housing sector.
+The performance of commercial real estate loans has generally been very good, due in large part to the low interest rates of recent years and the substantial appreciation of property values that has resulted in sizable equity positions for building owners.
+Delinquency rates on loans held by commercial banks and life insurance companies remain low by historical standards, and delinquencies on commercial mortgage-backed securities have reversed the modest increase that occurred from 2000 to 2003.
+The latest information on property prices hints at some moderation in price increases in the first quarter from the rapid price appreciation of last year.
+But, as in the housing market, commercial real estate prices are continuing to rise in the aggregate.
+Recent Supervisory Guidance Relating to Real Estate LendingThe Federal Reserve will continue to monitor developments in the residential and commercial real estate markets very closely.
+In addition to scrutinizing the effect of these developments on the economy, we are also, in our role as bank supervisors, monitoring banks' mortgage lending practices.
+Last year, the federal bank regulatory agencies issued draft guidance on both residential and commercial mortgage lending.
+The agencies have received many comments on the proposed guidance, including comments from your association, which we will consider as we discuss what steps to take next.
+I will address the guidance on residential mortgage lending first.
+Nontraditional Mortgage ProductsOver the past few years, the agencies have observed an increase in the number of residential mortgage loans that allow borrowers to defer repayment of principal and, sometimes, interest.
+These loans, often referred to as nontraditional mortgage loans, include interest-only (IO) mortgage loans, for which the borrower pays no loan principal for the first few years of the loan, and payment-option adjustable-rate mortgages (option ARMs), for which the borrower has flexible payment options--and which could result in negative amortization.
+IOs and option ARMs are estimated to have accounted for almost one-third of all U.S. mortgage originations in 2005, compared with fewer than 10 percent in 2003.
+Despite their recent growth, however, it is estimated that these products still account for less than 20 percent of aggregate domestic mortgages outstanding of nearly $9 trillion.
+Although the credit quality of residential mortgages generally remains strong, the Federal Reserve and the other banking supervisors are concerned that banks' current risk-management techniques may not fully address the level of risk inherent in nontraditional mortgages, a risk that would be heightened by a downturn in the housing market.
+Mortgages with some of the characteristics of nontraditional mortgage products have been available for many years; however, they have historically been offered to higher-income borrowers.
+More recently, nontraditional mortgages have been offered to a wider spectrum of consumers, including subprime borrowers, who may be less suited for these types of mortgages and may not fully recognize their embedded risks.
+These borrowers are more likely to experience an unmanageable payment shock during the life of the loan, meaning that they may be more likely to default on the loan.
+Further, nontraditional mortgage loans are becoming more prevalent in the subprime market at the same time risk tolerances in the capital markets have increased.
+Banks need to be prepared for the resulting impact on liquidity and pricing if and when risk spreads return to more "normal" levels and competition in the mortgage banking industry intensifies.
+Supervisors have also observed that lenders are increasingly combining nontraditional mortgage loans with weaker mitigating controls on credit exposures--for example, by accepting less documentation in evaluating an applicant's creditworthiness and not evaluating the borrower's ability to meet increasing monthly payments when amortization begins or when interest rates rise.
+These "risk layering" practices have become more and more prevalent in mortgage originations.
+Thus, although some banks may have used some elements of nontraditional mortgage products successfully in the past, the recent easing of traditional underwriting controls and the sale of nontraditional products to subprime borrowers may contribute to losses on these products.
+Supervisors are concerned that banks may not be fully aware of the potential risks of using risk-layering practices with nontraditional mortgage products.
+These practices may have become more widespread over the past couple of years as competition for borrowers and declining profit margins may have forced lenders to loosen their credit standards to maintain their loan volume.
+In the Federal Reserve Board's most recent Senior Loan Officer Survey, conducted this past April, more than 10 percent of the surveyed institutions reported having eased their underwriting standards for residential mortgage loans.
+Only one of the surveyed lenders reported having tightened standards.
+Additionally, information from other sources seems to show continued growth in the number of borrowers purchasing real estate with no equity using simultaneous second liens.
+Naturally, we are watching for any signs that defaults may be on the rise.
+Some industry evidence indicates that delinquencies may be on the uptick; delinquency rates for loans issued in 2005 are, in most cases, higher than those for comparable loans issued in earlier years.
+Some industry observers believe that the increase in delinquencies for loans issued in 2005 is directly related to the continued easing of underwriting standards and the increased use of risk-layering practices.
+The industry trends I have just described, taken together, were the justification for the issuance of draft guidance on nontraditional mortgage products by the Federal Reserve and the other banking agencies.
+The proposed guidance emphasizes that an institution's risk-management processes should allow it to adequately identify, measure, monitor, and control the risk associated with these products.
+It reminds lenders of the importance of assessing a borrower's ability to repay the loan, both now and when amortization begins and interest rates rise.
+Nontraditional mortgage products warrant a bank having strong risk-management standards as well as appropriate capital and loan-loss reserves.
+Further, bankers should consider the impact of prepayment penalties for ARMs.
+Lenders should provide enough information so that borrowers clearly understand, before choosing a product or payment option, the terms of and risks associated with these loans, particularly the extent to which monthly payments may rise and negative amortization may increase the amount owed above the amount originally borrowed.
+Lenders should recognize that certain nontraditional mortgage loans are untested in a stressed environment; for instance, nontraditional mortgage loans to investors that rely on collateral values could be particularly affected by a housing-price decline.
+As noted, investors have represented an unusually large share of recent home purchases.
+Past loan performance has indicated that investors are more likely than owner-occupants to default on a loan when housing prices decline.
+When credit standards are eased and risks are layered, institutions should compensate for the increased risk with mitigating factors that support the underwriting decision.
+Among other credit enhancements, these factors generally include requiring borrowers to have higher credit scores, lower loan-to-value and debt-to-income ratios, and significant liquidity and net worth.
+Finally, lenders should establish appropriate allowances for estimated credit losses in their nontraditional mortgage portfolios and hold capital commensurate with the risk characteristics inherent in these products.
+One final subject that is not addressed explicitly in our draft guidance, but that I believe is still important to supervisors and bankers, is mortgage fraud.
+There appears to have been a substantial upswing in suspected fraud related to residential mortgages in the past decade.
+Types of fraud include falsification of loan applications, identity theft, misuse of loan proceeds, and inflated appraisals.
+According to the Financial Crimes Enforcement Network, there were more than 18,000 reports of suspected mortgage fraud in 2004 (the latest year for which we have complete data), compared with fewer than 2,000 reports in 1997.
+And in the first six months of 2005 alone, there were more than 11,000 reports of suspected mortgage fraud.
+The increase may be attributable in part to an increase in the number of originators required to file Suspicious Activity Reports (SARs).
+Notably, the more widespread use of nontraditional loan products may present greater opportunity for fraud, as these products sometimes lack some of the quality checks typical of more-traditional mortgages.
+In general, we consider mortgage fraud to be a serious issue and one that bankers and supervisors must continue to confront.
+Of course, supervisors want to hear the industry's perspective on fraud in mortgage lending.
+Commercial Real EstateThe U.S. banking agencies recently issued proposed guidance on commercial real estate (CRE) lending.
+A major portion of that guidance focuses on CRE concentrations.
+Before I discuss the importance of managing CRE concentrations, I want to emphasize that the proposed CRE guidance relates to "true" CRE loans.
+It is not directed at commercial loans for which a bank looks to a business's cash flow as the source of repayment and accepts real estate collateral as a secondary source of repayment.
+The proposed guidance addresses bank loans for commercial real estate projects for which repayment depends on third-party rental income or on the sale, refinancing, or permanent financing of the property.
+The latter are "true" commercial real estate loans, in that repayment depends on the condition and performance of the real estate market.
+I also want to mention up front that the proposed guidance is not intended to cap or restrict banks' participation in the CRE sector but rather to remind institutions that proper risk management and appropriate capital are essential elements of a sound CRE lending strategy.
+In fact, many institutions already have both of these elements in place and may not need to adjust their practices very much.
+I believe we are all aware of the central role that CRE lending played in the banking problems of the late 1980s and early 1990s.
+One reason supervisors are proposing CRE guidance at this point is that we are seeing high and rising concentrations of CRE loans relative to capital.
+For certain groups of banks, such as those with assets of between $100 million and $1 billion, the average CRE concentration level is about 300 percent of total capital.
+In the late 1980s and early 1990s, the concentration level for this same bank group was about 150 percent, or half the current level.
+Therefore, banks should not be surprised by the emphasis in the proposed CRE guidance on concentrations and the importance of portfolio risk management.
+Historically, CRE has been a highly volatile asset class.
+In the past, problems in CRE, even at well-managed banks, have generally come at times when the broader market was encountering difficulties.
+In an effort to generate cash flow, borrowers and bankers with properties in distress may disrupt their local real estate market by cutting rents or offering leasehold improvements and other incentives to attract or keep tenants.
+These actions can have a negative effect on the entire local real estate market, including good projects.
+In most years, CRE credit losses are relatively low compared with many other types of bank loans.
+But in times of stress, the loss rate can jump considerably higher.
+Because CRE losses tend to be greater during times of stress, bankers must focus more intently on their risk appetite as their CRE concentration grows.
+Bankers must consider how much capital will be placed at risk if the CRE portfolio hits a stress period and compare that loss exposure with the relative returns of CRE lending.
+In other words, bankers need to practice risk management.
+While banks' underwriting standards are generally stronger than they were in the 1980s and 1990s, the agencies are proposing the guidance now to reinforce sound portfolio-management principles that a bank should have in place when pursuing a commercial real estate lending strategy.
+A bank should be monitoring performance both on an individual-loan basis as well as on a collective basis for loans collateralized by similar property types or in the same markets.
+Some institutions' strategic- and capital-planning processes may not adequately acknowledge the risks from their CRE concentrations.
+CRE lending in recent years has occurred under fairly benign credit conditions, but those conditions are unlikely to continue indefinitely.
+The ability of banks with significant concentrations to weather difficult market conditions will depend heavily on their risk-management processes and their level of capitalization.
+From a risk-management and capital perspective, institutions should generally focus on the emerging conditions in their real estate markets and on the potential cumulative impact on their portfolios if conditions deteriorate; they should also take other measures to help identify CRE vulnerabilities.
+Of course, these measures should vary according to the size of the organization and the level of the concentration.
+All of these steps are key elements of a sound strategy to manage concentrations.
+While supervisors continue to underscore the importance of having robust risk-management practices for CRE and other lending concentrations, we do acknowledge that banks may pursue a variety of approaches.
+In some cases, such as when there is not enough market data available or the relevant geographic market is small, banks may have to turn to less- quantitative approaches.
+Nonetheless, those approaches should be robust, well documented, and transparent.
+This is consistent with the broader theme that risk management should be scaled to the institution.
+Along those same lines, we are not necessarily expecting smaller banks to be able to conduct regular, extensive, and sophisticated quantitative stress tests around their lending concentrations.
+However, we do want bankers at smaller organizations to have clear and coherent methods for evaluating the various potential outcomes associated with their CRE concentrations and with all their exposures more broadly.
+ConclusionIn the past several decades, real estate markets, both residential and commercial, have affected the U.S. economy in both negative and positive ways.
+Naturally, the Federal Reserve monitors these markets to gauge their impact on broader economic activity.
+In addition, because banks are substantially involved in both residential and commercial real estate markets, as a supervisor, we must ensure that bank lending in these markets is conducted in a safe and sound manner.
+One tool we use to help maintain the safety and soundness of banks is supervisory guidance, which can point out areas requiring additional monitoring, suggest ways in which banks can improve risk management, and remind bankers that they should continue to exercise discipline in their lending activities to ensure that they are accounting for all their risks.
+The recently issued draft guidance on nontraditional mortgage products and on CRE lending, as I have noted, is not an attempt to stifle lending in these sectors, which, if conducted properly, can continue to be profitable businesses for bankers.
+Indeed, we recognize the important role that banks play in real estate lending.
+That is why we want to ensure that banks maintain good practices when operating in those markets.
+As a final point, if both sets of guidance are finalized, we aim to implement them as consistently as possible across institutions.

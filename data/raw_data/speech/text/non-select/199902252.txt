@@ -1,0 +1,100 @@
+New financial instruments, innovations in portfolio management, and the technological capability of implementing new risk management strategies offer opportunities to reduce risk and to improve efficiency by allocating risk to those most willing to accept it.
+Reductions of trade barriers and the freer flow of financial capital around the world mean better resource allocation, improved productivity, and higher standards of living for citizens of the United States and many other nations.
+While the current and potential benefits of financial and technological change are real and substantial, they do not come without some costs.
+For example, the rapid pace of technological change and the wide array of innovative financing techniques have in some ways made it more difficult for outside investors and policymakers to evaluate the risks borne by individual institutions and the broader markets.
+And, nearly instantaneous communications and heightened interdependencies among nations speed the effects of poor investment and policy decisions around the globe.
+Recent experiences in Asia, Russia, Latin America, and at home have taught us a lot about the risks of an increasingly interdependent world linked by complex financial relationships.
+In this rapidly evolving world of inevitable benefits and costs, the key question for both financial policymakers and market participants is: How can we retain the benefits of rapid technological and financial innovation and of freer movements of goods and financial capital across national borders, while simultaneously protecting our financial institutions and markets from the risks that these changes might bring?
+This is not a new question, and I am sure that most of this audience is well aware that many efforts are underway in both the public and private sectors to address the variety of issues that this question evokes.
+As always, there are no simple answers.
+But I believe that a number of fundamental principles have emerged that should be used to help shape both public and private policies and practices.
+Private Market Discipline Is the First Line of Defense Perhaps the most fundamental principle that must guide us is that private market participants are the first line of defense against excessive private and public risk in the financial system.
+Private borrowers, lenders, investors, institutions, traders, brokers, exchanges, and clearing systems all have huge stakes in containing their risks as individual agents and risks to the system as a whole.
+Private market participants can discourage excessive risk taking by choosing to do business with those firms that demonstrate sound risk management systems and portfolios that balance appropriately risk and expected return.
+If private markets are going to perform their risk control functions, then market prices must send the right signals to all participants about the risks and rewards of a particular transaction or at a given firm.
+In order to improve the ability of market prices to accurately reflect risks and returns, I believe that we should take action ourselves and encourage action by others in at least three areas.
+First, we should seek ways of improving the transparency of financial institutions and markets.
+As we all know, full information is a fundamental requirement of free and competitive markets.
+More particularly, financial institutions and individual investors must be well informed about their own and their counterparties' exposures, the nature of new financial instruments, and the extent of overall market liquidity.
+I believe that banks and other financial institutions could significantly improve their disclosures by providing more information to the market about their risk management policies and practices and about the values of internal risk measures.
+At present, the market seems to grant great weight to bank regulatory capital ratios that are only crude indicators of an institution's risk profile.
+That attention is driven in large part by the fact that these regulatory measures provide a consistent basis for comparison.
+The regulatory and financial communities should work together to identify more meaningful statistics to meet the market's needs.
+At the international level much work is being done, and much remains.
+One of the key lessons of our most recent financial crises is that international accounting and public disclosure standards are often inadequate.
+An important step forward was the publication last November by the international Basle Committee on Banking Supervision of guidelines for enhancing bank transparency.
+That report provides guidance to banks and banking supervisors around the world on the nature of core disclosures that should be provided to the public.
+Much more, however, should be done to provide the public and supervisors with the information they need to exert effective market discipline.
+A second area where we could improve market discipline is in affecting how market participants view what has come to be known as the too-big-to-fail problem.
+In this regard, I would emphasize that the FDIC Improvement Act of 1991, or FDICIA, contains rather tough language about too-big-to-fail--language that I assure you the Board takes very seriously.
+Perhaps it would be useful to review briefly what the law says.
+FDICIA requires that, regardless of the size of a bank, the bank resolution method chosen by the FDIC be the least costly of all possible methods for meeting the FDIC's obligation to protect insured deposits.
+In addition, FDICIA prohibits the FDIC from assisting uninsured depositors and creditors, or shareholders of an insured depository institution.
+Add to these FDICIA provisions the depositor preference provisions in the Omnibus Budget Reconciliation Act of 1993, and you have some rather potent reasons for the market to be disciplined in its dealings with insured depositories.
+The only exception to these obligations is the so-called "systemic risk exception."
+But the systemic risk exception is quite tough and explicit.
+It requires concurrence by two-thirds of the Federal Reserve Board, two-thirds of the FDIC Board, and the Secretary of Treasury in consultation with the President that conformance with least-cost resolution would "have serious adverse effects on economic conditions or financial activity" before the FDIC is allowed to "take other action or provide assistance as necessary to avoid or mitigate such effects."
+In addition, if the systemic risk exception is used, any insurance fund losses arising from such exceptional actions must be recovered through special assessments on all depository institutions that are members of the relevant federal deposit insurance fund.
+Lastly, the Comptroller General must subsequently review the agencies' actions and report its findings to Congress.
+The sum total of these conditions establishes, in my view, a rather high hurdle that must be cleared before the systemic risk exception can be used.
+The FDICIA and other reforms have, I believe, altered market perceptions of too-big-to-fail.
+Nonetheless, the obvious need for the central bank and other government agencies to prevent a systemic collapse of the banking and financial system, the creation of seemingly ever-larger financial organizations, and the inherent uncertainties involved in the management of any crisis leave room for doubt in some observers' minds.
+Perhaps by its very nature this is an issue that can never be fully resolved.
+But it seems clear to me that any institution, regardless of size, can fail in the sense that existing stockholders can lose their total investment, existing management can be replaced, and uninsured creditors can suffer losses.
+In some cases it may be necessary for an institution to stay in operation and be wound down in an orderly way over a transition period.
+Ultimately, the institution could be sold in whole or in part.
+But even in such cases the expectation of owners, managers, and uninsured creditors should be that real and significant losses will be incurred.
+In my judgment, if policies consistent with these principles are followed, then we will have eliminated much of the moral hazard associated with the federal safety net for depository institutions while simultaneously being able to achieve our goal of preserving financial stability.
+One way to enhance the ability of market participants to limit risk taking by banks might be to require at least the largest and most complex banks to issue a minimum amount of subordinated debt.
+Many such proposals have surfaced over the last decade, including some from within the Federal Reserve System.
+And while I think that it is premature to endorse any one proposal, indeed there are a number of thorny details that would need to be worked out, I am strongly attracted to the basic concept advanced by proponents of subordinated debt.
+The fundamental notion behind requiring at least some banks to issue traded subordinated debt is to create a set of uninsured bank creditors whose risk preferences are similar to those of bank supervisors.
+Because subordinated debt holders have downside risk, but virtually no upside potential, subordinated debt holders tend to be risk averse in much the same way as is the FDIC.
+Thus, when a bank sought to issue subordinated debt the price that investors were willing to pay would bring direct market discipline aimed at controlling excessive risk taking by the bank.
+A second key objective is to create a set of market instruments that would provide clear, and frequent, signals of the market's evaluation of a bank's financial condition.
+Such signals could act as a deterrent to a bank's tendency to take excessive risk, and could perhaps alert bank supervisors to examine, or otherwise intervene in, a bank more quickly than they otherwise would.
+Changes in the market prices of traded bank subordinated debt, and perhaps other actions by the owners of this debt, have the potential to provide such signals.
+In this way subordinated debt could be used to bring indirect market discipline on a bank.
+Supervisory Discipline Must Be An Effective and Dynamic Second Line of Defense While market discipline must be our first line of defense for ensuring financial stability, bank supervision also has an important role to play.
+The very nature of a systemic disruption, which imposes costs on not only the perpetrators, but also on many and diverse economic agents far removed from the immediate event, means that market participants find it impossible to fully incorporate systemic risks into market prices.
+Indeed, it is this very aspect of systemic risk that justifies the existence of a government safety net for depository institutions.
+The inevitable moral hazard of the safety net requires that bank supervisors have the ability to exert supervisory discipline on the riskiness of banks.
+I would like to comment tonight on what I consider two of the most pressing needs in the bank supervisory area: the need to make capital standards more risk sensitive, and the need to focus supervisory practice more on risk measurement and management.
+I need not explain to this audience why the maintenance of strong capital positions is critical to the preservation of a safe and sound banking system.
+Indeed, ensuring strong capital has been a cornerstone of bank supervision for decades.
+However, the development by some of our largest and most complex banks of increasingly sophisticated models for measuring, managing, and pricing risk has called into question the continuing usefulness of the current capital standards--the so-called risk-based capital standards--that are part of the Basle Accord.
+The Basle Accord capital standards were adopted in 1988 by most of the world's industrialized nations in an effort to encourage stronger capital at riskier banks, to include off-balance sheet exposures in the assessment of capital adequacy, and to establish more consistent capital standards across nations.
+The Accord was a major advance in 1988, and initially proved to be very useful in promoting safety and soundness goals.
+But in recent years calls for reform have begun to grow.
+I will outline briefly one of the key problems we are currently facing with the Basle Accord.
+The Basle Accord divides on- and off-balance sheet assets of banks into four risk buckets, and then applies a different capital weight to each bucket.
+The basic idea is that more capital should be required to be held against riskier assets.
+However, the relationship is rough.
+Perhaps most troublesome, the same risk weight is applied to all loans.
+Thus, for example, a loan to a very risky "junk bond" company gets the same weight as a loan to a "triple A" rated firm.
+While the Accord has the virtue of being relatively easy to administer, it also clearly gives banks an incentive to sell or not to originate loans that their internal models say need less capital than is required by the Basle Accord.
+Conversely, banks are encouraged to book loans that their models say require more capital than does the Basle standard.
+Not surprisingly, some banks have devoted substantial resources to attempting to achieve both adjustments to their portfolios.
+The resulting "regulatory arbitrage" surely causes some serious problems.
+For one thing, it makes reported capital ratios -- a key measure of bank soundness used by supervisors and investors -- less meaningful for government supervisors and private analysts.
+Efforts are currently underway to redress many of the deficiencies in the current Basle Accord.
+But many of the issues are complex, and the optimal changes are still unclear.
+A consensus does seem to have developed that the Accord must be more risk sensitive.
+But how risk sensitive, and how should that risk sensitivity best be implemented?
+I foresee a multi-staged process with perhaps some modest and relatively noncontroversial "fixes" being proposed, possibly in the very near future, and more fundamental reforms being developed and implemented over a period of several years.
+Given the dynamic nature of change in the financial sector, such a phased, or evolutionary, approach to revising the Accord is probably not just the only practical strategy, but also the most prudent as well.
+The need for an evolutionary approach can be made with perhaps even more force to other supervisory policies and procedures.
+For example, the increasing use and sophistication of credit risk models at the largest and most complex domestic and foreign banks has profound implications for supervisory activities as well as capital regulation.
+Understanding and evaluating credit risk models and related risk measurement techniques are quickly becoming required skills of bank supervisors.
+This need is fueled by the ever-growing array of securitizations, credit derivatives, remote originations, financial guarantees, and a seemingly endless stream of other financial innovations.
+Add to this the fantastic speed with which financial transactions can now be conducted, and one begins to get a feel for the many challenges facing bank supervisors.
+With these realities in mind, supervisory practices at all of the banking agencies are changing.
+Oversight of banks has become much more continuous and risk-focused than even a few years ago, especially at the largest and most complex organizations.
+It is recognized that we can no longer rely on periodic on-site examinations to ensure that these large institutions are operating in a safe and sound manner, but rather must be assured that their risk management practices and internal controls are sound on an on-going basis.
+Still, on-site examinations, in my judgment, remain critical.
+However, on-site examinations must evolve to be both as effective and as unobtrusive as possible.
+We are devoting substantial efforts to attracting, training, retaining, and using effectively the highly skilled personnel that modern bank examinations require.
+The new procedures place greater importance on an institution's internal management processes, beginning at the top.
+Consistent with the view that private agents are the first line of defense against excessive risk, boards of directors are expected to be actively involved in establishing the overall environment for taking risk, staying informed about the level of risks and how they are managed and controlled, and making sure that senior management is capable and has the resources it needs to be successful.
+Management is expected to develop and implement the policies and procedures needed to conduct a banking business in a safe and sound manner.
+Internal controls, evaluated by an independent internal auditing function, must be sound.

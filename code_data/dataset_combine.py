@@ -7,17 +7,23 @@ def file_format(file):
     return f
 
 
-def combine_excel(file1, file2, output_name):
-    df = pd.merge(file1, file2, how="outer", on=["sentence", "label"])
-    df.to_excel(output_name)
+mm = file_format("../labeled_data/lab-manual-mm.xlsx")
+pc = file_format("../labeled_data/lab-manual-pc.xlsx")
+sp = file_format("../labeled_data/lab-manual-sp.xlsx")
+
+mm_split = file_format("../labeled_data/lab-manual-mm-split.xlsx")
+pc_split = file_format("../labeled_data/lab-manual-pc-split.xlsx")
+sp_split = file_format("../labeled_data/lab-manual-sp-split.xlsx")
 
 
-mm_file = file_format("/Users/suvanpaturi/Documents/Label-Data/manual_v2.xlsx")
-pc_file = file_format("/Users/suvanpaturi/Documents/Label-Data/manual-pc.xlsx")
+def combine(mm, pc, sp):
+    temp = pd.concat([mm, pc, sp], axis=0).sort_values(by=['sentence']).reset_index()
+    return temp[temp.columns[~temp.columns.isin(['assists', 'rebounds'])]]
 
 
-mm_split_file = file_format("/Users/suvanpaturi/Documents/Label-Data/manual_mm_split.xlsx")
-pc_split_file = file_format("/Users/suvanpaturi/Documents/Label-Data/manual-pc-split.xlsx")
 
-combine_excel(mm_file, pc_file, "/Users/suvanpaturi/Documents/Label-Data/manual-combined.xlsx")
-combine_excel(mm_split_file, pc_split_file, "/Users/suvanpaturi/Documents/Label-Data/manual-split-combined.xlsx")
+if __name__ == "__main__":
+    manual_combine = combine(mm=mm, pc=pc, sp=sp)
+    manual_combine.to_excel("../labeled_data/lab-manual-combine.xlsx")
+    split_combine = combine(mm=mm_split, pc=pc_split, sp=sp_split)
+    split_combine.to_excel("../labeled_data/lab-manual-split-combine.xlsx")

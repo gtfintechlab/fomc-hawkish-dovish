@@ -211,27 +211,27 @@ if __name__=='__main__':
     # experiments
     '''
     language_model_to_use = "bert"
-    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
+    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data_old/manual_v2.xlsx", language_model_to_use=language_model_to_use)
     language_model_to_use = "roberta"
-    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
+    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data_old/manual_v2.xlsx", language_model_to_use=language_model_to_use)
     language_model_to_use = "finbert"
-    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
+    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data_old/manual_v2.xlsx", language_model_to_use=language_model_to_use)
     language_model_to_use = "flangbert"
-    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
+    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data_old/manual_v2.xlsx", language_model_to_use=language_model_to_use)
     language_model_to_use = "bert-large"
-    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
+    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data_old/manual_v2.xlsx", language_model_to_use=language_model_to_use)
     language_model_to_use = "roberta-large"
-    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data/manual_v2.xlsx", language_model_to_use=language_model_to_use)
+    train_lm_price_change_experiments(gpu_numbers="1", train_test_data_path="../training_data_old/manual_v2.xlsx", language_model_to_use=language_model_to_use)
     '''
     '''
     language_model_to_use = "roberta"
-    output = train_lm_hawkish_dovish(gpu_numbers="0", train_test_data_path="../training_data/manual_v2.xlsx", 
+    output = train_lm_hawkish_dovish(gpu_numbers="0", train_test_data_path="../training_data_old/manual_v2.xlsx", 
     language_model_to_use=language_model_to_use, seed=5768, batch_size=8, learning_rate=1e-5, save_model_path=save_model_path)
     print(output)
     '''
     language_model_to_use = "pretrain_roberta"
-    output = train_lm_hawkish_dovish(gpu_numbers="0", train_test_data_path="../training_data/manual_v2.xlsx", 
-    language_model_to_use=language_model_to_use, seed=5768, batch_size=8, learning_rate=1e-5, save_model_path=None)
+    output = train_lm_hawkish_dovish(gpu_numbers="0", train_test_data_path="../training_data_old/manual_v2.xlsx",
+                                     language_model_to_use=language_model_to_use, seed=5768, batch_size=8, learning_rate=1e-5, save_model_path=None)
     print(output)
 
     print((time() - start_t)/60.0)

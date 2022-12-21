@@ -3,7 +3,7 @@ import re
 
 data_directory = "../code_data/Meeting-Minutes-Filtered-Labeled/"
 
-master_file_path = "../code_data/master_meeting_minutes_1996_2020_cleanmeta_NLP_v4.xlsx"
+master_file_path = "../data/master_files/master_meeting_minutes_1996_2020_cleanmeta_NLP_v4.xlsx"
 
 
 def get_new_file_path(file):

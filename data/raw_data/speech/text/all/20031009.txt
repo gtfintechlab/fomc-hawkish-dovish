@@ -1,0 +1,99 @@
+Your agenda contains a number of topics concerning low-income households and credit markets.
+I want to focus on just one--predatory lending.
+As you know, this has been an enormously important issue for lenders, consumers, and regulators for the past few years.
+I would like to take this opportunity to provide an update on where we stand on the issue.
+The Growth of Subprime Lending Probably the key concept in the predatory lending debate is the difference between subprime lending and predatory lending.
+Subprime lending can be defined straightforwardly as the extension of credit to higher-risk borrowers who do not qualify for traditional, prime credit.
+Most often, the risk can be attributed to borrowers' tarnished credit records or uncertain income prospects.
+But such lending carries other risks as well, including, surprisingly, early prepayment risk.
+Subprime loans naturally feature pricing and other contract terms that either compensate for or are intended to lessen some of these risks.
+One of the important stories of the 1990s was the huge growth in subprime lending.
+In dollars, subprime mortgage originations grew by a factor of seven over the 1994-2002 period.
+Since low-income and minority borrowers are much more likely to rely on subprime credits, these groups have benefited disproportionately from the expansion.
+One visible outcome has been an increase in home ownership rates for low-income and minority borrowers.
+This represents a welcome extension of home mortgage and other credit to previously underserved groups--a true democratization of credit markets.
+Millions of low- and moderate-income families now have a chance at owning a home and building wealth.
+This rapid growth of subprime credit may have created problems, as we will see, but there is plenty of good news in this area.
+The subprime credit market is intensely competitive.
+A recent informal review by Federal Reserve staff identified upward of 75,000 U.S. lending institutions, more than eight times the number of U.S. banks.
+These lenders include banks, thrifts, credit unions, mortgage brokers, mortgage companies, and payday lenders.
+Banks, thrifts, and credit unions are regulated through periodic compliance exams, but the regulatory oversight for the other institutions is much more sporadic.
+To a great degree, the rapid growth in subprime lending has been fueled by technological changes.
+The most prominent of these changes has been the widespread use of credit scoring models that permit lenders to determine efficiently and quickly the appropriate pricing for a subprime loan.
+In earlier times, the loan application most likely would have simply been denied.
+Despite the growth of subprime lending, we should remember that such loans still represent only a small portion of the overall mortgage market.
+In 2002, subprime mortgage originations totaled $241 billion, 9 percent of total mortgage originations.
+Predatory Lending The growth in numbers and types of subprime credit has been accompanied by disturbing reports of abusive mortgage practices.
+These practices--most prominently loan flipping, fee packing, equity stripping, asset-based lending, and outright fraud--have contaminated the otherwise welcome extension of subprime credit.
+Many incidents of fraud and abuse have been reported and in certain sections of large cities, mortgage foreclosure rates are rising to worrisome heights.
+While the circumstances vary, the typical predatory lending situation begins with a low-income borrower straining to make mortgage payments.
+Then something bad happens--the borrower suffers a loss in income, has a medical emergency, or the roof leaks--and the borrower is forced to take out another loan or to refinance the existing one at higher rates.
+Soon the already cash-strapped borrower falls behind in payments on the new loan.
+Perhaps the lender should not have made the loan; perhaps the borrower should have had a greater financial cushion.
+But the real or threatened foreclosure represents a real problem for the borrower and the borrower's neighborhood.
+It can even be costly to the lender.
+When a subprime loan goes into foreclosure, the overall social costs can be quite high.
+A Multifaceted Approach One can imagine many solutions to predatory lending problems.
+Certainly to the extent that lenders are monitored for compliance with consumer protection laws, compliance exams could be strengthened.
+Enforcement in cases involving fraud and abuse could be enhanced.
+Secondary market institutions such as Fannie Mae and Freddie Mac could change their loan-buying stipulations.
+And borrowers could be informed about troublesome loan contracts through financial literacy and lending counseling programs.
+In fact, all of these things have been done, to varying degrees.
+Federal Reserve One agency that I am pleased to say has stepped up is the Fed.
+The Fed writes regulations for the Home Ownership and Equity Protection Act of 1994 (HOEPA), which remains Congress's main response to predatory lending.
+HOEPA works by shining a spotlight on high-cost mortgage loans.
+For these high-cost loans, HOEPA bans balloon payments in the first five years, prohibits prepayment penalties generally after five years, and makes a secondary buyer of the loan liable for any violations or misrepresentations that occurred at the time the loan was extended (a provision known as assignee liability).
+This assignee liability makes some secondary market purchasers reluctant to acquire HOEPA loans.
+The Fed has lowered the interest rate trigger defining loans subject to HOEPA, thereby increasing HOEPA coverage.
+It has also made most loans that contain single-premium credit insurance, a common vehicle for predatory abuses, subject to HOEPA.
+In a separate action, the Fed has tightened mortgage reporting provisions under the Home Mortgage Disclosure Act (HMDA).
+From now on, more lenders will be subject to HMDA, and they must report pricing information on subprime loans, as well as each loan's HOEPA status and whether the loan is for a manufactured home.
+These data should greatly increase our knowledge of how subprime markets work.
+Other Bank Regulators Other bank regulators have stepped up as well.
+Just this week the banking regulatory agencies issued a public information brochure to help inform consumers of the characteristics of abusive loans, and how consumers can take steps to protect themselves.
+The Office of the Comptroller of the Currency (OCC) has issued supervisory guidance on predatory lending.
+Other regulatory agencies, including the Fed, have also utilized a variety of supervisory tools to limit questionable payday lending practices.
+States and Localities Many states and localities have also enacted their own predatory lending laws.
+As a rule, these laws are patterned after HOEPA.
+But most of them go well beyond HOEPA in extent and structure.
+A statute enacted in North Carolina provided an early model.
+The North Carolina law restricts the use of prepayment penalties and repeated refinancings, bans single-premium credit insurance, and establishes other restrictions on rates and fees.
+Other states have greatly extended assignee liability provisions, and many cities and states have identified other objectionable practices, and prohibit institutions engaging in these practices from doing business with state and local governments.
+The effect of such laws, particularly their potential for unduly constraining mortgage lending, is still under debate.
+Studies of the North Carolina law generally conclude that the state has not experienced the same growth in subprime lending as neighboring states.
+Preliminary review of HMDA data by the Fed, for example, suggests that the level of subprime lending in North Carolina has grown by 54 percent since the law went into effect, compared with 97 percent growth in neighboring states.
+Of course, these HMDA data do not provide a means of determining whether any additional lending that might have taken place would have been legitimate lending or predatory lending.
+A study by Georgetown University's Credit Research Center also found relatively slower growth of subprime lending activity in North Carolina after the law took effect, with an especially large impact among lower-income borrowers.
+Studies by the University of North Carolina and the Center for Responsible Lending (CRL) also showed relatively slower growth of subprime activity but concluded, in contrast, that the lower rate of growth was attributable to a reduced presence of credit with abusive terms.
+Both of the latter studies assert that the law has been effective in deterring lenders who use predatory practices, and the CRL study maintains that the law saved North Carolina consumers $100 million in predatory lending costs in its first year.
+The passage of such laws and ordinances by a variety of states and cities has also resulted in concerns about the difficulties national lenders face in attempting to comply with a patchwork of state and local laws.
+In response, a national anti-predatory-lending bill has been proposed and is currently being debated in the Congress.
+Secondary Market Similarly responding to the potential for subprime lending abuses, the two main secondary mortgage market participants, Fannie Mae and Freddie Mac, have tightened their buying provisions.
+These institutions no longer purchase HOEPA loans, loans with single-premium credit insurance, or loans with other terms believed to be disadvantageous to borrowers.
+They also require lenders to report payment information to major credit bureaus, to ensure that borrowers' repayment performance is reflected in their credit history.
+Other Enforcement Activities Litigation involving predatory lending has established both the characteristics and the consequences of abusive lending practices.
+In recent years, settlements have been secured in suits brought by federal agencies and public law centers.
+In a case brought by eighteen states and the District of Columbia, Household International, one of the country's largest subprime lenders, agreed to pay up to $484 million in damages to consumers who were misled about the cost of their loans.
+The Federal Trade Commission obtained a $215 million settlement with The Associates and its successor, Citigroup, as well as a separate $60 million settlement with First Alliance Mortgage Company, for employing deceptive lending practices and violating credit statutes in other ways.
+The OCC entered into a $300 million settlement with Providian National Bank, a California-based institution, to compensate consumers harmed by its unfair and deceptive marketing and lending practices.
+The size of these settlements is another indication of the cost of deceptive lending practices.
+In addition to these broad cases, many public law centers have brought suits on behalf of individual victims of predatory lending.
+In several cases, borrowers have been awarded damages, and some have had their entire loan transaction rescinded.
+Attorneys accepting these cases typically file many claims to increase the possibility of obtaining restitution for their clients.
+Even with this strategy, it can be difficult to identify a technical violation of law, as the predatory loan contract is often not technically illegal, but rather unsuitable for the borrower's financial circumstances.
+Collaborations to Assist Victims and Increase Financial Education Another approach to addressing predatory lending problems has been victim assistance and education often provided through collaboration among advocacy groups, financial institutions, government agencies, and lawmakers.
+Initiatives to aid victims typically include loan workout and refinancing programs as part of an effort to prevent foreclosure and extreme borrower hardship.
+One such program was initiated as a partnership among the Chicago Neighborhood Housing Services, the City of Chicago, and eighteen financial institutions.
+With the goal of preventing foreclosure and repairing borrowers' financial situations, this collaboration has provided loans to victims of abusive lending practices that refinance their high-cost loans into more manageable debt.
+Other initiatives to provide funds to assist borrowers harmed by predatory lenders have been undertaken in Atlanta, Baltimore, Cincinnati, Las Vegas, and Omaha, to name a few cities.
+Such programs are costly and difficult to sustain because of the challenge of negotiating more favorable terms with unmotivated lenders.
+In addition, borrowers often do not seek assistance until their financial circumstances are dire, leaving few options for their attorneys.
+Consumer education programs address predatory lending by improving consumers' overall financial knowledge.
+Such programs can empower consumers by giving them the information they need to shop for products that meet their needs.
+National education initiatives are offered by a wide variety of organizations, including Freddie Mac, Fannie Mae, and the Federal Deposit Insurance Corporation.
+Typically, such initiatives provide educational resources to local community organizations and governments to increase their reach.
+The Fed has also launched an initiative to increase awareness of the importance of financial education--including a public service announcement, a consumer information brochure with tips on personal financial management strategies, and a web site listing education and information resources.
+Conclusion In closing, I want to emphasize that addressing predatory lending requires a nuanced and balanced response.
+Subprime lending has many desirable aspects, and we would not want to adopt draconian policies that extinguish or greatly curtail legitimate subprime business.
+At the same time, we must remain alert to the potential for abuse.
+Combating abuse calls for a comprehensive, multi-dimensional strategy, one that employs the most effective tools available to the regulatory, legal, and educational communities.

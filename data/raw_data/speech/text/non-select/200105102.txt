@@ -1,0 +1,139 @@
+It is my pleasure to participate in this distinguished conference.
+I look forward to a fruitful and stimulating discussion with both my fellow panel members and the audience.
+The federal safety net for depository institutions--by which I mean deposit insurance, access to the Federal Reserve's discount window and payment system guarantees, and the implicit certification of soundness that counterparties believe accompanies federal supervision and regulation--has been a potent force for ensuring the stability of the U.S. banking and financial system.
+We should preserve these benefits.
+However, as we learned to our chagrin in the late 1980s and early 1990s, this system can impose serious costs because of the unintended consequences of "moral hazard"--the incentive to take excessive risk and the consequent reduction of market discipline.
+Moreover, these costs can be especially large if supervisors tend to delay, or forebear, in resolving troubled and insolvent institutions.
+In my remarks this morning, I will first review the lessons that I believe we learned from the last banking crisis regarding how best to control the unintended consequences of the safety net; I will then look forward to what I believe still needs to be done.
+In the course of my presentation, I will expand on a number of the themes in Chairman Greenspan's remarks and suggest priorities for our current and future efforts.
+Lessons from the Past The banking crisis of the late 1980s and early 1990s led to a number of key reforms that were designed, individually and in total, to limit the unintended consequences of the federal safety net.
+In 1988, bank supervisors from the United States and the major industrial nations adopted what has come to be known as the Basel Capital Accord.
+The accord, which had been under development for several years, helped to focus supervisors and the industry on the importance of adequate capital for bank safety and soundness.
+It was a de facto increase in capital standards for a number of depository institutions, particularly large firms with significant risks from off-balance-sheet activities.
+In the parlance of finance theory, higher capital standards reduced the value of the put option provided by federal deposit insurance and lowered the exposure of the safety net as a whole.
+The accord also emphasized the importance of making supervisory standards sensitive to an individual institution's risk.
+The international nature of the accord meant that it explicitly recognized the increasing globalization of the activities of many depository institutions, their parent organizations, and financial markets more generally.
+Lastly, the accord helped align the incentives of supervisors and market participants.
+Almost immediately, market participants began to evaluate banking organizations on the basis of the fully phased-in system, even though full implementation was officially delayed until the end of 1992.
+December 1991 saw enactment of the Federal Deposit Insurance Corporation Improvement Act, or FDICIA.
+This massive act contained a number of critical reforms, some of which extended principles embedded in the Basel accord, and some of which struck out in new directions.
+FDICIA required that bank supervisors take prompt corrective action against troubled depositories.
+The basic idea was that by requiring supervisors to act promptly, the act would deter supervisors from engaging in regulatory forebearance, and depositories would be given strong incentives to correct problems quickly.
+As a result, moral hazard would be reduced, and taxpayer losses would be limited.
+Reinforcing the importance of adequate capital, the prompt corrective action provisions required that increasingly strong actions be taken against a depository institution as its capital ratios fell.
+The banking agencies were required to implement the policy of prompt corrective action no later than mid-December 1992, approximately the same date as for full implementation of the Basel accord.
+The incentives provided by a policy of prompt corrective action for deterring moral hazard and limiting taxpayer losses were reinforced by the least-cost-resolution requirements of FDICIA.
+Under least-cost resolution, the FDIC was directed to resolve a failed institution, and protect insured depositors, in a way that was "the least costly to the deposit insurance fund of all possible methods for meeting the Corporation's obligation."
+Although the act provided for certain exceptions to this charge, to which I shall return in a moment, the general thrust of least-cost resolution was to encourage market discipline by putting uninsured depositors and other liability holders at greater risk.
+Indeed, of the eighty-two banks that failed between 1993 and 2000, uninsured depositors have suffered losses in almost three-quarters of the resolutions, and in the balance of the cases the FDIC received higher bids to acquire the failing institutions with the uninsured creditors than without.
+Not surprisingly, research suggests that market discipline has increased in the post-FDICIA period.
+FDICIA reinforced the importance of risk-focused supervision and regulation by requiring the FDIC to implement a system of risk-based deposit insurance premiums.
+This system, first implemented in 1993, has had some success.
+It has also been hampered, in part, by the technical difficulty of estimating an appropriate premium.
+But it has also been hampered by the limitations imposed on risk-based pricing by the requirement that the reserve ratios of the FDIC's insurance funds for banks and savings associations be capped at 1.25 percent.
+The so-called "systemic risk exception" in FDICIA has been one of the act's most controversial provisions.
+Under this provision, resolution of a failed depository need not be least-cost, and uninsured creditors may be protected if it is determined that a least-cost resolution would "have serious adverse effects on economic conditions or financial stability" and that a resolution that is not least-cost would "avoid or mitigate such adverse effects."
+Some critics have argued that the systemic risk exception maintains a policy of too-big-to-fail, thus undermining FDICIA's other efforts to reduce moral hazard, encourage market discipline, and limit taxpayer liability, not to mention putting small banks that are "too-small-to-save" at a disadvantage.
+In my judgment, these criticisms are off the mark.
+The systemic risk exception recognizes the reality that in a major crisis the benefits of preserving the stability of the banking and financial system may very well outweigh the costs, including future moral hazard, of extending some additional protection to uninsured creditors in a crisis.
+Moreover, in my view, inadequate attention has been paid to several mitigating factors.
+Restrictions on the use of the exception, and the flexibility with which it may be employed, combine to substantially restrict its potentially adverse effects.
+For example, use of the exception is made difficult by FDICIA's requirement that in order for the exception to be triggered, two-thirds of both the Federal Reserve and the FDIC boards must determine that the circumstances necessary to invoke the exception are met, and both must recommend use of the exception to the Secretary of the Treasury.
+The Secretary must, in turn, consult with the President before determining that the exception is warranted.
+Reinforcing this hurdle, costs over and above what would have been incurred in a least-cost resolution must be recovered from healthy insured depositories through higher deposit insurance premiums rather than from taxpayers as a whole.
+In addition, and this has not been emphasized sufficiently in my view, nothing in the systemic risk exception requires that uninsured creditors be made whole.
+Equity holders' stakes will almost surely be wiped out if the systemic risk exception is invoked.
+Uninsured creditors' claims also can be discounted to reduce FDIC costs, to limit future moral hazard, and to encourage market discipline--provided that no creditor receives less than would have been the case in a liquidation of the bank.
+In the post-FDICIA world, the Congress and bank supervisors have continued to emphasize limiting the federal safety net and protecting taxpayers.
+For example, since the mid-1990s the Federal Reserve has devoted substantial resources to developing and implementing a supervisory program for the largest and most complex banking organizations, or LCBOs.
+It is highly risk focused and recognizes the realities of modern finance and risk management.
+Other banking agencies have developed similar programs.
+At the legislative level, the Gramm-Leach-Bliley Act clearly sought to deter the expansion of safety-net benefits beyond insured depositories.
+A Road Map for the Future So, here we stand in the spring of 2001 having implemented a large number of reforms designed to limit the moral hazard inherent in the federal safety net, to enhance market discipline, and to control taxpayer costs.
+Why do we need to do more?
+At a fundamental level the answer to this question is, in my judgment, quite uncertain.
+The hard reality is that all of the reforms I have just discussed have not been tested in the crucible of a banking or financial crisis.
+Do not misunderstand me, I am not looking for a crisis!
+But I think that it must be recognized at the start that we may have already gone a long way toward achieving the appropriate balance between the need to preserve the stability of the banking and financial system and the need to limit the unintended consequences of doing just that.
+Still, there seems to be a widespread feeling, which I share, that additional, or at least improved, efforts toward limiting moral hazard, enhancing market discipline, and lowering taxpayer liabilities should and can be made.
+Our world is a rapidly changing place, with technological change, financial engineering, globalization, and deregulation combining to alter the realities we all face.
+As a result, all of us must be willing to adapt old policies and adopt new ones if the circumstances require.
+In my final minutes, I will suggest how I believe we should set our priorities.
+In my mind, the safety and soundness of individual banks, the stability of the overall banking system, limitations on moral hazard, enhanced market discipline, and reduced taxpayer liability all begin with strong equity capital positions at individual depository institutions.
+Strong equity capital--in the language of Basel, tier 1 capital--provides a cushion against unexpected losses that can be used without triggering the bank's default.
+More generally, strong equity capital lowers the probability that a bank will fail.
+For example, when a bank is in trouble, it can build its capital through retained earnings because equity holders do not have to be paid dividends.
+In contrast, debt requires interest expenditures that may make it more difficult to maintain the viability of the firm.
+Strong equity capital also provides owners with a substantial stake in the future value of the firm and thus helps to control the safety net's moral hazard incentives to take excessive risk.
+Moreover, equity provides a first-loss buffer that provides some protection for holders of subordinated debt and other uninsured liabilities.
+Such protection is important because investors in subordinated debt and other uninsured liabilities do not benefit from the upside gains from the bank's risk taking in the same way as equity holders.
+For all of these reasons, we should insist on strong equity positions and not be indifferent to the choice between equity, various hybrid capital instruments such as trust preferred stock, and subordinated debt or any other uninsured liability.
+When a bank does fail, every dollar of losses absorbed by either tier 1 or tier 2 capital is one less dollar absorbed by the FDIC or the taxpayer.
+Equally important, from the point of view of day-by-day supervision, capital standards provide the foundation upon which nearly all supervisory and regulatory policies depend.
+Unfortunately, despite its central role, there is a problem with bank regulatory capital as we know it.
+As I suggested earlier, the 1988 Basel accord was a major step forward at that time.
+But, as my fellow Board members and I and many others have been arguing for a number of years, the existing risk-based capital standards are increasingly divorced from the realities of modern risk management for a small but growing number of banking institutions.
+In addition, the increasing estrangement between regulatory capital standards and economic reality has encouraged many firms to engage in regulatory capital arbitrage, by which I mean rearranging their portfolios in ways that allow them both to meet the capital standards and to take on more risk.
+As a result, the Basel accord capital ratios are an increasingly less reliable guide to the true capital strength of the firm and thus are less and less useful to both the public and private sectors.
+Importantly, the banking institutions for which the existing capital standards are the most distorted are in many cases the very institutions whose disorderly failure would be most likely to impose systemic risks.
+In light of these developments, in my judgment, it is of the highest priority that, for the most financially sophisticated and complex banks, we make the capital standards more reflective of the risks that they are, in fact, taking.
+As I hope everyone in this room is fully aware, such efforts are well under way.
+In January of this year, the Basel Committee on Banking Supervision released its second consultative paper for the New Basel Capital Accord and asked for public comment by the end of May.
+Let me emphasize that we really do need and desire public comment on our proposals.
+No one in the supervisory community believes that we have solved, or even at this point know how to solve, all of the problems with the 1988 accord.
+Success will come only if both supervisors and private market participants bring their best ideas to the table.
+Moreover, we fully expect that the new accord, like the old accord, will be a living document that is revised as technology and other aspects of the economic environment evolve.
+Let me also acknowledge that the new capital proposals are complex, and the documentation we released in January is, to say the least, daunting.
+But this complexity reflects the reality that, at least for a small number of generally large and internationally active banking organizations that are engaged in a wide range of traditional and not-so-traditional banking activities, modern risk taking and risk management are complex.
+Moreover, risk management is increasingly susceptible to quantification and statistical analysis.
+The new accord attempts to respond to these facts for those relatively few institutions to which this reality applies while making only minor changes to the existing capital standards for the vast majority of banking organizations.
+Indeed, an important reason for the new accord's complexity is that it proposes three alternative capital standards to allow for a wide range of needs and risk management practices at individual institutions and for the evolution of both over time.
+A second priority for bank supervisors is to continue to develop procedures that make sure no bank is too big to fail in these senses: that stockholders can lose all, that existing management can be replaced, that uninsured creditors can suffer losses, and that the institution can be wound down and possibly sold, in whole or in part, in an orderly way.
+As I indicated a few minutes ago, nothing in FDICIA's systemic risk exception prevents implementation of such a policy.
+At the Federal Reserve, developing such procedures is already a high priority.
+For example, in 1999 I chaired a committee of Board members and Reserve Bank presidents that assessed the issues and took action in a number of areas, and contingency planning is ongoing.
+More recently, a study by the Group of Ten nations, directed by my colleague on the Board, Vice Chairman Roger W. Ferguson, Jr., highlighted the importance of this issue in an international context.
+Although considerable evidence shows that market discipline is an important force in controlling bank risk taking, I believe that reinforcing the effectiveness of market discipline should also be a high priority.
+After all, market discipline is the first line of defense for all bank supervisors.
+Recent efforts by U.S. bank supervisors to augment market discipline have focused on increased disclosure in order to improve the transparency of depositories.
+For example, disclosures are a core element of the proposal for a new Basel accord.
+However, in my judgment the current proposal needs some refining.
+In general, I would streamline required disclosures in certain areas, such as the internal-ratings-based approach for credit risk.
+Furthermore, the proposal should strike a better balance of requirements versus recommendations.
+For example, it is critical that banks be required to disclose their capital ratios.
+Last year the Board, in consultation with the Office of the Comptroller of the Currency and the Securities and Exchange Commission, created a private-sector advisory group of bank and securities firm executives, under the chairmanship of Walter Shipley, to study and advise the Board on public disclosure issues.
+Their report, issued early this year, was supported by all of the agencies involved.
+Indeed, in late March the agencies issued formal guidance encouraging the largest banking organizations and securities firms to use the report's recommendations.
+Very briefly, the Shipley report called for enhanced voluntary efforts at large financial institutions to disclose credit management, credit risk, and trading positions in ways best designed to fit the profiles of their firms and to meet the risk analysis needs of other market participants.
+The report emphasized the need to balance the importance of quantitative information on a firm's risk exposure with qualitative information describing its risk-management process.
+In addition to broad principles, the report advanced some specific practices designed to enhance current disclosures.
+These include quarterly disclosure of some market-risk information now disclosed annually, and enhanced quarterly disclosures about credit concentrations and credit quality.
+Although it is still too early to say for sure, I am optimistic that the recommendations in this report will lead to improved disclosure practices at our largest and most complex financial institutions, and perhaps others.
+I would also note that the Federal Reserve staff is developing recommendations for how reviews of disclosure practices could be included in the supervisory process.
+On a slightly different front, bank supervisors have substantially stepped-up their efforts to use market information in supervisory surveillance of the LCBOs.
+For example, last summer, Fed staff began providing regular reports to supervisory personnel on the subordinated debt spreads and expected default frequencies derived from stock prices for selected LCBOs.
+These reports also provide information designed to help supervisors interpret whether changes in an institution's debt spread or expected default frequency are significant.
+Early feedback from line supervisors has been quite positive.
+Indeed, the Board has instructed supervisory and research staff to devote substantial efforts to improving our ability to use market information in our surveillance activities.
+The importance of using market information as an aid to supervisory surveillance was a major recommendation of a report to the Congress, "The Feasibility and Desirability of Mandatory Subordinated Debt," submitted by the Board and the Treasury Department late last year.
+In that report, the Board, the OCC, and the Office of Thrift Supervision promised to continue and to enhance their "use of data from the subordinated debt, equity and other markets to evaluate the current and expected future condition of large depository organizations."
+In addition, the agencies pledged to continue monitoring both subordinated debt yield spreads and issuance patterns at individual institutions.
+Neither the Board nor the Treasury recommended adopting a mandatory subordinated debt policy at that time, although the door was left open for possible future action.
+I know this is a disappointment to some, including at least one member of the panel here today.
+Indeed, I have also expressed an inclination to move in this direction.
+In the end, however, the Board and the Treasury judged that the evidence in favor of a mandatory subordinated debt policy was simply not strong enough to justify its adoption.
+We came to this conclusion for three broad reasons.
+First, because the current market for subordinated debt already provides measurable market discipline, the marginal benefits of a mandatory policy are very uncertain.
+Second, all of the complementary policies that I discussed in the first part of my presentation have not yet been adequately tested.
+Lastly, other policies are under consideration, such as augmented disclosures and a new Basel accord that would make minimum equity capital positions more risk sensitive.
+My final set of priorities for limiting the safety net is deposit insurance reform.
+I suspect my fellow panelist, Arthur Murton, will address this issue.
+Moreover, the Board of Governors will no doubt be asked its views on deposit insurance reform and my silence on this issue also reflects the priority I attach to discussing the subject first with my fellow Board members.
+I do want to express my appreciation of the thoughtful job the FDIC did first in preparing a paper on the key issues and then in setting out a set of general directions for reform.
+They have effectively highlighted the key issues that need to be discussed.
+These include whether or not to merge the Bank Insurance Fund and the Savings Association Insurance Fund, how to implement a more effective risk-pricing for deposit insurance, how to reduce or eliminate the current pro-cyclicality in insurance premia, and whether we should adjust the limit for deposit insurance coverage and, if so, how.
+I look forward to a thoughtful discussion of these issues over coming months.
+Conclusion In conclusion, I reiterate my judgment that the safety net provides highly desirable benefits to the American economy and people.
+The question thus becomes how best to preserve those benefits while minimizing the safety net's well-recognized unintended consequences.
+Although a number of critical reforms have already been implemented that restrain the unintended consequences of the safety net, I believe that we can and should make additional progress.
+However, we must set priorities.

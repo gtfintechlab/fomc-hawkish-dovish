@@ -1,0 +1,179 @@
+It is my pleasure to take part in what has become an important annual meeting on financial policy issues.
+It is my job to get you warmed up for a reception and dinner.
+Our hosts have a curious view that a discussion of financial modernization will whet your appetite for food.
+Maybe so, but it will almost surely increase your thirst.
+It seems that people have been talking about financial modernization for a long time.
+Indeed, in the short-run it is easy to become discouraged about how often we talk, but how rarely we do anything, about financial modernization.
+However, if we step back and look over the last twenty years, it seems to me remarkable both how much progress has been achieved and how much the concerns of financial modernization have changed.
+Two decades ago we still had Regulation Q, the Glass-Steagall Act was widely viewed as requiring a virtual prohibition of combinations of commercial and investment banking, interstate banking and branching were barely fantasies even at the state level, and combinations of banking and insurance were off most people’s radar screens.
+Today, many of the issues of 20 years ago have, blessedly, been resolved.
+But some remain, and new ones have inevitably appeared.
+The contemporary concerns of financial modernization include repeal of Glass-Steagall, expanded insurance activities for banking firms, the entry of insurance and securities firms into banking, the possibility of unlimited mixing of banking and commerce, and ongoing technological changes and financial innovations.
+Tonight I would like to address some aspects of these concerns.
+I will suggest to you that while financial modernization is still, as it was twenty years ago, a necessity, it is also the case that in an uncertain world characterized by rapid change caution is not a dirty word.
+Banking and Commerce I will begin with what for me is the easiest topic: banking and commerce.
+The separation of banking and commerce has a long history in English-speaking countries.
+Indeed, the policy can be traced back to the founding of the Bank of England in 1694.
+It appears that commercial firms were concerned that the Bank’s monetary powers would give it a competitive advantage in mercantile activities if there were no separation of banking and commerce.
+The young American state governments adopted, at least in principle, this separation of banking and commerce.
+However, from the beginning the separation of banking and commerce was hardly complete in the U.S. banking system.
+State governments often saw the granting of bank charters as a way of encouraging capital intensive development projects.
+As a result, pre-Civil War banks were sometimes engaged in such activities as canal building, railroad construction, and even the development of public water systems.
+Thus, from early on the mixing of banking and commerce was a gray area in the United States.
+This tradition continues to this day.
+For example, the same individual can own a controlling share of both banking and commercial firms.
+Perhaps of more interest, a bank holding company may acquire up to 5 percent of the voting shares of any commercial enterprise, as long as the investment does not represent a controlling interest.
+In addition, the Board has permitted passive investments in commercial firms of up to 25 percent of nonvoting shares, and an investment can be as high as 49 percent if it is made through a small business investment company.
+Bank holding companies can own 100 percent of the equity of a small business investment company.
+We could all continue to give many examples, including the ownership of unitary thrifts and specialized, and not-so-specialized, finance companies by commercial firms.
+Indeed, some observers use these examples to argue that since the United States already has so much mixing of banking and commerce, why not go all the way?
+In my view, such arguments exaggerate the reality.
+Despite all the gray areas, I think it is fair to say that to a very substantial extent banking and commerce are essentially separate activities in the United States.
+Thus, we need to think carefully about whether we want to go even further down the road of combining banking with nonfinancial activities.
+Advocates of unrestricted mixing of banking and commerce make at least four arguments: (1) both banking and commercial firms could more easily diversify their risks, (2) a closely related argument is that such combinations would provide opportunities for synergies in cross-selling, (3) combining banking and commerce could lead to more capital in the banking industry, and (4) mixing banking and commerce would help to solve certain asymmetric information and corporate control problems associated with commercial lending.
+Time does not permit me to address each of these in detail.
+Suffice it to say that I find each of them wanting.
+I can find very little, if any, in our experience as a nation that gives me real confidence about the benefits of combining banking and commerce.
+And I can find no empirical support for any benefits for combining banking and commerce based on experience abroad.
+Take risk diversification.
+Do we really believe that in the day of stock index mutual funds, options on individual stocks, and evolving credit derivatives that any firm must own another in order to diversify its risks in virtually any way it cares to do so?
+I think not.
+If diversification of asset return risk were our only goal, financial modernization would be easy.
+How about synergies in cross-selling?
+Maybe.
+But I think we must be skeptical here, because the admittedly weak literature on economies of scope in banking has been hard pressed to find strong evidence of significant synergies even in financial activities, although I think we all believe that there are some.
+The argument that we need to combine banking and commerce to attract capital to banking seems, well, pretty silly.
+In a market economy, capital flows to profit opportunities.
+If banking is viewed as a vibrant and growing industry, it is hard to see why capital will be a problem.
+Indeed, the banking industry just completed its fifth straight year of record profits, and it is no coincidence that by all measures capital has been flowing into the industry.
+If it were not profitable, I cannot see why we would want to create a structure to attract capital to banking.
+The notion that mixing banking and commerce would reduce information costs in bank lending, and would facilitate monitoring and management control by the bank probably has some merit.
+Banks that hold both a debt and equity stake in a firm would probably be better able to deter excessive risk taking by the other equity holders, and might even have access to better information about the firm.
+However, the internalization of these principal-agent problems would come at a price: a price that could include less vibrant money and capital markets, an unwarranted expansion of the federal safety net, potentially dangerous conflicts of interest, and excessive concentration of power.
+On balance, in my view, this is an area where we should be very cautious and where we need far more research before we can come to any definitive conclusions.
+An additional reason for caution is the necessity of modifying supervisory techniques.
+I believe that all of the banking agencies can meet the challenges of expanded financial activities.
+But adding commercial firms before we have digested the financial side of the business could well be a bridge too far.
+Indeed, I believe that prudent public policy requires that, for this reason alone, we get financial activities right before tackling further combinations of banking and commerce.
+The thorny banking and commerce problem in financial modernization is that nonbanking financial firms are already affiliated with commercial firms: some from commercial firms creating financial subsidiaries, some from financial firms acquiring nonfinancial businesses.
+If financial modernization allows all financial firms to affiliate, but prohibits banking and commerce, the pre-existing commercial affiliates of nonbank financial firms would have to be divested to acquire a bank, while banks could enter de novo the new nonbank financial activity without divesting any valuable assets.
+This is either inequitable or the cost of acquiring a bank, depending on your point of view.
+But, it is clearly a problem that has to be addressed.
+The choices are divestiture, grandfathering, long-term phase outs, basket clauses, or combining of banking and commerce.
+It would seem to me a poor public policy that opened up banking and commerce on pure equity grounds, rather than a disinterested analysis of societal net benefits.
+The Impact of Technological Change on Bank Risk Management A strong case can be made for focussing bank reform today on the expansion of permissible financial activities.
+The prohibitions against banking and securities and banking and insurance combinations have always, it seems to me, been difficult to support.
+Moreover, technological change has simply undermined the traditional distinctions among financial products and services.
+In a word, the existing prohibitions are anachronistic.
+One thing has remained consistent: Banks are in the business of taking and managing risk, have always been and always will be.
+The change that we must cope with is that technology has changed the ways they take risk, while at the same time improving their capability for managing it.
+This creation and management of risk, like much of recent economic change, would have been impossible without the dramatically lower cost of a unit of computing power.
+Indeed, before the computer, most of the new bank products of recent years were merely concepts, concepts that could not become operational until they were quantifiable.
+That's what the computer facilitated: quantification of risk, the necessary prerequisite to price it accurately and manage it effectively.
+Quantification did not change the fact that banks continue to deal with two very old-fashioned risks: credit risk--will the counterparty perform as promised?--and market risk--will changes in interest rates or other market factors reduce the value of my portfolio?
+Indeed, the special skills of banks in evaluating and taking credit and market risk is what banks have leveraged in taking part in the financial revolution spawned by the technical revolution.
+Nonetheless, the nature of the newer products and the relationship with counterparties have meant that risks now manifest themselves in a different way and that banks can modify their risk exposures much more rapidly than ever.
+Technology and the enhanced ability to capture and use data have changed risk taking and its management in several areas: securitization, credit scoring, and modeling for pricing and capital allocation, to name three.
+But no finer example of the revolutionary changes made possible by technology can be found than derivatives.
+Banks and other creators of derivatives can now slice and dice risks associated with a wide spectrum of underlying assets.
+Derivatives can be used to hedge risk for the bank or its customers.
+Examples include interest rate swaps designed to make counterparties more comfortable with their interest rate exposures and credit derivatives designed to reduce correlations of risk in a loan portfolio.
+Of course, either of these instruments can be used to take risk if the holder opts to hold the uncovered exposure, avoiding the cost of acquiring the underlying assets.
+Moreover, a bank can change its position quickly--limiting a loss, diversifying or hedging a risk, or closing out a position.
+Derivatives, of course, do more than allow the taking or hedging of risk.
+They also permit the holders to combine and separate risks to mimic virtually any financial activity.
+They thus limit what regulators can prohibit, blur distinctions between instruments regulated by different regulators, and virtually eliminate functional and other distinctions among commercial banks, investment banks, insurance companies, and other financial institutions.
+Supervising the Future Financial Services Holding Company When it comes to considering how technology and new products have affected supervision--especially of the future financial services holding company, with its wider powers--I must begin by repeating an earlier comment: Banking organizations are still in the risk business--taking it, managing it, profiting from it, and when they make the wrong decision or have bad luck, bearing losses and perhaps even failing.
+And the basic risks still are credit and market risks.
+The same expertise banks used for old-fashioned loans and their funding is still what they do for derivatives, securitizations, and credit scoring.
+That having been said, however, one must quickly add that the new instruments and procedures raise real questions about both managing and supervising risk by instruments and/or by legal entity.
+Banking organizations are doing so less and less, and as a result supervisors are following suit.
+Banking organizations have increasingly centralized risk management at the parent as a necessity because the credit decisions cross legal entities and certainly cross instruments.
+The new technology has already created a supervisory imperative that financial modernization--with its new permissible activities--can only accelerate: the need to evaluate risk policies and positions centrally-- most likely by one supervisor, sharing information with all legal entity regulators.
+But, I must say, it is not clear to me precisely what this technology implies for the legal entity regulators.
+If units of an organization, through combinations of puts and calls, can simulate all the attributes of a security, or even most of the risks and returns of certain businesses, what does the term “functional regulator” mean?
+Historically, when a legal entity--a unit of an organization--was the only vehicle for participating in a certain function, the idea of separating regulators by functions was consistent with legal form.
+It is increasingly less so when a synthetic asset can be created with the same risk and return characteristics of the underlying asset.
+Or, how comfortable should the individual regulator feel if a hedge involves as counterparties two legal entities in the same failing organization?
+Will the regulator of unit A let the gains booked in his unit offset losses in unit B, regulated by another entity?
+Can he do so under the law?
+If the answer to either question is no, what good is such a hedge at a failing organization?
+Even without complicating the issue by failure, how does the regulator of the unit booking the loss on the hedge feel about the hedge, no matter how desirable the hedge is for the whole organization?
+The new reality, it seems to me, is that supervisors have to supervise risk and not instruments or entities.
+And that implies either that we keep organizations in old-fashioned straight-jackets and permit no new activities--a strategy which the market and technology has already undermined--or we recognize that, over time, specialized regulators of banks, of securities firms, of even insurance companies--are going to have to find a new paradigm.
+We are, I believe, groping toward that future supervisory structure.
+At its center will be an evaluation of risk management procedures and policies.
+Historically, bank holding company supervision has dealt with an organization that was overwhelmingly a bank, and until Section 20s, whose affiliates were engaged in businesses that could be conducted within the bank.
+The supervisory approach was, not surprisingly, to apply bank-like supervision to the affiliates.
+The designers of financial modernization legislation and the holding company or umbrella supervisor must consider how to change that approach as bank affiliates increasingly are engaged in businesses not permitted to banks, and possibly even subject to regulation by a nonbank regulator.
+At a minimum, it is desirable to avoid redundant regulation.
+More basically, the necessarily intrusive supervision of banks that comes with the safety net should not be extended to these new activities.
+In part, such supervision would reduce efficiency and flexibility.
+In part, it would be unnecessary.
+And, in larger part, it could create a moral hazard by fostering the wrong impression that a bank supervisor has confirmed the strength of the supervised affiliate.
+Thus, the focus of holding company supervision, as I noted, should be evaluation of risk management policies and procedures for the organization.
+Safety Net Subsidies and Organizational Form Beyond regulatory structure, financial modernization--the linkage of banks to a wider range of financial activities--also raises organizational structure issues.
+This issue is closely linked to the subsidy provided by the federal safety net, a much discussed topic in recent weeks.
+By the safety net I mean deposit insurance, and access to both the Federal Reserve discount window and the Fed’s payment system.
+While many of the questions associated with this topic are subtle and complex, I believe that some of the more basic issues regarding the safety net subsidy can be understood using straightforward economic reasoning.
+Unfortunately, much of the debate thus far has tended to be more obscure than it needs to be.
+Take, for example, the question of whether a subsidy exists.
+Most observers agree that there is a gross subsidy, and that the real issue is whether there is a subsidy net of regulatory costs.
+But here the discussion often seems to get confused.
+To me, it is critical at this point to distinguish clearly between the concepts of total benefits, total costs, and marginal benefits and marginal costs.
+We all know, at least those of us with some training in economics should know, that profit maximizing firms will equate marginal benefits with marginal costs.
+Applied to the subsidy debate, this principle implies that in equilibrium a profit maximizing bank should set the marginal benefits of the subsidy equal to its marginal costs.
+In other words, rational firms should drive the net marginal benefit of the subsidy to zero.
+Importantly, this implies that, at the margin, it may be very difficult to actually observe the subsidy.
+I suspect that this goes a long way toward explaining why efforts to estimate the marginal value of the subsidy have, to date, proved less than successful.
+Even though rational firms equate marginal benefits and marginal costs, they clearly do not equate total benefits and total costs.
+Indeed, standard microeconomic theory says that in a competitive equilibrium total benefits should exceed total costs.
+Again applying this concept to the subsidy debate, at any individual, profit maximizing bank the total benefits of the subsidy should exceed the subsidy’s total costs, even though the subsidy’s marginal net benefit is zero.
+This total net benefit allows the banking industry to be larger, and perhaps riskier, than it would otherwise be.
+The fact that we do not observe banks voluntarily giving up their charters suggests that it may well be that the safety net’s total benefits exceed its total costs, even if the value of the net marginal subsidy is zero.
+Consider another point that derives from the distinction between total and marginal benefits.
+Today, we would expect banks to be maximizing their total net benefits from the subsidy using all of the activities in which they are capable of engaging.
+Now consider what a rational bank will do if given a new opportunity, say expanded securities powers, to maximize profit.
+Wouldn't we expect the bank to once again equate marginal benefits with marginal costs, including the marginal benefits and costs of the safety net subsidy?
+But in the resultant new equilibrium, where the value of the net marginal subsidy is again zero, would the total net benefits of the subsidy be the same as in the previous, more constrained equilibrium?
+Clearly the answer is no.
+We would expect total net benefits to be larger, and the banking industry to be larger, as it rationally sought to fully exploit the new opportunities to make profits and exploit the subsidy.
+Rather than focus on measuring how large the net subsidy is today, perhaps the more appropriate focus of our discussion should be on the more speculative question of how the expansion of bank powers would enhance the value of the safety net subsidy, and what would be the characteristics of the resulting competitive relationships.
+Another key idea to keep in mind when thinking about the value of the safety net subsidy is that we would fully expect the value of the subsidy to vary quite significantly across banks and over time.
+The safety net subsidy can be thought of as deriving primarily from the confidence that investors have in the belief that banks will be supported in times of financial crisis.
+This confidence is reflected in lower total and marginal costs of funding for banks, including lower capital requirements than otherwise would be the case.
+The economic value of this confidence is almost surely rather low at very healthy banks during good economic times.
+However, the value can be very much greater for any bank in financial distress, and can skyrocket in times of systemic financial crisis.
+As Chairman Greenspan noted in congressional testimony recently: What was it worth in the late 1980s and early 1990s for a bank with a troubled loan portfolio to have deposit liabilities guaranteed by the FDIC, to be assured that it could turn illiquid to liquid assets at once through the Federal Reserve discount window, and to tell its customers that payment transfers would be settled on a riskless Federal Reserve Bank?
+For many, it was worth not basis points but percentage points.
+For some, it meant the difference between survival and failure.
+Empirical research on the option value of deposit insurance supports the point I am trying to make.
+Estimates of the option value of deposit insurance, while subject to many caveats, show that riskier banks have considerably higher option values.
+What does all of this mean for the appropriate organizational form that future banking organizations should take?
+Now that is, I need not tell this audience, a complicated question!
+But I think the basic questions that we must answer are clear.
+First, assuming that one of the goals of public policy is to not expand the safety net subsidy, what organizational form minimizes the chances of such an expansion?
+Second, assuming that another goal of public policy is to limit the opportunities for banks to exploit the moral hazard incentives inherent to the safety net, what organizational form best ensures the safety and soundness of banks?
+The holding company organizational structure has a proven track record of helping to achieve both of these public policy goals.
+Indeed, years before I joined the Board, previous Boards worked hard at convincing market participants that there is a clear distinction, in terms of access to the safety net, between a bank and its affiliates.
+Market practice supports the view that we have achieved considerable success at making this distinction.
+To me, it seems not only logical, but highly desirable that we should build on this success as we continue to modernize our banking and financial system.
+When thinking about this issue, it is instructive to understand that in recent years bank holding companies have in fact tended to move activities from the holding company back into the bank.
+These activities had originally been put in the holding company to avoid geographic and similar restrictions.
+As a result of this movement back into the bank, the nonbank assets held by holding companies, excluding the assets of Section 20 securities subsidiaries, have declined by almost 50 percent over the last decade to 5.2 percent of consolidated bank holding company assets.
+When asked why activities are being moved back into the bank, bankers often say that it is to take advantage of the lower funding costs available at the bank.
+One final point on this issue.
+It is certainly true that prudent managements of banking organizations will weigh all the relevant factors, including the value of the safety net, when deciding on the best organizational structure for their firm.
+However, the key point to remember is that those organizations that stand to gain the most from the safety net in times of crisis--those with the highest net subsidy and the strongest incentives to take excessive risks--are the most likely both to prefer and to take advantage of any organizational structures that allow the greatest net subsidy.
+These are also the organizations that are most likely to distort competitive relationships and expose taxpayers to considerable risk.
+Thus, while allowing organizations a choice of organizational structure certainly increases bank management’s flexibility, it is not clear that allowing such choice serves the public interest.
+Conclusion In closing, let me return to where I began.
+Financial modernization is a process that must and will continue.
+But in the course of embracing and adapting to the future we must take care to retain what is of value in the past, and be careful that critical public policy goals are achieved.
+The separation of banking and commerce is an area where we should be particularly cautious.
+Once we have mastered the art and science of supervising full service financial organizations, then perhaps we should consider further combining banking and commerce.
+Technological change and financial innovation are combining to change profoundly the way financial institutions measure, take, and manage risk.
+These require that financial supervisors also adapt, and we need to move forward in this endeavor.
+The development of full service financial organizations only reinforces the imperatives to do so.
+When designing a system that maintains bank safety and soundness and constrains extension of the safety net, organizational structure is not irrelevant.
+Here again it seems prudent that we should be cautious, and build on structures that have proven their worth.

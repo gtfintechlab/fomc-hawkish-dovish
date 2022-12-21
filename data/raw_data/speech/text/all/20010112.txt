@@ -1,0 +1,125 @@
+As always, the views I will be expressing are my own and are not necessarily shared by other members of the Board of Governors or of the Federal Open Market Committee.
+Before I discuss the current economic environment and recent monetary policy actions, let me set the stage with a brief review of the extraordinary performance of the U.S. economy in the second half of the 1990s.
+From 1995 to 1999, real gross domestic product grew, on average, about 4 percent per year.
+This pace was significantly above that in the previous five years, and you would have to go back to the 1960s to find even closely comparable periods of consistently robust economic expansion.
+In this environment, the unemployment rate fell to 4 percent, and the underlying rate of price inflation slowed, on net, despite very high rates of resource utilization.
+Even the most optimistic of forecasters could not have anticipated such a favorable confluence of economic events.
+Productivity Growth and Cost Reductions So, how did this confluence of positive events come about?
+As a policymaker, I’d like to think that well-executed monetary and fiscal policies--each focused importantly on their respective long-run goals of achieving price stability and reining in deficit spending-- played some role in creating economic conditions that fostered noninflationary economic growth.
+Our economy has also benefited from past actions by the government to deregulate industries.
+The removal of unnecessary government regulation started more than twenty years ago, during the Administration of President Ford, and gathered momentum during the Carter years.
+It has altered the business landscape by allowing, indeed forcing, businesses to focus more clearly on a more competitive marketplace with fewer constraints and increased flexibility.
+But the dominant force of late appears to have been a significant increase in the rate of productivity growth: Output per hour in the nonfarm business sector--a conventional measure of productivity--increased at an annual rate of almost 3 percent between 1995 and 1999, well above the pace earlier in the decade.
+Cyclical forces such as the inability of businesses to add to their payrolls as rapidly as they would have liked in response to the rise in demand probably played some role in these productivity gains.
+But probably more important, I suspect, were longer-term, structural changes arising from the boom in capital spending and the revolution in information technology.
+Let me turn to the evidence on this point.
+Technology Change and Productivity Growth Bob Solow--the MIT economist who won the Nobel Prize in economics for his work on the theory of economic growth--once quipped that you can see computers everywhere except in the productivity statistics.
+A few years ago that situation began to change, and we now have strong evidence that the faster productivity growth our economy has experienced is, in fact, due partly to newer technologies.
+Research by Federal Reserve Board economists Steve Oliner and Dan Sichel sheds some light on the sources of this faster productivity growth.
+The high (and rising) levels of business investment raised the amount of capital per worker and thereby boosted productivity.
+About 1/2 percentage point of the increase in productivity growth over the 1995-99 period can be attributed to this so-called “capital deepening,” most of which reflected greater spending by businesses on computers, software, and communications equipment.
+Another 1/2 percentage point of the pickup in productivity growth reflected technological innovations in the actual production of computer hardware and semiconductors as well as better management--perhaps assisted by these high-tech investments--of the nation’s capital and labor resources.
+Oliner and Sichel estimate that the consolidated influences of high-tech investments account for about two-thirds of the acceleration in productivity since 1995.
+This research supports the view that fundamental changes are under way in our economy.
+What’s So Special about this Capital?
+That trend productivity has picked up and that high-tech investments are the source of the acceleration are important facts, but by now they are not new observations.
+Perhaps at this stage it would be useful to explore in greater detail this positive “shock” to the ability of our economy to produce goods and services.
+What is so special about computers and other information technologies that they can have such a strong influence on our economy?
+Let me highlight three special characteristics of high-tech equipment.
+First, computers and communications equipment depreciate at a very rapid pace.
+The current best estimate is that computers probably depreciate about 30 percent annually, although that estimate might be low, while other equipment probably depreciates at a rate of less than 15 percent annually.
+Therefore, computers are retired, on average, after three years, and the useful life for other equipment is about seven years.
+Firms must invest in computers at a faster rate than that for other forms of capital just to maintain a given level of the capital stock.
+The rapid replacement of high-tech capital means that technological progress becomes “embodied” in the capital stock at a faster rate than is the case for longer-lived assets.
+The second feature of high-tech equipment that sets it apart from other classes of capital is the sensitivity of its demand to fluctuations in the cost of capital.
+Economists have debated for decades about the magnitude of cost-of-capital effects on traditional capital goods.
+A past consensus was that the cost-of-capital effect was small and very difficult to identify empirically.
+A somewhat different conclusion has arisen lately when the same basic models of investment are applied to spending on computers alone.
+The latest research suggests that computers are quite sensitive to movements in the cost of capital.
+The combination of an apparently high price elasticity and a rapid decline in relative computer prices -- 20 percent per year over the past decade -- likely led to the boom in high-tech investment.
+A third characteristic of high-tech investment is the magnitude of “external” or “spillover” effects that it generates.
+High-tech equipment generates benefits not only to the owner of the machine but to other agents in the economy as well.
+I am thinking in particular about so-called network effects--that is, linking computers together makes possible larger productivity gains than do computers operated as stand-alone units.
+Although difficult to measure, such network effects certainly have stimulated the demand for high-tech equipment and have helped to speed up the dispersion of new technologies.
+Supporting Structural Changes The technological changes inspired by investments in computers have enhanced the ability of businesses to reduce their operating expenses.
+In many industries, investments in information technologies have helped firms to cut back on the volume of inventories that they hold as a precaution against glitches in their supply chain or as a hedge against unexpected increases in aggregate demand.
+Product development costs have probably also been reduced through the use of better computer hardware and software, and new communications technologies have increased the speed with which firms can share information--both internally and with their customers and suppliers.
+This is the intersection of macroeconomics and management.
+Many business observers now believe that these newer technologies are not only reducing the cost of transforming inputs into outputs but also decreasing “interaction costs,” the costs incurred in getting different people and companies to work together to exchange goods and services.
+Obviously, the line between “transformation” and “interaction” is not clear, but consultants who have studied this topic believe that these interaction costs account for 55 percent of all labor costs, with some industries, such as financial services, estimated to have interaction costs as high as 70 percent of labor costs.
+I cannot verify these numbers, but the general concept seems useful.
+Largely as a result of the increase in productivity in the recent past, we have experienced a remarkable stability in unit labor costs.
+During the past five and a half years, unit labor costs for nonfinancial corporations, which are the most accurately measured, increased an annual average of 0.2 percent.
+This compares quite favorably with the experience in the preceding ten years of a 2.2 percent annual rate of increase.
+If in fact “interactions” account for 55 percent of labor costs, this relatively flat trend in unit labor costs is consistent with the concept that the newer technologies are allowing easier, less labor-intensive, interactions.
+Importantly, given the high rate of depreciation and the steep declines in costs of high-tech equipment, these savings in unit labor costs are not being undermined by offsetting increases in unit nonlabor costs.
+Moreover, given intense competition and the resultant lack of pricing “leverage,” ongoing programs to reduce costs have become a key part of corporate strategies to maintain or improve profit margins.
+The focus on cost reduction has worked to head off the development of inflationary pressures in this expansion.
+The Macroeconomic Implications of Faster Productivity Growth Theory teaches us that the step-up in the growth rate of technological change certainly has important implications for economic activity and inflation.
+The main reason policymakers and economists are interested in the growth rate of productivity is that it helps us to understand the economy’s potential to supply goods and services.
+The effects on the economy’s ability to produce goods and services are clear, but theory predicts that a higher level of productivity growth would also affect the demand for goods and services.
+The most immediate effects would be on capital investment, as we have seen.
+Businesses recognize the new technological possibilities, and capital spending accelerates to take advantage of the new profit opportunities.
+The employment and income generated by business spending on capital goods boosts consumer outlays and sets off another round of investment spending.
+Through this process, an innovation on the supply side of the economy generates a comparable increase in aggregate demand.
+It is important to emphasize that higher productivity growth translates into higher real income growth for employees.
+This added income is seen most clearly in the higher wages paid to that growing number of workers whose cash compensation is tied to company performance either directly or through stock options.
+But real incomes should increase even for workers whose compensation is not directly linked to company performance, as profitable business opportunities bolster the demand for scarce labor.
+Theory also teaches that the increase in the rate of return on capital--even if generated by a rise in the growth rate of technical change--ultimately requires an increase in real market interest rates.
+All else equal, market interest rates must rise in order to maintain equilibrium between the higher demand for investment funds and the supply of investment funds.
+This somewhat abstract description of the effects of a step-up in the growth rate of technical change bears a striking resemblance to the developments of recent years in labor markets, prices of goods and services, capital investments, and fixed-income markets.
+But there’s still an element missing: the stock market.
+A higher rate of technical change that raises the productivity and hence the profitability of capital should elevate the value of equities.
+Since equity prices reflect market expectations of future cash flow and dividends, any adjustment in profit expectations can and does lead to a resetting of equity prices.
+Are stocks today overvalued, correctly valued, or undervalued?
+I certainly do not know, and I am not aware of anyone who does.
+As a result, I believe that it would be unwise--and indeed impossible--for the Federal Reserve to target specific levels of valuations in equity markets.
+However, equity markets obviously do have spillover effects on the real economy and, thus, need to be considered in assessing the aggregate balance of supply and demand.
+Given the efficiency and forward-looking nature of financial markets, even expected future technical innovations will have an immediate effect on equity valuations.
+Equity values, in turn, can influence consumer behavior.
+As you know, economists often speak of the "wealth effect," and econometric modeling indicates that consumers eventually tend to raise the level of their spending by 2 to 5 cents for every incremental dollar of wealth.
+As a consequence, equity valuations can have a noticeable effect on consumption and on macroeconomic performance.
+To put a rough number on these influences, simulations by the Board staff using our econometric model of the economy suggest that wealth generated in the equity markets over the past four years added about 1 percentage point to the growth rate of real GDP.
+Of late, equity markets have given up some of their gains.
+However, economists who have studied the topic generally think that the consumption effect of a change in wealth generated by the stock market begins to build in the first year and may take two to three years to be fully felt.
+Additionally, equity markets are a source of investment capital, and valuations in the stock market are one determinant of the cost of capital for businesses.
+External financing conditions, including equity valuations, are important because recent investments have increasingly been financed from external sources.
+External funds raised now account for about 20 percent of nominal capital expenditures--close to the highs of the past two decades.
+The Year 2000: A Period of Transition Productivity-led growth continued through the first half of 2000, with real GDP racing ahead at a breakneck 5-1/4 percent annual rate.
+The growth of aggregate demand was clearly outpacing even the most optimistic projections for the growth of potential supply, and the dangers of an increase in inflation pressures were higher.
+In order to promote better balance between aggregate demand and potential supply and to contain inflationary pressures, the Federal Open Market Committee took additional firming actions, raising the benchmark federal funds rate 1 percentage point between February and May.
+Even with these increases, the Committee felt that the balance of risks to the economic outlook still was tipped toward greater inflation.
+Signs of adjustment to a more sustainable level of growth of aggregate demand began to emerge over the course of the summer.
+But with no evidence either of a significant deterioration in price trends or a serious softening in economic activity, the FOMC entered a period of watchful waiting.
+As you know, monetary policy works with long and variable lags, and the Committee believed it appropriate to monitor how its earlier actions were affecting the economy before taking additional steps.
+As the second half of the year wore on, the data confirmed that a slowdown was under way.
+But for a while its extent and likely duration were still open questions.
+By the time of the November meeting of the FOMC, the statistical evidence and developments in financial markets suggested that the growth of aggregate demand had slowed to a more sustainable pace that might even be a bit below the growth rate of the economy’s potential to produce.
+But with the labor markets quite tight and energy prices rising, the Committee still saw a continuing risk of heightened inflation.
+Economic conditions changed dramatically late in the year, though.
+By the December meeting, the “hard” statistical data on economic expansion, which are available with a lag, showed some signs of weakness, but aggregate economic activity still appeared to be expanding moderately in the fourth quarter.
+In contrast, other, anecdotal indicators turned decidedly more bearish.
+For example, warnings of slower sales and earnings growth resulted in substantial markdowns in the valuations of many leading high-tech companies, and consumer confidence swooned in December.
+Were these the signs of the inevitable “bumps in the road” that occur during a period of transition from rapid growth to a more sustainable pace of expansion, or were they the early warning signs of a more serious slackening in demand?
+The FOMC wrestled with this issue at its December meeting.
+The risks clearly had shifted toward a period of subpar growth, but as of the middle of December, the evidence in hand did not appear sufficient to justify a rate cut.
+Following the December meeting of the FOMC, Committee members remained on “high alert” for signs of additional slowing in the pace of economic activity.
+As 2001 began, evidence accumulated that sales and production were weakening.
+The National Association of Purchasing Managers report suggested widespread softness among manufacturers.
+Auto sales and production were taking a hit.
+Revisions to the data on orders and shipments of nondefense capital goods provided hard evidence of a slowdown in business spending on high-tech capital goods, and more companies announced disappointing sales and earnings.
+Initial claims for unemployment insurance moved up further at the end of December, and layoff announcements increased.
+The reports of consumer spending at year-end were disappointing.
+In light of these factors, the FOMC acted on January 3 to cut the federal funds rate 50 basis points.
+Taking a policy action between meetings surprised some observers, and some have asked, “What does the Fed know that we don't?” The answer to this question now, as in nearly every situation in which we change policy, is--"very little, if anything."
+Although I generally favor making policy decisions at our regularly scheduled meeting, we must remain flexible and be prepared to respond quickly and firmly to developments that deviate significantly from our expectations.
+2001 Outlook Although some fog always surrounds the outlook, there is more than the usual amount of uncertainty at this juncture about the economic future.
+Private sector forecasters have been marking down their forecasts in response to incoming data, and most now fall somewhere between 2 and 3 percent for real GDP growth this year.
+Clearly, demand has weakened faster than most businesses anticipated, and inventories have become uncomfortably high in some sectors.
+But businesses are moving fast to adjust levels of production.
+And final demand should be supported by the lower interest rates put in place by the financial markets and the Federal Reserve.
+Consequently, I would expect a period of notable weakness early in 2001, followed by a pickup in activity.
+Despite the sharp correction in “new economy” stock prices, I believe that the underlying technical advances I discussed earlier in this talk will continue and will provide considerable support over time for business and consumer spending.
+In its most recent announcement, the FOMC indicated that risks remain weighted toward economic weakness.
+While the scenario I outlined seems the most likely to occur, I am not sure what level of interest rates will be associated with it.
+This depends on a number of developments, including the evolution of financial markets and investor appetite for risk.

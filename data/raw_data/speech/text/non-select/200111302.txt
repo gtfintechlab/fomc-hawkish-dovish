@@ -1,0 +1,93 @@
+I know I follow a number of contributions on this and related subjects and trust my comments will not overlap too much with what has already been said.
+An international currency emerges because it is a solution to an economic problem.
+In a world of multiple currencies and multilateral trade, those engaged in cross-border transactions face a problem of coordinating purchases and sales of currencies.
+Because a sale of a given currency to a customer is unlikely to be matched by a nearly simultaneous purchase of the same currency from another customer, foreign exchange traders must make their customers wait or must hold costly inventories of currencies.
+When the volume of transactions in a given currency is large, however, the waiting time between buy and sell orders for the currency will typically be shorter, and smaller stocks of the currency can be held.
+Thus, there are efficiency gains to channeling international transactions through a single currency, passing demands and supplies for other currencies through trades involving a so-called vehicle.
+In addition, as more and more transactions work through the vehicle currency, the currency becomes increasingly acceptable in international transactions because bid-ask spreads narrow and liquidity increases.
+Because the attractiveness of any vehicle currency grows as its liquidity increases, an international currency has a tendency to become a natural monopoly.
+If the underlying demand for one of two competing vehicle currencies falters for a reason not clearly perceived to be transitory, and its bid-ask spreads, accordingly, increase relative to its competition, demand will shift to that competitor.
+But that shift, in turn, will widen the bid-ask spread of the faltering competitor still more, inducing a further shift of transactions to the alternative currency.
+This process ends with the demise of the weaker currency as a competing vehicle and the stronger of the two becoming the sole surviving vehicle.
+However, even when an emerging international currency is displacing another, the transition can be drawn out, resulting in two vehicle currencies existing side by side for a protracted period.
+Between the two world wars, for example, sterling and the dollar were both active as international currencies.
+This period, of course, was clearly transitional, and the dollar subsequently became dominant.
+But the most important factor inhibiting the emergence and persistence of a single vehicle currency throughout the world is the attraction of portfolio diversification.
+This can be a powerful counterforce, especially because currencies offer far greater opportunities for diversification than most other assets.
+The average price of all currencies, by construction, is trendless, tending to increase the negative covariance within a portfolio of currencies.
+In contrast, equity instruments are often driven in the same direction, as are debt instruments; and often debt and equity prices move together.
+This point brings us to the question: How does a currency become an international currency?
+The question is particularly intriguing because, in the reign of fiat currencies, its answer is unlike the explanation of how a currency becomes dominant within a country.
+When gold, silver, or other commodities were the normal means of exchange, units of currency were defined by commonly understood weights of the commodities that circulated.
+Soon the equivalent of warehouse receipts for precious metals circulated as currency.
+Under a commodity standard more generally the value of paper currency or any other financial claim is derived from the value of the standard.
+Contracts can be written in terms of ounces of gold or, more conveniently, in terms of a unit of exchange.
+The pound sterling, of course, was originally a pound of silver.
+The U.S. dollar was originally defined for legal purposes in the Coinage Act of 1792 as either 0.05 ounces of gold or 0.77 ounces of silver.
+In today's world of government-issued monies, the unit of currency is not, and need not be, defined.
+It circulates as legal tender under government fiat.
+Its value can be inferred only from the values of the present and future goods and services it can command.
+In the international arena, however, no overarching sovereign exists to decree what is money.
+Instead, a myriad of private agents must somehow reach agreement on which currency to use as an international currency.
+In the modern world of fiat currencies, a number of factors can enhance the attractiveness of a currency to private agents, making it easier for them to settle on an international currency.
+First and foremost, an international currency must be perceived as sound.
+To be acceptable, market participants must be willing to hold it as a store of value.
+A necessary condition of that willingness is that a currency's future value in terms of goods and services be viewed as predictable.
+Losses in purchasing power will tend to discourage the use of a currency, but so will any excessive price fluctuation that raises the risk of holding it.
+In addition, if a currency is seen as a viable store of value in times of general uncertainty, it will attract investors even when times are not so uncertain.
+Clearly, many currencies meet this test; yet few emerge as international currencies.
+Other factors will govern the selection from among the body of sound currencies.
+One is a strong, competitive economy open to, and active in, international trade and finance.
+Such an economy will naturally generate a large quantity of foreign exchange transactions with at least one leg in the home currency to support its wide-ranging business activity.
+This factor evidently goes a long way toward explaining the dominance of the Dutch guilder in the seventeenth and eighteenth centuries, the British pound in the nineteenth and early twentieth centuries, and the dollar today.
+Another factor is the presence of an open and well-developed financial system, a factor, of course, that tends to be part, perhaps a necessary part, of a strong competitive open economy.
+A well-developed financial system increases the attractiveness of doing business in a currency for at least two reasons.
+First, such a system offers a number of ancillary services to participants in international markets, who may want to borrow or invest in a currency or to hedge foreign currency positions.
+To the extent that these activities can be accomplished efficiently in a currency, that currency will be more attractive as a currency in which to conduct business.
+Second, deep and liquid financial markets that offer a full array of instruments and services will attract business from abroad that might otherwise have stayed at home.
+Because of financial market constraints at home or other barriers to efficiency, for example, borrowing or investing abroad in an international currency and exchanging the proceeds for domestic currency might be cheaper than conducting the transactions directly in the home currency.
+Thus, a currency supported by a well-developed financial system is likely to encourage greater international use, above and beyond needs associated directly with international business activity.
+As a consequence, the volume of gross international capital flows denominated in the currency are likely to be high, adding to its desirability, regardless of whether, on net, these capital flows are positive or negative at any point in time.
+These international currency determinants are clearly interrelated.
+Strong financial systems tend to develop in strong economies, and well-developed financial systems tend to enhance economic development.
+The development of both the economic and the financial systems supports the soundness of the domestic currency, which in turn feeds back to economic and financial activity.
+So, to some extent, there is an element of bootstrapping here.
+Ultimately, however, a currency's success in the international arena requires success at home, because the strength and efficiency of the home economy and home financial system will be sources of the strength for the currency.
+Returning to the specific focus of this conference, clearly the euro readily meets all the key qualifications for a major international currency.
+Indeed, there can be little doubt that the euro is a sound currency.
+The mandate of the European Central Bank to maintain a stable purchasing power of the currency is doubtless firmer than that of the Federal Reserve or any other major central bank.
+The economy of the twelve countries embracing the euro is roughly the size of the U.S. economy, and its financial system is rapidly approaching the magnitude of that in the United States.
+Continuing advances in European telecommunications and payment systems have resulted in financial systems that now have the potential to be highly integrated across borders.
+The introduction of the euro and the successful implementation of the TARGET payment system has also contributed to this potential, by linking more firmly the financial markets of the continental European countries.
+The tremendous growth of bond markets in the euro area over the past three years shows how such potential can be employed successfully.
+In addition, the greater depth and liquidity of financial markets in the euro area have facilitated the development of financial instruments, such as mutual funds and commercial paper.
+But in its brief history, the euro area financial system has had its difficulties as well.
+Expansion across national borders of important financial markets, such as equity trading and securities lending, is apparently being restrained by difficult negotiations over regulatory and legal differences.
+A resolution of these differences would add to the attractiveness and stature of the euro in the international arena.
+Many of the concerns about the euro, however, have little to do with the euro itself but pertain to certain European economic conditions that have affected the value of the currency.
+Following its inception, the euro, contrary to expectations, declined significantly against the dollar.
+Through the first year of the euro's existence, the weakening of its dollar exchange rate was widely attributable to a booming American economy.
+But, again contrary to expectations, the euro has not materially strengthened as the American economy has weakened.
+Having endeavored to forecast exchange rates for more than half a century, I have understandably developed significant humility about my ability in this area, a sentiment that I suspect many in this room share.
+With that caveat in mind, I agree with those who have hypothesized that the evident strengthened demand for the dollar, relative to the euro, has reflected a market expectation that productivity growth in the United States is likely to be greater than that in continental Europe in the years ahead.
+The steady flow of capital from Europe to the United States in recent years is, presumably, the consequence of Europeans finding many investments in the United States persistently more attractive than those at home.
+As I have argued in other forums, this outcome may well have resulted to an important degree from the particular legal structures and customs that govern labor relations in much of Europe.
+For example, over the decades, Europe has sought to protect its workers from some of the presumed harsher aspects of free-market competition.
+To discourage layoffs, discharging employees was made difficult and costly compared with doing so in the United States.
+By law and by custom, American employers have faced far fewer impediments in recent years to releasing employees.
+This difference is important in our new high-tech world because much, if not most, of the rate of return from the newer technologies results from cost reduction, which on a consolidated basis largely means the reduction of labor costs.
+Consequently, legal restraints on the ability of firms to readily implement such cost reductions lower the prospective rates of return on the newer technologies and, thus, the incentives to apply them.
+As a result, even though these technologies are available to all, the intensity of their application has been more clearly evident in the United States and other countries with fewer impediments to implementation.
+As a dividend, the level of employment in the United States has turned out to be higher as firms find hiring less risky and, hence, are more willing to add employees to their rosters.
+The persistent strength of the dollar in the face of the United States' unsustainable current account deficit underscores this impressive propensity to accumulate dollar investments, relative to those denominated in euros.
+I assume previous speakers have addressed the as-yet-unfulfilled expectation of a substantial diversification of the large holdings of international portfolios of dollars.
+Some analysts predicted, before its introduction in January 1999, that the euro would rapidly displace part of the dollar holdings in many portfolios, including in particular official holdings of reserves.
+These expectations were probably overstated.
+History has shown us that once currencies achieve the status of an international vehicle currency, as the guilder and the pound did in previous centuries, the established infrastructure of deep and liquid markets favors their continuing to be so used.
+We have not yet reached the three-year mark since the euro appeared as a currency--a very short time by standards of international monetary history.
+As I indicated earlier, we have seen substantial development in the markets for euro-denominated bonds and other fixed-income instruments.
+Advancements in other markets have been slower but should proceed in time.
+I also note that the introduction of the euro created a motive for diversification into dollars for those investors who had previously obtained some portfolio balance by holding several European currencies.
+As stability between the exchange rates of those currencies increased through the late 1990s and then became absolute in January 1999, some investors were induced to substitute into dollars to regain the diversification they had lost as the euro-area currencies became more closely correlated.
+We are left with the question of how the international role of the euro will unfold.
+The attraction of investing in dollar-denominated assets depends upon relative rates of return.

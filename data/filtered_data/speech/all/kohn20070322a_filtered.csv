@@ -1,0 +1,18 @@
+,sentence
+0,But my emphasis today will be not the structure or mechanics of credit markets but rather the information contained in the prices we observe in these markets.
+1,"In our role as monetary policy makers, we analyze information from credit-risk markets to get readings on the cost of capital to businesses and on forward-looking indicators of the health of the corporate sector that can have implications for future macroeconomic developments."
+2,"Extracting Information from Asset Prices As a consequence, the staff at the Federal Reserve puts considerable effort into research on asset prices and into reporting the results of that research to policymakers."
+3,"Of course, we look at a great deal of data from the nonfinancial side of the economy, such as gross domestic product (GDP) growth, the unemployment rate, and changes in the prices of goods and services."
+4,"Because financial asset prices embody expectations about the future, they also contain forward-looking information about prospective developments, and many are available continuously and instantaneously."
+5,"We pay attention to an extensive range of asset prices, including those of Treasury securities (both nominal and real), corporate debt and equities, and derivatives."
+6,"Although it is not easy, we use these asset prices to tease out information about expectations that help us to interpret and predict the pace of economic activity and prices."
+7,The price of an asset reflects the future cash flows that investors expect to receive from owning that asset.
+8,"The price also reflects a risk premium, which is the excess expected return over the risk-free rate that investors require for holding risky assets in their portfolios."
+9,"In equity markets, corporate earnings are the future cash flows that affect equity prices."
+10,"Given the marketâ€™s outlook for corporate earnings--as embodied, for example, in the predictions of market analysts--we make a crude estimate of the risk premium on equities as the difference between the ratio of trend earnings to price and a real long-term Treasury yield."
+11,"To judge what market prices of risk might be telling us, we try to understand how the resulting credit-risk premiums relate to other sources of information, such as the strength of business balance sheets, historical levels of risk premiums, and premiums observed in related markets, like that for equities."
+12,We look to prices in Treasury markets and in markets for interest rate options and futures to infer investorsâ€™ expected future path of monetary policy and their uncertainty about that path.
+13,"To do so, we need to model term premiums to tease out the links between long-term interest rates and investorsâ€™ expectations of future short-term rates."
+14,"We also compare the Treasury yield curve with the prices on Treasury inflation-protected securities to infer expected inflation, a key variable tracked by monetary policy makers."
+15,"Although we use a variety of techniques for extracting information from asset prices, what we can learn has limits."
+16,"First, asset prices are tough to work with."

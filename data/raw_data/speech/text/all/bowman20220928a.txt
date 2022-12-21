@@ -1,0 +1,129 @@
+For me, this conference is one of them.
+It's also significant that we're able to be here in person to commemorate the 10th year of these proceedings.
+I'd like to share a few thoughts on how we got here.
+Back in 2013, in the wake of the financial crisis and the passage of the Dodd-Frank Act, the Federal Reserve, the Federal Deposit Insurance Corporation (FDIC) and the Conference of State Bank Supervisors (CSBS) created this conference, based on the understanding that research plays a vital role in shaping our nation's supervisory and regulatory policy.
+Simply put, good research leads to good policy, and the decision was made to create a conference that could attract high-caliber research on community banking from all over the world.
+The conference was also designed to be a forum for multiple stakeholdersâ€”researchers, policymakers, and community bankersâ€”to come together annually to share insights and perspectives, all in the interest of better informing current and future research.
+In my view, this gathering has certainly delivered on, and expanded upon, these promises.
+Sadly, two of the pioneers of this conference are no longer with us to celebrate this important 10-year milestone: John Ryan, president and CEO of the Conference of State Bank Supervisors, and Rich Brown, chief economist at the FDIC, both have passed away since the last time we were able to be here together in person.
+John created the vision for this conference and oversaw its success to this point, while Rich served for many years on the conference research committee, and even served as an academic discussant.
+Both have shaped this conference in important ways, and both will be deeply missed.
+In 2014, CSBS, under John Ryan's leadership, identified a need for more forward-looking data and information on community banks and the banking industry.
+This led to the creation of the CSBS National Survey of Community Banks.
+The survey gathered data and insights that were previously unavailable on this scale directly from community bankers.
+As a former state bank commissioner, I know how much effort community banks put in each year to provide accurate and detailed responses to the survey.
+We have all benefitted from and appreciate the insights they share.
+The survey has enhanced our understanding of how much the banking industry has changed.
+It has also provided data that have been used in academic research, policy papers, and official government reports.
+Among its many contributions, the survey provides data on the costs of regulatory compliance and trend data on products and services being offered, and in some cases, discontinued, by community banks.
+The CSBS survey also shows how competition has changed community banking in recent years.
+It is this topic of competition that I will focus on for the remainder of my remarks today.
+One of the more interesting findings from the CSBS survey has been how community banks have reported changes in competition for both deposits and loans.
+Although the majority of community banks report that other community banks are still their primary competitors, that majority has steadily declined in each year of the survey as credit unions and larger banks have become the dominant competitors for deposits in an increasing number of markets.
+The situation is even more interesting for loan competition.
+Each year, a larger percentage of community banks report fintech firms as their primary competitors for consumer loans, the Farm Credit System as their primary competitor for agricultural loans, and nonbanks as their primary competitor for mortgage loans.
+While not necessarily surprising, these and other data underscore that there is a new and evolving competitive landscape for banking services in the United States.
+As the nature of competition changes, it creates an opportunity for us to rethink how we evaluate bank mergers, how we define banking markets, and how we develop a more comprehensive understanding of the ways consumers and businesses access financial products and services today and how they might do so in the future.
+Understanding the New Competitive Landscape So how has the competitive landscape for banking services changed in the United States?
+One of the most obvious changes has been in the number of commercial bank charters.
+In just 10 years, the number of bank charters has declined by approximately 20 percent.
+At the end of 2012, there were about 5,900 commercial banks in the United States.
+The current number of charters today stands at just below 4,800.
+This decline in charters has been concentrated among banks with less than $250 million in total assets.
+Up until 2009, the number of bank branches increased, despite the decline in the number of bank charters.
+However, since the 2009 financial crisis, the number of branches has declined each year.
+This decline was particularly pronounced during the pandemic when, between 2020 and 2021, the number of bank branches declined by almost 4 percent as more than 3,200 branches were closed.
+Before discussing how declines in bank charters and bank branches influence how we think about the competitive impact of mergers in certain markets, it should be noted that how we measure competition today largely springs from a 1963 Supreme Court decision where the court held that the relevant product market for the purposes of analyzing a bank merger is the "cluster of products...and services" that constitute "commercial banking" in each banking market.2 This means that to evaluate banking competition, we essentially require two key inputs: The geographical definition of the banking market, and An understanding of the bank products and services that are provided to most households and small businesses by the banks in those markets.
+The geographic definition of banking markets is a Federal Reserve responsibility, and the Fed has currently defined more than 1,400 banking markets nationwide.
+This geographic definition requires constant analysis and regular updating.
+One only needs to think of how the growth of the suburbs has increased the distances residents are willing to travel for their jobs and other important services, including banking services, to appreciate how banking markets have changed and will continue to change.
+As communities change, so do their banking markets.
+The second part of this evaluation is more daunting because there is currently no way to comprehensively measure the full "cluster" of commercial banking products and services in a given market.
+This challenge is compounded by the fact that the products and services banks offer also frequently change to meet evolving customer and business demand.
+Historically, we've used a bank's share of deposits in a market as a proxy for market power for the broader cluster of commercial banking products and services.
+The idea is that both consumers and small businesses often access commercial banking products through their deposit relationship institution.
+This approach also has the advantage of being measurable since banks are required to report deposits at the branch level annually through the FDIC's Annual Survey of Branch Office Deposits.3 To better reflect competition from thrift institutions, for many years the calculation of local deposit and market share data has also included a weighted consideration of their account deposits.4 In 1995, to "speed [the] competitive review [process] and reduce regulatory burden on the banking industry" the Department of Justice and the federal banking agencies developed several initial "screens" to identify mergers that would not have adverse effects on competition and would therefore not require significant review.5 These screens were part of a broader set of Competitive Review Guidelines that also presented additional information that could be considered in the analysis of a merger transaction.
+The initial screens are based on deposit market share using the Herfindahl-Hirschman index, or HHI.
+Under this scale, a perfect monopoly would report an HHI of 10,000, while a perfectly competitive market would be close to zero.
+Under these screens, any merger that does not result in the HHI exceeding 1,800, post-merger, or increases the market HHI by less than 200, would likely not require further review.
+Of note, some argue that these guidelines are uniquely strict because the 1,800 HHI level for banking is lower than the 2,500 level set in the Horizontal Merger Guidelines used to evaluate transactions in other industries.
+In this context, evaluating how a decline in bank charters and bank branches affects how we understand competition is a simple math problem: as banks merge or close branches in a market, the market becomes more concentrated and the HHI increases.
+In fact, more than 60 percent of the currently defined geographic banking markets in the United States are above the 1,800 threshold.
+To some, these data are evidence that the marketplace for banking products and services is increasingly anticompetitive, warranting tougher scrutiny of mergers or even a moratorium on any deals.
+To others, these numbers illustrate a narrow view of bank services in a diverse and complex marketplace.
+Therefore, they also highlight the importance of including the full "cluster of commercial banking products and services" provided to customers in a banking market, since these numbers only provide information on banks.
+As any quick scan of the marketplace for financial products and services will tell you, in recent decades, the number of competitors to banks, if anything, has significantly increased, rather than decreased.
+With that in mind, I'd like to discuss what I see as some of the key changes in the competitive landscape for banking products and services.
+I will also offer some ideas on how I think we can modernize our analysis of competition while still preserving a vibrant and competitive marketplace that promotes innovation and enhances consumer choice.
+Credit Unions Let's start with the changes that have been taking place in the credit union industry.
+Historically, credit unions were not seen as competitors to banks because they offered fewer small business and commercial lending products and were limited in their customer base because of field of membership restrictions.
+For this reason, credit union deposits were not factored into the initial competitive screens at all under the 1995 Bank Merger Guidelines.
+However, in the past few decades, we've seen credit unions expand their fields of membership.
+Many credit unions now go well beyond the traditional "common bond" requirements for membership and increasingly allow membership based on geography.
+We've also seen an increase in the percentage of credit unions offering small business loans.
+The National Credit Union Administration has reported that 94 percent of credit unions with $500 million or more in assets offer business loans.
+Total business loans at federally insured credit unions grew at an annualized rate of 14 percent from 2004 through 2015.6 Underscoring just how much credit unions are competing directly with banks, particularly community banks, is the recent increase in acquisitions of community banks by credit unions.7 Credit unions today are much more likely to compete directly with traditional banks offering the full "cluster" of banking products and services than they did in 1995, which supports the argument that our analysis needs to give more weight to competition from credit unions.
+Online Deposit Gathering Another development impacting the competitive landscape for banking services is the ability of all banks, regardless of size, to gather deposits across markets and across geographies.
+Although we've known that online banking gives customers an opportunity to open accounts and establish deposit relationships with any bank in the United States, we've only recently been able to measure how many deposits are gathered via the internet.
+The FDIC recently began collecting data on deposits through accounts opened online.
+The data show that online deposits increased by more than 62 percent from 2019 to 2020.
+Over that same time, deposits at brick-and-mortar branches grew by slightly more than 21 percent.
+Online deposits increased by another 42 percent from 2020 to 2021, while brick-and-mortar deposits grew by around 10 percent.
+Online deposits now account for more than 5 percent of all deposits at U.S. commercial banks, and that percentage is expected to increase.
+Since we know that deposit relationships generally lead customers to develop other types of banking relationships, a comprehensive analysis of competition needs to account for the ubiquity of out-of-market banks with a strong national presence.
+Nonbank Competitors On the lending side, we've seen nonbanks compete directly with banks for traditional lines of business, including for agricultural loans, one-to-four family mortgage loans, small business loans, and consumer loans.
+For years, we've seen finance companies compete with banks for consumer and small business loans and the Farm Credit System compete for agricultural loans.
+Today we're seeing mortgage companies not only compete, but dominate, the market for residential mortgage loans.
+Nonbank fintech firms have become viable competitors for nearly all types of loan products, but most prominently consumer loans, small business loans, and student loans.
+One challenge is that we don't have the same consistent set of data from nonbank entities that we do for banks.
+Nonbanks are generally not subject to the same types of reporting requirements as banks, and analysts have to get creative when trying to measure how these entities impact competition.
+A few years ago, research presented at this conference by economists at the Kansas City Fed outlined a process to measure the effects of Farm Credit System lending on market competition.8 The authors concluded that including Farm Credit lending in competitive analysis of a market "significantly reduces measures of concentration."
+The authors found that "excluding [Farm Credit] from market structure analyses may understate market competitiveness in rural markets where agriculture is an important part of the local economy."
+The authors also state that similar results would likely apply if other significant product lines offered by nonbank competitors were analyzed.
+Modernizing Our Competitive Analysis With the proliferation of new competitors to traditional banks, it's imperative that we modernize our evaluation of competition to more consistently and comprehensively factor in all competitors in a market and consider how to address markets where deposits are a poor proxy for the full cluster of products and services offered to consumers and small businesses.
+Getting this right is particularly important for community banks.
+The Federal Reserve has long recognized the important public benefits that community banks provide to their communities.
+Not fully accounting for all competitors in a market limits the options available to banks that need to achieve scale to offer the products and services that customers want while managing the high overhead costs that come with being a regulated depository institution.
+The consequences of getting this wrong will be felt acutely in rural communitiesâ€”especially in markets where populations have declined to such an extent that local institutions have trouble achieving the scale they need to compete with out-of-market banks or nonbanks operating on a national or regional scale.
+As noted in the CSBS National Survey, 30 percent of respondents reported that depopulation was either important or very important to a rural bank's ability to attract and retain deposits.9 Banks in rural areas may also struggle with succession planning.
+Attracting and retaining qualified management and staff can be very difficult, and in some cases may force a bank to close its doors, to the detriment of its customers.
+For banks in these types of communities, the best option might be to merge with another local bank to continue to provide banking services for residents and small businesses.
+In markets already designated as concentrated or uncompetitive, however, the current guidelines limit prospective merger partners to out-of-market institutionsâ€”and acquisition offers from out-of-market banks in areas of declining population are exceedingly rare.
+Fortunately, I think we have a unique opportunity today to address these issues.
+For example, the federal banking agencies and the Department of Justice have acknowledged in recent months that significant changes in the banking industry and in the competitive landscape for banking services will require us to rethink banking competition and mergers.
+Last year, the President issued an Executive Order on competition encouraging the Attorney General, in consultation with the heads of the federal banking agencies, to review current bank merger review practices and adopt a plan for "revitalizing" merger oversight under the Bank Merger Act and Bank Holding Company Act.
+While my remarks today and these following recommendations highlight issues for community banks, the framework for analyzing bank mergers for large banks also needs to be updated.
+The goal should be to apply a transparent, dynamic framework that allows the industry to evolve with market conditions and apply sensible regulatory oversight.
+Size should not be the controlling factor.
+A review and examination of a merger application should be based on a careful analysis of risks.
+I believe any review of banking merger oversight should ensure that the framework that is used is known and understood by the public and by the banks, that it reflects actual market conditions, and that it factors in the broader range of competitors to banks for financial products and services.
+I will outline a few specific areas that, in my view, should be included as part of any modernization proposal for competitive analysis: More systematically include credit unions in all competitive analyses.
+As I noted earlier, credit unions were historically not considered competitors to banks, but changes to their business models and membership criteria now make them direct competitors in many markets.
+Credit unions whose field of membership includes all, or almost all, of the market populations, whose branches are easily accessible to the public, who engage in a significant amount of commercial lending and who have staff available for small business services, or who have acquired a community bank should be part of any initial competitive screen.
+It's also important that the National Credit Union Administration collect more granular deposit information from credit unions so we can better understand their local market power.
+Similar activity should be subject to similar data collection and regulation.
+Factor in deposits at digital banks.
+Since online deposits are not reportable at the branch level, it's important that we account for deposits and loans offered by banks that have established a national digital presence.
+As mentioned earlier, recent data suggest that more than 5 percent of all deposits in the banking system were collected through online means.
+In the absence of specific data about a digital bank's presence in a market, those deposits should be weighed in pro rata in each banking market at the percentage reported annually in the Summary of Deposits in any competitive analysis.
+Consider nonbank financial firms in all competitive analyses.
+Although nonbank financial firms do not generally provide the full range of banking products and services to consumers, they do exert competitive pressures in banking markets across the United States.
+Since 1995, nonbanks have increasingly become important competitors for banks, capable of exerting substantial market pressure in some product markets.
+We need to capture these granular competitive effects across different geographic and product markets.
+One way to do this is by relaxing the deposit-market-based HHI thresholds in the current bank merger guidelines to reflect the increased competitive influence banks face from nonbanks today.
+This is also an area where I think our research partners can help us better understand how to factor in competition from nonbank entities.
+In my view, in order to support increased transparency, the Federal Reserve should review its approach to defining banking markets to ensure they are updated consistently and reflect the changes in how consumers in a community access banking products and services.
+Since 2006, the Federal Reserve Bank of St. Louis has supported competitive factors analysis through its development and maintenance of the Competitive Analysis and Structure Source Instrument for Depository Institutions, or CASSIDI tool.10 The tool gives the public direct insights into the currently defined banking markets in the United States and allows for the pro forma evaluation of the competitive effects of actual and even hypothetical mergers.
+The initial screens that are currently used in competitive analysis are built into the tool and can be updated as things change.
+As we work to develop a more comprehensive process for evaluating competition, the CASSIDI team should add data and even new functionality to the tool to ensure that we are working from a common set of rules in our analysis.
+Conclusion To wrap up, competition is vital to ensuring that we continue to have a vibrant and innovative banking industry.
+In the 10 years of this research conference, we've seen how competition has led to the adoption of a suite of digital products and services by banks of all sizes.
+From remote deposit capture, online account openings, and automated underwriting, to interactive teller machines, banks with more than $1 trillion in assets and those with less than $100 million in assets are both able to quickly onboard new technology to meet consumer demand.
+This has further led to a proliferation of tailored products and services that meet the unique needs of bank customers.
+We've seen how competition from new, tech-savvy, core service providers has led legacy providers to enhance their product offerings and capabilities.
+At the same time, we've seen how these same technologies that enhance the banking experience can also be used by nonbanks to compete directly with banks.
+While banks have adjusted their business models to address new competitive threats and changing customer demand, the framework for evaluating competition has not changed significantly since 1995.
+As these new competitors increasingly provide consumers with alternative delivery channels for the cluster of banking products and services they desire, we need to make sure we take appropriate steps to understand the competitive pressure they exert and modernize our approaches to measuring competition.
+Our current framework is meant to promote a competitive marketplace for banking products and services.
+But if that framework does not account for the full range of competitors, we're only restricting banks from making strategic merger choices, while allowing those outside the framework to proliferate.
+Competition is at the foundation of our financial and economic system.

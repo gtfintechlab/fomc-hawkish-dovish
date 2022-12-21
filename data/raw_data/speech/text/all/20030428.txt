@@ -1,0 +1,134 @@
+As many of you may know, I have been spending time on the initiative to increase the risk sensitivity of the Basel capital accord--the subject of your first panel discussion.
+In the last analysis, our Basel II efforts are geared to improving risk management--measuring risk more accurately; communicating those measurements to management, to supervisors, and to the public; and, of course, relating risk both to capital requirements and to the supervisory focus.
+This morning I will not discuss the details of the Basel proposals.
+Tomorrow, the Basel Supervisor's Committee will publish its third consultative document describing the proposal in its near-final form, and I urge you to review it and provide your comments and suggestions to the Committee.
+It is not too late to shape the details.
+This morning, however, in keeping with the theme of the conference, I will spend my time talking about the objectives of the proposed Basel II, particularly as they relate to risk management.
+Risk in Banking Any discussion of risk management in banking must start with the understanding that banks exist for the purpose of taking risk, and the objective of supervision is certainly not to eliminate, and perhaps not even to lower, risk-taking.
+Rather, the objective of supervision is to assist in the management of risk.
+We cannot lose sight of the fact that banks' willingness and ability to take risk, in turn, has allowed them to contribute significantly to economic growth by funding households and businesses.
+Nonetheless, this economic function, especially when conducted with a relatively small capital base and using mainly funds that have been borrowed short-term, has historically led to periodic rounds of bank failures and changes in credit availability that have exacerbated macroeconomic cyclical patterns and inflicted losses on households and businesses alike.
+Such a history has often led to proposals to change dramatically the business of banking; it clearly has been a major reason for central banks and for the regulation and supervision of banking.
+These developments, however, did not change the risk-taking function of banking nor the need for risk management.
+Banks, from the very beginning, have, to be sure, managed risk--even before there were supervisors or regulators to insist that they do so.
+Banks managed risk because they were in the business of banking and did not want to fail and lose what, at least initially, was their own capital.
+Even in modern banking, with professional management largely divorced from the owners, the desire of management to have the institution survive is still a major impetus to risk management.
+But, until quite recently, systematically and formally managing many of the key risks taken by banks, in particular their credit risk, was difficult.
+The techniques for quantifying and measuring risk, and the technology and instruments to manage and distribute it, simply did not exist.
+Individual credit-risk decisions tended to be made by lending and credit officers who used their judgment to decide who was given credit and who was not.
+A characteristic of lending officers is that they are paid to make loans, and in competitive lending markets they want to make sure they maintain, if not increase, market share.
+This is to say not that lending officers are uninterested in risk management but rather that their focus is on finding a way to make the loan.
+In a world of judgment, the risk manager had considerable difficulty in persuading lending officers, indeed management, about excessive risk when quantitative procedures and systems did not exist.
+Differences in judgments are difficult to resolve.
+I want to emphasize that historically bank credit availability has demonstrated a clear cyclical pattern that is both consistent with the credit-making decision process I have just described and that, in turn, has exacerbated real economic cycles.
+During economic recoveries, bank credit officers would become more optimistic and willing to lend, an attitude that only strengthened during booms; in such times the voice of risk managers, even supervisors, calling for caution was likely to carry less weight.
+During recessions, with losses clear and write-offs rising, caution would come to the forefront, attitudes toward lending would become much more restrictive, reinforced by the arguments of risk managers and supervisors who could point to the losses.
+One can, I think, begin to notice a change in recent years in this typical pro-cyclical behavior in bank credit availability.
+It first became apparent in the minimal credit losses at the large U.S. banks during the Asian debt crisis and Russian debt default in the late 1990s.
+It was also noticeable when these same entities began to tighten lending standards during the later years of the last expansion, in contrast to typical patterns where tightening occurred near or after the peak.
+It is also apparent in the continued strength in the portfolios of these entities during the recession.
+To be sure, part of the explanation is new techniques for shifting and sharing risks through various new instruments.
+But at bottom, I would argue that we are beginning to see the payoff from more formal and rigorous quantitative risk-management techniques for credit decisionmaking, techniques that have also been central to the development of new instruments for hedging, mitigating, and managing credit risk.
+Encouraging Risk-Management Techniques The proposed Basel II attempts to do two things: to apply the concepts of these new risk-management techniques in banking to the supervision of banks and to encourage the widening and deepening of the application of these concepts to the largest and most complex internationally active banking organizations.
+It is true that the ideas embodied in Basel II began inside banks themselves; but not all banks are using all the concepts, and the advance across banks has been uneven.
+Increasingly investors and counterparties are asking whether they are being used, and Basel II adds to such pressure.
+Running through all three pillars of the Basel II proposal is encouragement for banking organizations to invest in and improve their risk-management capabilities.
+The advanced approaches to credit risk will require large banks to analyze their credit exposures in a formal and systematic way, assigning both default and loss probabilities to such exposures.
+Basel II is rooted in modern finance and seeks to develop in the larger banking organizations a comprehensive, systematic approach to assessing the various risks to which they are exposed.
+It inevitably raises both the supervisors' and the market's expectations for banks' risk-management systems.
+It clearly will increase the resources and management attention devoted to the details of risk management, focusing attention on the kinds of risks being taken and the potential losses that may accompany them.
+It is exactly that kind of attention, that kind of support for the risk managers, that will minimize the pro-cyclical swings that have historically marked the bank credit cycle: unintended risk-taking from an overly optimistic view followed by intervals of limited credit availability for even low-risk borrowers as pessimistic views came to the fore.
+Unintended risks are neither priced correctly nor adequately reserved or capitalized.
+Reductions in credit availability limit economic growth.
+As the scale and scope of banking has increased and as banking systems have become more concentrated, the effects of mistakes from excessive risk-taking and reductions in credit availability on national and world financial markets and economies has simply become too large to tolerate.
+The alternatives to strengthening risk management are limited and not very attractive: prohibitions on activities or very intrusive supervision and regulation.
+Bank managers and stakeholders, as well as those who believe in the market process, have an important stake in making Basel II work because the alternatives to it are so unappetizing.
+Pro-cyclicality Some observers grant the desirability of better risk management but have voiced concern that a set of rules for risk-sensitive capital requirements still will be excessively pro-cyclical.
+They argue that as banks re-evaluate the probabilities of default and loss over a business cycle, regulatory capital requirements will fall in booms, as risks are perceived to be low, and increase in recessions, when pessimism replaces optimism, aggravating the underlying real economic cyclical pattern.
+Better risk management, these critics seem to be saying, will make the world less stable.
+Let me stipulate that a regulatory structure based on formal risk-management techniques will imply, to some degree, a cyclical pattern of minimum regulatory capital requirements, exactly like the internal pattern of economic capital needs at a bank using modern risk-management techniques on its own.
+The question is: Is that a bad or good thing?
+To begin to address that question we first have to recognize that risk itself is not constant over time but, in fact, varies cyclically and in other ways.
+Regardless of how we construct our capital requirements, at times the same portfolio of loans will face more or less risk over the relevant planning period than at other times.
+We have a choice: We can decide to ignore that reality or recognize it.
+The current capital regime chooses the former option by default--risk categories are insufficient to recognize changing risk; less information about reality is conveyed by the capital requirements, facilitating both the banks' and the supervisor's failure to respond to the underlying changes.
+The proposed Basel II, in contrast, conveys to managers, to supervisors, and importantly, to the public how risk changes as capital requirements respond to changes in the real underlying risk.
+A sufficiently risk sensitive capital regime will impart timely information regarding risk.
+That, in turn, will allow adjustments in lending policies sufficiently early to limit excessive swings in lending behavior.
+Risk sensitivity in capital requirements can damp swings in credit availability, reducing both credit sprees and credit crunches.
+From a supervisory perspective, it seems clear that we prefer--or at least, ought to prefer--the regulatory capital ratios that convey more information.
+Supervisors, banks, and the public should want to understand when bank portfolios are facing higher risks or when an updated estimate of risk relative to capital reveals a warning sign that requires attention.
+No such early warning system is provided by a system of capital requirements that does not signal that a bank has a problem until the problem is sufficiently severe to have already eroded the underlying capital.
+That is, a capital system with little risk sensitivity creates the potential for problems to escape undetected for longer periods of time.
+Such delays increase the likelihood that the underlying problems will not be addressed soon enough and will likely grow larger over time.
+To be sure, it may well be desirable to avoid an excessively conservative calibration of the risk sensitivity of a regulatory capital regime to minimize the potential for over-response in the capital ratio, relative to some regulatory threshold, when risk evaluations change.
+Overreaction can be as much of a problem as underreaction.
+The Basel Committee has attempted to avoid such difficulties by selecting, whenever possible, parameters that recognize factors that reduce risk exposures and by adjusting capital charges accordingly.
+If the Committee has the calibration about right overall, then supervisors, banks, and markets should be able to handle effectively more information embodied in the form of more risk-sensitive capital ratios.
+Of course, as I noted, the upcoming comment period on the third consultative document will afford an opportunity to express additional views on the issue.
+An often-heard complaint is that markets and banks will overreact to changing capital ratios, the bank will be overpenalized, or the bank will overrespond in its lending policies.
+However, the evidence is sufficient to take a more positive view of markets and their ability to evolve in the presence of new and better information.
+Perhaps more important, these concerns tend to ignore the behavioral effects that more-risk-sensitive regulatory capital ratios will induce.
+Earlier I noted the cyclical pattern that historically has characterized bank credit availability, a pattern exacerbated by the lack of formal and systematic credit-risk management.
+A regime of more formal attention to risk exposures, as under Basel II, offers the hope of a more stable pattern of credit availability.
+Quantitative risk management should reduce the buildup of excessive unintended credit risks that have been assumed in expansions, which in turn will minimize the losses and associated tighter lending standards during recessions.
+Such lending behavior, in turn, might well reduce the cyclical pattern in minimum capital requirements that would otherwise occur without the better risk-management techniques required under the proposed Basel II.
+The response to more formal risk management thus creates the reasonable prospect of reducing concerns about the pro-cyclicality of capital ratios under Basel II.
+In the past, problems have arisen when banks have been too complacent in their judgments of risks during good times, too slow to react when the situation turns, and too risk-adverse once their losses have turned out larger than anticipated.
+A process that encourages banks to think more carefully and more pro-actively about all of these possibilities offers the hope of a significant improvement in the way that they manage themselves over the course of the business cycle.
+Along these lines, Basel II emphasizes the importance of stress testing credit-risk measurements.
+Stress testing as a means for considering how risk assessments and capital requirements can change as the economic environment weakens is a necessary part of the broader shift toward a more pro-active approach to risk management.
+Bank managers should consider the results of their stress testing when determining how much capital they need to hold above the regulatory minimum requirement, which is after all only a portion of the total capital held.
+Indeed, to facilitate flexibility and to enhance their competitive positions with counterparties, banks will continue, even after the Basel II proposal becomes effective, to carry a buffer stock of capital--an amount above their regulatory minimum.
+However, under the proposal, the supervisor will incorporate stress testing as a factor in the assessment of how much buffer capital should be held.
+As part of the second pillar of Basel II, supervisors will discuss the results of the stress test with bank management to ensure that the banks take seriously their need to consider the dynamic management of their capital over the economic cycle.
+Operational Risks My comments have focused on risk management and the cyclicality of a risk-sensitive capital regime.
+But thus far I have emphasized the major risk that most banks face--credit risk.
+At times, however, other risks have proven to be quite costly--sometimes fatal--to banks.
+In my view, therefore, a discussion of risk management is incomplete without a consideration of operational risk.
+From a bank's and a supervisor's viewpoint, no matter how real and serious operational risk may be, it is, with the current state of the art, not easy to measure.
+Thus, the Basel Committee's proposal to apply an explicit capital requirement under pillar I to operational risk has been controversial.
+Against that background, reviewing the Committee's thinking that led to the proposed treatment of operational risk might be useful.
+Under the current, Basel I capital regime, capital requirements on credit exposures are set high enough to cover implicitly operational risk, an approach that has helped to undermine Basel I by adding to the wedge between regulatory and market evaluations of lower-risk exposures.
+If operational risk were subject not to an explicit pillar I capital charge under Basel II but rather to supervisory review under pillar II, capital requirements for credit risk in pillar I would have to be either (1) kept unchanged or (2) treated as they are under Basel I with a safety margin built on top of the credit-risk requirement to cover operational-risk exposures.
+The conservative calibration of the latter approach, as I earlier noted, would mean that capital requirements, by exceeding the "real" underlying credit risk, would make required capital ratios overly sensitive to cyclical reclassifications of credit-risk exposures.
+It would also erroneously assume that operational risk and credit risk move in tandem.
+Including only credit risk within the ambit of explicitly required capital, calibrated as it now is to empirical measures, would lower required capital levels more than is probably warranted because operational risk is a real risk that causes real losses.
+Even if there were a way to adjust required capital for the absence of an explicit charge for operational risk, the pillar II approach, let us be frank, opens up too real a possibility that operational risk will be relegated to an inferior status, with a slowing down of the current impetus to measure and manage it.
+Indeed, I think it is fair to say that the proposed pillar I treatment of operational risk has been a major driver behind the substantial management attention and scarce firm resources that have been devoted to operational risk management in the past few years.
+A robust pillar II approach would require significant and sustained supervisory pressure to ensure that banks continue to invest in improving their operational-risk assessments.
+Even then, comparability across banks would be difficult to achieve, undermining our efforts to attain a level playing field.
+And the capital held under pillar II would, to the public, look like any other buffer capital--nonrequired under pillar I--eliminating a high degree of transparency.
+Moreover, one must be aware that a number of firms are successfully spending time and resources to improve their operational-risk measurement and management approaches.
+Many are doing so not solely because of Basel II proposals but rather because they believe that their financial interest lies in better measuring and managing this risk.
+These firms believe that the objective of a reasonable, flexible, comparable approach to operational risk is achievable, and what is more, they believe they already have reduced such risks by applying formal techniques to their measurement and management.
+Quantifying operational risk is admittedly not simple.
+But the inability to make precise estimates does not mean that an explicit capital requirement for this real risk is impossible.
+Indeed, the Basel Committee developed the Advanced Measurement Approaches (AMA) to provide a flexible way to measure operational risk for pillar I purposes.
+The AMA allows banks to utilize their own internal models, subject to supervisory approval, to determine the capital to be held for operational risk.
+Banks are expected to use their own internal loss data, external loss data, scenario analysis, and qualitative indicators of operational risk when developing these models.
+Thus, though the AMA is flexible, it also provides a structure for making a quantitative assessment of the capital needed for operational risk.
+The AMA provides a road map, with the understanding that no specific approach has been universally adopted within the industry or endorsed by supervisors.
+It is a practical guide, intended to offer a constructive way to proceed toward assessing an operational-risk capital charge that is reasonable and meaningful.
+Though the AMA will require banks to use analytic tools to quantify their operational risks, it also allows for the exercise of considerable management judgment.
+And, as I want to underline, the purpose of developing improved measurement techniques is to use them as a means to the end of better overall operational-risk management.
+The AMA thus provides banks with the flexibility to parse out the operational risk capital charge in a manner that is reasonable and comprehensive.
+To be sure, there remains the question of how certain components of an AMA, such as external data and scenario analysis, are expected to be used in arriving at an appropriate level of operational risk capital.
+It may be necessary to provide banks with a more concrete sense of what supervisors are looking for in this regard, and regulators in the United States are currently working to do so.
+A frequent objection to the AMA from banks is that without this clear guidance, the scale of the expected AMA charge will be set largely at the discretion of the supervisor and it could turn out to be excessive.
+This will not be the case, and banks interpreting the AMA in this way have an erroneous perception of how aggressive supervisors will be in this regard.
+In addition, supervisors have been engaged, through the supervisory process, in gaining understanding of the emerging internal operational risk methodologies that institutions have pursued.
+Our findings to date are consistent with the expectation that the AMA typically results in a lower capital level than would be the case under the blunter measurement tools.
+With their new bottom-up, data-driven methodologies, banks are finding that the level of overall economic capital allocated to operational risk is not dramatically different from their old top-down methodologies, although the allocation across business lines often changes significantly.
+We believe that these methodologies and the resulting capital allocations for operational risk may be indicative of what we are likely to see once the new rules come into effect.
+Supervisors must be willing to say that the size of the capital charge for operational risk under AMA to some extent will depend on the development of industry practice and the experience and associated consensus that will evolve over time.
+In the interim, supervisors will need to engage banks in discussions about the likely size of their operational risk capital requirements.
+Summary In closing, I will review the major points of my presentation.
+The proposed revision of the international capital accord is, at bottom, about improving risk management in banking, extending and building upon what most large banks have already begun to develop and what the market increasingly demands of large, complex banking organizations.
+It is a regulatory framework that seeks to develop a comprehensive and systematic approach to risk taking in banking.
+Some have argued, however, that changing perceptions of risk will make Basel II risk-sensitive capital requirements pro-cyclical, exacerbating the real economic cycle.
+It is true that the required capital ratio will likely have a cycle; but such a pattern will reflect genuine risk developments, and the more accurate measurement should be helpful to bank managers, supervisors, and the public.
+Moreover, the behavioral response to more-sensitive capital requirements is likely to reduce the cyclical pattern in bank credit availability.
+In any event, the buffer capital held will absorb the cyclical movement in required capital.
+Operational risk is not easy to measure, but it is a real risk that cannot be ignored.
+Its proposed treatment in pillar I would likely result in more serious, and less uneven, attention.

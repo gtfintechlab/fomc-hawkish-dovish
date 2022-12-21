@@ -1,0 +1,202 @@
+As a central banker, my focus will be on the challenges this slowdown poses for monetary policymakers.
+These challenges vary around the world, reflecting differences in country-specific shocks, the extent of the spillovers from these shocks, and the way individual economies respond to common shocks.
+Monetary policy responses will also vary, even when confronted by the same circumstances, because of differences in the structure of our economies, differences in the mandates under which central banks operate, related differences in strategies that guide the implementation of their policies, and limits on the ability of some central banks to engage in expansionary policy.
+Let me note, before proceeding further, that the views I am presenting here are my own.
+I am not speaking for the Board of Governors or the Federal Open Market Committee.
+The Global Slowdown Before turning to the challenges faced by central banks, I want to set out my interpretation of the sources of, and the global nature of, the slowdown.
+I will begin by identifying the country-specific and common shocks that are at work and by considering the links that spread country-specific shocks around the world.
+The most obvious interpretation of the global slowdown is that it stems principally from a country-specific shock and spillovers from that shock around the world--specifically, the sharp slowdown under way in the United States.
+The principal traditional channel for spillover effects is trade, with the sharpest spillovers in the current case to countries with the highest ratios of exports to the United States relative to their incomes.
+The U.S. slowdown is, at the very least, a key ingredient in the global slowdown.
+But let me offer several other interpretations, as alternatives or perhaps more as complements.
+Another explanation for the global slowdown is that there has been a coincidence of common adverse shocks.
+The most obvious is the rise in oil prices.
+Though this shock affects all countries, the effect on each country differs depending on the relative balance between oil production and consumption.
+This is an example of how common shocks can have different effects across countries.
+Two other potential common shocks are the global equity correction and the global retrenchment in high-tech investment.
+The effects of these shocks would also differ across countries depending, for example, on the size of market capitalization relative to gross domestic product for the equity correction and the share of high-tech production to GDP for the retrenchment in high-tech investment.
+The question with respect to the latter two shocks is whether they truly represent common shocks, or instead are better understood as country-specific shocks with spillover effects elsewhere.
+In this case, the shocks are a U.S. equity correction and a U.S. retrenchment in high-tech investment with spillovers to equity markets and high-tech production around the world.
+Indeed, one may wonder whether these two shocks--whether common or country-specific--are really independent.
+To an important extent, it was a revision to tech-sector prospects that led equity prices lower.
+A third source of the global slowdown is specific shocks that have occurred in other countries, in addition to those hitting the United States.
+I mention this because I don't want the United States to take all the credit.
+In particular, I believe that some of the credit should be shared with Japan and perhaps also with the emerging Asian economies.
+In the final analysis, the global slowdown is the result of some combination of country-specific shocks, spillovers from the country-specific shocks, and truly common shocks.
+As I noted earlier, the shape of the global slowdown will also be affected by the ability and willingness of the policymakers to respond to that slowdown and the effectiveness of those responses.
+Some countries, for example, are already benefiting from fortuitously timed fiscal stimulus this year and, in other cases, they are considering fiscal packages.
+Monetary policy has responded in a timely fashion in the United States and some other countries.
+In contrast, because macro policy options are more limited in Japan, the effects of adverse common shocks or spillovers from other countries will be larger there than they would be the if the Japanese had more flexibility to act.
+Several important linkages help transmit country-specific shocks around the world.
+Models typically focus on trade effects, particularly through the income-induced decline in imports by the country slowing down.
+This spillover from the United States is clearly greatest in the current case for Mexico and Canada, given that most of their exports go to the United States.
+The global retrenchment in the high-tech sector has magnified the effect of the U.S. slowdown on Japan and in emerging Asia and has added to their homegrown troubles.
+The high-tech retrenchment, on the other hand, has been less important for the euro area and in Latin America.
+The next linkage is through exchange rate movements.
+To a first approximation, exchange rate developments do not affect the magnitude of the slowdown, but they do affect the distribution of the slowdown around the world.
+Normally, we would expect the exchange rate in the country slowing down to depreciate, more so if the country was aggressively cutting policy interest rates.
+And, we would expect even more depreciation, if concerns about returns on capital were sharply depressing equity prices.
+The income-induced decline in interest rates, and hence depreciation in exchange rates, ordinarily plays the role of a built-in stabilizer in the country slowing down, but it also spreads the slowdown around the world.
+One of the surprising features of recent experience has been the continued appreciation of the dollar.
+The appreciation of the dollar relative to the yen is perhaps not so surprising, given the troubles in Japan, but the continued strength of the dollar in terms of the euro is a puzzle.
+The prevailing view until late 2000 was that the U.S. dollar was strong against a broad group of currencies--and especially against the euro and several other European currencies--because, to a large degree, internationally mobile capital sought higher rates of return in the United States.
+Following this logic, a slowing of the U.S. economy, a decline in expected profits, and a correction of asset prices should have weakened the dollar.
+I hesitate to offer a resolution to the puzzle of the depreciation that did not happen, given that I was among those who expected a depreciation of the dollar under these circumstances.
+Nevertheless, economists are much better at inventing explanations of past developments than predicting the future, so here goes.
+The current slowdown in the United States is expected to be only temporary and capital flows may be influenced more by differentials in long-term growth prospects than by shorter-run cyclical fluctuations.
+The prospect of a return to robust growth in the United States that is above the longer-run expected rate of growth in Europe may therefore continue to favor dollar-denominated assets.
+Indeed, this may be reinforced by the fact that dollar-denominated assets have become so much cheaper.
+Proponents of this view cite the continued need for significant progress in several core euro-area countries on structural reform, especially in labor markets, as an indication that the euro area may not be on the verge of an acceleration in productivity to close the growth gap with the United States.
+In any case, the continued appreciation of the dollar not only has dampened the normal offset from net exports to a slowdown in the U.S. economy, but it also has reduced the spillover from the U.S. economy to the euro area.
+Even though exchange rate movements have thus far tended to damp rather than reinforce the direct-trade effects, the spillover from the U.S. slowdown to global growth seems to me larger than expected, not smaller.
+It may simply be that it is difficult to disentangle the common shocks from the country-specific shocks and that the other country-specific shocks and the common shocks are strongly reinforcing the effect of the U.S. slowdown.
+But the apparent strength of the spillover from the U.S. slowdown may also suggest the existence of important additional linkages beyond the income and exchange rate induced changes in trade.
+These additional linkages most likely arise directly and indirectly, at least in part, from the increasingly tight connection among financial markets and the resulting synchronization of the global equity correction, as well as from the effect of the global equity correction on consumer and business confidence around the world.
+The tighter connection across global equity markets, in turn, may reflect the growing importance of cross-border capital flows, of multinational firms, of foreign direct investment, and of income flows from the accumulated stock of foreign direct investments.
+For example, the gross cross-border investment position of the United States grew at an annual rate of almost 19 percent per year during the second half of the 1990s--more than three times the growth rate for nominal gross domestic product.
+And annual gross direct investment capital flows (inflows plus outflows) have risen from 1-3/4 percent of GDP in 1993 to over 6 percent in 1999.1 The income flows from accumulated direct investments have almost doubled between 1993 and 1999, although it remains a little less than 1-1/4 percent of GDP.
+Finally, the importance of international firms has increased over the same time period and the correlation among the share prices of international firms is somewhat higher than for domestic firms.2 The global equity correction, in any case, means that negative wealth effects are shared around the world.
+However, in most countries the stock market capitalization relative to GDP is decidedly lower than in the United States, resulting in generally much more modest effects on aggregate demand for given percentage declines in wealth.
+The exceptions to this rule are Canada and the United Kingdom.
+One recurring theme has been the expectation that the euro area will be relatively insulated from the effects of country-specific and common shocks.
+The euro area, for example, has only modest trade links to the United States (minimizing the direct trade spillover from the United States), has benefited from a depreciation of the euro (further mitigating any trade effect), has a relatively modest market capitalization to GDP (minimizing either the spillover from the U.S. equity market correction or the effect of the global equity correction), and has a relatively modest share of high-tech production to GDP (minimizing the effect from the global retrenchment in high-tech investment).
+Nevertheless, while these channels have muted the slowdown in the euro area, they have not eliminated it.
+Now let me turn to the risks.
+The greatest risk, in my view, would arise from a sharper-than-expected slowdown in the United States--either an outright recession or a more persistent period of very low growth.
+A second risk--and this might well be part of the story behind the first--would be an aggravation of the current slowdown in the United States and globally as slower growth triggered an abrupt unwinding of pre-existing financial and other imbalances.
+This is the story that typically lies behind more severe downturns.
+One important possible imbalance is a capital stock "overhang" in the information technology sector, especially in the United States, but to a lesser degree in a few other countries as well.
+In this case, the continuing retrenchment in high-tech investment could suppress economic growth for a longer period.
+Another possible imbalance that continues to receive a lot of attention around the world is the large and still rising U.S. current account deficit.
+That deficit is, of course, simply the other side of the massive capital flows to the United States to take advantage of the higher perceived return there.
+The most benign adjustment would be for the euro area and other countries to benefit from an acceleration in productivity, much as the United Sates has enjoyed.
+This would lead to a reversal of capital flows and depreciation of the dollar, with income and relative price effects contributing to a moderation in the U.S. current account deficit.
+But the adjustment would be more manageable in the context of higher global growth, especially compared to an adjustment through a marked compression of imports, should U.S. income decline.
+A third global risk is the threat of financial instability in Japan.
+The renewed weakness of the Japanese economy, coming at a time when macro policy options are limited, is putting additional pressure on the Japanese banking and financial system.
+There is danger that a price will be paid--in Japan and globally--for the failure to move more decisively to resolve these problems.
+Another global risk is financial instability among emerging market economies.
+To date, jitters among emerging market economies have reflected idiosyncratic factors, for example, in Turkey and in Argentina.
+And there has been progress since the Asian financial crisis.
+In particular, most emerging market economies have moved to flexible exchange rates, and many have higher official reserves as well.
+Asian developing economies have current account surpluses instead of deficits and are less reliant on short-term foreign borrowing.
+But unfinished business remains--specifically a failure to deal decisively with financial sector weakness.
+Thus, a sharper slowdown among these countries could trigger further financial difficulties.
+The U.S. Story Given that the United States is playing such an important role in the global slowdown, and given that I should be expected to know more about the United States than about the rest of the world, let me spend a few minutes assessing the sources of the U.S. slowdown.
+That story begins with the period of exceptional economic performance from the end of 1995 through mid-2000.
+The driving force appears to have been a dramatic acceleration in productivity.
+After averaging 1-1/2 percent per year from the early 1970s through the mid-1990s, underlying productivity growth appears to have risen to 2-1/2 percent to 3 percent.
+The productivity shock set off a complex, dynamic response.
+First, it boosted aggregate demand as well as aggregate supply, indeed to the point that demand grew consistently faster than the new higher rate of growth of potential supply throughout this period.
+This demand effect was due to the simultaneous consumption and investment booms encouraged by the acceleration in productivity.
+The investment boom was a response to the profit opportunities associated with innovations, particularly in information technology.
+The consumption boom was due in part to a surge in equity prices, which was also a response to expectations of higher profitability.
+The acceleration in productivity also had a persistent, but ultimately temporary, disinflationary effect.
+As wages responded with a lag to higher productivity growth, unit labor costs fell, profits rose, and then competitive pressures passed along the lower costs to lower prices.
+In effect, the short-run non-accelerating-inflation rate of unemployment (NAIRU) declined, allowing above-trend growth to lower the unemployment rate without putting upward pressure on inflation.
+But both the demand and disinflationary effects are temporary.
+Once productivity growth stabilizes, even at a much-elevated level, these forces dissipate, growth slows, and pressures on prices might intensify.
+At some point, therefore, the economy faces the potential for overheating and higher inflation, at least if utilization rates remained at levels that are not sustainable in the longer run.
+So why did the economy slow so sharply?
+First, it slowed because the Federal Reserve was committed to achieving a better balance between the growth of aggregate demand and supply.
+By mid-1999, the above-trend growth had lowered the unemployment rate to a 30-year low of 4-1/4 percent, and there was concern that continued above-trend growth and still lower unemployment rates would be inconsistent with maintaining steady inflation.
+This motivated the Federal Reserve's gradual increase in the federal funds rate from mid-1999 to mid-2000, which cumulated to 175 basis points.
+From my perspective, it was essential to slow the economy at least to trend, preventing further increases in utilization rates.
+Indeed, some, including myself, believed it might be necessary to slow the economy to slightly below trend for a while to further reduce the risk of inflationary imbalances.
+By mid-2000, it appeared that growth was slowing to trend, so the Fed refrained from further tightening.
+By the fall, it appeared that growth had slowed to modestly below trend, also an acceptable outcome, in my view.
+So why did growth slow more sharply than that?
+The explanation is, I believe, a coincidence of adverse shocks that reinforced the effect of tighter monetary policy.
+These shocks included the rise in energy prices, an apparent stabilization in productivity growth, an increase in credit-risk spreads in the bond market, a tightening of credit standards at banks, the equity correction, and the retrenchment in high-tech investment.
+The latter four developments were, in part, a response to monetary policy tightening and the associated prospects of slower growth, but the magnitude of the responses were in each case out of proportion to the degree of tightening.
+The outsized responses in equity prices and high-tech investment presumably reflected an abrupt unwinding of pre-existing imbalances.
+Such a process is often an important contributor to the severity of cyclical slowdowns.
+Let me elaborate on the roles of productivity, equity prices and high-tech investment.
+The fate of these variables is, of course, very interconnected, and they have collectively played a dominant role both during the period of exceptional growth and the slowdown.
+Structural productivity growth appeared to rise year after year, from the end of 1992 through the beginning of 2000.
+It was the continuing rise in the growth rate of productivity that led to sustaining the temporary bonuses that took the form of higher demand and lower inflation.
+Once productivity growth stabilized, these bonuses were destined to dissipate, so the apparent stabilization of structural productivity growth in 2000 may have contributed to both the slower demand and to some upward pressure on inflation.
+The period of accelerating productivity was accompanied by a surge in equity prices--especially for high-tech firms--and a frenzy of high-tech investment spending to take advantage of new profitable opportunities.
+In each case, it appears--no doubt, more clearly in retrospect--that there were speculative excesses that would, at some point, be corrected.
+In such a circumstance, monetary policy could turn out to be a blunt instrument.
+It would have been an extraordinary achievement to fine tune a slowdown to prevent or unwind an imbalance between aggregate demand and aggregate supply without a risk of triggering an abrupt unwinding of these sectoral or market imbalances.
+Monetary policy, therefore, had to be alert to the possibility that the slowdown would be more severe than sought and that policy might, in such a circumstance, have to quickly reverse direction.
+This is precisely what we have done.
+Once demand slowed so sharply, the normal inventory cycle came into play.
+The inventory correction may, in this case, be sharper and shorter than usual.
+Production in the "new economy," can respond more quickly to signs of slower demand and emerging inventory building.
+But the slowdown has "new economy" written all over it in other ways as well.
+The equity correction, for example, is a product, in part, of excesses that accumulated during the economy's earlier adjustment to the productivity acceleration.
+In this case, the decline in equity prices is more than a cyclical correction and more likely a longer-lasting reappraisal of fundamental value and risk.
+And the retrenchment in high-tech investment also reflects the downside of the frenzy of investment during the early stages of the productivity acceleration.
+None of these developments suggests that the productivity acceleration was a mirage.
+Indeed, most observers are confident that productivity growth will remain elevated and that the continued pace of innovations will, in time, contribute to a solid rebound in investment.
+Still, it is true that some will have confidence in the structural productivity story only when it is tested by a cyclical decline.
+And the sharp deterioration in equipment spending, concentrated in the high-tech sector, is likely to take a little edge off structural productivity growth by slowing the contribution from capital deepening.
+Most important, the drag on consumption from the negative wealth effect and on investment as the past excesses in high-tech investment spending unwind will continue to be a drag on growth, even after the inventory liquidation has run its course.
+But, as the effect of the recent easing takes hold, as fiscal stimulus complements monetary stimulus, as energy prices perhaps decline a bit, and as the still-rapid pace of innovation rekindles the appetite for new capital goods, growth should gradually recover, and the economy should gradually return toward trend growth.
+Challenges Facing Central Banks around the World Returning to the theme I opened with, monetary policies around the world can differ because of differences in country-specific shocks, differences in how economies respond to common shocks, differences in initial conditions, and differences in central bank mandates and strategies.
+As I have already mentioned, the challenges faced by monetary policymakers in the United States reflect the specific shocks in the United States and the unique initial conditions we faced.
+Before the slowdown, output was arguably above potential, growth was above trend, and inflation was edging up.
+These initial conditions motivated the monetary policy tightening.
+Because the Fed operates under a dual mandate, we are responsible for promoting both price stability and full employment.
+We have been quick and aggressive in responding to what we viewed as a threat of a slowdown that was steeper than necessary to contain inflation, and the risks remain tilted in that direction.
+But we have to remember both halves of the dual mandate.
+Given that labor markets remain tight, that inflation remains above the rate that I would find acceptable over the longer run, and that core inflation has been edging higher, attention must also be given to calibrating the easing to avoid overshooting in the other direction in a way that ends up adding to price pressures as growth strengthens.
+The challenge in the euro area is different in some important ways.
+First, as I noted, the euro area has been insulated to a degree from the U.S slowdown by its modest trade links with the United States, and, in addition, faces smaller negative wealth effects and a more modest retrenchment in high-tech investment than does the United States.
+However, considerable uncertainty remains about the prospects for growth, and there are some indications that growth may be slowing more sharply than expected, undoubtedly contributing to the recent easing by the European Central Bank.
+Second, the initial conditions in the euro area were different than in the United States.
+Growth in the euro area was also above trend, but output was below potential, though the gap was generally thought to be small and closing.
+A slowing of growth to trend would mitigate the risk of overheating and would be an acceptable outcome.
+Some, to be sure, have called for a more accommodative policy to take advantage of, or test for, an acceleration in productivity growth.
+But central banks are cautious creatures and need to see signs of higher productivity growth before moving to accommodate higher growth in supply.
+Perhaps the more interesting question is whether the differences in monetary policy between the Fed and the ECB reflect not only differences in economic circumstances but also differences in how these two central banks would respond to a similar set of circumstances.
+In particular, do differences in the mandates under which the two central banks operate, and related differences in their strategies, also contribute to different policy outcomes?
+The ECB, like most inflation-targeting central banks, has a hierarchical mandate, different from the dual mandate in the United States.3 Under hierarchical mandates, price stability or low inflation is typically the primary objective and other objectives can be pursued only once the inflation objective has been achieved.
+The ranking of objectives contrasts with a dual mandate, under which neither of the two objectives takes precedence over the other.4 A second difference is that the ECB has an explicit numerical inflation objective, whereas the Federal Reserve has a less precisely defined objective of price stability.
+However, what appear as differences in principle may not always lead to differences in practice.
+For example, there may be little if any difference between the dual mandate and hierarchical mandate when it comes to the response by monetary policymakers to demand shocks.
+Demand shocks move output and inflation in the same direction.
+Under both mandates, policymakers may respond in the same direction and with the same intensity.
+By stabilizing output relative to full employment, policy under both mandates would also stabilize inflation.
+Supply shocks, on the other hand, move output and inflation in different directions, so that it does matter in this case whether or not policymakers directly respond to output gaps as well as deviations of inflation from its target.
+But if the inflation target is a forward-looking or a medium-term objective, policymakers will opt for a gradual return of inflation to its medium-term objective under both mandates and the difference in policy responses under the two mandates will be diminished.
+A second difference related to mandates and strategies is the precision and details of the price-stability objective.
+The ECB has an explicit medium-term numerical inflation objective--inflation less than 2 percent (but not less than zero)--while the Fed has a price stability objective but no explicit numerical objective.
+One would expect that the more precise the price-stability objective, the less flexibility policymakers will have to respond to demand or supply shocks.
+Indeed, this may be the purpose of such a precise definition; that is, a more precise definition may promote greater credibility about the commitment to price stability.
+While the ultimate determinant of credibility is surely performance, in the absence of a historical record to support its credibility, the ECB may benefit importantly from the credibility associated with its more precise definition.
+A less-precise definition, on the other hand, allows more flexibility in the response to shocks.
+Another aspect of the ECB inflation objective could be relevant.
+By defining the objective as inflation of less than 2 percent, the ECB appears to have an asymmetric inflation objective.
+For the ECB, 2 percent is the ceiling, not a midpoint of acceptable inflation outcomes.
+If inflation (or more precisely, the inflation forecast) rises above 2 percent, their strategy clearly dictates that monetary policy tighten.
+But if inflation falls below 2 percent, the ECB is not under the same pressure to ease--at least until inflation (or the forecast) threatens to fall below zero.
+I believe the most important considerations behind the different monetary policies pursued by the FOMC and the ECB are due to differences in circumstances--differences in initial conditions and differences in the mix and intensities of supply and demand shocks.
+Nevertheless, the differences in mandates and strategies likely also matter and lead to the two central banks, in effect, selecting different points along the trade off between output variability and inflation variability--with the ECB opting for lower inflation variability at the expense of somewhat higher output variability.
+The Bank of Japan has a unique challenge.
+Initial conditions in Japan are very different from either the United States or the euro area, and there are, in addition, severe limitations on the ability of monetary policy to respond conventionally to downward shocks to demand.
+Output is well below potential, there is ongoing deflation, and growth has been stagnant for a long period.
+Monetary policy responded by lowering the nominal policy interest rate to zero, exhausting the conventional opportunities for additional stimulus.
+Yet, the economy remains weak and further monetary stimulus would be welcome.
+This is especially true given concerns about the sustainability of their fiscal position--very large deficits and a very high and rising ratio of government debt to income.
+A spillover from the United States and the global slowdown will therefore have a sharper effect on Japan, to the extent that its monetary policy is unable to respond.
+However, even once the policy rate has been driven to zero, there is a potential for additional stimulus from monetary policy--from so-called unconventional operations, though there is considerable uncertainty about their effectiveness.
+In principle, this additional stimulus can be imparted by monetary policy operations in longer-term government or even private securities.
+The channels for the increased stimulus work through the imperfect substitutability of assets and expectations about future monetary policies.
+Such operations could lower long-term rates relative to short-term rates, lower private rates relative to government rates, result in a depreciation of the yen, extend the expectations of lower short-term rates over a longer period, and lead to expectations of higher inflation in the future.
+The Bank of Japan recently changed its operating procedure--from targeting an overnight interest rate to targeting the level of bank reserve balances at the Bank of Japan.
+In practical terms, this marked a return to the zero interest rate policy by targeting the level of reserves that had been held when they had been operating earlier at a zero interest rate.
+However, the new operating procedure provides the flexibility to move toward a more aggressive monetization strategy, should it opt to move in this direction, without having to change its operating strategy.
+Monetary policymakers in Japan have appeared to be reluctant, to pursue a bolder monetization strategy for several reasons.
+First, it might alter the incentives for fiscal policy, encouraging a delay in fiscal consolidation.
+This highlights a fundamental policy problem in Japan--tensions between the rest of government, principally the Ministry of Finance, and the independent central bank.
+The result is a noncooperative solution that may preclude important opportunities for improved policy.
+Second, a policy of aggressive monetization might have its principal stimulative effects through depreciation of the yen.
+Without a consensus within Japan and a tolerance of such a development among Japan's major trading partners, it would be best to proceed cautiously with such a policy.
+Third, a monetization strategy alone is unlikely to sustain anything other than anemic growth in Japan.
+What is needed is a combination policy that includes a real effort to resolve the banking problems, to deal with corporate debt, and to open markets to domestic and international competition.
+Footnotes 1 The data on direct investment are from the IMF's Balance of Payments database and cover about 80 percent of the world.
+2 In making these calculations, an "international" firm was defined as one for whom 25 percent or more of total sales came from abroad in at least one year during the 1996-98 period.
+3 The ECB does not consider its policy as an inflation-targeting regime.

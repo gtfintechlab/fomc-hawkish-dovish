@@ -1,0 +1,142 @@
+But extensive practical experience as well as much formal research highlights the crucial supporting role that financial factors play in the economy.
+An entrepreneur with a great new idea for building a better mousetrap typically must tap financial capital, perhaps from a bank or a venture capitalist, to transform that idea into a profitable commercial enterprise.
+To expand and modernize their plants and increase their staffs, most firms must turn to financial markets or to financial institutions to secure this essential input.
+Families rely on the financial markets to obtain mortgages or to help finance their children's educations.
+In short, healthy financial conditions help a modern economy realize its full potential.
+For this reason, one of the critical priorities of developing economies is establishing a modern, well-functioning financial system.
+In the United States, a deep and liquid financial system has promoted growth by effectively allocating capital and has increased economic resilience by increasing our ability to share and diversify risks both domestically and globally.
+Just as a healthy financial system promotes growth, adverse financial conditions may prevent an economy from reaching its potential.
+A weak banking system grappling with nonperforming loans and insufficient capital or firms whose creditworthiness has eroded because of high leverage or declining asset values are examples of financial conditions that could undermine growth.
+Japan faced just this kind of challenge when the financial problems of banks and corporations contributed substantially to sub-par growth during the so-called "lost decade."
+As the topic of this conference reminds us, financial conditions may affect shorter-term economic conditions as well as the longer-term health of the economy.
+Notably, some evidence supports the view that changes in financial and credit conditions are important in the propagation of the business cycle, a mechanism that has been dubbed the "financial accelerator."
+Moreover, a fairly large literature has argued that changes in financial conditions may amplify the effects of monetary policy on the economy, the so-called credit channel of monetary-policy transmission.
+In fact, as I will discuss, these two ideas are essentially related.
+As someone who (in a former life) did research on both of these topics, I thought it might be useful for me to provide a somewhat personal overview of the financial accelerator and credit channel ideas and their common underlying logic.
+Along the way I will offer a few thoughts on where future research might be most productive.
+Market Frictions and the Real Effects of Financial and Credit ConditionsEconomists have not always fully appreciated the importance of a healthy financial system for economic growth or the role of financial conditions in short-term economic dynamics.
+As a matter of intellectual history, the reason is not difficult to understand.
+During the first few decades after World War II, economic theorists emphasized the development of general equilibrium models of the economy with complete markets; that is, in their analyses, economists generally abstracted from market "frictions" such as imperfect information or transaction costs.
+But without such frictions, financial markets have little reason to exist.
+For example, with complete markets (and if we ignore taxes), we know that whether a corporation finances itself by debt or equity is irrelevant (the Modigliani-Miller theorem).
+The blossoming of work on asymmetric information and principal-agent theory, led by Nobel laureates Joseph Stiglitz and George Akerlof and with contributions from many other researchers, gave economists the tools to think about the central role of financial markets in the real economy.
+For example, the classic 1976 paper by Michael Jensen and William Meckling showed that, in a world of imperfect information and principal-agent problems, the capital structure of the firm could be used as a tool by shareholders to better align the incentives of managers with the shareholders' interests.
+Thus was born a powerful and fruitful rejoinder to the Modigliani-Miller neutrality result and, more broadly, a perspective on capital structure that has had enduring influence.
+My own first job as an academic was at Stanford University, where I arrived as an assistant professor in the Graduate School of Business in 1979.
+At the time, Stanford was a hotbed of work on asymmetric information, incentives, and the principal-agent problem; and even though my field was macroeconomics, I was heavily influenced by that intellectual environment.
+I became particularly interested in how this perspective on financial markets could help explain why financial crises--that is, extreme disruptions of the normal functioning of financial markets--seem often to have a significant impact on the real economy.
+Putting the issue in the context of U.S. economic history, I laid out, in a 1983 article, two channels by which the financial problems of the 1930s may have worsened the Great Depression (Bernanke, 1983).
+The first channel worked through the banking system.
+As emphasized by the information-theoretic approach to finance, a central function of banks is to screen and monitor borrowers, thereby overcoming information and incentive problems.
+By developing expertise in gathering relevant information, as well as by maintaining ongoing relationships with customers, banks and similar intermediaries develop "informational capital."
+The widespread banking panics of the 1930s caused many banks to shut their doors; facing the risk of runs by depositors, even those who remained open were forced to constrain lending to keep their balance sheets as liquid as possible.
+Banks were thus prevented from making use of their informational capital in normal lending activities.
+The resulting reduction in the availability of bank credit inhibited consumer spending and capital investment, worsening the contraction.
+The second channel through which financial crises affected the real economy in the 1930s operated through the creditworthiness of borrowers.
+In general, the availability of collateral facilitates credit extension.
+The ability of a financially healthy borrower to post collateral reduces the lender's risks and aligns the borrower's incentives with those of the lender.
+However, in the 1930s, declining output and falling prices (which increased real debt burdens) led to widespread financial distress among borrowers, lessening their capacity to pledge collateral or to otherwise retain significant equity interests in their proposed investments.
+Borrowers' cash flows and liquidity were also impaired, which likewise increased the risks to lenders.
+Overall, the decline in the financial health of potential borrowers during the Depression decade further impeded the efficient allocation of credit.
+Incidentally, this information-based explanation of how the sharp deflation in prices in the 1930s may have had real effects was closely related to, and provided a formal rationale for, the idea of "debt-deflation," advanced by Irving Fisher in the early 1930s (Fisher, 1933).
+The External Finance Premium and the Financial AcceleratorBoth real and monetary shocks produced the Great Depression, and in my 1983 paper I argued that banking and financial markets propagated both types of impulses, without distinguishing sharply between the two.
+My subsequent research and that of many others looked separately at the role of financial conditions in amplifying both monetary and nonmonetary influences.
+On the nonmonetary side, Mark Gertler and I showed how, in principle, the effects of a real shock (such as a shock to productivity) on financial conditions could lead to persistent fluctuations in the economy, even if the initiating shock had little or no intrinsic persistence (Bernanke and Gertler, 1989).
+A key concept in our analysis was the external finance premium, defined as the difference between the cost to a borrower of raising funds externally and the opportunity cost of internal funds.
+External finance (raising funds from lenders) is virtually always more expensive than internal finance (using internally generated cash flows), because of the costs that outside lenders bear of evaluating borrowers' prospects and monitoring their actions.
+Thus, the external finance premium is generally positive.
+Moreover, the theory predicts that the external finance premium that a borrower must pay should depend inversely on the strength of the borrower's financial position, measured in terms of factors such as net worth, liquidity, and current and future expected cash flows.
+Fundamentally, a financially strong borrower has more "skin in the game," so to speak, and consequently has greater incentives to make well-informed investment choices and to take the actions needed to ensure good financial outcomes.
+Because of the good incentives that flow from the borrower's having a significant stake in the enterprise and the associated reduction in the need for intensive evaluation and monitoring by the lender, borrowers in good financial condition generally pay a lower premium for external finance.1 The inverse relationship of the external finance premium and the financial condition of borrowers creates a channel through which otherwise short-lived economic shocks may have long-lasting effects.
+In the hypothetical case that Gertler and I analyzed, an increase in productivity that improves the cash flows and balance sheet positions of firms leads in turn to lower external finance premiums in subsequent periods, which extends the expansion as firms are induced to continue investing even after the initial productivity shock has dissipated.
+This "financial accelerator" effect applies in principle to any shock that affects borrower balance sheets or cash flows.
+The concept is useful in that it can help to explain the persistence and amplitude of cyclical fluctuations in a modern economy.
+Although the financial accelerator seems intuitive--certainly financial and credit conditions tend to be procyclical--nailing down this mechanism empirically has not proven entirely straightforward.
+For example, empirical studies of business investment in structures, equipment, and inventories have often found that a firm's cash flow significantly determines its level of investment and that the link between cash flow and investment tends to be stronger for firms (such as relatively small firms) that have more limited access to capital markets.2 In a "frictionless" capital market in which borrowers do not face an external finance premium, a firm's cash position would be irrelevant to its decision to invest because efficient capital markets would supply any necessary funding for investment projects expected to yield a positive net return.
+Thus, findings of a positive association between cash flow and investment tend to support the financial accelerator theory.
+These findings also raise issues and questions, however.
+I will mention two.
+First, as a number of researchers have pointed out, the apparent empirical link between cash flow and investment may arise because cash flow proxies for difficult-to-measure factors like the prospective return on investment, which would be relevant to the investment decision even without capital-market frictions.
+This identification problem is a difficult one.
+However, some work that has attempted to correct for this possible misspecification has still found a role for cash flow (see, for example, Gilchrist and Himmelberg, 1999).
+Second, if only the smallest firms have significant external finance premiums, as implied by some research, then the macroeconomic significance of the financial accelerator may be questioned.
+One response to this point, pursued by several researchers, has been to dispute the claim that small firms do not play a significant role in business-cycle fluctuations.
+For example, small firms apparently account for a significant portion of cyclical changes in employment and inventory stocks.
+Another response has been to argue that even large firms with relatively good access to capital markets may face nontrivial external finance premiums.
+For instance, using a sample that included large public companies, researchers at the Board have estimated external finance premiums of economically significant magnitudes, and they showed that these premiums rose sharply during the 2001 recession, as predicted by the financial accelerator theory (Levin, Natalucci, and Zakrajsek, 2004; Levin and Natalucci, 2005).
+Financial accelerator effects need not be confined to firms and capital spending but may operate through household spending decisions as well.3 Household borrowers, like firms, presumably face an external finance premium, which is lower the stronger their financial position.
+For households, home equity is often a significant part of net worth.
+Certainly, households with low mortgage loan-to-value ratios can borrow on relatively favorable terms through home-equity lines of credit, with the equity in their home effectively serving as collateral.
+If the financial accelerator hypothesis is correct, changes in home values may affect household borrowing and spending by somewhat more than suggested by the conventional wealth effect because changes in homeowners' net worth also affect their external finance premiums and thus their costs of credit.
+If true, this hypothesis has various interesting implications.
+For example, unlike the standard view based on the wealth effect, this approach would suggest that the distribution of housing wealth across the population matters because the effect on aggregate consumption of a given decline in house prices is greater, the greater the fraction of consumers who begin with relatively low home equity.
+Another possible implication is that the structure of mortgage contracts may matter for consumption behavior.
+In countries like the United Kingdom, for example, where most mortgages have adjustable rates, changes in short-term interest rates (whether induced by monetary policy or some other factor) have an almost immediate effect on household cash flows.
+If household cash flows affect access to credit, then consumer spending may react relatively quickly.
+In an economy where most mortgages carry fixed rates, such as the United States, that channel of effect may be more muted.
+I do not think we know at this point whether, in the case of households, these effects are quantitatively significant in the aggregate.
+Certainly, these issues seem worthy of further study.
+Monetary Policy and the Credit ChannelThe ideas I have been discussing today have also been useful in understanding the nature of the monetary policy transmission process.
+Some evidence suggests that the influence of monetary policy on real variables is greater than can be explained by the traditional "cost-of-capital" channel, which holds that monetary policy affects borrowing, investment, and spending decisions solely through its effect on the level of market interest rates.
+This finding has led researchers to look for supplementary channels through which monetary policy may affect the economy.
+One such supplementary channel, the so-called credit channel, holds that monetary policy has additional effects because interest-rate decisions affect the cost and availability of credit by more than would be implied by the associated movement in risk-free interest rates, such as Treasury rates.
+The credit channel, in turn, has traditionally been broken down into two components or channels of policy influence: the balance-sheet channel and the bank-lending channel (Bernanke and Gertler, 1995).
+The balance-sheet channel of monetary policy is closely related to the idea of the financial accelerator that I have already discussed.
+That theory builds from the premise that changes in interest rates engineered by the central bank affect the values of the assets and the cash flows of potential borrowers and thus their creditworthiness, which in turn affects the external finance premium that borrowers face.
+For example, according to this view, a tightening of monetary policy that reduces the net worth and liquidity of borrowers would increase the effective cost of credit by more than the change in risk-free rates and thus would intensify the effect of the policy action.
+In the interest of time I will confine the remainder of my remarks to the bank-lending channel.
+The theory of the bank-lending channel holds that monetary policy works in part by affecting the supply of loans offered by depository institutions.
+This concept is a cousin of the idea I proposed in my paper on the Great Depression, that the failures of banks during the 1930s destroyed "information capital" and thus reduced the effective supply of credit to borrowers.
+Alan Blinder and I adapted this general idea to show how, by affecting banks' loanable funds, monetary policy could influence the supply of intermediated credit (Bernanke and Blinder, 1988).
+Historically, monetary policy did appear to affect the supply of bank loans (at any given level of interest rates).
+In the 1960s and 1970s, when reserve requirements were higher and more comprehensive than they are today, Federal Reserve open market operations that drained reserves from the banking system tended to force a contraction in deposits.
+Regulation Q, which capped interest rates payable on deposits, prevented banks from offsetting the decline in deposits by offering higher interest rates.
+Moreover, banks had limited alternatives to deposits as a funding source.
+Thus, monetary tightening typically resulted in a shrinking of banks' balance sheets and a diversion of funds away from the banking system, a phenomenon known as disintermediation.
+The extension of credit to bank-dependent borrowers, which included many firms as well as households, was consequently reduced, with implications for spending and economic activity.
+Of course, much has changed in U.S. banking and financial markets since the 1960s and 1970s.
+Reserve requirements are lower and apply to a smaller share of deposits than in the past.
+Regulation Q is gone.
+And the capital markets have become deep, liquid, and easily accessible, either directly or indirectly, to almost all depository institutions.
+Although the traditional bank-lending channel may still be operative in economies that remain relatively more bank-dependent, as recent research has found for some European countries (Ehrmann and others, 2003), in the United States today it seems unlikely to be quantitatively important.
+This is not to say, however, that financial intermediation no longer matters for monetary policy and the transmission of economic shocks.
+For example, although banks and other intermediaries no longer depend exclusively on insured deposits for funding, nondeposit sources of funding are likely to be relatively more expensive than deposits, reflecting the credit risks associated with uninsured lending (Stein, 1998).
+Moreover, the cost and availability of nondeposit funds for any given bank will depend on the perceived creditworthiness of the institution.
+Thus, the concerns of holders of uninsured bank liabilities about bank credit quality generate an external finance premium for banks that is similar to that faced by other borrowers.
+The external finance premium paid by banks is presumably reflected in turn in the cost and availability of funds to bank-dependent borrowers.
+Importantly, this way of casting the bank-lending channel unifies the financial accelerator and credit channel concepts, as the central mechanism of both is seen to be the external finance premium and its relationship to borrowers' balance sheets.
+The only difference is that the financial accelerator focuses on the ultimate borrowers--firms and households--whereas financial intermediaries are the relevant borrowers in the theory of the credit channel.
+By the way, the existence of loan sales and the originate-to-distribute model of bank lending does not fundamentally change this picture.
+Loan sales and similar activities are, in essence, another form of nondeposit financing, and the effective cost of this form of funding to the bank will generally depend on its perceived financial strength and resources (which may affect recourse and reinsurance arrangements with the loan purchasers, for example).
+Recently, researchers have pursued a number of approaches in search of evidence of a distinct banking channel.
+For example, some researchers have focused on smaller banks, which may have fewer funding alternatives to deposits and whose customer base may consist disproportionately of bank-dependent borrowers (Kashyap and Stein, 2000).
+Of course, these days, even the smallest of banks has ready access to sources of funds other than retail deposits.
+Thus, even for the smallest banks, the source of any bank-lending channel remains the existence of a finance premium on marginal sources of (uninsured) nondeposit funding, rather than an absolute constraint on the quantity of available funding.
+Moreover, for the bank channel to affect economic activity, borrowers accustomed to relying on banks must be unable to turn to other lenders, at least not without some cost.
+For some business borrowers, particularly small business borrowers that rely on banking relationships, this scenario is plausible.4 But financial innovation and deregulation imply that borrowers in the market for a mortgage or consumer credit have numerous nonbank financing alternatives, blunting any direct impact of changes in bank lending.
+I will return to nonbank lending and its implications in a moment.
+If relationship borrowing is the key, then--as pointed out in the paper at this conference by Black, Hancock, and Passmore--a bank with many such borrowers might defensively invest in deposit capacity, say, by increasing the number of branches.
+By actively seeking to finance a high share of loans with insured deposits, such a bank could shield its borrowers from the effects of increases in the nondeposit finance premium, whether the result of monetary policy or some other factor.
+Consistent with this idea, these authors find that banks that make a large share of their loans to small businesses also tend to have a high ratio of deposits to loans.
+The recognition that, fundamentally, the bank-lending channel is based on changes in the quality of bank balance sheets naturally turns our attention to bank capital and its determinants (Van den Heuvel, 2002).
+Raising new capital on the open market can be difficult and costly for many banks, implying that, in the short run, capital is determined by earnings and changes in asset values.
+Changes in the value of capital, particularly when a bank's capital is not much higher than the level demanded by regulators or the market, potentially affect the bank's cost of funds.
+In conformity with this hypothesis, various studies have found evidence that loans provided by banks that are more capital-constrained seem more sensitive to changes in market interest rates than loans provided by highly capitalized banks.5 Moreover, changes in the financial condition of banks may play a role in cyclical developments.
+I have already mentioned the cases of Japan's "lost decade."
+Closer to home, some believe that the U.S. economy's recovery from the 1990-91 recession was delayed by "financial headwinds," which arose from regional shortages of bank capital (Bernanke and Lown, 1991).
+One might view the idea that banks are somehow "special" in their ability to gather information and to screen and monitor borrowers as rather dated.
+Banks do continue to play a central role in credit markets; in particular, because of the burgeoning market for loan sales, banks originate considerably more loans than they keep on their books.
+Nevertheless, nonbank lenders have become increasingly important in many credit markets, and relatively few borrowers are restricted to banks as sources of credit.
+Of course, nonbank lenders do not have access to insured deposits.
+However, they can fund loans by borrowing on capital markets or by selling loans to securitizers.
+Does the rise of nonbank lenders make the bank-lending channel irrelevant?
+I am not so sure that it does.
+Like banks, nonbank lenders have to raise funds in order to lend, and the cost at which they raise those funds will depend on their financial condition--their net worth, their leverage, and their liquidity, for example.
+Thus, nonbank lenders also face an external finance premium that presumably can be influenced by economic developments or monetary policy.
+The level of the premium they pay will in turn affect the rates that they can offer borrowers.
+Thus, the ideas underlying the bank-lending channel might reasonably extend to all private providers of credit.
+Further investigation of this possibility would be quite worthwhile.
+ConclusionI have taken you on a whirlwind tour of several decades of research on how variations in the financial condition of borrowers, whether arising from changes in monetary policy or from other forces, can affect short-term economic dynamics.
+The critical idea is that the cost of funds to borrowers depends inversely on their creditworthiness, as measured by indicators such as net worth and liquidity.
+Endogenous changes in creditworthiness may increase the persistence and amplitude of business cycles (the financial accelerator) and strengthen the influence of monetary policy (the credit channel).
+As I have noted today, what has been called the bank-lending channel--the idea that banks play a special role in the transmission of monetary policy--can be integrated into this same broad logical framework, if we focus on the link between the bank's financial condition and its cost of capital.

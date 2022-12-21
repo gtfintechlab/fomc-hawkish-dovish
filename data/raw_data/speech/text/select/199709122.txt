@@ -1,0 +1,119 @@
+It is a pleasure to speak this afternoon at the Fixed Income Summit.
+To some analysts, a meeting of the heads of the top fifty government securities dealers would represent a concentration of influence over the U.S. economy that perhaps even surpasses that of the meeting I will attend on September 30.
+Indeed, some have argued that the activities of traders and investors in the bond market have become a major stabilizing force in the economy, even to the point of making the FOMC redundant.
+This premise suggests an interesting theme for my address this afternoon -- the connection, or maybe more appropriately the symbiosis, between policy makers and market participants.
+The Importance of Market Mechanisms The Federal Reserve has been most successful over the years when it has relied on market mechanisms to carry out its policy intent.
+Regulation Q, in its fixing of ceilings on deposit rates, distorted incentives and led to sudden and large swings in the pattern of intermediation.
+Selective credit controls, in retrospect, were a blunt instrument that was too unpredictable and extreme to use effectively.
+And the Board of Governors has found that reserve requirements, which represent a tax on depositories because our reserves do not bear interest, are best held steady at the lowest level consistent with the efficient implementation of policy.
+Instead, the Federal Reserve controls its balance sheet to influence a rate quoted by market participants any time that the reserve market is open -- the overnight federal funds rate.
+In truth, as you all know, movements in that rate have little direct significance, except to reserve managers and those relatively few others concerned with the overnight cost of funds.
+But how that rate gets transmitted along the term structure to yields on longer maturity instruments has broad significance that ultimately affects everyone in the economy.
+And that is where market participants come in.
+Policymakers' influence is focused on the current short rate.
+It is the job of traders and investors to read our intentions from the public record, form their own judgments as to the course of economic activity and inflation that are based on, in addition to monetary policy, current and prospective fiscal policies and demand and supply shocks, and translate all that into action as expressed in the prices of a bewildering array of debt, equity, and derivative instruments.
+Varieties of Errors While the market activities of traders and investors can importantly reinforce and strengthen the actions taken by the FOMC in the pursuit of its broad macroeconomic objectives, they cannot replace the FOMC.
+Sometimes, believe it or not, they turn out to complicate, rather than advance, the cause of monetary policy.
+Before I turn to the good the market does in complementing policy action, let me start by deflating the notion that an omniscient bond market always gets it right so as to render the FOMC redundant.
+Because many of the instruments in which you deal have long maturities, the judgments that have to be made to price them by necessity stretch well into the future.
+The scope for error can be large and the consequences costly.
+I think it is useful to separate the grounds for mistakes into two groups: market participants could be wrong about the economy, or wrong about policymakers' objectives.
+Two examples can make this distinction clearer.
+For one, we know, after the fact, that most analysts misjudged the full extent to which unusual restraint on credit was exerting a drag on spending from around 1989 to 1993.
+Essentially, both households and firms recoiled from the explosion of debt in the 1980s.
+They were burdened by high interest service and took steps to bring their balance sheets into a more sustainable configuration.
+Lenders, too, had their own imbalances, brought on importantly by the real estate bust.
+Among them, banks drew back from extending loans to a wide variety of borrowers, including businesses.
+In this environment, spreads of private over public rates widened in the market, and borrowers and lenders who went to depositories were confronted with far less favorable terms than they had grown accustomed to.
+While Chairman Greenspan and his fellow policymakers identified the credit crunch in a fairly timely fashion, it took some time to appreciate the full force of its power.
+By my reading, in the aggregate, market participants were slower on the uptake.
+Thus, the policy easings of 1991 and 1992 were greeted with some skepticism as market participants apparently interpreted those actions as reflecting a lessened concern about inflation on the part of the Federal Reserve, rather than the appropriate response to a softening in aggregate demand.
+The effect of those misassessments was to produce a stunning steepening of the yield curve.
+The spread between long and short-term rates is often viewed as one of the most reliable cyclical indicators and a widening as a measure of the increased stimulus of monetary policy.
+But I viewed the widening in this episode as evidence of the reduced effectiveness of monetary policy in an environment where actions by bond-market participants were preventing long-term interest rates from adjusting in response to the policy-induced decline in short-term rates.
+At its peak in mid-1992, the long-term Treasury bond yielded 475 basis points over the three-month bill rate, about three times the average for the prior three decades.
+True, as the full dimension of the effects of the credit crunch became apparent, yields fell from those heights.
+But in the interim, monetary policy's intentions were blunted by the market's misreading of the economy.
+This probably prolonged the need for ease and further accentuated the required easing of the federal funds rate.
+As another example, I have spent enough of my career projecting near-term economic trends to be familiar with a forecaster's favorite friend -- momentum.
+But momentum can easily be misjudged.
+It is easy to fall into the trap of presuming that what an economic actor did last is what that actor will do next.
+Thus, market prices tend to extrapolate that changes in monetary policy cluster in the same direction.
+This is a rule that works often enough, but, as a look back to 1994 and 1995 reminds us, not always.
+By mid-1994, the FOMC had substantially raised its intended federal funds rate, but market prices seemed to say that enough was not enough.
+The tightenings in May and August of that year, for example, were greeted by a roughly parallel shift up in money market futures rates, implying that the actions had not gotten the Federal Reserve any closer to the goal line -- instead, the goal line had been pushed back.
+And the Fed indeed did continue to tighten through early 1995.
+But by late 1994 and early 1995, the term structure spreads in financial markets remained very wide, implying an expectation of still significant further tightening.
+As a result, the restraint associated with the policy action was amplified.
+In retrospect, a tighter focus on fundamentals -- that policy was acting in a pre-emptive fashion to contain inflation, rather than an extrapolation of the sequence of recent policy actions -- would have helped to cap the rise in longer-term yields.
+The Benefits of Market Mechanisms While I have been speaking about all manner of misjudgments, I actually do have an economist's inherent confidence in market mechanisms.
+Market participants do, on average, get it right and are rewarded accordingly, to the benefit of economic efficiency.
+Indeed, the pattern of those rewards sharpens skills in trading and forecasting, ensuring that these benefits will continue to accrue.
+For that reason, policymakers are well advised to heed the message from markets that are expressed in prices.
+What I find most intriguing is the notion that markets can carry some, and, in the extreme view, all of the load for monetary policymakers.
+To push it to an extreme, it's as if the actions of the Federal Open Market Committee, of which I am a member, can be anticipated, augmented, and, perhaps, even replaced, by meetings of the Private Open Market Committee, of which you are members.
+There are two main advantages of these meetings of the Private Open Market Committee.
+First, members meet twenty-four hours a day, every business day of the year, so that the POMC can respond to every scrap of information on the economy, whether it be an official data release, a statement by an official, or a rumor about the future course of policy.
+Second, every participant can express the strength of his or her belief in a particular view by the amount of capital committed to the trade.
+Because of the inclusiveness of the market, a broad assortment of views about the workings of the economy can be reflected in prices.
+While the design of the FOMC fosters a similar diversity of views, virtually nonstop market trading allows prices to move before official policymakers can react.
+Of course, the FOMC delegates authority to the Chairman and, in this age of instantaneous communication, conference calls are always possible.
+But, practically, with a fixed calendar of FOMC meetings, a desire on our part for a systematic review of the situation to help our deliberations, and some inertia in decision making, markets will almost always be better positioned to react more quickly to news than the Federal Reserve.
+This speedy response, when right, puts in place stimulus or restraint sooner, perhaps lessening the need for us, ultimately, to move our policy instrument as much.
+In general, the more forward looking the bond market is with respect to future policy action, the shorter will be the lag from policy action to intended economic effect.
+In the absence of such a forward-looking response of long-term rates, short-term interest rates may have to move by more to achieve the same near-term impact on long-term interest rates and economic activity.
+Indeed, in those circumstances, the Federal Reserve would have to weigh carefully the effects on long rates of both the current and lagged levels of short rates so as to avoid the potential for an overshooting of short-term interest rates that would have adverse consequences for the economy.
+However, if long-term rates move swiftly in response to correctly anticipated policy, the required rise in short-term rates will be smaller and there will be less risk of overshooting.
+Thus, for the same reasons the Federal Reserve attempts to be pre-emptive in its monetary policy decisions, we would welcome pre-emptive pricing by market participants.
+But we must recognize that what markets are pricing is anticipated Federal Reserve action.
+If the prices are right, we will act to validate them.
+If the prices are wrong -- built on the base on an incorrect view of the economy or Federal Reserve intentions -- we will prove them wrong and provide an anchor for the market to adjust to.
+It is also important to appreciate that the anticipatory contribution of the markets cannot be sustained unless the FOMC ratifies well-timed moves of the market.
+If the FOMC were to fail to do so, it would disconfirm the expectations on which the market move was based, making it less likely in the future that the market would play a constructive anticipatory role.
+Therefore, while forward-looking markets may change what we policy makers need to do, they will never eliminate the need for the FOMC to respond to changing economic developments.
+Some Lessons for Markets and Policymakers I hope that the important question that this discussion has been pointing to is obvious by now: How can we -- the Federal and the Private Open Market Committees -- operate to deliver the greatest good for the American economy while you respect your obligation to stakeholders to maximize their return?
+I think that there are two parts to the answer: We should work at arm's length but with full information.
+By arm's length, I mean that the information markets provide works best as an independent check on monetary policy decisions.
+If the FOMC were to tie mechanically our actions to market prices, then we would be placed in the sorry position of validating whatever whim that currently struck investors' fancy.
+If you were to take our reading of the economy as if from a sacred text, the unique sources of information and skills that you have refined would go untapped.
+It is far better that we should treat each other warily so as to keep each other sharp.
+By full information, I mean that the Federal Reserve should do its best to read signals from markets and to communicate to markets its policy intentions.
+The Domestic and Foreign Open Market Desks of the Federal Reserve Bank of New York are virtually in constant communication with market participants and routinely distill that information for their policy-making principals.
+My fellow governors and I routinely receive from our staff a translation of the term structure of Treasury yields into implied forward rates, volatility inferred from options prices, and paths for expected monetary policy action consistent with futures prices.
+Of late, the information we receive has included inferences drawn from quotes on the Treasury's inflation protected securities.
+In principle, such information should be helpful in interpreting all manner of economic behavior, including the pricing of financial instruments and wage setting.
+As yet, I must admit that, in the eight months since the first issue, the volume of trade and the apparent lack of interest in related contracts on the futures market has been somewhat disappointing.
+The Treasury's strong commitment to this product, reflected in the range of maturities that have and will be sold and the volume of securities sold, should do much to foster this market, as will the growing realization by market participants that indexed debt will represent an increasing share of the nation's debt obligations.
+But even after we have reliable quotes on a more complete indexed term structure, considerable analysis must still be done before we can cull readings of inflation expectations and inflation risk from market prices.
+As you well appreciate, the spread of the yield on a nominal instrument over its inflation-protected counterpart includes compensation for expected inflation, inflation uncertainty, and differential risk characteristics.
+Until we have a long enough history to be more certain of the relative contributions of each, we must watch, wait, and learn.
+Communication must flow two ways.
+Over the past few years, I am pleased to say, the FOMC has significantly enhanced the information it provides to the public.
+That list includes announcing actions -- and the reasons underlying them -- within the day that the decisions are made and providing complete transcripts of meetings with a five year lag.
+We continue to release a comprehensive record of policy discussions six to eight weeks after each meeting.
+We now report the daily size of reserve operations within minutes of their completion, and we have lifted the last veil covering the inner sanctum of policy: Rather than speaking in tongues about "slight" or "somewhat" changes in reserve pressures, the FOMC now announces the intended federal funds rate when it is changed.
+In one respect, the distance covered in that change was not all that great, in that for most of this decade, the Federal Reserve has been rather explicit in signaling through its choice of open market operations whenever the FOMC elected to alter its intended rate.
+But compared to the borrowed reserves operating period of the latter half of the previous decade, the change has been dramatic.
+Rather than rely on Fed watchers employed by primary dealers to read the tea leaves of our daily interventions, we inform everyone, openly, and take responsibility for the level of short-term interest rates.
+By my reading, this is one circumstance in which virtue has proved more than its own reward.
+Over the past 3-1/2 years, a financial innovation -- sweeps from retail deposits -- has complicated reserve operations.
+On average, depositories that have adopted sweeps have been able to reduce their effective reserve requirements by 80 to 90 percent.
+When aggregated over the entire banking system, the scale is staggering.
+By year-end, transactions deposits will probably have been reduced by nearly $1/4 trillion as the result of the cumulative effect of retail sweeps, which is big even by Washington standards.
+Going by a simple rule of thumb, required reserves will be lower by about one-tenth that total.
+This innovation has made the technical job of implementing monetary policy from day to day more difficult.
+Simply, reserve requirements are no longer necessarily the binding determinant of reserve demand for many banks.
+When reserve requirements are in excess of clearing balances, volatile movements in clearing balances will have a small effect on the reserves market.
+However, when desired clearing balances dictate short-run movements in the demand for reserves, the reserve market, and therefore the federal funds rate, may become a bit more volatile late in the trading day.
+However, to the credit of my colleagues charged with determining daily open market operations and of market participants who have adjusted operations to the new environment, that volatility has been quite muted.
+Still, if markets had only daily open market operations to discern the FOMC's intentions, the scope for misimpressions in this environment would be large.
+Because you can read press releases to learn our policy stance rather than the pattern of reserve additions or drains, there is much less chance for confusion.
+For pricing any instrument beyond overnight, market participants apparently find the intended federal funds rate to be more informative than the noisy effective federal funds rate.
+Nonetheless, it would be helpful to prevent a further increase in the volatility of the effective federal funds rate that might result from a further sweep-induced decline in required reserves.
+And a means is available to the Congress today to accomplish that end: The Federal Reserve should be permitted to pay interest on reserves.
+As it stands now, depositories resort to complicated means to evade our reserve requirements -- such as retail sweeps -- because our reserves are sterile and to do less would put them at a competitive disadvantage in a market where profit margins are paper thin.
+By paying interest on reserves, the incentive to engage in sweeps would be sharply reduced and the practice would likely diminish over time, if not end entirely.
+As a result, bankers could devote their attention to more productive pursuits, and reserve markets would be easier to read.
+Conclusion I can assure you that I view financial markets as a national resource.
+To be sure, they do not light the way to proper policy making as perfectly as true believers may assert.
+But there is information to be gotten, and it has been my experience that policy makers do try to extract it.

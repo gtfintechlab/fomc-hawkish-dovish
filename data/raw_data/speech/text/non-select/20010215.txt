@@ -1,0 +1,186 @@
+In the intervening twelve months, much has been accomplished.
+In keeping with the complexity of both the legislation and the issues, much remains to do.
+Today I would like to discuss both what we have done and what we will be doing, but, as I did last year, I will also try to give you some flavor of the issues we faced in making our decisions and how and why we came out as we did.
+Some of you may recall that I emphasized last year that GLB had two broad kinds of provisions.
+The first set was specific and explicit.
+In provisions, for example, such as the standards for becoming a financial holding company (FHC), the list of activities automatically permissible for FHCs, and cross-marketing restrictions with companies owned under merchant banking authority, the Congress told the banking agencies exactly what to do and how to do it, with little or no room for interpretation.
+Other provisions, such as the reasonable holding period for merchant banking investments and the specifics of permissible routine management for firms owned under that authority, were broad-brush, with little or no guidance for implementation.
+Most of the provisions were in the first category, perhaps reflecting the long time that the Congress has been debating the issues; when it finally acted, the lawmakers knew exactly what they wanted.
+The potatoes, as it were, had cooled and were reasonably easy to handle.
+In the second category of provisions, either the issues were particularly technical, or consensus was not reached; and hence the warmer--if not the hot--potatoes were handed to the agencies with the understanding that the decisions reached there were unlikely to result in unanimous acclaim.
+If that kind of decision were possible, the Congress would have reached it.
+I will begin by briefly reminding you of the thrust of GLB.
+GLB did not start with an entirely fresh sheet of paper but rather built on the pre-existing bank holding company structure.
+As such, the new activities authorized--all of which are financial--were to be contained in holding company affiliates or, with several exceptions, in financial subsidiaries of banks under certain broad constraints.
+The new activities were limited to companies that meet certain capital, management, and other tests.
+The holding company structure was favored explicitly as the vehicle to create the maximum separation between the bank and the new activities--both to protect the bank from the risk of the new activities and to avoid the extension of the safety net subsidy to a wider range of activities.
+This structure also retained the existing regulatory framework--with primary oversight of individual legal entities by functional regulators (if any) and umbrella supervision of the holding company by the Federal Reserve.
+The holding company framework also facilitated the so-called two-way street, permitting not only banking organizations to enter, de novo or by acquisition, the securities and insurance business but also securities and insurance organizations to enter the banking business, all the while leaving unchanged the regulation of individual legal entities.
+Though merchant banking--unlimited direct investment in nonfinancial companies for some limited holding period--was explicitly authorized for the newly created FHCs, full commerce and banking--the combining of nonfinancial and financial enterprises as integrated businesses--was explicitly rejected.
+Potential new activities must be evaluated on their financial--no longer banking--nature, as well as on whether they are complementary to finance--rather than on their intimate relationship to banking.
+This structure, of course, has some obvious tensions that, themselves, reflect some difficult compromises.
+These tensions, as we shall see, mean that both the regulators and the regulated face no bright lines on the commerce and banking front.
+The tensions also mean continuing frustrations on both sides as technology, innovation, and plain probing and creativity test the frontier.
+The Congress indicated that it wanted the system to evolve and gave the Federal Reserve the ability and authority to set the limits and, as events dictate, to adjust them within a broad range.
+One final introductory note perhaps is in order, and that is that GLB has not, as yet, induced a dramatic break with the past.
+It is true that we have seen the formation of almost 500 FHCs, twenty or so by foreign banking organizations.
+But the surprise is that three-quarters of the domestic FHCs have assets of less than $500 million, and half of these have assets of less than $150 million.
+We do not yet have full data, but these smaller entities creating FHCs--as well as the regionals--appear to be most interested in using the insurance agency and merchant banking powers authorized by GLB and far less interested in securities and insurance underwriting.
+And, of course, insufficient time has passed for more than a very few to have exercised even these more limited powers in a large way.
+Perhaps the second surprise is the lack of news among the largest entities, which most observers thought would be the significant beneficiaries of GLB.
+Only a small number of large FHCs have purchased securities firms since enactment of GLB, with the two largest involving FHCs based on large foreign banking organizations.
+The benefit of GLB to large domestic FHCs appears to be not so much the creation or acquisition of new securities subsidiaries as it is the freedom to exempt their pre-existing section 20 affiliates from the 25 percent revenue test constructed by the Board to comply with the old Glass-Steagall Act.
+No FHC has acquired a large U.S. insurance company since the Citi-Travelers merger before GLB.
+To date, only one broker-dealer, Charles Schwab, has purchased a commercial bank and become an FHC; only two other broker-dealers, both relatively small, have applied to the Board to buy a small bank.
+One large insurance underwriter was approved to acquire a bank and become an FHC since Citi-Travelers, and that bank is a small bank.
+Another insurance firm has filed an application to buy a bank, again small, and become an FHC.
+In short, except for the two foreign FHC acquisitions of large U.S. securities firms, there have been no cross-industry mega-mergers under GLB.
+It is, of course, possible that such mergers and even broader acquisitions of banks by insurance and securities firms have been slow to occur because of fear of the heavy hand of the Federal Reserve, despite pledges to be gentle by, and statutory restraints placed, on the Fed.
+I do not think that fear of the hand of the Fed--heavy or otherwise--has been significant, but I will not reject it outright.
+In addition, at least on the insurance side, there have been some necessary lags while insurance companies convert from mutual to stock form to facilitate their acquisitions of and by other firms.
+But it seems to me that fears of an aggressive Federal Reserve or changes in corporate form do not explain the slowness of banks to reach out across industry lines.
+These entities are used to Fed umbrella supervision and seem comfortable with it, and though their stock prices have declined, the purchasing power of their equities in an acquisition is still considerable.
+I continue to believe that the modest pace of financial restructuring can be explained by institutions’ taking the time to choose the businesses, markets, and structures that best fit their individual strategies.
+And, perhaps most important, many of the “new” activities had already been possible to banking organizations through various means, from section 20 to section 4(c)8, to the Small Business Investment Company, to the town of 5,000 insurance loophole, and so forth.
+The financial and banking revolution has always been more of an evolution.
+The genius of GLB is that it created a structure that will permit and channel that evolution for many years to come without the cost of seeking ways around the rules.
+But when GLB was passed, no backlog of new business concepts just lay in wait for the legal shackles to be broken; markets and deregulation had already moved financial organizations pretty much to where they wanted to be.
+What Has Been Done GLB requires several instances of joint rulemaking and study.
+Let me start with a couple of examples that I can cover without much discussion.
+One is the Treasury-Federal Reserve non-capital regulations on merchant banking, which covered everything from the scope of merchant banking activities to holding periods to permissible involvement in management.
+Proposed last March, these rules were adopted in final form at the end of last year.
+The blending of the expertise and focus of the two agencies, in both the policy and the regulatory senses, created, I believe, an excellent final product--again one that fully meets the congressional intent but that could not have been written by a legislative body.
+The GLB called for two studies.
+The first directed the Fed to evaluate the performance and profitability of loans made in conformance with the Community Reinvestment Act (CRA).
+Board staff surveyed the largest 500 retail banking institutions and published the results last July.
+The study found that CRA-related lending was generally profitable but, for many institutions, less profitable than their other lending activities.
+Delinquency and default rates were typically similar to, or somewhat higher than, those of other loans.
+The second study--conducted jointly with the Treasury--considered the feasibility and desirability of a mandatory subordinated debt policy for systemically important depository institutions and their holding companies.
+The report on this study was submitted to the Congress in late 2000, almost five months ahead of the congressional deadline.
+The study found that subordinated debt issuance by large depository institutions may encourage market discipline and generate other supervisory benefits, and it indicated that the Federal Reserve, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision will consider ways to enhance their use of voluntarily issued subordinated debt in supervisory monitoring.
+Although the Federal Reserve and the Treasury chose not to recommend that the Congress make subordinated debt issuance mandatory at this time, the report indicated that research and evaluation of such a policy would continue.
+Now let me turn to several other implementation actions in somewhat more detail.
+Merchant Banking Capital GLB required the Federal Reserve and the Treasury jointly to write the rules on merchant banking but the responsibility for capital charges for this activity fell to the Fed.
+This experience turned out to be an educational one for us, in the best sense of the word.
+The merchant banking capital rule is a case study in the benefits of the public comment system.
+Regulatory agencies have their ideas and concepts vetted and challenged by the process, and I believe that as a result we developed a better and more workable capital rule--a rule we proposed last month.
+I am not naïve enough to believe that self-serving public comments are always better or more insightful than those of staff members or policymakers.
+But in this case, public comments led us to fundamentally review our approach, and I think the resulting proposed marginal capital charge better addresses the treatment of risks added by the increasing equity holdings at banking organizations.
+The new proposal is superior in another way.
+Very early in our review we recognized that the safety and soundness risks of equity holdings were the same regardless of the legal entity or the authority used.
+Though we began by considering the merchant banking authority, this risk concern quickly led us to consider all the other equity holdings--in Small Banking Investment Companies, under section 4(c)6, under section 24, and under Regulation K--as well.
+These considerations, and the views of our sister agencies, induced us to invite them to join us in developing joint interagency rules.
+I must say that the process was productive and creative, and I was struck by the high degree of cooperation and professionalism throughout.
+The resulting joint proposal by the Federal Reserve, the Office of the Comptroller of the Currency, and the Federal Deposit Insurance Corporation is, in my judgment, an improvement on the original proposal.
+It carves out (or exempts) and therefore gives preferential treatment to equity investments in SBICs up to 15 percent of Tier 1 capital.
+Otherwise--with the exception of some holdings under section 24--it applies the same charge to all equity investments in nonfinancial companies held under these various authorities regardless of where held.
+Finally, the capital charge increases with the concentration of equity investments to tier 1 capital, beginning for non-SBIC investments with an 8 percent charge up to 15 percent of tier 1 capital and reaching a 25 percent charge for all equity investments in nonfinancial firms above 25 percent of tier 1 capital.
+In its own way, the joint proposal is another model for the kind of interagency cooperation required by GLB, a cooperation that leads to a better and stronger financial system.
+Privacy One of the more passionately debated issues in the law was the extent to which any financial institution, not just a bank, could share information about its customers with unrelated third parties.
+GLB requires that all financial institutions tell customers what information will be shared both with affiliated and with unrelated third parties.
+An institution may choose not to share information about its customers with either group, but GLB provides that, if the organization does share information with non-affiliates, consumers must be given the option to exempt themselves from such sharing.
+Now, most of this audience is composed of lawyers, and I assume, it comes as no surprise to you that translating these seemingly straightforward congressional instructions into regulations--to be jointly written by the Treasury, Fed, OCC, FDIC, OTS, National Credit Union Administration, Securities and Exchange Commission, and the Federal Trade Commission--was, at best, an interesting exercise and, at worst, a nightmare.
+The resulting initial effort was just that: our best start.
+Obviously, despite the fact--or maybe because of the fact--that we had an auditorium full of folks working on this, we could not predict every privacy issue or answer every question that might be raised by the myriad of privacy policies employed by the private sector.
+So, we'll revisit it over time and refine the rule as we gain experience.
+One of the major benefits of having developed this rule on an interagency basis is the simplified compliance burden for organizations that have entities subject to the privacy rules of different agencies.
+For example, a financial holding company that owns a national bank, a thrift, a securities broker, and a finance company would have entities subject to the privacy rules of the Fed, the OCC, the OTS, the SEC, and the FTC respectively.
+Because the agency rules are virtually identical in all key respects, those affiliated companies may use the same opt-out and disclosure forms if they all have the same privacy policies.
+An interesting side note on the privacy provisions of GLB is that they cover an expanding universe.
+The GLB applies the privacy rules to any "financial institution."
+That may sound like a banking term, but the GLB actually defines a "financial institution" to be any institution engaged in activities that have been determined to be financial in nature under the Bank Holding Company Act.
+There is no requirement that the company be a bank or be affiliated with a bank.
+As a result, every time the Fed and the Treasury determine that an activity is financial in nature and therefore a permissible activity for a financial holding company, a side-effect is that the privacy rules cover a new industry.
+For example, all securities brokers and dealers--even those that are not affiliated with a bank or thrift--are covered by the privacy rules because securities brokerage and dealing has been determined by the GLB to be financial in nature.
+This is an example of the Congress using one part of the GLB to do double duty to ensure that customers of like companies receive the same privacy protections, regardless of whether or not the company is affiliated with a bank.
+CRA and “Sunshine” One of the more difficult assignments the GLB handed to the banking agencies--one of the hot potatoes I referred to earlier--was development of the regulatory language to implement the so-called “sunshine” provisions of the CRA: the provisions require public disclosure of financial transactions between banking organizations and people and groups who discuss, with the organization or the agencies, CRA performance of the organization’s insured depository institutions.
+The difficulty is that the legislation is quite specific in places and, as I noted last year to this group, ambiguous if not conflicting in others.
+This difficulty, in turn, reflected hard bargaining and compromises among legislators.
+There might well have been no new law if the parties’ intent had to be unambiguously clear or, worse, if lawmakers had written the implementing regulations themselves.
+As might be expected when the OCC, FDIC, Fed, and OTS took pencil to paper, there were occasional disagreements about what the Congress intended.
+Again, the public comments were useful.
+Commenters from the banking industry as well as commenters representing consumer groups were surprisingly in agreement on a number of issues.
+We also received useful comment from several members of the Congress.
+Most commenters thought the agencies had gotten the disclosure and reporting provisions just about right--that is, they provided the amount of sunshine that was needed.
+There was also a fair amount of agreement that the agencies needed to better define exactly what the sun would shine on!
+Of course, this is where the statute was most opaque.
+In the end, the rule clarifies what types of CRA contacts are covered, who is covered, and when covered CRA contacts occur.
+These changes focus the sunshine more than the original proposal.
+Somehow, however, I don't think it's gotten us out of the heat.
+The reaction to our final rule so far has been rather subdued, and it's likely that some time will be needed to see how well the new rule works.
+New Activities and Banking and Commerce One of the places where the specificity in the legislation creates uncertainty is the intersection of constraints on banking and commerce, on the one hand, and the expansion of new activities on the other.
+The Congress specifically rejected commerce and banking in GLB but empowered the Federal Reserve and the Treasury to add to the permissible activities list any activity that is either “financial,” without much guidance as to what that means, or is “complementary” to financial activities, with no guidance.
+A “complementary” activity, by the way, is not a financial activity, but it must both be related to financial activities and impose no substantial safety-and-soundness risk to depository institutions or the financial system.
+Now, this approach is both brilliant and frustrating.
+It creatively and pragmatically permits the Federal Reserve, as I noted in my introductory remarks, to respond to evolving market trends and technology without requiring the drawn out and always lagging process of amending statutes in response to market developments.
+But, at the same time, the legislation lists as explicitly permissible virtually all the activities that today are widely considered to be financial, while empowering the agencies to define as “financial,” “incidental to financial,” or “complementary to a financial activity” any new activity, with the constraint not to mix “banking and commerce.” Put another way, perhaps in plainer English, GLB grants the agencies authority to move toward mixing banking and commerce at the margin as markets and technology begin to dim the already less than bright line between them.
+And it gives virtually no guidance on how to do so.
+This is, as a result, no easy task.
+Nevertheless, we have already begun carefully and deliberately to exert that authority, in keeping with clear congressional intent.
+Authorizing FHCs to act as a “finder” between buyers and sellers of goods and services was an easy first step, since national banks were already empowered to do so.
+But in response to requests, we have asked for public comment on proposals to authorize as “financial” or “complementary” activities such as real estate agency, real estate management, expanded data processing, and development of new technologies for the delivery of financial products.
+In requesting that the Fed authorize these activities, FHCs offered their own rationales for why these activities are “financial in nature,” “incidental to a financial activity,” or “complementary to a financial activity.” Some FHCs boldly argued that, on the one hand, anything done by a financial holding company or anything that includes processing a payment is intrinsically financial.
+Those approaches lead to no distinction at all between banking and commerce.
+On the other hand, simply allowing activities already allowed for banks is too limiting and undoes the change in standards that the GLB tried to make.
+These first proposals will allow the Fed to explore various rationales for finding activities to be “financial,” “incidental to a financial activity” or “complementary to a financial activity.” How we'll come out is unclear at this point; we are still collecting public comments.
+But what is interesting is that, because the GLB Act allows for a range of approaches, the exact definition of each standard may, as a practical matter, be less important to banking organizations.
+The “financial,” “incidental to financial,” and “complementary to a financial activity” authorities provide a range of standards that stretch from clearly banking to clearly commercial.
+Though we at the Fed must struggle to place each new activity in one of these categories, FHCs will be concerned only that we fit the activity into some category.
+To be sure, different procedural costs are associated with the different categories, but they are relatively minor.
+In the end, the key is whether the activity is permissible.
+And in that, the GLB has created a much more elastic framework than the previous Bank Holding Company Act and should allow the activities of FHCs to grow with--and perhaps lead--developments in the financial markets.
+Qualification Standards for Foreign FHCs The Congress, you may recall, required that foreign FHCs had to meet standards “comparable” to domestic organizations.
+The quandary created by the desirability and necessity to maintain competitive equity within the United States required some trade-off in areas where foreign and U.S. standards differ.
+A key issue is that foreign banks typically have no minimum home market leverage ratio while U.S. banks do.
+If “comparable” were taken too literally, the Board found itself potentially denying FHC status to foreign banks with high ratings because of these differences in U.S. and foreign regulatory capital rules, and being accused of imposing U.S. rules on foreign regulatory authorities.
+To deal with these differences, the Board last March adopted an interim rule that established a two-tier process.
+First, if a foreign bank's capital ratios met the threshold levels on a risk-based and leverage basis, the foreign bank was presumed to meet the regulation’s well-capitalized standard.
+If one or more of the foreign bank’s capital ratios did not meet the screening level, the foreign bank could use a pre-clearance process to request a determination by the Board that the foreign bank had capital comparable to that of a well-capitalized U.S. bank.
+In the comment period on this interim rule, foreign banks objected to use of the leverage ratio even as a screening device.
+After review of the comments and based on the Board’s experience with the interim rule’s pre-clearance process, the Board decided to eliminate the leverage ratio from the screening test for foreign banks.
+In making comparability determinations, the Board will consider such factors as the market ratings of the long-term debt issued by the foreign bank, the foreign bank’s leverage ratio, the composition of the foreign bank’s capital, other measures of the financial strength of the foreign bank, and, of course, the views of the home country supervisor of the foreign bank.
+This approach achieves comparability among banking organizations without penalizing foreign banks for their natural response to their own home country supervisor’s capital requirements or allowing foreign banks an advantage over U.S. banking organizations that must meet the U.S. leverage ratio.
+This Board decision represented, I submit, a template of how to reach the intent of the Congress--competitive equity--while adjusting to international institutional differences.
+Put differently, it is an example of the application of agency expertise to fulfill congressional direction.
+Large U.S. banks, I might add, were in full support of this decision, both on equity grounds and in hope that the template I spoke of would be applied by the Europeans and others to U.S. bank activities abroad in similar cases.
+Umbrella Supervision and Interagency Cooperation As I mentioned both in my introductory remarks and in my comments last year, the GLB confirmed the Federal Reserve as the umbrella supervisor of BHCs and FHCs.
+However, it explicitly limited the Fed’s role as umbrella supervisor reflecting concerns of securities and insurance firms that might become FHCs, and their functional regulators.
+The former were concerned about the intrusiveness of a regulator with a different historical responsibility and focus than they were used to, and the latter about the undermining of their authority.
+Briefly, the act limited the authority of the Fed to examine, impose capital requirements on, or obtain reports from those subsidiaries of FHCs that are also regulated by the SEC or the state insurance agencies.
+The role of the consolidated supervisor continues to be as the monitor of holding company risks that could affect the health or viability of affiliated banks.
+The Federal Reserve has initiated several efforts to enhance interagency cooperation, consistent with both the letter and the spirit of the GLB.
+The act calls for the Fed and the other agencies to cooperate on supervision and in some cases requires joint rule- and decision-making.
+I have already noted the merchant banking regulations and capital rules, the CRA sunshine regulations, and the joint privacy regulations.
+Now I would like to discuss other efforts.
+The Fed has aggressively sought ways to facilitate the sharing of crucial information concerning bank examination and other matters with the SEC and the state insurance regulators.
+We share information through writing formal memoranda of understanding (MOU) with the functional regulators.
+The Fed has worked out the provisions of the insurance-related MOU with the National Association of Insurance Commissioners, which is acting on behalf of fifty-five state and territorial insurance commissioners and is now in the process of getting these agreements signed.
+The Fed is also working with the SEC to develop an MOU covering the sharing of information about broker-dealers in FHCs.
+In the meantime, while we await the completion of the MOUs with the insurance and securities regulators, agency staffs have worked out arrangements to ensure that critical information is shared on a case-by-case basis.
+Besides the formal MOU arrangements, the Fed works continuously to improve its working relationships with other supervisors and to ensure maximum efficiency.
+For example, in May 2000, the Fed and the OCC developed and implemented a pilot program outlining practical operating arrangements for situations in which both agencies are involved in supervising individual large complex banking organizations (LCBOs).
+Within this framework, staff members from both agencies met to share supervisory strategies and examination plans and to coordinate supervisory actions for 2001.
+The general agreement that the agency supervisory teams will rely on each other’s existing work whenever possible, reflects both the letter and spirit of GLB.
+Working cooperatively, the agencies will assess their coordination at several LCBOs to learn from their relationships and to improve them.
+The bilateral relationships between different supervisors are obviously critical, but as the umbrella supervisor for FHCs, the Federal Reserve is in a unique position to facilitate multilateral relationships among supervisors.
+To this end, the Federal Reserve has hosted, and will continue to host, periodic cross-sectoral meetings for multiple supervisors to discuss issues relevant to various financial industries.
+These meetings are useful for building cooperation and improving each agency’s understanding of the different supervisory authorities and objectives.
+As these efforts and programs, as well as the recent joint merchant banking capital rules indicate, we believe that GLB requires communication, cooperation, and coordination among the banking agencies, the SEC, and the state regulators.
+This matter is not only one of congressional intent.
+It is a necessity for effective supervision and regulation of the small number of increasingly large, complex banking organizations.
+If, for whatever reason, we do not cooperate, the financial system may be put at risk.
+What is Left to be Done The Fed has not yet acted on one significant area, but plans to do so this spring: sections 23A and B.
+Sections 23A and B of the Federal Reserve Act limit the amount of funding that may flow from an insured depository institution to its affiliates, require that such credits be collateralized and require that all such funding be extended at market prices.
+These provisions have become even more important vehicles for insulating insured entities from the risks of ever-widening activities permitted by their affiliates and for limiting the use of subsidized resources outside banking.
+Next month we will begin collecting quarterly data on covered credit flows from bank subsidiaries of all BHCs to their affiliates and their own subsidiaries.
+We have been working to develop--and hope to publish this spring--a 23A and B regulation that incorporates new GLB provisions as well as many of the past interpretations, including definitions and exceptions.
+This regulation will include provisions implementing the GLB measures that address extensions of credits between a bank and its affiliates coming both from derivative transactions and through intraday settlement and payments transactions.
+The deadline for this part of the rules is May 2001.
+The challenge here is to implement the provisions of the legislation in a way that protects insured depository institutions with minimal disruptions to markets.
+Conclusion The challenges of implementing GLB will not end when 23A and B regulations, and the rules now out for comment, are adopted in final form.
+The real challenge will be to continue the interagency cooperation necessary to supervise and regulate the increasingly large and complex banking organizations that GLB authorized and the market and technology are creating.
+These entities are no longer banks, or securities firms, or insurance companies.
+They are something different, and it will take all our skills and best intentions to reflect the public interest in supervising them.
+The natural inclination of the agencies to protect and expand their jurisdiction must be reined in if we are to retain the spirit of this important legislation.
+Two other issues, it seems to me, will continue to challenge us.
+First, how should we supervise FHCs that are not dominated by banks, those that have relatively modest banking operations?

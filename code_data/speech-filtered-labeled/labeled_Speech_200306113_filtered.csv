@@ -1,6 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"the utility of the hmda data has been enhanced by periodic adjustments to reporting requirements to reflect innovation, growth, and regulatory changes in the mortgage market.",LABEL_2,0.9961652159690857
-1,"in addition, growth and development activity was verified through immigration data, school enrollment statistics, and building construction information.",LABEL_2,0.9566672444343567
-2,"assessing the financial returns on community investments is perhaps the easiest part of the task in principle, though often demanding in practice.",LABEL_2,0.9985473155975342
-3,"most difficult is defining measures to capture intangible social benefits, such as those that accrue to a neighborhood as residents become engaged in community planning activities, improve their financial literacy, and increase their access to employment opportunities through job training.",LABEL_2,0.9946405291557312
-4,compounding the conceptual challenge of measurement are the not insignificant matters of cost and technological capacity that data collection demands.,LABEL_2,0.7105118036270142

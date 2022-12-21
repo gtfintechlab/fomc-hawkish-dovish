@@ -1,0 +1,463 @@
+The earliest forms of money were commodities, such as cattle and grain, that came to be used as means of payment and stores of value, two properties that effectively define money.
+Over time, precious metals, specifically silver and gold, became dominant forms of payment.
+From the 1870s to World War I and, in some cases, into the Great Depression, many nations backed their currencies with gold.
+Later, fiat money--currency and coin issued by the government but not backed by any commodity--became the dominant form of money, along with deposits issued by banks.
+What has driven this evolution of money, and what is the future of money?
+This is the first set of questions that motivate this lecture.
+Money also provides a metric for the measurement of prices.
+That is, once you have defined the unit of exchange, you can measure the price of any other item in terms of that unit.
+Money is also obviously related to monetary policy.
+Another theme of the lecture is the relationship between the nature of money, the scope for changes in the overall level of prices, and constraints on or opportunities for discretionary monetary policy.
+The next step in the evolution of the nature and transfer of money appears to be the spread of electronic forms of money and payment.
+In the United States, deposit money issued by private banks grew rapidly in the late nineteenth and the twentieth centuries.
+From a historical perspective, a now well-established form of electronic money is the bank deposit stored on the computers of the banking industry.
+Ironically, the most widely used method by the general public for transferring this electronic type of money is still the paper check, although large-value transactions between banks and between some businesses are electronic.
+In the early-to-mid-1990s, a new generation of technology created the possibility of storing monetary value on a silicon chip embedded in a plastic card or in a personal computer.
+With these developments, the focus of payments development shifted to electronic money--e-money--using card-based and computer-based products (often referred to as stored-value cards and network money, respectively) that consumers might use as a general means of payment in both the physical and the virtual worlds.
+What is driving the evolution toward electronic payments and perhaps toward new forms of electronic money?
+How rapidly is the innovation catching on, and what will the payment system look like in the future?
+How would the spread of e-money affect financial stability and the conduct and effectiveness of monetary policy?
+This is a third set of questions that motivate my lecture.
+In the past, money was often privately produced, though today note and coin production has generally become a government monopoly.
+The development of e-money has generated a fascinating debate about the possibility of reintroducing privately issued currency in the United States.
+What would be the implications for the payment system and for the central bank of the reintroduction of what is in effect private currency?
+Could the development of private money and private clearing balances make the Fed obsolete?
+If so, what becomes of monetary policy, and how would the price level be determined?
+These are the final themes that motivate my lecture.
+The Evolution of Money The range of commodities used over time as money is very wide; it includes cattle, grain, knives, spades, shells, beads, bronze, silver, and gold.
+The oldest recorded use of money dates back 4,500 years to ancient Mesopotamia, now part of Iraq.
+About 3,500 years ago, cowrie shells from the Indian Ocean were used as a means of payment in China.
+Passages in the Bible indicate that silver was used as a means of payment in the time of Genesis.1 The first coins--lumps of "electrum," a natural mixture of gold and silver--were introduced in Asia Minor in the seventh century B.C.
+in Lydia, now part of Turkey.
+Driving the evolution of money, from the earliest emergence of commodity money, has been the desire to increase the efficiency of carrying out exchanges.
+In the absence of money, trade is accomplished by barter, the direct exchange of commodities or services to the mutual advantage of both parties.
+Such exchanges require a double coincidence of wants or multiple trades.
+If I have apples and want grain, I have to find someone who has grain and wants apples.
+Alternatively, I can engage in a series of intermediate trades that ultimately result in the exchange of apples for grain.
+In primitive societies with a small range of goods, barter can work well enough, but as the range of goods expands, barter becomes increasingly inconvenient and costly.
+Several considerations have affected the evolution of commodity money itself--from cattle and grain toward shells and then bronze and ultimately to silver and gold.
+Commodities are useful as a means of payment and store of value if they were are less bulky in relation to their value, more durable, more homogeneous, and more easily verified as to their worth than other commodities.
+These considerations favored the use of the precious metals, for example, over cattle and grain, encouraged the use of gold and silver rather than bronze and copper, and further affected the way that silver and gold were used as money over time.
+Early commodity money, for example, was weighed, not counted, including the early uses of silver and gold.
+The introduction of coins that were stamped with their weight and purity allowed money to be counted and again reduced the costs associated with making transactions.
+Silver became the dominant money throughout medieval times into the modern era.
+Relative to silver, copper was too heavy and gold was too light when cast into coins of a size and weight convenient for transactions.
+The next important evolution was the introduction of "representative" paper money.
+Warehouses accepted deposits of silver and gold and issued paper receipts.
+These paper receipts in turn began to circulate as money, used as a means of payment and held as a store of value.
+The paper was fully backed by the precious metals in the warehouse.
+Once again, efficiency was enhanced by the convenience of carrying paper money as opposed to the bulkier silver or gold coins.
+Owners of the warehouses soon learned that the holders of the paper receipts would not simultaneously redeem the gold deposited with them.
+The warehouses could therefore lend the gold--in turn, often converted into paper notes--holding a reserve of gold that allowed them to meet the normal demands for redemption.
+This is the beginning of fractional reserve banking.
+Seventeenth-century English goldsmiths are usually credited with this transition to modern banking, though the first paper money was introduced in China in the seventh century, a thousand years before the practice became widespread in Europe.
+Paper notes and early banking were introduced in Europe in medieval times and further advanced by the great banking families of the Renaissance.
+The spread of paper notes and fractional reserve banking opened up the potential for credit expansion to support economic development but also introduced the possibility of runs and liquidity crises as well as the risk of insolvency through the credit risk associated with the lending.
+In the nineteenth century, many countries were on a bimetallic standard, allowing the minting of both gold and silver coins.
+But by late in that century, many countries had moved to the gold standard, and currency and bank reserves were backed exclusively by gold.
+Barry Eichengreen (1996) describes the gold standard as "one of the great monetary accidents of modern times," owing to England's "accidental adoption" of a de facto gold standard in 1717.
+Sir Isaac Newton was master of the mint at the time and, according to Eichengreen, set too low a price for silver in terms of gold, inadvertently causing silver coins to mostly disappear from circulation.
+As Britain emerged as the world's leading financial and commercial power, the gold standard became the logical choice for many other countries that sought to trade with and borrow from, or emulate, England, replacing silver or bimetallic standards.
+England officially adopted the gold standard in 1816.
+The United States moved to a de facto gold standard in 1873 and officially adopted the gold standard in 1900.
+The international gold standard refers to the period from the 1870s to World War I, during which time the major trading countries were simultaneously on the gold standard.
+Though many countries went off the gold standard during World War I, some returned to a form of gold standard in the 1920s.
+The final blow to the gold standard was the Great Depression, by the end of which the gold standard was history.
+Eichengreen argues that the emergence of the gold standard reflected the specific historical conditions of the time.
+First, governments attached a high priority to currency and exchange rate stability.
+Second, they sought a monetary regime that limited the ability of government to manipulate the money supply or otherwise make policy on the basis of other considerations.
+But by World War I, economic and political modernization was undermining the support for the gold standard.
+Fractional reserve banking, according to Eichengreen, "exposed the gold standard's Achilles' heel."
+The threat and, indeed, reality of bank runs created a vulnerability for the financial system and encouraged governments to seek a lender of last resort to provide liquidity at times of distress.
+Such intervention was, however, inconsistent with the gold standard.
+The international gold standard involved adherence to certain "rules of the game."
+First, the national unit of currency had to be defined in terms of a certain quantity of gold.
+Second, central banks had to commit to buy and sell gold at that price.
+Third, gold could be freely coined, such coins represented a significant part of the money in circulation, and other forms of money were convertible into gold at a fixed price on demand.
+Fourth, gold could be freely imported and exported.2 With the collapse of the gold standard, countries moved to fiat money systems.
+Fiat money is inconvertible, meaning that it is not convertible into nor backed by any commodity.
+It serves as legal tender by decree, or fiat, of the government.
+Its value is based on trust--specifically that others will accept it in payment for goods and services and that its value will remain relatively stable.
+This trust is based, in part, on laws that make the fiat money "legal tender" in the payment of taxes and, in the United States, also in the payment of private debts.3 Fiat money consists of both paper currency and metal coins the face value of which exceeds the value of the metal content of the coins.
+The need to finance wars encouraged early efforts by governments to issue fiat money.
+Early examples include the continentals issued by the American government during the Revolutionary War, assignats issued during the French Revolution, and the greenbacks issued during the Civil War.
+Most such issues of fiat money were followed by severe increases in prices, as governments tapped to an ever greater degree the easiest--in some cases perhaps the only--source of revenue.
+These experiences highlight the importance of control of the money supply for achieving price stability.
+Today, money consists of currency, coin, and transactions deposits (that is, checking accounts) at depository institutions, including, in the United States, commercial banks, thrift institutions, and credit unions.4 It is not clear when the first check was written.
+The earliest evidence of deposits that might be subject to checks is from medieval Italy and Catalonia.
+But at that time, the depositor had to appear in person to withdraw funds or to transfer them to the account of another customer.
+Checks did not come into widespread use until the early sixteenth century in Holland and until the late eighteenth century in England.
+The payment system has evolved further in recent decades with the spread of credit cards and then debit cards.
+Credit cards allow consumers to purchase all kinds of goods "on credit," making payment to the credit-card company for a collection of purchases later by check.
+In effect, the use of credit cards separates the purchase of goods from the ultimate settlement but increases the efficiency of exchange.
+Debit cards allow the consumer to make a purchase from a checking account through an electronic instruction to debit the account instead of by writing a check, another advance in efficiency.
+Even more recently, electronic money has been introduced, still perhaps more in concept than in practice, at least in the United States.
+I will return to the role of electronic money today and the potential for the spread of electronic money in the future.
+Money, Monetary Standards, and Monetary Policy The nature of money determines some important properties of the economy, including the scope for changes in the overall price level and the opportunity for discretionary monetary policy -- that is, for control of the money supply in an effort to improve economic performance.
+The basic relationship between money and prices is often described in terms of the "quantity theory of money."
+In the long run, according to this proposition, the price level moves proportionately to the money supply.
+As a result, the rate of inflation depends on the rate of money growth.
+Though this proposition holds precisely only under restrictive conditions, it identifies in a more general sense an essential link between money and prices.
+It is therefore useful in understanding the way changes in the nature of money might affect the determination of the price level.5 Under commodity money systems, money is often privately produced, and the price level of non-money goods in terms of the commodity money depends on the supply of commodity money relative to the supplies of the non-money commodities.
+In a sense, there is no absolute price level of goods in such an economy, only a set of relative prices.
+However, the relative prices of non-money goods in terms of the commodity money become, in effect, a measure of money prices, as we would think of that term today.
+The supply of commodity money, in turn, depends on technology and--particularly in the case of precious metals--on the pace of discovery.
+Prices of non-money goods in terms of the commodity money need not be constant, but there is no opportunity for discretionary monetary policy.
+As states came at times to monopolize the issue of commodity money, such as gold or silver coins, they often were tempted to debase the currency by reducing the proportion of silver or gold in the coins in an attempt to realize "seignorage" or revenue from issuing money.
+Debasement of the currency typically resulted in inflation--a rise in the price of non-money goods in proportion to the debased currency, which, in effect, maintained the underlying relationship between the commodity, gold or silver, and the price of other goods.
+These are the first experiences with significant inflation induced by government's manipulation of money.
+The next evolutionary step was representative paper money.
+As long as the relationship between the commodity money and the amount of paper money backed by the commodity money is stable, inflation will be determined by the available supply of commodity money.
+But the beginning of modern banking, by breaking the strict link between the commodity money and the money supply, added an element of flexibility to the money supply and further opened up the possibility for inflation.
+During the international gold standard period, currency issue and coin production were linked to and convertible into gold, so that a country's total domestic money supply was tied to the domestic supply of gold.
+This situation did not guarantee a stable price level, but it did remove the risk of government-induced inflation.
+The result--and an indeed an important motivation--was to constrain and, in principle, eliminate the government's discretion regarding the supply of money.
+The gold standard, in effect, put in place a rule that governed monetary policy.6 If a country ran a trade deficit that exceeded private capital inflows, it would, in principle, finance the difference by shipping gold to other countries.
+Doing so reduced the money supply--and hence income and prices--in the country with the balance of payments deficit and increased the money supplies, incomes, and prices in the countries with balance of payments surpluses.
+As a result, the system had a built-in tendency to move the deficit and surplus countries toward balance.
+In fact, drains on a country's gold or foreign exchange reserves were typically countered by an increase in central bank's discount rate.
+The effect on income and prices was, in this case, not due directly to changes in the gold supply, but to the changes in interest rates that were implemented to limit the drain on gold.
+However, principle and practice differed under the gold standard.
+Richard Cooper (1992) summarizes the contrast in the following terms: "The idealized gold standard .
+.
+.
+conveys a sense of automaticity and stability--a self-correcting mechanism with minimum human intervention, which ensures rough stability of prices and balance in international payments.
+.
+.
+.The actual gold standard could hardly have been further from this representation."
+Cooper notes that economic growth during the late nineteenth century was respectable, but variability in income growth was substantially greater under the gold standard than during the period after World War II.7 But the gold standard was predominantly about price stability, so here we might give special weight to evidence pertaining to that characteristic.
+Cooper notes that short-run variations in wholesale prices were greater during the pre-war gold standard than during the period from 1949 to 1979.
+In assessing economic performance under the gold standard, one must also look at possible trends in prices.
+Here the story is more complicated.
+If one compares 1877 and 1913, for example, the price level is essentially unchanged.
+But the period covers a sharp and extended decline in the price level followed by an equally sharp and persistent increase.
+Prices from 1873 to 1896, for example, decreased 53 percent; this decrease was followed by an increase of 56 percent from 1896 to 1913.
+These swings can be explained, in large measure, by fluctuations in gold production driven by discoveries of new deposits.
+In the early post-World War II period, nations sought an alternative to the international gold standard to govern exchange rates and international economic relations.
+At a conference at Bretton Woods, New Hampshire, in 1944, participating governments agreed to maintain a fixed exchange rate system--more precisely, an adjustable peg.
+Exchange rates were mostly stable but could be altered in discrete amounts, under prescribed circumstances--allowing deviation from a fully rules-based system to one with more discretion.
+In practice, the system was implemented by the commitment of the United States to maintain a fixed relation between its currency and gold and other countries' agreement to fix their exchange rates relative to the dollar, at rates agreed to at the conference.
+Fixed exchange rate systems provide a degree of constraint on domestic monetary policies.
+Under such a system, imbalances in payments were settled by flows of acceptable assets, typically gold or dollars.
+Most countries, given limits on their international reserves, had to follow policies consistent with supporting their fixed exchange rates--though, as noted above, they had the option of changing the exchange rate.
+The United States, however, was in a unique position because it could print more of the assets--dollars--acceptable for settling payment imbalances.
+As long as the United States was prepared to convert dollars into gold, at a fixed exchange rate for official purposes, other countries seemed willing to hold dollars.
+As dollars grew relative to the U.S. gold supply, the sustainability of this system came into question.
+When the United States broke the link to gold in 1971, other major countries no longer were willing to accept dollars at the fixed exchange rate.
+The adjustable peg system broke down, and the world ended up, de facto, in a regime of floating exchange rates, with exchange rates determined by supply and demand in the foreign exchange market.
+Most countries were operating under fiat money systems by this time.
+The combination of fiat money systems and floating exchange rates removed the earlier constraints on domestic monetary policies for other countries and made price stability and other dimensions of domestic economic performance dependent on the conduct of their domestic monetary policies.
+Central banks had to learn how to exercise that discretion in support of the objectives usually dictated by their legislatures, almost always including price stability and, in the case of the United States, price stability and full employment.8 There have been disappointments as well as successes with monetary policy around the world.
+Over time, the number of independent central banks has increased significantly, and independence no doubt enhances the ability of central banks to achieve price stability.
+There has also been an advance in our understanding of how to conduct monetary policy to achieve stable rates of inflation, at least on average over a period of years, and perhaps also to contribute, at the same time, to smoothing output and employment growth.
+Over the last ten to fifteen years, coinciding with both an increased emphasis on the price stability objective and the advances in our understanding about the conduct of policy, inflation performance has been very good.
+However, some countries today continue to impose constraints on discretionary monetary policy through fixed exchange rate regimes, tying their inflation rates to inflation in the country to which their exchange rate is pegged.
+This system does not eliminate the influence of discretion, but it makes inflation in one country dependent on the discretionary monetary policy in some other country.
+A currency board and dollarization are tighter versions of a fixed exchange rate regime--that is, fixed exchange rate systems from which it is progressively more costly to exit.
+The Payments System Today The payment systems in use today rely on concepts developed in the eighteenth century and before as well as on those developed in the twentieth century.
+Paper instruments are vital to commerce and so are electronic systems.
+To understand the long-term incentive for the spread of electronic payments and potentially new forms of money, one must appreciate the complexities and costs associated with our current payment system.
+As checks came into more widespread use, banks that accepted checks for deposit had to find ways to exchange checks drawn on a variety of other banks and to receive appropriate value for those checks--processes called "collection" and "settlement."
+First, banks sent messengers directly to other banks to collect the money due to them and their customers, the direct presentment method of check collection.
+Second, out-of-town banks would send checks to a correspondent bank, which in turn would collect the check, the correspondent banking method.
+Both of these methods required significant travel and could require the movement of large amounts of banknotes or gold.
+According to banking lore, a third solution to the interbank check collection problem evolved at a British pub.
+A London bank messenger stopped by for a pint (or two) and allegedly met another bank messenger.
+They quickly discovered that they each had checks drawn on the other's bank and decided to save time by exchanging them on the spot.
+More messengers joined the group.
+These messengers found that they could not only centralize the exchange of checks, they could also net the amounts of money that had to be exchanged among them to settle (pay) the checks they exchanged.
+This arrangement, the clearinghouse method, was first adopted in the United States by the New York Clearing House in the mid-nineteenth century, and it is still used by banks all over the world today--although, generally speaking, the exchanges are not held at a drinking establishment.
+In fact, all three methods of interbank check collection still are in use in the United States.
+In the early twentieth century the creation of the Federal Reserve System helped to improve the efficiency of the payment system in at least two important ways.
+First, the Fed set up a national system of check-clearing, in which the Fed acts like a correspondent bank with an ability to collect checks throughout the United States.
+This system improved the existing localized check clearing system by facilitating the collection and settlement of interbank checks among banks scattered throughout the country.
+Second, the Fed was able to act as a central repository for the reserves of the banking system.
+Reserve balances held at the Fed are widely used as the settlement vehicle for interbank check-clearing.
+According to a new Fed survey, households, businesses, and government entities write approximately 50 billion checks each year.
+The costs of using these checks include processing by depositing and receiving banks and by intermediaries, transportation, accounting, and resolving problems.
+The estimated cost to the banking industry of operating the entire check clearing system range from approximately ¼ to 1 percent of GDP.
+In addition, fraud losses in connection with checks are significant, perhaps in the tens of billions of dollars annually, and are growing rapidly.
+The level of these costs provides an incentive to improve the efficiency of the check clearing process.9 These costs have also encouraged innovation in substitutes for checks, that is, electronic payments, and may foster the development of new payment instruments, such as electronic money.
+Of course, developing and implementing electronic payment alternatives is expensive; however, electronic payment methods tend to be characterized by high fixed investment costs but low marginal costs, so the average cost per transaction should fall as use rises.
+The process of innovation, driven by attempts to increase the efficiency of the payment system, is continuing.
+Banks and technology providers are attempting to develop new payment methods, in many cases building upon the underlying the automated clearing house (ACH), debit card, and credit card networks to find more convenient and secure ways to make purchases, pay bills, settle debts, and post credits, especially over the Internet.10 "On-line" banking involves electronic access to information over the Internet about accounts and loans--including current balances and transactions history--as well as providing the ability to carry out payment related transactions--including transfers among accounts, receiving and paying bills, applying for bank credit cards, and reordering checks.
+Some so-called virtual banks have been set up to service customers exclusively through electronic channels, but an increasing number of traditional "bricks and mortar" banks see the Internet as another delivery channel that improves convenience for some of their customers.
+Similarly, the emergence of e-money reflects the attempt to develop new payment methods as a more efficient alternative to existing electronic payment means.
+The Future of Money: The Spread of E-money Many innovations to existing payment systems have been successful, but the question remains as to how e-money, a fundamentally new payment system, has fared.
+As mentioned earlier, most types of e-money take one of two forms: stored value cards and network e-money.
+Initially, many believed that these innovations would allow more retail and smaller-value transactions to be made electronically, paralleling the move to electronic funds transfer for large-value payments.
+Of course, substantial investments were needed to provide the infrastructure for using these types of payment devices and to ensure that enough consumers and merchants would use them to make the investments worthwhile.
+In the end, despite optimistic predictions, this first generation of e-money products was not widely adopted in the United States.
+In general, stored-value cards have been successful in closed payment systems, where e-money was the primary payment instrument accepted, and have failed in open payment systems, where competing instruments were readily available.
+Examples of closed system successes include mass transit systems, college campuses, and military bases.
+Two well-publicized open system e-money experiments that fizzled (one at the 1996 Olympics in Atlanta and the other on the Upper West Side of Manhattan in 1997 and 1998) accepted e-money at only limited locations and suffered operational difficulties.
+Limited locations discouraged consumer use, while operational difficulties discouraged merchant use.
+Both consumers and retailers were able to substitute other payment instruments, which resulted ultimately in lack of either customer or retailer support for the product.
+Possibly as a result of these experiences, new e-money plans target captive markets, including corporate expense accounts, teenagers with allowances, and payroll for employees without bank accounts, and use the existing, well-functioning credit card and debit card networks.
+The fundamental e-money characteristic--that a liability is issued by an entity primarily for the purpose of making payments--is retained.
+However, these new products are similar to a standard debit card issued by the major networks in terms of technical implementation, institutional arrangements, value transfer, recording of transactions, and currency denomination.
+I should note, however, that it took years for ATMs and debit card networks to be widely used and accepted within the United States.
+Ultimately these innovations in the payment system have proved efficient and cost-effective for users.
+E-money may have a similar experience, with natural setbacks at first, further evolutionary development, and eventually a growing acceptance from the general public.
+E-money and Financial Stability The spread of e-money could have significant implications for the size of central bank balance sheets, for depository institutions (depending on which are allowed to provide network money), for financial stability, and possibly for the implementation of monetary policy.
+Let me begin with the implications of the spread of e-money for financial stability.
+One possible problem is that those issuing the stored-value cards or network money, or clearing the transactions in them, could fail to make good on the promise of convertibility.
+The situation would be like that of banks issuing private notes under a gold standard.
+In the period before the founding of the Federal Reserve, bank failures were a common feature of the financial landscape, especially in times of economic and financial stress.
+Such failures presumably resulted from the effects of poor, dishonest, or excessively aggressive bank management, as well as the impact of adverse economic shocks on poorly diversified banks.
+While modern-day private money issuers should be able to hold diversified asset portfolios, they could still face strains as a result of larger-than-expected shocks or of management difficulties.
+Thus, one could imagine "runs" on a particular brand of stored-value card, for example, if the issuer were thought to be in financial trouble.
+If the issuers were banks and the stored-value cards were, in a legal sense, deposits, then such runs could be managed in the usual way, via the discount window and, if need be, the Federal Deposit Insurance Corporation.
+If the issuers were not banks, however, then the introduction of new types of private money could increase financial instability and pose difficulties if--and this is a big if--the scale of operations were large relative to the financial system.
+E-money and Monetary Policy To appreciate the implications of the spread of e-money for monetary policy, it will be helpful to understand the concept of the monetary base (B).
+The monetary base consists of currency held outside the banking system (C) and bank reserves (R).
+In the United States, depository institutions hold reserves either in the form of currency--so-called vault cash--or balances at Federal Reserve Banks.
+Banks are required to hold reserves against their transactions deposits (required reserves), and they voluntarily hold a small amount of excess reserves.
+Monetary policy is implemented through the Federal Open Market Committee (FOMC) setting a target for the federal funds rate.
+This is the rate at which banks borrow reserves from one another.
+The FOMC then gives instructions to the manager of the Fed's portfolio (called the System Open Market Account, or SOMA) to carry out open market operations to hit the target funds rate.
+The Fed injects the monetary base into the economy through open market operations, purchases or sales of securities from its portfolio.
+When the Fed purchases securities for its portfolio, it pays for the purchase by creating a balance at one of its regional Reserve Banks--in other words, by creating reserves.
+The federal funds rate is determined by the supply and demand for such reserves.
+Through open market operations, the Fed can adjust that supply of reserves so that the market clears at the desired funds rate.
+The implications of the spread of e-money for monetary policy would arise from the substitution of e-money for both currency and deposits, shrinking the size of the monetary base.
+Taken by itself, the decline in the demand for currency would have no direct implications for the conduct of monetary policy because what matters for monetary policy is the supply of and demand for reserves.11 A decline in the demand for currency would, however, lower the monetary base and hence reduce the size of the Fed's portfolio of securities.
+The size of the Fed's portfolio, in effect, determines the seignorage the government obtains through the issue of the monetary base.
+To the extent that the demand for currency declines, the monetary base and hence the Fed's portfolio would shrink, and the interest earnings on that portfolio would diminish.
+The Fed uses the interest earnings, along with revenue from fees for check clearing, Fedwire, and other priced services, to cover the cost of its operations.
+The costs today are a small fraction of the interest earnings; the remainder is returned to the Treasury.
+The Treasury and hence the American taxpayer are the ultimate beneficiary of the seignorage.
+The interest earnings also allow the Fed to cover its costs outside the federal government budget and appropriations process, contributing to the independence of the Fed from the executive and legislative branches.
+Given that the Fed's cost of operations today are less than 10 percent of its interest earnings, the substitution of stored-value cards for currency would have to be very substantial before the budgetary independence of the Federal Reserve would be threatened--though, of course, the Treasury would lose seignorage even from the first dollar of substitution of e-money for currency.
+If the Fed were to lose so much seignorage that it could not cover its costs under current arrangements, it would have to look for other arrangements to cover its costs in a way that supported its independence.
+One reason for doubting that currency would dramatically decline is that much of it--at least half and maybe as much as two-thirds--is held abroad mostly as a store of value, not as a means of payment.
+A further significant portion of outstanding currency is held in connection with criminal activities, because of the anonymity it offers its holders.
+More interesting is the possibility that the spread of network e-money might dramatically reduce the demand for deposits and hence correspondingly reduce the amount of bank reserves.
+The effect of the spread of e-money on reserves would depend on who provides it and on the regulatory and statutory responses.
+For example, will providers be restricted to depository institutions?
+In this case, the e-money balances could be subject to required reserves, in which case its spread would not reduce reserves.
+Depository institutions could have a competitive advantage in offering e-money, if it were treated as another form of bank deposit and insured by the FDIC.
+In that case, the spread of e-money would not significantly reduce the effectiveness of monetary policy.
+But what if other financial or even nonfinancial firms were allowed to issue e-money?
+Again, reserves would not be affected if the other providers were subject to reserve requirements, though making them so would require a statutory change.
+However, the prospect that the spread of e-money could reduce reserves has generated many articles and an interesting debate.12 To address the issues in debate, let's assume that network e-money is not subject to reserve requirements.
+In this case, reserves would decline, so we would need to analyze the implications of such a decline for the conduct of monetary policy.
+Fortunately, we already have some experience with earlier innovations that have reduced the demand for reserves.
+Over the past decade, for example, banks have implemented retail sweep programs.
+These programs sweep excess funds not immediately needed for transactions from reservable transactions accounts into nonreservable saving accounts, allowing banks to reduce their required reserves.
+Banks have an incentive to use sweeps to reduce required reserve balances because they pay no interest.
+As a result of the spread of sweep accounts, the level of required reserve balances has declined from about $28 billion in late 1993 to only about $6 billion today.
+The Fed has worried that this decline in the level of required reserve balances could result in increased volatility of the funds rate and require the Fed to alter the way it conducts monetary policy.
+The concern here is the same that would present itself if the spread of network money substituted for transactions deposits and further reduced the level of reserves.
+If binding, a reserve requirement raises the level of reserves relative to what banks would otherwise hold.
+In the absence of a reserve requirement, banks would still hold reserves for settlement or clearing purposes.
+But without the cushion provided by required reserves, the intraday and interday fluctuations in the demand for reserves could increase the volatility of the federal funds rate.
+I should note, however, that to date, despite the sharp decline in required reserve balances, there has not been an increase in the volatility of the funds rate.
+The Fed has asked the Congress for statutory authority to pay interest on required reserve balances as well as on excess reserves.
+Paying interest on required reserve balances would greatly reduce the incentive for banks to conduct sweep programs and would therefore raise the level of transactions deposits and hence reserves.
+This would diminish the risk that further declines in required reserve balances would increase the volatility of the funds rate.
+In the absence of such new statutory authority, the Fed has indicated it might need to alter the way it implements monetary policy, in the event that required reserve balances fell further and the volatility of the funds rate increased.
+To date, because the volatility of the funds rate has not increased, moving in this direction has not been necessary.
+However, if the volatility of the funds rate did increase, one possibility would be to introduce a regime of floors and ceilings that would limit the fluctuation in the federal funds rate to an acceptable range.
+The ceiling could be set through a so-called Lombard facility at which banks would be able to borrow at a penalty rate, perhaps 50 basis points above the target funds rate.
+Banks would never pay more than 50 basis points above the target funds rate to borrow reserves if they had access to such a facility and if borrowing from the facility had no nonpecuniary cost.
+The floor would be set through a re-deposit facility at which banks could deposit any unwanted reserves with the Fed at a rate perhaps 50 basis points below the target funds rate.
+Banks would never lend in the market at a rate lower than 50 basis points below the target funds rate if they had access to such a re-deposit facility.
+The funds rate would thus be limited to a 100-basis range, and open market operations would aim to keep the funds rate on average near the midpoint.
+In principle, the system could work with somewhat narrower or wider ranges.
+The same system could be implemented if the spread of e-money reduced the demand for transactions balances and hence the level of required reserves.
+Such a system is common, indeed almost the norm for other central banks, in the conduct of monetary policy.
+So there has been a lot of experience with it and the United States could presumably implement it, although a statutory change might be needed to set up a re-deposit facility.13 But what if the spread of network money fully replaces transactions deposits and if reserves are not required against such money?
+Several countries have eliminated required reserves, and we appreciate today that reserve requirements are not essential for the conduct of monetary policy.14 In any case, under these assumptions, there would be no demand for required reserve balances at the central bank.
+Nevertheless, if trust in e-money instruments were not complete, holders would presumably demand that e-money be exchangeable for notes and coin at par.
+In this case, there may be no problem for monetary policy.
+To make good on the promise of convertibility, the issuers and their clearing and settlement banks would probably hold some notes and coin and some balances at the central bank.
+The resulting demand for the monetary base would allow the Fed to set the federal funds rate (by setting the supply of reserves, or by setting the terms on deposit and borrowing facilities).
+If trust in the private provider or providers were complete, and nobody ever doubted their ability to convert stored-value or network money into dollars, then demand for the monetary base could fall to zero.
+But providers of stored-value cards and network money would still need funds to meet demands as holders of the e-money use it to buy goods and services.
+Today such so-called settlement balances are held as reserve balances at the central bank.
+Even if there were no required reserves, banks would still hold settlement balances to meet liquidity needs and might continue to hold these reserves at the central bank.
+In this case, once again, there does not appear to be a problem for monetary policy.
+But, just to be sure we have covered all the possibilities, let's assume that banks or other providers of e-money choose to hold settlement balances to meet liquidity needs in the form of interbank deposits--deposits with other banks--instead of balances at the central bank.
+In this case, perhaps the large money center and regional banks would collectively take on the role of providing settlement balances to the providers of e-money.
+Let's call them the settlement banks.
+Let us also assume that such settlement balances were convertible into balances held at the central bank, a link that would enhance the acceptability of and confidence in e-money.
+This hypothetical situation--perhaps one more interesting as an intellectual challenge than as a plausible outcome--forces us to try to understand what the minimum requirements are for an effective monetary policy, defined as one that can maintain control of some short-term interest rate.
+Michael Woodford (2001) considers this problem (or at least a closely related problem) in a paper presented at the most recent Federal Reserve Bank of Kansas City Jackson Hole conference.
+He convincingly argues that monetary policy could still maintain control over interest rates--provided that the central bank can pay interest on the deposit balances it offers.
+The central bank can conduct monetary policy in this case by setting an interest rate on balances held at the central bank.
+Banks cannot pay a rate on interbank deposits lower than the rate offered on the balances banks could hold at the central bank.
+Otherwise, banks would convert their interbank deposits into central bank balances.
+Banks have no incentive to offer a rate on interbank deposits higher than the rate offered by the central bank because they would experience a loss as other banks give them low-yielding central bank liabilities in exchange for their high-rate interbank deposits.
+The minimum requirement for an effective monetary policy is, therefore, the ability of the central bank to set an interest rate on balances held by banks with the central bank.
+Woodford does not address the possibility that banks might not have a positive demand for central bank balances.
+Even in this case, the availability of central bank balances and credit at an interest rate set by the central bank would, in my view, effectively control the interest rate on interbank deposits and therefore continue to allow the central bank to conduct monetary policy.
+The availability of balances at and borrowing from the central banks would limit and effectively control the rates that settlement banks paid on their interbank deposits.
+Charles Freedman (2000b) makes a strong case that the possibility that banks would prefer to use interbank deposits for clearing purposes rather than central bank money is far-fetched.
+Central bank money has some unique properties that likely ensure it a comparative advantage relative to interbank deposits.
+First, central bank balances carry no default risk.
+No private bank or other financial firm can match this.
+Second, central banks typically provide access to liquidity through a discount window or other standing facility, especially important in the event of a serious liquidity problem.
+Banks may want to maintain a clearing account at the central bank to obtain funds quickly and conveniently from the discount window.
+Third, banks have a long tradition of holding reserve (settlement) balances at central banks.
+Therefore, the spread of e-money is unlikely to reduce the demand for reserve balances at the central bank to such an extent that the central bank could not conduct monetary policy by controlling an overnight interest rate.
+First, e-money that substitutes for bank deposits could be subject to a reserve requirement.
+Second, even if these deposits were not reservable or if reserve requirements were eliminated, banks would most likely continue to hold clearing balances with the central bank.
+In this case, a system of floors and ceilings, as described above, complemented by open market operations, should ensure the continued effectiveness of monetary policy.
+E-Money and the Reintroduction of Private Money: Is the Fed Obsolete?
+This leaves one last interesting set of issues to explore.
+Could e-money issuers successfully introduce new monetary standards-independent of the dollar-and either compete with the Federal Reserve as central banks, or operate without a central bank?
+Alternatively, what if the Federal Reserve were privatized, its role taken by a successful issuer of e-money?
+After all, the United States has not always had a central bank.
+Before 1914, private firms managed many of the activities now handled by the Federal Reserve.
+Thus, one can at least imagine a world in which central banking, to the extent there is such a thing, is in private hands.
+The result, in any of these very speculative cases, would clearly be that the factors shaping monetary policy and the determination of the price level would be greatly changed.
+Consider first the possibility that privately produced e-money replaced the Federal Reserve's monetary base, and allowed the establishment of several competing private central banks, each with its own money (say, red dollars, blue dollars, and yellow dollars).
+Of course, legal tender laws linked to government-issued currency make such a development very unlikely.
+Still, if a private bank were somehow able to establish its currency as a fiat currency (that is, without making it convertible into Fed dollars or some other asset), then its monetary policy over time would determine the value of its currency, interest rates on its currency and its inflation rate.
+If competing banks provided their own currencies, there would be multiple price levels, depending on the currency, and a number of cross exchange rates.
+But such an outcome would be extremely inefficient and is therefore hard to imagine as the ultimate outcome.
+Indeed, the euro area is going the other way to avoid the costs of dealing with multiple currencies.
+Though technology may reduce the costs of handling multiple currencies and prices, we are not at the point where the costs of doing so are negligible.
+Alternatively, the private money issuers might adopt a commodity standard, so that one could transact business with money backed by gold or other commodities, for example.
+In that case, the price level in each currency would reflect the relative price of the commodity chosen by the respective issuer.
+Some, like Lawrence White (1992), argue that free entry into the business of providing media of exchange tied to a commodity standard can lead to good outcomes even without a central bank, as he argues was the case in Scotland in the eighteenth century and first half of the nineteenth century.
+But that outcome may have depended on some special factors (including the unlimited liability of banks' shareholders).
+In the current environment, some issuers of private money would, from time to time, likely fail to be able to redeem the money in the underlying commodity.
+Moreover, it is not clear that the private issuers would have the appropriate incentives to hold capital and act as lender of last resort in a crisis.
+Indeed, as I noted earlier, central banks, at least in developed economies, issue currency and provide clearing services, at least in part, because their services offer features, such as freedom from default risk and finality of settlement, that private providers cannot match.
+What about a private institution taking over the (monopoly) role of the Fed (with the Fed disappearing)?
+Or, equivalently, the privatization of the Fed?
+In that case, the overall price level would be the result of the monetary policy chosen by the firm running the private central bank.
+It is not clear that a private monopoly central bank has the incentives to produce good monetary policy.
+Indeed, given the externalities involved, it seems plausible that a monopoly central bank that issued fiat money would not respond optimally to crises (it would charge too much for liquidity) or to cyclical variations (it would be maximizing the present discounted value of its seigniorage income rather than minimizing some weighted sum of discounted inflation and output losses).
+If the private central bank were to adopt a commodity standard, then its actions would be constrained and might lead to stable prices over the longer term, subject to all the limitations of the gold standard discussed earlier.
+But the central bank's incentives in terms of serving as a lender of last resort and holding capital and reserves would presumably still be wrong because of macro externalities that it would not take into account.
+Ultimately, it is essential, in my view, to require the central bank to act in the national interest and not as a profit-maximizing firm and that the government back it in a crisis to ensure that it has the ability to take any required actions without being constrained by its own financial resources.
+Conclusion The evolution of money is clearly a dynamic and on-going process, driven by the incentive to improve the efficiency of exchange.
+Even today, after a long historical process of evolution, we are left with a payment system that is very costly to operate, requiring tons of paper checks to be flown around the country and reunited with the person or firm that wrote the check in the first place.
+It seems inevitable that further evolution lies ahead.
+The spread of computers, advances in telecommunications, and the dramatic growth in the use of the Internet point to innovations in e-money.
+These will ultimately reshape the payment system and, along the way, present challenges to the Federal Reserve and monetary policy.
+Given the slow pace of progress and the strong likelihood that stored-value cards will substitute only for a portion of currency, there is little danger that the Fed's portfolio will shrink to the point at which the Fed will be unable to cover its costs of operation.
+The spread of network money, on the other hand, might not reduce the demand for reserves, if network money is subject to reserve requirements.
+In the absence of reserve requirements against network money, it is still likely that central bank balances would dominate settlement balances at private banks, given the former's lack of default risk.
+In this case, a system featuring floors and ceilings appears well designed to allow the Fed to continue to implement monetary policy by controlling the federal funds rate.
+Appendix 1: Innovations in Retail Payment Systems Important advances have been made in improving the efficiency of retail payment systems.
+For example, check collection costs may be lowered by the use of check truncation.
+In this case, a paper check is stopped - "truncated" - at some point in the processing cycle, but information continues to flow.
+Typically today, the truncation of the check occurs at the paying bank and the check is not returned to the check writer.
+Credit unions have been handling checks in this manner since the late 1970s.
+The earlier the paper flow is stopped, the greater the proportion of costs saved.
+For instance, cost savings can be greater when one bank in the check collection chain transmits information electronically to the paying bank.
+The payee's bank or an intermediary such as the Fed reads the information on a check and presents that information electronically to the paying bank.
+This form of truncation can be supported by the use of imaging technology that allows the digital check images to be captured and archived and used for information purposes or, perhaps, used in lieu of the original check.
+These images may then be returned to the check writer.
+Currently, this arrangement must be agreed upon by the parties to the check, which may include all banks in the stream of collection, and the check writer.
+The Federal Reserve Board is developing a draft law that would facilitate check truncation by removing several existing legal impediments to the use of electronics in check processing.
+Another form of truncation occurs at the point of sale, where the check is written.
+In this approach, a customer's check is scanned, converted into an electronic payment, and handed back to the customer.
+In this case, the payer's check is used as a source document from which to create an electronic payment.
+Truncation and imaging can potentially improve the efficiency of clearing paper checks.
+In addition, existing electronic funds transfer systems--ACH, debit cards, Fedwire, and CHIPS--have already substituted electronic transfers for paper checks for many transactions.
+The recent Federal Reserve study of retail payments found that Americans' use of credit cards, debit cards, and other electronic payments have been gaining relative to their use of checks.
+For example, from 1979 to 2000, while the number of checks written per year increased by 53 percent (or a 2½ percent compound annual growth rate), electronic payments increased by 500 percent (or an 8 percent compound annual growth rate).
+As a result, electronic payments accounted for roughly 40 percent of all retail payments other than cash in the United States in 2000 up from 15 percent in 1979. Credit card transactions today account for about half the electronic retail payments, and debit cards account for a little more than a quarter, and the remainder is primarily ACH payments.
+These trends are expected to continue.
+As part of this movement to electronic payments, the federal government encourages recipients to receive benefit payments electronically, and an increasing number of taxpayers are filing electronically.
+The Debt Collection Improvement Act of 1996 required that most Federal payments, except for tax refunds, were to be made electronically by 1999.
+While the "requirement" has been eliminated, in Fiscal Year 2001, 32.6 percent of federal tax payments were made electronically, and approximately 76 percent of all other Treasury disbursements were made electronically, representing more than 900 million payments.
+Today, the Federal Reserve operates an extensive check clearing system and an electronic automated clearinghouse (ACH) system, alongside and in competition with private check and electronic clearinghouses.
+Daily the Reserve Banks receive more than 50 million checks, which they sort on high-speed machines and route to paying banks in the local area and throughout the country.
+The Fed's check-processing operations also electronically capture payment data on all the checks and create digital images of many of the checks.
+ACH payment instructions flow from one bank computer to another via Federal Reserve computers.
+The value of these check and ACH payments are settled between banks on the Fed's books.
+Questions have been raised over the years about the rationale for a direct role for the Federal Reserve in the retail payment system.
+In 1996 and 1997, a Federal Reserve study group, under the direction of Alice Rivlin, who was then Vice Chair, considered the future role of the Fed in retail payments.
+After extensive discussions with banking industry representatives, the group concluded that the Federal Reserve should continue to provide check-clearing and ACH services and, at the same time, work with the private sector to encourage payment system innovations.
+Appendix 2: Electronic Payment Systems E-money is not the only potential type of electronic money.
+There are already important electronic elements of the payments system that have been operating since the 1970s.
+One is the automated clearinghouse (ACH) through which retail payments can be made electronically.
+This system is used primarily for pre-authorized recurring payments, such as payroll, corporate payments to vendors, social security benefits, insurance premiums, and utility payments.
+More recently, its use has expanded to include processing one-time payments, such as the checks that merchants truncate at the point-of-sale or, occasionally, as "e-checks" for Internet transactions.
+In 2000, the ACH system processed 6.9 billion transactions with a total value of $20.3 trillion.
+Two other electronic elements of the retail payments system are the debit card and automated teller machine (ATM) networks.
+The use of debit cards with personal identification numbers (PINs) for making consumer purchases is growing, and the use of signature-based cards sponsored by the major credit card companies has grown even more rapidly during the past decade.
+In 2000, there were approximately 3 billion PIN-based debit transactions with a total value of $138.2 billion and 5.3 billion signature-based debit transactions with a total value of approximately $210 billion.
+Credit cards, the largest share of electronic payments, have both a payment function and a credit function.
+Credit card payments represent approximately 50 percent of electronic payments.
+In 2000, there were approximately 15 billion credit card transactions with a total value of approximately $1.23 trillion.
+Large dollar, or wholesale, payments are processed electronically through either the Fed's Fedwire system or the private sector's Clearing House Interbank Payment System (CHIPS).
+Fedwire is available to depository institutions that have accounts with Federal Reserve Banks.
+It is used by about 9,000 depository institutions to make electronic funds transfers, on their own behalf or on behalf of their customers.
+Fedwire is especially useful for large-value and time-sensitive payments, such as payments for interbank settlement of purchases or sales of federal funds (borrowing and lending of reserves among banks), purchases and sales of securities, distribution or repayment of loans, and settlement of real estate transactions.
+The Federal Reserve began operating Fedwire through the nation's telegraph system in 1918 as an underpinning of the national money markets.
+In 2000, Fedwire, which has long-since become fully electronic, processed 108 million funds transfers, with a total value of $380 trillion and an average of $3.5 million per transaction.
+Also in 2000, CHIPS processed 45 million funds transfers with a value of $237 trillion and an average transaction value of $5.3 trillion.
+References Bagehot, Walter, Lombard Street, London: John Murray, 1873.
+Bank for International Settlements, Implications for Central Banks of the Development of Electronic Money, Basel, October 1996.
+Blinder, Alan, Statement before the Subcommittee on Domestic and International Monetary Policy of the Committee on Banking and Financial Services, U.S. House of Representative, October 11, 1995.
+Bloomfield, Arthur I., "Gold Standard," in Douglas Greenwald, ed., Encyclopedia of Economics (McGraw Hill, 1981).
+Committee on Financial Markets, Organization for Economic Cooperation and Development, Electronic Finance: Recent Trends and Future Prospects, March 2001.
+Committee on Payments and Settlement Systems, Survey of Electronic Money Developments, Basel: Bank for International Settlements, October 2001. Cooper, Richard, "The Gold Standard: Historical Facts and Future Prospects," Brookings Papers on Economic Activity, 1992, pp.
+1-45.
+Davies, Glyn, A History of Money: From Ancient Times to the Present Day, Cardiff: University of Wales Press, 1994.
+Eichengreen, Barry J., Golden Fetters: The Gold Standard and the Great Depression, 1919 - 1939, New York: Oxford University Press, 1992.
+Eichengreen, Barry J., "The Gold Standard," Ch.
+1 in Globalizing Capital: A History of the International Monetary System, Princeton, N.J.: Princeton University Press, 1996.
+Fisher, Irving, The Purchasing Power of Money, New York: The Macmillan Company, 1913.
+Freedman, Charles, Electronic Money: Monetary Policy and Seignorage Issues, Report prepared by the Steering Committee on the Monetary Policy and Seignorage Implications of Electronic Money, Basel: Bank for International Settlements, February 2000.
+Freedman, C., "Monetary Policy Implementation: Past, Present and Future--Will Electronic Money Lead to the Eventual Demise of Central Banking?
+", International Finance, June 2000, pp.
+211-27.
+Friedman, Benjamin, "The Future of Monetary Policy: The Central Bank as an Army with only a Signal Corps?"
+International Finance, 1999 Goodhardt, Charles, "Can Central Banks Survive the IT Revolution," International Finance, June 2000, pp.
+189 -209.
+King, Mervyn, "Challenges for Monetary Policy: New and Old," in New Challenges for Monetary Policy, Kansas City: Federal Reserve Bank of Kansas City, 1999.
+Meyer, Laurence H., "Payment of Interest on Reserves," Testimony before the Financial Services Subcommittee on Financial Institutions and Consumer Credit, U.S. House of Representatives, March 13, 2001.
+White, Lawrence H., "Free Banking in Scotland Before 1844," in Kevin Dowd, ed., The Experience of Free Banking, New York: Routledge.
+1992.
+White, Lawrence H., "In What Respects Will the Information Age Make Central Banks Obsolete?
+", prepared for the Cato Institute's 18th Anniversary Monetary Conference with The Economist, October 19, 2000, Washington, D.C. Williams, Jonathan, ed., Money: A History.
+New York: St. Martin's Press, 1997.
+Woodford, Michael, "Monetary Policy in an Information Economy," prepared for the Symposium on Economic Policy for the Information Economy, Federal Reserve Bank of Kansas City, August 30-September 1, 2001.
+Footnotes 1.Williams (1997) begins chapter 1 of Money: A History with the following quote from Genesis: "Then there passed the Midianites, merchant-men, and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmaelites for twenty pieces of silver, and they brought Joseph into Egypt."
+Williams notes that the transaction in this passage is quite plausible for the historical period in which it is supposed to have occurred (early second millennium, B.C.
+), but with "one vital qualification."
+He argues that the seventeenth-century English translators of the text mistakenly thought the reference was to coins ("pieces of silver").
+But, at the time, silver was used as medium of exchange as bullion, weighed for each transaction, not counted as with coins.
+Return to text 2.Bloomfield (1981) refers to the strict version of the gold standard described here as the "gold-coin standard."
+He notes that some countries operated under a variant he calls the "gold-exchange standard."
+In this case, the monetary authorities held their reserves in gold or in claims on currencies (foreign exchange) that were redeemable in gold.
+Instead of moving gold around to settle payment imbalances, they stood ready to buy or sell these currencies at fixed exchange rates, which enabled them to economize on gold and earn interest on the reserves.
+Gold coins either did not circulate at all or circulated to only a limited extent in countries operating under a gold exchange standard.
+Return to text 3.Section 102 of the Coinage Act of 1965 provides in part: "All coins and currencies of the United States, regardless of when coined or issued, shall be legal tender for all debts, public and private, public charges, taxes, duties, and dues."
+Thus when you tender U.S. currency to your creditor, you have made a legal offer to pay your debts.
+However, private businesses are not required to accept currency as a form of payment and may develop their own policies in this respect, unless state law says otherwise.
+However, the government is required to accept currency in payment of taxes and for other public charges.
+Return to text 4.I am defining money "narrowly," to include only the means of payment, not broadly to include other highly liquid deposits.
+Return to text 5.The quantity theory of money can be understood in terms of Irving Fisher's (1913) equation of exchange: MV=PQ, where M= the money supply, V= velocity (which is defined as the ratio of nominal income (PQ) to money), P = the price level, and Q= the level of real output.
+V summarizes the features of the payment system that determine how much money is needed to carry out a given volume of transactions.
+Fisher assumed V was constant and that in the long run Q would be determined by the economy's productive capacity and be independent of the money supply.
+In the face of ongoing financial innovations, V is not constant, and the link between money and prices, even in the long run, is not as precise.
+Return to text 6.
+In a strict gold standard, there is not opportunity for discretionary monetary policy.
+However, many countries did not strictly follow the gold standard "rules," and, as a result, squeezed a degree of flexibility for discretionary policy out of the gold standard in practice.
+Return to text 7.The concern that the gold standard increased the volatility of output is reinforced by Barry Eichengreen's (1992) conclusion that the gold standard contributed to the severity of the Great Depression.
+He finds, for example, that countries that were still operating under the gold standard throughout the Great Depression suffered the most, while those that were not on the gold standard in 1929 or that had quickly abandoned it by and large escaped.
+Return to text 8.The precise language of the Federal Reserve Act, as amended in 1977, is that the Federal Reserve should promote price stability and "maximum employment."
+To ensure the consistency between the two objectives, the latter objective has been interpreted as maximum "sustainable" employment or "full employment," meaning the maximum employment level sustainable without rising inflation.
+Return to text 9.
+See appendix 1 for a discussion of important recent advances in improving the efficiency of the retail payment system.
+Return to text 10.See appendix 2 for a fuller discussion of existing electronic elements in the payment system, including the automated clearing house (ACH) and credit and debit cards for retail payments, and Fedwire for large dollar or wholesale payments.
+Return to text 11.Today, open market operations are carried out partly to neutralize the effect of swings in currency demand on the level of reserves.
+In the absence of such offsetting operations, a decrease in currency demand would raise the amount of reserves and hence lower the federal funds rate.
+For example, if the demand for currency declined as a result of the spread of stored value cards, and there were no offsetting open market operations, reserves would increase as banks converted currency into deposits.
+Return to text 12.The debate was touched off by a provocative paper by Friedman (1999) which in turn provoked a series of papers on the same topic, including King (1999), Freedman (2000a and b), Goodhardt (2000), and Woodford (2001).
+Return to text 13.For some reasons, however, such a system might not work quite as well in the United States as in other countries.
+The stigma against borrowing from the Fed is entrenched in the United States.
+It is not clear whether or to what extent that stigma would be overcome with the introduction of a Lombard facility.
+Return to text 14.In recent testimony, the Federal Reserve opened the possibility that the required reserve ratio could be reduced over time and that reserve requirements could even be ultimately eliminated.
+See Meyer (2001).
+Specifically, if the Fed were allowed to offer interest on reserve balances, the demand for voluntary reserve balances to facilitate settlements across banks could rise.
+Today some banks voluntarily hold operating balances, above the level of their required reserves, to facilitate settlements.

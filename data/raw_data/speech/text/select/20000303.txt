@@ -1,0 +1,162 @@
+Structural changes of uncertain magnitude and timing have increased the difficulty in forecasting, undermined confidence in our understanding of the structure of the economy, and increased the risk of measurement error with respect to key variables.
+In my remarks, I will offer a bridge from today's discussion of structural changes to the implications for monetary policy, the subject of tomorrow's agenda.
+In my view, the most important challenges to monetary policy related to structural change in this episode arise from possible changes in aggregate supply--specifically in the non-accelerating inflation rate of unemployment (NAIRU) and in trend growth.
+The key challenge for monetary policymakers during this period, in my view, has been to allow the economy to realize the full benefits of the new possibilities while avoiding an overheated economy.
+More fundamentally, the challenge has been to adapt the strategy of monetary policy in light of the uncertainties associated with structural change.
+My focus is therefore not on structural change per se but rather on the uncertainty about key parameters likely to be heightened during a period of structural change.
+However, the key structural change during this episode--an increase in the underlying productivity growth trend--has also set in motion a complex of effects on inflation, interest rates, equity prices, and aggregate demand.
+Even if we knew the precise value of the higher productivity trend, we would likely remain uncertain about the size and persistence of many of its effects.
+As a result, adapting monetary policy to a higher trend rate of productivity growth would be a challenge, especially in an interest-rate setting regime, even if there were no uncertainty about the new underlying growth trend.
+Perspectives on Monetary Policy Strategy There are, in my view, two fundamental requirements of a prudent monetary policy.
+First, monetary policy should impose a nominal anchor, pinning down the long-run inflation rate.
+Second, monetary policy should lean against the cyclical winds.
+The second requirement contributes to the first and also to smoothing fluctuations in output around full employment.
+This view of the mission of monetary policy is consistent with both the dual mandate for the Federal Reserve in the Federal Reserve Act and with flexible inflation targeting regimes in many countries.
+The key to the practice of monetary policy is to develop a strategy for the discretionary conduct of policy that meets these requirements.
+A constructive way to describe such a strategy is to formalize it in terms of an explicit rule.
+John Taylor has offered an attractive and simple form of such a rule.
+But perhaps equally important, John's approach has encouraged a wider acceptance of the study of rules by emphasizing that the objective is to inform discretionary monetary policy decisions rather than to replace discretion by a rule.
+I find the Taylor rule attractive because it is closely aligned both with the objectives of monetary policy and with the model that governs inflation dynamics.
+That is, the rule responds directly to deviations from the Federal Reserve's objectives--price stability and an equilibrium utilization rate.
+And it incorporates a preemptive response to inflation that is consistent with models that assign an important role to unemployment or output gaps in inflation dynamics.
+However, implementing this strategy requires knowledge of the output gap and the equilibrium real interest rate--variables that appear to have been affected by structural change.
+As a result, there has been increased focus on how Taylor-type rules should be adjusted in light of the uncertainties associated with structural change.
+Uncertainty and Monetary Policy Strategy Given uncertainty about the output gap, for example, should we attenuate the response to the output gap or even entirely abandon the output gap as a guide to adjustment in monetary policy?
+Given the related difficulty in forecasting during a period of structural change, should we be less forward-looking and hence less preemptive?
+If we are less preemptive, should we compensate by being more aggressively reactive to recent inflation?
+Or should we more fundamentally change the specification of the policy rule when confronted with these uncertainties?
+For example, would we minimize the damage from mis-estimates of the NAIRU and trend growth using a nominal income rule instead of a Taylor rule?
+Or should we allow for a nonlinear instead of a linear policy response to movements in output and inflation?
+There is, of course, a well-developed literature on the effect of uncertainty on policy.
+Until recently, I viewed the literature as delineating two simple types of uncertainty, typically referred to as additive uncertainty and multiplicative or parameter uncertainty.
+Recently, the literature has focused on uncertainty associated with imperfect or noisy observation of the economy in ways that do not neatly fall into the two simple bins.
+Certainty equivalence holds in the case of simple specifications of additive uncertainty.
+When certainty equivalence holds, it is optimal for policymakers to respond to the expected values of their targets as if they held these values with complete certainty.
+In a sense, uncertainty has no effect on policy in this case, though it results in some decline of its effectiveness.
+Additive uncertainty and certainty equivalence are perhaps best seen as devices to allow the incorporation of some stochastic elements into a model without the complications that arise in more meaningful encounters with uncertainty.
+In the case of multiplicative uncertainty, the most well known result is William Brainard's conclusion that policy should be somewhat more cautious in this case.
+Assuming policymakers don't like uncertainty, they become less aggressive with their policy instruments, because bolder use of policy adds to uncertainty about outcomes.
+However, some recent evidence (Arturo Estrella, Rick Mishkin, and Glenn Rudebusch) suggests that this type of uncertainty may have a relatively modest quantitative effect on the policy outcome.
+Also, newer theoretical results, such as Tom Sargent's, question the conclusion that parameter uncertainty would make policy more cautious.
+The newer entry into the uncertainty literature relates to imperfect or noisy observation of the economy, although concern about this problem certainly predates the recent studies.
+For example, by examining the historical record at the Federal Reserve, Athanasios Orphanides uncovered substantial and persistent measurement error associated with estimates of the output gap--one of the measures we sometimes identify with "excess demand."
+This uncertainty starts by looking a lot like additive uncertainty, but its policy implications often end up similar to the Brainard result of more cautious policy, with policy response attenuated at least with respect to movements in variables about which there are noisy observations.
+The literature supporting this attenuation result has at least two strands.
+One consists of theoretical models based on signal extraction, as in the work that Eric Swanson and Lars Svensson and Michael Woodford are presenting at this conference tomorrow.
+Suppose, as in Swanson's work, that inflation depends on an unobservable variable we call "excess demand" and policy responds to the unemployment rate, which is only an imperfect indicator of "excess demand."
+Since the unemployment rate is a noisy indicator of what the policymaker is interested in--the unobservable "excess demand"--the weight the policymaker will give this variable will vary with its reliability as an indicator for excess demand.
+Specifically, the less reliable the indicator becomes, the smaller its weight will be in the optimal policy rule and the more weight will be placed on the other indicators about which uncertainty has not changed.
+In the current context, that means that the weight on the unemployment rate is decreased, while the weight on inflation is increased.
+In effect, as policy becomes less preemptive in stabilizing inflation, it becomes more aggressive in reacting to recent inflation.
+The second strand of the literature that supports the attenuation result is based on simulation results, as reflected in the work of Orphanides, Rudebusch, Frank Smets, and others.
+This work employs simple empirical models and a simple rather than an optimal rule and examines how policymakers should adjust the parameters of the simple rule in light of the uncertainty about the measurement of the output gap.
+It finds that policymakers should attenuate their response to changes in the output gap and, indeed, should move very cautiously when the confidence with which sure measures can be constructed is low.
+In contrast with the conclusions based on signal extraction models, the simulations results using simple rules generally finds that increased uncertainty about the output gap may call for attenuation in the response to both the gap variable and inflation.
+In some cases, certainty equivalence continues to hold, even with noisy observations.
+In Swanson's work, for example, optimal policy still displays certainty equivalence when policy is related to the unobservable excess demand.
+In the paper that Svensson and Woodford will present tomorrow, where the model relates inflation directly to the observed unemployment gap, certainty equivalence holds provided that the estimate of the gap is updated on the basis of all available data and the true model.
+This structure and result are also present in the work by Orphanides.
+So the question is: How general or special is the attenuation result?
+This question appears particularly relevant to the uncertainties that monetary policymakers are wrestling with today, and I am sure we will have a lot of discussion about this conclusion tomorrow.
+I suspect the result is a general one for the following reasons.
+First, I believe part of the challenge today is finding a proxy for the unobservable excess demand, especially given the divergent movements in the unemployment and capacity utilization rates.
+Therefore, in my view, Swanson's conclusion that certainty equivalence holds when policy is expressed in terms of the unobservable "excess demand" is dominated by his conclusion that attenuation holds when policy is made in terms of observables.
+Put simply, policy authorities are mortals and hence are unable to observe unobservables.
+Second, given that we don't know the true model, policymakers might look at simple rules rather than try to derive optimal rules for guidance.
+This leads me to question the practical significance of certainty equivalence, which requires that policymakers know the true model, use an optimal rule, and update their optimal estimate of the NAIRU based on the true model.
+I draw the following conclusions from this research.
+First, policymakers should continuously update their estimates of the NAIRU and the output gap, using all available information, particularly the realizations of unemployment, output, and inflation.
+Such updating will not entirely erase the problems associated with noisy observations, but it will mitigate them.
+In my view, policymakers today update their estimates of the output gap and the NAIRU more systematically and more frequently than they once did.
+This view suggests some caution in deriving the degree of attenuation from historical evidence of revisions to the NAIRU and potential output.
+Second, policymakers should adjust the aggressiveness of their response to the gaps between actual and target variables in light of the uncertainty about their measurement.
+Specifically, policymakers should attenuate their response to movements in the unemployment or output gap.
+There is an important complication in applying this principle.
+Simulation results suggest that the optimal response to the output gap in the absence of uncertainty might be considerably more aggressive than the parameter in the Taylor rule.
+The attenuation might therefore result in a response parameter closer to or lower than the Taylor rule value.
+Third, the literature is less clear about whether policymakers should offset any attenuation in the response to the output gap with a more aggressive response to movements in realized inflation.
+My instinct tells me that, as policy becomes less preemptive, it should become more aggressively reactive.
+Taking the second and third conclusions together, the relative weights on the gap variable and inflation should vary, depending on the degree of uncertainty about the output gap.
+The higher coefficient on the inflation rate might be justified by the fact that inflation has become a better indicator of the excess demand compared with the output gap when there is heightened uncertainty about the measurement of the output gap.
+The focus of the literature has been on uncertainty about the unemployment or output gap, but a shift in trend productivity growth also results in uncertainty about the equilibrium real interest rate.
+In this case, a Taylor-type rule should also incorporate some mechanism for updating the estimate of this rate.
+A Nonlinear Taylor Rule under Uncertainty about Key Parameters The literature on noisy observations has focused on adjustments in the parameters of linear Taylor-type rules.
+But I believe that a nonlinear rule may dominate a linear specification in this case.
+I have suggested a nonlinear rule that would attenuate the response to the unemployment rate in a region around the best estimate of the NAIRU but would cause a gradual return to the more aggressive marginal response appropriate under certainty equivalence once the unemployment rate had moved sufficiently below the best estimate of the NAIRU.
+Such a nonlinear rule could be justified either by nonlinearities in the economy or by a non-normal distribution of policymakers' prior beliefs about the NAIRU.
+It is certainly easy to believe that there are nonlinearities in the economy in general and with respect to the Phillips curve in particular.
+For example, to the extent that the effect on inflation becomes disproportionately larger as the unemployment or output gap increases, the policy response should become more aggressive with each incremental increase in the gap.
+However, I'm not persuaded that there is a strong case for a nonlinear Phillips curve.
+So I am inclined to emphasize the possibility of a non-normal distribution of prior beliefs about the NAIRU as the basis for a nonlinear policy rule.
+An example of a non-normal probability distribution for the NAIRU that would justify the nonlinear policy response I have suggested is one with a uniform probability distribution around the best estimate for the NAIRU.
+For example, policymakers might have a prior of 5 percent for the NAIRU, but a uniform probability distribution over the range between 4 ½ percent and 5 ½ percent for the unemployment rate.
+Because policymakers are so uncertain about the NAIRU within this interval, they might be very willing to revise their estimate of the NAIRU about in line with the observations of the unemployment rate within it.
+As a result, movements of the unemployment rate within this range would have little effect on the estimate of the unemployment gap and, therefore, on the target interest rate.
+However, if the unemployment rate moved outside this range, policymakers might assign an increasingly smaller fraction of each increment of the unemployment rate to the NAIRU as the unemployment rate moved still further from policymakers' best estimate of the NAIRU.
+In this case, the policy response is attenuated around the best estimate of the NAIRU, but it gradually becomes larger, ultimately converging to the marginal response under certainty equivalence.
+Monetary Policy's Adjustment to Uncertainty about Key Parameters Is the recent monetary policy response consistent with the lessons I have drawn from the literature on uncertainty associated with noisy observations?
+The following discussion draws on the evolution of my own thinking, as well as on the policy actions, including the announced tilts in policy and the text of the announcements that accompanied policy actions.
+I pick up this episode in the middle of 1996, when I joined the Board.
+It seems to me that initially monetary policy was consistent with a backward-looking Taylor rule (although that is sometimes difficult to distinguish from a forward-looking Taylor rule).
+We were faced with two surprises: faster-than-expected growth (resulting in a higher-than-expected estimated output gap) and lower-than-expected inflation.
+These had offsetting effects on the nominal funds rate, yielding a nearly unchanged policy until the fall of 1998 and a policy that closely tracked the Taylor rule prescription, at least allowing for updates of the estimated unemployment or output gaps along the way.
+Alternatively, this policy could be viewed as allowing a passive rise in the real rate that turned out to be well calibrated to the rise in the output gap.
+As the episode progressed, more questions were raised--both inside and outside the Federal Reserve--about the values of the NAIRU and trend growth.
+The staff continually adjusted its estimates of these parameters in response to incoming data.
+In the fall of 1998, monetary policy responded both to the financial market distress and to the abrupt change in the forecast for growth (and hence utilization rates) in the United States.
+I put more weight on the forecast and less on recent observations in the context of a Taylor rule, a stance I thought was justified by the abrupt change in the forecast and by the unusually sharp contrast between the forecast and the still-strong incoming data.
+Once it became apparent that the U.S. economy was maintaining its momentum despite weaker foreign growth and that financial markets had returned toward normal, the growing uncertainty about the output gap--reflecting the continuing contradiction of declining inflation and rising output gaps--made monetary policymakers cautious about aggressively reversing their policy actions.
+But through early 1999 we remained somewhat concerned about the degree of recovery in both financial markets and foreign economies.
+The net result was that the nominal funds rate remained constant during this phase, instead of tightening in line with the Taylor rule prescription.
+In effect, policymakers could be interpreted as attenuating their response to the unemployment and output gap in line with the theoretical models and empirical results I have talked about.
+Beginning in mid-1999, with the estimated output gap increasing further and growth shifting to a still-higher gear, policymakers became more concerned about the possibility of overheating and, hence, the risks of higher inflation.
+The tightenings in 1999 could be interpreted as unwinding the earlier easings, once the factors that motivated the easings had themselves reversed.
+Of course, every policy action needs to be defended in terms of its contribution in the future to achieving the objectives of monetary policy.
+In this spirit, I interpreted the tightening moves as preemptive attempts to limit inflation risks.
+Why did policymakers tolerate for a while further increases in the output gap, and why did they subsequently become more concerned about the inflation risks from further increases in the output gap?
+I think the change can be rationalized in terms of my discussion of the case for a nonlinear policy response under uncertainty.
+As the unemployment rate fell farther below the best estimates of the NAIRU and the risk of overheating increased, policymakers became less tolerant of continued above-trend growth.
+Monetary Policy Strategy in Light of the Uncertainties Associated with Structural Change Looking backward, I think we can find at least a hint of attenuation of the response to changes in the unemployment rate and, more recently, a hint of a nonlinear policy response.
+What does this suggest about monetary policy strategy going forward?
+The current strategy can, I believe, be viewed as a two-step process.
+The first step is, preemptively, to slow growth to trend.
+If successful, this step would limit, though not necessarily remove, the threat of overheating, if output has already advanced beyond potential.
+The second step is to respond reactively to higher inflation, should the prevailing output gap prove to be inconsistent with stable inflation.
+The first step is a continuation of the strategy underlying the recent policy tightenings.
+In my judgment, the unemployment rate has already declined to a sufficiently low level relative to my estimate of the NAIRU that we should no longer be attenuating the marginal policy response to further declines.
+But the current policy is, in my view, also an aggressive version of such a strategy because it is not a nonlinear response to further declines in the unemployment rate, but a forward-looking attempt to prevent further tightening of the labor market.
+I think that one of the subtleties of policy is sometimes being content to respond incrementally to the incoming data and sometimes becoming more aggressive and responding to forecasts.
+It is best that the policymakers are transparent about such shifts in the relative weight on the forecast in their policy decisions.
+Once growth has slowed to trend and the output gap stabilizes, monetary policy may become more reactive, given the continued uncertainty about the levels of the NAIRU and the output gap.
+That is, policymakers might be prepared to slow the economy to trend growth to avoid the risk of higher inflation associated with still-lower unemployment rates and higher output gaps, but might be reluctant to reduce the perceived output gap without evidence from realized inflation that the prevailing gap is unsustainable.
+Under such a policy, the response to inflation should, in my view, be more aggressive than it would otherwise be, for example, in the Taylor rule under certainty.
+This is an example of offsetting the attenuation in the response to the output gap with a more aggressive response to inflation realizations.
+In effect, the policy setting at trend growth and at the prevailing level of the output gap is presumed to be consistent with stable inflation.
+An increase in inflation (specifically in core inflation) would be evidence that the output gap is not in fact sustainable.
+As a result, the increase in interest rates should be the combined response to a slight increase in the estimate of the NAIRU and to an increase in the inflation rate at an unchanged estimate of the NAIRU.
+A final component of the strategy, in my view, should be that policy should tighten further--above and beyond what is presumed to be necessary to slow the economy to trend--to the extent that efforts to stabilize the output gap fall short.
+For example, let us assume that growth ultimately moves to trend but, in the interim, the continued above-trend growth increases the output gap still further.
+In response, policy should tighten incrementally, encouraging below trend-growth and hence unwinding the further increase in the output gap.
+The strategy I have described would reduce the prospects of policy responding to noise is estimates of key real-side variables in the economy and would increase the prospects of allowing the economy to realize the full benefits of the recent improvements in aggregate supply.
+However, it does risk allowing excess demand to build until it shows up in inflation and may ultimately require a more aggressive response of interest rates, if the range of attenuation does not in fact correspond to a decline in the NAIRU.
+Conclusion Structural change complicates the task of monetary policy.
+Of course, it is not difficult to put up with this additional burden when the structural change takes the form of a decline in the NAIRU and an increase in trend productivity growth.
+It would not be easy for monetary policy to turn such good fortune into poor macroeconomic performance.
+But the uncertainties about the nature and degree of structural change confront policymakers with the task of striving to realize the benefits of a decline in the NAIRU and an increase in trend growth while trying to avoid the inflationary consequences of overtaxing the new limits.
+Recent work on signal extraction models and on the implications of noisy observations provides some important guidance about how to adjust the strategy of monetary policy in the face of the new uncertainties.
+This conference provides a timely opportunity to assess what we have learned and how it might be applied to monetary policy today, as well as to point to areas that may deserve further exploration.
+References Brainard, W. "Uncertainty and the Effectiveness of Policy," American Economic Review, vol.
+57 (1967), pp.
+411-25.
+Estrella, A., and F. Mishkin.
+"Rethinking the Role of NAIRU in Monetary Policy: Implications of Model Formulation and Uncertainty," in J.B. Taylor, ed., Monetary Policy Rules.
+Chicago: NBER and University of Chicago Press, 1999.
+Orphanides, A.
+Monetary Policy Evaluation with Noisy Information, Finance and Economics Discussion Series No.1998:50.
+Washington, D.C.: Board of Governors of the Federal Reserve System, November 1998.
+Rudebusch, G. "Is the Fed Too Timid?
+Monetary Policy in an Uncertain World," mimeo, Federal Reserve Bank of San Francisco, April 1999.
+Sargent, T. "Discussion of 'Policy Rules for Open Economics' by Lawrence Ball," in J.B. Taylor, ed., Monetary Policy Rules.
+Chicago: NBER and University of Chicago Press, 1999.
+Smets, F. Output Gap Uncertainty: Does It Matter for the Taylor Rule?
+BIS Working Paper No.60, November 1998.

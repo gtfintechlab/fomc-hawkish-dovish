@@ -1,0 +1,217 @@
+Cloud State University, St.
+Cloud, Minnesota February 21, 2003 Balance Sheets and the Recovery Economic growth and prosperity are created primarily by what economists call "real" factors--the productivity of the workforce, the quantity and quality of the capital stock, the availability of land and natural resources, the state of technical knowledge, and the creativity and skills of entrepreneurs and managers.
+But extensive practical experience as well as much formal research has highlighted the crucial supporting role that financial factors play in the economy.
+An entrepreneur with a great new idea for building a better mousetrap or curing the common cold needs access to financial capital--provided, for example, by a bank or a venture capitalist--to transform that idea into a profitable commercial enterprise.
+To expand and modernize their plants and increase their staffs, most firms must turn to bond markets, stock markets, or banks to obtain the necessary financial resources.
+And without a well-functioning mortgage market, most families would not be able to buy homes, undercutting one of our most vital industries.
+In short, healthy financial conditions help a country to realize its full economic potential.
+For this reason, one of the first priorities of developing nations is often to establish a modern, well-functioning financial system.
+Just as a strong financial system promotes growth, adverse financial conditions--for example, a weak banking system grappling with nonperforming loans and insufficient capital, or firms and households whose creditworthiness has eroded because of high leverage, poor income prospects, and assets of declining value--may prevent an economy from realizing its potential.
+A striking contemporary case is that of Japan, where the financial problems of banks and corporations have contributed substantially to a decade of subpar growth.
+Likewise, the severity of the Great Depression of the 1930s was greatly increased by the near-collapse of banking and financial systems in a number of major countries, including the United States.
+Changes in financial conditions may also play a prominent role in the contraction and recovery phases of business cycles, although the specific aspects of the financial system most affected vary from cycle to cycle.1 For example, recovery from the 1990-91 recession was delayed by the "financial headwinds" arising from regional shortages of bank capital (Bernanke and Lown, 1991).
+From a financial perspective, the most striking developments of the most recent recession have been sharp declines in equity values (particularly in the high-tech sector) and a series of large, high-profile corporate bankruptcies.
+Other financial developments have been the subject of comment, however, including the rise in various indicators of financial stress among both consumer and corporate borrowers.
+Like many others, we at the Federal Reserve are trying to peer into the future and divine the shape of the U.S. economic recovery in 2003 and beyond.
+In doing so, we have necessarily had to ask: Will financial conditions--as reflected in, for example, the balance sheets and income statements of households, firms, and financial intermediaries--support a strong recovery?
+Or will financial problems in one or more sectors restrain spending and economic growth?
+These are the questions I will address today.
+To anticipate, I will conclude that--although areas of financial weakness are certainly present in the economy, as in every recession--the financial problems that currently exist do not seem sufficient to prevent an increasingly robust economic recovery during this year and next.
+In particular, households and the banking system seem to be in good financial condition for this stage of the business cycle.
+The story for firms is more mixed, with some companies and sectors under significant financial pressure.
+However, as I will discuss, many firms have taken advantage of low interest rates to restructure their balance sheets and most seem financially capable of undertaking new capital investment and of ramping up hiring.
+I will talk briefly about each of these vital sectors: households, firms, and banks.
+Before continuing, however, I should remind you that the views I express today are mine alone and do not necessarily represent the opinions of my colleagues at the Federal Reserve System or on the Federal Open Market Committee.2 The financial health of households Let's start our financial checkup of the economy with the critical household, or consumer, sector.
+Consumer spending accounts for more than two-thirds of gross domestic product (GDP), and residential investment--the construction of new homes--makes up another 4 percent or so of GDP.
+In 2002, with firms extremely reluctant to make new capital investments or build inventories, strong consumer spending was instrumental in supporting the early stages of the recovery.
+However, concerns have been raised about the ability of households to continue "shouldering the load," so to speak.
+Are consumers overburdened, financially speaking?
+Or do they have the capacity to continue to keep spending at a reasonable pace?
+According to virtually all studies of household expenditure, two principal factors affect the consumer's ability and willingness to spend.
+The first factor is real (that is, inflation-adjusted) after-tax income, also called real disposable income, and the second is real wealth.
+Taken together, disposable income (both current and expected) and wealth summarize the household's lifetime command over resources and thus are major determinants of willingness to spend.
+A principal reason for the consumer's resilience during the past two years has been continued healthy growth in real disposable income.
+Real disposable income typically declines at some point during a recession, and indeed the National Bureau of Economic Research's business cycle dating committee treats a period of decline in real income as a primary indicator that a recession has begun.
+In this latest downturn, however, unlike most recessions, real income never did stop growing; instead it rose by 1.8 percent in 2001 and by a surprisingly strong 4.5 percent in 2002.
+These increases in real income were made possible to a significant extent by tax cuts and increased transfer payments, although increases in real wages played a role as well.
+Expectations for future increases in real disposable income also appear to be relatively optimistic, perhaps reflecting the recent strong performance of labor productivity.
+For example, the most recent Blue Chip consensus forecast is for real disposable income to grow 3.1 percent in 2003 and 3.5 percent in 2004 and to average growth of 3.2 percent per year over the 2004-13 period.
+For comparison, the average growth in real disposable income between 1993 and 2000 was 3.4 percent.
+In short, there is a reasonable chance that, in terms of real income growth, the next decade should be as good for households as the nineties were.
+Although income and income prospects are positive factors for household spending, the behavior of wealth--that is, household assets minus household liabilities--has been more of a mixed bag.
+Between 1980 and 1994, the ratio of household wealth to household disposable income remained roughly stable, hovering between about 4.3 and 5.0.
+Then, beginning in 1994, the ratio of household wealth to income surged, peaking at more than 6.0 in 2000.
+In the past three years or so, however, the ratio of wealth to income has fallen back to about the 1994 level, at just under 5.0.
+As you might guess, almost all of this large swing is attributable to the recent boom and bust in the stock market.
+The aggregate value of U.S. equities, which approximately equaled household disposable income at the end of 1994, reached 2.5 times disposable income at the beginning of 2000, but then it fell back to 1.3 times disposable income by the end of 2002.
+Most of us have heard the wry joke that our 401(k)s are now 201(k)s!
+Although in dollar terms, stockholdings remain concentrated in the upper income brackets, the pain of falling stock prices during the past three years has been widely shared: More than half of all U.S. households now own at least some equities, either directly or indirectly through such vehicles as mutual funds, pension plans, variable annuities, and personal trusts (Aizcorbe, Kennickell, and Moore, 2003).
+For some households at least, losses in stock portfolios have been mitigated by significant increases in the value of residential real estate.
+These rises in house prices have led some to worry about the possibility of a "bubble" in housing prices and the associated risks of further losses in household wealth, should this putative bubble pop.
+Let me digress for a moment to address this issue.
+Although bubbles in any asset are notoriously hard to spot in advance (if they were obvious to the naked eye, they would not arise in the first place), in my judgment there is today little evidence of serious or systematic overvaluation in the U.S. residential housing market.
+In particular, for the nation as a whole, the rise in house prices appears to have closely tracked economic fundamentals--including rising household incomes, high rates of household formation, and historically low mortgage interest rates.
+Also, the U.S. housing market is not a single market but many markets that are highly dispersed geographically across dozens of disparate standard metropolitan statistical areas, or SMSAs.
+Experience suggests that house prices across SMSAs are rather imperfectly correlated and that price reversals, when they occur, are typically localized.
+Moreover, the ratio of the value of mortgage loans outstanding to home values in the aggregate has been roughly constant over the past few years, and most homeowners have substantial equity in their homes; thus even if moderate declines in house prices were to occur, they would not impose financial hardship on the great majority of households.
+Returning to the main thread of the discussion, I now address two related questions: First, how has the overall decline in wealth associated with the fall in stock prices affected consumer spending thus far, and second, how is it likely to affect spending in the next year or so?
+Statistical analyses by economists have found that a one-dollar change in wealth leads to a permanent change in consumption spending, in the same direction, of about three to five cents--the so-called "wealth effect."
+The full effect of a major shift in wealth on consumption spending appears to take place over a period of one to three years.
+Fed staff estimates are that wealth effects held back the growth in consumption spending by about 1-1/2 percentage points last year, relative to what it would have been otherwise.
+Assuming no further major declines in the ratio of wealth to income, this drag should diminish a bit, to about 1 percent this year and ½ percent next year.
+In short, the largest part of the negative wealth effect created by the fall in stock prices is probably behind us.
+One might wish to dig deeper, of course.
+For example, disaggregating wealth into asset and liability components is sometimes useful.
+Breaking out household liabilities reveals that aggregate household debt and the debt service burden--that is, interest on debt measured relative to disposable income--rose to fairly high levels in recent years.
+For example, the ratio of debt service to disposable income peaked at 14.4 percent in the fourth quarter of 2001, although it fell somewhat in 2002 as disposable income rose and interest rates declined.
+A few other indicators of financial pressures have also risen.
+For example, personal bankruptcies rose 5 percent between 2001 and 2002 to hit a new high, and have continued to be elevated.
+Do these indicators imply that the consumer is financially overextended?
+Broadly, I think the answer is "no."
+In this regard, two items are worth stressing: first, the composition of the recent surge in consumer debt and, second, the role of the recent growth of the subprime credit market.
+Regarding the composition of debt, a key fact is that most of the recent expansion in consumer debt has been in the form of mortgage debt.
+Indeed, in 2002 new mortgage debt accounted for close to 90 percent of the overall growth in household debt.
+This recent growth in mortgage debt continues a marked trend.
+Between 1992 and 2002, mortgage debt of households rose from 59 percent of aggregate disposable income to 74 percent of disposable income.
+Why has mortgage debt risen by so much in the past decade?
+One very positive factor is the secular increase in U.S. homeownership rates.3 Because of rising incomes, increased rates of family formation, and the expansion of so-called subprime mortgage lending, more people have chosen to buy homes rather than to rent, increasing the value of mortgages outstanding.
+A second factor is favorable tax treatment: The 1986 tax reform act, which retained the tax-deductible status of mortgage interest but eliminated it for other types of loans, spurred a substitution of mortgage debt for consumer credit (for example, through the popularization of home equity lines of credit).
+Finally, most recently, mortgage debt has been powerfully boosted by the low mortgage interest rates available in the past couple of years.
+These low rates have stimulated record amounts of new home construction, which has not only permitted a growing number of Americans the opportunity for home ownership but has played a vital role in maintaining aggregate demand throughout the recession and recovery--not only in the construction industry but in ancillary industries such as home furnishings.
+As you may know, low mortgage rates have not only stimulated home construction but have also induced an enormous wave of refinancing of existing mortgages.
+According to a recent article in the Federal Reserve Bulletin (Canner, Dynan, and Passmore, 2002), 10 percent of U.S. households surveyed in the first half of 2002 reported having refinanced a home mortgage since the beginning of 2001.
+Refinancing has allowed homeowners both to take advantage of lower rates to reduce their monthly payments and, in many cases, to "extract" some of the built-up equity in their homes.
+According to the Fed study, the average amount of home equity extracted in cash-out transactions in 2001 and early 2002 was $27,000.
+Refinancing activity surged further in the second half of 2002: According to one set of Federal Reserve staff estimates, mortgage refinancings totaled $400 billion in the third quarter of 2002 and more than $550 billion in the fourth quarter of 2002, after averaging $325 billion (quarterly rate) over the preceding six quarters.
+From a macroeconomic point of view the refinancing phenomenon has very likely been a supportive factor.
+The precise effect is difficult to identify, since we cannot know for sure how much of the spending financed by equity cash-outs might have taken place anyway.
+Fairly generous assumptions about the propensity of households to devote equity cash-outs to new spending suggest that refinancings may have boosted annualized real consumption growth between ¼ and ½ percentage point in the second half of 2002, the period of maximum impact.
+A fairly substantial gap still remains between the current level of mortgage interest rates and the average level of interest on the outstanding stock of mortgages, suggesting that refinancings should continue at a brisk pace in the early part of this year.
+As refinancings slow later this year, however, they will create a slight drag on consumption growth relative to 2002.
+An important aspect of the surge in mortgage refinancings is that, on the whole, they have probably improved rather than worsened the average financial condition of the household sector.
+Notably, a substantial portion of equity extraction, probably about 25 percent, has been used to pay down more expensive, nondeductible consumer credit (such as credit card debt or auto loans), with additional funds used to make purchases (such as cars or tuition) that would otherwise have been financed by more expensive and less tax-favored credit.
+In short, the consumer has taken advantage of an unusual opportunity to do some balance sheet restructuring.
+This restructuring has not come at the cost of a dangerous increase in leverage.
+As already noted, loan-to-value ratios for home mortgages have barely changed in recent years.
+Moreover, analysis by members of the Federal Reserve staff suggests that the great bulk of cashed-out equity has been taken out by older, long-tenure homeowners who have gone into the transaction with high levels of home equity (often 100 percent equity) and have retained substantial equity after the transaction.
+In summary, a deeper analysis shows that much of the apparent recent increase in the household sector's debt burden reflects a combination of increased home ownership, partial liquidation of the home equity of long-tenure households, and balance-sheet restructuring by households toward a more tax-efficient and collateralized form of debt, that is, mortgage debt.
+For many families this restructuring has resulted in lower leverage and payments, rather than the reverse.
+I conclude, therefore, that the rise in consumer debt for the most part does not presage financial problems in the household sector.
+What then about the rise in bankruptcy rates and similar indicators?
+Bankruptcy rates are hard to forecast, as they vary over time with changes in law and financial practice; moreover, they themselves do not tend to forecast broad economic conditions very well.
+One partial explanation for their recent increase, as I intimated earlier, may be the expansion earlier in the decade of the so-called subprime lending market, in which lenders sought to make loans to households whose credit histories excluded them from the mainstream market.
+Although some legitimate concerns have been raised about lending abuses in this market, overall the expansion of the subprime market is a positive development, opening up as it does new opportunities for borrowers previously excluded from credit markets.
+Not unexpectedly, however, lenders, borrowers, and regulators have faced a significant learning curve as this market has developed, and perhaps we should not be surprised that some of the loans made in this market in a period of strong economic growth have become distressed in a period of recession and rising unemployment.
+Moreover, default rates tend to increase with loan age, so that even absent a macroeconomic downturn it would not be entirely unexpected to see a rise in defaults as the subprime loans made in the nineties begin to age.
+We hope that, as the market evolves and becomes more sophisticated, its sensitivity to cyclical fluctuations will decline, which--among other things--should reduce the cost of credit to subprime borrowers.
+Broadly speaking, the bottom line is that the consumer seems in pretty good shape for this stage of the cycle.
+As I indicated, I expect that household spending will continue into 2003 and 2004 at a pace consistent with a strengthening recovery.
+Probably the main risk to this forecast is not the state of household balance sheets but the state of the labor market, as a significant increase in unemployment might lead consumers to retrench.
+At this point, however, the labor market, while not nearly as robust as we would wish, appears at least to be stable.
+The financial health of firms If consumers have done their part and more for the economic recovery, so far the dog that hasn't barked is the business sector.
+True, firms have distinguished themselves in at least one way: The increases in productivity we have seen in the nonfarm business sector over the past two years have been truly remarkable, particularly in light of the fact that productivity growth is typically weak during cyclical declines.
+Clearly, managers have dedicated themselves to producing more with less and to raising profits by cutting costs.
+In another, critical sense, however, the business sector has not yet played its normal role in the recovery.
+Atypically for the post-World War II period, the current recession began as a slowdown in the business sector, particularly in capital investment, rather than as a retrenchment in household spending.
+Now, two years after the recession began, firms continue to be highly reluctant to expand operations--either by investing in new capital equipment or by adding to their workforces.
+What's going on?
+Let's start by discussing the fundamentals underlying firms' investment and hiring, and then ask whether financial conditions can support the fundamentals.
+As I speak, the enormous uncertainty regarding the situation in Iraq and other foreign hot spots still continues to cast a heavy pall on firms' planning for the future.
+That uncertainty will have to be significantly reduced, I think, before we can get a real sense of the strength of the underlying economic forces driving the nascent recovery.
+However, a number of factors suggest that investment and hiring should pick up in the months ahead.
+For some time now, the business sector has been meeting a growing final demand without adding capital or employees.
+Presumably, businesses cannot indefinitely squeeze increasing productivity out of fixed resources and eventually will need to invest and add workers to meet the demand for their output.
+Moreover, much of the investment done during the 1990s boom was in relatively short-lived equipment, which may soon need replacement.
+Inventories are also currently lean and will likely need replenishment if final demand grows as forecast.
+Other fundamental factors support the idea that investment will gradually increase this year.
+The cost of capital remains low for most firms, reflecting the attractive long-term interest rates for borrowers with good prospects and the tax benefits to investing in equipment created by the partial expensing provision.
+Cash flows are improving.
+Ongoing technological changes imply that adding the newest generation of equipment should make possible still greater gains in productivity.
+Indeed, aggregate investment is currently well below what standard econometric models would predict, an effect that I attribute primarily to an unusually high level of uncertainty about geopolitical events and, to a lesser extent, about the likely near-term evolution of the economy.
+If that interpretation is correct, then, as uncertainty diminishes, investment should increase.
+One argument against this relatively upbeat assessment is the view that a "capital overhang" remains from the high investment rates of the late 1990s.
+I will leave a fuller discussion of the putative overhang problem to another time, saying here only that I believe that whatever significant overhang remains is localized in a few industries--possible examples being telecommunications, commercial aircraft, and commercial structures--and is probably not a major negative factor for investment in the broader economy at this juncture.
+Accepting provisionally that (pending some reduction in uncertainty) economic fundamentals support a near-term expansion of capital investment and hiring, we now ask: Do firms have the financial capacity to undertake substantial expansion?
+From a financial perspective, the nonfinancial corporate sector presents a mixed picture, one distinctly weaker than that of the household sector.
+We have already mentioned the poor performance of the stock market.
+Corporate profitability has recently shown some signs of recovery; however, at about 8 percent of GDP last quarter, nonfinancial corporate profits are still quite low relative to output, considerably below their 1997 peak of about 13 percent of GDP.4 The general weakness in the economy has, of course, played a role in holding down profits, but, ironically, the stock market's decline itself has also been a factor.
+By some estimates, because of asset-price declines, the defined-benefit pension plans of U.S. firms swung from being about $250 billion overfunded to being $200 billion to $250 billion underfunded between 2000 and 2002, necessitating large contributions to these plans that must be charged against operating profits.5 As these losses on pension fund assets are by convention amortized over time, firms' pension contributions will depress reported profits at least for the next couple of years (and, incidentally, raise reported compensation to workers).
+I think one should note, however, that from a purely economic point of view, losses associated with pension fund commitments should be treated as bygones and thus in principle should not affect the willingness of firms to undertake new capital investments, except to the extent that they affect firms' ability to finance those investments.
+Besides weak profits and the large decline in stock prices, the other obvious negative for the corporate sector is the evident deterioration in aggregate credit quality.
+The average spreads between yields on risky corporate bonds, such as BBB-rated bonds or high-yield corporate debt, and the yields on safe debt of comparable maturities are currently at elevated levels, equal to or above those seen in the 1990-91 recession.
+Many companies have had their debt downgraded by ratings agencies, and corporate bond defaults during 2002 amounted to 3.2 percent of the value of bonds outstanding, a rate above the 1991 peak in default rates.
+Although these statistics are certainly worrisome, a closer examination reveals several mitigating factors.
+First, though average spreads of risky corporate debt remain high on an absolute basis, they have recently improved substantially.
+Spreads on BBB-rated corporate debt have come down nearly one-third since their October 2002 peak, and high-yield spreads are down about one-fifth.
+Risk as measured by credit default swaps has also come down substantially over the same period.
+At least some of the recent marked improvement in perceived default risk and market liquidity must arise from increasing confidence among investors that we have seen the last of the major accounting scandals that rocked the markets during the summer.
+If more time passes without new revelations of corporate wrongdoing and if the generally high level of risk aversion in markets continues to moderate (perhaps with decreasing geopolitical risks), we should see further declines in corporate yield spreads over this year.
+A second mitigating factor is that much of the measured deterioration in aggregate credit quality is actually concentrated in a few seriously distressed sectors, such as telecommunications, airlines, and energy trading firms, with a few high-profile cases making significant contributions.
+In particular, yield spreads in the telecom, cable, and media industries reached dizzying heights in mid-2002, though recently these spreads have fallen quite markedly.
+Remarkably, for the entire year 2002, telecom firms accounted for 55 percent of corporate bond defaults, by value.
+A similar story, though not quite so extreme, applies to energy and utility firms.
+When these most troubled sectors are excluded, the recent behavior of financial indicators for the corporate sector looks far less unusual.
+Though less evident than the headline statistics about earnings and stock prices, there is also a positive financial story to tell about corporate America over the past couple of years.
+Specifically, as in the case of households, the recent low-interest-rate environment has allowed firm managers to restructure their balance sheets in ways that have made them financially better prepared to expand their businesses when they judge that the time is right.
+First, by borrowing at lower rates and refinancing old loans, firms have been able to significantly reduce their current interest charges.
+The ratio of interest expenses to outstanding debt for nonfinancial firms indicates that the average interest rate has fallen about 1-1/4 percentage points from its recent high at year-end 2000, to under 6 percent on average.
+With lower interest rates and higher profits, the average ratio of firms' interest expense to cash flow improved considerably in 2002, to about 18 percent (compared with a peak of 27 percent in 1991).
+Second, firms have also restructured by substituting long-term debt for short-term obligations, resulting in a sharp decline in the average ratio of current debt to assets.
+Average liquidity also improved markedly in 2002, reflecting declines in short-term liabilities, higher cash flows, and reduced payouts to shareholders.
+Finally, on net, firms took on little new debt last year.
+The bottom line from this restructuring activity is healthier balance sheets for many firms.
+So, are firms financially able to fund new investment and new hiring, if and when they decide that expansion is justified by the fundamentals?
+I think that, for the most part, the answer is "yes."
+Most firms have ample cash and liquid assets to fund investment internally, and they have access to the capital markets as needed to fund investment externally.
+Though risk premiums remain elevated and lenders are selective, both the corporate bond markets and bank lending windows are "open" to reasonably sound borrowers.
+Indeed, over the past year gross issuance--even of speculative-grade bonds--continued at a moderate pace.
+The possible exceptions to the presumption that funds are available are the weakest firms in the most troubled sectors.
+These firms are generally also the ones with the poorest earnings prospects and the most severe problems of excess capacity, and hence they are likely the firms with the least promising opportunities for investment.
+The financial strength of the banking sector Finally, a brief word about banks.
+The availability of funds to households and firms depends, of course, on the financial stability of lenders as well as that of borrowers.
+Historically, there have been numerous occasions in which financial problems in the banking system have slowed economic growth, such as in the already-mentioned case of Japan.
+How has the U.S. commercial banking sector held up in the latest recession?
+Despite some high-profile lawsuits and regulatory settlements arising from the accounting and stock analyst scandals of last summer, the answer in this case is "quite well."
+Following the setbacks of the early 1990s, over the past decade U.S. commercial banks have maintained consistently high profits and returns on assets through their efforts to contain costs, to increase their sources of non-interest income (such as fee income), and to maintain high standards of credit quality.
+Loan-loss performance has improved steadily, not only because of better credit evaluation techniques but also because banks have learned how to manage credit risks better, by making much greater use of secondary loan markets, derivative instruments such as credit default swaps, and other tools.
+To a remarkable degree, the profitability and liquidity of the 1990s has been maintained through the past two years of economic weakness.6 Some of the factors supporting profitability in the banking sector since 2000 include large inflows of cheap core deposits (as households have retreated from riskier investments), booming business in mortgage originations and refinancings, strong demand for credit cards, and capital gains on securities holdings.
+Capital adequacy in the banking sector remains good; it has been boosted both by increased retained earnings and by banks' shifts into assets with relatively low risk weights, such as government securities and residential mortgages.
+Loan-loss experience in the past two years has worsened slightly; credit quality has been a particular concern in the corporate sector, with a number of high-profile bankruptcies affecting a number of large banks.
+In contrast, however, delinquency and charge-off rates on commercial real estate loans declined in 2002 from already low levels, despite negative trends in market rents and vacancy rates.
+The solid performance of commercial real estate loans contrasts sharply with the difficulties experienced in the late 1980s and early 1990s and may reflect, in part, tighter lending standards by banks, which were reported in the Federal Reserve's Senior Loan Officer Survey as early as 1998.
+Similarly, delinquency rates on residential mortgages held by banks declined in 2002, and charge-off rates on these loans remained near zero.
+Delinquency rates on credit card loans were flat in 2002, but remain fairly elevated, partly because of the expansion of subprime lending discussed earlier.
+Overall, the ratio of banks' bad-loan reserves to delinquent loans remains high, reflecting strong earnings that have allowed banks to step up their rate of provisioning for future defaults.
+Moreover, banks' ample capital provides a further important cushion against possible losses.
+Flush with deposits and with high levels of capital, most banks seem willing and able to lend, a situation much different from the period following the 1990-91 recession.
+The Fed's Senior Loan Officer Survey has found very little tendency toward tightening of loan standards for consumers, either in regard to residential mortgages or other types of consumer loans; and, as I have already discussed, the demand for mortgage loans and home equity loans has been exceptionally strong.
+Business lending, by contrast, has been weak.
+In part, reduced business lending may reflect some tightening of lending standards, particularly by larger banks and for riskier borrowers.7 Probably the more important factor depressing commercial and industrial lending, however, is the weak demand for business credit.
+As I have stressed, firms have displayed unusual reluctance to invest or to hire additional workers, and many of those who do wish to expand operations have been able to do so out of internal funds rather than go to banks or capital markets.
+Other firms have taken advantage of low long-term interest rates to substitute long-term financing for bank loans and other short-term liabilities.
+Reduced merger and acquisition activity has also reduced business demand for bank loans.
+As for the rest of this year and next year, the banking system seems well positioned to continue to support household spending and to accommodate increased credit demands by financially sound business borrowers.
+Conclusion My objective today was to assess whether there exist financial constraints that might impede the developing recovery in the U.S. economy.
+My sense is that the household and banking sectors are in good financial shape for this stage in the business cycle; and that, though financial problems exist, they should not in themselves restrain the building economic recovery.
+The corporate sector presents a more mixed picture.
+Equity prices have fallen significantly in the past three years, profits have made only a hesitant recovery, and aggregate indicators of financial stress remain at elevated levels.
+Still, closer examination of the corporate sector yields some grounds for optimism.
+Two points in particular deserve re-stating: First, many of the financial problems of the corporate sector are concentrated in just a few industries; excluding these industries, corporate financial conditions are not especially weak for this stage of the cycle.
+Second, and less widely recognized, many firms have used the past two years to significantly restructure their balance sheets, reduce their interest burdens, and increase liquidity.
+At such time that they feel they are ready to begin hiring and investing again, these firms should be financially capable of doing so.
+Thank you for your attention.
+Footnotes 1.
+Bernanke, Gertler, and Gilchrist (2000) provide a formal quantitative model in which endogenous variation in balance sheet quality--the so-called financial accelerator--enhances the amplitude of business cycles.
+Return to text 2.
+I would like to thank Bill Bassett, Karen Dynan, Paul Harrison, and Karen Pence for their excellent assistance in the preparation of this talk.
+Return to text 3.
+According to the Bureau of the Census, the share of U.S. households that owned homes rose from 64.0 percent in 1990 to 67.9 percent in 2002, even as the population grew substantially.
+Return to text 4.
+Measured on a National Income and Product Accounts (NIPA) basis.
+The NIPA series provides the most comprehensive measure of profits for U.S. corporations.
+It is also defined to be consistent with GDP as a measure of output.
+Return to text 5.
+Additionally, many firms will be required to change accounting assumptions about expected rates of return in their pension plans, which may raise future contributions further.
+Return to text 6.
+Bassett and Carlson (2002) discuss bank performance in 2001.
+Return to text 7.

@@ -1,0 +1,119 @@
+I would like to thank Standard and Poor's for the invitation to speak today at this impressive conference.
+I am quite pleased to be able to offer some remarks on Basel II implementation in the United States.
+I am even more pleased that in today's speech I can now talk about U.S. implementation of Basel II in the present tense, since within the past ten days each of the U.S. banking agencies approved the U.S. final rule for Basel II.
+While work on Basel II--for both bankers and supervisors--is far from complete, adoption of the Basel II rule is nevertheless a very important accomplishment.
+I would also like to offer thanks and extend congratulations to all the parties involved in the successful adoption of Basel II.
+This includes staff at each of the U.S. banking agencies, who worked tirelessly and with incredible determination and patience to see this rulemaking to its completion, as well as the principals at the other agencies, who worked very hard to find common ground and develop a rule that would serve the public interest and satisfy each of our agencies' objectives.
+Of course, I would also like to thank the many industry participants--some of whom may be here today--who spent considerable time and effort providing valuable comments on our proposals over the past several years.
+Your contributions made the final rule a much better product.
+Developing Basel II was like running a marathon, and even though some of us may have hit the wall and wanted to drop out at mile 20, we persevered and successfully reached the finish line.
+I am proud of what we have all accomplished.
+Completion of the U.S.
+Final RuleIn the banking industry, most of the innovation and evolution in risk-management practices occur on a continuous basis, generally in small steps.
+Updates to banking regulations, on the other hand, typically occur in large jumps.
+As was the case with Basel I nearly twenty years ago, I consider the adoption of Basel II to be a major step forward in banking regulation in the United States.
+Importantly, we are also working on an additional proposal, known as the standardized approach, to offer non-core banks a set of regulatory capital requirements that have more risk sensitivity than the current Basel I rules, but less complexity than the advanced approaches in the Basel II final rule.
+One of the main reasons we were able to complete the Basel II final rule successfully, I believe, was our renewed focus on the fundamental rationale for developing Basel II: enhancing the safety and soundness of the U.S. banking system by providing more-risk-sensitive capital requirements for our largest, most complex banks and improving risk management practices at those institutions.
+Moreover, we endorsed the notion that the U.S. rule would foster international consistency and be less burdensome on banks if it adhered more closely to the international Basel II framework finalized in 2006--and if it also aligned as closely as possible with what banks themselves were doing for risk management.
+These were principles that I emphasized as I represented the Federal Reserve in interagency discussions, and I believe my counterparts shared these views.
+Perhaps our ability to refocus stemmed from a fresh set of comments received on our proposals, our renewed commitment to getting things right, and the infusion of some new approaches brought to the table.
+Regardless, we of course owe a huge debt of gratitude to our predecessors, who broke the hard ground in the long U.S. rulemaking process.
+Reasons for Adopting Basel III would like to return briefly to our reasons for adopting Basel II, since it is useful to remember why we undertook so much effort to see it through.
+While the existing Basel I capital regime was a major step forward when introduced in 1988, it has become outdated for large, complex banking organizations.
+Retaining Basel I for these institutions would have widened the gap between their regulatory capital requirements and their actual risk profiles, generating further incentives for regulatory arbitrage to take advantage of that gap.
+In contrast to the simple risk-bucketing approach of Basel I, in which exposures to obligors of varying creditworthiness were given the same capital treatment, the new Basel II rules require banks to distinguish among the credit quality of individual borrowers.
+For example, under Basel I almost all first-lien residential mortgage exposures are subject to the same risk weight regardless of the borrower's creditworthiness, whereas Basel II provides for a more refined differentiation of low- versus high-credit-quality mortgage borrowers.
+Likewise, Basel I is inadequate for dealing with capital markets transactions such as highly structured asset-backed securities.
+Basel II, on the other hand, provides a much more refined approach by requiring banks to hold capital commensurate with the actual risks of such transactions.
+Recent market events highlight why a robust and independent assessment of risk on the part of banks is so important.
+The enhanced risk-sensitivity of the Basel II advanced approaches creates positive incentives for banks to lend to more-creditworthy counterparties and to lend against good collateral, by requiring banks to hold more capital against higher-risk exposures.
+The Federal Reserve's role as the nation's central bank reinforces our belief in the importance of maintaining prudent and risk-sensitive capital requirements for financial institutions.
+Financial stability is enhanced when banks' regulatory capital measures adequately reflect risk, as well as when banks continually improve their risk-management practices.
+Since the Basel II regime is far superior to the current Basel I regime in aligning regulatory capital requirements with risk and fostering continual improvements in risk management for our largest and most complex banking organizations, I believe it will contribute to a more resilient financial system as a whole.
+In addition, let me emphasize that the Basel II regulatory capital framework establishes a more coherent relationship between regulatory measures of capital adequacy and the day-to-day risk management conducted by banks.
+That is, it builds on risk-management tools, such as credit-risk rating systems and economic capital, that are already in use at sophisticated financial institutions.
+As a result, Basel II will be better able than the current system to adapt over time to innovations in banking and financial markets and will reduce incentives for arbitrage that arise from the gap between what the regulators require and what sound economic risk management requires.
+Moving Ahead with Basel II ImplementationNext Steps for SupervisorsI used the analogy of running a marathon earlier, describing how the final rule represented a finish line of sorts for the U.S. banking agencies.
+Alas, I'm afraid that we cannot rest because in fact we have simply passed the baton from the runner in the first stage of the race--rule finalization--to the runner in the next stage--implementation.
+Successful implementation of Basel II will require additional hard work and determination.
+As most of you know, the agencies have for some time been preparing for Basel II implementation by working to integrate Basel II into our day-to-day supervisory processes.
+With completion of the final rule, we must now be ready to pace ourselves through another long, intensive, but ultimately rewarding, effort.
+The agencies are already working hard to foster consistency across banks and across the agencies.
+We are building upon the cooperation already established through our work on the final rule and our efforts to prepare supervisory staff for the Basel II qualification process.
+Our supervisory staffs have been meeting regularly for some time to align qualification approaches, iron out any differences, and ensure that each bank subject to Basel II is treated appropriately and consistently.
+We also remain attentive to the way in which the framework is implemented in other countries, so that we can minimize the burden placed on banks by having to meet multiple national rules.
+I hope our decision to align the definition of default for wholesale exposures more closely with the definition used internationally, for example, sends a positive signal about our intentions to increase cross-border consistency and reduce unnecessary burdens that can distract banks from one of the fundamental goals of Basel II--improving risk management.
+Of course, the agencies need to move ahead with Basel II implementation carefully and with our eyes wide open.
+The advanced approaches are a significant change from our current, time-tested, risk-based capital rules, and we have therefore embedded the transitional safeguards set forth in the agencies' 2006 proposal into the U.S. Basel II rule.
+These safeguards will help ensure that capital levels remain strong and that we have sufficient opportunity to assess the framework before full implementation.
+Importantly, we also are retaining the leverage ratio and our existing prompt-corrective-action framework.
+As noted in the agencies' July press release, we are committed to a robust and transparent study of the framework during the transitional phase to assess its overall effectiveness, and we will address any material deficiencies that we identify.
+This study should include active and meaningful dialogue among the agencies, the industry, market participants, Congress, and other interested parties.
+This is consistent with my view that whenever regulators undertake a major regulatory change, a careful and thorough empirical review of the effectiveness of the regulation is extremely valuable.
+Such a review can help assess whether the goals for the rule are being met, whether the benefits of the rule exceed the costs, and how the rule can be made more effective and less burdensome.
+In addition to this study, during and after the transitional phase we will be relying upon ongoing, detailed analyses to evaluate continuously the results of the new framework in operation.
+A primary objective of this ongoing review will be to ensure that capital levels remain prudent.
+For example, we will respond if we see unreasonable declines in capital requirements at individual institutions that do not appear to be supported by either those banks' own internal capital-adequacy assessments or by our supervisory view of those institutions' risks and how well those risks are managed.
+As has long been the case with our capital rules, we expect that adjustments to the capital framework will be made over time to address industry and market developments, any potential shortcomings in the rule identified in our review and analysis during implementation, and new and improved techniques of risk management.
+Next Steps for BankersCompletion of the Basel II rulemaking process means that banks adopting the new rule must also gear up their efforts.
+Of course we recognize the substantial work that bankers have undertaken over the past several years to prepare themselves for Basel II.
+But, understandably, they have had to wait for completion of the final rule to see how the agencies would articulate certain requirements--some of them quite detailed.
+Therefore, it would seem that bankers need to read the rule very carefully and take time to understand how their own bank will be able to meet its requirements.
+As stated in the final rule, and as the U.S. agencies articulated several years ago, the key instrument in the qualification process is a bank's implementation plan.
+This written implementation plan, approved by a bank's board of directors, must describe in detail how the bank complies, or intends to comply, with the rule's qualification requirements.
+Specifically, the plan must describe how the bank intends to address the gaps it has identified between its existing practices and the qualification requirements set forth in the rule for the advanced approaches, covering all consolidated subsidiaries.
+The implementation plan also must include objective, measurable milestones--including delivery dates--and a target date when the bank expects its advanced approaches to be fully operational.
+The bank must establish and maintain a comprehensive and sound planning and governance process to oversee implementation efforts, and must demonstrate to its supervisor that it meets the qualification requirements.
+Banks subject to the final rule on a mandatory basis, the core banks, have up to six months to adopt an implementation plan.
+Of course, banks may always submit their plans earlier, and I understand that a number of core banks are working toward that goal.
+This deadline for submission of plans by core banks is intended to prevent delays in starting implementation efforts.
+However, the final rule provides flexibility and gives banks adopting Basel II ample time to fully meet the qualification requirements once they have adopted an implementation plan.
+Specifically, a bank's plan may include developmental goals for full implementation for up to thirty-six months from the effective date of the final rule.
+As supervisors, we will take the qualification requirements seriously, expecting banks to meet both the letter and the spirit of those requirements.
+Thus, we strongly recommend that banks undertake their own sober and frank appraisal of their ability to meet the final rule.
+Systems development can take time, for example, and it is important to make sure that these systems function appropriately.
+While I believe that expeditious adoption of Basel II will have significant benefits, it is of the utmost importance that the implementation not be rushed but be undertaken thoughtfully and deliberately.
+After a bank has submitted a credible implementation plan to its primary supervisor, it must then begin a parallel run lasting at least four consecutive calendar quarters, during which the bank's supervisor must determine the bank's compliance with the qualification requirements to be satisfactory.
+During the parallel run, a bank remains subject to the Basel I risk-based capital rules for all applicable regulatory and supervisory purposes, but the bank also must calculate its capital ratios using the advanced approaches and report pertinent information to its supervisor.
+It is only upon notification from its supervisor that a bank can move into a series of three transitional periods (each lasting at least one year), during which the cumulative reductions of the bank's risk-based capital requirements are limited.
+Supervisory approval is needed to move to a subsequent transitional floor-level and then to move from the transitional floors to stand-alone use of the Basel II rules.
+Importantly, as bankers move forward with implementation, they should not lose sight of Pillars 2 and 3, which may ultimately be more important to the success of Basel II than Pillar 1, which has received the bulk of the attention so far.
+Under Pillar 2, banks are required to have an internal process--which will be subject to rigorous supervisory review--for ensuring that they are holding enough overall capital to support their entire risk profile.
+Thus, Pillar 2 should be a key area of focus for banks implementing Basel II.
+The preamble to the final rule describes the steps that supervisors will take under Pillar 2, namely that supervisors will take into account a bank's internal capital-adequacy assessment process--known as its ICAAP--as well as the bank's compliance with the minimum capital requirements set forth in this rule, and all other relevant information.
+The agencies expect banks to implement and continually update the fundamental elements of a sound ICAAP--identifying and measuring material risks, setting capital-adequacy goals that relate to risk, and ensuring the integrity of internal capital-adequacy assessments.
+A bank is expected to hold adequate capital against all of its material risks, particularly those risks not covered or not adequately quantified in the risk-based capital requirements--such as liquidity risk or interest-rate risk in the banking book.
+In general, a bank's ICAAP should reflect an appropriate level of conservatism to account for uncertainty in risk identification, risk mitigation or control, quantitative processes, and any use of modeling.
+In most cases, this conservatism will result in levels of capital or capital ratios above minimum regulatory requirements to be regarded as adequate.
+Pillar 3 is a key mechanism for banks to communicate to market participants about their risk profiles, their associated levels of capital, and the manner in which they are meeting the requirements in the final rule.
+In addition to providing information about its various components of regulatory capital and its minimum capital requirements and ratios, a bank must disclose information about how it measures and manages credit risk, operational risk, equity risk, and interest-rate risk in non-trading activities, as well as the range of risks related to securitizations.
+For example, a bank has to describe the operation of its credit risk rating system as well as the data used in parameter estimates for credit losses.
+Some of these disclosure requirements will be new for banks but others are already required by, or are consistent with, existing U.S. generally accepted accounting principles, Securities and Exchange Commission disclosure requirements, or bank regulatory reporting requirements.
+As a strong believer in market discipline and the importance of information in market transactions, I believe Pillar 3 will improve bank disclosures about risk profiles and enhance discussions between bankers and market participants about risk-management practices.
+Of course, while we want to promote consistency, we must also allow bankers some flexibility in meeting the Basel II requirements and permit a reasonable amount of diversity of practices across banking organizations.
+Such flexibility will allow banks to use and readily improve their existing risk-measurement and risk-management practices.
+More to the point, as supervisors we should actively encourage such improvements.
+As we move forward, we encourage banks to raise issues as they try to meet the rule's requirements; in other words, we want banks to maintain an ongoing dialogue about implementation with their supervisors, who stand ready to answer questions and assist banks in interpreting Basel II requirements.
+Standardized Approach Proposal for Non-Core Banks Before concluding, I would like to discuss the agencies' additional plans for revising capital rules, specifically plans for those banks not subject to the advanced approaches of Basel II.
+Some commentators on the earlier Basel II and Basel IA proposals voiced concerns that adoption of a new capital framework for the largest and most complex U.S. banking organizations could disadvantage other U.S. banking organizations, particularly the smaller banks.
+We understand that banks not required to adopt Basel II are facing a choice about whether to opt-in to the advanced approaches.
+Some of these banks may be sophisticated institutions that exhibit sound risk management but do not quite meet the criteria to be core banks.
+The agencies recognize that such institutions should be afforded an alternative for more-risk-sensitive capital requirements, but one that is not as complex as the advanced approaches.
+In this regard, the agencies have responded by committing to proposing a "standardized" approach instead of Basel IA.
+Specifically, the staffs are currently working on a notice of proposed rulemaking that would implement some of the simpler approaches for both credit risk and operational risk from the Basel II framework--referred to as the standardized approach.
+The proposal is being developed as an optional risk-based capital framework for all banking organizations that are not required to adopt the advanced approaches.
+We also expect to retain our existing Basel I-based regulatory capital framework for those smaller banks that would prefer to remain under that regime.
+The proposal for the standardized approach will take into consideration relevant commentary received in response to the Basel IA and Basel II proposed rules that were published in late 2006 and should, in essence, modernize the Basel I-based rules without imposing a substantial implementation burden.
+Among other things, the proposal is being designed both to provide greater differentiation across corporate exposures based on borrowers' underlying credit quality and to recognize a broader spectrum of credit-risk mitigation techniques.
+The agencies are also considering how to implement Pillars 2 and 3 of the Basel II framework in the standardized proposal in a manner that is commensurate with banks' complexity and risk profiles.
+Our goal is to realize the benefits of these two pillars without imposing excessive regulatory burden and without creating competitive advantages or disadvantages for different types of banks.
+I expect this proposal to be presented to the Board for consideration within the next several months, and I encourage all interested parties to review and comment on this proposal once it has been issued.
+We are keenly aware of the need for capital requirements to make sense from the standpoint of both safety-and-soundness and competitiveness; we recognize that a one-size-fits-all approach is probably not the best for our banking system, in light of our wide range of institutions.
+We remain sensitive to the principle that if we have multiple regulatory capital frameworks, they must work together to improve the safety and soundness of our entire banking system without artificially creating competitive inequalities.
+Our goal is to have the standardized approach ready for implementation concurrently with the start of the first Basel II transition phase.
+ConclusionThe U.S. banking agencies have reached an important milestone in adopting the final rule for Basel II.
+Our focus on the fundamentals of improving risk management consistent with safety and soundness, and on international consistency, has been key to achieving this success.
+Obviously, however, effective implementation of Basel II is as important as, if not more important than, the rulemaking process.
+It is imperative that we observe how the new rule works in practice--assessing carefully both its advantages and its limitations.
+I am confident that both banking organizations and the supervisory community are up to the challenge.
+It is also important to modernize the existing Basel I-based regulatory capital framework to improve the risk sensitivity of capital requirements at the non-core banks, by offering a standardized option.

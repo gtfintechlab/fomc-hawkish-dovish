@@ -1,0 +1,45 @@
+As the payment system continues to evolve rapidly and the volume of digital assets continues to grow, it is critical to ensure that we keep both the benefits and risks of digital assets in the policy conversation, including the implications for America's role in the global economy and its place in the world.
+My speech today focuses on exactly this issue and on an aspect of the digital asset world that is now the center of domestic and international attentionâ€”central bank digital currencies (CBDCs) and how they relate to the substantial international role of the U.S. dollar.1 In January 2022, the Federal Reserve Board published a discussion paper on CBDCs to foster a broad and transparent public dialogue, including the potential benefits and risks of a U.S. CBDC.2 To date, no decisions have been made by the Board on whether to move forward with a CBDC.
+But my views are well known.
+As I have said before, I am highly skeptical of whether there is a compelling need for the Fed to create a digital currency.3 I am not a national security expert.
+But one area where economics, CBDCs, and national security dovetail is the role of the dollar.
+Advocates for creating a U.S. CBDC often assert how it is important to the long-term status of the dollar, particularly if other major jurisdictions adopt a CBDC.
+I disagree.
+As I will discuss, the underlying reasons for why the dollar is the dominant currency have little to do with technology, and I believe the introduction of a CBDC would not affect those underlying reasons.
+I offer this view, again, in the spirit of dialogue, knowing how important these issues are, and I am very happy to engage in vigorous debate regarding my view.
+I remain open to the arguments advanced by others in this space.
+The Role of the U.S. Dollar After World War II and the creation of the Bretton Woods system, the U.S. dollar served as the central currency for the international monetary system.
+Other countries agreed to keep the exchange value of their currencies fixed to the dollar, and eventually, countries came to settle international balances in dollars.4 That role has continued long after the Bretton Woods system dissolved.
+By any measure, the dollar is the dominant global currencyâ€”for funding markets, foreign exchange transactions, and invoicing.
+It also is the world's predominant reserve currency.5 In terms of the dollar's reserve currency status, 60 percent of disclosed official foreign reserves are held in dollars, far surpassing the shares of other currencies, with the majority of these dollar reserves held in safe and liquid U.S. Treasury securities.6 Even in a world of largely floating exchange rates, many countries either implicitly or explicitly anchor their currencies to the dollar; together, these countries account for about half of world gross domestic product.7 The dollar is by far the dominant currency for international trade.
+Apart from intra-European trade, dollar invoicing is used in more than three-fourths of global trade, including 96 percent of trade in the Americas.8 Approximately 60 percent of international and foreign currency liabilitiesâ€”international banking loans and deposits as well as international debt securitiesâ€”are denominated in dollars.
+And the dollar remains the single most widely used currency in foreign exchange transactions.
+Why does this matter to the United States?
+As indicated in the Board's CBDC discussion paper, the dollar's international role lowers transaction and borrowing costs for U.S. households, businesses, and government.
+It widens the pool of creditors and investors for U.S. investments.
+It may insulate the U.S. economy from shocks from abroad.9 It also allows the United States to influence standards for the global monetary system.10 The dollar's role doesn't only benefit the United States.
+The dollar serves as a safe, stable, and dependable form of money around the world.
+It serves as a reliable common denominator for global trade and a dependable settlement instrument for cross-border payments.
+In the process, it reduces the cost of transferring capital and smooths the world of global payments, including for households and businesses outside of America.11 For example, consider the dollar's role in foreign exchange markets.
+To make a foreign exchange transaction between two lightly traded currencies, it is often less expensive to trade the first currency with the dollar, and then to trade the dollar with the second currency, rather than to trade the two currencies directly.
+The factors driving the dollar's role as a reserve currency are well researched and well demonstrated, including the depth and liquidity of U.S. financial markets, the size and openness of the U.S. economy, and international trust in U.S. institutions and the rule of law.
+We must keep these factors in mind in any debate regarding the long-term importance of the dollar.
+CBDCs and the U.S. Dollar Threats to the U.S. dollar's international dominance are numerous, including shifting geopolitical alliances and pressure to invoice in alternative currencies, as well as deeper and more open foreign financial markets.
+My focus today is on just one supposed threatâ€”namely, the purported shifting payments landscape as a result of the growth of digital assets, particularly CBDCs.
+Recent years have seen a number of changes to the payments system, from instant interbank payments to mobile payment services to a shift toward nonbank payment providers.
+Some of this shift has been through the rise in digital assets and include cryptocurrencies and other crypto-assets such as stablecoins, which have money-like characteristics.
+They also include CBDCs.
+A CBDC is a digital instrument that is a liability of the central bank.
+That is all it isâ€”a direct liability of a central bank.
+What major security gap exists that a CBDC, and only a CBDC, can close?
+What would be the effect of CBDCs and other digital money-like instruments on the role of the dollar?
+There are many ways to approach this question, but I want to do so by using a simple example: What is it about a CBDC that would make a non-U.S. company, engaging in international financial transactions, more or less likely to use the dollar?
+This example, of course, focuses on the reasons for why contracts are generally invoiced in U.S. dollars, which is just one feature of the dollar's international role.
+To me, however, it simplifies the overall question regarding the effect of a CBDC on the dollar's dominance.
+We can break down this question into three others: First, would a foreign CBDC affect this non-U.S. company's decisions?
+Second, would a U.S. CBDC affect them?
+And, third, while stablecoins are not CBDCs, how would a privately issued stablecoin have a different effect?
+Foreign CBDCs First, I will consider the emergence of one or more foreign CBDCs in a world with no U.S. CBDC.
+What would be the effect on the non-U.S. company?
+Let's assume the company acts pragmatically; it would only move away from using the U.S. dollar if it is better off by doing so.
+The discussion around this question usually tends to focus on the potential technological advantages of a CBDC and doesn't grapple with the underlying reasons for the dominance of the dollar.

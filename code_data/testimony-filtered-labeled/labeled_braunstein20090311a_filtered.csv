@@ -1,8 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"in response to specific problems we saw in the subprime market, some restrictions in the final rules apply only to higher-priced mortgage loans.",LABEL_1,0.7137374877929688
-1,"rules for higher-priced loansthe board's hoepa rules add four key protections for a newly defined category of ""higher-priced mortgage loans.""",LABEL_1,0.9865326881408691
-2,"concerning the four key protections for higher-priced mortgage loans: first, lenders are prohibited from making any higher-priced mortgage loan without regard to the borrower's ability to repay the obligation from income and assets other than the home.",LABEL_1,0.971455454826355
-3,"for example, for an adjustable rate mortgage (arm) with a discounted initial interest rate that is fixed for five years, the lender determines repayment ability using the scheduled payment in the sixth and seventh years, which is based on the fully indexed rate.",LABEL_2,0.948415219783783
-4,"for other higher-priced loans, a prepayment penalty cannot last for more than two years.",LABEL_0,0.8262324333190918
-5,"for example, an advertisement for a variable rate loan may not use the word ""fixed"" in referring to the interest rate or payment unless there is an equally prominent statement of the time period for which the rate or payment is fixed.",LABEL_2,0.9716174602508545
-6,3915 and the board's hoepa rules both set minimum underwriting standards that are designed to ensure creditors verify and document borrowers' ability to repay higher-priced loans.,LABEL_1,0.991058349609375

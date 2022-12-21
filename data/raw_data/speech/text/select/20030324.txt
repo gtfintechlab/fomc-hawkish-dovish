@@ -1,0 +1,181 @@
+"* Introduction* Marvin Goodfriend answers the question in his title with a "yes" and, in the process, has provided us with an excellent foundation for a discussion of inflation targeting in the United States.
+I completely agree with the fundamental premise that low inflation is an indispensable long-run focus of the central bank.
+Low and stable rates of inflation allow economies to function more effectively, and having inflation expectations anchored facilitates countercyclical monetary policy and improves the trade-off between output and inflation that policymakers face.
+For the most part, in a regime of flexible exchange rates, the trend of prices over the long run should be under the control of the central bank, and exercising that control to achieve something approximating price stability over time is the way the central bank can best contribute to the long-run prosperity of its economy.
+Marvin builds his case in the first part of his paper by recounting the experience of the United States over the last 30 years or so.
+I have no quarrel with the overall arc of his story.1 The rise of inflation from the mid-1960s through the 1970s was highly damaging to the performance of the U.S. economy and could have been stopped and reversed much earlier than it was by a determined monetary policy better focused on price stability.
+The restoration of price stability has taken time and entailed considerable cost to output in the 1979-82 period and, perhaps, some constraint on policy flexibility thereafter.
+A number of factors have contributed to the reestablishment of price stability, but surely an essential ingredient has been the attention that the Federal Reserve has paid to long-run trends in inflation and inflation expectations since 1979.
+We are better off now that price stability has been restored and economic agents expect inflation to stay low and stable.
+Moreover, this stability has been accomplished in the context of a highly successful policy strategy that, by anticipating emerging imbalances and actively leaning against shocks to the financial sector and the real economy, has contributed to two extraordinarily long expansions since 1980.
+Marvin argues that to extend this successful policy record the United States should adopt an explicit, numerical target range for inflation and the Federal Reserve should strive to keep inflation in or near that range.2 However, in my opinion, adopting such an inflation target would not be an effective means for locking in past policy practices.
+I do not believe that inflation targeting, in any meaningful sense of that term, describes what the Federal Reserve has been doing over the last twenty years, or even in recent years, when Marvin claims that policy has evolved into "implicit" inflation targeting.
+Instead, the success of U.S. monetary policy has in large part derived from its ability to adapt to changing conditions--a flexibility that likely has benefited from the absence of an inflation target.
+Nonetheless, the U.S. economy has enjoyed most of the benefits ascribed to inflation targeting in terms of anchoring inflation expectations as well as inflation itself.
+It is the focus on long-term price stability that has fostered these benefits, and I believe that this focus will not be at risk with a change in personnel at the Federal Reserve.
+Considering these points, I am skeptical that for the United States the potential benefits of changing to a regime of inflation targeting would outweigh its possible costs.
+Let me develop my argument.
+The Federal Reserve has not been practicing inflation targeting.
+One difficulty in assessing whether the United States has been practicing inflation targeting is in defining the term.
+For more than 20 years, the Federal Reserve has conducted policy with one eye on fostering long-run price stability over time.
+The law specifies price stability as one of the Federal Reserve's long-term objectives; its importance to economic performance has been supported by theory and experience; and hence achieving this objective has been a key influence, together with promoting maximum sustainable output, on monetary policy actions.
+The Federal Reserve has stated publicly many times that it considers long-run price stability both its unique responsibility and the way it can contribute to maximum growth and employment over time.3 Although some might view this policy approach as inflation targeting, this would be a very weak definition.
+I believe that inflation targeting, as commonly understood and recommended, involves more substance and constraint than this allegiance to achieving price stability over the long run.
+As Marvin's discussion suggests, there are two key elements in inflation targeting.
+First is the announcement of an explicit, numerical inflation target.
+The numerical goal is important because putting a number on the objective gives it weight and importance and a focus for accountability--it becomes an explicit yardstick against which to measure performance.
+The second element is a priority for price stability in monetary policy.
+Such a priority usually implies a presumption that the central bank should act to keep inflation at the target (or in the range) within some time horizon--that is, that the central bank would not deliberately allow inflation to deviate from the target and would return it to the target promptly if shocks pushed it away.
+I recognize that flexible inflation-targeting frameworks can be derived from structures that minimize the variability of output around potential as well as inflation around its target.
+But inflation targeting is not usually framed that way in practice.
+In inflation-targeting countries, either the central bank law or the agreement between the central bank and the government usually is stated so that inflation is expected to be held at the target.
+To be sure, inflation targeting has not meant that countries have ignored output fluctuations.
+In many circumstances, especially in response to demand shocks, no conflict exists between stabilizing inflation around its objective and stabilizing output around potential.
+And some deviations from target, of course, are inevitable and permitted; indeed, inflation targeting has become more flexible over time in many countries.
+But in practice, the presumption still is that the numerical goal will be hit consistently, with the burden of proof on any deviations--and that presumption must be part of the mindset of the policymaker; in most inflation-targeting countries the periodic reports of the central banks are called inflation reports, not inflation and output variability reports.
+The attitude of policymakers is understandable.
+Inflation targeting is usually accompanied by elements of accountability linked directly to the inflation target--and to that target alone--and that shapes much of the transparency associated with this framework.
+The Federal Reserve is not an inflation targeter in the obvious sense that it has not had an announced inflation target.
+Nonetheless, it is interesting to ask whether the Federal Reserve has been an "implicit inflation targeter," as Marvin and others have asserted.
+That is, has Federal Reserve policy been consistent with the second aspect of the definition above--a priority for placing inflation at its "implicit" target and keeping it there?
+In my judgment, it has not.
+This is clearest for policy between 1983 and the mid-1990s, as Marvin acknowledges.
+Over this period, inflation remained above most definitions of price stability, and the Federal Reserve was not actively seeking to reduce it.
+This can be seen by the FOMC's forecasts for inflation reported in the semiannual Monetary Policy Report to the Congress, shown in figure 1 (3 KB PDF).
+Inflation forecasts for the subsequent year were mostly at or above those for the current year, even though inflation was running well in excess of any reasonable notion of price stability.
+An inflation-targeting central bank presumably would have been setting policy so that inflation forecasts were moving toward the "implicit" price stability target.
+The Federal Reserve leaned against potential upticks in inflation, but it had no commitment to achieving price stability in a particular time frame; the priority seemed to be on realizing "maximum sustainable growth" so long as inflation was not rising from moderate levels.
+Since the mid-1990s, inflation has been low and stable as measured by the core PCE chain price index--within the range that Marvin has designated as price stability.
+However, the level and stability of core PCE inflation since 1997 is as much a consequence of unexpected developments as of deliberate policy choices.
+Importantly, the speedup in productivity growth, even after it was detected, seemed to have greater disinflationary force than anticipated; the broad-based strength of the dollar and the weakness in global commodity prices that accompanied the East Asian crisis that began in 1997 put substantial downward pressure on prices in the United States; and more recently, the recession and resulting output gap have provided another unexpected source of disinflation.
+Notably, as can be seen in figure 1, in 1997, 1998, and 1999, the FOMC was projecting an increase in inflation the following year from levels already to the high side of Marvin's implicit target.4 And in 2000 and 2001, the FOMC's projections of total PCE inflation for the year ahead exceeded the 2 percent upper end of Marvin's range (see figure 1).
+Still, the FOMC took no action to bring inflation down; tightening from mid-1999 through mid-2000 was seen as necessary to forestall a sustained acceleration in prices.
+It was not until July 2002 that the FOMC projected inflation to remain within the range Marvin takes to be its implicit target.5 In addition, at few key junctures in the past five years, the Federal Reserve exercised a more flexible monetary policy than inflation targeting probably would have suggested or allowed.
+The first occurred in reaction to the "seizing up" of financial markets that followed the Russian debt default in the late summer of 1998.
+Although forecasts were marked down at this time, the easing was faster and larger than would have been suggested by Taylor-type rules based on our past pattern of behavior and incorporating an implicit inflation target.
+In effect, to protect against the potential for a really bad outcome for markets and economic activity, the policymakers raised the most likely outcome for inflation--or at least skewed the risks toward the possibility that inflation would pick up.
+Similarly, in 2001, easing was unusually aggressive, even before September 11, as the extent of the demand shock gradually revealed itself.
+To be sure, when one looks back, the outcomes in both instances in terms of stable inflation were not any different than inflation targeting would have sought.
+At issue, however, is whether the FOMC would have responded so aggressively to these shocks if it had been constrained by an inflation target.
+It is a matter of how the central bank is likely to weigh the risks and rewards of various courses of action--where it takes its chances.
+My sense is that, given the stress on hitting inflation objectives, the pressures of an inflation target would have constrained flexibility that in the end turned out to be useful.
+Marvin argues that such flexibility is not critical.
+His argument is that, in an RBC model with flexible wages, policymakers face no trade-off between stabilizing inflation and the output gap, which obviously bolsters the case for inflation targeting.
+Unfortunately, though, in thinking about appropriate policy frameworks, we have to leave the comfort of his model for the real world.
+I think it would be naive to assume that circumstances would not arise in which the central bank faced short-term choices between inflation stability and economic or financial stability.
+The U.S. economy has realized the benefits of inflation targeting for anchoring inflation and inflation expectations without its constraints.
+Inflation targeting would benefit the United States if it would help tie down inflation expectations or reduce errors in private-sector inflation forecasts.
+The former would give the central bank more scope to lean against economic imbalances and result in a more favorable trade-off between changes in inflation and in the output gap than otherwise.
+Better forecasts would produce more efficient allocation of resources as private agents made decisions about spending and saving, and it would reduce arbitrary redistributions of wealth from inflation surprises.
+In general, however, the empirical evidence does not support a conclusion that shifting to inflation targeting would produce such benefits for the United States.6 In some countries, the adoption of inflation targeting (and the granting of central bank independence, which often occurs at the same time) has helped to reduce inflation expectations.
+But the countries that have taken this step are often those with a history of high and variable inflation, and it has tended to bring their inflation experience more closely into line with other countries.
+Since the late 1970s, inflation and inflation expectations have come down in inflation targeting and noninflation targeting countries alike.
+Studies do not tend to show that inflation-targeting countries have gained an advantage relative to other countries in anchoring inflation expectations and reducing sacrifice ratios or in reducing the variance of inflation forecast errors.
+Apparently, credibility and predictability flow primarily from achieving low inflation, not from the presence of an announced target.
+As a consequence, inflation expectations seem to be as well anchored and as accurate in the United States as they are in inflation-targeting countries, despite the absence of a numerical inflation target or specification of "price stability" here.
+To investigate further whether inflation targeting helps tie down longer-term inflation expectations, I took a closer look at the sensitivity of some measures of such expectations to economic developments in the United States and several other countries.
+One such proxy is the survey by Consensus Economics, which records the forecasts of economists and other market commentators over various horizons.
+To measure how firmly long-term inflation expectations are held, I looked at the extent to which long-term forecasts react to changes in short-term forecasts.
+The three columns of table 1 (21 KB PDF) give the variation in short- and long-term forecasts and the ratio of the two.
+Column 2 clearly shows that long-term forecasts have varied no more--and perhaps slightly less--in the United States than in inflation-targeting countries, and column three indicates that they are also no more sensitive to variations in short-term forecasts in the United States.
+Apparently, long-term inflation expectations are as well anchored against short-term inflation variations in the United States as in inflation-targeting countries; variations in short-term inflation forecasts do not appear to pass through to long-term forecasts in any of these countries, whatever the policy regime.
+Figure 2 (81 KB PDF) shows another proxy for changes in inflation expectations--movements in long-term forward rates derived from the government securities yield curve.
+These are of particular interest since they are related to the "inflation scares" identified by Marvin, which he defined by sizable increases in long-term interest rates.
+However, long-term rates are influenced to some extent by anticipated near-term movements in short-term rates, which may not be related to longer-term inflation expectations, and so the use of a long-term forward rate in this context is preferred.
+Even so, these rates, like those used by Marvin, can vary with changes in longer-term expected real rates, resulting for example from changes in the longer-term prospects for fiscal policy or the trend rate of growth in productivity.
+Thus, these measures are, at best, a rough proxy of inflation expectations.7 Since 1990, long-term forward rates in the United States have risen substantially on two occasions--in 1994 and in 1999.
+Marvin identifies the former as an inflation scare but, for unexplained reasons, not the latter, though the change in the forward rate is no smaller in the second case.
+In 1994, forward rates rose in all the countries shown.
+However, inflation targeting was just beginning in Sweden and the United Kingdom and was not well established or, arguably, credible.
+In 1999, forward rates also rose in the United States in response to strong economic growth and high levels of resource utilization.
+But they increased as much in Canada and Sweden, both inflation targeters.
+The exception is the United Kingdom, whose forward rates have been quite stable in recent years.
+The behavior of forward rates in 2001 is also instructive.
+The Federal Reserve eased aggressively--more so than other central banks and more so than might have been expected based on its past pattern of actions.
+Nonetheless, forward rates behaved similarly in all the countries shown.
+Judging from this proxy, even without an explicit inflation target, the Federal Reserve could strongly counter a perceived demand shock without significant adverse consequences for expectations.
+An inflation-targeting framework is not necessary to lock in low inflation in the future.
+So far I have argued that inflation targeting would not simply replicate existing policy practices, it would not buy credibility or clarity about future inflation prospects, and it would likely reduce the flexibility that has so importantly contributed to the success of U.S. monetary policy.
+One could still argue that inflation targeting might be worthwhile, though, if its added constraints on central bank actions were needed to forestall a tendency to backslide toward higher inflation in the future.
+However, a number of features in the policy environment in the United States already provide considerable protection against such a development.
+First, the importance of long-run price stability and its appropriateness as an essential long-run goal of monetary policy are widely recognized and acknowledged.
+Certainly, this objective for the central bank and the limits of its ability to affect long-term trends in income and employment are agreed on within the academic and central banking communities.
+More important, the key role of price stability is also recognized and supported by the public and its elected representatives.
+Price stability has been a legislated long-term goal of the Federal Reserve since 1977; notably, it was retained in 1978 when the Humphrey-Hawkins Act was passed, despite that legislation's overall emphasis on high employment.
+The contrast between the economic difficulties of the 1970s and the successes of the 1980s and 1990s likely has contributed to public understanding and support for low inflation.
+Even when politicians call for easier monetary policy, they usually frame their recommendation in the context that such a policy would still be consistent with keeping inflation low.
+Second, the Federal Reserve Act has established an institutional structure for making monetary policy that militates against forgetting or ignoring the lessons of theory and experience or the requirements of the law.
+Policy is made by a large and diverse committee within a central bank that has substantial insulation from short-term political pressures.
+In addition, owing to the length of governors' terms and the nature of the Reserve Bank presidents' positions, there has been considerable continuity in the makeup of the FOMC over the years, which has been echoed on the staff level as well.
+To be sure, the FOMC has tended to operate by consensus under the leadership of the Chairman, who exerts a strong influence on the nature of the consensus.
+But it is a committee, and deference to a new Chairman is not likely to be as strong as it has become for the existing Chairman, given his record of extraordinary judgment and success over the years.
+Indeed, a leader whose recommendations seem to be leading to higher inflation would likely lose influence rapidly.
+Marvin foreshadows and supports his argument that inflation targeting is needed to sustain good inflation performance across leadership shifts by raising the possibility that the "inflation scare" of 1987 was linked to the change in Chairmen that year and emphasizing how long the subsequent rise in inflation and inflation expectations took to unwind.
+Inflation and inflation expectations did rise in 1987, reversing a decline in 1986.
+Oil and import prices escalated rapidly, likely triggering memories of similar circumstances in the 1970s, and import prices were expected to continue to increase for some time as the dollar corrected its earlier overvaluation.
+In addition, strong demand was boosting capital and labor utilization rates.8 Consequently, a number of reasons existed for a rise in inflation expectations that were not linked to the leadership change.
+Moreover, as Marvin notes, inflation expectations had increased a few years earlier and were to do so again in 1989 and 1994, when leadership change was not in the winds.
+The rise in underlying inflation and inflation expectations was far smaller and less persistent in the late 1980s than Marvin implies.
+He cites a jump of more than 2 percentage points from 1986 to 1990 in total PCE inflation, but this increase was greatly influenced by movements in oil prices, which fell in 1986 and spiked higher in 1990 because of the invasion of Kuwait.
+The acceleration in core PCE inflation, the measure Marvin recommends be targeted, was one-third as much--from 3-3/4 to 4-1/2 percent--from 1986 to 1990.
+The ten-year CPI forecasts of Blue Chip respondents rose from 4 percent in 1986 to 4-1/2 percent in 1987 but by the beginning of 1990 had reversed that uptick.
+Of course, erosion of the weight that the Federal Reserve has placed on long-term price stability is not impossible and would have adverse consequences for inflation and economic performance.
+Inflation targeting with an explicit political mandate to give long-term price stability priority would make erosion much less likely.
+But it is not very likely in any event, and I would be hesitant to incur the constraints of inflation targeting until they seemed more necessary.
+Even if I favored inflation targeting, I still would have serious reservations about the way Marvin seems to propose it be implemented.
+Marvin notes several levels on which the Federal Reserve could "make inflation targeting explicit," differing by their specificity and whether they would hold in the short run as well as in the long run.
+They range from declaring that inflation in the long run should never vary much on a sustained basis from recent levels to announcing a specific numerical target range for core PCE inflation of 1 to 2 percent and setting policy so that realized inflation would be expected to remain in that range almost always.
+To implement explicit targeting, he argues that the Federal Reserve could obtain "congressional acceptance" of a priority for low long-term inflation by offering in exchange to participate in policy forums that would allow outside commentators to voice their opinions and interact with Federal Reserve officials.
+However, this trade is not likely to have great appeal to congressional skeptics, since they already have the authority to get testimony and analysis from outside observers and critics of monetary policy.
+Indeed, such hearings used to be a regular feature in the weeks leading up to semiannual monetary policy hearings.
+More fundamental is the issue of "congressional acceptance."
+Marvin does not specify what he means by this, which is problematic because it could encompass a variety of interactions between the central bank and the legislature.
+In my view, because the Federal Reserve, appropriately, has limited "goal independence," it has little scope for announcing a numerical inflation target that would tend to constrain its actions without explicit authorization and direction from new legislation.
+The place of an independent central bank in a democratic society is finely balanced.
+In exchange for insulation from political pressures, the central bank agrees to strive for the objectives it has been given by the elected representatives.
+The Federal Reserve has already exercised considerable discretion in interpreting its "dual mandate" of price stability and maximum employment in ways it has made clear in its testimonies and reports.
+In the absence of legislation, going appreciably further in the direction of prioritizing price stability, as would be implied by a numerical target that was expected to be achieved most of the time, would be potentially damaging to the democratic balance and would risk a backlash.
+The Congress has had several opportunities over the past 15 years to consider bills proposed by legislators to make price stability the primary goal of the Federal Reserve, and it has not passed them nor even given them serious consideration.
+This statement does not necessarily imply that the Congress would oppose such a step if it were asked again--especially if the Federal Reserve were strongly behind the proposal.
+But it does reinforce the view that it should be asked, and actions to adopt and give priority to numerical inflation targets should await explicit legislative authorization.
+Moreover, acting without specific authorization would abrogate one of the important advantages of inflation targeting as practiced in most countries--it requires the elected representatives to discuss and reach a conclusion on just what they can and should expect from the central bank.
+This point does not mean that there are no steps the Federal Reserve might consider taking within its current mandate to clarify its views on price stability.
+One such step might be similar to the first level in Marvin's list--discussing in a general way how recent inflation rates relate to the central bank's view of price stability.
+A more specific approach would be to announce a numerical range of a particular index that might be expected to prevail over the long run, but with no change in the Federal Reserve's relative priorities on price stability and growth.9 To avoid the constraints of inflation targeting, the Federal Reserve would need to be clear that the range did not constitute a firm or presumptive target for inflation over the short- or intermediate-term and that the range could change in response to shifting assessments of the costs and benefits of particular inflation rates, to improvements in measurement techniques, and to readings from other price indexes that seemed to be conveying different information about underlying price trends.
+However, I have some concerns about even such a "soft" inflation target.
+Placing any number on an inflation objective--however much it would be surrounded with caveats--has the potential to constrain policy in some circumstances in which it would not be desirable to do so.
+That is, the quantification itself might tend to create a presumption that deviations from the long-run goal would need to be resisted more than would be consistent with the policy flexibility exercised over the past 20 years.
+And I would be hesitant to proceed down this path without some kind of explicit congressional acceptance.
+The Congress might in fact perceive that the weight on its legislated goals had been changed, without its approval.
+If, partly as a consequence, it demanded that the Federal Reserve also quantify "maximum employment" or "maximum sustainable growth" and give weight to those specifications, policy could be adversely affected.
+As we have seen so graphically in the last several years, assessments of the level and growth of potential GDP must be revised frequently, and of course these variables are not under the control of the central bank.
+As I noted earlier, markets seem no less certain of the path for inflation in the United States than in many of those countries with numerical inflation targets, and so the gains from putting numbers on "price stability" are likely to be limited.. Footnotes *"Inflation Targeting in the United States?"
+is a paper presented by Marvin Goodfriend, Senior Vice President, Federal Reserve Bank of Richmond, at the same conference.
+It is available on the National Bureau of Economic Research web site at http://www.nber.org/books/inflation-targeting/goodfriend2-25-03.pdf.
+Return to text **The views are my own and do not necessarily represent the views of other members of the Federal Open Market Committee, the Board, or its staff.
+Brian Sack of the Board’s staff contributed importantly to this comment.
+Return to text 1.
+However, I do take issue with his descriptions of several episodes over the period.
+In particular, see my critique of his discussion of the 1986-90 period.
+Return to text 2.
+He does not recommend "inflation forecast targeting" in which the cental bank, to achieve an inflation target, aims at the intermediate objective of an explicit, published inflation forecast.
+Consequently, I have not commented on this aspect of many inflation-targeting frameworks.
+Return to text 3.
+In this regard, the Federal Reserve has been very clear on many occasions about its emphasis on achieving long-run price stability.
+For example, in his monetary policy testimony of July 1992, Chairman Greenspan said, "As I have often noted to this committee, the most important contribution the Federal Reserve can make to encouraging the highest sustainable growth the U.S. economy can deliver over time is to provide a backdrop of reasonably stable prices on average for business and household decisionmaking" (Greenspan, 1992, pp.
+675-6).
+Nearly every monetary policy testimony (and many reports) for the past 15 years contains similar sentiments and reasoning.
+Consequently, I do not agree with Marvin's characterization of the Federal Reserve's communication of the importance or priority it places on its long-run price stability objective as "don't ask, don't tell"; the Federal Reserve has in fact been telling the Congress and the public that price stability is its most important long-run responsibility and intention.
+Return to text 4.
+The level comparisons to Marvin's target in those years are admittedly ambiguous.
+Until 2000, the FOMC was projecting total CPI inflation, not core PCE price movements.
+Return to text 5.
+Of course, the FOMC might have had higher (implicit) targets than Marvin is suggesting, but a policy regime in which one cannot discern the implicit inflation target over several years is probably not inflation targeting.
+Return to text 6.
+See for example, Bernanke, Laubach, Mishkin, and Posen (1999) and Ball and Sheridan (forthcoming in this volume).
+All empirical work on this subject is handicapped by the relatively recent advent of inflation targeting and, as a consequence, the paucity of episodes in which to differentiate behaviors in targeting and nontargeting economies.
+Return to text 7.
+This comparison is also handicapped by the paucity of countries for which yield curves are sufficiently detailed to derive forward rates.
+Return to text 8.
+See Economic Report of the President (1988), pp.
+26-28.

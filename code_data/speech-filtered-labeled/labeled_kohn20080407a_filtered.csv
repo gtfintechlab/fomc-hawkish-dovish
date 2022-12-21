@@ -1,6 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"although that building served the seattle area's needs well for more than fifty years, service demands on the branch have evolved and outstripped the capabilities of the old building and site.",LABEL_1,0.7727539539337158
-1,"clearly, the safety of our employees and operations is a high priority that has become a greater focus in the post-9/11 era, but the building is more than just secure: its design supports our mission, which is to promote a stable and efficient financial system and to conduct a monetary policy that fosters maximum employment and stable prices.",LABEL_0,0.9940963983535767
-2,and these meetings will support our broader monetary policy mission.,LABEL_0,0.8901125192642212
-3,"monetary policy is directed by the federal open market committee, or fomc, which consists of the board of governors of the federal reserve system and the reserve bank presidents.",LABEL_2,0.9919160604476929
-4,"it comes equipped with state-of-the-art cash handling systems, including an automated storage vault to further improve operational efficiency, and its currency operations are designed to be scalable to address changing demands for cash in the seattle region.",LABEL_2,0.819386899471283

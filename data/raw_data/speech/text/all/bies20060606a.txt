@@ -1,0 +1,134 @@
+The focus of this conference is risk management, which I think is an excellent discussion topic for bankers, regardless of their institutionâ€™s size.
+In fact, I am quite pleased to see more and more conferences devoted exclusively to risk management, analyzing its different facets and exploring ways to tailor it to specific institutions and situations.
+There is growing understanding that good risk management can be an integral part of running any type of business.
+Risk Management in Financial ServicesWith respect to financial services, the Federal Reserve Board, as the primary supervisor of state member banks and the consolidated supervisor of financial holding companies, has been working with other regulators and financial institutions to improve the effectiveness of banksâ€™ risk management in order to keep pace with changing business practices and strategies.
+The Federal Reserve has long emphasized the need for appropriate and strong internal controls in the institutions we supervise, and we have taken a continuous-improvement approach to our risk-focused examinations.
+For many years, enterprise risk management across an entire entity has received increased scrutiny.
+Of course, bankers are the ones who have led the way in continuing to improve the risk-management and risk-measurement processes at their institutions.
+To be more effective competitors and to control and manage their losses, banks have created many new techniques to improve their risk management and internal economic capital measures.
+By more clearly defining risk exposures, identifying the causes of their losses, and establishing controls to limit future losses, bank managers have been better able to integrate decisions about risk-taking into their strategic and tactical decision making.
+Banks that integrate risk measurement into their business-line goals often find that this helps them to implement their strategic plans more effectively.
+That is because strategic planning tends to focus more on alternative â€œmost likelyâ€ scenarios.
+By including a risk management analysis in the strategy discussion, bankers can more clearly identify the inherent operational and environmental factors that can significantly affect the realization of strategic goals.
+Thus, banks can design in, at the start, the appropriate internal controls and management information systems to improve the execution of the strategy.
+In some cases, firms may be practicing good risk management on an exposure-by-exposure basis, but they may not be paying close enough attention to the aggregation of their exposures or concentrations that arise in the resulting portfolios of business.
+Also, rapid growth can place considerable pressure on an organization's management information systems, change-management controls, strategic planning, credit concentrations, and asset/liability management, among other areas.
+Many of the companies that have attracted public attention in recent years due to serious breaks in controls failed to focus on process changes and critical investments in their risk management and control systems that were needed to successfully support their business plans.
+An organization must also understand how its various business components dynamically interact.
+A successful enterprise-wide risk management process can help to meet many of these challenges.
+At the same time, it is clear that risk management practices need to be applied in a manner appropriate to the size and complexity of the organization.
+While the leading-edge risk-management practices used at the largest, most complex banks may have some applicability at smaller, less complex banks, data and cost limitations require greater use of more generalized models and the use of outsourcing to supplement the knowledge base of the institution.
+And as most of you know, running a smaller or less complex bank presents different types of challenges and requires a risk-management framework appropriately tailored to the institution.
+For example, transactions may be conducted more on a relationship basis and may be less data-intensive.
+In such a case, bank management needs to develop risk-management tools that allow it to ensure that risks are still being appropriately addressed.
+Further, smaller organizations often face a challenge of ensuring independent review of processes and decisions since officers and staff often have multiple responsibilities that can present conflicts of interest.
+Many of you are probably familiar with the enterprise risk management framework published over a year ago by the Committee of Sponsoring Organizations of the Treadway Commission, or COSO.
+The COSO framework provides a useful way to look at enterprise risk management.
+Notably, the COSO framework states explicitly that, while its components will not function identically in every entity, its principles should apply to institutions of all sizes.
+Small and mid-size entities, for example, may choose to apply the framework on a less-formal and less-structured basis and scale it to their own needs--as long as quality is maintained.
+This underscores the message from bank supervisors that good risk management is expected of every institution, regardless of size or sophistication.
+Naturally, some tension will still exist between what supervisors expect and how bankers want to run their business.
+But we hope that supervisory expectations for risk management are becoming more and more aligned with the way that bankers run their businesses.
+I would now like to turn to two examples highlighting the importance of risk management for smaller banks: credit concentrations and business disruptions.
+Lending Concentrations As any banker worth his or her salt knows, lending concentrations must be carefully identified, monitored, and managed.
+It is one of the basics of banking to understand the consequences of placing all your eggs in one basket.
+Naturally, supervisors from time to time have concerns about growing credit risk concentrations at banks and bankersâ€™ ability to manage them.
+A current example is commercial real estate (CRE).
+The U.S. banking agencies recently issued proposed guidance on CRE lending, and a major portion of that guidance is directed at CRE concentrations.
+The agencies have received many comment letters on the proposed guidance.
+These comments will be very helpful as we discuss what steps to take next.
+Before I discuss the importance of managing CRE concentrations, I want to emphasize that the proposed CRE guidance is intended to encompass â€œtrueâ€ CRE loans.
+It is not focused on commercial loans for which a bank looks to a businessâ€™s cash flow as the source of repayment and accepts real estate collateral as a secondary source of repayment.
+That is, the proposed guidance addresses bank loans for commercial real estate projects in which repayment is dependent on third-party rental income or on the sale, refinancing, or permanent financing of the property.
+These are â€œtrueâ€ commercial real estate loans in that repayment depends on the condition and performance of the real estate market.
+I also want to mention up front that the proposed guidance is not intended to cap or restrict banksâ€™ participation in the CRE sector but rather to remind institutions that proper risk management and appropriate capital are essential elements of a sound CRE lending strategy.
+In fact, many institutions already have both of these elements in place and may not need to adjust their practices very much.
+I believe we are all aware of the central role that CRE lending played in the banking problems of the late 1980s and early 1990s.
+One reason supervisors are proposing CRE guidance at this point is that we are seeing high and rising concentrations of CRE loans relative to capital.
+For certain groups of banks, such as those with assets of between $100 million and $1 billion, average CRE concentrations are about 300 percent of total capital.
+In the late 1980s and early 1990s, the concentration level for this same bank group was about 150 percent, or half the current level.
+Therefore, banks should not be surprised by the emphasis in the proposed CRE guidance on concentrations and the importance of portfolio risk management.
+Historically, CRE has been a highly volatile asset class.
+In the past, problems in CRE even at well managed banks have generally come at times when the broader market encounters difficulties.
+Borrowers and bankers with properties in distress can disrupt their local real estate market by cutting rents or offering leasehold improvements and other incentives to attract or keep tenants in an effort to generate cash flow.
+This can negatively affect the local real estate market as a whole, and adversely affect even good projects.
+CRE is a highly volatile asset class in that credit losses in most years are relatively low compared with many other types of bank loans.
+But in times of stress, the loss rate on CRE can jump considerably higher relative to the good years, compared with the behavior of other types of loans.
+Since CRE losses tend to be concentrated in these times of stress, bankers must focus more intently on their risk appetite for losses as their concentration grows.
+This means considering how much capital can be placed at risk if the portfolio of CRE loans hits a stress period and comparing that loss exposure to the relative returns in CRE lending, i.e., practicing risk management.
+While banksâ€™ underwriting standards are generally stronger than they were in the 1980s and 1990s, the agencies are proposing the guidance now to reinforce sound portfolio-management principles that a bank should have in place when pursuing a commercial real estate lending strategy.
+A bank should be monitoring performance both on an individual-loan basis as well as on a collective basis for loans collateralized by similar property types or in the same markets.
+Some institutionsâ€™ strategic- and capital-planning processes may not adequately acknowledge the risks from their CRE concentrations.
+CRE lending in recent years has occurred under fairly benign credit conditions and, naturally, those conditions are unlikely to continue indefinitely.
+The ability of banks with significant concentrations to weather difficult market conditions will depend heavily on their risk-management processes and their level of capitalization.
+From a risk-management and capital perspective, institutions should generally focus on the emerging conditions in their real estate markets and on the potential cumulative impact on their portfolios if conditions deteriorate, and they should take other measures to help identify CRE vulnerabilities.
+Of course, these measures should vary according to the size of the organization and the level of the concentration.
+All of these steps are key elements of a sound strategy to manage concentrations.
+In evaluating the impact of their CRE concentrations, bankers should also pay attention to geographic factors.
+Many banks conduct successful CRE lending within a certain geographic area, but problems can arise when banks begin to lend outside their market or â€œfootprint,â€ where they normally have better market intelligence.
+In recent years, supervisors have observed banks lending outside their established footprint--to maintain a customer relationship--into real estate markets with which they have less experience.
+The challenge is heightened when the borrower is also venturing into a new market.
+These practices led to significant losses in prior CRE credit downturns.
+I noted that CRE underwriting appears substantially better compared with the late 1980s and early 1990s.
+However, we have noticed some slippage recently.
+Therefore, the proposed CRE guidance underscores the existing interagency guidance on real estate lending standards.
+That is, it offers some reminders about risk-management practices for individual exposures.
+For example, banks may occasionally be inclined to make some compromises and concessions to borrowers in order to attract new business and sustain loan volume.
+As supervisors, we want to ensure that loan-to-value standards and debt-service-coverage ratios are meeting the organizationâ€™s policies--and that there is not an undue increase in the exceptions to those standards and ratios.
+We also continue to monitor whether lenders routinely adjust covenants, lengthen maturities, or reduce collateral requirements.
+To be clear, we have not yet seen underwriting standards fall to unsatisfactory levels on a broad scale, but we are concerned about some of the downward trend in these standards.
+It is important to note that no element of the proposed guidance is intended to act as a â€œtriggerâ€ or â€œhard limitâ€ for immediate cutback or reversal of CRE lending; rather, the guidance is a reminder to institutions that certain risk-management standards are vitally important for banks involved in the business.
+Additionally, the agencies intend to use the proposed thresholds in the guidance only as a â€œfirst cutâ€ or â€œscreenâ€ to identify institutions that may have heightened CRE concentration risk.
+The thresholds are intended to serve as benchmarks to identify banks where further information on portfolio risk management is needed.
+In some cases, after more careful review, supervisors may actually find that given the characteristics of its CRE portfolio an institution has sound risk management and is holding appropriate capital.
+In general, the proposed guidance is intended to be applied quite flexibly and in a manner consistent with the size and complexity of each organization.
+While supervisors continue to underscore the importance of having robust risk-management practices for CRE and other lending concentrations, we do acknowledge that banks may pursue a variety of approaches.
+In some cases, such as when there is not enough market data available or the relevant geographic market is small, banks may have to turn to less quantitative approaches.
+Nonetheless, those approaches should be robust, well documented, and transparent.
+This is consistent with the broader theme that risk management should be scaled to the institution.
+Along those same lines, we are not necessarily expecting smaller banks to be able to conduct regular, extensive and sophisticated quantitative stress tests around their lending concentrations.
+However, we do want bankers at smaller organizations to have clear and coherent methods for evaluating the various potential outcomes associated with such concentrations, and their exposures more broadly.
+Managing Business DisruptionsA number of events in the past half decade, including terrorist attacks and natural disasters, have reminded us of the importance of planning and preparation.
+Most recently, Hurricane Katrina underscored the critical role of business-continuity planning and disaster response for small businesses and small banks in local communities.
+Most financial institutions in the affected areas responded admirably to the extreme challenges posed by the hurricane and subsequent flooding, and the benefits of planning and preparation showed.
+I am sure that many of you in the audience today have studied the lessons from Katrina and improved your own plans for dealing with business disruptions.
+But I want to offer a supervisory perspective on potential lessons for bankers.
+Banks, like businesses everywhere, can be subject to wide-scale disruptions resulting from both natural and man-made disasters.
+Potential problems include destruction of facilities, missing personnel, power and communications outages, lack of transportation and fuel, interruption of mail and other delivery services, and health and safety crises.
+In short, services and activities normally taken for granted can be suddenly disrupted--and in some cases for an extended time.
+In 2003, U.S. supervisors issued revised guidance on business continuity planning that explicitly advises banks to factor the risk of a wide-scale disruption into their business continuity and disaster response plans.
+The experiences of bankers during and after Katrina confirmed the essential elements of good business-continuity management laid out in the guidance.
+As the first step in preparing for business disruptions, large or small, the guidance advises bankers to conduct a full evaluation of what it takes to run their business effectively and provide necessary services to their customers.
+This evaluation should include a variety of scenarios and possible events that could cause a business disruption.
+Bankers should then analyze the business impact of these possible disruptions, which could include a prolonged recovery period, and fashion appropriate responses.
+Once the business-continuity plan is developed, it should be implemented and tested regularly.
+It should also be updated whenever the bank expands or changes its business activities and when it gathers new information from tests or real-life events.
+When developing business-continuity plans, bankers need to understand that people are the most vital resource.
+Bankers should plan for ways to track and communicate with personnel through a range of channels, including ways to reach personnel if phone and electrical services are down, as they were after Katrina.
+For banks operating in smaller geographic markets, it may be worthwhile to establish communication contacts outside of the region to be used by both employees and customers.
+Depending on the cause of the disruption, bankers should also expect that some of their personnel may be dealing with family emergencies that will limit their ability to work.
+Therefore, it is especially important to identify and train backup personnel to handle critical operations and services.
+Business-impact analysis and planning requires that bankers understand not only their business lines but also the systems and processes that support those business lines.
+The bankâ€™s planning should address how these support systems and processes could be recovered if they are disrupted, including the effect such a disruption would have on the bankâ€™s facilities, equipment, and other physical property.
+The bank may have to operate from backup or some type of recovery facilities for an extended period in order to provide critical services to customers.
+Employees may also need to be prepared to perform services manually if computer systems become unavailable.
+Hurricane Katrina also reminds us that unlike a fire, which may interrupt only the bankâ€™s own activities as the community continues business as usual, a more widespread event causes banks to serve as agents of recovery for both their immediate and larger communities.
+I am sure that all of you understand, first, the importance of providing financial services in any community and, second, that you have a responsibility to provide those services to your customers and neighbors during a crisis.
+Accordingly, you should try to understand and coordinate your plans with the disaster-response programs for your neighborhood, city, and state.
+In fact, bankersâ€™ knowledge of their critical systems needs can very often assist local government and utility company managers in better evaluating the impact of their preparedness on local customers.
+By the same token, you can improve your institutionâ€™s ability to respond by understanding the strengths and limitations of infrastructure around your bank, and the manner in which the communityâ€™s disaster-response efforts may unfold.
+Naturally, we cannot expect bankers to prepare for every conceivable event or plan for them with equal intensity.
+As with any aspect of risk management, bankers should assess the probability of an event and its potential consequences.
+We certainly understand that planning, preparation, and testing consume time, energy, and money.
+Accordingly, institutions should determine the most cost-effective way to mitigate risks and continue to assess which possible events deserve greater attention and preparation.
+ConclusionOur ongoing supervision of banking organizations indicates that a preponderance of institutions continue to be sound and well managed.
+This strong performance has occurred concurrently with institutionsâ€™ continued efforts to improve their risk-identification and management strategies.
+That said, certain areas in banking operations, such as credit concentrations and business continuity planning, are placing pressures on risk-management systems.
+In turn, supervisors are increasingly scrutinizing these and other relevant areas to ensure that management is fully aware of their risks and has made any necessary risk-management upgrades.
+Of course, bankers may be somewhat concerned about the impact that supervisory initiatives--even proposed guidance--could have on their business.
+We hear your concerns about regulatory burden, but I think it is helpful to remember that our job as regulators is to ensure that the United States has a safe and sound banking system.
+In other words, supervisors are in the business of monitoring â€œdownside riskâ€ to the financial system, so we must act appropriately when we see possibly excessive risk taking or inappropriate risk management.
+We also have a role in helping banks to prepare for potentially disruptive events.
+While most U.S. banking organizations today operate in a safe and sound manner and enjoy substantial profitability, they need to remember that continued business success depends on their ability to prepare for unexpected, and potentially much less favorable, events and outcomes.
+As institutions continue to offer new products and services, they face the challenge of incorporating the associated risks into their existing risk-management framework.
+This is true for institutions of all sizes.

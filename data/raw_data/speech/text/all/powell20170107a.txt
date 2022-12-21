@@ -1,0 +1,67 @@
+The framing of this topic raises the question of whether low interest rates have somehow undermined the stability and functioning of the financial system.
+I will argue that "low for long" interest rates have supported slow but steady progress to full employment and stable prices, which has in turn supported financial stability.
+Indeed, by many measures the U.S. financial system is much stronger than before the crisis.
+That said, there are difficult tradeoffs to manage.
+Over time, low rates can put pressure on the business models of financial institutions.
+And low rates can lead to excessive leverage and broadly unsustainable asset prices--things that we watch carefully for and do not observe at this point.
+I will begin by focusing briefly on the macroeconomic effects of low interest rates.
+I will then turn to the condition of the financial system--in particular, its interplay with low rates.
+As always, the views I express here today are mine alone.
+Highly Accommodative Monetary Policy The financial crisis and the Great Recession posed the most significant macroeconomic challenges for the United States in a half-century, leaving behind high unemployment and below-target inflation and calling for highly accommodative monetary policies.
+Isolating the effects of these policies is challenging, but studies generally show that they lowered rates across the curve and moved other asset prices as well.1 It is even more challenging to evaluate their effects on aggregate demand.
+Low rates and higher asset prices should support household and business spending and investment through various channels.
+But low rates may also perversely induce some households to save more in order to meet their targets for retirement.
+And low rates have clearly not produced a boom in corporate investment, although standard accelerator models suggest that investment has largely been consistent with the weak pace of economic growth.
+Nonetheless, there is good reason to think that low rates have provided significant support for demand, and my view is that they have done so.2 As you can see in slide 1, we are now close to meeting our dual mandate--a reasonable summary statistic for the effects of policy.
+While growth has been frustratingly slow, employment gains have been solid.
+This is a reasonably good outcome considering the scope of the crisis and the relatively poorer performance of other major advanced economies.
+Other Factors Are Holding Down Rates There are also many factors other than monetary policy that are holding down long-term interest rates.
+Long-term nominal and real rates have been declining for over 30 years.
+The next slide decomposes long-term nominal yields into expected future short-term real rates, expected future inflation, and a term premium.
+These estimates are based on one of the Board's workhorse term structure models.3 All three components have contributed to the downward trend in long-term nominal yields.
+The downward trend in nominal term premiums likely reflects both lower inflation risk and the fact that, with inflation expectations anchored, nominal bonds have become an increasingly good hedge against market risk.
+That has made bonds a more attractive investment and reduced the term premium.4 As shown in the next slide, a regression of the 10-year term premium on measures of 10-year inflation expectations and a rolling beta of Treasury returns with respect to equity returns (to proxy for the hedging value of bonds) shows that these two factors can account for a large part of the decline in the term premium.
+Regulations now require many financial institutions to hold more safe, high-quality liquid assets, which likely has pushed down term premiums further.
+Global factors may have put downward pressure on term premiums because of anxiety about the foreign outlook, which may have increased demand for U.S. assets, or because low rates abroad have depressed U.S. term premiums through a global portfolio balance channel.5 And real rates are quite low globally, reflecting the step-down of productivity growth over the past 10 years as well as shifts in savings and investment demand due to demographic change.6 The Core of the Financial System Is Much Stronger Before turning to the interplay between low rates and the financial system, I will simply point out that both improved risk management at the largest, most systemically important financial institutions (SIFIs) and stronger regulation have made the core of the system much stronger and more resilient than before the crisis.7 The SIFIs have more stable funding, hold much more capital and liquidity, are more conscious of their risks, and are far more resolvable should they fail.
+Many aspects of our financial market infrastructure, including the triparty repurchase agreement (or repo) market, central counterparties (CCPs), and money market funds are more robust as well.
+Low Rates Can Mean Tradeoffs So far, I have argued that low rates have supported aggregate demand and brought us very close to full employment and 2 percent inflation; that forces other than monetary policy have been pushing rates lower for more than 30 years; and that the core of the financial system is now much stronger and more resilient than before the crisis.
+All of that said, I would also agree that monetary policy may sometimes face tradeoffs between macroeconomic objectives and financial stability.
+Indeed, it would be a divine coincidence if that were not the case.
+There are times when all of these objectives are aligned.
+For example, the Fed's initial unconventional policies supported both market functioning and aggregate demand.
+More broadly, post-crisis monetary policy supported asset values, reduced interest payments, and increased both employment and income.
+All of these effects are likely to have limited defaults and foreclosures and bolstered the balance sheets of households, businesses, and financial intermediaries, leaving the system more robust.
+But at times there will be tradeoffs.
+Low-for-long interest rates can have adverse effects on financial institutions and markets through a number of plausible channels, as listed on the next slide.8 After all, low interest rates are intended to encourage some risk-taking.9The question is whether low rates have encouraged excessive risk-taking through the buildup of leverage or unsustainably high asset prices or through misallocation of capital.
+That question is particularly important today.
+Historically, recessions often occurred when the Fed tightened to control inflation.
+More recently, with inflation under control, overheating has shown up in the form of financial excess.
+Core PCE inflation remained close to or below 2 percent during both the late-1990s stock market bubble and the mid-2000s housing bubble that led to the financial crisis.
+Real short- and long-term rates were relatively high in the late-1990s, so financial excess can also arise without a low-rate environment.
+Nonetheless, the current extended period of very low nominal rates calls for a high degree of vigilance against the buildup of risks to the stability of the financial system.
+If we look at the channels listed here, the picture is mixed, but the bottom line is that there has not been an excessive buildup of leverage, maturity transformation, or broadly unsustainable asset prices.
+Low long-term interest rates have weighed on profitability in the financial sector, although firms have so far coped with those pressures.
+As shown in the next slide, net interest margins (NIMs) for most banks have held up surprisingly well.
+NIMs have moved down for the largest banks.
+Return on assets, shown to the right for both groups, has recovered but remains below pre-crisis levels.
+Life insurers have substantially underperformed the broader equity market since 2007, suggesting that investors see the low-rate environment as a drag on profitability for the industry.
+Even so, data on asset portfolios do not suggest that life insurers have increased risk-taking.
+The same is true for banks.
+Both the regulatory environment and banks' own attitudes toward risk following the financial crisis have helped ensure that the largest banks have not taken on excessive credit or duration risks relative to their capital cushions.
+Low rates have provided support for asset valuations--indeed, that is part of their design.
+But I do not see valuations as significantly out of line with historical experience.
+Equity prices have recently increased considerably, pushing the forward price-earnings ratio further above its historical median (slide).
+And equity premiums (right)--the expected return above the risk-free rate for taking equity risk-- have declined, but are not out of line with historical experience.
+In the nonfinancial sector, valuation pressures are most concerning when leverage is high, particularly in real estate markets.
+Residential real estate valuations have been in line with rents and household incomes in recent years, and the ratio of mortgage debt to income is well below its pre-crisis peak and still declining.
+In contrast, valuations in commercial real estate are high in some markets.10 And in the nonfinancial corporate sector, gross leverage is high by historical standards.
+Low long-term rates have encouraged corporate debt issuance at the same time that some regulations, particularly the Volcker rule, have discouraged banks from holding and making markets in such debt.
+High-risk corporate debt (the sum of high-yield bonds and leveraged loans) grew rapidly in 2013 and 2014 (slide), although growth has declined sharply since then.11 However, firms also are holding high levels of liquid assets, so net leverage is not elevated.
+Firms have also lengthened their maturity profiles, and interest coverage ratios are high.
+As the next slide shows, Greenwood and Hanson's measure of the share of high-yield debt in overall issuance is at a relatively low level.12 And this debt is now held more by unlevered investors.
+Overall, I do not see leveraged finance markets as posing undue financial stability risks.
+And if risk-taking does not threaten financial stability, it is not the Fed's job to stop people from losing (or making) money.
+As I said, a mixed picture.
+Low interest rates have encouraged risk-taking and higher leverage in some sectors and have weighed on profitability in others, but the areas where there are signs of excess are isolated.
+Conclusion To sum up, low interest rates have supported economic activity and gradually brought us back to full employment and 2 percent inflation.
+Better regulation and risk management have so far minimized the tradeoffs between our macroeconomic objectives, on the one hand, and financial stability, on the other.

@@ -1,0 +1,116 @@
+Rather, the Federal Reserve vigorously promotes financial stability because of the intimate connection between a stable financial system and solid macroeconomic performance.
+The financial system, comprising financial markets and institutions, channels funds to those individuals or firms that have productive investment opportunities.
+The better the financial system performs this role, the more efficiently credit flows from lenders to borrowers and the more efficiently the economy operates.
+A period of financial instability arises when a shock to the financial system prevents it from channeling funds efficiently to productive uses; as I will describe, such a shock generally relates to problems in the flow of information.
+Unless checked, such a seizing-up of the financial system can lead to a precipitous drop in lending and a steep decline in economic activity.
+Therefore, a stable financial system is of vital importance for the Federal Reserve if it is to pursue its statutory goals of maximum sustainable employment and stable prices.
+Asymmetric Information and Financial Instability We can better understand how financial instability can arise if we recognize the problem of asymmetric informationâ€‘â€‘when one party to a financial contract has much less information than the other party.
+For example, the borrower is usually much better informed than the lender concerning the potential risks and returns associated with the investment projects to be financed by a loan.
+Asymmetric information leads to two basic problems: adverse selection and moral hazard.
+Generally speaking, adverse selection arises when investments that are most likely to produce an adverse outcome are the most likely to be selected.
+For example, investors who intend to take on large amounts of risk are the most likely to be willing to seek financing.
+When the problem of asymmetric information is particularly severe in the marketplace, lenders may decide to cut back on lending even though good credit risks exist.2 Clearly, minimizing adverse selection requires that lenders screen out bad credit risks.
+Moral hazard occurs when the lender is subjected to the hazard in which the borrower has an incentive to engage in activities that are undesirable from the lender's point of view, that is, activities that make it less likely that the loan will be repaid.
+For example, a borrower may have an incentive to invest in high-risk projects in which the borrower does well if the project succeeds but the lender bears most of the loss if the project fails.
+Again, if this conflict of interest between the borrower and lender becomes particularly pronounced in the marketplace, many lenders might decide that they would rather not make loans, which leads to suboptimal lending and investment.
+To minimize moral hazard, lenders must impose restrictions (known as restrictive covenants) that penalize borrowers for engaging in certain activities; lenders must monitor those activities, and they must enforce the restrictions if the borrower violates them.
+Over time, the financial system has developed a variety of mechanisms to deal with informational asymmetries.
+These mechanisms include a strong network of financial intermediaries, sound and resilient financial markets, innovative financial products that spread risk to the investors most willing and able to bear it, and effective supervisory and regulatory frameworks.
+However, even the strongest financial system is not immune to shocks.
+When such shocks interfere materially with information flows, the problems of adverse selection and moral hazard can overwhelm the mechanisms intended to control them.
+As lenders pull back and liquidity becomes scarce, a period of financial instability can ensue, carrying with it, as I mentioned at the outset, the threat of a serious decline in economic activity through a virtual cessation of lending.
+Broadly speaking, at least four types of shocks can lead to financial instability.
+The first type, and the one that has been the catalyst of many past crises, is a sharp increase in interest rates.
+Higher interest rates increase the likelihood that borrowers will be poor credit risks because those taking on more risk are the most willing to pay the higher rates; not surprisingly, lenders have many times responded to sharp increases in interest rates by cutting back the supply of loans, which results in credit rationing.
+The other types of shocks are a sudden increase in uncertainty, a deterioration of corporate and household balance sheets, and weakened financial intermediaries.
+Some of these have clearly manifested themselves in the episode that has affected global financial markets in recent months.
+In general, an increase in uncertainty makes it harder to obtain information about borrowers, thereby deterring lending, and may arise from the failure of a large financial institution, a market crash, a recession, or, as in the latest episode, an inability to value complex financial products.
+Weak borrower balance sheets are also a deterrent to lending because they worsen credit risk and thus make the problems of adverse selection and moral hazard more prominent.
+The harmful effects of balance sheet deterioration were evident in recent months, when concerns about borrower financial positions caused lenders to demand a substantial premium on loans and even to drastically cut the flow of credit.
+Finally, problems in the banking sector may also be a catalyst for financial instability because financial intermediaries that find themselves with weakened financial positions typically respond by cutting their lending.
+A central bank can respond to an episode of financial instability by temporarily providing the liquidity that financial intermediaries are unwilling or unable to supply.
+Central banks typically inject liquidity into the system via the banking sector, but the intent is clearly to have the liquidity spread from there.
+From banks, liquidity typically finds its way to financial markets and to nonbank institutions that are unable to access securities markets.
+Thus, injections of liquidity have the potential to directly address the causes of financial instability and therefore to counteract the pernicious effects of financial instability on broad macroeconomic conditions.
+With this understanding, we can now turn to some history.
+The Panic of 1907 and the Creation of the Federal Reserve During the National Banking Era, which began in 1865 and ended in 1914, when the Federal Reserve began operations, reserves were channeled to New York banks, which became providers of liquidity to the financial system through the New York Clearinghouse.
+Nevertheless, the banking system periodically suffered panics, as the demand for liquidity often exceeded what New York institutions could provide.
+These panics, in turn, caused large numbers of banks to fail or at least suspend the conversion of deposits into currency.
+During these episodes, interest rates tended to spike and equity markets to decline, often sharply.3 The Panic of 1907, the subject of this conference, was the last panic of the National Banking Era and one of the most severe.
+During the summer of 1907, U.S. financial institutions, especially those in New York, came under increasing pressure as interest rates crept up and U.S. gold reserves declined; those movements were due in part to increases in interest rates abroad as foreign central banks sought to maintain their gold reserves.4 The panic started in October with a run on the Knickerbocker Trust Company, one of the largest financial institutions at the time.
+The stock market crashed, and the resulting surge in demand for liquid assets by banks that had New York correspondents, as well as by the general public, caused a sharp rise in interest rates, the failure of a number of financial institutions, and widespread suspensions of convertibility of deposits into currency.
+The subsequent banking crisis arguably turned a mild recession into a sharp, though fairly short, contraction.
+As a result of the 1907 crisis, the Congress set up the National Monetary Commission to consider whether the federal government should more actively manage the nation's money supply.
+The committee's recommendations led to the creation of the Federal Reserve.
+Thus, an important impetus for the establishment of the U.S. central bank was the desire to prevent panics such as the one in 1907, whose detrimental effects on the rest of the economy were not lost on policymakers.5 At the time, the belief was widespread that the inelasticity of the currency contributed to the weakness of the financial system.
+The supply of high-powered moneyâ€‘â€‘which included national bank notes, specie, U.S. notes, and silver certificatesâ€‘â€‘was relatively fixed (inelastic) in the short run.
+Thus, even fairly moderate increases in demand for high-powered money led to higher interest rates.
+In addition, some of the increases in the demand for money were not random; they were associated with the crop cycle and were thus seasonal.6 Just as no existing mechanism or institution could quickly supply the liquidity needed to respond to a rise in the demand for money, none could supply it to resolve the ensuing crisis.
+The establishment of the Federal Reserve provided the nation with an institution that was able to expand the money supply to virtually eliminate seasonal fluctuations in interest rates and thus mitigate the stress such fluctuations might put on the financial system.
+The policymakers involved in establishing the Federal Reserve also believed that the institution would be able to meet the needs of the financial system at times when there was an unanticipated scramble for liquidity.
+The founders tended to focus on the ability to rediscount commercial loans at the discount window, which was seen as a way of providing an elastic currency that would eliminate crises or at least mitigate them.7 The Federal Reserve as a Liquidity Provider In past research, I have examined the importance of liquidity provisions by central banks in overcoming the problem of asymmetric information, exacerbated by the increase in interest rates, and the uncertainty that generally accompany a financial crisis (Mishkin, 1997).
+Increased liquidity can help restrain rising interest rates and, amid an environment of heightened uncertainty, enable the institutions best able to make judgments about the creditworthiness of prospective borrowers to provide credit.
+Over time, the Federal Reserve has used various methods to provide liquidity to the financial system.
+At first, the ability to rediscount paper was seen as the main tool with which to provide liquidity.
+At other times, the Federal Reserve has changed interest rate ceilings or used open market operations.
+Since 2003, the operation of the discount window has altered significantly.
+The new facility allows banks in sound financial condition to borrow at will at a rate above the target federal funds rate.
+The facility can be used to provide liquidity to financial institutions during a crisis in which financial markets become dysfunctional as well as during other periods of financial tightness that are not the result of a systemic event.
+Even with the Federal Reserve System in place, periods of financial stress have arisen since World War II.
+I will briefly review a few of the more recent ones and focus on the role of the Federal Reserve as a liquidity provider in mitigating them.
+The first of these more recent episodes arose from the 1970 bankruptcy of the Penn Central Corporation, an important issuer of commercial paper.
+Policymakers and market participants worried that the bankruptcy of such a major issuer would have a chilling effect on the commercial paper market, as uncertainties about the quality of other issuers would impede them from rolling over their commercial paper to obtain short-term financing.8 The Penn Central bankruptcy thus had the potential to send other companies into bankruptcy and possibly trigger a full-scale financial panic.
+To forestall this possibility, the Federal Reserve provided liquidity to financial markets in two ways.
+First, the Federal Reserve Banks let the depositories in their respective Districts know that the discount window was available to enable them to make loans to customers who could not roll over their commercial paper.
+Second, the Federal Reserve (along with the Federal Deposit Insurance Corporation and the Federal Home Loan Bank Board) suspended the interest rate ceilings imposed by the Federal Reserve's Regulation Q on some large certificates of deposit, thus providing banks another means of financing increases in loans.
+The second recent episode of financial instability was the stock market crash of 1987.
+A significant concern during this episode was the possibility of a breakdown in the clearing and settlement systems in the equity and futures markets.
+To keep those markets functioning in an orderly fashion, brokerage firms needed to obtain massive amounts of credit from banks to meet margin calls from the clearing and settlement institutions.
+However, although brokerages were clearly in need of additional funds to finance their activities, banks were understandably nervous about the health of securities firms in the wake of the unprecedented market movements.9 In response, the Federal Reserve issued a statement affirming its readiness to serve as a source of liquidity to support the economic and financial system.
+The Federal Reserve underscored its commitment to providing liquidity by conducting open market operations in a high-profile manner and earlier than usual.10 The Federal Reserve also communicated with market participants to support efforts to coordinate a market response (Greenspan, 1994).
+What is remarkable about this episode is the relatively limited amount of liquidity extended by the Federal Reserve: In the immediate aftermath of the crash, it temporarily injected through open market operations about $12 billion, which at the time was a notable but not exceptional amount.
+Because the Federal Reserve acted promptly (within a day) to prevent the financial system from seizing up, banks were not as reluctant to lend their funds to securities firms as they presumably would have been in the absence of a stabilizing action from the central bank.
+Thus, the Fed did not need to lend directly to the banks to encourage them to lend to the securities firms that needed funds to clear their customers' accounts.
+Confidence was restored, and the fear of crisis subsided quickly.
+The ability of the Federal Reserve to provide liquidity was also vital following the terrorist attacks on September 11, 2001, which disrupted payment, settlement, and communication systems needed to transfer funds among financial institutions.
+Unable to receive funds for their normal operations, many of these institutions turned to the central bank.
+The Federal Reserve responded by injecting a considerable amount of liquidity into the system, both through discount window loans (which soared from around $200 million in the days immediately before the attacks to a maximum of $46 billion) and repurchase agreements (which jumped from $25 billion to a peak of more than $80 billion).
+Further, the Federal Reserve helped facilitate the provision of dollar liquidity abroad by arranging swap lines with foreign central banks.
+Thanks to these steps, credit continued to flow through the system during the episode, and serious macroeconomic consequences were avoided.
+The final episode of financial instability I want to discuss is the market turbulence of the past few months.
+Concerns originating in the subprime-mortgage sector sparked a pullback in risk-taking in a variety of markets.
+As investors sought safety and liquidity, the issuance and trading of structured financial products slowed sharply or, in some cases, completely ceased; some asset-backed commercial paper could not be rolled over; yields in the Treasury bill market fluctuated considerably; and spreads in interbank funding markets rose to unusually high levels.
+To prevent these problems from turning into a severe credit crunch for households and corporations alike, the Federal Reserve used several tools to inject liquidity into the system.
+In particular, on August 10, the Federal Reserve announced that it would conduct open market operations necessary to promote trading in the interbank market at close to the target federal funds rate and noted that the discount window was available as a source of funding.
+On August 17, the Federal Reserve Board approved a reduction of 50 basis points in the discount window's primary-credit rate and announced changes in practices to allow the provision of term financing to depository institutions in solid financial condition for as long as thirty days.
+Also, to help address the heightened safe-haven demands for Treasury securities, the Federal Reserve announced a temporary reductionâ€‘â€‘from 100 basis points to 50 basis pointsâ€‘â€‘in the minimum fee for borrowing securities from the System Open Market Account.
+Although market functioning has certainly not yet returned to normal, and while it is still too early to judge their ultimate success, these actions, along with the policy easing decided at the September FOMC meeting, have helped improve conditions in several short-term funding markets and instill confidence in investors that liquidity would be available if needed.
+Policy Issues As I have just recounted, the Federal Reserve has been able to reduce the negative macroeconomic consequences of bouts of financial instability by providing liquidity to markets and institutions at times of need.
+The provision of liquidity should thus be seen as a key tool for the Federal Reserve in its quest to achieve its statutory objectives of maximum sustainable employment and price stability.
+The episodes I reviewed here also suggest that the more quickly liquidity can be provided when financial instability occurs, the more effective it may be.
+As I mentioned earlier, the Federal Reserve's quick response to the stock market crash of 1987 is noteworthy because it meant that only a small amount of liquidity, and no direct lending, was needed to restore normal market conditions.
+Although the provision of liquidity is undoubtedly a useful tool, it is not without potential costs.
+Improperly managed, it can lead to increased incentives for banks to take on excessive riskâ€‘â€‘that is, it can create another form of moral hazard.
+That additional moral hazard will worsen, rather than enhance, the stability of the financial system.
+The risk of moral hazard increases if the central bank is perceived to be lending frequently to insolvent financial institutions.
+That concern, however, is addressed in the United States by the Federal Deposit Insurance Corporation Improvement Act of 1991, which establishes certain constraints on the Federal Reserve's ability to lend to troubled institutions, and by the guiding principle for the operation of the Federal Reserve's primary-credit facility, namely, to lend only to sound institutions and on good collateral.11 The need to limit moral hazard by not lending to insolvent institutions indicates that central banks must have information sufficient to determine whether an institution with access to the discount window is indeed healthy.
+That consideration is one reason that central banks benefit from having some supervisory responsibility for institutions with access to the discount window (Mishkin, 1994; Bernanke, 2007).
+Moral hazard could also arise when a central bank lends in response to liquidity problems, but I would argue that the risk of that happening might be lower than in the case of lending to troubled institutions.
+I have in mind situations in which markets become impaired for exogenous reasons.
+In those circumstancesâ€‘â€‘when financial institutions that are otherwise perfectly solid are at risk of failure because market infrastructures are disrupted or, more generally, when financial instability originates outside the banking sectorâ€‘â€‘an intervention by the Federal Reserve would certainly be beneficial, and the creation of perverse incentives would probably be limited.
+The traditional recommendation for the prevention of financial crises goes back to Thornton (1802) and Bagehot (1873), who argued that, during a panic, the central bank should be a lender of last resort that lends freely at a penalty rate.
+Charging a penalty rate is another way to limit the possible moral hazard arising from liquidity provisions because it gives institutions an incentive to maintain liquidity sufficient to avoid borrowing at a high rate.
+Indeed, the Federal Reserve's standing facility charges an interest rate above the target federal funds rate for exactly that reason (Madigan and Nelson, 2002).
+The Thornton-Bagehot criterion is an important principle, but central banks must also determine the appropriate penalty rate to apply under the circumstances.
+For example, when financial instability originates outside of the banking sector, liquidity made available to banks may allow them to channel funds to the part of the financial system that has seized up, thereby helping the recovery of that sector.
+Indeed, that mechanism seems to have been at work during the Penn Central bankruptcy episode.
+However, if banks must pay a substantial penalty rate to acquire the extra liquidity, they may find it unprofitable to extend loans to the troubled sector.
+In such circumstances, the central bank may judge that a lower penalty rate for borrowing at the discount window is warranted for a time.
+Lowering the discount rate may also help underscore the central bank's intent to provide adequate liquidity to promote the functioning of financial markets.
+The Federal Reserve took just such an action on August 17 of this year, when it lowered the rate for primary credit by 50 basis points.
+When even depository institutions in sound financial condition are constrained in their access to funding because of information problems or operational disruptions, open market operations may be incapable of providing reserves to the specific banks in need of funding.
+Having a discount facility at its disposal provides a central bank with a more targeted tool for coping with financial disturbances without promoting inflationary tendencies.
+But wouldn't lending at a reduced rate exacerbate moral hazard?
+That seems to me to be unlikely so long as two fundamental principles are observed.
+First, any such lending should be temporary and implemented only in the highly unusual circumstance in which systemic risk is clearly present; that restriction should prevent market participants from expecting such lending to become a normal part of doing business (Brimmer, 1989).
+Second, commercial banksâ€‘â€‘to the extent that they lend out the funds obtained from the central bankâ€‘â€‘should remain responsible for their own credit judgments, even in extreme situations.

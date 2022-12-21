@@ -1,0 +1,181 @@
+The expansion that began in the early 1990s is now more than nine years old, the longest expansion in American history.
+Usually as expansions age, productivity growth drops, and inflation picks up.
+But in this expansion, just the reverse is happening.
+In 1999, productivity rose at a very high rate, unit labor costs barely increased, and core measures of price inflation were relatively stable.
+Stock market values rose so high that the earnings-price ratios on broad common stock indexes have dropped to almost the real rate of interest on Treasury bonds.
+Real wages rose across the board, for high- and low-wage workers alike.
+Unemployment rates fell to near historic lows, and to historic lows for minority groups.
+Budget surpluses rose to historic highs.
+Scholars will debate why and how all these good things happened.
+In particular: Why after twenty-five years of low productivity growth, did productivity suddenly pick up?
+Why after twenty-five years during which the noninflationary unemployment rate seemed to be around 6 percent, did this rate suddenly seem to drop to 5 percent or perhaps even lower?
+The answers to these mysteries are likely to be found in some combination of deregulation, the information technology revolution, competitive pressures flowing from increased globalization, and in recent years, the Internet.
+But some traditional factors should also be recognized--plain old investment and saving have been very high.
+In 1999, national saving was about 19 percent of gross domestic product (GDP), around the average level over the last four decades but higher than the saving ratio has been for fifteen years.
+Capital investment was 21 percent of GDP in nominal terms, nearly a historic high and again higher than the nominal investment ratio has been for fifteen years.
+Because of the declining relative price of capital investment, in real terms investment has risen even more.
+And because of a further rise in the share of investment comprising high-technology equipment and software, the productivity-enhancing impact of this investment was higher yet.
+The President’s Economic Report attributes one-third of the recent significant pickup in productivity growth to capital deepening, essentially reflecting the investment boom, with another, smaller amount due to improvements in the production of computers.
+Board staff economists Stephen Oliner and Daniel Sichel go even further, attributing two-thirds of the productivity pickup to the use of information technology together with improvements in the production of computers and semiconductors.
+In this talk I discuss four factors that have contributed to the rising importance of real capital investment.
+Two factors on the saving side, foreign capital inflows and government budget surpluses, have made possible the increase in investment’s share of GDP in nominal terms.
+Two factors from the investment side, the declining relative price of capital investment and the growing share of high-technology investment, explain why the productivity-increasing effect of this investment is particularly large.
+But the mere presence of an investment boom is not the end of the story, because investment is a notably cyclical component of overall spending.
+In the second part of the talk I mention some factors that may help sustain this investment boom.
+This leads to a discussion of the challenging role of monetary policy in smoothing cycles for both investment and aggregate demand.
+Saving A logical starting point is to discuss the saving that finances investment.
+In a closed economy, investment spending can be shown to be equal to national saving.
+In an open economy, investment equals the sum of national saving and the nation’s net surplus of imports over exports.
+This import surplus represents the gap between the value of the nation’s overall spending and its production, or the amount of its investment not financed by domestic saving.
+Alternatively, the import surplus can be thought of as the buildup of foreign claims on a nation’s assets, or the degree to which foreigners purchase new domestic capital.
+Magnitudes over the last four decades are shown in chart 1.
+The graph is in nominal terms, deflated by nominal gross national product (GNP).
+The latter is a better deflator to use for national saving than GDP because GNP measures the total income earned by domestic citizens.
+The story of the graph is easily told.
+While national saving as a share of GNP, the solid line, has recovered from its lows in the early 1990s and is now roughly at its four-decade average, total capital investment has risen to nearly 21 percent of GNP, close to the peak for the period depicted.
+The difference is the foreign saving that is financing U.S. capital spending, or the U.S. import surplus.
+Because that import surplus is high, our nation has been able to finance much more investment than would have been the case were we relying solely on our own saving.
+Will this foreign source of funds for U.S. capital investment continue?
+Perhaps not.
+Models of capital investment are usually formulated in portfolio balance terms, and for the contribution of foreign saving to continue, foreigners would have to continue to build up their stocks of U.S. assets--most of which are denominated in dollars.
+These stocks are already at historic highs, and most economists figure that, at the very least, stocks will not continue rising indefinitely relative to GNP or relative to foreign wealth or income.
+Should the stock of foreign holdings of claims on U.S. assets level off, the implied foreign saving contribution to U.S. investment will decline toward zero, and the U.S. capital investment and saving ratios in chart 1 will converge.
+If part of the converging is done by investment, at least this component of the investment boom will be limited.
+The contribution of foreign saving to the U.S. investment boom rose as the U.S. economy grew more rapidly than foreign economies, hence simultaneously spreading aggregate demand to foreign countries and providing a higher return outlet for foreign saving.
+In either sense, the U.S. import surplus has helped to stabilize the world economy over the past few years.
+But now that foreign economies are recovering, U.S. exports may rise, cutting into the import surplus, and rates of return in foreign countries may rise, cutting into the flow of foreign saving to this country.
+A second source of financing is from the domestic economy.
+In chart 1, national saving recovered from its low in 1993 to a value of roughly 19 percent of GDP by 1999, close to its four-decade average.
+Chart 2 offers a more detailed look at national saving, splitting it into its private and public components.
+Private saving, the sum of saving by households and businesses, has tailed off lately, dropping to about 15 percent of GDP.
+The main reason for the decline is the large drop in household saving, presumably because households feel less need to save out of current income when stock market and housing values are rising.
+But government saving has prevented overall national saving from declining.
+Government saving has risen from less than zero to nearly 5 percent of GNP over the last seven years, more than offsetting the drop in private saving.
+The higher government saving reflects the first period of sustained federal surpluses since World War II.
+Will these federal government surpluses continue?
+The simple answer would seem to be no, that politicians will find a way to spend the money.
+But some new developments may suggest a different outcome.
+The federal surplus is made up of two components.
+One is the cash-flow surplus of the social security trust fund; the other is the surplus for all other programs, which I will call the general government surplus.
+The social security trust fund projects a long-term actuarial deficit.
+But because social security payroll taxes have been increased in advance of the retirement of the baby boomers, the system’s trust fund is likely to run a cash surplus of about $150 billion in fiscal 2000.
+Forecasts indicate that this surplus is likely to rise about $15 billion per year for the next few years.
+Although politicians on both sides of the political aisle know that changes in social security must be made to ensure the long-term actuarial solvency of the system, they have been at a stalemate on making actual changes.
+Almost any cuts in benefits, whether now or far in the future, are intensely criticized, as are increases in payroll taxes.
+The consequence is that no benefit or tax changes have been made, none are immediately likely, and social security’s cash surplus is likely to continue.
+The further consequence is that politicians do not want to be seen threatening social security in any way, and in today’s not entirely informed political atmosphere, even borrowing from social security by running a general government deficit has become viewed as threatening social security.
+Hence it is likely that at least until this political gridlock is resolved, the overall federal surplus should be at least as high as the presently forecast cash surplus of social security.
+Simply retaining this surplus will continue the level of government saving shown in chart 2.
+While the political dynamics of what I might call social security nonreform suggest that the overall federal surplus will be at least as high as the cash surplus of social security, several points should be kept in mind.
+First, in contrast to what one often hears in political debate, this stalemate does nothing to facilitate the programmatic changes that are necessary to deal with the nation’s long-term social security problem.
+Some changes in program taxes or benefits or both still must be made.
+Second, if there is to be an actual constraint against running general government deficits, realistic projections do not show all that much revenue available for non-social security tax cuts or spending increases for some years.
+The Congressional Budget Office has made several budget projections this year, differing according to the future treatment of the spending caps, which lately have been widely ignored.
+The most realistic of these long-term projections, assuming present levels of real discretionary spending over the next decade, puts the projected general government surplus at $838 billion over the next ten years, which seems like a lot.
+But this budget projection assumes that spending appropriations will not rise at all in real terms, that commonly extended tax reductions will not be extended, and that the economy will avoid recessions for the entire ten-year period.
+Even under these generous assumptions, the general government surpluses are barely positive for the next six fiscal years, hitting the big numbers only later in the decade.
+As a final issue, if it is in fact true that the social security surpluses will accumulate because of the politics of nonreform, it will not be too long before the $3.5 trillion of outstanding federal debt will be paid off.
+Not permanently, because the same forecasts that show the debt being paid off also show it building back up later in the twenty-first century, when the U.S. population begins to age significantly.
+But it is possible that for a period of years the economy will be operating with little or no Treasury debt.
+Is this a problem?
+Basically no.
+Although private markets have used Treasury securities as their safe and highly liquid benchmark bonds, markets are innovative and will find a substitute.
+Already the so-called swaps market is filling this roll.
+Private investors are increasingly turning to this market as their preferred method of hedging risks.
+A related problem involves the ability of the Fed to provide for growth in currency and bank reserves, hence providing for growth in overall liquidity.
+Traditionally, the Fed has accomplished this reserve growth by adding to its holdings of Treasury securities, securities that may soon no longer be available.
+But the Fed has alternative ways to generate growth in reserves.
+The Federal Reserve Act authorizes the Fed to generate reserves through purchases of a range of other assets or through temporary repurchase agreements backed by such assets.
+The Fed could also expand the role of the discount window in supplying reserves.
+For those who have long championed higher national saving, such as me, the rise in government saving is welcome, as is the tentative political truce in favor of at least retaining the likely future social security surpluses.
+The United States is still a long way from being a high-saving country, and as chart 1 showed, national saving is now at average historical levels, not at high levels.
+But even this situation looks far more promising than it did a decade ago, even than it did a few years ago.
+Investment High investment ratios in nominal terms tell only part of the story.
+The long-term drop in relative prices of capital goods, due partly to computers but to other types of equipment as well, means that a dollar of nominal saving buys much more real capital than in the past.
+It is somewhat complicated to adjust for drops in relative prices.
+GDP price indexes are now chain-weighted, which means that the weights used to aggregate the components of real GDP are automatically updated to reflect recent changes in the relative prices of different components of GDP.
+Technically, this procedure generates a growth rate of real GDP rather than a level.
+To obtain levels, the Bureau of Economic Analysis selects a base year and sets real spending levels equal to nominal spending levels in that year.
+In all other years, real spending levels for individual components will not sum to real GDP.
+This makes it misleading to focus on the absolute level of investment ratios.
+Although the level of the real share of investment spending is not meaningful, one can still examine trends by creating an index of the real investment ratio.
+This index does not solve the adding-up problem, but it does prevent misinterpretation of the level of the ratio.
+Such an index is shown in chart 3.
+The top panel of the chart gives the ratio of business fixed investment in nominal terms to GDP in nominal terms.
+Business fixed investment is a more restrictive category of investment than the total investment shown in chart 1 because it omits residential investment and inventory investment.
+But the time pattern is reasonably similar to that shown for the nominal investment ratio in chart 1, with a slightly increased upward trend.
+Then the bottom panel shows this nominal ratio, indexed to 100 in 1960, and the ratio of real investment to real GDP, also indexed to 100 in 1960.
+The nominal and real ratios are similar until the early 1990s, though the real ratio does show a stronger trend because relative prices of capital goods have dropped over the period as a whole.
+But beginning in 1992, the real ratio takes off and reaches a record high in 1999.
+The last factor is the increasing importance of high-technology investment.
+This trend is shown in chart 4.
+The top panel of the chart shows an index of the ratio of real computer and software investment to real GDP.
+The bottom panel broadens this look by also including real communications investment in the numerator.
+Either way, the ratio of real high-technology investment to real GDP is soaring.
+It increased 400 times in the top panel and more than 50 times in the bottom panel.
+The changes have been especially sharp in the last few years.
+Because of high rates of depreciation and obsolescence for this high-tech equipment and software, these investments have very high gross rates of return and are particularly significant in contributing to overall productivity change.
+Oliner and Sichel have attempted to determine the effect of these changes on overall productivity, using a neoclassical production function analysis.
+They break capital into various information technology components (hardware, software, and communications) and estimate the contribution of each piece.
+They find that of the roughly 1percentage point increase in productivity growth rates in the second half of the 1990s, the use of information technology capital has added about 0.5 percentage points a year to the growth of labor productivity.
+But this does not tell the entire story because multifactor productivity, the production function residual, could be further influenced by productivity advances in the production of semiconductors and computers.
+They estimate that this second factor accounted for about 0.2 percentage points a year.
+Thus they find that information technology equipment has been responsible for about two-thirds of the recent pickup in overall productivity growth.
+Even this estimate does not count the effect of other types of capital investment, which have been present but have not increased in the late 1990s.
+And while productivity advances due to the Internet are included in their estimate, these effects could become much larger very soon.
+However productivity is explained, whether by overall real capital investment or more narrowly by real capital investment in information and communications technology, there has been a sharp pickup recently.
+Moreover, there is little doubt that at least some forms of capital investment have played a key role.
+Sustainability Investment is a notoriously cyclical component of spending.
+It is great that the economy is enjoying an investment boom now.
+A key question is whether this boom will last.
+Nothing in the nature of productivity shocks outlaws business cycles.
+Indeed, the higher investment goes now, the more we might expect it to recede later.
+Accelerator models of investment behavior work by having capital investors buy new equipment to produce higher levels of output.
+But once output stops growing, the desired capital stock stops growing as well, implying sharp declines in the level of investment.
+Is the U.S. economy merely enjoying a traditional accelerator-induced investment boom?
+At least two natural factors might tend to downplay accelerator fears.
+One natural factor is the extremely low level of inventory stocks, the usual activating device for typical accelerator-type business cycles in the past.
+One of the subtle effects of technology has been that it allows firms to manage inventories more closely, hence reducing the importance of inventory cycles.
+The second natural factor is the nature of this new capital investment.
+Board economists Stacey Tevlin and Karl Whelan show that much recent investment is propelled by the dropping level of relative prices and the high rate of depreciation.
+Essentially, declining relative prices have induced firms to buy high-technology capital, which depreciates rapidly, inducing firms to buy even more high-technology capital.
+While Tevlin and Whelan do find accelerator influences in this process, the investment accelerator is less of a factor than with traditional forms of investment.
+If their story is accurate, it is one of continued increases in a significant component of capital investment, with much less emphasis on the accelerator cycle.
+But even in view of these considerations, cycles in aggregate demand and capital investment have often occurred in the past and are certainly possible in the future.
+The investment accelerator may have been weakened, but it has by no means been abolished.
+This leads to policy considerations and specifically to challenges facing monetary policy.
+Modern textbook theories of what used to be called the assignment problem suggest that when an economy is open to international trade and capital flows, with flexible exchange rates, as is the U.S. economy, fiscal policy should be used to set the long-term or normal saving rate, and monetary policy should be used to stabilize the economy.
+Fiscal policy cannot have significant effects on overall output because fiscal shifts are systematically offset by exchange rate movements, leading to minimal changes in output but significant changes in national saving.
+For example, contractionary fiscal policy directly lowers consumption, lowering interest rates and currency values and raising net exports to fill the output gap.
+In the end, output is likely not to change much, but the composition of this output will shift in favor of net exports and higher national saving.
+This means that fiscal policy is not well-suited for conducting stabilization policy.
+Exactly the same open-economy forces mean that monetary policy is well-suited to conduct stabilization policy.
+Expansionary monetary policy works by stimulating domestic spending, driving down currency values, and further stimulating net exports.
+Whether intentionally or not, in recent years the United States has followed this textbook prescription almost perfectly.
+Fiscal policy has been contractionary, as evidenced by the high and growing budget surpluses, and has contributed to the moderately high levels of national saving, as shown earlier in chart 2.
+Monetary policy has let fiscal policy do its work in raising levels of national saving and investment and then has been aimed at keeping overall output near the level implied by the noninflationary rate of unemployment, the rate below which inflation begins to increase.
+The result has been an economy near full employment, with low and stable inflation, with high national saving and investment ratios, and with rapid productivity improvement.
+In this sense there are two keys to the sustainability of the investment boom.
+The first is whether recent investment increases are likely to have greater staying power, as suggested by Tevlin and Whelan’s results, or are merely the product of an accelerator cycle.
+The second lies with the central bank.
+The goal of monetary policy, as always, is to try to ensure high employment and stable prices.
+The high employment goal should, at least in principle, guard against cyclical drops in investment demand; the stable price goal should guard against overheating and costly increases in inflation.
+The question is whether monetary policy can achieve these goals simultaneously.
+Two policy approaches have been proposed recently for dealing with this delicate balancing act.
+One favorite among academics is John Taylor’s rule.
+This rule would have the Fed setting short-term interest rates equal to an equilibrium nominal short rate, plus a term of forcing up nominal rates if inflation rises and a term of forcing down nominal rates if unemployment rises.
+Another favorite among academics, and this time also many foreign central banks, is inflation targeting.
+Inflation-targeting central banks use their inflation target to anchor monetary policy.
+If inflation threatens, an inflation-targeting central bank would tighten policy until inflation is brought under control.
+It might appear that these inflation-targeting central banks would ignore unemployment, but in fact what most economists and central bankers mean by inflation targeting is a more flexible approach.
+Specifically, if recession threatens, most flexible inflation targeters would take action against recession to prevent inflation from dropping below its preset target.
+Under normal circumstances there might be little difference between following a Taylor rule approach to monetary policy or an inflation-targeting approach.
+Either way, the central bank will act against both impending inflation and impending recessions.
+In either case, if successfully done, monetary policy would be following its assigned role of stabilizing the economy, which in this context means preventing business cycles, and associated investment cycles.
+In either case, the big challenge facing the central bank is policy lags.
+If it takes time before monetary policy affects the economy, either a Taylor rule central bank or an inflation-targeting central bank will have to act sufficiently early, perhaps preemptively, to neutralize the cyclical shocks.
+Doing that in a time of forecasting uncertainty will not be easy.
+Conclusion There are many potential explanations for the recent good performance of the American economy, but saving and investment should certainly be included in the list.
+Increases in federal government surpluses have returned overall national saving ratios to average historical levels.
+Increases in the foreign financing of U.S. investment have made possible further increases in nominal investment ratios.
+Reductions in relative prices for capital equipment spending have led investment still higher in real terms.

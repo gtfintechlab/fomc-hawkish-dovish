@@ -1,0 +1,95 @@
+In my comments today I will talk about how corporate governance and risk management can work together to help directors fulfill their responsibilities.
+Over the past two years, a considerable amount of time and energy have been expended in our country addressing corporate governance issues.
+As we all know, the concept of corporate governance is not new to U.S. financial institutions.
+Senior management and boards of directors of banks, both publicly traded and privately held, have a tradition of taking their responsibilities for ensuring effective governance seriously.
+In my comments today, I want to address the state of corporate governance at community banks and describe what we are observing through the examination process.
+I'll also touch on some of the developing best practices in corporate governance, internal control, and operational-risk management.
+Many of these best practices seem to be resulting from community bankers like you, who are modifying corporate governance and risk management principles to make them relevant to your individual business and corporate structure.
+At the Federal Reserve, we tend to favor best-practice approaches to corporate governance at community banks rather than a one-size-fits-all approach.
+The Regulators' Perspective Let me begin by describing how regulators view the quality of corporate governance at community banks.
+A review of results of recent Federal Reserve examinations that used the current CAMELS type of assessment indicates that most community banks have effective corporate governance.
+Eighty-four percent of all community banks reviewed were rated highly with respect to risk-management practices, including corporate governance.
+This is not to say that we don't see the need for improvement in certain areas.
+Examination findings routinely cite ways in which risk management and corporate governance could be improved.
+However, it is apparent that the senior management, boards, and audit committees in these highly rated organizations are setting annual agendas that focus attention on the high-risk and emerging-risk areas within their banks while continuing to provide appropriate oversight to the low-risk areas.
+Internal auditors, or equivalent functions at these banks, are testing to determine whether the risk- management program is effective and are communicating the results to the board and the audit committee.So, the examination results appear to indicate that the majority of banks are getting the message on the basics of sound governance.
+However, we also performed a review of the corporate governance at the subset of banks with weak or unsatisfactory ratings.
+Not surprisingly, this review identified the major challenges facing these banks to be poor asset quality and corporate governance issues.
+Eighty-nine percent of the lower-rated community banks experienced serious asset-quality problems.
+Sixty percent of the community banks in this group experienced significant deficiencies in corporate governance.
+The corporate governance deficiencies could broadly be described as internal control weaknesses, weak or inadequate internal audit coverage, significant violations of law, accounting system weaknesses, and information technology issues.
+As you know, once an organization gets lax in its approach to corporate governance, problems tend to follow.
+Many of you can recall the time and attention management devoted to section 112 of the Federal Deposit Insurance Corporation Improvement Act, which first required bank management reports on internal controls and auditor attestations in the early 1990s.
+Then the process became routine, delegated to lower levels of management and stale to the changes in the way the business was being run.
+Unfortunately, for organizations with weak governance, trying to change the culture again is taking an exceptional amount of senior management and directors' time--time taken away from building the business.
+The challenge, therefore, is to ensure that the corporate governance at community banks keeps pace with the changing risks that you will face in the coming years.
+According to a global survey of financial institutions conducted by PricewaterhouseCoopers, one of the reasons financial institutions are not making the grade is that they equate effective governance with meeting the demands of regulators and legislators, without recognizing that sound governance is also good for business.1 That is, they tend to look at this as another compliance exercise.
+The study goes on to state that the compliance mentality is limiting these institutions' ability to achieve strategic advantages through governance.
+I agree that any institution who views corporate governance as merely a compliance exercise is missing the mark.
+We all are aware of companies in various industries who have successfully presented their strategic vision to investors, but who later stumble because the execution of that strategy did not meet expectations.
+Although shortfalls can occur for many reasons, one of the more common shortcomings is that the strategy was focused too much on market and financial results and too little on the infrastructure necessary to support and sustain the strategy.
+Over the years, corporate managers have demonstrated that focusing on better process management can enhance financial returns and customer satisfaction.
+They have learned that correcting errors, having downtime in critical systems, and failing to provide the timely training that would enable staff to handle their changing tasks, all create higher costs and lost revenue opportunities.
+I challenge you to consider the corporate governance structure appropriate to your bank's unique business strategy and scale as an important investment, and to consider returns on that investment in terms of the avoidance of the costs of poor internal controls.
+Corporate strategies often focus on the most likely future scenario and the benefits of a strategic initiative.
+A sound governance, risk-management, and internal control environment starts by being part of the strategic planning exercise.
+That is, while the strategy is being considered, managers and board members should be asking: What are the major risks of this plan?
+How much risk exposure are we willing to accept?
+What mitigating controls need to be in place to effectively limit these risks?
+How will we know if these controls are working effectively?
+In other words, by considering risks as part of the planning process, controls can be built into the design, the costs of errors and reworking in the initial rollout can be reduced, and the ongoing initiative can be more successful because monitoring can reveal when activities and results are missing their intended goals, and corrective actions can be initiated more promptly.
+Operational Risk The Federal Reserve System is conducting selected reviews for operational risk at community banks.
+By operational risk, I mean "the risk of direct or indirect loss resulting from inadequate or failed internal processes, people and systems or from external events," which is the definition used by the Basel Committee on Banking Supervision.
+At the Federal Reserve, we are placing an increasing focus on operational risk.
+This is due in part to the significant improvements in interest-rate and credit-risk management that we have seen in the last two decades.
+Thus, weaknesses in governance and internal controls and operational risks become more apparent.
+For example, at one of our Reserve Banks we are conducting a pilot program specifically geared toward the operational-risk activities of smaller community banks, those with less than $500 million in assets.
+One of the objectives of the program is to identify and test the key internal controls used by banks to mitigate operational-risk exposures.
+The reviews focus on specific business processes with high operational risk--for example, the wire transfer and loan administration areas.
+The bankers involved have responded very favorably to the program and indicated they have received measurable benefits.
+Moreover, the program has identified some common operational control weaknesses to which we believe community banks should pay particular attention.
+We expect to summarize these findings and provide further updates and guidance to the industry as we move forward.
+The findings are not revolutionary insights but are confirmation of the importance of controls long in use by well-run organizations.
+We hope these studies serve as reminders that can help bank managers continuously improve internal controls as part of the normal business process.
+Risk Management and Introduction of New Activities An enterprise-wide risk-management program should be dynamic, constantly assessing changing risks when new business lines or activities are added or existing activities are altered.
+Continuing reassessment of risks and controls, and communication with the business lines, are necessary to avoid a program that is operating on autopilot and does not proactively respond to change in the organization.
+Many of the organizations that have seen their reputations tarnished in the past few years have simply neglected to consider emerging risks when adding new products and lines of business.
+It is important to make sure that mitigating controls are in place before the product or activity begins, including adequate reports to the board, the audit committee, and senior management about new or changed processes, procedures, and controls.
+The robustness and effectiveness of these controls must be evaluated independently, soon after the control structure is established, so that any shortcomings can be identified promptly and corrected.
+Risk assessments initiated early in the planning process can give the bank time to implement mitigating controls and conduct a validation of the quality of those controls before launching the product.
+Strong internal controls and governance require that these assessments be done by an independent group.
+One of the weaknesses we have seen is that management delegates both the development and the assessment of the internal control structure to the same managers.
+Instead, product-line management should have the responsibility for identifying risks and ensuring that the mitigating controls are effective, and the assessments should be done by a separate group of officers, auditors, or consultants independent of that line organization.
+New products include products or services being offered to, or activities being conducted for the first time in, a new market or to a new category of customers or counterparties.
+For example, a product that has traditionally been marketed to middle-income customers but that is now being rolled out to low- or moderate-income customers generally should be reviewed as a new product.
+In addition, significant modifications to products, services, and activities--or to their pricing--warrant review as a new product.
+Even small changes in the terms of products or the scope of services or activities can greatly alter their risk profiles and justify review as a new product.
+When in doubt about whether a product, service, or activity warrants review as a new product, financial firms should err on the side of conservatism and route the proposal through the new-product approval process.
+Cutting short a new-product review because of a rush to deliver a new product to market, or because of performance pressures, increases the potential for serious risk exposures and losses.
+Let me describe the evolution of two traditional products that came to regulators' attention because the changing risk exposures in the products did not trigger appropriate changes in the internal control and risk-management infrastructure.
+The first is credit cards, which have long been a profitable service offered by many financial institutions.
+In the last several years, however, credit cards have been marketed to higher-credit-risk customers who traditionally would not have qualified for this product.
+Despite the differences in risk profiles and revenue streams, targeted regulatory reviews of subprime credit card lending determined that internal controls and risk-management information had not been adapted to monitor these new products at some institutions.
+Because so much of the revenue from these products is in the form of up-front, monthly, and late fees, rapid growth in the number of accounts leads to billing of fees ahead of charge-offs that occur later in the customer relationship.
+Some banks were recording fee income as revenue when it was billed, and they had no information system to determine what share of those fees would eventually be collected.
+As the number of accounts was growing, the write-off of uncollectible fees was not transparent in the aggregate fee income that was being recorded.
+Once organizations tracked write-offs of uncollectible fees and tied them with credit scores of customers and aging of accounts, a portion of fees billed was reserved against losses.
+Further, the rapid growth of credit card balances outstanding also masked the deteriorating credit quality of some portfolios.
+When these organizations began to track charge-offs by age of account, six-month charge-off rates of subprime portfolios were found to exceed those of prime credit cards severalfold.
+When management and boards looked at this new information, they saw a very different picture of the profitability of this product.
+Some banks realized that as soon as growth of accounts slowed, the front-ending of income would be overcome by the back-ending of charge-offs.
+They realized that the product as structured was in fact reducing shareholder value, and they took appropriate actions.
+The second product evolution I want to examine is bounced-check protection.
+Bankers have always honored the occasional check written by a good customer that was presented with insufficient funds.
+But in the last couple of years, vendors have been marketing programs to grow fee income by promoting the availability of this balance-protection service.
+Consumers do benefit when banks cover checks, since they do not incur returned- check charges from the merchant to whom they wrote the check, not to mention the embarrassment of bouncing a check.
+But again, some bankers did not stop to consider how this new service was changing the risk profile of the service and effectively assess the risk and reward.
+Here is where an enterprise-wide risk management approach to product introduction can help.
+When a bank covers more checks for a greater variety of customers, it in effect changes the risk that those customers may never bring their accounts current.
+If the fees for overdrafts are booked as income when billed to the account, it may be some time before the overdraft becomes large enough to call attention to the need for a charge-off.
+If credit-risk officers were involved in the review of this new product, they might be more likely to realize that an information system should be in place to track the frequent users of this service and write a policy that called for timely recognition of charge-offs.
+In fact, such a procedure could identify customers in temporary financial duress who might be candidates for loan products, in which case the bank could retain good long-term customers and appropriately structure the loan to reflect the risk, and the customers could obtain the needed credit at an all-in cost below what they would incur by using their checking accounts inappropriately.
+The Federal Reserve, along with the other regulators, published for comment some guidance on this product, and I do not want to prejudge the results of that review.
+So, in the meantime, I turn your attention to guidelines prepared by the American Bankers Association, which provide some useful information.
+Conclusion In conclusion, community banks are further improving their traditional focus on strong corporate governance.
+Those banks leading the way recognize that the culture of governance, risk management, and internal controls cannot readily be switched on and off.

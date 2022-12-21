@@ -1,0 +1,104 @@
+I would like to thank the British Bankers' Association for the invitation to speak at this important conference.
+Today, I want to focus on some current supervisory issues to illustrate how financial stability, portfolio concentration, regulatory capital, enterprise compliance, and clear consumer disclosures all reflect varying types of risk exposures and risk mitigation.
+When banks determine their business strategies and the inherent risks they create, supervisors expect banks to develop appropriate risk management practices to ensure that mitigating controls are in place to limit risks to the desired levels.
+Assessing Recent ConditionsAs a central banker, I realize that a strong, stable financial system is necessary for the health of the broader economy.
+Excessive volatility in financial markets can significantly raise the cost of capital for business investment and adversely affect real economic expansion.
+Moreover, a weak financial sector can significantly impede the monetary transmission mechanism, potentially limiting the ability of the central bank to stimulate the economy.
+Since commercial banks are crucial players in the financial system, efforts to improve their risk management can help mitigate the impact of shocks on the financial system and the real economy.
+Further, in order to foster the stability of the financial system, we need to support the resiliency of our financial infrastructure and promote sound supervisory oversight.
+Despite a number of notable shocks, financial markets have generally remained stable in recent years.
+Investors currently seem optimistic about the economic and financial outlook, with risk spreads relatively narrow and implied volatilities fairly low.
+Businesses have been reporting strong profits and solid balance sheets.
+Financial market functioning has remained good, with most measures of financial market liquidity remaining within typical ranges.
+At this point, investors do not appear to believe that financial institutions are unduly exposed to any particular risk type or to risks in the aggregate.
+The natural follow-on from any central banker or supervisor to such a positive description of financial conditions is predictable: We should not necessarily expect such relative calm to continue indefinitely.
+Clearly, the evolution of financial institutions and markets has not removed the underlying risks and uncertainties associated with financial transactions, and, in fact may create new forms of risk that may not be clearly understood.
+Financial institutions and other market participants must still make decisions and take actions with incomplete knowledge about the condition of their counterparties.
+CRE Concentration RiskWhile credit quality has been very good in recent years in the U.S., regulators are concerned about some emerging practices.
+One example is commercial real estate (CRE) in the United States, an area in which some banks have become increasingly concentrated.
+In fact, the aggregate CRE concentrations for small-to-medium-sized U.S. banks, relative to capital, are now twice the exposures before the substantial real estate downturn in the late 1980s.
+As supervisors, we want to ensure that risk management practices and capital levels are appropriate given the level of concentrations, and that institutions have thought through the possible consequences of a market downturn in CRE.
+U.S. regulators recently issued for comment proposed new guidance for examiners on CRE.
+Historically, CRE has been a highly volatile asset class.
+Borrowers and bankers with properties in distress can disrupt their local real estate market by cutting rents or offering leasehold improvements and other incentives to attract or keep tenants in an effort to generate cash flow.
+This can negatively affect the local real estate market as a whole, and adversely affect even good projects.
+CRE is a highly volatile asset class in that credit losses in most years are relatively low compared with many other types of bank loans.
+But in times of stress, the loss rate on CRE can jump considerably higher relative to the good years, compared with the behavior of other types of loans.
+As banks' concentration of CRE grows, they must upgrade their portfolio risk management practices, especially monitoring proposed projects and conditions in the sector of the CRE market in which they are lending.
+Since CRE losses tend to cluster in times of stress, bankers must focus more intently on their risk appetite for losses as their concentration grows.
+This means considering how much capital can be placed at risk if the portfolio of CRE loans hits a stress period and comparing that loss exposure to the relative returns in CRE lending.
+As banks increase their concentration in CRE, supervisors will expect to see bankers pay greater attention to strengthening their portfolio risk management practices.
+Improving Bank Capital MeasuresOf course, banking is, and should be, a business in which banks take and manage risks.
+Bankers implicitly accept risk as a consequence of providing services to customers and also take explicit risk positions that offer profitable returns relative to their risk appetites.
+The job of bank supervisors is to ensure that bank capital represents an adequate cushion against losses, especially during times of financial instability or stress.
+Supervisors should continue to support approaches that minimize the negative consequences of risk taking by financial institutions, particularly those institutions that could contribute to financial instability.
+One such approach is the Basel II framework.
+By now most of you are aware that last month the U.S. banking agencies released their latest proposals with respect to Basel II and are now seeking comment on those proposals.
+I imagine that many of you have already read these extensive documents.
+The U.S. banking agencies are eagerly awaiting comments on the proposals and now expect to engage in a continuing dialogue with all interested parties as to whether the proposals meet our stated objectives and how they can be improved.
+We hope that those reviewing the documents understand that Basel II is intended to promote the stability of the U.S. financial system by ensuring the safety and soundness of the largest U.S. banks.
+Thus, the ability of Basel II to promote safety and soundness is the first criterion on which the proposed Basel II framework should be judged.
+Indeed, the Federal Reserve's main reason for pursuing the advanced approaches of Basel II is the growing inadequacy of current Basel I regulatory capital rules for the large, internationally active banks that are offering ever more complex and sophisticated products and services.
+We need a more risk-sensitive capital framework for these particular banks, and we believe that Basel II is such a framework.
+In addition, Basel II promotes risk-management enhancements and improves market discipline, as well as providing supervisors with a more conceptually consistent and more transparent framework for evaluating systemic risk, particularly through credit cycles.
+Basel II should be able to establish a more coherent relationship between regulatory measures of capital adequacy and day-to-day supervision of banks, enabling examiners to better evaluate whether banks are holding prudent levels of capital given their risk profiles.
+The reasons for pursuing Basel II also provide justification for the recent Basel revisions to the 1996 Market Risk Amendment (MRA).
+Since adoption of the MRA, banks' trading activities have become more sophisticated and have given rise to a wider range of risks that are not easily captured in their existing value-at-risk (VaR) models.
+For example, more products related to credit risk, such as credit default swaps and tranches of collateralized debt obligations, are now included in the trading book.
+These products can give rise to default risks that are not captured well in methodologies required by the current rule specifying a ten-day holding period and a 99 percent confidence interval, thereby creating potential arbitrage opportunities between the banking book and the trading book.
+The U.S. agencies issued their proposals to revise Market Risk capital requirements at the same time as the Basel II proposals, and we seek comment on the market risk proposals as well.
+Notably, in the United States we would continue to have banks with significant trading book activity hold additional capital for the risks inherent in that line of business, whether they remain Basel I banks or move to Basel II.
+Given the international composition of this audience, I want to offer a few thoughts about the cross-border issues related to Basel II implementation.
+As you know, the U.S. agencies participate with other national supervisors in the Accord Implementation Group and other groups to identify differences in implementation and discuss possible ways to harmonize rules and thereby reduce burden on cross-border banking organizations.
+We recognize that the adoption of differing approaches to Basel II by various countries may create challenges for banking organizations that operate in multiple jurisdictions, but it is good to remember that cross-border banking has always raised specific challenges that supervisors from various countries have worked hard to address.
+Let me assure all bankers here that supervisors are aware that the process of adopting national versions of Basel II has heightened concerns about home-host issues.
+The Federal Reserve and other U.S. agencies have, for many years, worked with international counterparts to limit the difficulty and burden that have arisen as foreign banks have entered U.S. markets and as U.S. banks have established operations in other jurisdictions.
+We encourage bankers that have questions and concerns about home-host issues to promptly communicate with their regulators in all jurisdictions so that the issues can be addressed.
+Enterprise Compliance Risk Management and BSA/AMLI would now like to turn to another area of the financial sector that regulators are focused on: compliance-risk management.
+This type of risk may result when an organization fails to comply with the laws, regulations, or standards or codes of conduct that are applicable to its business activities and functions.
+The Federal Reserve expects each banking organization to have a compliance infrastructure and culture in place across the entire institution that can identify and effectively control the compliance risks it faces.
+To create appropriate compliance-risk controls, organizations must first understand risks across the entire entity.
+Managers should be expected to evaluate the risks and controls within their scope of authority at least annually.
+I also emphasize the need for the board of directors and senior management to ensure that staff members throughout their organizations understand the compliance objectives and each member's role in implementing the compliance program.
+The compliance function should be independent of management whose activities it reviews and monitors.
+An enterprise-wide compliance-risk management program should be dynamic and proactive, meaning it constantly assesses evolving risks when new business lines or activities are added or when existing services or processes are altered.
+To avoid having a program that operates on "autopilot," an organization must continuously reassess its risks and controls and train employees to effectively implement those controls.
+An integrated approach to compliance-risk management can be particularly effective for U.S. Bank Secrecy Act and anti-money-laundering (BSA/AML) compliance.
+Often, the identification of a BSA/AML risk or deficiency in one business activity or subsidiary can indicate potential problems or concerns in other activities across the organization.
+A primary concern for international banking organizations continues to be controlling BSA/AML risk effectively across their various operating units in the United States.
+We recognize the commitment that organizations have made to compliance with BSA/AML requirements, and, in return, we continue to work to ensure that obligations in this area are clearly communicated to banking organizations and examiners alike.
+The Federal Reserve strives to provide clear and comprehensive guidance that directly communicates our expectations to the institutions we supervise.
+This year, the U.S. banking agencies published an updated Federal Financial Institutions Examination Council (FFIEC) BSA/AML Examination Manual to cover new regulatory issuances and respond to industry requests for further guidance.
+We expect to issue annual updates to the manual to cover developments in this evolving area of risk.
+The FFIEC BSA/AML Examination Manual reflects a common view of the federal banking agencies and the U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) with regard to BSA/AML compliance expectations.
+The agencies universally stress that the purpose of a BSA/AML examination is to assess the overall adequacy of a banking organization's BSA/AML controls, in view of that particular organization's lines of business and customer mix.
+Focusing on the BSA/AML process across the enterprise is critical to ensuring that resulting controls are risk-based, so that resources are directed appropriately.
+Together with our U.S. Treasury and law enforcement counterparts, we are working to disseminate information about perceived money-laundering or terrorist-financing threats.
+By identifying emerging vulnerabilities, we can better collaborate with banking organizations to develop systems and procedures to combat criminals' abuse of the financial sector.
+For example, the interagency Money Laundering Threat Assessment (4.1 MB PDF) is one step we have taken--with fifteen other U.S. government bureaus, offices and agencies, including law enforcement--to identify significant concerns and communicate them to banking organizations.
+We are also working on an international basis to advance sound principles for compliance risk management.
+Last year, the Basel Committee published supervisory guidance on the compliance function in banks.
+That guidance lays out several key principles around which a successful compliance risk program should be organized.
+They include responsibilities of the board of directors and senior management, the need for proper independence and adequate resources in the compliance risk function, the specific duties of the compliance function, and the relationship with internal audit.
+Despite strong efforts by many bankers, there are still some indications that more work needs to be done.
+Indeed, some of the recently publicized compliance incidents may have been avoided if the institutions involved had more closely adhered to the Basel Committee's guidance.
+Consumer ProtectionIn addition to overall compliance risk management, the Federal Reserve is also concerned with consumer protection.
+Of course, consumer protection laws vary from country to country and bankers must ensure they measure up to each national standard.
+However, we think it is also simply good business sense for bankers to make sure that their customers clearly understand the price, features, and risks of products and services being offered to them.
+Recent advances in risk management and financial instruments have allowed financial institutions to offer a variety of new products to a wider range of customers.
+This is particularly prominent in mortgage products.
+Traditionally, in the United States, the majority of borrowers had mortgages with fixed rates and equal monthly payments that were sufficient to cover the accrued interest and pay down the principal.
+While nontraditional mortgages, including "interest only" mortgages and "payment option" adjustable-rate mortgages, have been available for many years, they were largely designed for higher-income borrowers who needed payment flexibility.
+The initial lower monthly payments make these mortgages attractive to borrowers who expect their income to increase.
+Payment flexibility also provides benefits to borrowers with seasonal or irregular income.
+In recent years, however, these products have been offered to a broader array of consumers, including some for whom they may not be well suited.
+Borrowers may not fully recognize the risks of nontraditional mortgages, particularly the "payment shock" if the loan's interest rate increases, or when the consumer is required to make fully amortizing payments.
+It is important for consumers to have the information necessary to understand the features and risks of these types of mortgages.
+As bankers create more complex products, they should pay particular attention to improving the quality of their disclosures and sales practices, so that consumers can clearly understand the features of those products.
+The Federal Reserve is committed to improving the information consumers receive about these products, including improving the disclosures required under the U.S.
+Truth in Lending Act.
+As we work to improve the understanding of disclosure information to consumers, the Federal Reserve also engages in outreach activities and conducts research to help us better understand consumer behavior and inform our judgment with regard to the best approaches to achieve consumer understanding.
+To this end, we sponsor consumer surveys, hold public hearings, discuss issues with our Consumer Advisory Council, and conduct consumer focus groups and other types of consumer testing.
+ConclusionThe topics I have focused on this morning, portfolio concentration risk in CRE, improved risk sensitivity of Basel II, enterprise wide compliance of BSA/AML and clear communication to consumers about complex products, emphasize that risk management needs to be integrated into daily operations of banks.
+As an organization chooses to accept more risk exposure to implement its strategies, it is imperative that the organization strengthen its risk management practices appropriately.
+A bank should clearly understand the implications of the risks it chooses to accept, ensure that the risk mitigants it has chosen work effectively, and that capital is strong enough to support the bank throughout an extended period of unexpected losses.

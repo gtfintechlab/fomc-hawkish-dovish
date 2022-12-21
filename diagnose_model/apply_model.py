@@ -12,7 +12,7 @@ import torch
 from torch.utils.data import TensorDataset, DataLoader
 import torch.optim as optim
 
-train_test_data_path="../training_data/manual_v2.xlsx"
+train_test_data_path= "../training_data_old/manual_v2.xlsx"
 
 data_df = pd.read_excel(train_test_data_path)
 list_of_sentences = data_df['sentence'].to_list()

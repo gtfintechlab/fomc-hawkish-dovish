@@ -1,5 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"as my colleagues on the federal reserve board have often noted, technological innovation affects not just banking, financial services, and regulatory policy, but also the direction of the economy and its capacity for continued growth.",LABEL_2,0.9937536120414734
-1,"we know that productivity in financial services, like productivity in the rest of the service sector, is very hard to measure.",LABEL_2,0.9979022741317749
-2,the third possible lesson from the history of technology in banking is that banking services may be a class of services for which demand and supply interact so that new supply creates additional demand.,LABEL_2,0.9965604543685913
-3,"clearly, creating different channels for retail access to banking services, such as branches, pc banking, phone banking, atms, and the internet, has neither significantly reduced the demand for any of those channels nor led to significant bank cost savings.",LABEL_2,0.8432886600494385

@@ -1,0 +1,71 @@
+This conference addresses the important and timely topic of market discipline.
+Last evening Tom Jones spoke about the challenges in achieving high-quality, convergent, international accounting standards.
+My remarks, too, will touch on the importance of sound accounting and auditing, but I will also focus on the growing importance of transparent disclosures to the effective functioning of financial markets.
+Further, I will discuss how information users, particularly those who provide analysis to investors, can improve the quality and accessibility of their analysis.
+I will use some recent research on pension fund accounting to illustrate this issue.
+And, at the risk of setting a bleak tone for the remainder of the evening, I will also discuss the difficulties associated with achieving meaningful disclosure.
+Accounting standards and appropriate disclosure are complex issues, and achieving proper and useful disclosure is not an easy task.
+Disclosure is not just a greater volume of information but information provided in context.
+Companies need to make disclosures in a way that promotes and encourages transparency.
+In the long run, useful disclosures will benefit well-managed companies by allowing these firms to gain access to funds in the marketplace at rates that reflect their sound management.
+Of course, investors cannot be left completely off the hook--a point too often ignored.
+Analysts and stakeholders have an obligation to carefully analyze disclosed information and demand better disclosure if what is provided is not adequate or useful.
+Only then can they promote and achieve market discipline, in the classic sense of buying and selling securities, or taking a more activist approach in proxy voting and in initiating reforms.
+Audit Quality Most firms favor accounting standards and disclosure that help to faithfully portray the economics of a transaction, although a few companies in recent years have not been completely transparent about their practices.
+In these latter situations, financial reports have neither reflected nor been consistent with the way the business has actually been run or the risks to which the business has actually been exposed.
+Many, if not most, of these recent cases reflect fraud and breakdowns in auditing rather than inadequate accounting standards.
+Markets must be able to rely on the quality of work of outside auditors.
+In 2002, we were reminded that markets do in fact harshly discipline companies that have misled markets about their performance.
+But we also saw a general run-up in debt spreads in 2002, as more corporate accounting and fraud abuses became known and the market became concerned about the general quality of audits.
+Thus, weaknesses in a few companies and major audit firms significantly raised the cost of capital broadly across markets.
+That is why the work of the new Public Company Accounting Oversight Board is so important--to re-establish the trust that investors can rely on the quality of audits.
+International accounting standards are moving toward an approach based on principles rather than the approach based on prescriptive rules that is familiar in the United States.
+The more complex and dynamic the business world becomes, the more important it is that accounting be based on strong principles that provide the framework for proper accounting of new types of transactions.
+However, I strongly believe that accounting standards based on principles cannot achieve the high-quality, reliable information that markets demand unless the quality of audits improves and there is insistence on high professional standards and integrity for corporate financial officers and auditors.
+I hope the efforts of the newly formed Public Company Accounting Oversight Board to enforce a higher professional standard at accounting firms will help restore consistency in financial reporting in U.S. financial markets.
+The International Accounting Federation's recent proposal to create a Public Interest Oversight Board should be supported by regulators in all countries to ensure that this renewed emphasis on high-quality professionalism for accountants and auditors becomes the standard.
+Further, this summer, bank regulators in the United States adopted guidance that would permit the regulators to debar an accountant from auditing a financial institution.
+The bank regulators have had this statutory power since the1991 passage of the FDIC Improvement Act but, until 2001, had never seen weaknesses in audit quality that were widespread enough to require guidance.
+In the past two years, however, we have seen such significant breaches in audit quality at financial institutions that formal guidance was adopted to communicate clearly that we will not tolerate the poor quality of audits and attestations that we were seeing at several banking organizations.
+Meaningful Disclosures and Financial Innovations What constitutes meaningful disclosure can be discussed in the context of the rapid and dramatic pace of financial innovations and risk management practices in the past few decades.
+During this period, firms acquired effective new tools to manage financial risk, one of which was securitization.
+Securitization helps a firm manage the risk of a concentrated exposure by transferring some of that exposure outside the firm.
+By pooling a diverse set of assets and issuing marketable securities, firms obtain liquidity and reduce funding costs.
+Of course, moving assets off the balance sheet and into special purpose entities, with the attendant creation of servicing rights and high risk residual interests retained by firms, generates its own risks and reduces transparency unless the firm takes additional disclosure steps.
+Firms also use derivatives to manage their risk exposures.
+Firms face risks from price fluctuations in currency, commodity, energy, and interest rate markets.
+More recently, firms have used a relatively new type of derivative, credit derivatives, which allow firms to purchase protection against the risk of loss from the default of a given entity.
+By purchasing such protection, financial and nonfinancial firms alike can limit or reduce their exposures to given borrowers or counterparties.
+Credit derivatives also allow financial firms to achieve a more-diversified credit portfolio by acquiring credit exposure to borrowers with which they do not have a lending relationship.
+For example, European insurance companies reportedly have used credit derivatives to acquire exposure to European corporations that, because they rely primarily on bank lending, have little publicly traded debt outstanding.
+The improvements in technology, the quick pace of financial innovation, and the evolving risk-management techniques almost ensure that businesses will increasingly use almost limitless configurations of products and services and sophisticated financial structures.
+A byproduct of these developments will be that outsiders will have ever more difficulty understanding the risk positions of many large, complex organizations.
+These developments represent significant challenges to standard setters and to firms.
+For market discipline to function, accounting boards must innovate to accurately capture these developments.
+Company managers must also do their part, by ensuring that public disclosures clearly identify all significant risk exposures whether on or off the balance sheet and their effects on the firm's financial condition and performance, cash flow, and earnings potential.
+With regard to securitizations, derivatives, and other innovative risk transfer instruments, accounting measurement of a company's balance sheet at a point in time may be insufficient to convey the full effect of a company's financial risk profile.
+Therefore, disclosures about how risks are being managed and the underlying basis for values and other estimates must be included in financial reports.
+Unlike typical accounting reports, information generated by risk management tends to be oriented less to a particular time and more to a description of the risks.
+To take an example from the world of banking, where the discipline of risk management is relatively well developed, a fair value report might say that the value of a loan portfolio is $300 million and has dropped $10 million from the previous report.
+However, the bank's internal risk report would show much more extensive information, such as the interest rate and credit quality of the assets and the range of values the portfolio would take under alternative future scenarios.
+Thus, unlike a user of the fair value report, the user of a risk management report could determine whether changes in value were due to declining credit quality, rising interest rates, or sales or payoffs of loans.
+Corporate risk officers have developed other types of reports that provide information on the extent to which the total return in a particular line of business compensates for the line's comprehensive risk.
+A reader of such a report can determine whether the growing lines of business have risk exposures that tend to offset those in other business lines thereby resulting in lower volatility for the earnings of the corporation as a whole.
+Complex organizations should continue to improve their risk management and reporting functions.
+When they are comfortable with the reliability and consistency of the information in these reports, they should begin disclosing this information to the market, perhaps in summary form, paying due attention to the need for keeping proprietary business data confidential.
+The test for useful disclosure should be the question, Are we--the firm and its accountants--providing investors with what is needed to evaluate accurately the risk position of the firm?
+Disclosure that meets this test would not only provide more qualitative and quantitative information about the firm's current risk exposure to the market but also help the market assess the quality of the risk oversight and risk appetite of the organization.
+And, by reducing uncertainty, it would lower the cost of, and increase access to, market funding.
+I particularly want to emphasize that disclosure need not be in a standard framework nor exactly the same for all organizations.
+Rather, we should all be insisting that each entity disclose the information that its investors need to evaluate the entity's risk profile in the most convenient and useful way.
+And we should keep in mind that disclosure without context may not be meaningful.
+Transparency means that the information presented allows an accurate understanding of the transaction that has transpired and challenges firms to present information that fosters market discipline.
+That is why Pillar 3 in the Basel II accord is so important.
+The Importance of Reading Disclosures: Defined-benefit Pension Plans The complexities and difficulties of establishing sound accounting standards and meaningful disclosure are illustrated by the treatment of expenses associated with defined-benefit pension plans.
+Though the details of pension accounting will surely cause many eyes to glaze over and make you all wish you were out "trick or treating" tonight, I do want to use this accounting standard as an example.
+In recent years we have seen how the actuarial principles on which these standards are based can produce, quite frankly, some very misleading measures of corporate earnings and balance sheets.
+Moreover, "full disclosure" of the underlying details, by itself, does not appear to be a panacea.
+The most widely criticized aspect of the U.S. accounting standard for defined-benefit pensions is the treatment of investment returns.
+In effect, firms use expectations of the long-term return on assets in defined-benefit plans to calculate current-period pension cost (income) while disguising the volatility actually occurring in the portfolio.
+At the same time, they use a spot rate to discount the future liabilities.
+This accounting is reconciled with the economic reality by gradual amortization of the discrepancies between the assumed and the actual returns experienced on pension assets.

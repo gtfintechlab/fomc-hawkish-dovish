@@ -1,0 +1,121 @@
+But my colleagues and I are keenly aware that the U.S. economy operates in a global environment.
+We understand that America's prosperity is bound up with the prosperity of other nations, including emerging market nations.
+Emerging market economies have long grappled with the challenges posed by large and volatile cross-border capital flows.
+The past several decades are replete with episodes of strong capital inflows being followed by abrupt reversals, all too often resulting in financial crisis and economic distress.2 Some of this volatility no doubt reflects the evolution of strengths and vulnerabilities within the EMEs themselves.
+In recent years, renewed attention has been placed on the role of advanced economies and of common or global factors in driving capital movements.3 In particular, many observers have singled out monetary policy in the United States and other advanced economies as a key driver.
+As advanced economies pursued highly accommodative monetary policies and EMEs subsequently received strong capital inflows, reflecting investors' pursuit of higher returns, concerns were expressed that a flood of liquidity would overwhelm emerging markets, drive up asset prices to unsustainable levels, set off credit booms, and thus sow the seeds of future crises.
+More recently, there have been concerns about potential financial and economic dislocations associated with the advanced economies' eventual exit from highly accommodative policies.
+In my remarks today, I will discuss the extent to which monetary policy in the advanced economies--and in the United States in particular--has contributed to changes in emerging market capital flows and asset prices, and I will place this discussion in a broader context of economic and financial linkages among economies.
+I will also address the risks that EMEs may face from the eventual normalization of monetary policy in the advanced economies.
+The heightened attention to advanced economies' monetary policies and the potential spillovers to EMEs is understandable in light of the unprecedented policy steps taken in the aftermath of the global financial crisis.
+The severity of the crisis and the challenge of a slow recovery required central banks in the advanced economies and elsewhere to take aggressive action in order to fulfill their mandates.
+In the United States, the Federal Reserve is bound by its dual mandate to pursue price stability and maximum employment.
+In following that mandate, the Fed cut the federal funds rate to its effective lower bound in late 2008 and then turned to two less conventional policy tools to provide additional monetary accommodation.
+The first is forward guidance on the federal funds rate.By lowering private-sector expectations for the future path of short-term rates, forward guidance has reduced longer-term interest rates and raised asset prices, thereby leading to more accommodative financial conditions.
+The second tool is large scale asset purchases, which likewise increase policy accommodation by reducing longer-term interest rates and raising asset prices.
+The Federal Reserve has not been alone in implementing unconventional monetary policies.
+The Bank of England has also engaged in substantial asset purchases and recently introduced explicit forward guidance for its policy rate.
+The Bank of Japan, a pioneer in the use of unconventional policy, has recently embarked on an ambitious asset purchase program to combat deflation.
+And the European Central Bank (ECB) substantially extended its liquidity provision by offering unlimited longer-term refinancing operations.
+The ECB also purchased some securities in distressed markets, and recently indicated that it expects interest rates to remain low for an extended period.
+Thus, since the end of the crisis, central banks in the advanced economies have adopted similar policies to promote recovery and price stability.
+While a great deal of attention has focused on unconventional policy actions, especially asset purchases, these policies appear to affect financial conditions and the real economy in much the same way as conventional interest rate policy.
+Indeed, recent research suggests that adjustments in policy rates and unconventional policies have similar cross-border effects on asset prices and economic outcomes.4 ; If that is so, then the overall stance of policy accommodation matters more here than the particular form of easing Moreover, neither conventional nor unconventional monetary policy actions are shocks that come out of the blue.
+Instead, they are the policies undertaken by central banks to offset the adverse shocks that have restrained our economies.
+Thus, any spillovers from monetary policy actions must be evaluated against the consequences of failing to respond to these adverse shocks.
+In a world of global trade and integrated capital markets, it is natural for economic and financial shocks and policy actions to be transmitted across borders.
+Spillovers from advanced-economy monetary policies are to be expected.5 In theory, when advanced economies ease monetary policy in response to a contractionary shock, their interest rates will decline, prompting investors to rebalance their portfolios toward higher-yielding assets.
+Some of this rebalancing will occur domestically, but some investment will also move abroad, resulting in capital flows to EMEs.
+In response, EME currencies should tend to appreciate against those of the advanced economies, and EME asset prices should rise.
+Conversely, a tightening of advanced economy monetary policy in response to a stronger economy should lead these movements to reverse; that is, tightening should reduce capital flows to EMEs and diminish upward pressure on EME currencies and asset prices.
+Are these basic relationships apparent in the data?
+The left side of chart 1 shows an index of EME local-currency sovereign bond yields along with a roughly similar maturity U.S. Treasury yield.
+The line on the right is the differential between the two, plotted against net inflows of private capital to a selection of EMEs, shown by the bars.
+If interest rates were the main driver of capital flows, these two series ought to move in a similar fashion.
+At times, this is indeed the case: From mid-2009 to early 2011, the interest rate differential and EME capital inflows rose together.
+But the overall relationship is not particularly tight.
+In early 2007, capital flows to EMEs were quite strong even with a low interest rate differential.
+And in mid-2011, capital inflows stepped down even as the interest rate differential remained elevated.
+As I will discuss in a moment, the lack of a tight relationship between capital flows and interest rates suggests that other factors also have been important.
+Even though interest-rate differentials and capital inflows do not always move in the same direction, numerous empirical studies have shown that interest rates do in fact help explain capital flows once other determinants of these flows are also taken into account.6 In particular, when U.S. rates decline relative to those in EMEs, private capital flows to EMEs tend to rise, consistent with investors rebalancing toward higher-yielding assets.
+In a similar vein, event studies have shown that the Federal Reserve's policy announcements, including those related to asset purchases, have been associated with capital flows to EMEs as well as upward movements in EME currencies and asset prices.7 But the role of monetary policy in driving capital flows and the effects of those flows on EMEs should not be overstated.
+In this regard, I will offer two considerations.
+First, many factors affect capital flows to EMEs, not just the stance of advanced economy monetary policy.
+Differences in growth prospects across countries and the associated differences in expected investment returns are important factors.8 Chart 2 shows the growth rate of real GDP for EMEs and advanced economies.
+Given their stage of development and demographic profile, EMEs should grow faster than advanced economies on a trend basis.
+As shown by the line in the right panel, EME growth has, in fact, consistently outpaced that of the advanced economies.
+In addition, the bounceback of the EMEs from the global financial crisis widened this differential even more, although the gap has diminished more recently as growth in the EMEs has slowed.
+Moreover, investing in EMEs has become more attractive as many EMEs have improved their macroeconomic policies and institutional frameworks over recent decades; growth differentials may partly be reflecting these improvements.
+As is evident in the right-hand chart, the relationship between the growth differential and capital inflows to EMEs seems to be quite strong.
+In particular, the rise in capital flows following the global financial crisis coincided with stronger relative growth performance in EMEs.
+And in 2011, capital inflows diminished along with the growth differential.
+Another key driver of EME capital flows is global attitude toward risk.
+Swings in sentiment between "risk-on" and "risk-off" have led investors to reposition across asset classes, resulting in corresponding movements in capital flows.9 Indeed, as shown in chart 3, the most common measure of uncertainty and the market price of volatility--the VIX--is strongly correlated with net inflows into EMEs.
+Although the causes of movements in global risk sentiment are uncertain, the ebb and flow of potential crises and policy responses, such as we experienced during the European crisis, are clearly important.
+Of course, movements in risk sentiment may not be fully independent of monetary policy.
+An interesting line of research has begun to consider how changes in monetary policy itself may affect risk sentiment.
+For example, some studies indicate that an easing of U.S. monetary policy tends to lower volatility (as measured by the VIX), increase leverage of financial intermediaries, and boost EME capital inflows and currencies.10 A second point to bear in mind when assessing monetary policy spillovers is that expansionary policies in the advanced economies are not beggar-thy-neighbor; in other words, they do not undermine exports from EMEs.
+In recent decades, some EMEs have successfully pursued an export-led growth strategy, and policymakers in those economies have sometimes expressed concern that their exports will be unduly restrained as accommodative policies in the advanced economies lead their currencies to appreciate.
+However, as shown in chart 4, although EME currencies bounced back from their lows during the global financial crisis--when global investors fled from assets they perceived to be risky--for many EMEs real exchange rates have moved sideways or have even declined over the past two years.
+Some of this weakness may reflect the foreign exchange market intervention and capital controls that policymakers used to staunch the rise in their currencies.
+But even if advanced economy monetary policies were to put upward pressure on EME currencies, the consequent drag on their exports must be weighed against the positive effects of stronger demand in the advanced economies.
+According to simulations of the Federal Reserve Board's econometric models of the global economy, these two effects roughly offset each other, suggesting that accommodative monetary policies in the advanced economies have not reduced output and exports in the EMEs.11 Indeed, this view seems to be supported by recent experience, as the U.S. current account balance has remained fairly stable since the end of the global financial crisis.
+Over the longer run, advanced economy policy actions that strengthen global growth and global trade will benefit the EMEs as well.
+A particularly important consideration regarding spillovers from accommodative monetary policies in the advanced economies is the extent to which such policies contribute to financial stability risks in the EMEs.
+Because many EMEs have financial sectors that are relatively small, large capital inflows may foster asset price bubbles and a too-rapid expansion of credit.
+These are serious concerns, irrespective of the relative importance of monetary policies in the advanced economies in driving these flows.
+While the picture is a mixed one and some markets show signs of froth, indicators of financial stability do not seem to show widespread imbalances.12 For example, EME equity prices, shown in chart 5, plunged during the global financial crisis, rebounded thereafter, but then generally flattened out or even declined.
+There are exceptions, of course, such as Indonesia, whose stock market soared until earlier this year.
+But in aggregate, EME stock prices remain below their pre-crisis peak, whereas the S&P 500 is well above its own pre-crisis peak.
+Chart 6 portrays the rise in credit to the domestic nonfinancial private sector as a share of GDP from its pre-crisis level.
+For some EMEs, the rise in credit does not seem out of line with historical trends, but some economies have experienced potentially worrisome increases.
+Credit growth in China is particularly noteworthy, but this does not seem to be the result of accommodative monetary policies in the advanced economies.
+Much of the rise took place in the aftermath of the crisis, in large part reflecting policy-driven stimulus to support economic recovery.
+In addition, China's relatively closed capital account limits the extent to which domestic credit conditions are influenced by developments abroad, including changes in advanced economy monetary policy.
+Increases in credit in some other economies, notably Brazil, have also been driven to a significant degree by policy actions to support aggregate demand.
+And, of course, EMEs have policy tools to limit the expansion of credit.
+Another area of potential concern is excessive valuations in property markets.Chart 7 displays inflation-adjusted house prices for several Asian economies.
+The most striking increases have occurred in Hong Kong, which, through its open capital account and essentially fixed exchange rate, is tied most directly to U.S. financial conditions.
+Of course, the degree of Hong Kong's exposure to U.S. financial conditions is a policy choice, and other factors have also contributed to the run-up in its property prices.
+House prices have also resumed their rise in China.
+But, as with credit growth, this rise seems to reflect domestic developments as opposed to spillovers from global financial conditions.
+In light of these potential financial stability concerns, it is encouraging that EME policymakers have devoted substantial effort since the Asian financial crisis of the late 1990s to bolster the resilience of their banking systems.
+Banks in many EMEs have robust earnings and solid capital buffers.13 Compared with past experience, emerging market banking systems also generally enjoy improved management and a proactive approach by authorities to mitigate risks.
+Nevertheless, in an environment of volatile global markets, regulators should guard against the buildup of vulnerabilities, such as excessive dependence on wholesale and external funding, declining asset quality, and foreign currency mismatches.
+To summarize my discussion so far, EMEs clearly face challenges from volatile capital flows and the attendant moves in asset prices.
+Accommodative monetary policies in the advanced economies have likely contributed to some of these flow and price pressures, and may also have contributed to the buildup of some financial vulnerabilities in certain emerging markets.
+That said, other factors appear to have been even more important.
+Moreover, expansionary monetary policies in the advanced economies have supported global growth to the benefit of advanced and emerging economies alike.
+Turning to the risks and policy challenges going forward, much attention has focused on potential effects in EMEs when recovery prompts the United States and other advanced economies to begin the gradual process of returning policy to a normal stance.
+As events over the summer demonstrated, even the discussion of such a policy shift may be accompanied by considerable volatility.
+As shown in chart 8, from May through August, U.S. Treasury yields rose substantially as market participants reassessed the future course of U.S. monetary policy.
+In response, EME bond and equity funds experienced very large outflows, as shown by the bars.
+EME yields rose as well, in some cases by more than those on Treasury securities, and many EME currencies depreciated.
+The magnitude of these market responses may have been amplified by the carry-trade strategies that many investors had in place; these strategies were designed to take advantage of interest rate differentials and appeared profitable as long as EME interest rate differentials remained wide and EME exchange rates remained stable or were expected to appreciate.
+When anticipations of Fed tapering led to higher U.S. interest rates and higher market volatility, these trades may have been quickly unwound, engendering particularly sharp declines in EME exchange rates and asset prices.
+These developments, however, do not appear to have been driven solely by perceptions of U.S. monetary policy.
+As I noted earlier, GDP growth in many EMEs has fallen from the pace of previous years, which may have led investors to rethink their investment choices.
+Additionally, it appears that the retreat from emerging markets reflected a change in global risk sentiment, as investors focused on vulnerabilities in EMEs following a period of complacency.
+Asset prices have fallen considerably more in economies with large current account deficits, high inflation, and fiscal problems than in countries with stronger fundamentals.
+For example, as shown in chart 9, changes in EME exchange rates and interest rates since April have been correlated with current account deficits.
+In general, economies with larger current account deficits experienced greater depreciations of their currencies and larger increases in their bond yields.
+Thus, while a reassessment of U.S. monetary policy may have triggered the recent retrenchment from EMEs, investor concerns about underlying vulnerabilities appear to have amplified the reaction.
+Whatever their source, large capital outflows from EMEs can pose challenges for EME policymakers by simultaneously producing significant currency depreciation, asset price deflation, and inflationary pressures.
+In such cases, EME central banks are in the difficult position of judging whether to tighten policy at the same time that demand is weakening.
+It is notable that some central banks with stronger records on price stability have been able to avoid tightening whereas others have been forced to raise rates to defend price stability in the face of domestic weakness.
+Monetary policy in the United States is likely to remain highly accommodative for some time, as our economy fights to overcome the remaining headwinds from the global financial crisis.
+As our economic recovery continues, however, the time will come to gradually reduce the pace of asset purchases and eventually bring those purchases to a stop.
+The timing of this moderation in the pace of purchases is necessarily uncertain, as it depends on the evolution of the economy.
+While moderating the pace of purchases and the eventual increase in the federal funds rate may well affect capital flows, interest rates and asset prices in EMEs, the overall macroeconomic effects need not be disruptive.
+First, tightening will in all likelihood occur in the context of a more firmly established economic recovery in the United States so that any adverse effects on EME financial conditions should be buffered by the beneficial effects of higher external demand.
+Second, although conditions vary from country to country, on the whole, EMEs exhibit greater resilience than they did in prior decades, reflecting, among other factors, more flexible exchange rates, greater stocks of international reserves, stronger fiscal positions, and better regulated and more conservatively managed banking systems.
+EMEs have policy tools to help manage any negative externalities that may arise, and recent developments provide additional rationale for them to redouble their efforts to bolster their resiliency.14 Reducing vulnerabilities, improving policy frameworks, and safeguarding the financial sector will go a long way toward making EMEs more robust to a wide range of shocks, not just those that may arise from changes in monetary policy in the advanced economies.
+Global investors should also learn from the experience of this summer, when it became clear that unwinding leveraged carry trades can be difficult in an environment of lower liquidity.
+As for advanced economies, policymakers should move gradually to restore normal policies only as their economic recoveries are more firmly established, consistent with their mandates.
+In addition, policymakers should communicate as clearly as possible about their policy aims and intentions in order to limit the odds of policy surprises and a consequent sharp adjustment in financial markets in response.
+Indeed, my colleagues on the FOMC and I are committed to just such an approach.
+In closing, the Federal Reserve's mandate, like those of other central banks, is focused on the pursuit of domestic policy objectives.
+This focus is entirely appropriate.
+Yet, experience has shown that the fortunes of the U.S. economy are deeply intertwined with those of the rest of the world.
+Economic prospects for the United States are importantly influenced by the course of the world economy, and, by the same token, prosperity around the globe depends to a significant extent on a strong U.S. economy.
+In order for the Federal Reserve to fulfill its dual mandate of price stability and maximum employment, we must take account of these international linkages.

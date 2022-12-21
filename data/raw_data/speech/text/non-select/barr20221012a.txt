@@ -1,0 +1,75 @@
+For the purposes of our discussion today, I will be focusing on financial innovation supported by new technologies, or fintech.1 In the fall of 2017, we managed to get Chris to accept an invitation to speak at a fintech conference in Ann Arbor, so it's about time that I returned the favor.
+Since then, we have continued to see major changes in technologies and the financial services and products they support.
+In looking over the materials for that conference, however, I'm struck by how the key themes have remained constant over, not only the last five years, but arguably for centuries.
+Financial innovation has always brought promise and risk, and the urgent need to get regulation right.
+In 1610, when Dutch merchants and bankers were otherwise busy creating global finance, a series of destabilizing bank runs also moved them to establish a ban on short-selling.
+Many of the issues we grapple with today are not as new as we think.
+Supporting Innovation with Appropriate Regulation First, let's start with the promise.
+Every day, we all have countless interactions with the financial systemâ€”depositing our paychecks, buying groceries, paying rent, borrowing, saving, and insuring against important risks.
+The promise of fintech is that it can make financial products and services better, faster, cheaper, and more available.
+Financial innovation supported by new technologies can disrupt traditional providers by spurring competition, creating products that better meet customer needs, and extending the reach of financial services and products to those typically underserved.
+To realize the benefits of innovation, we need to manage relevant risks.
+We have seen through history that excitement over innovative financial products can lead to a pace of adoption that overwhelms our ability to assess and manage underlying vulnerabilities.
+As we saw in the lead up to the Global Financial Crisis, innovative financial products can mask emerging risks, resulting in significant harms to businesses and households and ultimately undermining financial stability.
+These products can leave consumers vulnerable if they are not coupled with meaningful disclosures and basic protections against abusive practices.
+Innovation can lead to disruptions of existing markets, which may be beneficial, but may also generate new systemic risks.
+Guarding against these risks is one of the jobs of financial regulation and supervision, and I'll talk through a few examples of how we are working to do so now.
+But I would note with some humility that striking the right balance between creating an enabling environment that supports innovation and managing related risks to businesses, households, and the stability of the financial system is no easy task.
+When regulations are too prescriptive or regulators too cautious, they run the risk of stifling innovation and locking in the market power of dominant participants in ways that can raise costs and limit access.
+When regulation is lax or behind the curve, it can facilitate risk-taking and a race to the bottom that puts consumers, businesses, and the economy in danger and discredits new products and services with consumers and investors.
+I believe everyone has a stake in getting the regulatory balance right.
+Striking the Right Balance for Crypto-Asset Activity Crypto-assets have grown rapidly in the last several years, both in market capitalization and in reach.
+But recent fissures in these markets have shown that some crypto-assets are rife with risks, including fraud, theft, manipulation, and even exposure to money-laundering activities.
+Crypto-asset-related activity, both outside and inside supervised banks, requires oversight that includes safeguards to ensure that crypto service providers are subject to similar regulations as other financial services providers.
+We continue to work on this issue from the overriding principle that the same type of activity should be regulated in the same way.
+This principle holds even when the activity may look different from the typical activities we regulate, or when it involves an exciting new technology or a new way to provide traditional financial services.
+The Board is working with our colleagues at the Office of the Comptroller of the Currency (OCC) and the Federal Deposit Insurance Corporation (FDIC) to ensure that crypto-asset-related activities banks may become involved in are well regulated and supervised, to protect both customers and the financial system.2 Many of these activities pose novel risks, and it is important for banks to ensure that any crypto-asset-related activities they conduct are legally permissible and that banks have appropriate measures in place to manage those risks.
+In August, the Board issued supervisory guidance that outlines the steps Federal Reserve-supervised banks should take prior to engaging in crypto-asset-related activities.3 The recent volatility in crypto markets has demonstrated the extent of centralization and interconnectedness among crypto-asset companies, which contributes to amplified stress.
+While banks were not directly exposed to losses from these events, these episodes have highlighted potential risks for banking organizations.
+When a bank's deposits are concentrated in deposits from the crypto-asset industry or from crypto-asset companies that are highly interconnected or share similar risk profiles, banks may experience deposit fluctuations that are correlated and closely linked to broader developments in crypto-asset markets.
+In addition, misrepresentations regarding deposit insurance by crypto-asset companies can cause customer confusion and lead to increased withdrawals at banks providing deposit services to crypto-asset firms and their customers during times of stress.
+The Fed is working with the OCC and the FDIC on these issues and highlighting them to supervised institutions.
+For example, it is important for banks to understand some of the heightened liquidity risks they may face from certain types of deposits from crypto-asset companies.
+This effort is not intended to discourage banks from providing access to banking products and services to businesses associated with crypto-assets.
+Our work in this area is focused on ensuring risks are appropriately managed.
+Looking ahead, there are additional types of crypto-asset-related activities where the Fed may need to provide guidance to the banking sector in the coming months and years.
+Regulating Stablecoins Because crypto-assets have proved to be so volatile, they are unlikely to grow into money substitutes and become a viable means to pay for transactions.
+However, stablecoins, which purport to maintain a stable value, have greater capacity to function as privately issued money.
+For this reason, they pose specific, and well-understood risks, similar to other types of money-like assets.
+History has shown that money-like assets are subject to runs that can threaten financial stability.
+Stablecoins linked to the dollar are of particular interest to the Federal Reserve.
+As Chair Powell said the other day, a central bank is and will always be the main source of trust behind money.
+Stablecoins borrow that trust, so we have an abiding interest in a strong federal prudential framework for their use.
+Over time, stablecoins could pose a risk to financial stability, and it is important to get the regulatory framework right before they do.
+Here too, the Fed is working with other regulatory agencies.
+The President's Working Group report on stablecoins that came out about a year ago called upon Congress to take the necessary action to ensure that stablecoins, particularly those that serve as a means of payment, are subject to prudential regulation.4 Congress should take action to provide a strong federal framework for prudential oversight, and regulators must also use existing authorities.
+Recognizing the Risks of Tokenizing Bank Liabilities We are seeing banks explore a variety of different models to issue dollar-denominated tokens on distributed ledger networks.
+The proposals range from issuance of tokens on private, controlled networks to facilitate payments within or among banks, to proposals that explore issuance of freely circulating tokens on open, permissionless networks.
+As banks explore different options to tap into the potential of the technology, it is important to identify and assess the novel risks inherent in those models and whether those risks are surmountable.
+For instance, with some models that are being explored, the bank may not be able to track who is holding its tokenized liability, or whether its token is being used in risky or illegal activity.
+While there is work underway on technical solutions for managing these risks, it remains an open question whether banks can engage in such arrangements in a manner consistent with safe and sound banking and in compliance with relevant law.
+Given these open questions, banks looking to experiment with these new technologies should do so only in a controlled and limited manner.
+As banks experiment, I invite them to engage with their regulators early and often to discuss the benefits and risks of new use cases, ensuring they are consistent with banking activities conducted in a safe, sound, and legally permissible manner.
+Advancing Customer Autonomy Let me mention an example of where I think regulators could play a more active role in shaping how innovation is changing the financial products landscape.
+Over the past decade, digitization of financial services has led to the creation of vast amounts of customer data.
+Advancement in technologies now facilitates greater connectivity and secure data sharing between banks and nonbanks.
+This has served as the foundation for open banking and the development of new types of financial products and services that offer consumers greater customization and an end-user experience with less friction, compared to traditional banking.
+Jurisdictions around the world have taken different approaches to open banking.
+Some, such as Australia, Britain, and the European Union have adopted a regulatory approach to facilitate open banking by implementing specific regulatory frameworks that are built upon the concepts of consumer data rights, data privacy, and competition.
+So far, the United States has taken more of a market-driven approach to open banking.
+The Consumer Financial Protection Bureau is charged with implementing regulations to give consumers access to their financial data, pursuant to Section 1033 of the Dodd-Frank Act.
+While this is not an "open banking" rule, it will set the stage for consumers to gain greater control when it comes to sharing their data with prospective providers.
+The goal of this effort is to advance consumer autonomy, enhance competition for financial services, and to provide easier portability of account information from bank to bank as well as nonbank providers.
+I look forward to hearing more on this from the CFPB.
+Providing Public Sector Support for Payment Innovation So let me now turn to how the Federal Reserve is taking proactive steps to work with the private sector to support innovation.
+The Federal Reserve has been working on modernizing our payment system for a few years now, and we are in the final stages of creating the FedNow Service, a new platform for digital payments that will safely, efficiently, and instantaneously move money.
+FedNow will improve safeguards on instant payments, making the financial system safer.
+And it will improve access to the financial system by reducing payment delays and the high costs associated with those delays.
+As I have discussed extensively in my writings and speeches, these costs are particularly borne by those least able to afford them.5 Banks and service providers will be able to build innovative financial products using FedNow's real-time, low cost, safe payment rails, benefiting households and businesses.
+We plan to launch FedNow between May and July next year.6 It will help to lower costs, extend access, and improve security for consumers and safety for the financial system.
+No conversation about payments innovation is complete without mention of central bank digital currencies (CBDC).
+The Federal Reserve has not made any decisions about whether to issue a CBDC, and if we believe it makes sense to do so, we would want the support of Congress and the Administration.
+In the meantime, we're doing the work of understanding the technological requirements of such a system, deepening our understanding of potential policy tradeoffs, and taking a look at how other countries are thinking about and experimenting with CBDCs.
+Let me end where I began: We need to get the guardrails right to successfully support a dynamic marketplace of innovative financial products and services.
+We have a responsibility to ensure that regulation and supervision foster innovations that improve access to financial services, while at the same time safeguarding consumers, financial institutions, and financial stability.
+Thank you.

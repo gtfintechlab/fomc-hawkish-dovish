@@ -1,0 +1,134 @@
+One of the things Iâ€™ve enjoyed most during the past five years in both public service and in academia has been the opportunity to engage actively in economic forecasting.
+I chaired the so-called Troika-2 process when I was a member of the Council of Economic Advisers in 2001 to 2003 through which the economic forecast that is the basis for Administrationâ€™s budget is formulated.
+When I returned to the University of Chicago, I presented the annual economic forecast for the Graduate School of Business in both Chicago and New York, and I believe I see some people here who had attended those events.
+Since becoming a Governor in March, I have had the privilege of working on the forecasting with the superb staff at the Federal Reserve.
+In a sense, forecasting is where the "rubber" of economic theory meets the "road" of the real world.
+As such, it is intellectually exciting and challenging.
+One of the foremost challenges has been forecasting productivity developments and their macroeconomic implications.
+As you know, productivity growth is the key source of higher living standards in the long run.
+But, of course, it also is an important influence shaping shorter-run economic developments as well as monetary policy decisions.
+Today I will talk about some of the forces that drive productivity growth, the macroeconomic implications of changes in the longer-run trend of productivity, and the prospects for productivity growth.
+My views on these topics are my own and do not necessarily reflect the views of my colleagues on the Federal Reserve Board or the Federal Open Market Committee.
+The revolution in information technology (IT) is commonly taken as the initiating force behind the acceleration in productivity seen since 1995.
+Although I believe that IT is a necessary ingredient, I donâ€™t believe it is sufficient.
+In particular, the interaction of IT advances with the flexible markets in the United States continues to be a crucial ingredient.
+The IT revolution has not simply allowed a worker to turn the crank faster on an improved machine (the traditional way we think of technological innovation) but opened the possibility of fundamentally altering the way production (or provision of a service) takes place; hence, the crucial role for flexible labor, product, and financial markets.
+As I will describe in more detail, this interaction effect of IT with a flexible economy can help to explain why the IT revolution has produced higher productivity growth in the United States but not in many other industrialized economies.
+While it is important for policymakers to understand the sources of the productivity resurgence, it is also important for us to understand the macroeconomic implications.
+An often overlooked implication is that, all else equal, an increase in the growth rate of productivity will tend to put upward pressure on real interest rates.
+But in fact we have not seen the predicted rise in real rates.
+Of course, we do not live in the world of simple economic models so all other things are not equal.
+In particular, I believe one reason is that sound economic policies have created a more stable economic environment, and with that has come low and stable inflation and an ongoing desire by foreigners to invest in the United States to reap higher returns associated with higher productivity growth than may be available in their economies.
+At bottom, I expect that the flexibility of U.S. markets will continue to provide a nourishing environment for technological and process advances, and that very flexibility, along with sound monetary policy, will also allow the U.S. economy to enjoy the benefits of the evolving macroeconomic dynamics that accelerating productivity sets in motion.
+A Framework for Analyzing the Growth of Labor ProductivityA great success story for the American economy has been the resurgence of productivity growth that began around 1995.1 From 1973 to 1995, labor productivity in the nonfarm business sector increased at an annual rate of 1-1/2 percent.
+(Labor productivity is defined in terms of output per hour of work in the economy.)
+In contrast, from 1995 to 2000, productivity accelerated to a 2-1/2 percent rate.
+Perhaps even more remarkably, despite a recession, the fall of the dot-com market, a broad stock market correction, terrorism, and corporate governance scandals, productivity has accelerated even further since 2000.
+Despite some slowing in the past few quarters, productivity in the nonfarm business sector has risen at an average annual rate of about 3 percent over the past 5-1/2 years.
+Many economists, including myself, use growth accounting as a framework for analyzing productivity developments.
+In its simplest terms, growth accounting decomposes the growth rate of labor productivity into two major components.
+One is the contribution to productivity growth that comes from giving workers more capital to work with, such as equipment or software; the standard term for this component is "capital deepening."
+The other major contribution comes from the growth of multifactor productivity--that is, the efficiency with which labor and capital are combined to create output.2 Multifactor productivity growth reflects such things as business process innovations--for example, enhanced supply-chain management techniques or more-effective retail store layouts; advancements in technology, such as the development of new-generation computer chips; or most any other type of improvement in the efficiency of a firmâ€™s operations.
+This aggregate growth-accounting framework forms the economic underpinning of key comprehensive productivity statistics produced by the Bureau of Labor Statistics.
+Work done over the past decade takes a somewhat more disaggregated approach to growth accounting in order to get inside the aggregate numbers and try to get a better handle on the sources of our remarkable productivity performance since 1995.3 But all of this is just accounting--albeit, in some research, very elaborate and painstakingly constructed accounting.
+The deeper analytical questions are, What are the forces driving capital deepening and the growth of multifactor productivity, especially since 1995, and Why does the United States seem to have experienced increased productivity growth, since the mid-1990s, that has not been shared by many other industrial economies?
+The Forces Driving the Growth of Labor ProductivityIn broad terms, the story for the post-1995 productivity resurgence that comes out of the various studies that take a disaggregated approach, as well as case studies such as those conducted by McKinsey (2002), is well known.
+Technological advances in the IT-producing sector--that is, multifactor productivity--and associated investments in more and better production equipment (capital deepening) started things off.
+These developments were bolstered by investments in IT equipment and software by firms outside of the IT-producing sector, improvements in the knowledge and skills needed to use effectively the equipment and software, and innovations in business processes.
+An unexplained puzzle, however, remains in that story.
+If productivity growth were simply a matter of installing ever-more-powerful computers or reading ever-more-advanced technical manuals, then all countries with access to the breakthroughs in information technology from the past two decades should have enjoyed the same productivity revival as the United States.
+But that hasnâ€™t been the case.
+Since 1995, productivity in the United States has grown substantially faster than in other advanced industrial countries.
+For example, a recent study by van Ark and Inklaar (2005) indicates that while productivity in the United States accelerated after 1995, average productivity in Europe actually decelerated--indeed, they estimate that the trend in the fifteen countries that made up the European Union before 2004 has been decelerating since the mid-1980s.
+According to van Ark and Inklaar, some of the differential reflects faster capital deepening in the United States, but much of it reflects a surge in multifactor productivity growth in the United States outside of the IT sector since 2000.4 Innovations in information technology, however, cannot be the whole story--flexibility at the firm level and in labor markets, and competitive pressure throughout the economy, also play their roles.5 Businesses must be flexible enough to adopt new technologies and then to transform themselves in ways that allow technology-intensive investment to have the highest possible effect on productivity growth.
+Similarly, labor markets must be flexible enough to allow for the prompt re-allocation of resources in response to changes in demand.
+The economy also must be competitive enough to allow useful innovations at some firms to be transmitted throughout the industry by market pressure.
+At the firm level, an important characteristic of the American economy is that we have a business culture that rewards nimbleness, innovation, and entrepreneurship.
+As an example, consider the case of U.S. retail trade.
+To be sure, firms in this industry invested heavily in information technology in the 1990s.
+Yet they did not become more productive simply by buying faster computers and returning to business as usual.
+As discussed in a recent in-depth study by McKinsey & Co., IT investments were combined with a host of changes in business practices to raise productivity.
+Perhaps the best example is the use of IT to improve the links in the supply chain from vendor to retailer, to create a so-called glass pipeline through which retailersâ€™ orders can be monitored as they progress (McKinsey 2002).
+Flexibility also has been evident in other industries.
+Consider, for example, a study done of a medical products company that made a large investment in computer-integrated manufacturing (Brynjolfsson and Hitt 2000).
+The flexibility gained by this investment necessitated a host of other changes in business practice, such as the elimination of piece rates, the encouragement of workers to stop the production line if it is not running at full speed, and a reduction in management layers.
+Eventually, productivity rose so much that the firm painted the windows of this site black so that competitors could not see how the new system worked!
+There is an important historical parallel in the United States to the interaction of technological innovation and flexibility in producing higher productivity growth.
+In the early twentieth century, the electrification of production operations and the electric motor did not substantially raise manufacturing productivity until firms realized that electricity allowed them to rethink the layout of their factories.
+Rather than build a many-storied factory around a centralized power source, a firm could disperse electric motors around a single-story plant and thereby create the modern assembly line.
+Workers then could use specialized tools to undertake new activities.
+This redesign allowed the firm to optimize material handling, change production lines more easily, and perform maintenance on individual sections of the plant without idling production throughout the facility (David, 1990).
+More broadly, the increasing competitiveness of the American economy over the past quarter century or so has brought with it a market imperative for creativity, innovation, and efficiency.
+In 1977, Fred Kahn, the Cornell University economist, came to Washington as the chairman of the now-defunct Civil Aeronautics Board and as an adviser to President Carter on deregulation.
+With Professor Kahn as the prime mover, the Airline Deregulation Act was passed in 1978.
+This act started the ball rolling, and in fairly short order the Congress passed legislation that deregulated the rail, trucking, and interstate bus industries.
+Deregulation removed barriers to entry and made it possible for a multitude of new firms to enter the transportation industry.
+Freely allowing the entry of new firms generates competitive pressures that have a ripple effect throughout the economy.
+For example, itâ€™s difficult to imagine that online retailers could have become so successful without access to inexpensive, interstate (and international) package delivery services.
+But the proliferation of these delivery services would not have been possible without the deregulation of the transportation industry in the late 1970s and early 1980s.
+The converse also may be true.
+Regulatory barriers to entry in the retail sector in Japan and Europe--for example, restrictions on land use and shopping hours--appear to have impeded the development of more-innovative, and presumably more-productive, types of retailing (Gordon, 2004).
+More generally, research conducted at the Federal Reserve suggests that regulatory environments in a number of industrial countries have impeded the adoption of information technologies and slowed productivity growth (Gust and Marquez, 2004).
+Increased trade liberalization, which lowers barriers to the international flow of goods, financial capital, and direct investment, also spurs innovation and creativity.
+An interesting illustration of the connection is the productivity of multinational corporations.
+Research conducted by Federal Reserve System economists and others has found that, in the United States, multinational firms are more productive than domestically oriented firms, and the difference holds regardless of whether the parent firm is headquartered in the United States or abroad.6 Perhaps even more remarkable is a finding that, in the United Kingdom, multinational firms owned by U.S. parents are more productive than multinational firms owned by British parents (Bloom, Sadun, and Van Reenen, 2006).
+I draw two conclusions from this work.
+First, trade liberalization appears to have made it possible for multinational firms to institute highly efficient cross-border supply chains within their firms that seem to have allowed them to boost significantly the efficiency of their worldwide operations.
+Second, U.S. firms, on average, have more flexible and innovative business practices, sometimes called organizational capital, that a liberalized trade regime apparently allows them to transfer to their foreign operations.
+Taking Account of Productivity in a Macro ForecastLet me switch gears now from the sources of our remarkable productivity performance to some of its macroeconomic implications.
+A good deal of research, including the Boardâ€™s large-scale econometric model of the U.S. economy (FRB/US), suggests that what is called Sayâ€™s law still holds.7 That is, in the model, an increase in the level of productivity (reflecting, for example, some technological advance) causes businesses and financial markets to revise upward their views about the level of expected profits, and it causes households to revise upward their views about the level of permanent income.
+The higher level of expected profits and returns to capital, in turn, lead to a rise in business investment.
+Similarly, personal consumption expenditures are boosted in response to the rise in permanent income.
+The initial increases in spending are then followed by multiplier effects.
+A dynamic feedback also occurs on the supply side as the higher level of investment spending increases the capital stock (relative to the supply of worker hours), which gives a small fillip to productivity and potential output.
+Ultimately, the increases in aggregate supply are matched by an equivalent increase in aggregate demand.8 This is, of course, Sayâ€™s law.
+What Iâ€™ve just described is a sketch of what happens after a one-time rise in the level of productivity.
+In the case of an ongoing rise in the growth rate of productivity, the dynamics and macro consequences are more complicated.
+In particular, all else equal, a positive shock to the growth rate of productivity will tend to put upward pressure on real interest rates.9 The upward pressure on real interest occurs, in part, because investment must rise to keep the growth of the capital stock in line with the faster growth of gross domestic product.
+In addition, a shock to the growth rate of productivity boosts householdâ€™s assessments of the growth rate of their permanent income, while increases in the expected growth rate of profits and dividends raise asset values, including the value of equities, relative to current income.
+The combination of faster expected growth of permanent income and higher stock market wealth tends to raise consumption relative to income and, concomitantly, lower personal saving.
+Thus, all else equal, the increase in demand for financing relative to domestic saving will tend to boost real interest rates.10 The dynamics of this process, and how long they take to play out, depend on several factors.
+One factor is how quickly the productivity change is incorporated into household and business expectations.
+The change in expectations can be drawn out if households and firms are slow to recognize an inflection point in the productivity growth trend or are highly uncertain about how long any observed change in the data might last.
+This seems to have been the case in the mid-1990s, when it took some time for that recognition to begin to sink in to the mind-set of most households and businesses.
+To his credit, Chairman Greenspan was one of the first to call the sea change in our productivity performance to public attention.11 Another factor influencing the dynamics of the process the degree to which businesses, financial markets and consumers are forward-looking in their economic behavior.
+If they are myopic in their behavior or tend to discount the future very heavily, then the dynamic response of the economy to a change in the growth rate of productivity will be drawn out.
+At this point, you might be saying to yourself, "Hold on; if an increase in the productivity growth trend is supposed to boost real interest rates, why have real rates been falling since around mid-2004 and are low by historical standards?"
+The answer involves that favorite safety net of economists, the "all else equal" caveat.
+In fact, all else has not been equal.
+Importantly, the term premium embedded in interest rates has been falling.
+The term premium reflects the extent of uncertainty about future prospects for inflation and for real economic activity.
+The reduction in the term premia appears to be associated, in part, with the greater economic stability we have been enjoying.
+Real activity has become less volatile; moreover, inflation is lower and, as long as we at the Federal Reserve do our job, more predictable.12 The huge inflow of foreign saving into the United States, undoubtedly, also has been important.
+As then-Governor Bernanke observed in 2005, differential demographic trends and rates of return on investment between the United States and many of the worldâ€™s other rich countries is part of the explanation for that inflow (Bernanke, 2005).
+Rich countries, with populations that are aging faster than ours, have a strong motive to save to provide for an impending sharp increase in the number of retirees relative to the number of workers.
+Moreover, many advanced economies outside the United States also have a paucity of domestic investment opportunities relative to the United States.
+As a consequence of high desired saving and low prospective returns to domestic investment, the mature industrial economies outside of the United States, as a group, seek to lend abroad.
+The higher prospective returns in the United States may be due in part to the higher productivity growth that the United States has been experiencing relative to many other industrialized countries resulting from the interaction effect of IT innovations and the flexibility of the United States economy relative to other countries.
+What about the effects of a productivity shock on inflation?
+Ultimately inflation is determined by the policy actions of the central bank.
+In the short run, however, a change in the trend growth rate of productivity can influence inflation dynamics.
+A one-time change in the level of productivity, or transitory volatility in productivity growth rates, are unlikely to have lasting effects on business pricing behavior.
+Economic theory and econometric evidence suggest that only a persistent shock to the rate of change of productivity has persistent consequences for rate of change of prices--that is, inflation.
+If we lived in a world with no impediments to competition in labor and product markets, with prices and wages that freely and quickly moved up and down in response to shifts in economic conditions, then a change in productivity growth would be promptly matched by a corresponding change in nominal compensation per hour.
+As a consequence, unit labor costs would be unchanged, and all else equal, so would inflation.
+But, we donâ€™t live in such a perfectly competitive, frictionless world.
+Nominal compensation per hour initially seems to respond sluggishly to changes in the economy, including productivity shocks.
+As a result, an increase in productivity growth, for example, initially slows the growth of unit labor costs, which firms--under competitive pressure--then pass on to their customers, thereby slowing price inflation.
+As price inflation slows and as, with a lag, nominal compensation per hour accelerates, the growth rate of real compensation per hour increases so that over time workers share in the benefits of faster productivity growth.
+Indeed, in the past, any rise in the level of productivity has eventually been fully translated into a rise in the level of real compensation per hour.
+How quickly the re-equilibration takes place depends in part on the extent of competition in product markets and the nature of the wage-bargaining process.
+Up until now, the process in our economy has taken at least a few years, but it has always occurred.
+Productivity and Real Compensation Per HourWhat I have dubbed the re-equilibration of productivity and real compensation per hour is just another manifestation of one of the great stylized facts of macroeconomics: In the past, deviations in the labor share of income from its mean value of roughly two-thirds have eventually been reversed.
+But the two-thirds share is an empirical observation about the U.S. economy; it is not an immutable number derived from the first principles of economic theory.
+As it turns out--Iâ€™ll leave the proof to you as a homework assignment--mean reversion in the labor share is equivalent to the observation that over time labor productivity and real compensation per hour have moved together; in the jargon of econometrics, they are co-integrated.
+(See chart.)
+As I just mentioned, when the labor share deviates from its long-run average or, equivalently, a gap opens between productivity and real compensation per hour, the reversion to the mean (that is, the closing of the gap) can take quite a while.
+In recent years, the labor share has moved down as increases in real compensation per hour have, for the most part, lagged behind productivity growth, but the timing and extent of the change in the labor share depends in part on the particular statistical measure chosen.13 A challenge for forecasters is deciphering whether this latest drop in the labor share is transitory, as such drops have been in the past, or whether some structural aspect of the economy, such as the wage-bargaining process, has changed to make the drop in the labor share permanent.
+More likely, the adjustment process is taking a long time to play out, as it did in the 1990s, and some recent evidence may suggest that the gap is beginning to close.
+Assuming that the drop is transitory, another challenge for forecasters is predicting whether the adjustment to real compensation per hour will be driven by a pickup in the growth of nominal compensation per hour or by a reduction in inflation.
+Prospects for ProductivityLet me close with some comments on the outlook for productivity.
+Recent estimates by a number of economists suggest that the underlying trend in productivity in the nonfarm business sector is about 2-1/2 percent per year, close to the rate of productivity growth achieved during the period from 1995 to 2000.14 I think a good case can be made for the view that the strong productivity growth of the post-1995 era will persist for some time.
+The rate of technology growth appears to be proceeding apace, and further diffusion of already existing technologies and applications to more firms and industries should continue to boost productivity.
+ConclusionAn important lesson of the U.S. productivity resurgence is that an open economy with flexible labor, capital, and product markets is critical for a nation to enjoy the full benefits of recent IT innovation and, thus, to enhance a nationâ€™s productivity performance going forward.
+In my opinion, the productivity developments that we are likely to see in coming years will be fostered by a U.S. economy that remains very flexible, highly competitive, and open--if anything, it is becoming even more flexible, competitive, and open.

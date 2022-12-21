@@ -1,0 +1,138 @@
+Today, I will speak about the importance of risk management and its relationship to capital.
+I will also touch on the broad objectives of effective operational-risk management and offer specific observations on some of the challenges of operational-risk quantification.
+In addition, I will describe the current status of the Basel II process.
+Importance of Risk ManagementOver the past several decades, we have witnessed substantial changes in the U.S. banking industry, particularly at our largest institutions.
+These very large entities have broad geographic reach, operate in many lines of business, and offer a wide array of complex products and services.
+The largest institutions have moved away from the traditional banking strategy of holding assets on the balance sheet and have adopted strategies that emphasize redistribution of assets and active management of risks.
+The risk-management techniques employed by banking organizations continue to improve and adapt to the ever-changing financial landscape.
+The Federal Reserve, in its role as both a bank supervisor and the nation's central bank, has an obvious interest in maintaining the stability of the banking industry and the financial system as a whole.
+We, along with our counterparts at the other U.S. bank and thrift regulatory agencies, are responsible for ensuring that banking institutions operate in a safe and sound manner and have strong capital levels.
+But with the advent of very large banking organizations that engage in a wide variety of business activities--some of them quite complex--the Federal Reserve has become even more interested in ensuring that banking organizations understand the risks of these activities.
+For their part, bankers continue to improve the risk-management and risk-measurement processes at their institutions, and regulators have supported these efforts.
+Banks themselves have created many of the new techniques to improve their risk management and internal economic capital measures in order to be more effective competitors and to control and manage their losses.
+By more clearly defining risk exposures and identifying the causes of and controls for their losses, bank management can more effectively integrate decisions about risk-taking into their strategic and tactical decisionmaking.
+Banks that integrate risk measurement into their business-line goals often find that this effort helps them to implement their strategic plans more effectively.
+Ideally, an institution should use a systematic approach to identify and measure its risk exposures; however, even the best processes for evaluating and measuring risk suffer if flawed data are used.
+To conduct a credible internal analysis of relevant risks, institutions should identify which risks can generally be quantified and which ones cannot.
+When risk measurements are based on scarce or incomplete data, or on unproven quantitative tools, institutions might need to use sensitivity analyses, stress tests, or scenario analyses to a greater extent in order to develop meaningful risk measures.
+Banks that wish to remain competitive must keep up with the latest developments in risk measurement and management.
+Bankers must ensure that their models keep up with current practice and continue to capture risks accurately, especially as new activities and new products are introduced.
+Similarly, the supervisory community needs to keep up with developments in banking and finance.
+We consider this vitally important because banking is and will remain a highly dynamic industry.
+Supervisors will have to pay attention to evolving sound practices and ensure that new regulations do not unduly inhibit banks from adopting new banking practices and financial instruments.
+Our focus on balancing developments in the industry with safe and sound operations at institutions is increasingly important, given the growing complexity, sophistication, and concentration of today's banking system.
+And with the advent of Basel II, which is intended to update capital rules for large, internationally active U.S. banking organizations, supervisors must become even more involved in understanding emerging sound practices in risk measurement and management.
+One of the most important sound practices for a banking organization is the tying of risk exposures to capital.
+Banks that use similar risk models can have very different risk exposures.
+That is why the Basel II approach to capital is so important.
+Basel II provides a framework in which the risk level banks choose to accept is reflected in their capital.
+Banks with higher loss exposures will be required to hold more capital than those who have lower risk appetites.
+This provides a strong relationship with risk management, in that returns earned in riskier business lines will necessarily be higher to cover the cost of the additional capital held.
+Operational-Risk ManagementFocusing now on operational risk, one of the most substantial changes in the U.S. banking industry in recent years is the movement of the largest organizations toward fee-based revenue streams.
+These new activities include securitizing loan portfolios, with the bank retaining responsibility for loan servicing; buying and selling financial instruments for customers; and other business lines that generate revenue by charging customers transaction and account processing fees.
+These activities generate little balance-sheet exposure, but they present the potential for large losses if the complex systems and financial deals associated with them are not managed in a sound manner.
+Operational risks are also becoming more important in the large, complex financial institution as more technology and automated processes are used in all areas of operations.
+When banks used manual processes, errors were confined to the limited area where the employee worked.
+But in a modern technology setting, factors such as breakdowns in controls, errors in software code, and processing stream interruptions can have enterprisewide effects on the performance of the organization.
+Recent history provides us with ample evidence that operational risk can be significant.
+Large financial institutions have reported operational losses from breakdowns in operating controls that, in some cases, have exceeded their credit- or market-related losses.
+In the area of legal risk, for example, many institutions have learned that failing to identify and promptly correct problems can result in losses that significantly exceed management's initial expectations.
+Over the past decade, large financial institutions have experienced more than 100 operational loss events in excess of $100 million each; some of these individual operational losses, resulting from fraud, rogue trading, and settlements stemming from questionable business practices, have exceeded $1 billion.
+An effective operational-risk management framework, therefore, is essential for identifying and managing operational risks.
+As you know, analysts at the main rating agencies are placing increasing importance on operational risk when they assess a bank's credit ratings.
+We believe effective operational-risk management has both quantitative and qualitative components and that reliance on solely quantitative or solely qualitative approaches is no longer appropriate.
+What remains critically important is how these approaches are combined in the implementation of an effective process for identifying, measuring, managing, and controlling operational risk throughout an organization.
+Effective operational-risk measurement tools enable the executive management at the largest banking organizations to make better risk-and-return decisions, thereby enhancing the return on their institution's capital investments.
+By considering operational risk as part of their assessment of capital requirements and true profitability, corporate decisionmakers can better decide which business lines to invest in or shut down.
+The organization further benefits when operational-risk measurement is integrated with the management processes of individual business units, because this helps communicate risk-management issues to the business lines.
+The allocation of operational-risk capital to these units provides them with a financial incentive to reduce the chance of operational losses.
+Hard numbers, linked to specific risks, also allow business lines to more accurately price their products.
+Some banking organizations are already benefiting by factoring operational-risk measurement and management into pricing decisions, strategic planning processes, portfolio management activities, management reporting metrics, and decisions regarding incentive compensation.
+There are potential longer-term benefits as well, including: a reduction in operational losses as control weaknesses are identified and improved; fewer errors and breaks in customer service, which can lead to higher customer satisfaction and retention; stronger information security and customer data privacy; higher credit ratings, and increased operational efficiency.
+One objective of Basel II is to enhance practices at our largest and most complex banking organizations for identifying operational risk exposures and ensuring that these exposures are appropriately supported by regulatory capital.
+Importantly, the advanced measurement approach (AMA) for operational risk under Basel II allows banks to use a framework that relies on their own qualifying methodologies for identifying operational-loss events and measuring risk exposure in order to determine their operational-risk regulatory capital requirements.
+In this way, the AMA gives banks the flexibility to continue developing and incorporating evolving sound practices for operational-risk measurement and management into their AMA frameworks.
+Challenges to Operational-Risk Quantification under Basel IIIn the context of Basel II, it has often been argued that measuring operational risk is much more difficult than measuring market or credit risk; however, any model intended to capture unexpected loss has its challenges.
+For example, market-risk models can be violated when the price of financial products moves in a way that is outside of the historical norm.
+Credit-risk models need to consider downturn estimates for loss given default, which can depend on the severity of the economic downturn and the price of collateral.
+Similarly, operational-risk models need to address potential losses that may not have occurred during the short period that most institutions have been collecting internal operational-loss data.
+This absence of a robust time series of internal operational-loss data is one factor that makes operational-risk modeling particularly challenging.
+To address the difficulties presented by the very nature of operational risk, the designers of operational-risk measurement frameworks have had to be innovative.
+For example, we have seen frameworks that use scenario analyses, risk self-assessments, and the judgment of senior business managers in innovative ways.
+We have also seen creativity in the melding of internal and external loss data to guide thinking about internal loss exposures.
+Perhaps most significantly, we have seen some truly innovative thinking about ways to integrate operational-risk measurement into the broader framework of operational-risk management.
+I would like to offer some specific observations on a couple of key challenges relating to operational-risk quantification.
+First, with respect to operational-loss data, Basel II banks face the challenge of establishing credible operational-loss databases that they can use in determining their regulatory capital requirement for operational risk.
+The advanced approaches under Basel II create a link between regulatory capital and risk management.
+Banks using an AMA for operational risk will be required to adopt more-formal, quantitative risk-measurement and risk-management procedures and processes.
+For example, Basel II establishes standards for data collection and the systematic use of the information collected.
+These standards are consistent with broader supervisory expectations that high-quality risk management at large complex organizations depends on credible data--and not just for Basel II.
+Data are needed for all models and risk measures used in financial services, including credit-scoring models, market-based measures such as KMV, and value-at-risk and other economic capital models.
+The emphasis in Basel II on improved data standards, therefore, should not be interpreted solely as a requirement to determine regulatory capital standards but rather as a foundation for risk-management practices that will strengthen the value of the banking franchise.
+As I mentioned earlier, regulators view capital from the perspective of ensuring safety and soundness in the financial system.
+But individual financial institutions generally focus on capital, in particular economic capital, as a means for evaluating the profitability of their activities, defining their risk appetite, and setting risk limits.
+Although the goals differ, there are important linkages between firms' efforts to quantify operational-risk capital for regulatory capital purposes and for strategic decisionmaking.
+To the extent the operational-loss data considered in banks' internal economic capital models appropriately reflect the banks' risk exposures, banks should be able to leverage their economic capital data collection efforts to measure their operational-risk exposure under an AMA.
+This leverage is also consistent with the Basel II objective of better aligning regulatory capital with banks' internal economic capital.
+The second challenge I wanted to touch on is banks' integration of insurance in their processes for quantifying operational risk.
+As many of you are aware, Basel II contains a provision whereby banks using an advanced measurement approach for operational risk could adjust their calculated operational-risk exposure to reflect reductions due to operational-risk mitigants, such as insurance, subject to certain limitations.
+According to the Basel II framework, a bank's risk-mitigation calculations must reflect the bank's insurance coverage in a manner that is transparent in its relationship to, and consistent with, the actual likelihood and impact of loss used in the bank's overall determination of its operational-risk capital.
+To the extent banks want to reduce their operational-risk capital charge through the use of insurance, banks must analyze and demonstrate the relationship between specific losses and the ability to collect from the insurer.
+At the time of the Loss Data Collection Exercise, banks that incorporated insurance benefits into their operational risk capital calculations appeared to do so through an ex-post adjustment to their capital figure in the aggregate, rather than by embedding the specific effects of insurance into the AMA modeling process itself.
+We expect operational risk managers to work closely with their insurance managers to make better decisions about insurance coverage.
+This should include clear communication of the nature of individual loss exposures and consideration of the availability of insurance coverage for particular risks.
+While work remains for those banks that are building their AMA frameworks, we have seen, and continue to see, significant progress in these AMA development efforts.
+One indication of this progress can be seen in the results of the Loss Data Collection Exercise.
+This exercise resulted in the submission of over one million internal operational-loss event observations by participating institutions.
+As you know, internal loss-event data are a key input for determining an institution's regulatory capital requirement for operational risk.
+These data have provided the agencies with invaluable insights about the comprehensiveness of data at individual institutions.
+The agencies have provided feedback to participating institutions that should help them in their continuing AMA development efforts.
+In addition, the agencies continue to analyze the loss data in an effort to provide the industry with additional insights relating to operational-risk quantification.
+Proposed Revisions to Regulatory Capital RegimeI have referred to certain parts of the Basel II framework in my remarks so far, mostly relating to operational risk and the AMA.
+Now I would like to give a brief update on where we stand with implementing Basel II in the United States, as well as with amending the current Basel I regime.
+First of all, you may have heard that tomorrow the Federal Reserve Board plans to review a draft of the interagency Basel II notice of proposed rulemaking (NPR) at a public meeting, meaning that a draft NPR will also be made available to the public at that time.
+The final NPR is expected to be issued in the Federal Register after all of the U.S. banking agencies complete their review and approval processes, meaning it will then be "officially" out for comment.
+We are pleased that the agencies have reached agreement on the draft NPR, since, as you know, we have spent substantial time and considerable effort on the document.
+We also recognize the extent to which the industry, Congress, and others have anticipated the release of this document--and the greater detail it contains about Basel II in the United States.
+Of course, we look forward to hearing feedback on the NPR.
+Your comments and those from others will contribute importantly to the assessment of Basel II objectives and its implementation, and will help us as we develop the framework further.
+Reasons for Pursuing Basel III think it is helpful, as we anticipate release of the NPR, to review the reasons we are developing U.S. proposals for Basel II.
+The current Basel I capital framework, adopted nearly twenty years ago, has served us well but has become increasingly inadequate for large, internationally active banks offering ever-more complex and sophisticated products and services.
+We need a revised capital framework for these banks, and we believe that Basel II is such a framework.
+One of the major ways in which Basel II should improve safety and soundness is by more closely linking capital requirements to risk.
+The current Basel I measures are not very risk sensitive and do not provide meaningful measures to bankers, supervisors, or the marketplace for complex banking organizations.
+Under Basel I, it is possible for two banks with dramatically different risk profiles to have the same minimum capital requirement, and a bank's capital requirement does not reflect deterioration in asset quality.
+In addition, the balance-sheet focus of Basel I does not adequately capture risks of certain off-balance-sheet transactions and fee-based activity--for example, the operational risk embedded in the services from which many large U.S. institutions generate a good portion of their revenues.
+In addition to enhancing the meaningfulness of regulatory capital measures, Basel II should make the financial system safer by substantially improving risk management at banks.
+Basel II builds on the risk-management approaches of well-managed banks and creates incentives for banks to move toward leading risk-measurement and risk-management practices; we have already seen some progress in risk management at many institutions in the United States and around the globe as a result of discussions about and preparations for Basel II.
+The new framework is also much more consistent with the internal capital measures that institutions use to manage their business.
+Basel II can also provide supervisors with a more conceptually consistent and more transparent framework for assessing the linkage of risk and capital over time at our most complex institutions; identifying which institutions have deficiencies; and, ultimately, evaluating systemic risk in the banking system.
+Therefore, Basel II establishes a more coherent relationship between how supervisors assess regulatory capital and how they supervise the banks, enabling examiners to better evaluate whether banks are holding prudent capital levels, given their risk profiles, and to better understand differences across institutions.
+Compared with the current framework, Basel II is more able to accommodate new products and transaction types and to provide meaningful capital measures for the risks embedded therein.
+As the central bank and the supervisor of banks, bank holding companies, and financial holding companies, the Federal Reserve is committed to ensuring that the Basel II framework delivers a strong and risk-sensitive base of capital.
+That is why we support safeguards to ensure strong capital levels during the transition to Basel II, and why we will remain vigilant in monitoring the ongoing impact of Basel II.
+This means that during and after the transition to Basel II, supervisors will rely on ongoing, detailed analyses to continuously evaluate the results of the new framework and ensure prudent levels of capital.
+To be quite clear, the Federal Reserve believes that strong capital is fundamentally important to the health of our banking system.
+We believe Basel II will be a strong contributor to our tradition of ensuring that U.S. banks maintain capital levels that provide an appropriate cushion against risk-taking.
+As we have stated before, we will continue to use existing prudential measures to complement Basel II.
+For example, the current leverage ratio requirement--a ratio of capital to total assets--will remain unchanged for all banks, whether or not they are subject to the Basel II framework.
+Also, supervisors will continue to enforce existing prompt-corrective-action-requirements in response to declines in capital.
+Both the leverage ratio and prompt corrective action are fully consistent with Basel II.
+Proposed Amendments to Basel IBefore I end my remarks about regulatory capital, I would like to offer some thoughts about ongoing efforts to revise existing regulatory capital rules, known as Basel I.
+First of all, we expect only one or two dozen banks to move to Basel II in the near term.
+That is, the vast majority of U.S. banks would be able to continue operating safely and soundly under Basel I, as it is amended through the rulemaking process.
+The Basel I framework already has been amended more than twenty times in response to changes in the banking industry and a better understanding of the risks in individual products and services.
+The agencies believe that now is another appropriate time to amend the Basel I rules.
+Concerns have been raised about potential competitive inequities between Basel II banks and Basel I banks.
+We take these concerns seriously.
+In an effort to mitigate those concerns, regulators have proposed changes to enhance the risk sensitivity of U.S. Basel I rules and remain vigilant about potential competitive distortions that might be created by introducing Basel II rules.
+We are also mindful that amendments to Basel I should not be too complex or too burdensome for the multitude of smaller banks to which the revised rules will apply.
+Additionally, we recognize the need to have full transparency about Basel II proposals and proposed Basel I amendments.
+Accordingly, we expect to have overlapping comment periods for both the Basel II NPR and the proposed Basel I amendments.
+The intent is to allow banks and others to review both NPRs before both sets of rules are finalized.
+In that way, bankers from potential opt-in institutions and from those not planning to move to Basel II can evaluate the potential impact of Basel II in light of the proposed Basel I amendments.
+In fact, we want all interested parties to compare, contrast, and comment on the two proposals in overlapping time frames.
+At this point, we are still reviewing the comments received on the ANPR for amendments to Basel I (the comment period ended in mid-January).
+The agencies are developing their proposals for Basel I amendments, on the basis of comments received, and hope to have a Basel I NPR this summer.
+ConclusionAs prudent supervisors, we need to ensure that banks have strong capital levels--whether banks operate under our current rules, revisions to our current rules, or Basel II.
+Our focus will continue to be on ensuring that risk-management processes are appropriate for operations of each institution and that those risk systems operate effectively.

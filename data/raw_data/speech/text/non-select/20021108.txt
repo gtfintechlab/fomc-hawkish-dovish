@@ -1,0 +1,231 @@
+Among economic scholars, Friedman has no peer.
+His seminal contributions to economics are legion, including his development of the permanent-income theory of consumer spending, his paradigm-shifting research in monetary economics, and his stimulating and original essays on economic history and methodology.
+Generations of graduate students, at the University of Chicago and elsewhere, have benefited from his insight; and many of these intellectual children and grandchildren continue to this day to extend the sway of Friedman's ideas in economics.
+What is more, Milton Friedman's influence on broader public opinion, exercised through his popular writings, speaking, and television appearances, has been at least as important and enduring as his impact on academic thought.
+In his humane and engaging way, Milton Friedman has conveyed to millions an understanding of the economic benefits of free, competitive markets, as well as the close connection that economic freedoms such as property rights and freedom of contract bear to other types of liberty.
+Today I'd like to honor Milton Friedman by talking about one of his greatest contributions to economics, made in close collaboration with his distinguished coauthor, Anna J. Schwartz.
+This achievement is nothing less than to provide what has become the leading and most persuasive explanation of the worst economic disaster in American history, the onset of the Great Depression--or, as Friedman and Schwartz dubbed it, the Great Contraction of 1929-33.
+Remarkably, Friedman and Schwartz did not set out to solve this complex and important problem specifically but rather addressed it as part of a larger project, their magisterial monetary history of the United States (Friedman and Schwartz, 1963).
+As a personal aside, I note that I first read A Monetary History of the United States early in my graduate school years at M.I.T.
+I was hooked, and I have been a student of monetary economics and economic history ever since.1 I think many others have had that experience, with the result that the direct and indirect influences of the Monetary History on contemporary monetary economics would be difficult to overstate.
+As everyone here knows, in their Monetary History Friedman and Schwartz made the case that the economic collapse of 1929-33 was the product of the nation's monetary mechanism gone wrong.
+Contradicting the received wisdom at the time that they wrote, which held that money was a passive player in the events of the 1930s, Friedman and Schwartz argued that "the contraction is in fact a tragic testimonial to the importance of monetary forces [p. 300; all page references refer to Friedman and Schwartz, 1963]."
+Friedman and Schwartz's account of the Great Contraction is impressive in its erudition and development of historical detail, including the use of many previously untapped primary sources.
+But what is most important about the work, and the reason that the book is as influential today as ever, is the authors' subtle use of history to disentangle complicated skeins of cause and effect--to solve what economists call the identification problem.
+A statistician studying data from the Great Depression would notice the basic fact that the money stock, output, and prices in the United States went down together in 1929 through 1933 and up together in subsequent years.
+But these correlations cannot answer the crucial questions: What is causing what?
+Are changes in the money stock largely causing changes in prices and output, as Friedman and Schwartz were to conclude?
+Or, instead, is the stock of money reacting passively to changes in the state of economy?
+Or is there yet some other, unmeasured factor that is affecting all three variables?
+The special genius of the Monetary History is the authors' use of what some today would call "natural experiments"--in this context, episodes in which money moves for reasons that are plausibly unrelated to the current state of the economy.
+By locating such episodes, then observing what subsequently occurred in the economy, Friedman and Schwartz laboriously built the case that the causality can be interpreted as running (mostly) from money to output and prices, so that the Great Depression can reasonably be described as having been caused by monetary forces.
+Of course, natural experiments are never perfectly controlled, so that no single natural experiment can be viewed as dispositive--hence the importance of Friedman and Schwartz's historical analysis, which adduces a wide variety of such episodes and comparisons in support of their case.
+I think the most useful thing I can do in the remainder of my talk today is to remind you of the genius of the Friedman-Schwartz methodology by reviewing some of their main examples and describing how they have held up in subsequent research.
+Four Monetary Policy Episodes To reiterate, at the heart of Friedman and Schwartz's identification strategy is the examination of historical periods in the attempt to identify changes in the money stock or in monetary policy that occurred for reasons largely unrelated to the contemporaneous behavior of output and prices.
+To the extent that these monetary changes can reasonably be construed as "exogenous," one can interpret the response of the economy to the changes as reflecting cause and effect--particularly if a similar pattern is found again and again.
+For the early Depression era, Friedman and Schwartz identified at least four distinct episodes that seem to meet these criteria.
+Three are tightenings of policy; one is a loosening.
+In each case, the economy responded in the way that the monetary theory of the Great Depression would predict.
+I will discuss each of these episodes briefly, both because they nicely illustrate the Friedman-Schwartz method and because they are interesting in themselves.
+The first episode analyzed by Friedman and Schwartz was the deliberate tightening of monetary policy that began in the spring of 1928 and continued until the stock market crash of October 1929.
+This policy tightening occurred in conditions that we would not today normally consider conducive to tighter money: As Friedman and Schwartz noted, the business-cycle trough had only just been reached at the end of 1927 (the NBER's official trough date is November 1927), commodity prices were declining, and there was not the slightest hint of inflation.2 Why then did the Federal Reserve tighten in early 1928?
+A principal reason was the Board's ongoing concern about speculation on Wall Street.
+The Federal Reserve had long made the distinction between "productive" and "speculative" uses of credit, and the rising stock market and the associated increases in bank loans to brokers were thus a major concern.3 Benjamin Strong, the influential Governor of the Federal Reserve Bank of New York and a key protagonist in Friedman and Schwartz's narrative, had strong reservations about using monetary policy to try to arrest the stock market boom.
+Unfortunately, Strong was afflicted by chronic tuberculosis; his health was declining severely in 1928 (he died in October) and, with it, his influence in the Federal Reserve System.
+The "antispeculative" policy tightening of 1928-29 was affected to some degree by the developing feud between Strong's successor at the New York Fed, George Harrison, and members of the Federal Reserve Board in Washington.
+In particular, the two sides disagreed on the best method for restraining brokers' loans: The Board favored so-called "direct action," essentially a program of moral suasion, while Harrison thought that only increases in the discount rate (that is, the policy rate) would be effective.
+This debate was resolved in Harrison's favor in 1929, and direct action was dropped in favor of a further rate increase.
+Despite this sideshow and its effects on the timing of policy actions, it would be incorrect to infer that monetary policy was not tight during the dispute between Washington and New York.
+As Friedman and Schwartz noted (p. 289), "by July [1928], the discount rate had been raised in New York to 5 per cent, the highest since 1921, and the System's holdings of government securities had been reduced to a level of over $600 million at the end of 1927 to $210 million by August 1928, despite an outflow of gold."
+Hence this period represents a tightening in monetary policy not related to the current state of output and prices--a monetary policy "innovation," in today's statistical jargon.
+Moreover, Friedman and Schwartz went on to point out that this tightening of policy was followed by falling prices and weaker economic activity: "During the two months from the cyclical peak in August 1929 to the crash, production, wholesale prices, and personal income fell at annual rates of 20 per cent, 7-1/2 per cent, and 5 per cent, respectively."
+Of course, once the crash occurred in October--the result, many students of the period have surmised, of a slowing economy as much as any fundamental overvaluation--the economic decline became even more precipitous.
+Incidentally, the case that money was quite tight as early as the spring of 1928 has been strengthened by the subsequent work of James Hamilton (1987).
+Hamilton showed that the Fed's desire to slow outflows of U.S. gold to France--which under the leadership of Henri Poincaré had recently stabilized its economy, thereby attracting massive flows of gold from abroad--further tightened U.S. monetary policy.
+The next episode studied by Friedman and Schwartz, another tightening, occurred in September 1931, following the sterling crisis.
+In that month, a wave of speculative attacks on the pound forced Great Britain to leave the gold standard.
+Anticipating that the United States might be the next to leave gold, speculators turned their attention from the pound to the dollar.
+Central banks and private investors converted a substantial quantity of dollar assets to gold in September and October of 1931.
+The resulting outflow of gold reserves (an "external drain") also put pressure on the U.S. banking system (an "internal drain"), as foreigners liquidated dollar deposits and domestic depositors withdrew cash in anticipation of additional bank failures.
+Conventional and long-established central banking practice would have mandated responses to both the external and internal drains, but the Federal Reserve--by this point having forsworn any responsibility for the U.S. banking system, as I will discuss later--decided to respond only to the external drain.
+As Friedman and Schwarz wrote, "The Federal Reserve System reacted vigorously and promptly to the external drain.
+.
+.
+.
+On October 9 [1931], the Reserve Bank of New York raised its rediscount rate to 2-1/2 per cent, and on October 16, to 3-1/2 per cent--the sharpest rise within so brief a period in the whole history of the System, before or since (p.
+317)."
+This action stemmed the outflow of gold but contributed to what Friedman and Schwartz called a "spectacular" increase in bank failures and bank runs, with 522 commercial banks closing their doors in October alone.
+The policy tightening and the ongoing collapse of the banking system caused the money supply to fall precipitously, and the declines in output and prices became even more virulent.
+Again, the logic is that a monetary policy change related to objectives other than the domestic economy--in this case, defense of the dollar against external attack--were followed by changes in domestic output and prices in the predicted direction.
+One might object that the two "experiments" described so far were both episodes of monetary contraction.
+Hence, although they suggest that declining output and prices followed these tight-money policies, the evidence is perhaps not entirely persuasive.
+The possibility remains that the Great Depression occurred for other reasons and that the contractionary monetary policies merely coincided with (or perhaps, slightly worsened) the ongoing declines in the economy.
+Hence it is particularly interesting that the third episode studied by Friedman and Schwartz is an expansionary episode.
+This third episode occurred in April 1932, when the Congress began to exert considerable pressure on the Fed to ease monetary policy, in particular, to conduct large-scale open-market purchases of securities.
+The Board was quite reluctant; but between April and June 1932, it did authorize substantial purchases.
+This infusion of liquidity appreciably slowed the decline in the stock of money and significantly brought down yields on government bonds, corporate bonds, and commercial paper.
+Most interesting, as Friedman and Schwartz noted (p. 324), "[t]he tapering off of the decline in the stock of money and the beginning of the purchase program were followed shortly by an equally notable change in the general economic indicator.
+.
+.
+.
+Wholesale prices started rising in July, production in August.
+Personal income continued to fall but at a much reduced rate.
+Factory employment, railroad ton-miles, and numerous other indicators of physical activity tell a similar story.
+All in all, as in early 1931, the data again have many of the earmarks of a cyclical revival.
+.
+.
+.
+Burns and Mitchell (1946), although dating the trough in March 1933, refer to the period as an example of a 'double bottom.'
+" Unfortunately, although a few Fed officials supported the open-market purchase program, notably George Harrison at the New York Fed, most did not consider the policy to be appropriate.
+In particular, as argued by several modern scholars, they took the mistaken view that low nominal interest rates were indicative of monetary ease.
+Hence, when the Congress adjourned on July 16, 1932, the System essentially ended the program.
+By the latter part of the year, the economy had relapsed dramatically.
+The final episode studied by Friedman and Schwartz, again contractionary in impact, occurred in the period from January 1933 to the banking holiday in March.
+This time the exogenous factor might be taken to be the long lag mandated by the Constitution between the election and the inauguration of a new U.S. President.
+Franklin D. Roosevelt, elected in November 1932, was not to take office until March 1933.
+In the interim, of course, considerable speculation circulated about the new President's likely policies; the uncertainty was increased by the President-elect's refusal to make definite policy statements or to endorse actions proposed by the increasingly frustrated President Hoover.
+However, from the President-elect's campaign statements and known propensities, many inferred (correctly) that Roosevelt might devalue the dollar or even break the link with gold entirely.
+Fearing the resulting capital losses, both domestic and foreign investors began to convert dollars to gold, putting pressure on both the banking system and the gold reserves of the Federal Reserve System.
+Bank failures and the Fed's defensive measures against the gold drain further reduced the stock of money.
+The economy took its deepest plunge between November 1932 and March 1933, once more confirming the temporal sequence predicted by the monetary hypothesis.
+Once Roosevelt was sworn in, his declaration of a national bank holiday and, subsequently, his cutting the link between the dollar and gold initiated the expansion of money, prices, and output.
+It is an interesting but not uncommon phenomenon in economics that the expectation of a devaluation can be highly destabilizing but that the devaluation itself can be beneficial.
+These four episodes might be considered as time series examples of Friedman and Schwartz's evidence for the role of monetary forces in the Depression.
+They are not the entirety of the evidence, however.
+Friedman and Schwartz also introduced "cross-sectional"--that is, cross-country--evidence as well.
+This cross-sectional evidence is based on differences in exchange-rate regimes across countries in the 1930s.
+The Gold Standard and the International Depression Although the Monetary History focuses by design on events in the United States, some of its most compelling insights come from cross-sectional evidence.
+Anticipating a large academic literature of the 1980s and 1990s, Friedman and Schwartz recognized in 1963 that a comparison of the economic performances in the 1930s of countries with different monetary regimes could also serve as a test for their monetary hypothesis.
+Facilitating the cross-sectional natural experiment was the fact that the international gold standard, which had been suspended during World War I, was laboriously rebuilt during the 1920s (in a somewhat modified form called the gold-exchange standard).
+Countries that adhered to the international gold standard were essentially required to maintain a fixed exchange rate with other gold-standard countries.
+Moreover, because the United States was the dominant economy on the gold standard during this period (with some competition from France), countries adhering to the gold standard were forced to match the contractionary monetary policies and price deflation being experienced in the United States.
+Importantly for identification purposes, however, the gold standard was not adhered to uniformly as the Depression proceeded.
+A few countries for historical or political reasons never joined the gold standard.
+Others were forced off early, because of factors such as internal politics, weak domestic banking conditions, and the local influence of competing economic doctrines.
+Other countries, notably France and the other members of the so-called Gold Bloc, had a strong ideological commitment to gold and therefore remained on the gold standard as long as possible.
+Friedman and Schwartz's insight was that, if monetary contraction was in fact the source of economic depression, then countries tightly constrained by the gold standard to follow the United States into deflation should have suffered relatively more severe economic downturns.
+Although not conducting a formal statistical analysis, Friedman and Schwartz gave a number of salient examples to show that the more tightly constrained a country was by the gold standard (and, by default, the more closely bound to follow U.S. monetary policies), the more severe were both its monetary contraction and its declines in prices and output.
+One can read their discussion as dividing countries into four categories.
+The first category consisted of countries that did not adhere to the gold standard at all or perhaps adhered only very briefly.
+The example cited by Friedman and Schwartz was China.
+As they wrote (p. 361), "China was on a silver rather than a gold standard.
+As a result, it had the equivalent of a floating exchange rate with respect to gold-standard countries.
+A decline in the gold price of silver had the same effect as a depreciation in the foreign exchange value of the Chinese yuan.
+The effect was to insulate Chinese internal economic conditions from the worldwide depression.
+.
+.
+.
+And that is what happened.
+From 1929 to 1931, China was hardly affected internally by the holocaust that was sweeping the gold-standard world, just as in 1920-21, Germany had been insulated by her hyperinflation and associated floating exchange rate."
+Subsequent research (for example, Choudhri and Kochin, 1980) has identified other countries that, like China, did not adhere to the gold standard and hence escaped the worst of the Depression.
+Two examples are Spain, where the internal instability that ultimately led to the Spanish Civil War prevented the country from re-adopting the gold standard in the 1920s, and Japan, which was forced from the gold standard after being on it for only a matter of months.
+The Depression in Spain was quite mild, and Japan experienced a powerful recovery almost immediately after abandoning its short-lived experiment with gold.
+The second category consisted of countries that had restored the gold standard in the 1920s but abandoned it early in the Depression, typically in the fall of 1931.
+As Friedman and Schwartz observed (p. 362), the first major country to leave the gold standard was Great Britain, which was forced off gold in September 1931.
+Several trading partners, among them the Scandinavian countries, followed Britain's lead almost immediately.
+The effect of leaving gold was to free domestic monetary policy and to stop the monetary contraction.
+What was the consequence of this relaxed pressure on the money stock?
+Friedman and Schwartz noted (p. 362) that "[t]he trough of the depression in Britain and the other countries that accompanied Britain in leaving gold was reached in the third quarter of 1932.
+[In contrast, i]n the countries that remained on the gold standard or, like Canada, that went only part way with Britain, the Depression dragged on."
+Third were countries that remained on gold but had ample reserves or were attracting gold inflows.
+The key example was France (see p. 362), the leader of the Gold Bloc.
+After its stabilization in 1928, France attracted gold reserves well out of proportion to the size of its economy.
+France's gold inflows allowed it to maintain its money supply and avoid a serious downturn until 1932.
+However, at that point, France's liquidation of non-gold foreign exchange reserves and its banking problems began to offset the continuing gold inflows, reducing the French money stock.
+A serious deflation and declines in output began in France, which, as Friedman and Schwartz pointed out, did not reach its trough until April 1935, much later than Great Britain and other countries that left gold early.
+Fourth, and perhaps the worst hit, were countries that rejoined the gold standard but had very low gold reserves and banking systems seriously weakened by World War I and the ensuing hyperinflations.
+Friedman and Schwartz mention Austria, Germany, Hungary, and Romania as examples of this category (p. 361).
+These countries suffered not only deflation but also extensive banking and financial crises, making their plunge into depression particularly precipitous.
+The powerful identification achieved by this categorization of countries by Friedman and Schwartz is worth reemphasizing.
+If the Depression had been the product primarily of nonmonetary forces, such as changes in autonomous spending or in productivity, then the nominal exchange rate regime chosen by each country would have been largely irrelevant.
+The close connection among countries' exchange rate regimes, their monetary policies, and the behavior of domestic prices and output, is strong evidence for the proposition that monetary forces played a central role not just in the U.S. depression but in the world as a whole.
+Of course, those familiar with more recent work on the Great Depression will recognize that Friedman and Schwartz's idea of categorizing countries by exchange rate regime has been widely extended by subsequent researchers.
+Notably, in the paper that revived Friedman and Schwartz's temporarily dormant insight, Choudhri and Kochin (1980) considered the relative performances of Spain (which, as mentioned, did not adopt the gold standard), three Scandinavian countries (which left gold with Great Britain in September 1931), and four countries that remained part of the French-led Gold Bloc (the Netherlands, Belgium, Italy, and Poland).
+They found that the countries that remained on gold suffered much more severe contractions in output and prices than the countries leaving gold.
+In a highly influential paper, Eichengreen and Sachs (1985) examined a number of key macro variables for ten major countries over 1929-35, finding that countries that left gold earlier also recovered earlier.
+Bernanke and James (1991) confirmed the findings of Eichengreen and Sachs for a broader sample of twenty-four (mostly industrialized) countries (see also Bernanke and Carey, 1996), and Campa (1990) did the same for a sample of Latin American countries.
+Bernanke (1995) showed that not only did adherence to the gold standard predict deeper and more extended depression, as had been noted by earlier authors, but also that the behavior of various key macro variables, such as real wages and real interest rates, differed across gold-standard and non-gold-standard countries in just the way one would expect if the driving shocks were monetary in nature.
+The most detailed narrative discussion of how the gold standard propagated the Depression around the world is, of course, the influential book by Eichengreen (1992).
+Eichengreen (2002) reviews the conclusions of his book and concludes largely that they are quite compatible with the Friedman and Schwartz approach.
+The Role of Bank Failures Yet another striking feature of the Great Contraction in the United States was the massive extent of banking panics and failures, culminating in the Bank Holiday of March 1933, in which the entire U.S. banking system was shut down.
+During the Depression decade, something close to half of all U.S. commercial banks either failed or merged with other banks.
+Friedman and Schwartz take the unusually severe and protracted U.S. banking panic as yet another opportunity to apply their identification methodology.
+Their argument, in short, is that under institutional arrangements that existed before the establishment of the Federal Reserve, bank failures of the scale of those in 1929-33 would not have occurred, even in an economic downturn as severe as that in the Depression.
+For doctrinal and institutional reasons to be detailed in a moment, however, the extraordinary spate of bank failures did occur and led in turn to the massive extinction of bank deposits and an abnormally large decline in the stock of money.
+Because the decline in money induced by bank panics would not have occurred under previous regimes, Friedman and Schwartz argued, it can be treated as partially exogenous and thus a potential cause of the extraordinary declines in output and prices that followed.
+Before the creation of the Federal Reserve, Friedman and Schwartz noted, bank panics were typically handled by banks themselves--for example, through urban consortiums of private banks called clearinghouses.
+If a run on one or more banks in a city began, the clearinghouse might declare a suspension of payments, meaning that, temporarily, deposits would not be convertible into cash.
+Larger, stronger banks would then take the lead, first, in determining that the banks under attack were in fact fundamentally solvent, and second, in lending cash to those banks that needed to meet withdrawals.
+Though not an entirely satisfactory solution--the suspension of payments for several weeks was a significant hardship for the public--the system of suspension of payments usually prevented local banking panics from spreading or persisting (Gorton and Mullineaux, 1987).
+Large, solvent banks had an incentive to participate in curing panics because they knew that an unchecked panic might ultimately threaten their own deposits.
+It was in large part to improve the management of banking panics that the Federal Reserve was created in 1913.
+However, as Friedman and Schwartz discuss in some detail, in the early 1930s the Federal Reserve did not serve that function.
+The problem within the Fed was largely doctrinal: Fed officials appeared to subscribe to Treasury Secretary Andrew Mellon's infamous 'liquidationist' thesis, that weeding out "weak" banks was a harsh but necessary prerequisite to the recovery of the banking system.
+Moreover, most of the failing banks were small banks (as opposed to what we would now call money-center banks) and not members of the Federal Reserve System.
+Thus the Fed saw no particular need to try to stem the panics.
+At the same time, the large banks--which would have intervened before the founding of the Fed--felt that protecting their smaller brethren was no longer their responsibility.
+Indeed, since the large banks felt confident that the Fed would protect them if necessary, the weeding out of small competitors was a positive good, from their point of view.
+In short, according to Friedman and Schwartz, because of institutional changes and misguided doctrines, the banking panics of the Great Contraction were much more severe and widespread than would have normally occurred during a downturn.
+Bank failures and depositor withdrawals greatly reduced the quantity of bank deposits, consequently reducing the money supply.
+The result, they argued, was greater deflation and output decline than would have otherwise occurred.
+A couple of objections can be raised to the Friedman-Schwartz inference.
+One logical possibility is that the extraordinary rate of bank failure of the 1930s, rather than causing the subsequent declines in output and prices, occurred because depositors and others anticipated the collapse of the economy--that is, that the banking panics were endogenous to the expected state of the economy.
+Friedman and Schwartz's institutional arguments persuade me that this is unlikely.
+If previous arrangements had been in place, bank panics would not have been allowed to progress to the degree they did, independent of the severity of the downturn.
+Moreover, I don't find it plausible that, in 1930 and 1931, depositors and bankers fully anticipated the severity of the downturn still to come.
+A second possibility is that banking panics contributed to the collapse of output and prices through nonmonetary mechanisms.
+My own early work (Bernanke, 1983) argued that the effective closing down of the banking system might have had an adverse impact by creating impediments to the normal intermediation of credit, as well as by reducing the quantity of transactions media.
+Friedman and Schwartz anticipated this argument and adduced as contrary evidence a comparison of the United States and Canada (p. 352).
+They pointed out that (1) Canada's monetary policy was tied to that of the United States by a fixed exchange rate; (2) Canada had no significant bank failures; but (3) Canada's output declines were as severe as those of the United States.
+Friedman and Schwartz concluded that Canada's economy declined because of its enforced monetary contraction--whether that monetary contraction took place through bank failures or was enforced by the exchange-rate regime was immaterial.
+I would argue that Canada, both being a commodity exporter and being unusually highly integrated with the United States, may not have been fully representative of the experience of all countries in the 1930s.
+For example, in Bernanke (1995, table 3), I showed using a sample of twenty-six countries that, with the exchange-rate regime held constant, countries suffering severe banking panics had subsequent declines in output that were significantly worse than those in countries with stable banking systems.
+This result supports the possibility of an additional, nonmonetary channel for bank failures.
+At the same time, my results were also strongly supportive of the view that adherence to the gold standard, and the associated monetary contraction, was of first-order importance in explaining which countries suffered severe depressions.
+Thus, as I have always tried to make clear, my argument for nonmonetary influences of bank failures is simply an embellishment of the Friedman-Schwartz story; it in no way contradicts the basic logic of their analysis.
+Benjamin Strong and the Leadership Vacuum Finally, what is probably Friedman and Schwartz's most controversial "natural experiment" stems from the premature death, in 1928, of America's preeminent central banker, Benjamin Strong.
+Strong, who was Governor of the Federal Reserve Bank of New York and the de facto equivalent to a Fed Chairman today, had led the Federal Reserve throughout the 1920s.
+Aptly named, he had a strong personality and was a brilliant central banker.
+Quite plausibly, his personality and skills created a leadership position within a Federal Reserve System that--as suggested by its name--was intended by the Congress to be a relatively decentralized institution.
+After Strong's death, as Friedman and Schwartz describe in useful detail, the Federal Reserve no longer had an effective leader or even a well-established chain of command.
+Members of the Board in Washington, jealous of the traditional powers of the Federal Reserve Bank of New York, strove for greater influence; and Strong's successor, George Harrison, did not have the experience or personality to stop them.
+Regional banks also began to assert themselves more.
+Thus, power became diffused; worse, what power there was accrued to men who did not understand central banking from a national and international point of view, as Strong had.
+The leadership vacuum and the generally low level of central banking expertise in the Federal Reserve System was a major problem that led to excessive passivity and many poor decisions by the Fed in the years after Strong's death.
+Friedman and Schwartz argued in their book that if Strong had lived, many of the mistakes of the Great Depression would have been avoided.
+This proposition has been highly controversial and has led to detailed examinations of what Strong's views "really were" on various matters of monetary policymaking.
+This counterfactual debate somewhat misses the point, in my opinion.
+We don't know what would have happened had Strong lived; but what we do know is that the central bank of the world's economically most important nation in 1929 was essentially leaderless and lacking in expertise.
+This situation led to decisions, or nondecisions, which might well not have occurred under either better leadership or a more centralized institutional structure.
+And associated with these decisions, we observe a massive collapse of money, prices, and output.
+Thus, it seems to me that the death of Strong does qualify as one more natural experiment with which to try to identify the effects of monetary forces in the Great Depression.
+Conclusion The brilliance of Friedman and Schwartz's work on the Great Depression is not simply the texture of the discussion or the coherence of the point of view.
+Their work was among the first to use history to address seriously the issues of cause and effect in a complex economic system, the problem of identification.
+Perhaps no single one of their "natural experiments" alone is convincing; but together, and enhanced by the subsequent research of dozens of scholars, they make a powerful case indeed.
+For practical central bankers, among which I now count myself, Friedman and Schwartz's analysis leaves many lessons.
+What I take from their work is the idea that monetary forces, particularly if unleashed in a destabilizing direction, can be extremely powerful.
+The best thing that central bankers can do for the world is to avoid such crises by providing the economy with, in Milton Friedman's words, a "stable monetary background"--for example as reflected in low and stable inflation.
+Let me end my talk by abusing slightly my status as an official representative of the Federal Reserve.
+I would like to say to Milton and Anna: Regarding the Great Depression.
+You're right, we did it.
+We're very sorry.
+But thanks to you, we won't do it again.
+Best wishes for your next ninety years.
+Endnotes 1.
+Accordingly, I hope the reader will forgive the many references to my own work in the list of references below.
+They arise because much of my own research has followed up leads from the Friedman-Schwartz agenda.
+Return to text 2.
+However, as Athanasios Orphanides pointed out to me, by 1929 the rate of output growth was strong, which may have provided additional motivation for a tightening.
+Return to text 3.
+Apparently the Board was not entirely clear on the point that funds used to purchase stock are not made unavailable for productive use.
+Of course, as stock sales are merely transfers of existing assets, funds used to purchase stock are not dissipated but only transferred from one person to another.
+Return to text REFERENCES Bernanke, Ben, "Non-Monetary Effects of the Financial Crisis in the Propagation of the Great Depression," American Economic Review, 1983, 257-76.
+Bernanke, Ben, "The Macroeconomics of the Great Depression: A Comparative Approach," Journal of Money, Credit, and Banking, 1995, 1-28.
+Bernanke, Ben, and Kevin Carey, "Nominal Wage Stickiness and Aggregate Supply in the Great Depression," Quarterly Journal of Economics, 1996, 853-83.
+Bernanke, Ben, and Harold James, "The Gold Standard, Deflation, and Financial Crisis in the Great Depression: An International Comparison," in R. Glenn Hubbard, Financial Markets and Financial Crises, Chicago: University of Chicago Press for NBER, 1991.
+Burns, Arthur F. and Wesley C. Mitchell, Measuring Business Cycles, New York: National Bureau of Economic Research, 1946.
+Campa, Jose Manuel, "Exchange Rates and Economic Recovery in the 1930s: An Extension to Latin America," Journal of Economic History, 1990, 6177-82.
+Choudhri, Ehsan, and Levis Kochin, "The Exchange Rate and the International Transmission of Business Cycles: Some Evidence from the Great Depression," Journal of Money, Credit, and Banking, 1980, 565-74.
+Eichengreen, Barry, Golden Fetters: The Gold Standard and the Great Depression, 1919-1939, New York: Oxford University Press, 1992.
+Eichengreen, Barry, "Still Fettered after All These Years," National Bureau of Economic Research, Working Paper 9276, October 2002.
+Eichengreen, Barry, and Jeffrey Sachs, "Exchange Rates and Economic Recovery in the 1930s," Journal of Economic History, 1985, 925-46.

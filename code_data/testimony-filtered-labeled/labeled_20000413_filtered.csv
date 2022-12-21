@@ -1,9 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"through issuance of equities, firms enable broad sets of investors to share in the risks and rewards of economic activity.",LABEL_0,0.4534437954425812
-1,"the prices established in equity markets, as i noted at the outset, are a device through which capital is allocated.",LABEL_2,0.9973034858703613
-2,these prices should reflect the supplies and demands of participants across all markets at a given time.,LABEL_2,0.9993061423301697
-3,fragmentation thus raises questions about the quality and completeness of the price discovery process and concerns that investors' orders to buy and sell securities may not be executed at the best price or the lowest cost.,LABEL_2,0.9605573415756226
-4,"of course, this process may not be fully realized if there are impediments to competition or if markets are able to establish and secure niches by competing on factors other than price.",LABEL_2,0.9867107272148132
-5,"since 1996, for example, price-earnings ratios of nyse stocks have risen by half.",LABEL_1,0.904928982257843
-6,the ratio of seat prices to the underlying earnings from seat leasing has barely budged.,LABEL_2,0.9986094832420349
-7,"such costs could include delayed executions, failures to execute, or forgone profit if there is no opportunity for price improvement.",LABEL_2,0.6773688793182373

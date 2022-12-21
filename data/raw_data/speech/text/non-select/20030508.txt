@@ -1,0 +1,159 @@
+And, generally speaking, the resulting structure of business incentives, reporting, and accountability has served us well.
+We could not have achieved our current level of national productivity if corporate governance had been deeply flawed.
+Yet, our most recent experiences with corporate malfeasance suggest that governance has strayed from the way we think it is supposed to work.
+By law, shareholders own our corporations, and corporate managers ideally should be working on behalf of shareholders to allocate business resources to their optimum use.
+But as our economy has grown and our business units have become ever larger, de facto shareholder control has diminished: Ownership has become more dispersed, and few shareholders have sufficient stakes to individually influence the choice of boards of directors or chief executive officers.
+The vast majority of corporate share ownership is for investment, not for operating control of a company.
+Thus, corporate officers, especially chief executive officers, have increasingly shouldered the responsibility for guiding businesses in what one hopes they perceive to be the best interests of shareholders.
+Not all CEOs have appropriately discharged their responsibilities and lived up to the trust placed in them, as the events that led to the passage of the Sarbanes-Oxley Act demonstrated.
+In too many instances, some CEOs, under pressure to meet elevated short-term expectations for earnings, employed accounting devices for the sole purpose of obscuring adverse results.
+A change in behavior, however, may already be in train.
+The sharp decline in stock and bond prices after the collapse of Enron and WorldCom has chastened many of those responsible for questionable business practices.
+Corporate reputation is emerging out of the ashes of the debacle as a significant economic value.
+I hope that we will return to the earlier practices of firms competing for the reputation of having the most conservative and transparent set of books.
+* * * It is hard to overstate the importance of reputation in a market economy.
+To be sure, a market economy requires a structure of formal rules--a law of contracts, bankruptcy statutes, a code of shareholder rights--to name but a few.
+But rules cannot substitute for character.
+In virtually all transactions, whether with customers or with colleagues, we rely on the word of those with whom we do business.
+If we could not do so, goods and services could not be exchanged efficiently.
+Even when followed to the letter, rules guide only a small number of the day-to-day decisions required of corporate management.
+The rest are governed by whatever personal code of values corporate managers bring to the table.
+Market transactions are inhibited if counterparties cannot rely on the accuracy of information.
+The ability to trust the word of a stranger still is an integral part of any sophisticated economy.
+A reputation for honest dealings within a corporation is critical for effective corporate governance.
+Even more important is the reputation of the corporation itself as seen through the eyes of outsiders.
+It is an exceptionally important market value that in principle is capitalized on a balance sheet as goodwill.
+Reputation and trust were particularly valued assets in freewheeling nineteenth-century America.
+Throughout much of that century, laissez-faire reigned and caveat emptor was the prevailing prescription for guarding against the wide-open trading practices of those years.
+A reputation for honest dealings was thus a particularly valued asset.
+Even those inclined to be less than scrupulous in their private dealings were forced to adhere to a more ethical standard in their market transactions, or they risked being driven out of business.
+To be sure, the history of business is strewn with Fisks, Goulds, and numerous others treading on, or over, the edge of legality.
+But they were a distinct minority.
+If the situation had been otherwise, the United States at the end of the nineteenth century would never have been poised to displace Great Britain as the world’s leading economy.
+Reputation was especially important to early U.S. bankers.
+It is not by chance that in the nineteenth century many bankers could effectively issue uncollateralized currency.
+They worked hard to develop and maintain a reputation that their word was their bond.
+For these institutions to succeed and prosper, people had to trust their promise of redemption in specie.
+The notion that “wildcat banking” was rampant before the Civil War is an exaggeration.
+Certainly, crooks existed in banking as in every business.
+Some banks that issued currency made redemption inconvenient, if not impossible.
+But they were fly-by-night operators and rarely endured beyond the first swindle.
+In fact, most bankers competed vigorously for reputation.
+Those who had a history of redeeming their bank notes in specie, at par, were able to issue substantial quantities, effectively financing their balance sheets with zero-interest debt.
+J.P. Morgan marshaled immense power on Wall Street in large part because his reputation for fulfilling his promises was legendary.
+Today, most banks rely partly on deposit insurance in lieu of reputation to hold below-market-rate deposits.
+And a broad range of protections provided by the Securities and Exchange Commission, the Commodity Futures Trading Commission, and myriad other federal and state agencies has similarly partially crowded out the value of trust as a competitive asset.
+* * * Trust still plays a crucial role in one of the most rapidly growing segments of our financial system--the over-the-counter (OTC) derivatives market.
+This market has played an important and successful role in the management of risk at financial institutions, a major element of their corporate governance.
+I do not say that the success of the OTC derivatives market in creating greater financial flexibility is due solely to the prevalence of private reputation rather than public regulation.
+Still, the success to date clearly could not have been achieved were it not for counterparties’ substantial freedom from regulatory constraints on the terms of OTC contracts.
+This freedom allows derivatives counterparties to craft contracts that transfer risks in the most effective way to those most willing and financially capable of absorbing them.
+Benefits of Derivatives Although the benefits and costs of derivatives remain the subject of spirited debate, the performance of the economy and the financial system in recent years suggests that those benefits have materially exceeded the costs.
+Over the past several years, the U.S. economy has proven remarkably resilient in the face of a series of severe shocks--the collapse of equity values, terrorist attacks, and geopolitical turmoil.
+To be sure, economic growth has been subpar for some time, but we seem to have experienced a significantly milder downturn than the long history of business cycles and the severity of the shocks to the economy would have led us to expect.
+Although no single factor can account for this resilience, one striking feature that differentiates this cycle from earlier ones is the continued vitality of most U.S. banks and nonbank financial institutions.
+In past cycles, economic downturns often produced credit losses that were so severe that the capacity of those institutions to intermediate financial flows was impaired.
+As a consequence, recessions were prolonged and deepened.
+This time, the economic downturn has not significantly eroded the capital of most financial intermediaries, and the terms and availability of credit have not tightened to such an extent as to be significant factors in deepening the contraction or impeding the recovery.
+The use of a growing array of derivatives and the related application of more-sophisticated methods for measuring and managing risk are key factors underpinning the enhanced resilience of our largest financial intermediaries.
+Derivatives have permitted financial risks to be unbundled in ways that have facilitated both their measurement and their management.
+Because risks can be unbundled, individual financial instruments now can be analyzed in terms of their common underlying risk factors, and risks can be managed on a portfolio basis.
+Concentrations of risk are more readily identified, and when such concentrations exceed the risk appetites of intermediaries, derivatives can be employed to transfer the underlying risks to other entities.
+As a result, not only have individual financial institutions become less vulnerable to shocks from underlying risk factors, but also the financial system as a whole has become more resilient.
+Individual institutions’ portfolios have become better diversified.
+Furthermore, risk is more widely dispersed, both within the banking system and among other types of intermediaries and institutional investors.
+Even the largest corporate defaults in history (WorldCom and Enron) and the largest sovereign default in history (Argentina) have not significantly impaired the capital of any major financial intermediary.
+Likewise, record amounts of home mortgage refinancing and accompanying declines in mortgage asset durations have not imperiled the principal intermediaries in the mortgage markets, in substantial part because these institutions were able to use derivatives to transfer a significant portion of the convexity risk associated with prepayments of fixed-rate mortgages to investors in callable debt and issuers of putable debt.
+Risks Associated with the Use of Derivatives If derivatives and the techniques for risk measurement and management that they have facilitated have produced all these benefits, why do they remain so controversial?
+The answer is that the use of these instruments and the associated techniques pose a variety of challenges to risk managers.
+Inevitably, risk-management failures occur, and in two instances--the highly publicized cases of Barings and Long Term Capital Management--they proved destabilizing.
+Those that question the net benefits of derivatives see daunting risk-management problems and thus foresee catastrophic outcomes.
+In particular, they fear that common deficiencies in risk management will result in widespread failures or that the failure of a very large derivatives participant will impose heavy credit losses on its counterparties and yield a chain of failures.
+Others, like myself, who see the benefits of derivatives exceeding the costs, do not deny that their use poses significant risk-management challenges.
+But we see ample evidence that the risks are manageable in principle and generally have been managed quite effectively in practice, at least to date.
+Indeed, credit losses on derivatives have occurred at a rate that is a small fraction, for example, of the loss rate on commercial and industrial loans.
+Market discipline in the largely unregulated derivatives markets has provided strong incentives for effective risk management and has the potential to be even more effective in the future.
+To be sure, there undoubtedly will be further risk-management failures.
+But the largest market participants have such diversified businesses that a risk-management failure involving a single product line is unlikely to be a threat to solvency.
+Furthermore, risk-management failures are more likely to be idiosyncratic than to reflect common deficiencies in procedure or technique among market participants.
+In the case of the management of market risk, our bank examiners observe significant differences in approach across the largest U.S. banks, even in the measurement of such a basic concept as value-at-risk.
+I do not wish to suggest, however, that I am entirely sanguine with respect to the risks associated with derivatives.
+One development that gives me and others some pause is the decline in the number of major derivatives dealers and its potential implications for market liquidity and for concentration of counterparty credit risks.
+I also fear that the potential contribution of market discipline to stability in the derivatives markets is not being fully realized because, in our laudable efforts to improve public disclosure, we too often appear to be mistaking more extensive disclosure for greater transparency.
+This is an issue to which I shall shortly return.
+Concentration and Market Liquidity In recent years, consolidation has reduced the number of firms that provide liquidity to the OTC derivatives markets by acting as dealers in the more standardized or “plain vanilla” contracts.
+To be sure, the resulting concentration sometimes is overstated because of the failure to recognize that the OTC derivatives markets are global markets in which major banks and securities firms from more than half a dozen countries compete.
+For example, measures of concentration based on data reported by U.S. banks overstate concentration significantly because they ignore the competitive activities of U.S. securities firms and foreign banks.
+Nonetheless, not all major dealers make markets in all products, and concentration is substantial for certain important types of OTC contracts.
+Examples include U.S. dollar interest rate options and credit default swaps.
+In each case, a single dealer seems to account for about one-third of the global market, and a handful of dealers together seem to account for more than two-thirds.
+When concentration reaches these kinds of levels, market participants need to consider the implications of exit by one or more leading dealers.
+Such an event could adversely affect the liquidity of types of derivatives that market participants rely upon for managing the risks of their core business functions.
+Exit could be voluntary.
+In particular, losses incurred in making markets could lead a dealer to conclude that the returns from market-making are not commensurate with the risks.
+Alternatively, downgrades of a dealer’s credit rating could force the dealer to exit.
+Counterparties in the OTC derivatives market are quite concerned about the potential credit risks inherent in such contracts and generally are unwilling to transact with dealers unless their credit rating is A or higher.
+If a major dealer exited and other dealers were unwilling to fill the void, the liquidity of the market likely would be impaired.
+Market participants need to consider what their alternatives would be in such circumstances.
+Are there other liquid markets in which they could manage their risks?
+In some cases market participants may be able to manage risks reasonably effectively in cash markets or exchange-traded derivatives markets.
+But in other cases managing risks may become more difficult with the exit of some dealers.
+If market participants perceive that they are vulnerable to such exit by a liquidity provider, they will tend to redirect some of their risk-management activity to other, more liquid markets or seek out new dealers in the market in which exit is a concern.
+If enough participants perceive the concentration of dealers as entailing market-liquidity risk, their actions to mitigate the risk should over time reduce that degree of concentration.
+Concentration and Counterparty Risk Perhaps the more obvious way in which concentration in OTC derivatives markets creates risks for market participants is through its implications for counterparty credit risks.
+Concentration of market-making has the potential to create concentrations of credit risks between the dealers and the end-users of derivatives as well as between the dealers themselves.
+This latter concentration of risk results from dealers frequently managing their market risks through derivatives transactions with a limited number of other dealers.
+As mentioned earlier, critics of derivatives often raise the specter of the failure of one dealer imposing debilitating losses on its counterparties, including other dealers, yielding a chain of defaults.
+However, derivatives market participants seem keenly aware of the counterparty credit risks associated with derivatives and take various measures to mitigate those risks.
+The vast majority carefully evaluate the creditworthiness of counterparties before entering into transactions and monitor their credit quality over the life of the transactions.
+As I indicated earlier, users of derivatives have been reluctant to transact with dealers that are not perceived as solid investment-grade credits.
+Market participants also establish credit limits for their counterparties and actively monitor their exposures to ensure that they remain within the limits established.
+Such monitoring, parenthetically, relies heavily on trust in the accuracy of the information forthcoming from the counterparties.
+Counterparty risk management has been materially assisted by the widespread use of master agreements for derivatives transactions.
+In the event of a counterparty’s default, such agreements permit the termination of all transactions with the counterparty and the netting of the resulting gains and losses.
+For many years, market participants have been putting such master agreements in place and working with legislatures to ensure that national laws support the enforceability of netting.
+Data reported by U.S. banks indicate that, on average, netting now reduces counterparty exposures by almost three-fourths.
+Even with wider use of netting, however, the outsized growth of derivatives markets has resulted in ever-larger counterparty exposures.
+Market participants have increasingly responded by entering into collateral agreements to further mitigate counterparty credit risks.
+Such agreements typically permit counterparties to derivatives transactions to demand collateral if their net credit exposure exceeds a negotiated threshold amount.
+The threshold often varies with the credit rating of the counterparty: The lower a counterparty’s credit rating, the smaller the threshold.
+If its credit rating falls below investment grade, a counterparty is often required to overcollateralize its counterparties’ exposures.
+In effect, it becomes obligated to meet a margin requirement.
+Collateral agreements are a very effective means of limiting counterparty credit risks.
+At the same time, they increase market participants’ exposures to other types of risk, especially funding-liquidity risks.
+Once a counterparty has agreed to collateralize its derivatives contracts, day-to-day declines in the value of those contracts expose it to immediate demands for more collateral.
+Furthermore, the practice of tying the size of thresholds and margin requirements to credit ratings exposes a counterparty to extraordinary demands for collateral if its rating is downgraded.
+Collateral demands arising from rating downgrades may be especially costly to meet because a downgrade would reduce the availability of funding and increase its costs at the same time.
+Incentives for Effective Risk Management As this discussion of the risks associated with derivatives makes clear, effective risk management by market participants is the key to ensuring that the benefits of derivatives continue to exceed their costs.
+Some may see government regulation of OTC derivatives dealers as essential to ensuring efficacious risk management.
+This view presumes that government regulation can address the challenges these types of markets engender and that it can do so without lessening the effectiveness of market discipline supplied by counterparties.
+Market participants usually have strong incentives to monitor and control the risks they assume in choosing to deal with particular counterparties.
+In essence, prudential regulation is supplied by the market through counterparty evaluation and monitoring rather than by authorities.
+Such private prudential regulation can be impaired--indeed, even displaced--if some counterparties assume that government regulations obviate private prudence.
+We regulators are often perceived as constraining excessive risk-taking more effectively than is demonstrably possible in practice.
+Except where market discipline is undermined by moral hazard, owing, for example, to federal guarantees of private debt, private regulation generally is far better at constraining excessive risk-taking than is government regulation.
+The very modest credit losses that have appeared in derivatives portfolios at U.S. banks are a testament to the effectiveness of market discipline in this area.
+Indeed, credit losses on OTC derivatives also have been quite modest at derivatives affiliates of U.S. broker-dealers, which are subject to very limited government regulation.
+This is further evidence of the powerful effects on behavior that result when market participants recognize that they bear the bottom-line consequences of their risk-taking decisions.
+A key support for market discipline is the information that market participants have for evaluating the creditworthiness of counterparties.
+Over the past decade, enormous attention has been given to disclosures market participants make with regard to their risk exposures, particularly those associated with derivatives activities.
+Both public authorities and private-sector working groups have recommended ways to enhance market discipline through improved public disclosures.
+The result of these efforts, however, has been mixed.
+Clearly, we have made great strides in expanding the volume of publicly disclosed information related to risk exposures and derivatives.
+A more complex question is whether this greater volume of information has led to comparable improvements in the transparency of firms.
+In the minds of some, public disclosure and transparency are interchangeable.
+But they are not.
+Transparency implies that information allows an understanding of a firm's exposures and risks without distortion.
+The goal of improved transparency thus represents a higher bar than the goal of improved disclosures.
+Transparency challenges market participants not only to provide information but also to place that information in a context that makes it meaningful.
+Transparency challenges market participants to present information in ways that accurately reflect risks.
+Much disclosure currently falls short of these more demanding goals.
+Despite the substantial room for progress with regard to transparency, we should not underestimate the barriers to achieving it.
+Managers no doubt have to struggle with selecting and organizing data in a meaningful way.
+The difficulties are well illustrated by the annual reports of large institutions that routinely exceed one hundred pages; pressures are enormous to update existing tables and charts as well as to provide even more.
+In addressing this challenge, however, both managers of firms and makers of public policy would do well to be mindful of the ultimate goal--a clear understanding of a firm's activities that fosters market discipline.
+Conclusion In conclusion, the benefits of derivatives, in my judgment, have far exceeded their costs.
+Derivatives unquestionably do pose risk-management challenges to market participants.
+But those challenges are manageable and thus far have generally been managed quite well.
+The best way to ensure that those challenges continue to be met is to preserve and strengthen the effectiveness of market discipline.
+Market incentives, in particular, reinforce the importance of reputation and trust as sources of market value.

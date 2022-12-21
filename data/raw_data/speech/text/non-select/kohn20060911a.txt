@@ -1,0 +1,94 @@
+Today marks the fifth anniversary of the September 11th terrorist attacks on the United States.
+On that day, as our nation came to grips with the terrible events it had just witnessed, the Federal Reserve remained open and operating, in part to help ensure that the nationâ€™s payments system continued to function.
+In the aftermath of the attacks, the financial industry has taken many steps to strengthen the resilience of our nationâ€™s critical payments infrastructures.
+For the retail payments system, the September 11th attacks highlighted the banking industry's extensive reliance on air transportation as planes came to a standstill and the collection of checks slowed dramatically.
+This prompted a heightened focus on how electronic processing technologies could be applied to the check-collection system to reduce the reliance on air transportation and improve check-processing efficiency more generally.
+My remarks today, which reflect my own thoughts and not necessarily those of the other members of the Federal Reserve Board, will focus on the future of the check-collection system and the future role of the Federal Reserve in retail payments services.1 A Period of Transition in the Retail Payments System Today, shifts in consumer behavior and rapid industry innovation, along with legal and regulatory change, are dramatically reshaping our retail payments system.
+Because of the increasing availability and declining cost of convenient electronic payment alternatives, many payments that were until recently being made in paper form are today being made electronically.
+In addition, new electronic technologies are now being harnessed to improve the processing of checks.
+The 2003 Federal Reserve study on the use of retail payment instruments revealed dramatic changes in consumer behavior.
+It found that, for the first time ever, the number of electronic payments in the United States--such as credit card, debit card, and automated clearinghouse (ACH) payments--exceeded check payments.
+A range of data indicates that electronic payments have continued to increase and that check payments have continued to decline.
+Debit cards, primarily used by consumers for everyday purchases, are the fastest growing segment of the retail payments system.
+Consumers seem to view debit cards as a natural progression from cash and checks because they are a convenient electronic means of making payments without incurring the additional debt often associated with credit card use.
+In fact, on at least one major network, debit card payments are reported to have surpassed credit card payments.
+This shift in payment behavior can be attributed in part to changes in the rules and regulations governing the ACH network, which have facilitated the use of this network for one-time, nonrecurring payments.
+As you know, in the past the ACH was used mainly for recurring payments, such as payroll and mortgage payments.
+Today, consumer purchases at stores, over the telephone, and on the Internet can be completed using the ACH.
+Regulatory and rule changes have also facilitated the use of the ACH to convert checks that consumers mail to businesses or provide at the point of sale into electronic payments.
+These new uses of the ACH for one-time payments have driven the continuing double-digit growth rates of ACH transaction volume.
+Given these dynamic changes in the payments system, the Federal Reserve is planning to repeat its triennial survey of retail payments use next year to take another snapshot of the nationâ€™s retail payments system.
+The Federal Reserveâ€™s Experience with Check 21Not only are more payments being made electronically, but more check payments are also being processed electronically, in part because of the Check Clearing for the 21st Century Act, or Check 21.2 Clearly, Check 21 has begun to diminish the importance of geography and physical transportation in check processing, and banks have started to reengineer their backroom processes to accommodate end-to-end electronic check clearing.
+Since October 28, 2004, the date Check 21 took effect, the Reserve Banksâ€™ Check 21 volume has grown rapidly, reflecting a trend that will lead to the widespread electronic processing of checks in the not-too-distant future.
+Private-sector service providers that offer Check 21 services are also experiencing rapid growth in volume as the banking industry becomes more interested in and capable of using Check 21 authority to clear checks.
+Today, about 17 percent of the checks deposited with the Federal Reserve Banks, or slightly over 6 million checks a day valued at about $20 billion, are deposited using the Reserve Banksâ€™ Check 21 product suite.
+As expected, depository institutions have been somewhat slower in agreeing to accept their check presentments electronically because of the complexity of integrating such presentments into back-office processing and risk-management systems.
+As a result, the use of substitute checks is widespread.
+Nevertheless, in July 2006 almost 4 percent of the Reserve Banksâ€™ daily volume, or about one and a half million checks, was presented to paying banks in electronic Check 21 files, and this volume is growing rapidly.
+Thus, banks are starting to realize many of the benefits of the end-to-end electronic check processing that were envisioned when Check 21 was enacted, including efficiency gains and cost savings.
+In addition, they are beginning to offer their customers new and better services.
+For example, some banks are offering their business customers the ability to truncate checks and deposit them electronically.
+Also, banks are now able to set a later-in-the-day cutoff hour for check deposits because they can transmit checks electronically from their branches to their central processing facilities for collection.
+As a result, banks should be able to provide customers with improved funds availability, more efficient cash management services, and better access to services for their geographically remote customers.
+The Evolution of Electronic Check CollectionHow will electronic check collection evolve in the years to come?
+The industry is discussing several possible models.
+In the first, check images are transmitted to the paying bank along with the MICR-line payment information.3 In the second, the MICR information is transmitted to the paying bank while the check images are stored in remote archives that can be accessed on demand.
+Both models are already being used to some extent and each has its advantages and disadvantages.
+I suspect that, as the industry gains greater experience with electronic check collection, the superiority of one of the models may become clearer.
+Those who favor the first model believe that it allows paying banks to better manage their risks and customer relationships.
+Paying banks would not have to rely on multiple image archive providers, with whom they may have no direct contractual relationship, to obtain check images for customer online banking services and backroom operations.
+Others believe that a small number of centralized check-image archives, as envisioned in the second model, would be more cost-effective and would not appreciably increase risk or degrade customer service.
+In this model, the MICR information on a check could be transmitted over a dedicated network or, as recently suggested by some bankers, the ACH.
+The ACH is seen as a potentially attractive option because it is an electronic system that reaches all depository institutions and could eliminate the need to print substitute checks.
+The flow of check information over the ACH system raises the legal question of whether the payments should be characterized as checks or electronic fund transfers.
+If the payments were characterized as checks, under current check law banks can choose whether to receive presentments electronically or in paper form.
+A key principle underlying Check 21 was to maintain this choice by permitting banks to participate in electronic check processing when their business case justified doing so.
+Requiring banks to accept electronic check presentment simply because they participate in the ACH system and have agreed to abide by NACHA rules might be viewed as contrary to this principle.
+Alternatively, if the payments were characterized as electronic funds transfers, then how would banks obtain the authorizations required under Regulation E to convert the transactions into ACH payments?
+When evaluating the relative benefits of using the ACH network for these payments, we must consider these threshold legal questions.
+A Perspective on the Future U.S.
+Check SystemThe checkless society has been predicted for decades; however, as we near 2007, we know that even though checks are used less frequently, they are still used widely.
+Industry experts are understandably wary of predicting what lies ahead for the U.S. check system.
+However, as we engage in strategic discussions on the future of checks and contemplate investments in check-processing infrastructure, we need to consider how the check system might evolve.
+Let me take a first step and offer one perspective.
+The decline in check use has already caused the Reserve Banks to reduce by half the number of offices at which they process paper checks.
+In 2003, the Reserve Banks had forty-five check-processing offices nationwide, versus the twenty-two they have today and the eighteen that they will have by early 2008.
+Further consolidations are likely as check volumes continue to decline and as checks are increasingly processed electronically.
+Ultimately, perhaps sometime late in the next decade, the Reserve Banks might process checks at only a single office nationwide.
+These changes in the Federal Reserveâ€™s check-processing infrastructure will benefit bank customers by entitling them to earlier funds availability on their check deposits, because all checks will eventually become local checks, which are generally subject to a maximum permissible hold period of two business days.
+This will present risk-management challenges for banks because a bank seldom learns that a local check is unpaid before it must make the funds available to the customer for withdrawal.
+Moreover, while some checks are being collected faster as a result of electronic processing, in the future other checks might be collected more slowly.
+We have already seen some banks decide to process large- and small-dollar checks differently.
+Specifically, many banks are expediting the collection of larger-dollar checks by taking advantage of the Check 21 authority.
+On the other hand, banks are continuing to collect smaller-dollar checks in paper form, using physical transportation networks, because the value of collecting these smaller-dollar checks faster does not justify the cost of doing so.
+As larger-dollar checks are increasingly cleared electronically, the use of relatively expensive dedicated check-transportation networks to clear the aggregate value of the remaining checks will be harder and harder to justify economically.
+As a result, it is quite possible that it will take longer to collect smaller-dollar checks as dedicated, high-cost check-transportation networks are scaled back or eliminated and these checks are transported using slower, less costly means.
+The Federal Reserve is now studying whether overall improvements in the check-collection system would be sufficient in the near term to justify the Boardâ€™s use of its authority under the Expedited Funds Availability Act to reduce maximum hold periods.4 The likely slowing of the collection of smaller-value checks could make any change problematic in the near term.
+Nonetheless, as I have already noted, recent and future consolidations of Federal Reserve check-processing regions have benefited, and will continue to benefit, bank customers as many nonlocal checks become local and therefore subject to shorter maximum holds.
+If the payments system evolves as I have just outlined, then it is possible that in the next ten to twenty years the Reserve Banks will accept only checks that are deposited electronically and that can be presented electronically; any remaining paper checks may have to be cleared through other channels.
+In this scenario, the current paper-check infrastructure of the Federal Reserve that is heavily reliant on physical transportation will be replaced by an electronic-processing infrastructure with a production data center and a few backup sites, not unlike todayâ€™s ACH network.
+The Role of the Reserve Banks in the Provision of Retail Payments ServicesThe changes I have just described could very well have implications for the role of the Federal Reserve in the payments system.
+From its inception in 1913, the Federal Reserve has not only been closely involved in overseeing the nationâ€™s payments system but has also been an important operational component of that system.
+This latter role has involved competing with the private sector to provide certain retail payments.
+Congress originally wanted the Federal Reserve to play this operational role to reduce inefficiencies in the payments arena.
+This role has changed considerably over the past century, with some changes resulting from the enactment of statutes such as the Monetary Control Act, or the MCA.
+The MCA went a long way toward establishing a relatively level playing field on which the Reserve Banks and private-sector payments providers have competed over the past quarter century.
+However, because of the inherent differences between the central bank and private-sector service providers, a truly level playing field will never be entirely possible.
+The Reserve Banks enjoy certain advantages, such as an unsurpassed credit rating, that makes them an attractive service provider in times of financial stress.
+On the other hand, the Reserve Banks do not have the flexibility enjoyed by their competitors to negotiate fees and other service terms with individual customers.
+Because of these differences, it is incumbent on us from time to time to reexamine our operational role in the payments system.
+These assessments have focused in the past, and should continue to focus in the future, on the Federal Reserveâ€™s role as a provider of retail payment services.
+Large-value payments systems, such as Fedwire, are typically viewed as core, systemically important services, and they are commonly provided by other central banks around the globe.
+A rationale for the participation of a government-related entity, such as the Federal Reserve, in the retail payments system is harder to formulate.
+The most recent assessment of this operational role was conducted in the late 1990s, by the Committee on the Federal Reserve in the Payments Mechanism, better known as the Rivlin Committee, and it focused on the Federal Reserveâ€™s role in the check and ACH systems.
+Ultimately, the committee concluded that the Federal Reserve should remain a provider of both check-collection and ACH services and should play a more active role in helping the banking industry become more efficient.
+The committee determined that the Federal Reserve played an important role in providing both check and ACH services to small and remote institutions and that, if the Federal Reserve stopped providing these services, it could disrupt the market in the short run, resulting in higher prices and more regulation, with little promise of substantial benefits over the long run.
+In recent years, we have actively pursued a strategy of engaging the industry in discussions on payments system issues and offering services designed to encourage the increased use of electronics.
+As we move into a more steady-state electronic check environment, the Federal Reserve may find it appropriate once again to review its longer-term operational role in the retail payments system.
+Clearly, at that time, the Federal Reserveâ€™s national reach will no longer be a compelling reason for its operational role.
+As the Federal Reserve assesses its role in providing retail payment services, it will be important to consider how the circumstances that have provided the rationale for the Federal Reserveâ€™s continuing involvement in retail payments services may have changed.
+The review would have to address, among other things, the following questions: If the Reserve Banks were to withdraw from check and ACH services, would these services continue to be provided competitively and cost-effectively?
+Would depository institutions continue to have equitable access to these services?
+In the event of an unanticipated shock, would the payments system be sufficiently resilient?
+ConclusionIn conclusion, the retail payments system will continue to become increasingly electronic even though the exact nature of that system is not yet clear.
+What is clear, however, is that the Federal Reserve will continue to foster a safe and efficient payments system.

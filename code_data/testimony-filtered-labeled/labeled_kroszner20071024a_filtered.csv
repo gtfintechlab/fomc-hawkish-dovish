@@ -1,8 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"in recent years, the subprime market has grown dramatically because of advances in credit scoring and underwriting technology, which enables lenders to charge different borrowers different prices on the basis of calculated creditworthiness.",LABEL_2,0.5551666021347046
-1,"these loans are recognized by the higher prices they carry, which reflect subprime lenders' decisions to seek additional compensation for the credit risk they incur.",LABEL_1,0.9982128143310547
-2,a review of data provided by mortgage lenders pursuant to the home mortgage disclosure act reveals that lenders that are not subject to oversight by a federal banking agency originated just under half of the higher-priced conventional first lien mortgage loans reported in 2006.,LABEL_1,0.49372774362564087
-3,foreclosure starts tend to be high in states with stressed economic conditions and to rise where house prices have decelerated or fallen.,LABEL_0,0.9956564903259277
-4,"when information on alternatives is readily available, product offerings must meet customers' demands and offering prices must reflect those of market competitors.",LABEL_2,0.9945114254951477
-5,"as i mentioned previously, data collected under the home mortgage disclosure act show that independent mortgage companies made about half of higher-priced mortgages in 2006.",LABEL_1,0.726108193397522
-6,"specifically, assignees must be able to conduct due diligence and determine whether an originator has complied with the law, so that they can evaluate and price for any risks.",LABEL_2,0.990703821182251

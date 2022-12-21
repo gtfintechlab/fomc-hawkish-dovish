@@ -1,0 +1,128 @@
+I know we have a mix of bankers in the audience from institutions of all sizes that are engaged in asset/liability and treasury management.
+So I am going to discuss some issues that are relevant to banks of various types.
+First, I am going to comment on the proposed guidance for commercial real estate and nontraditional mortgages.
+Then, I want to discuss changing risk exposures in market risk and the related capital regulations.
+Finally, I will focus on recent regulatory actions that relate to small bank holding company capital and trust preferred securities.
+Proposed Supervisory GuidanceIt is my understanding that many of you are aware of proposed supervisory guidance relating to commercial real estate and nontraditional mortgages.
+We have received many comments on both proposals--perhaps even from some of you.
+Naturally, bankers may be somewhat concerned about the effect that this proposed guidance could have on their business.
+But I think it is helpful to remember that the primary responsibility of regulators is to ensure that the United States has a safe and sound banking system.
+When we see possibly excessive risk-taking or inappropriate risk management or controls, we must act.
+While most U.S. banks operate in a safe and sound manner, we must always be vigilant for problems that may arise in the future.
+Commercial Real EstateFirst, I would like to underscore that the proposed commercial real estate (CRE) guidance focuses on "true" CRE loans.
+It does not concern commercial loans for which a bank looks to a borrower's cash flow as the source of repayment and accepts real estate collateral as a secondary source of repayment.
+Rather, it addresses bank lending on commercial real estate projects for which repayment is dependent on third-party rental income or the sale, refinancing, or permanent financing of the property.
+With "true" commercial real estate lending, repayment depends on the condition and performance of the real estate market.
+I would also like to mention up front that the proposed guidance is not intended to cap or restrict banks' participation in the commercial real estate sector, but rather to remind institutions that proper risk management and adequate capital are essential components of a sound CRE lending strategy.
+In fact, both of these components are already in place at many institutions.
+No element of the proposed guidance is intended to act as a "trigger" or "hard limit" signaling the need for an immediate cutback in or reversal of CRE lending; rather, the thresholds in the proposed guidance are intended as benchmarks identifying cases for further review.
+Supervisors focus on commercial real estate because that sector played a central role in the banking problems of the late 1980s and early 1990s and has historically been a highly volatile asset class.
+Past problems in the sector have generally come at times when the broader market encountered difficulties.
+Therefore, banks should not be surprised by the emphasis of the proposed guidance on the importance of portfolio risk management and concentrations.
+One reason supervisors are proposing CRE guidance at this point is that we are seeing high and rising concentrations of CRE loans relative to capital.
+For certain groups of banks, such as those with assets between $100 million and $1 billion, average CRE concentrations are about 300 percent of total capital.
+This is twice the concentration level of about 150 percent in the late 1980s and early 1990s for this same bank group, when we last went through the bottom of a CRE credit cycle.
+While banks' underwriting standards are generally stronger now than in the 1980s and 1990s, the agencies are proposing the guidance now to reinforce sound portfolio-management principles that a bank should have in place when pursuing a commercial real estate lending strategy.
+In addition to monitoring the performance of individual loans, bankers should also be monitoring the mix of property types and performance of their portfolio as a whole and the performance of local real estate markets in which they are lending.
+A bank targeting commercial real estate lending as a primary business activity needs to consider that the risk exposure arising from the performance of its total CRE loan portfolio--the concentration risk--depends on broader real estate market conditions.
+For example, if a bank has several borrowers with similar projects that encounter problems--such as longer absorption periods, higher marketing costs, or higher vacancy rates--weaknesses in the broader real estate market can have a cascading effect on the quality of the bank's CRE portfolio as real estate values erode.
+In evaluating the impact of their commercial real estate concentrations, bankers should also pay attention to geographic factors.
+A bank may lend successfully within a certain geographic area but may encounter problems when it begins to lend outside its market, or "footprint," for which it typically has better market intelligence.
+In recent years, supervisors have observed banks, in order to maintain a customer relationship, going beyond their established footprint and lending in real estate markets with which they have less experience.
+The challenge can be even greater when the borrower is also venturing into a new market.
+In prior CRE credit downturns, such practices have led to significant losses.
+Nontraditional Mortgage ProductsOver the past few years, the agencies have observed an increase in the number of residential mortgage loans that allow borrowers to defer repayment of principal and, sometimes, interest.
+These loans, often referred to as nontraditional mortgage loans, include "interest-only" (IO) mortgage loans, on which the borrower pays no loan principal for the first few years of the loan, and "payment-option" adjustable-rate mortgages (option ARMs), for which the borrower has flexible payment options--and which could also result in negative amortization.
+IOs and option ARMs are estimated to have accounted for almost one-third of all U.S. mortgage originations in 2005, compared with less than 10 percent in 2003.
+Despite their recent growth, however, these products, it is estimated, still account for less than 20 percent of aggregate domestic mortgages outstanding of $8 trillion.
+While the credit quality of residential mortgages generally remains strong, the Federal Reserve and other banking supervisors are concerned that current risk-management techniques may not fully address the level of risk inherent in nontraditional mortgages, a risk that would be heightened by a downturn in the housing market.
+Mortgages with some of the characteristics of nontraditional mortgage products have been available for many years; however, they have historically been offered to higher-income borrowers.
+More recently, they have been offered to a wider spectrum of consumers, including subprime borrowers, who may be less suited for these types of mortgages and may not fully recognize the embedded risks.
+These borrowers are more likely to experience an unmanageable payment shock during the life of the loan, meaning that they may be more likely to default on the loan.
+Further, nontraditional mortgage loans are becoming more prevalent in the subprime market at the same time risk tolerances in the capital markets have increased.
+Banks need to be prepared for the resulting impact on liquidity and pricing if and when risk spreads return to more "normal" levels and competition in the mortgage banking industry intensifies.
+Supervisors have also observed that lenders are increasingly combining nontraditional mortgage loans with weaker mitigating controls on credit exposures--for example, by accepting less documentation in evaluating an applicant's creditworthiness and not evaluating the borrower's ability to meet increasing monthly payments when amortization begins or when interest rates rise.
+These "risk layering" practices have become more and more prevalent in mortgage originations.
+Thus, while some banks may have used elements of the product structure successfully in the past, the easing of traditional underwriting controls and sales of products to subprime borrowers may have unforeseen effects on losses realized in these products.
+In view of these industry trends, the Federal Reserve and the other banking agencies decided to issue the draft guidance on nontraditional mortgage products.
+The proposed guidance emphasizes that an institution's risk-management processes should allow it to adequately identify, measure, monitor, and control the risk associated with these products.
+It reminds lenders of the importance of assessing a borrower's ability to repay the loan including when amortization begins and interest rates rise.
+These products warrant strong risk-management standards as well as appropriate capital and loan-loss reserves.
+Further, bankers should consider the impact of prepayment penalties for ARMs.
+Lenders should provide borrowers with enough information to clearly understand, before choosing a product or payment option, the terms of and risks associated with these loans, particularly the extent to which monthly payments may rise and that negative amortization may increase the amount owed above the amount originally borrowed.
+Lenders should recognize that certain nontraditional mortgage loans are untested in a stressed environment; for instance, nontraditional mortgage loans to investors that rely on collateral values could be particularly affected by a housing price decline.
+Investors have represented an unusually large share of home purchases in the last two years.
+Past loan performance indicated that investors are more likely to default on a loan when housing prices decline, than owner occupants.
+Ongoing Efforts to Update and Improve the Market Risk AmendmentLet me now describe the changes that are occurring in market risk capital.
+While only banks with large trading books hold capital for market risk, the issues that the proposed changes are designed to address can be considered by treasurers, asset/liability managers, and traders to determine whether their risk management practices are keeping pace with the changing nature of risks.
+As you are no doubt aware, about a decade ago the U.S. banking agencies developed regulatory capital requirements specifically for market risk.
+These requirements, set forth in the Market Risk Amendment (MRA) to the Basel Capital Accord, were an attempt to keep up with the financial innovation that was occurring in the industry.
+The Basel MRA is only applied to banks with sizable market risk exposures.
+The U.S. banking agencies adopted the internal models approach to capturing the market risk arising from traded exposures.
+The internal models approach, which is the only one offered in the United States, is based on the widely used value-at-risk (VaR) methodology with a uniform ten-day holding period and a 99 percent confidence interval.
+At the time the Market Risk Amendment was adopted, the soundness standard set forth in the internal models approach worked well for the traded positions of a large number of banks.
+However, even then, banks and supervisors recognized that certain risks, such as fat tails and model risks, were not well captured in VaR models.
+Supervisors were led to impose a multiplier of 3 on internally modeled estimates of general market risk and a multiplier of 4 on internally modeled estimates of specific market risk that do not adequately capture event and default risk.
+Since adoption of the Market Risk Amendment, banks' trading activities have become more sophisticated and have given rise to a wider range of risks that are not easily captured in a VaR model.
+For example, more products related to credit risk, such as credit default swaps and tranches of collateralized debt obligations, are now included in the trading book.
+These products can give rise to default risks that are not captured well in models specifying a ten-day holding period and a 99 percent confidence interval, particularly if the bank has concentrations across various trading portfolios, such as bonds, credit derivatives, and other structured credit products.
+In addition, structured and exotic traded products may give rise to liquidity, correlation, concentration, and skew risks, which are difficult to capture adequately in a VaR model.
+The inability of VaR calculations to adequately measure the risks of certain traded positions may give rise to arbitrage opportunities between the banking book and the trading book because of the lower capital charge that may be afforded trading positions under a VaR approach that is not optimally risk sensitive.
+When the Basel Committee published its revised capital framework in June 2004,1 the focus was on banks' credit and operational risks, not on their trading activities.
+However, in releasing the revised framework, the Basel Committee indicated that work should begin immediately on applying the revised framework to banks' exposures arising from trading activities.
+Thus was convened a working group that included representatives of both the Basel Committee and the International Organization of Securities Commissions (IOSCO), given the interest of the securities regulators in the same issues related to trading book risks.
+The Basel-IOSCO working group issued a consultative paper in April 2005 and subsequently received comments from banks, investment firms, industry associations, supervisory authorities, and other interested parties.
+The working group considered these comments in formulating revisions to the MRA, which were published in July 2005.2 The revisions attempt to enhance the risk sensitivity of the capital charges for positions assigned to the trading book by promoting improved market risk methodologies.
+The U.S. banking agencies are in the process of developing a notice of proposed rulemaking to implement the Basel-IOSCO market risk revisions in this country.
+We expect that the current market risk revisions, like the current U.S. rules implementing the MRA for U.S. banking organizations, will apply only to banking organizations meeting the current threshold criteria for application of the market risk rules--that is, to those organizations having aggregate trading assets and liabilities, as reported on the Call Report, of (1) 10 percent or more of total assets or (2) $1 billion or more.
+These revised market risk amendments would be applied by banking organizations meeting either criterion, whether or not the organization is adopting the credit and operational portions of the Basel II framework.
+We expect that a small number of banking organizations will remain under the Basel I rules (as amended) but will also compute a market risk charge.
+Banking organizations that do not meet one of the criteria would not be subject to a market risk capital charge, regardless of whether they apply the Basel I or Basel II rules for credit and operational risk.
+This expectation is consistent with our view--since the inception of the market risk rules--that imposing the burden of calculating a market risk capital charge is not appropriate when market risk exposure does not meet the threshold criteria.
+These Pillar 1 revisions in the area of market risk are supplemented and supported by revisions in the areas of supervisory review (Pillar 2) and market discipline (Pillar 3), just as are the revisions for credit risk and operational risk.
+The Pillar 2 changes seek to strengthen firms' assessments of their internal capital adequacy in the area of market risk, taking into account the output of their VaR models, valuation adjustments, and stress tests.
+Internal capital assessments must factor in: illiquidity; concentrated positions; nonlinear and deep out-of-the-money products; events and jumps-to-default; and significant shifts in correlations.
+The Pillar 3 changes increase the robustness of trading book disclosures; specifically, firms must demonstrate how they combine their risk measurement approaches to arrive at an overall internal capital assessment.
+We expect to issue this NPR sometime this summer.
+Innovations in Capital InstrumentsNaturally, in determining capital adequacy ratios, supervisors focus not just on defining risk positions--the denominator--but also on defining the components of capital--the numerator.
+Over the years there have been a number of innovations in capital instruments; one particularly innovative area has been the structuring of preferred stock and hybrid securities for inclusion in tier 1 capital.
+The Federal Reserve refined its framework for the components of tier 1 capital in a final rule issued in March 2005.
+The final rule allows bank holding companies to continue to include trust preferred securities in tier 1 capital, much of which they invest in the common stock of their depository institution subsidiaries.
+However, the final rule also imposes stricter quantitative limits and qualitative standards on trust preferred securities and on other restricted core capital elements included in tier 1 capital.
+The Federal Reserve's goal in framing the final rule was to allow innovation and adaptation in capital funding for bank holding companies--much of which are aimed at increased cost effectiveness--while ensuring consistency with the Federal Reserve's focus on the quality and strength of institutions' capital bases.
+To this end, the final rule states that common stock and noncumulative perpetual preferred stock should make up no less than three quarters of a banking organization's tier 1 capital.
+We believe that the continued strength of the capital base of U.S. bank holding companies is a critical component of the safety and soundness of the industry we supervise.
+The Federal Reserve considers many factors when it evaluates eligible capital for BHCs, especially for innovative capital instruments.
+Thus, our decision to allow BHCs to continue to include trust preferred stock in tier 1 capital came only with stricter quantitative standards that apply to a range of non-common equity capital elements.
+In our view, the continued inclusion of trust preferred securities in tier 1 capital is merited because our experience has shown that this instrument can provide financial support to banking organizations if their financial condition deteriorates.
+Also, from a competitive point of view, poolings of trust preferred stock have enabled smaller BHCs to enter the capital markets for tier 1 capital, which larger BHCs have long been able to access.
+A recent innovation that banking organizations have been considering is a modified trust preferred security that continues to receive tier 1 capital treatment but is given increased equity credit from the rating agencies.
+Although the Federal Reserve is working with institutions on possible modifications to conventional trust preferred securities that meet this objective, our focus is on ensuring that the instruments continue to provide capital strength and do not give rise to supervisory problems.
+Our experience with conventional trust preferred securities has been largely positive, and we hope to maintain that track record with any modified trust preferred securities we eventually approve.
+Thus, while we are cognizant that a large volume of trust preferred securities will begin to become callable at the end of this year, making institutions especially keen to find a replacement security with higher rating-agency equity credit, we intend to move judiciously in approving modifications.
+As always, we will do our best to respond to the business needs of the banking organizations we supervise in a timely manner and to accommodate them to the extent possible within the bounds of our prudential framework.
+Changes to the Small Bank Holding Company Policy StatementFinally, knowing that many of you represent smaller banks, I want to highlight a recent change in the Federal Reserve's Small Bank Holding Company Policy Statement.
+That statement was originally issued in 1980 to facilitate the transfer of ownership of small community-based banks in a safe and sound manner.
+It permits the formation and expansion of small bank holding companies (BHCs) that have debt levels higher than would be permitted for larger BHCs.
+The statement previously applied to those BHCs (qualifying small BHCs) that had pro forma consolidated assets of less than $150 million and met certain qualitative criteria.
+The Federal Reserve follows the general principle that bank holding companies should be a source of strength for their subsidiary banks.
+When a bank holding company incurs debt and relies on the earnings of its subsidiary banks to repay the debt, the probable effect on the financial condition of the holding company and its subsidiary bank or banks becomes a concern.
+The Federal Reserve believes that a high level of debt at the parent holding company level can impair the BHC's ability to provide financial assistance to its subsidiary bank or banks; in some cases, the servicing requirements on such debt may be a significant drain on the bank's resources.
+Nevertheless, the Federal Reserve recognizes the need for flexibility in the formation and expansion of small bank holding companies that have debt levels higher than would be permitted for larger bank holding companies.
+Notably, approval of the higher debt levels has been given on the condition that the small bank holding companies demonstrate the ability to service debt without straining the capital of their subsidiary banks and, further, that the companies restore their ability to serve as a source of strength for their subsidiary bank within a relatively short period.
+In September 2005, the Federal Reserve requested comment on proposed amendments to the rule.
+After reviewing the comments on the proposal, the Federal Reserve in February 2006 approved a final rule very similar to the proposal.
+The final rule raised the small BHC asset size threshold from $150 million to $500 million for determining whether a small BHC would be eligible for the Policy Statement and exempt from the Capital Guidelines.
+The Federal Reserve also adopted several modifications to the qualitative criteria under which a BHC not exceeding the asset size threshold nevertheless would be ineligible for application of the Policy Statement and would be subject to the Capital Guidelines.
+These modifications were intended to ensure that factors related to safety and soundness, not just to size, are also taken into account.
+The final rule also clarified that subordinated debt associated with issuances of trust preferred securities generally would be considered debt for most purposes under the Policy Statement, but provided a five-year transition period for subordinated debt issued before the date of the proposed rule.
+The new threshold and amended qualitative criteria are designed to reflect changes in the industry since the Policy Statement was first issued in 1980.
+With respect to the amended qualitative criteria, the final rule excludes from Policy Statement eligibility any small BHC that is engaged in significant nonbanking activities; is engaged in significant off-balance sheet activities, including securitizations or assets under management; or has a material amount of debt registered with the Securities and Exchange Commission or equity securities outstanding.
+Federal Reserve staff expect that relatively few small BHCs will be excluded under these criteria.
+Whereas the treatment of subordinated debt associated with trust preferred securities was not previously defined, the final rule clarifies that such subordinated debt is considered debt for most purposes under the Policy Statement.
+It provides for a five-year transition period, however, to give qualifying small BHCs sufficient time to conform their debt structures.
+The rule also allows small BHCs to refinance existing issuances of trust preferred securities without losing the exempt status of the related subordinated debt during the transition period, so long as the amount of the BHC's subordinated debt does not increase in the aggregate.
+Finally, the notice informs the public that the Federal Reserve expects to review the asset threshold at least once every five years to determine whether further adjustments might be appropriate.
+ConclusionThe Federal Reserve believes that ensuring strong capital levels and good risk management at U.S. banking organizations is critical to the health of our banking and financial system.
+Our regulatory and supervisory efforts support this broad objective.
+That is why we provide guidance around emerging risk issues, such as the current proposals for commercial real estate and nontraditional mortgages.

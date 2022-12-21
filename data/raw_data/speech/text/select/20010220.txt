@@ -1,0 +1,222 @@
+Coming out of World War II, U.S. productivity growth was at historically high levels and then, in the early 1970s, it dropped suddenly and mysteriously.
+Apart from cyclical movements, low productivity growth continued to the mid-1990s and was thought to be a more-or-less permanent fixture of the American economic landscape.
+But, just as suddenly, in 1995 productivity gains started to shoot back up to very robust heights.
+Of all the economic statistics that analysts pore over, productivity growth is surely the most important in the long run.
+Productivity alone determines the long-run path of income per capita, or living standards.
+All kinds of projections feed off this long-run growth path--budget surplus projections, tax revenue projections, and entitlement trust fund projections.
+Because productivity growth is an important component of earnings growth, stock market valuations depend on the outlook for productivity.
+In today's open economy, internationally mobile capital searches the world for high returns, making productivity growth a factor in international currency valuations.
+Because productivity growth is also an important component of unit labor costs, it plays a major role in controlling inflation, at least in the short and medium run.
+Were national leaders able to pick one economic statistic to be favorable, they would surely pick growth in productivity.
+In this paper, I review some evidence on this U.S. productivity growth spurt.
+First I discuss its likely causes.
+Then I consider how widespread these gains in productivity growth are around the world and speculate on reasons that productivity growth gains may be positive in some countries and not in others.
+Finally, I discuss the macroeconomic implications of productivity spurts, paying particular attention to their implications for monetary policy.
+Recent U.S.
+Productivity Increases The growth of labor productivity is defined as the rate of growth of output less the rate of growth of labor input.
+Because firms typically let their employment respond sluggishly to output changes, productivity growth rates have always been volatile, falling sharply when labor is hoarded and surging ahead as output recovers.
+These spikes are quite evident in figure 1, which presents a historical series for labor productivity growth in the U.S. nonfarm business sector from 1960 to the present.
+Smoothing through these spikes brings out the essential picture.
+For most of the postwar period up to the early 1970s, U.S. labor productivity rose at the rate of about 3 percent per year.
+Then growth rates suddenly dropped to the level of about 1.5 percent per year.
+Though this drop may seem small, in fact it is enormous.
+At the earlier 3 percent rate of increase, per capita income would double in twenty-three years.
+At the subsequent 1.5 percent rate of increase, per capita income would double in forty-six years.
+But in the mid-1990s, just when everybody was getting used to low productivity growth, the growth in labor productivity picked up again.
+The smooth trend in figure 1 shows that it is now back to the pre-1970 rate of increase.
+But the very recent numbers, arguably not the result of a cyclical expansion because they have appeared almost a decade after output began rising, are in fact among the highest in the whole forty-year period.
+At its rate of increase in the year 2000, per capita income would double in fourteen years.
+There could, obviously, be many determinants of rates of productivity increase.
+Given its definition, productivity growth could change with any factor that differentially affects output or labor growth, including the educational quality or demographic composition of the labor force.
+Productivity growth could also be influenced by atmospheric variables such as the overall business climate, stable prices, global competition, or the presence or absence of costly environmental and safety regulations.
+These factors are surely important and perhaps fundamental, but one can also look at productivity growth in a more technical way, using production functions.
+Explanations based on production functions try to distinguish between two components of productivity change.
+One is what is known as capital-deepening productivity change, or the amount of labor productivity attributable to higher levels of capital per worker.
+The other is what is known as multifactor productivity change (MFP), that occurring independently of supplies of capital and labor.
+As every economics graduate student learns early, production functions can be differentiated to identify the two terms, with the capital-deepening term represented by the growth of capital per worker times capital's share of national income and MFP growth represented by the production function growth residual.
+Since it is a residual, MFP growth could also reflect a great many other influences, including measurement biases.
+The U.S. economy has been in the midst of a significant investment boom, and a production function decomposition naturally emphasizes the role of capital deepening.
+As a share of nominal GDP, capital investment has been very large in recent years, close to its historical peak.
+And its rise has occurred with a fairly sharp drop in the average price of capital goods, so that the real investment share is clearly at a record high.
+An increasing portion of this capital investment is in the form of computers and other high-tech investment, which, because of its high gross rate of return, has a particularly large impact on overall productivity.
+If high-tech capital investment is defined as computers, software, and communications equipment, the real share of GDP devoted to this form of investment is now more than fifty times what it was in 1975.
+Using a narrower definition of just computers and software, the real share of GDP devoted to high-tech capital investment is now more than four hundred times what it was in 1975.
+The consequence is, however defined, an enormous recent buildup of the capital stock.
+And a production function analysis would tend to attribute much of that recent gain in overall labor productivity to capital deepening.
+Though capital-deepening productivity change may seem desirable, it is important to understand what it means in the long run.
+As a nation's share of income devoted to capital increases, its capital per worker rises, and there is capital-deepening productivity change.
+But as long as the nation does not indefinitely squeeze the share of output devoted to consumption, and what nation can, eventually capital's income share will stabilize at some higher level.
+Capital per worker will, too, and the capital-deepening term will then no longer contribute to increases in the rate of productivity change.
+Under most circumstances the nation will still be better off because the level of income per capita will be growing along a higher path, but rates of productivity change will no longer be increasing.
+Paul Krugman (2000) attributes some of Asia's recent economic difficulties to the fact that their earlier rates of productivity change were predominantly due to capital deepening and could not be sustained.
+Turning to the numbers for the United States, a comprehensive recent study has been performed by Board economists Stephen Oliner and Daniel Sichel (2000).
+They have broken capital into its various components, including information technology (hardware, software, and communications), and have estimated the separate contributions of each component.
+They find that, of the roughly 1 percentage point increase in labor productivity growth in the second half of the 1990s, capital-deepening from the information technology components together have accounted for about 0.5 percentage point of this increase.
+Oliner and Sichel's results run up to 1999--the recent even-more-rapid recent U.S. productivity gains are not included in their data.
+As for electronic commerce, Oliner and Sichel do a back-of-the-envelope calculation on the importance of network effects arising from the Internet and find its present contributions to productivity growth to be small.
+Most advantages of electronic commerce were not being realized even as recently as 1999--they remain for the future.
+Robert Litan and Alice Rivlin (2001) report results of interview studies suggesting that these future gains will be at least noticeable, if not substantial.
+Oliner and Sichel analyze the MFP residual and find that its growth, too, is influenced by the productivity advances in the production of semiconductors and computers.
+They estimate that this component of MFP growth alone accounts for another 0.25 percentage point of the productivity increase.
+Technology and investment together could then account for as much as three-fourths of the recent productivity increase.
+This is just one attempt at decomposition.
+Others lead to different results.
+Dale Jorgenson and Kevin Stiroh (2000) use a slightly broader concept of output and find the growth contribution from high-tech investment to be slightly smaller, both before and after 1995.
+Robert Gordon (2000) focuses on trend productivity growth, which in his model is smaller than actual productivity growth because of the sluggish response of labor demand to output growth.
+After this adjustment, Gordon finds much less of a change in trend productivity growth outside the computer sector itself.
+William Nordhaus (2000) uses the income side of the national income accounts and develops a concept called "well-measured output"--only those sectors for which output is relatively well-measured.
+Productivity change for this output concept has increased even more than for traditional concepts.
+The Council of Economic Advisers (2001) finds a substantial pickup in productivity, both inside and outside the computer industry.
+A number of disputes are implicit among these various estimates.
+There is the difference between actual productivity growth (Oliner and Sichel), trend productivity growth (Gordon), and well-measured productivity growth (Nordhaus).
+Given the difficulty in assigning productivity increases by industry, there is a dispute on how widely productivity implicit in the information revolution has spread across the economy.
+Gordon's results are on the narrow side; the Council, Nordhaus, and Litan and Rivlin either find or suggest much broader effects.
+There is also a significant dispute about measurement.
+Erik Brynjolfsson and Lorin Hitt (2000), and to some degree Nordhaus, make the argument that the productivity benefits of the information revolution are not captured in output statistics, leading to a downward bias in measured productivity.
+Others make essentially the opposite point on the input side, arguing that many high-tech workers put in much longer hours than they used to, and are paid for, implying an upward bias in measured productivity.
+As time goes on, many of these debates should presumably resolve themselves.
+At some point, it should be clearer how large the productivity shocks were, how much was cyclical and how much secular, how much was concentrated in particular industries, how much could reasonably be attributed to the boom in high-tech capital spending, how important electronic commerce will be, and how sustainable the growth spurt will be.
+International Experience Because the electronic revolution is at least in some sense a worldwide phenomenon, one should be able to understand recent trends in U.S. productivity better by looking at the degree to which this productivity growth spurt has been shared around the world.
+To a degree that is perhaps surprising to Americans, it has not been.
+International data are taken from a study by Christopher Gust and Jaime Marquez (2000) of the Board.
+The authors analyze data from the Organisation for Economic Co-operation and Development (OECD) for thirteen developed countries from 1980 to 1999.
+These data are not as complete as the Bureau of Labor Statistics (BLS) data used to analyze U.S. productivity change because they do not permit the detailed decomposition of the capital stock that Oliner and Sichel use for the United States.
+But Gust and Marquez do show that both sets of data give a similar-sized increase in productivity growth for the United States.
+As the basic numbers from Gust and Marquez in exhibit 3 show, overall U.S. labor productivity growth jumped from 1.5 percent in the 1981-95 period to 2.6 percent in the post-1995 period in the BLS data and from 1.2 percent to 2.3 percent in the OECD data.
+The increase in overall labor productivity growth between the periods is the same in both sets of data, and the increase in MFP growth is nearly the same.
+Using the internationally comparable OECD data to compare rates of productivity change across countries, we see that in the 1981-95 period the United States had the lowest rate of overall productivity change of all thirteen countries.
+The U.S. rate of 1.2 percent was slightly below that of Canada, Australia, and Sweden and far behind the rate of overall labor productivity improvement in all other countries.
+But in the post-1995 period, the U.S. sleeping giant awakened.
+In this recent period, the U.S. overall rate of labor productivity rose to third among the countries, behind only Ireland and Australia.
+In terms of growth rate changes, the United States, Australia, and Sweden are the only countries in which overall labor productivity growth increased, and the United States and Australia are the only countries in which it increased very much.
+In several countries--France, Italy, Japan, the United Kingdom, the Netherlands, and Spain--overall labor productivity growth slowed quite sharply.
+The decomposition given in exhibit 3 permits this comparison to be made by controlling for the level of investment and hence focusing directly on the more sustainable component of productivity change, MFP growth.
+The United States, Australia, Ireland, Sweden, and Canada are the only countries in which the change in MFP increased, and the United States and Australia are again the only countries in which this increase was significant.
+Again, in France, Italy, Japan, the U.K., the Netherlands, and Spain, the rate of increase of MFP fell noticeably.
+Since changes in the rate of labor productivity growth can be partly explained by capital deepening, the real question brought out by these comparisons is why MFP rates of change are actually falling in many European countries.
+Gust and Marquez rule out several explanations.
+By showing that productivity growth is gradually slowing in most European countries, over fairly long periods of time, they strongly suggest that there is not a cyclical explanation for the international differences.
+By showing that some countries using hedonic price indexes for high-tech capital have not had productivity increases, they suggest that different measurement conventions are not the answer.
+The relative unimportance of measurement conventions is attributable to the fact that most foreign countries are not large producers of information technology equipment, suggesting that adjustment for quality in prices of these goods is likely to have little effect on their GDP growth.
+Indeed, a separate study by Gavyn Davies, Ben Broadbent, and Tommaso Mancini-Griffoli (2000) finds that, for the Euro area, the use of the U.S. hedonic price indexes to recompute GDP has only a small quantitative effect on labor productivity growth.
+These authors find that for Ireland, which produces a large share of high-tech products, the use of the U.S. hedonic prices would, however, have had a significant effect.
+There are other indications that the information technology revolution could explain the relatively good U.S. productivity performance.
+A recent study by the Agamus Consulting (1999) firm places the United States first or second among these countries in both the climate for and the success of innovation.
+The United States scores well in the OECD's (2000) index of regulation.
+In the automobile industry, U.S. carmakers have relatively short time lags between innovation and the actual production of cars.
+More broadly, countries that are leading in the information revolution might also be expected to be those showing the most significant MFP increases.
+As Oliner and Sichel find, the direct production of high-tech equipment can raise overall MFP growth if producers of these goods themselves are experiencing large efficiency gains.
+Moreover, the use of information technology may also boost MFP growth on the demand side, as transactions costs are lowered or as businesses reorganize to take advantage of network effects arising from greater use of Internet-ready computers and electronic commerce.
+This explanation can be crudely tested by running some simple, one-variable, cross-section regressions with the OECD data from the thirteen developed countries.
+The dependent variable is the change in MFP rates of increase, post-1995 compared with pre-1995.
+One independent variable is the number of secure Internet servers per capita in the country.
+An alternative independent variable is the nation's nominal share of capital investment devoted to information technology.
+The logic is that the capital-deepening term of the production function would control for plain old capital investment.
+Changes in MFP could then be related either to the composition of capital, high-tech versus low-tech, or to some other variable measuring the technological revolution, such as Internet servers per capita or the high-tech investment share.
+A final independent variable, using similar logic, might be the nominal share of business GDP made up of information technology spending.
+The regressions appear in table 1.
+Each regression fits reasonably well for a cross-section regression, and the regressions tell a consistent story.
+Other things being equal, the number of Internet servers or the share of spending devoted to information technology has a strong positive influence on the change in MFP.
+In each case the relevant independent variable clearly passes the test for statistical significance.
+With due deference to the problems of international data comparison, in general and specifically regarding the hedonic pricing of high-tech investment, this international evidence then reinforces the domestic economy results of Oliner and Sichel.
+Overall investment seems to be important in raising productivity through the capital-deepening term.
+And information technology spending seems to be especially important--partly because it, too, is investment and partly because of its apparent role in raising MFP.
+Implications of Increases in Productivity Growth In the long run, the implications of increases in productivity growth rates are fairly obvious.
+Per capita living standards will grow at a higher rate, and all variables that depend on income will be influenced accordingly.
+Long-run budgets will move toward a greater surplus, as projected revenues grow relative to expenditures.
+The actuarial balance of social security trust funds will be improved, as projected payroll tax revenue based on wage income grows relative to retirement benefit costs.
+Forecast retirement costs will grow, too, because social security benefits are often wage-indexed until the time of retirement, but not as much as forecast trust fund revenues.
+Determining the implications of increases in productivity growth for inflation in the short- and medium-run is more complicated.
+Productivity gains are typically thought to reduce inflationary pressures by expanding aggregate supply relative to aggregate demand.
+But such need not be the case, if the productivity gains sufficiently expand equity values and spending on consumption and investment.
+Equity values are likely to rise in anticipation of later income gains, so the wealth-income ratio will rise.
+If the impact of wealth on spending is large enough, productivity increases can actually expand aggregate demand more than supply in the short run, though presumably not in the longer run once the rise in income causes the wealth-income ratio to readjust.
+Increases in productivity growth can also influence inflationary pressures on the cost side.
+Typically, wages are believed to lag productivity changes, so rises in productivity are reflected in near-term declines in unit labor costs, reducing inflationary pressures from the cost side.
+But in a competitive labor market, workers should eventually get paid for what they produce, so wages should eventually catch up and eliminate the short-term effect on unit labor costs.
+The way they catch up could depend on the pattern of productivity increases.
+There could be different types of productivity growth spurts.
+Labor productivity could follow an S-shape pattern, with a positive second derivative of productivity followed by a negative second derivative.
+This pattern would occur in a typical neoclassical growth model following a movement toward greater capital deepening.
+Or, productivity growth could jump to a new level, with no change in the second derivative of productivity in all periods other than the exact kink point.
+Though such a pattern is not consistent with any known growth model, it does more closely approximate the actual historical pattern in the United States, where productivity growth suddenly dropped to a lower level for more than two decades.
+In an S-shaped pattern, wages may initially lag productivity and then gradually catch up as productivity hits its phase of negative second derivatives.
+In this event, productivity gains will at first create a decline in inflationary pressures and then a rise--exactly the reverse of the aggregate demand-aggregate supply balance discussed above.
+In the kink pattern, wage growth may initially lag behind productivity change, but this decline in inflationary pressures would be followed by a movement back toward a neutral effect.
+Productivity gains may also have even more complicated influences.
+Both foreign and domestic investors may be tempted to invest in the new high productivity equipment.
+As stated above, this new investment may boost aggregate demand, hence increasing inflationary pressures.
+After a short interval, it will also boost the capital stock, generating further capital- deepening productivity change and a drop in inflationary pressures.
+To the extent that the capital inflows come from abroad, productivity gains are also likely to generate currency appreciation, putting downward pressure on import prices and overall prices.
+But the effect on capital equipment spending and foreign capital inflows should be temporary, and exchange rates, import prices, and domestic prices should all return to their previous paths.
+Finally, in most growth models, changes in long-run productivity growth will also raise real interest rates, limiting investment demand but also simultaneously raising domestic currency values.
+This effect, too, will improve the actuarial forecasts for social security trust funds that have at least some initial assets.
+Central Bank Responses How should a central bank respond to all of these factors?
+The balance between aggregate demand and supply is likely to be changing, cost pressures are likely to be changing, investment and the capital stock are likely to be changing, international exchange rates are likely to be changing, and real interest rates are likely to be changing.
+Many of these movements are likely to end or be reversed at some point.
+Analytically, one would clearly need a multi-equation model to work everything out.
+Although policymakers will generally have neither sufficient time nor sufficiently precise multi-equation models to analyze all these influences fully, I do think there is a workable policy strategy.
+My general answer to the policy quandary involves adapting a form of inflation targeting, a monetary policy strategy that has been successful and growing in popularity around the world.
+In forward-looking, flexible inflation targeting (FFIT), a central bank would try to steer the economy toward some target rate of core inflation.
+If inflation threatens to rise above the target, for whatever reason, the central bank would tighten policy to limit spending pressures that may lead to inflation.
+Though not as well publicized, most actual inflation-targeting regimes are also two-sided.
+This means that if recession threatens, actual inflation is likely to come in below the target level, inducing a central bank following FFIT to ease policy, limiting the recession and actually nudging inflation back up toward the specified inflation target.
+In this sense, a FFIT monetary strategy may be pragmatically indistinguishable from a monetary strategy that follows a Taylor rule or some other kind of automatic feedback rule.
+The harder question is operational.
+In actual practice, how does a central bank following FFIT know when to tighten and when to ease policy?
+In the U.S. context, such a central bank might use several proximate guides: The level of resource utilization and the balance between the growth of aggregate demand and aggregate supply seem clearly relevant to future inflation.
+The central bank should try to forecast these magnitudes.
+The central bank would have some estimate of the level and growth of aggregate supply, including any gains in productivity, and would compare this estimate with a forecast of the level and growth in aggregate demand, with the latter possibly generated by an econometric model.
+If the rise in the wealth-income ratio, investment demands, exchange rates, or real interest rates influence spending demands, they would be factored in here.
+Direct inflationary cost pressures also matter, and these should also be factored in.
+Here is where unit labor costs, or specifically the relationship between productivity growth and wage increases, would come into play.
+Here is also where the influence of commodity prices, energy prices, and exchange rates enter, though some of these factors would be temporary shocks and not indicators of true inflationary pressures.
+Because all forecasting is uncertain, it makes sense to get readings from other forecasters.
+At least in the United States, there are now a series of other forecasts that can be examined, from the Blue Chip indexes to longstanding surveys of the ways in which economists and average people are forecasting inflation.
+A standard drawback of reported forecasts is that the forecasters are not forced to stand behind their projections.
+In such cases, buttressing recorded forecasts with information about actual market trades makes sense.
+The most direct of these data is the spread between nominal bonds of a standard maturity, say ten years, and real or inflation-indexed bonds.
+This spread is sometimes affected by liquidity considerations, but in normal times it can be a good measure of the ten-year inflation foreseen by bond traders, a group that should be fairly sensitive to inflation.
+A FFIT regime might have these four, or more, components in its targeting exercise, tightening policy when most of the components suggest that inflation is accelerating and easing policy if inflation appears to be quiescent and recession threatens.
+A FFIT regime used in this way seems particularly well-adapted to episodes in which productivity changes, moving a number of variables in the inflation process in different directions, with different cycles.
+I make no claim that such a process is easy or mistake-proof, but I do claim that this type of a framework at least permits each of the variables to be factored in appropriately.
+However such factoring is done, a central bank should also take seriously the other F, for "forward-looking."
+Given lags in monetary policy, the central bank must move before the actual need for stimulus or restraint.
+Moreover, the indicators of upward or downward pressure should be leading indicators.
+For that reason, all the measures on the list above are either explicit forecasts or outcomes based on other forecasts.
+Conclusion The United States productivity growth spurt, realized to a much lesser extent around the world, can be attributed largely to a combination of an investment boom and a technological revolution.
+The investment boom generates productivity gains through capital-deepening, and the technological revolution seems to raise MFP growth.
+The two forces may also be complementary, in that the technological revolution could raise investment profitability while the investment boom could speed a restructuring of industry.
+The changes in productivity unleash all kinds of long- and short-run forces.
+In the long- run the effects are surely positive, leading to greater growth in per capita living standards and a lessening of the long-run entitlement spending problem.
+In the short-run, aggregate supply will rise, aggregate demand could rise, unit labor costs should fall, at least temporarily, and there could be further influences on investment, the capital stock, exchange rates, and real interest rates.
+Sorting through all of these influences is a daunting task indeed.
+But there is a policy strategy that nicely adapts to this welter of conflicting influences.
+Forward-looking, flexible inflation targeting can forecast future pressures in either an inflationary or recessionary direction, and it is at least a feasible way for the central bank to respond to this multiple-variable complexity.
+References Agamus Consult (1999), "Stars of Innovation: The Innovation Study by Agamus Consult," Munich, Germany.
+Brynjolfsson, Erik, and Lorin M. Hitt (2000), "Beyond Computation: Information Technology, Organizational Transformation and Business Performance," Journal of Economic Perspectives, Fall, pp.
+23-48.
+Council of Economic Advisers (2001).
+Economic Report of the President, chapter 1, pp.
+19-53.
+Davies, Gavyn, Ben Broadbent, and Tommaso Mancinni-Griffoli (2000), "The IT Revolution: New Data on the Global Impact," Goldman-Sachs Weekly, October 18.
+Gordon, Robert J.
+(2000), "Does the New Economy Measure Up to the Great Inventions of the Past?"
+Journal of Economic Perspectives, Fall, pp.
+49-75.
+Gust, Christopher, and Jaime Marquez (2000), "Productivity Developments Abroad," Federal Reserve Bulletin, vol.
+86, October, pp.
+665-81.
+Jorgenson, Dale W., and Kevin J. Stiroh (2000), "U.S. Economic Growth in the New Millennium," Brookings Papers on Economic Activity, 1, pp.
+125-211.
+Krugman, Paul (2000).
+The Return of Depression Economics.
+W.W. Norton.
+Litan, Robert E., and Alice M. Rivlin (2001), "Projecting the Economic Impact of the Internet," American Economic Review, May, forthcoming.
+Nordhaus, William D. (2000).
+Productivity Growth and the New Economy.
+Cowles Foundation Discussion Paper No.
+1284.
+Oliner, Stephen D., and Daniel E. Sichel (2000), "The Resurgence of Growth in the Late 1990s: Is Information Technology the Story?"
+Journal of Economic Perspectives, Fall, pp.
+3-22.

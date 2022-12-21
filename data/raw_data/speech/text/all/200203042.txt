@@ -1,0 +1,135 @@
+I wish to start by acknowledging the contributions of H. Parker Willis, a leader in teaching economics and political science and a major contributor to the establishment of the Federal Reserve.
+I suspect he would be pleased to know that his contributions are remembered and that they have served national and academic interests so well.
+In his teachings, Dr. Willis recognized the relationship between monetary and fiscal policy, the role of banking, and their combined effects on economic growth.
+Recent events have illustrated, once again, the cyclical nature of the U.S. and world economies and the direct effect that economic conditions can have on banks as intermediaries of credit.
+After nearly a decade of steady improvement, earnings from core bank operations and other measures of financial strength for the U.S. banking system have taken an inevitable turn.
+While concerns about these indicators of financial health continue to grow, the deterioration is not a source of alarm.
+Since the end of 1999, for example, the growth of industry assets has far outpaced the rise in earnings; nonperforming assets, though still relatively low, have expanded more than 70 percent; and the number and the assets of unsatisfactory or problem banks have increased, again still remaining relatively low.
+Fraud by bank employees has led to losses and even the closure of some banks recently.
+More broadly, after the failure of Enron, the stock market has reacted as we might expect to the uncertainty created by opaque balance sheets by punishing firms, both banks and nonbanks, whose risk profiles are less easily understood.
+To be sure, the U.S. banking system remains strong by virtually any measure and is well positioned to support future economic growth.
+By historic standards, current profitability figures are robust; and relative to the industry's equity, reserves, or asset size, nonperforming assets are still low.
+Banks survive and prosper by accepting risk, which is their crucial economic role and the reason for their existence.
+Nonetheless, risk must be well managed and at many institutions that task has become much more difficult and complex.
+Indeed, in my remarks today, I want to discuss the changing nature of risk management in banking and its implications for bankers and bank supervisors.
+My central message is that the core principles of risk management remain just that--core principles.
+The improved techniques that the new technologies provide can improve matters only if they remain rooted in these core principles.
+In this context, I am reminded of the old back-to-the-future theme in science fiction in which an individual travels back in time and, by his presence, nearly alters history to his or our disadvantage.
+In dealing with the complex, fast-paced, and highly competitive businesses of today, many institutions may face a similar risk.
+Institutions have the ability, as a result of available technology and financial innovation, to change their activities and risk profiles quickly, but they may not always employ the controls necessary to prevent unexpected and untoward results.
+Many firms have already eliminated lower- and middle- management positions in response to competitive pressures.
+Though such actions probably improved the cost-efficiency ratios of banks and helped them meet earnings expectations, they also could, if not done carefully, increase the likelihood that new weaknesses will appear.
+That is to say, institutions must take a sufficiently long-term perspective in their decisionmaking and not pursue purely short-term remedies to high operating costs.
+Banking is a highly leveraged and, in many respects, low-margin business.
+Losses from a single bad loan or a material breakdown in controls can eliminate the gain on many other transactions.
+The continued ability to identify and manage risks and to maintain the proper internal controls is critical in banking organizations even as they seek to increase profits and profitability.
+Indeed, the acceptance and the application of the current innovations in risk-management techniques are going to require expense and some dramatic changes in the way most large banking organizations do business.
+Many banks, I am afraid, are falling below the curve, perhaps on the basis of short-run cost-benefit analysis.
+In my view, failure to make these outlays and changes now will put at risk these banks' long-run profitability as financial transactions grow increasingly complex.
+The thrust of Basel II and, independently, our supervisory approach will disadvantage entities that do not prepare themselves by adopting these innovative techniques to handle the ever more complex financial transactions.
+New technologies and techniques must be adopted if financial institutions are to avoid repeating problems and if the banking system is to be as successful in accepting risk in the future as it has been in the past.
+Important Experiences Over the past thirty years, the banking industry has faced many challenges.
+In the 1970s, large banks here and abroad sharply increased their exposures to the emerging economies of Latin America and other regions, as they recycled the deposits of oil-rich nations.
+Although profit opportunities for the banks looked attractive for a while, the picture had clearly changed by the 1980s, and most lenders incurred sizable losses on their foreign loans as they reduced their exposures.
+The industry's problems during the 1980s were more domestic in nature.
+For many community banks, weak agricultural markets in the last half of the decade created difficulties throughout the Midwest and contributed to the failure of hundreds of small community banks.
+By the end of the decade, excessive exposure to overbuilt commercial real estate markets had undermined the financial strength of a number of large money-center and regional banks.
+Those problems forced several of these institutions to fail or otherwise to lose their independence and contributed to a wave of industry consolidation and national reforms in our domestic banking laws and regulations.
+In contrast, most of the 1990s can be viewed calmly and with a certain satisfaction; indeed, the industry can be pleased about many things.
+After the first few years of the past decade, the number and the cost of bank failures dropped sharply, the banking system posted an impressive performance virtually every year, and many investors and former owners of banks liquidated their holdings at nice profits as the industry consolidated.
+Recently, a few banks have experienced problems of a less widespread nature than those of the 1970s and 1980s.
+Last month, for example, a large foreign bank discovered trading losses in its U.S. subsidiary bank that had apparently increased substantially and gone undetected for some time.
+Also last month, the FDIC seized a $70 million bank in Ohio after examiners uncovered a $40 million embezzlement.
+Several years earlier, a bank in West Virginia was closed after examiners alleged bank managers hid extensive losses related to complex securitized transactions.
+These experiences remind us that even a decade of solid performance does not allow anyone to become complacent.
+Virtually all these major problems, whether they involved fraud or honest misjudgment of risk, can--almost by definition--be traced to weaknesses in an organization's risk-management and corporate-governance.
+Judgments are always easier in hindsight, but failure to apply fundamental principles of management is often the root of material business problems.
+Managing and Controlling Risk Although a few failures are the product of fraud, the key risk in banking remains credit risk--the risk that a borrower will default.
+If too many customers default, so does the bank itself.
+Historically, the best tools to manage credit risk included a strong reliance on understanding the business prospects of the borrower and the sources of repayment.
+Additionally, to manage risk, banks have traditionally applied several limits, including limits on exposures to one counterparty and to entire industry sectors.
+Recently, as I noted earlier, banks are also using more-sophisticated credit-risk-management tools.
+However, credit risk is only one of the many risks that banks must manage.
+Liquidity risk, traditionally defined as the risk that a bank cannot meet payment obligations in a timely and cost-effective manner, is another.
+Determining what is adequate liquidity for banking organizations has always been a rather subjective and difficult task, because banks rarely have liquidity problems as long as they are viewed as sound.
+Although the competition for retail deposits has emerged in the past several years, banks can still relatively easily issue additional insured deposits, given the federal government's guarantee.
+Most liquidity problems arise when market confidence is lost and the bank cannot attract sufficient levels of uninsured funds.
+Commercial banks, in particular, may have little room to slip, given their high leverage and slim profit margins.
+A drop in market confidence can trigger a series of cascading events: a drop in the bank's credit rating, higher funding costs, reduced profitability, less overall competitiveness and access to public markets, and so forth.
+All of that, in turn, increases the institution's liquidity risk.
+Managing liquidity risk requires banks to address market risk, as well, by ensuring that the maturity of their assets and liabilities are reasonably balanced and that they are not overly exposed to changing interest rates, exchange rates, and equity, commodity, and bond prices.
+Given the evolution of global financial markets, activities commonly associated with market risk, such as trading and investment banking, have become more important to many of our largest financial institutions.
+This evolution, in turn, and the related financial innovation and widespread use of complex derivative and securitized investment products, have required virtually all banks to know more about the management of market risk.
+Put somewhat differently, in the past few years, banks have initiated transactions with higher risk and used new financial engineering techniques to lay off or hedge that risk.
+These beneficial and stabilizing risk-sharing techniques have the prerequisite of very strong management and control procedures.
+Flaws can quickly result in significant unanticipated losses.
+Operating risk, legal risk, and reputational risk round out a conventional list of risks for banks.
+Operating risk, in particular, has attracted more attention in recent years, partly because improvements in technology and data storage permit institutions to retain and analyze more data and also because the increased volume and complexity of bank transactions have, arguably, increased this risk for many banks.
+Roughly defined, operating risk refers to the risk arising from inadequate information systems, operational problems, breaches in internal controls, fraud, or unforeseen catastrophes that can result in unexpected losses.
+The term may also embrace legal risk, because many legal claims arise from operational failures.
+The need to manage and control operating risk is particularly great at institutions whose activities involve substantial interbank payments, securities settlements, asset management, or other transactions that are high volume and entail large dollar amounts.
+These conditions not only expose those particular institutions to substantial risk but also have the potential to disrupt financial markets worldwide.
+Events of September 11 illustrate that point.
+Risk-Focused Supervision and Bank Risk Management Culture In its supervisory efforts, the Federal Reserve has for much of the past decade emphasized a risk-focused approach, particularly in the case of large institutions.
+That approach requires examiners to understand an institution's risk profile and to devote resources to areas presenting the greatest risk.
+It allows examiners greater flexibility in their oversight activities, focuses attention on an institution's internal processes, and contrasts with the more traditional approach that was based on reviewing and evaluating individual transactions.
+The sheer volume of bank transactions today and the speed with which individual exposures can change have required us to take that approach.
+We need to be confident that an institution's internal systems, procedures, and controls are sound and that they will remain effective long after our review.
+Of course, evaluating procedures and controls requires some transactions testing.
+Risk-focused supervision and the nature of banking today require successful organizations to maintain sound corporate governance and strong systems of controls.
+Banks must manage customer and counterparty relationships with an appropriate sensitivity for risk.
+Lending officers and risk managers must understand the changes in their customers' business plans that might have implications for creditworthiness.
+They must not be blinded by the reputations of their counterparties but rather use all the fragmented data, both proprietary and market-based, to shed light on their customers' prospects.
+Finally, exposure limits should be sufficiently robust to consider both capital at risk and cash out the door.
+Still other practices, such as diversifying risks and not assuming that only the best conditions will continue indefinitely, seem to be common sense.
+But even they, too, are occasionally overlooked or ignored.
+Risk-based supervision requires all of us to recognize the basic nature of human beings and some of the forces that motivate us all: fear, greed, ambition, and the like.
+All of this, in turn, speaks to the importance of implementing the management principles we learned in college or as management trainees: the importance of segregating certain duties; limiting an individual's span of control; establishing written policies and procedures; and providing accurate and timely information to an organization's senior management and directors and to its creditors and shareholders, as well.
+The fact that managers can delegate authority--but not responsibility--is another.
+Neither bank supervisors nor internal or external auditors can detect or deter all weak practices, particularly when core management principles are not applied.
+Fraudulent activities are particularly difficult to uncover because they often involve collusion and individuals with authority within the organization.
+It is crucial, then, that institutions maintain a culture that values integrity and creates adequate controls.
+That effort must begin at the top.
+Bank Capital Standards In an effort to provide large internationally active banks with greater incentives to measure and manage risk well, bank supervisors around the world are developing more-sophisticated and more-risk-sensitive regulatory capital standards, techniques and standards.
+These grew out of what best-practice banks have talked about doing and some have begun to apply.
+If this multi-year effort is successful (a goal the Federal Reserve Board hopes for and is trying hard to achieve), it would replace a decade-old capital standard with one that is better able to distinguish among banks based on the economic risks associated with their activities.
+In addition to other benefits, this should provide more information for both supervisors and market participants to use in evaluating the condition of the largest and most complex banking organizations.
+The standard under development will in large part be based on the internal credit ratings that banks assign to their exposures and on other internal measures of risk.
+It requires institutions to evaluate a borrower's probability of default, the bank's loss given a customer's default, and the bank's likely exposure to the borrower at the time the default occurs.
+Relevant factors such as the collateral for, and maturity of, the credit and any undrawn loan commitments are to be considered.
+Leading banking organizations throughout the world are making some progress in measuring credit and other risks, and consulting firms and other private-sector businesses are providing helpful analysis, insights, and techniques.
+I do not want to downplay the contributions of bank risk managers to the development of these newer concepts and techniques.
+But the fact is that much of this gain could be attributed, I believe, to the willingness of regulators to revisit capital standards and also to the increased attention they have given to risk measurement during their on-site supervisory reviews.
+Even further progress will be made as industry analysts, investors, and counterparties ask informed questions about an institution's risk profile and refuse to settle for responses that such questions are inappropriate or that answers are too difficult to provide.
+Such replies should encourage analysts to dig deeper, as they should for bank supervisors, too.
+Only by probing for further answers when disclosures are unclear can we expect more meaningful and complete information.
+Unfortunately, measuring credit risk is not easy, nor will applying the new techniques be cheap, especially for those institutions that need it the most--the large internationally active banks with their complex structures and operations.
+If it were easy, the methods would be clear and well accepted by now.
+If measuring credit risk with these new techniques were cheap, more banks would be applying them.
+It is, as I said, neither easy nor cheap.
+These facts are complicating the international process for developing more-risk-sensitive capital standards and reaching an agreement that addresses relevant industry concerns.
+They are also making the process more time-consuming.
+In some areas, the regulators are finding themselves developing solutions and filling holes for which the industry itself has no widely accepted practice.
+Measuring risk in commercial real estate lending, bank equity investing, and even the effect of a loan's maturity on its underlying risk are some of the issues still actively under debate among supervisors and bank managers.
+Banking practices and the role of banks generally in the credit-intermediation process also differ among countries and continents, given the different borrowing practices of consumers, the various stages of development of capital markets throughout the world, and the very different legal codes and regulatory philosophies.
+In the absence of established solutions within the industry across the major industrial economies, regulators are forced to make proposals based largely on concepts and partial applications rather than on a practice common to all industrial economies.
+Any regulatory capital standard must, of course, require banks to hold an amount of capital sufficient to get them through, not the worst imaginable, but nevertheless rough times.
+Competition within the industry and among banking systems of different countries often presses for less.
+Such pressures must be resisted, as supervisors throughout the world work together to develop a more accurate standard that is sufficiently rigorous and that accomplishes our common goals.
+We want a capital structure that is risk sensitive; until we have more experience with the new approach, however, prudence argues against a wholesale reduction in aggregate capital levels.
+Some institutions' capital requirements may fall as the requirements for other institutions rise, in both cases because of their portfolio risks.
+An important objective is to spur, not discourage, more analysis and understanding of banking risks, including those areas that have historically not been subject to much quantification, such as operational risk.
+Requiring banks to quantify their risk assessments should push in that direction.
+The need for more progress within the industry on that front seems clear.
+Urging better and more complete public disclosure of risk seems equally beneficial to the risk measurement, credit allocation, and investment processes.
+All of these efforts should proceed.
+For better or worse, there will be a lag before new rules can be developed, agreed upon, and implemented through our various rulemaking processes.
+The industry will also need time to develop the information and risk-measurement systems that would be required.
+In the meantime, the regulatory and banking communities will continue to learn from developments in the practice of measuring risk, and supervisory expectations will evolve.
+Much work remains in developing a new standard that is sufficiently acceptable to the Federal Reserve and to other parties.
+The effort presents an opportunity, however, to move industry and regulatory practices further ahead.
+We are eager to work with other regulators to achieve that purpose.
+Conclusion In closing, I emphasize, again, the importance of teaching, learning and applying the fundamental principles of economics and sound management practices, as you are doing here at Washington and Lee.
+Many of our financial institutions today have become extremely large and complex, in both their operations and their management processes.
+Fundamental principles still apply, however, and we cannot afford to overlook them.
+At the same time, new technologies and concepts offer an opportunity to add to these principles a set of techniques that could well change the way banks manage risk.

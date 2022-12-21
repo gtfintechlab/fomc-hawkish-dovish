@@ -1,6 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"market participants have already established several ccps to provide clearing services for some otc interest rate, energy, and credit derivative contracts.",LABEL_2,0.8075485229492188
-1,"major dealers have committed to making improvements in back-office processes such as increased electronic processing of trades and speedier confirmation of trades for equity, interest rate, commodity, foreign exchange, and credit products.",LABEL_2,0.679071307182312
-2,"discussions of market transparency generally recognize the multiple audiences that seek information about a market--market participants, the public, and authorities--and the multiple dimensions of transparency itself--prices, volumes, and positions.",LABEL_2,0.998897910118103
-3,enhancing price transparency to the broader public through post-trade reporting of transaction details is also an important goal.,LABEL_2,0.548342227935791
-4,"the board believes that policymakers should pursue the goal of prompt dissemination of prices and other trade information for standardized contracts, regardless of the trading venue.",LABEL_2,0.6441528797149658

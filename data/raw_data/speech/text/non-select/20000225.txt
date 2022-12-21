@@ -1,0 +1,184 @@
+These conferences sponsored by the Institute on Law and Financial Services bring together a diverse group of individuals with interests in banking and financial markets, facilitating discussion of issues that cut across disciplines.
+This year's program, which explores topics associated with risk management for derivatives, is no exception.
+The events in markets during the last few years have given market participants and policymakers ample incentive to reevaluate risk management procedures related to derivatives.
+The collapse of Long-Term Capital Management prompted studies by the President's Working Group on Financial Markets, the banking and securities supervisors, and private market participants.
+With its study of LTCM behind it, the President's Working Group released a long-awaited report that evaluates the regulatory framework for over-the-counter derivatives.
+A major focus of these efforts has been the challenge of managing counterparty credit risk--that is, the risk that a counterparty will not settle an obligation for full value, either when the obligation is due or at any time thereafter.
+The policies and procedures within individual firms and the techniques by which individual firms measure and manage counterparty risk, are prominent themes in both the report by the President's Working Group on hedge funds and the guidance from bank supervisors that followed LTCM.
+However, less focus has been placed on the ways in which collective efforts to strengthen market infrastructure could reduce risk.
+This is a central theme of the President's Working Group report on OTC derivatives.
+Its recommendations would enable market participants, working together, to develop new trading and clearing structures.
+The private-sector group known as the Counterparty Risk Management Policy Group (CRMPG) also calls for important cooperative efforts related to collateral programs, as does the International Swaps and Derivatives Association (ISDA).
+My focus this afternoon will be on the importance of collective efforts to strengthen market infrastructure as part of the overall approach to the risk management of derivative transactions.
+At first, these two strands of inquiry may appear to have little in common.
+On reflection, however, we see that both attempt to broaden the range of tools that market participants use to manage the risks arising from OTC derivative activity.
+One set of studies and recommendations takes the perspective of individual firms and offers steps that firms can implement themselves to enhance risk management.
+The Working Group's OTC study highlights ways in which collective efforts could enhance risk management.
+1.
+Collective Action to Strengthen Market Infrastructure Today's OTC infrastructure remains decentralized; trades are executed and settled bilaterally.
+A review of that infrastructure reveals weaknesses or limitations in existing practices.
+Some of these weaknesses can be, and are being, addressed by individual firms.
+Other weaknesses require cooperation and collective action by firms.
+For example, firms could reduce risk and increase efficiency as they improve their individual back office procedures.
+Risk could also be reduced through centralized mechanisms to execute and settle trades.
+Regulatory, legal, and operational barriers currently prevent some of these mechanisms from being used.
+Many of the recommendations in the Working Group's report on OTC derivatives would remove unnecessary legal and regulatory barriers to such innovations.
+A challenge that policymakers always face in such times is to let markets evolve naturally and to refrain from attempting to dictate changes.
+The recommendations in the Working Group's report reflect this evolutionary philosophy.
+My goal today is to review areas in which improvements are possible and to highlight the role that public policymakers can play.
+2.
+Trading Status quo.
+The status quo for the trading of OTC derivatives is a system of telephones and voice brokers.
+It is a bit incongruous that the financial instruments employing the most sophisticated asset-pricing technology are traded, by and large, by means of the lowest technology.
+Most OTC derivative transactions are executed by telephone between the traders acting for the two counterparties.
+Conversations are almost invariably recorded, and these recordings are used as evidence of the existence and terms of a trade if disputes arise.
+Traders are responsible for ensuring that prospective deals fall within credit lines for the counterparty and within overall trading limits.
+Firms have widely varying means for ensuring compliance with credit limits.
+Some firms have on-line systems through which traders can check the availability of credit lines.
+In other firms, the process is manual, and traders apply to a relationship officer before executing a trade.
+Voice brokers are used in some transactions, most frequently for common and relatively standardized transactions.
+Brokers frequently are used for single-currency interest rate swaps and forward rate agreements.
+As in the spot foreign exchange markets, brokers are used to locate counterparties for these trades.
+They do not act as principal.
+Once counterparties who are willing to transact at the quoted price have been identified, brokers reveal their names so that they can determine if each other's credit quality is acceptable and if the exposure can be accommodated within credit limits.
+As you see, automation of trading is limited in the OTC derivatives market.
+Trading systems for foreign exchange.
+Among financial products, foreign exchange probably has recorded the most dramatic shifts in trading mechanisms in the last few years.
+The volume of foreign exchange traded through electronic brokering systems has grown rapidly and now accounts for some three-quarters of the trading in major markets.
+Besides these systems in the interdealer market, foreign exchange dealers also have developed electronic trading facilities for customers.
+Most bank dealers in foreign exchange have web sites that allow their customers to trade electronically.
+Electronic trading between customers does not seem to be happening, although systems reportedly are under development.
+Despite the enthusiasm with which electronic enhancements to trading have been embraced in the spot foreign exchange market, vendors have not successfully extended their services to derivative products involving foreign exchange.
+A service for the trading of forward foreign exchange has attracted meager volumes, as has a service for the trading of forward rate agreements.
+The latter service has been hampered by its inability to offer its products in the United States.
+If the recommendations of the President's Working Group were enacted, this trading system would be excluded from the Commodity Exchange Act (CEA), and the legal status of products offered through the service would be clear, likely enhancing its attractiveness.
+Trading systems for swaps.
+Development of electronic trading systems for swaps also is likely being hampered by the potential application of the CEA.
+The CFTC has raised questions about the applicability of the CEA to a system that electronically matches swap trades between dealers.
+This system automates the functions that voice brokers currently provide in the interdealer market.
+Participants in the system electronically indicate their desire to enter into specific transactions.
+Other dealers can accept a transaction, or they can send an electronic message suggesting possible changes in terms.
+Participants can execute trades only with other dealers for whom they have acceptable credit limits.
+The credit limits of all dealers vis-à-vis each other are loaded into the system before trading.
+The managers of this system believe that regulatory uncertainty about the application of the CEA has slowed the growth of their business, too.
+Potential risk-management benefits.
+What are the implications of these developments (or potential developments) for risk management?
+The most immediately apparent benefits spring from the changes that electronics bring to information flows.
+Currently, deals are struck over telephones, perhaps with the assistance of voice brokers.
+The data from those trades must be entered into the firms' information systems.
+For some firms, data may even be keyed more than once.
+Electronic systems allow the quick, accurate capture of data.
+The data can then be used to update risk management information systems rapidly.
+Other benefits may be realized in firms' ability to manage their credit limits.
+A feature of many electronic systems is credit limits that are programmed into the system.
+This feature narrows the ability of rogue traders to expose firms without the knowledge of risk managers.
+Just as electronic systems can generate data useful in internal risk management, they can also generate data about the market for financial instruments.
+The rapid growth and widespread acceptance of electronic brokering reportedly has made the pricing process more transparent in the foreign exchange market.
+Dealers no longer have to do a transaction to discover where the market is trading.
+Similar improvements in price transparency could be expected in other products.
+End-users in these products may also reap benefits if competition among dealers increases and bid-offer spreads narrow.
+3.
+Settlement Status quo.
+Currently, settling derivatives transactions requires lots of paper and manual labor.
+Counterparties must confirm the details of deals with each other.
+The confirmation lists the economic features of the transaction as well as many legal terms.
+ISDA has developed templates for confirmations that market participants use for many products, but tailor-made confirmations may be necessary for certain products or certain counterparties.
+In some instances, confirmations are generated electronically, but for a range of products, the process is manual.
+Even electronically generated confirmations often must be manually verified by counterparties.
+Many confirmations are faxed between counterparties.
+S.W.I.F.T., an interbank messaging system, is used to confirm foreign currency options, forward rate agreements, and cross-currency swaps, but its usefulness is limited because both counterparties must employ the system.
+Electronics thus are not the rule in confirmation processing.
+Not surprisingly, the result has been significant backlogs.
+Active dealers report hundreds of unconfirmed trades.
+A small but significant share may be outstanding ninety days or more.
+Another feature of settlements in OTC derivatives in recent years has been the development of collateral programs.
+U.S. dealers, in particular, have rapidly expanded their use of collateral to mitigate counterparty credit risks.
+In these programs, counterparties typically agree that, if exposures change over time and one party comes to represent a credit risk to the other, the party posing the credit risk will post collateral to cover some (or all) of the exposure.
+These programs offer market participants a powerful tool for helping control credit risk, but they also embody substantial documentation and operational challenges.
+Alternative procedures could lead to risk reduction in many areas of the settlement of OTC derivatives.
+Collateral programs themselves could be strengthened to provide even greater benefits.
+Need to address backlogs.
+Most dealers acknowledge that the failure to confirm trades heightens the risk that the transaction will be unenforceable.
+Because unconfirmed trades create the potential that errors in trade records and management information systems will go undetected, they also create the possibility that both market and credit risk will be measured incorrectly.
+Quantitative measures of market risk and credit risk are only as good as the transaction data on which they are based.
+Most firms active in the markets recognize the need to address the backlogs in confirmations.
+The CRMPG report, for example, directed several recommendations toward firms' need to improve market practices in this area, and it set a target of confirming trades within five days of the trade date.
+The problem of backlogs can be attacked from two directions.
+First, individual firms can strengthen their policies with regard to confirmations.
+They could monitor backlogs more carefully and devote resources to reducing those backlogs.
+They could enhance internal systems for capturing trade data and generating confirmations.
+Management can place a priority on reducing the backlog and assign clear responsibility for such reduction.
+Second, backlogs can be reduced by standardizing and electronically matching confirmations or by developing electronic trading systems that create a match at the time of the trade.
+These latter methods for reducing backlogs clearly must be pursued collectively.
+A system for electronically matching confirmations will be helpful only if substantial portions of a firm's counterparties use the same system.
+Similarly, electronic trading systems require a critical mass of participants.
+Need to strengthen collateral management practices.
+The volatile market conditions that surrounded the LTCM episode provided a test of many firms' risk management systems and particularly their collateral programs.
+During the episode, collateral successfully mitigated credit risk, as designed.
+However, events also highlighted weaknesses in current policies and programs.
+These weaknesses have been examined in some depth in studies both by banking supervisors and by ISDA.
+It is important to address them because improperly managed collateral programs may give firms a false sense of security.
+Reductions in credit risk may not be as great as perceived.
+The studies point to ways in which individual firms can make collateral programs more effective.
+First and foremost, the studies emphasize that collateral is a complement to credit analysis; it is not a substitute for credit analysis.
+Supervisors observed that some firms accepted counterparties that were unwilling to provide information about their risk profile as long as they were willing to post collateral.
+The fallacy of that approach was vividly demonstrated.
+Positions may rapidly change in value, creating uncollateralized credit exposures to counterparties of unknown creditworthiness.
+A main point of these studies was the need for counterparties both to recognize the potential for unsecured exposures to arise in the future and to measure such exposures more carefully.
+A second theme in the studies was the need for counterparties to recognize that, although collateral programs mitigate credit risk, they also introduce operational, liquidity, and legal risks.
+To realize the benefits of the collateral program, back office systems must be very robust.
+That is, counterparties must be able to value portfolios, track collateral posted, call for any deficiencies, and verify the timely receipt of collateral.
+Various studies have noted that firms relying on collateral programs must establish rigorous controls and devote sufficient resources to them.
+Additional liquidity and legal risks also arise with collateral programs.
+Counterparties entering into collateral agreements must ensure that they themselves can deliver collateral in a timely fashion, and the extensive legal documents related to the program must be enforceable in relevant jurisdictions.
+Clearing.
+A device used to mitigate credit risk among groups of participants in many financial markets is a clearinghouse.
+A clearinghouse typically substitutes itself as central counterparty to all transactions that its members agree to submit for clearing.
+The creditworthiness of the clearinghouse is thus substituted for that of its members.
+The clearinghouse assumes the responsibility for managing credit risk through financial safeguards such as membership standards, capital requirements, and collateral systems.
+The clearing of OTC derivatives is quite limited.
+Some clearing of OTC products has been conducted in Sweden for several years.
+Last year, the London Clearing House (LCH) began offering such services more broadly, but volumes to date have been limited.
+In the United States, the clearing of OTC derivatives has been hampered by legal uncertainty associated with the possible application of the Commodity Exchange Act.
+If the recommendations in the report of the President's Working Group are implemented, this uncertainty will be resolved.
+Clearinghouses for OTC derivatives could be created under various regulatory regimes.
+The only restriction would be that the clearinghouse be supervised.
+That supervision could be provided by the CFTC, the Securities and Exchange Commission, the Comptroller of the Currency, or the Federal Reserve.
+Clearing OTC derivatives offers several potential benefits.
+A clearinghouse can substantially mitigate counterparty credit risk through multilateral netting of obligations and implementation of sound risk controls.
+Legal risks tend to be reduced with clearing because the default procedures of clearinghouses are supported by specific provisions of national law.
+Clearinghouses also usually impose stringent operational standards on members, and they likely would provide added impetus to efforts to develop automated systems for confirming trades.
+But clearing has limitations, too.
+Clearinghouses tend to concentrate risks and risk management.
+The key issue is how effectively a clearinghouse manages the risks it assumes.
+The record on risk management provided by clearinghouses in the United States is quite good.
+The same safeguards could be applied in the OTC context, particularly for relatively simple OTC products.
+But certain hurdles that arise because of the nature of OTC markets would have to be overcome.
+Contracts in the clearing process would have to be valued by models rather than by prices generated on an exchange floor.
+More important, in the event of a member default, OTC products likely would take longer to close out than exchange-traded products.
+This hurdle could be overcome, however, by the imposition of higher margin requirements on members or by the clearinghouse's maintaining larger supplemental financial resources.
+Clearing also may have the perverse effect of increasing risk on counterparties' portfolios of noncleared contracts.
+Clearinghouses for OTC contracts typically propose to clear the relatively simple OTC instruments.
+The remaining contracts will be settled bilaterally between the two counterparties, as they are today.
+The bilateral exposures on the noncleared contracts might increase to some degree if the contracts that were removed for clearing had been offsetting some of that exposure.
+The magnitude of this effect will vary from counterparty to counterparty because it is portfolio specific.
+Individual counterparties, therefore, must carefully assess the potential benefits of clearing.
+4.
+Conclusion: The Role of Public Policy The role of public policy is to encourage sound risk management.
+In this regard, policymakers are encouraging firms to enhance their risk-management systems, including appropriate management oversight, adequate risk-management policies and procedures, effective risk-measurement and monitoring systems, comprehensive internal controls and independent external audit.
+Policymakers simply cannot dictate the details of risk management based upon assumed market developments.
+Markets currently are in tremendous flux, and policymakers cannot foresee the needs in future years.
+Thus, the soundest course is to create a clear legal and regulatory environment within which market participants can develop risk management tools as needed.
+In some instances, rather than mandating certain steps, policymakers might provide proper incentives for risk-reducing steps through capital requirements or disclosure regulations.
+The recommendations in the Working Group's report on OTC derivatives, in particular, aim to clarify the legal status of electronic communication, trading, and clearing systems.
+These recommendations, if implemented, offer a variety of enhanced risk management tools to market participants.
+Information flows could be improved, backlogs in the settlement process might be reduced, and the benefits of multilateral netting might be realized.
+However, it remains for market participants to develop the systems that will best serve markets within the given legal framework.
+I hope that market participants pursue these opportunities.
+The risks of trading and settling OTC derivatives can and should be reduced.
+Obviously, things that firms can pursue individually are easier to tackle than those requiring collective action.
+But the potential benefits of new communication, trading, and clearing systems should be evaluated carefully.
+Participants in OTC markets have worked together in the past developing standard master agreements, for example, or obtaining legal opinions on netting.
+Those experiences should be useful as these new opportunities for reducing risks are addressed.
+The challenge for policymakers as these new opportunities are evaluated may well be doing nothing.
+Policymakers no doubt will be tempted to mandate cooperation on the part of market participants in an effort to hasten developments that they believe may reduce risk.

@@ -1,0 +1,66 @@
+Like every other period of financial turbulence, this one has been marked by considerable uncertainty.
+Central banks, other authorities, and private-market participants must make decisions based on analyses made with incomplete information and understanding.
+The repricing of assets is centered on relatively new instruments with limited histories--especially under conditions of stress; many of them are complex and have reacted to changing circumstances in unanticipated ways; and those newer instruments have been held by a variety of investors and intermediaries and traded in increasingly integrated global markets, thereby complicating the difficulty of seeing where risk is coming to rest.
+Operating under this degree of uncertainty has many consequences.
+One is that the rules and criteria for taking particular actions seem a lot clearer in textbooks or to many commentators than they are to decisionmakers.
+For example, the extent to which institutions are facing liquidity constraints as opposed to capital constraints, or the moral hazard consequences of policy actions, are inherently ambiguous in real time.
+Another consequence of operating under a high degree of uncertainty is that, more than usually, the potential actions the Federal Reserve discusses have the character of "buying insurance" or managing risk--that is, weighing the possibility of especially adverse outcomes.
+The nature of financial market upsets is that they substantially increase the risk of such especially adverse outcomes while possibly having limited effects on the most likely path for the economy.
+Moral HazardCentral banks seek to promote financial stability while avoiding the creation of moral hazard.
+People should bear the consequences of their decisions about lending, borrowing, and managing their portfolios, both when those decisions turn out to be wise and when they turn out to be ill advised.
+At the same time, however, in my view, when the decisions do go poorly, innocent bystanders should not have to bear the cost.
+In general, I think those dual objectives--promoting financial stability and avoiding the creation of moral hazard--are best reconciled by central banks' focusing on the macroeconomic objectives of price stability and maximum employment.
+Asset prices will eventually find levels consistent with the economy producing at its potential, consumer prices remaining stable, and interest rates reflecting productivity and thrift.
+Such a strategy would not forestall the correction of asset prices that are out of line with fundamentals or prevent investors from sustaining significant losses.
+Losses were evident early in this decade in the case of many high-tech stocks, and they are in store for houses purchased at unsustainable prices and for mortgages made on the assumption that house prices would rise indefinitely.
+To be sure, lowering interest rates to keep the economy on an even keel when adverse financial market developments occur will reduce the penalty incurred by some people who exercised poor judgment.
+But these people are still bearing the costs of their decisions and we should not hold the economy hostage to teach a small segment of the population a lesson.
+The design of policies to achieve medium-term macroeconomic stability can affect the incentives for future risk-taking.
+To minimize moral hazard, central banks should operate as much as possible through general instruments not aimed at individual institutions.
+Open market operations fit this description, but so, too, can the discount window when it is structured to make credit available only to clearly solvent institutions in support of market functioning.
+The Federal Reserve's reduction of the discount rate penalty by 50 basis points in August followed this model.
+It was intended not to help particular institutions but rather to open up a source of liquidity to the financial system to complement open market operations, which deal with a more limited set of counterparties and collateral.
+The Effects of Financial Markets on the Real Economy Related developments in housing and mortgage markets are a root cause of the financial market turbulence.
+Expectations of ever-rising house prices along with increasingly lax lending standards, especially on subprime mortgages, created an unsustainable dynamic, which is now reversing.
+In that reversal, loss and fear of loss on mortgage credit have impaired the availability of new mortgage loans, which in turn has reduced the demand for housing and put downward pressures on house prices, which have further damped desires to lend.
+We are following this trajectory closely, but key questions for central banks, including the Federal Reserve, are, What is happening to credit for other uses, and how much restraint are financial market developments likely to exert on demands outside the housing sector?
+Some broader repricing of risk is not surprising or unwelcome in the wake of unusually thin rewards for risk taking in several types of credit over recent years.
+And such a repricing in the form of wider spreads and tighter credit standards at banks and other lenders would make some types of credit more expensive and discourage some spending, developments that would require offsetting policy actions, other things being equal.
+Some restraint on demand from this process was a factor I took into account when I considered the economic outlook and the appropriate policy responses over the past few months.
+An important issue now is whether concerns about losses on mortgages and some other instruments are inducing much greater restraint and thus constricting the flow of credit to a broad range of borrowers by more than seemed in train a month or two ago.
+In general, nonfinancial businesses have been in very good financial condition; outside of variable-rate mortgages, households are meeting their obligations with, to date, only a little increase in delinquency rates, which generally remain at low levels.
+Consequently, we might expect a moderate adjustment in the availability of credit to these key spending sectors.
+However, the increased turbulence of recent weeks partly reversed some of the improvement in market functioning over the late part of September and in October.
+Should the elevated turbulence persist, it would increase the possibility of further tightening in financial conditions for households and businesses.
+Heightened concerns about larger losses at financial institutions now reflected in various markets have depressed equity prices and could induce more intermediaries to adopt a more defensive posture in granting credit, not only for house purchases, but for other uses a well.
+Liquidity Provision and Bank Funding Markets Central banks have been confronting several issues in the provision of liquidity and bank funding.
+When the turbulence deepened in early August, demands for liquidity and reserves pushed overnight rates in interbank markets above monetary policy targets.
+The aggressive provision of reserves by a number of central banks met those demands, and rates returned to targeted levels.
+In the United States, strong bids by foreign banks in the dollar-funding markets early in the day have complicated our management of this rate.
+And demands for reserves have been more variable and less flexible in an environment of heightened uncertainty, thereby adding to volatility.
+In addition, the Federal Reserve is limited in its ability to restrict the actual federal funds rate within a narrow band because we cannot, by law, pay interest on reserves for another four years.
+At the same time, the term interbank funding markets have remained unsettled.
+This is evident in the much wider spread between term funding rates--like libor--and the expected path of the federal funds rate.
+This is not solely a dollar-funding phenomenon--it is being experienced in euro and sterling markets to different degrees.
+Many loans are priced off of these term funding rates, and the wider spreads are one development we have factored into our easing actions.
+Moreover, the behavior of these rates is symptomatic of caution among key marketmakers about taking and funding positions, and this is probably impeding the reestablishment of broader market trading liquidity.
+Conditions in term markets have deteriorated some in recent weeks.
+The deterioration partly reflects portfolio adjustments for the publication of year-end balance sheets.
+Our announcement on Monday of term open market operations was designed to alleviate some of the concerns about year-end pressures.
+The underlying causes of the persistence of relatively wide-term funding spreads are not yet clear.
+Several factors probably have been contributing.
+One may be potential counterparty risk while the ultimate size and location of credit losses on subprime mortgages and other lending are yet to be determined.
+Another probably is balance sheet risk or capital risk--that is, caution about retaining greater control over the size of balance sheets and capital ratios given uncertainty about the ultimate demands for bank credit to meet liquidity backstop and other obligations.
+Favoring overnight or very short-term loans to other depositories and limiting term loans give banks the flexibility to reduce one type of asset if others grow or to reduce the entire size of the balance sheet to maintain capital leverage ratios if losses unexpectedly subtract from capital.
+Finally, banks may be worried about access to liquidity in turbulent markets.
+Such a concern would lead to increased demands and reduced supplies of term funding, which would put upward pressure on rates.
+This last concern is one that central banks should be able to address.
+The Federal Reserve attempted to deal with it when, as I already noted, we reduced the penalty for discount window borrowing 50 basis points in August and made term loans available.
+The success of such a program lies not in loans extended but rather in the extent to which the existence of this facility helps reassure market participants.
+In that regard, I think we had some success, at least for a time.
+But the usefulness of the discount window as a source of liquidity has been limited in part by banks' fears that their borrowing might be mistaken for accessing emergency loans for troubled institutions.
+This "stigma" problem is not peculiar to the United States, and central banks, including the Federal Reserve, need to give some thought to how all their liquidity facilities can remain effective when financial markets are under stress.
+ConclusionIn response to developments in financial markets, the Federal Reserve has adjusted the stance of monetary policy and the parameters of how we supply liquidity to banks and the financial markets.
+These adjustments have been designed to foster price stability and maximum sustainable growth and to restore better functioning of financial markets in support of these economic objectives.
+My discussion today was intended to highlight some of the issues we will be looking at in financial markets as we weigh the necessity of future actions.
+We will need to assess the implications of these developments, along with the vast array of incoming information on economic activity and prices, for the future path of the U.S. economy.

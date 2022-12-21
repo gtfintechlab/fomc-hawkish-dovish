@@ -1,0 +1,34 @@
+My journey began at MIT as a research assistant to Professors Franco Modigiliani and Albert Ando during the period of development of the MPS model, continued at Laurence H. Meyer & Associates with the development of The Washington University Macro Model under the direction of my partner, Joel Prakken, and the use of that model for both forecasting and policy analysis, and now has taken me to the Board of Governors where macro models have long played an important role in forecasting and policy analysis and the MPS model has recently been replaced by the FRB/US model.
+I bring to this panel a perspective shaped by both my earlier experience and my new responsibilities.
+I will focus my presentation on the role of structural macro models in the monetary policy process, compare the use of models at the Board with their use at Laurence H. Meyer & Associates, and discuss how the recently introduced innovations in the Federal Reserve model might further advance the usefulness of models in the monetary policy process.
+I.
+Structural Models and Monetary Policy Analysis I want to focus on three contributions of models to the monetary policy process: as an input to the forecast process; as a vehicle for analyzing alternative scenarios; and a vehicle for developing a strategy for implementing monetary policy that disciplines the juggling of multiple objectives and ensures a bridge from short-run policy to long-run objectives.
+1.
+The forecast context for monetary policy decisions Because monetary policy has the ability to adjust quickly to changing economic conditions and because lags in the response to monetary policy make it important that monetary policy be forward looking, monetary policy is very much influenced both by incoming data and by forecasts of spending and price developments.
+Forecasts are central to monetary policy setting.
+Models make a valuable contribution to forecasting.
+Therefore, models can make an important contribution to the setting of monetary policy.
+Models capture historical regularities, identify key assumptions that must be made to condition the forecast, embody estimates of the effects of past and future policy actions on the economy, and provide a disciplined approach to learning from past errors.
+I attribute much of the forecasting success of myself and my partners at LHM&A to the way in which we allowed our model to discipline our judgment in making the forecast.
+A model also helps to defend and communicate the forecast, by providing a coherent story that ties together the details of the forecast.
+It also helps to isolate the source of disagreements about the forecast, helping to separate differences in assumptions (oil prices, fiscal policy, etc.)
+from disagreements about the structure of the economy or judgments about special factors that the model may not fully capture.
+At the Board, the staff forecast, presented in the Greenbook prior to each of the eight FOMC meetings each year, is fundamentally judgmental.
+It is developed by a team of sector specialists who consult, but are not bound by, a number of structural econometric equations describing their sectors, and further armed, in some cases, with reduced-form equations and atheoretical time series models.
+The team develops the forecast within the context of agreed-upon conditioning assumptions, including, for example, a path for short-term interest rates, fiscal policy, oil prices, and foreign economic policies.
+They begin with an income constraint and then participate in an interactive process of revisions to ensure that the aggregation of sector forecasts is consistent with the evolving forecast for the overall level of output.
+Models play an important supporting role in the development of the staff forecast.
+A separate model group uses a formal structural macroeconometric model, the FRB/US Model, to make a "pure model" forecast which is also available to the FOMC and is an input to the judgmental forecast process.
+The model forecast is conditioned by the same set of assumptions as the judgmental forecast and statistical models are used to generate the path of adjustment factors, avoiding any role for judgment in the forecast.
+The members of the model group also actively participate in the discussions as the judgmental forecast evolves, focusing in particular on the consistency between the adjustment factors that would be required to impose the judgmental forecast on the model and the pattern of adjustment factors in the "pure" model forecast.
+There are two important differences from the private sector use of models for forecasting, at least based on my experience at LHM&A.
+First, the staff is not truly making a forecast of economic activity, prices, etc., because the staff forecast is usually conditioned on an unchanged path of the funds rate.
+Thus the staff is projecting how the economy would evolve if there were no change in the federal funds rate (which does not even always translate cleanly into no change in monetary policy).
+The rationale for this procedure is to separate the forecast process from the policy making process, and therefore avoid appearing to prejudge the FOMC's decisions.
+This procedure may be modified when there is a strong presumption that conditions will unambiguously call for significant action if the Committee is to achieve its objectives.
+But it does, nevertheless, make the forecast process at the Board fundamentally different from that in the private sector where one of the key decisions in the forecast is the direction of monetary policy.
+It is ironic that, at the Board, where the staff is presumably more knowledgeable about the direction of policy than in the private sector, forecasting is constrained from using that information in developing the forecast.
+On the other hand, the practice at the Board may be very well suited to the process of making policy by forcing the FOMC to confront the implications of maintaining an unchanged path for the funds rate.
+A second difference relative to my experience in the private sector has to do with the way in which judgment and model interact in the development of the forecast.
+My first impression of the process at the Board was that the judgmental team made its forecast without a model and the model team made its forecast without judgment, leaving the blending of model and judgment to be worked out in the process of discussion and iteration as the judgmental group looks at the model output and the model group joins the discussion of the forecast.
+The process is, I have come to appreciate, more complicated and subtle than this caricature.

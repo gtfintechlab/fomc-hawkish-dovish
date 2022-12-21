@@ -1,0 +1,162 @@
+You understand that financial engineering has both created new opportunities and posed new challenges for the securities and accounting industries.
+New financial instruments allow risks to be transferred to those most willing, and presumably most able, to assume and manage them.
+And new risk-measurement techniques can form the basis for more meaningful public disclosures of firms' risk profiles.
+But use of the new instruments has resulted in large and well-documented losses to some firms, while other firms have used the new instruments to hide losses from more traditional activities.
+Policymakers generally have supported the use of derivatives and other new risk-transfer mechanisms by regulated and unregulated entities.
+Policymakers have tried to create incentives for risk mitigation and have sought to address potential pitfalls through a combination of regulatory oversight and market discipline.
+However, some have raised concerns about the potential effects of the new risk-management techniques on the stability of the financial system as a whole.
+In effect, they argue that even if individual firms manage their risks prudently and effectively, the aggregate effect of their activities may be to make the financial system less stable.
+As I shall make clear, I believe the potential for the new instruments and techniques to produce instability has been overestimated.
+Nonetheless, the arguments deserve careful consideration, not only by policymakers but by financial industry professionals as well.
+If the arguments were correct, the new instruments and techniques would likely provide less protection than the firms using them assume.
+Today I will review three specific topics that have been raised in the discussion of these instruments and techniques: (1) the dynamic hedging of options, especially options to prepay fixed-rate mortgages, (2) the so-called herding induced by common risk-management techniques, and (3) the concentration of counterparty credit risk that can be produced by credit derivatives.
+In each case I shall first evaluate the concerns and then consider how markets would function in the absence of the new instruments and techniques.
+Dynamic Hedging of Mortgages The development of our market for home mortgages over the past two decades has dramatically altered the role of traditional financial intermediation by depository institutions.
+Let me illustrate this change.
+In 1980, depository institutions, primarily savings and loan associations, held two-thirds of home mortgages in their portfolios.
+That proportion has fallen to less than one-third today.
+Over the same period, the share of mortgages that are securitized has risen from 10 percent to 59 percent.
+Of course, intermediaries still play a vital supporting role in today's mortgage market by originating and servicing mortgages and by holding mortgage-backed securities in their investment portfolios.
+The interest rate risk inherent in home mortgages is still present in mortgage-backed securities.
+The risk is simply transferred from the originator of the mortgages to an investor, who is presumably more willing and able to manage the risk.
+Nevertheless, even for the most able, managing the risk is a significant challenge.
+The challenge is in managing prepayment risk.
+Prepayment risk arises because mortgage borrowers have the right to prepay their mortgages at any time without penalty.
+The right to prepay is an enormously popular--and therefore almost surely a permanent--element of mortgage finance in the United States.
+When market rates fall, holders of fixed-rate mortgages find their principal being repaid as borrowers refinance with a new lower-rate mortgage.
+When market rates rise, prepayment rates drop dramatically.
+One common strategy for hedging the interest rate risk of a mortgage-backed security is to short other fixed-income instruments, such as ten-year Treasury notes or interest rate swaps.
+But unlike most other fixed-income securities, mortgage-backed securities carry prepayment risk, which causes a change in the level of interest rates to change the amount of Treasuries or swaps one needs to short for an effective hedge.
+Specifically, when interest rates fall, prepayments increase, and as a result, the amount of ten-year Treasuries needed for the hedge falls.
+Thus, to reduce a short position in ten-year Treasuries, the hedger must buy ten-year Treasuries when their price is rising.
+This is the point where concern emerges that financial engineering may lead to higher market volatility.
+Such "dynamic" hedgers of mortgage-backed-securities have adopted a strategy that requires them to buy bonds when the price of bonds is rising.
+Conversely, they must sell bonds when the price of bonds is falling.
+Put another way, they will always be reinforcing the current direction of the market and never "leaning against the wind."
+Clearly, if these hedging-related transactions are large relative to the underlying market, the hedging strategy could make significant demands on market liquidity and lead to higher market volatility.
+That is the theoretical argument behind the concern that dynamic hedging of mortgages could exacerbate volatility in fixed-income markets.
+To see whether this concern is just a theoretical curiosity or is more practical, two more questions must be answered.
+First, are the hedging-related transactions large relative to the underlying market?
+Second, could other mechanisms for hedging prepayment risk have a smaller impact on volatility and therefore hedge the risk more effectively?
+On the first question, both research and market observation suggest that hedging-related transactions are large enough to have an effect on the underlying fixed-income markets, but the effect is small and dissipates relatively quickly.
+Research at the Federal Reserve Bank of New York covering the years 1996 through 2000 and also the monetary policy tightening in spring 1994 has found hedging-related effects to be present in U.S. dollar interest rate movements.
+Although the effect was large enough to be detectable, it was small relative to overall interest rate volatility and lasted no longer than six weeks.
+Market participants have described the market conditions of November and December 2001 as a unique combination of circumstances that made the hedging-related effects much stronger than usual.
+These circumstances included a recent history of declining mortgage rates (which increased prepayment risk), a sharp unanticipated rise in market rates in November and December, low market liquidity in the months right before year-end, and a general reduction in activity after September 11.
+Even with these factors, market participants estimate that the temporary hedging-related effect on the ten-year Treasury yield was no more than 25 basis points--again, a measurable but small effect.
+According to market reports, hedging-related effects on the underlying fixed-income markets appear to have been muted so far this year, despite a record volume of mortgage refinancings thus far in the second half of 2002 that has surpassed last year's peak.
+Turning to the second question, market participants have other ways to hedge prepayment risk besides dynamic hedging of the sort I have described.
+One way is through the acquisition of interest rate options, either by buying an option, such as a so-called swaption, or by issuing callable debt that has an option embedded in it.
+This allows the holder of a mortgage to hedge prepayment risk without dynamic hedging.
+The fact that hedgers have alternatives to dynamic hedging weakens the link between hedging and volatility.
+At the same time, some have suggested that the hedging of prepayment risk by buying interest options has begun to affect price dynamics in the options market.
+Clearly there are complicated forces at work.
+How the hedging of prepayment risk affects markets for both cash and derivative fixed-income instruments seems to be a fruitful topic for future research.
+Also, we must keep in mind that market participants have an incentive to monitor and limit the impact of dynamic hedging on the underlying market because the interaction makes the hedging less effective.
+Suppose that the effect of hedging on the underlying market rises substantially from its current low level.
+Dynamic hedging would become less effective and, as a result, the risk premium associated with exposure to the interest rate risk of mortgage-backed securities would rise.
+The rise in the risk premium would reduce the demand for hedging by inducing some homeowners to switch to adjustable-rate mortgages.
+It would also increase the availability of alternatives to dynamic hedging--more swaption writers and issuers of callable debt would step forward to take advantage of the higher risk premium.
+In short, we can expect the market to find an efficient way to adjust to the changed circumstances.
+To evaluate the performance of the current market-based financing model for home mortgages, including the effect of dynamic hedging, we need to compare its benefits and costs relative to an appropriate alternative model.
+In light of the history of this market, the relevant alternative would seem to be the intermediary-based financing model that characterized the U.S. mortgage environment before 1980.
+Given the experience to date, the shift from an intermediary-based model to a market-based model over the past two decades has, on balance, benefited mortgage borrowers, who have shown a strong preference for fixed-rate mortgages that can be prepaid at any time.
+The value of fixed-rate prepayable mortgages outstanding has risen from around $1 trillion in 1980 to almost $5 trillion today.
+As all of us are probably aware, the old model concentrated interest rate risk in depository institutions, specifically in savings and loans.
+And when interest rates soared in the early 1980s, the savings and loan industry suffered huge losses with collateral effects on the real economy.
+In comparison, the market-based model clearly seems to have spread the interest rate risk of mortgages throughout the economy, with depository institutions still bearing some of the risk through investments in mortgage-backed securities or callable debt.
+What are the lessons for policymakers?
+I can suggest two.
+First, policymakers still need to fulfill their traditional supervisory role.
+They need to ensure that regulated intermediaries manage prepayment risk effectively and have adequate capital to absorb losses.
+Second, I would note that new risk-transfer instruments, such as swaps and swaptions, are playing an important role in transferring the interest rate risk of mortgages to a broader and more diversified group of investors.
+Herding My second topic today is the concern that common approaches to risk management, such as value-at-risk modeling, may be promoting herding behavior that can destabilize markets.
+The idea is that market participants who use similar risk management techniques may respond to a perceived increase in the riskiness of their positions by paring back the size of those positions and perhaps by paring back positions in other markets as well.
+Such a response, while rational from the perspective of individual market participants, may have the collective and unintended consequence of reducing market liquidity at the time when it is most needed.
+I recognize the relevance of the questions and realize that herding might theoretically occur in a number of markets.
+However, based on some observations of how models are actually constructed and used at financial firms, I would like to outline three reasons why this concern might be overstated.
+First, the sophistication and structure of risk-management models vary widely.
+This point applies with full force to value-at-risk models in use at commercial banks, an area the Federal Reserve has some knowledge of through our supervisory oversight.
+Our examiners have observed that banks implement a common objective--measuring the value-at-risk of the bank's trading account--in highly diverse ways.
+Given their early stage of development and the diversity with which they are implemented, the use of these models does not seem likely to create herding behavior.
+Second, other sources of diversity exist among financial firms, including differences in risk appetites, customer bases, and product lines.
+These additional sources of variation create considerable heterogeneity in financial firms' trading strategies, in their risk-taking, and in how they respond to market shocks.
+In short, neither now nor in the future are the models and the actual risk positions likely to be as similar as those assumed by observers concerned about the potential negative implications of risk management.
+Finally, risk models are, and should be, just one part of the formal risk-management process.
+Regulators and institutions must not overestimate the role that models play, or should play, in decisionmaking.
+Risk managers get useful information from risk models.
+But judgment, experience, limits, and procedures for exceptions also play significant roles in risk management.
+As a consequence, risk models are never likely to be the dominant driver of the actions of financial firms and are therefore unlikely to generate significant herding behavior.
+As you are aware, models have brought a degree of both quantification and rigor to the risk-management process that had been badly needed.
+Before the advent of models, particularly value-at-risk models, bank managers could not easily compare or aggregate the risks of the various activities of a firm.
+The fixed-income desk would summarize its risk in terms of the portfolio's duration, the foreign exchange desk would use its net delta by currency, and the equities desk would use portfolio standard deviation.
+Value-at-risk puts all types of traded risks on a common footing--as an amount that can be lost with a certain probability over a certain time horizon.
+Formal risk modeling, while not perfect, is on balance an improvement over previous practice.
+In my judgment, these models have made the risk-transfer process more efficient than it otherwise would have been, which is the proper test.
+Formal models help firms attempting to shed risk to identify available hedging strategies and choose the strategy that is most appropriate, given the prevailing market conditions.
+Formal models help firms with larger risk appetites evaluate their capacity to absorb and manage additional risks shifted from others.
+I would argue that firms with larger risk appetites will be relatively more willing to take on additional risk if they can better model and manage that risk.
+At times of high market volatility, firms would still be able to sense that their firm's risk had risen even without formal risk management.
+But they would be uncertain about exactly how it affected them.
+They would be, in effect, flying by the seat of their pants.
+The uncertainty, it seems clear, reduces the effectiveness of decisionmaking, reduces the ability to transfer risk to someone willing to bear it because others, too, face the same uncertainty, and therefore increases the potential for markets to simply freeze up.
+What is the role for policymakers in overseeing the growth of formal risk-measurement models?
+First, we must continue to promote the use of best-practice risk-management modeling as one component of a good risk-management system.
+These models enable firms to better quantify the risks they face.
+Having better information on risks can only improve a firm's decisionmaking.
+Second, we should remind firms that formal risk modeling is just one part of sound risk management.
+Firms do not look at the output of a model in isolation, nor should they.
+For example, firms should continue to augment formal risk models with more judgmental stress testing.
+Third, the imposition of rigid requirements on the risk models that firms are allowed to use would be a mistake.
+It would increase the likelihood that risk models could lead to herding.
+Also, firms are constantly improving their models, and policymakers should support this process.
+Credit Derivatives My final topic today is credit derivatives.
+The credit derivatives market has grown rapidly over the past few years.
+According to statistics from the Bank for International Settlements, the notional value of credit derivatives outstanding rose from $108 billion in 1998 to $695 billion in 2001.
+According to market sources, this rapid growth continues unabated.
+Banks have been an important engine behind the growth of credit derivatives.
+They typically have used credit derivatives to transfer some of the credit risk they incur in making loans or to create customized credit-risk exposures for investors.
+Banks pay the investors to take on credit risk.
+The investors agree to compensate the bank in case of a credit loss.
+Investors who sell credit protection can be motivated by a desire to earn higher returns in exchange for taking on more credit risk or by a desire to increase the geographic, sectoral, or other diversification of their credit portfolios by expanding the range of borrowers to which they are exposed.
+Insurance companies, particularly insurance companies from continental Europe, have been cited as large investors in this market.
+In theory, the risk transfer associated with a bank's purchase of credit protection for its loan book should be effective.
+Instead of suffering a loss when a borrower defaults, the bank now suffers a loss only when both a borrower and its credit derivative counterparty default.
+The risk of simultaneous default is certainly much lower than the risk of a single default.
+Credit derivatives, while making markets more complete, are not a panacea and must be used wisely.
+Most credit derivatives require the counterparty to make a payment to the bank when a credit loss or default occurs.
+For this type of credit derivative, traditional credit risk may reappear as counterparty credit risk, that is, the risk that the bank's counterparty will not fulfill its agreement to compensate the bank in case of a credit loss.
+The price of a credit derivative should take into consideration the credit risk posed by the seller of the protection and the appropriate default correlation, though default correlations are difficult to estimate precisely.
+But some credit derivatives, such as credit-linked notes, are prefunded--the counterparty pays the principal up front and the repayment it receives at maturity is contingent on a credit event not occurring.
+Banks selling these funded credit derivatives have no counterparty credit risk at all.
+Recognizing that they must understand the characteristics of new risk-sharing mechanisms, several regulatory bodies have taken a close look at the credit derivatives market in recent years.
+The Federal Reserve, in its role as a bank supervisor, monitors banks' participation in the credit derivatives market.
+In addition, the U.K. Financial Services Authority and the Bank of England have issued reports on credit derivatives in recent years.
+Thanks to these efforts, we have a much better picture of the credit derivatives market than we did a year or two ago.
+These groups have all reported that they find no evidence that the credit derivatives market threatens financial stability.
+The nonbank firms that are active in the credit derivatives market, notably some insurance companies, do appear to understand the nature of the risk they are taking on.
+Although regulatory capital arbitrage was cited as a factor spurring the early growth of the credit derivatives market, the increasingly active portfolio management of credit risk, by both banks and insurance companies, has driven growth of the market in recent years.
+Even at this relatively early stage in their life cycle, credit derivatives do appear to offer benefits.
+The creation of a market for credit risk transfer has probably enhanced efficiency and economic resiliency by enabling credit risk to be dispersed throughout the financial system.
+Credit risk diversification using credit derivatives is thought by many to be one factor that has helped banks to weather the recession of 2001, and its accompanying increase in defaults, without apparent major problems.
+In recent financial releases, several U.S. banks specifically noted that credit derivatives had helped them mitigate credit losses.
+Of course, a general improvement in credit-risk management by banks in recent years is another important factor.
+The experience with the 2001 recession was markedly different from the preceding recession in the United States, in 1990 and 1991.
+In that recession, banks took serious hits from credit losses, and the weakness in the banking sector led to "headwinds" that restricted the availability of business credit and slowed the recovery.
+The past two years have seen the largest-ever corporate bankruptcy, that of WorldCom, and the largest-ever sovereign default, in Argentina.
+There have been many other high-profile defaults, such as Global Crossing, Kmart, and Enron.
+By helping to spread the credit risk associated with these large borrowers throughout the financial system, the credit derivative market likely contributed to financial stability.
+These large defaults give us some insight into one of the concerns I mentioned earlier--that the growth of the credit derivatives market was being driven by investors who did not understand the risks they were taking on.
+Because of the defaults of Enron, Argentina, WorldCom, and others, investors in the market have made large payouts on credit derivatives recently.
+If investors were underestimating the risks before, they certainly should not do so now.
+On the contrary, there does not appear to have been any general retreat from the market.
+The credit derivatives market has continued to grow.
+I can only conclude that the majority of investors must have understood the risks and been willing and able to bear them.
+What should financial policymakers do in response to the rapid growth in the credit derivatives market?
+Clearly, they must keep abreast of market developments so they can perform their traditional supervisory role.
+Regulators should continue to insist that banks manage their counterparty credit risk prudently.
+This prudence includes paying attention to potential concentrations of counterparty credit risk.
+However, just as important is ensuring that regulators keep enough distance from the markets to give financial innovations such as credit derivatives a chance to succeed.
+The new market for credit derivatives has grown largely outside of traditional regulatory oversight, and as I have described, evidence to date suggests that it has made an important contribution to financial stability in the most recent credit cycle.
+Conclusion The three topics I have addressed today--dynamic hedging of mortgages, risk measurement systems such as value-at-risk, and credit derivatives--are examples of newer risk-management techniques.
+Because these techniques are relatively new, regulators and market participants must work to build their understanding of how they function in differing economic environments.

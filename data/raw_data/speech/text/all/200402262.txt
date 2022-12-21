@@ -1,0 +1,154 @@
+"What is the appropriate domain of a currency area?
+It might seem at first that the question is purely academic since it hardly appears within the realm of political feasibility that national currencies would ever be abandoned in favor of any other arrangement."
+Robert A. Mundell (1961, p. 657) It is an honor for me to address such a distinguished group on the occasion of the euro's fifth anniversary.
+I congratulate the Institute of International Economics for putting together such an excellent program.
+The successful introduction, five years ago, of an entirely new currency over a wide range of polities and economies was, at a minimum, a remarkable technical achievement.
+As a card-carrying member of the club of monetary economists, I like to think that our collective expertise was helpful in making that achievement possible.
+As both a policymaker and an economist, I welcome this opportunity to look back on the first five years of the euro to see what we can learn from the experience and to consider what this grand experiment implies for the future.
+I should say at the outset that, as usual, my remarks this evening reflect my own views and not necessarily those of my colleagues in the Federal Reserve System.1 The economic analysis of optimal currency areas began, of course, with Robert Mundell's seminal 1961 paper, from which I have quoted above.2 As you know, Mundell argued that, ideally, economic similarity, not political boundaries, should define the geographic area spanned by a common currency.
+He was the first to state the classic tradeoff implied by the decision to adopt a common currency.
+According to Mundell, the principal advantage of a common currency is the reduction in transaction costs implied by the use of a common medium of exchange across a broad area.
+The disadvantage of a common currency is the loss of the shock-absorber properties of flexible exchange rates and independent monetary policies.
+Flexible exchange rates and independent monetary policies will be useful shock absorbers to the extent that macroeconomic shocks are imperfectly correlated across regions, wages and prices are sticky, and other macroeconomic adjustment mechanisms--such as factor mobility or fiscal transfers among regions--are weak or absent.
+Thus, from the Mundellian perspective, the case for a common currency within a broad area is stronger, the greater the actual or potential economic and financial integration within the area; the greater the correlation of macroeconomic shocks among regions within the area; and the more effective the non-monetary shock absorbers, such as factor mobility.
+Whether the nations that compose the European Monetary Union (EMU) form an optimal currency area in Mundell's sense has been widely debated by researchers.
+For example, Barry Eichengreen argued early on (Eichengreen, 1992) that Europe was perhaps not well suited for a common currency on economic grounds (though he found the political motivations more compelling).
+According to Eichengreen, the factors reducing the desirability of a monetary union in Europe included the historical variability of real exchange rates among European nations, the low degree of labor mobility between countries, and a lower correlation of underlying shocks among European countries than among regions of the United States.3 Other critics of monetary unification, such as Martin Feldstein, have stressed the limited extent of fiscal transfers within the European Union.
+Differences across countries in the nature and strength of the monetary policy transmission mechanism are another factor that may reduce the attractiveness of a monetary union.4 However, some more recent assessments, which have emphasized factors such as the high propensity of European countries to trade with each other and the increased coherence of national business cycles within Europe, have generally been more favorable (Alesina, Barro, and Tenreyro, 2002; Agresti and Mojon, 2001).
+Of course, analyses that look only at historical conditions ignore the important possibility that monetary union itself may induce endogenous changes in trade propensities, the pattern of macroeconomic shocks, and other components of the Mundellian analysis, a point that Eichengreen and many other authors have made.
+Rather than pursuing the question of whether Europe is in fact an optimal currency area in Mundell's sense, I think it is useful simply to recognize that the European experiment in economic and monetary union has not been motivated primarily by Mundellian factors.
+(Mundell himself did not expect that such considerations would be sufficient to lead to monetary unions, as the quote with which I began suggests.)
+Political factors, rather than economic ones, have played the dominant role.
+The nations of Europe share a remarkable cultural heritage in philosophy, politics, science, religion, and the arts, and advanced thinkers have long recognized that this common heritage might serve as a basis for the formation of a cohesive European political entity.
+Such an entity presumably could influence world events and provide for a common defense more effectively than could a collection of nation-states.
+Indeed, political and economic integration within regions of Europe has occurred on a number of occasions--for example, in Germany and Italy.
+Another important motivation for political integration has been the desire to reduce the risk of intra-European conflict.
+From Napoleon to Bismarck to the Kaiser to Hitler, Franco-Prussian and then Franco-German conflicts were flash points for continentwide and worldwide wars.
+European economic and monetary union holds the promise of binding so closely the economic interests of these two powers, as well as those of other European nations, as to make future intra-European conflict unthinkable.
+Such arguments have been part of the debate over European integration at least since the 1957 Treaty of Rome.
+Indeed, the hope of policymakers is to create a virtuous circle, in which closer economic integration promotes greater political cooperation, which enhances opportunities for economic integration, and so on.5 The largely political origin of the union has several implications for the economic analysis of the common currency.
+First, from a purely economic point of view, the creation of the European economic and monetary union is at least partly an exogenous event.
+Thus, we have something of a natural experiment from which to learn about the effects of such institutional innovations.
+Second, we should keep in mind that our assessment of the success of the euro, indeed of the entire experiment in European integration, rests not only on economic criteria but also on the success of Europe as a political entity.
+If we think of the introduction of the euro as representing to some degree a natural experiment in monetary economics, what can we say about the costs and benefits, at least thus far, of this sweeping institutional change?
+We can look in a number of areas for effects of monetary unification, including the patterns of trade, developments in the financial sector, changes in macroeconomic stability, and the international role of the new currency.
+Many of these areas have already been examined today in much greater detail than I can do here.
+Rather than trying to be exhaustive, I will instead assert and briefly defend a hypothesis.
+The hypothesis is that the most significant effects of monetary unification have been felt, and will continue to be felt, in the development of European financial markets, and that the greatest economic benefits to Europe in the long run will accrue through the improved functioning of these markets.
+To defend this hypothesis, I need first to consider briefly the effects of monetary unification in some other key areas.
+Let us begin with trade.
+The debate about monetary unification was influenced to some extent by a tradition of empirical research that provided some basis for optimism about the effects of a common currency on trade.
+For example, the extensive literature on so-called border effects concluded that nations trade with each other far less than would be expected based on the extent of trade between regions within a country, opening up the possibility that differing national currencies are among the factors that inhibit trade.
+In a recent study, Reuven Glick and Andrew Rose (2001) provided some support for the idea that currency unions promote trade.
+Glick and Rose analyzed a panel data set of 217 countries for the period 1948 through 1997.
+They found that entering or leaving a currency union had large effects on trade flows; indeed, they estimated that a pair of countries that begins to use a common currency should see a doubling in bilateral trade.
+However, as Glick and Rose themselves note, many of the countries entering or leaving currency unions during their sample period were small and poor, not rich and (in some cases) large like the nations of western Europe.
+Moreover, their analysis does not rule out either reverse causality (that is, that increasing trade may promote the adoption of a currency union, rather than vice versa) or the possibility that a third, unmeasured factor (such as political relationships) may have influenced both trade and currency policies.
+In contrast to the findings of Glick and Rose, evidence drawn directly from the recent European experience does not generally support the view that adoption of a common currency has a major effect on the magnitude or direction of trade.6 True, euro-area exports did surge after the adoption of the euro in January 1999.
+However, cyclical conditions and the early weakness of the new currency no doubt played a critical role in that increase, an inference confirmed by the substantial slowing in European export growth since the beginning of 2001.
+Also striking is the fact that the share of total euro-area exports destined for other members of the euro-zone did not increase with the introduction of the new currency, as would be likely if the common currency promoted trade.
+Indeed, at about 50 percent of total exports, the intra-euro-area export share today remains noticeably below the recent peak of about 57 percent reached in the early 1990s.
+The most decisive evidence on the trade question can be found by looking at microdata.
+In an important study, John Rogers (2003) of the Board staff analyzed annual data on the prices of 139 items, collected by the Economist Intelligence Unit for twenty-five European and thirteen U.S. cities.
+For his main results, Rogers divided the items into traded and non-traded categories, though he considered many other ways of slicing the data as well.
+He then analyzed the cross-city dispersion of prices in each year.
+Of course, the reduction of barriers to trade, the harmonization of tax policies, and the increased efficiency of cross-national markets should lead to reduced dispersion in the prices of goods, especially actively traded goods, as competition and arbitrage reduce local monopoly power and differences in prices.
+Rogers found a substantial decline in the dispersion of traded-goods prices across European cities over 1990-2001.
+Indeed, by the end of the period, the variability of traded goods prices across cities within EMU countries had declined by more than half, and it was not substantially different from the variability found among cities in the United States.
+This convergence of prices suggests a powerful, ongoing process of increased economic integration and elimination of barriers to trade among the members of the European Monetary Union.
+Crucially, however, Rogers found that the bulk of this convergence occurred between 1990 and 1994, the period of the "single market" initiative.
+Only a small part of the convergence in traded goods prices occurred after 1998, the period during which the euro was introduced and national currencies were withdrawn from circulation.
+Rogers' evidence therefore suggests that the increased integration of product markets in Europe has been an ongoing process, which may have been assisted by the adoption of the euro but for which a common currency has hardly proved essential.
+A second question of interest is the degree to which adoption of the euro has affected macroeconomic stability in the euro zone.
+In Mundell's taxonomy, adoption of a common currency is a strictly negative factor for stability because it eliminates the shock-absorbing features of flexible exchange rates and independent monetary policies.
+In fact, however, the effects of the common currency on macroeconomic stability in Europe have been positive as well as negative.
+Notably, the structure and mandate of the European Central Bank (ECB), as well as the perception of continuity with the policies of the pre-euro Bundesbank, have enhanced the ECB's credibility and contributed to low and stable inflation in the euro-zone.
+Although Germany and several other countries in the union enjoyed low inflation before the adoption of the common currency, with some partial exceptions to be discussed in a moment, the ECB has been able to "export" that benefit to other members of the monetary union.
+The common currency has also eliminated periodic exchange-rate crises, which had plagued European monetary arrangements and generated real and financial disturbances at least since the days of the gold standard.
+On the other hand, the ECB has faced the challenge of making policy for Europe as a whole despite differing macroeconomic conditions in member countries, a dilemma that Mundell would have predicted.
+For example, since 1999 a few countries, such as Ireland, have had inflation rates consistently above the euro-zone average.
+Irish inflation peaked at 7 percent on a twelve-month basis in November 2000 and has since been in the 4 to 5 percent range.
+At the same time, other countries, such as Germany, have experienced low--perhaps uncomfortably low--rates of inflation.7 Patrick Honohan and Philip Lane (2003) investigated the sources of relatively high inflation in Ireland after the adoption of the euro.
+These authors found that the loss of exchange-rate flexibility and monetary autonomy played important roles in the Irish inflation.
+For example, a relatively large share of Ireland's trade is with non-European partners, so that the early weakness of the euro stimulated Irish exports and economic activity disproportionately.
+Ireland was also unable to resort to monetary restraint to cool down an economy that, for a variety of reasons, was experiencing faster demand growth than most of the rest of Europe.8 Ireland's relatively high inflation rate may in turn have had destabilizing effects, because, in combination with low pan-European nominal interest rates, it implied that the Irish economy faced a negative real rate of interest.
+One possible consequence of the low real rate is the boom in Irish property prices, which has fed back into higher domestic spending.
+Of course, at the other end of the spectrum, Germany has experienced weak growth and very low inflation in the past few years (Sinn, 2003).
+Without the ability to use stabilizing monetary policy, Germany has eased fiscal policy and thus has come into conflict with its obligations under the Stability and Growth Pact.
+In short, with respect to macroeconomic stability, the common currency appears to have had both positive and negative effects.
+More time will be needed before we can assess whether the common currency will ultimately be a stabilizing or a destabilizing influence at the macroeconomic level.
+Yet a third area in which potential benefits of the euro have often been cited is in respect to the common currency's potential international role.
+The phrase "international role of the euro" covers a number of disparate possible functions of the currency.
+These functions include the use of euro-denominated assets as official reserves, the use of the euro as a vehicle currency in foreign-exchange transactions, the denomination in euros of financing instruments issued by borrowers not resident in the euro zone, the acceptance of euro-denominated or euro-linked assets in international investment portfolios, and the invoicing in euros of internationally traded goods and services.
+Of course, during the post-World War II period the U.S. dollar has been the dominant international currency with respect to each of these functions.
+It seems plausible that the euro, a low-inflation currency used by an economy comparable to that of the United States in size and sophistication, will, over time, increase its "market share" in each of these areas.
+However, the euro's potential international role, and, more importantly, the benefits to euro-zone countries of an increased role for the euro differ significantly by function.
+A summary evaluation of the euro's international position is that the common currency's role has been increasing but that so far the euro has posed less of a challenge to the U.S. dollar as an international medium of exchange than some analysts expected.
+For example, in foreign exchange markets the U.S. dollar accounts for nearly 50 percent of transaction "sides," compared with about 25 percent for the euro, implying that the overwhelming majority of foreign-exchange transactions involve the dollar (European Central Bank, 2003, p. 26; data are from Continuous Linked Settlement).
+Hence, the dollar appears to remain the international "vehicle currency," serving as a temporary abode of value for foreign-exchange transactions involving third currencies, whereas the euro's role in foreign-exchange markets is similar to that played in earlier times by the deutschemark (Solans, 2003).
+The dollar also remains the dominant invoicing currency for internationally traded raw materials, such as oil.
+The dollar is even dominant in U.S.-European trade, with more than 90 percent of U.S. exports to Europe and something more than 80 percent of European exports to the United States being invoiced in dollars as of September 2003 (European Central Bank, 2003, p. 33).
+With regard to the currency composition of official reserves, dollar-denominated assets accounted for 64.5 percent of world reserves at the end of 2002, down from 67.5 percent at the end of 2000.
+During the same period, the euro's share of international reserves rose from 15.9 percent to 18.7 percent (European Central Bank, 2003, p. 45).
+Although economists and financial market participants will observe the developing role of the euro in international transactions with interest, the direct benefits to euro-zone economies of having the euro play an international medium-of-exchange role are relatively modest.
+Arguably, the more significant aspects of the euro's international role arise from the strengthening and expansion of euro-denominated financial markets as these markets take on a greater international character.
+Internationalization of European financial markets increases investment opportunities, opportunities for diversification, and sources of funding and improves liquidity and market efficiency.
+On that note, let me turn finally to the effect of the common currency on European financial markets.
+As I have already suggested, the most important benefit of the currency union has been and will likely continue to be its strengthening of European financial markets.
+Traditionally, the efficiency and scope of these markets has been hampered by the costs and risks associated with the use of multiple currencies as well as by the fragmentation arising from international differences in legal structure, accounting rules, and other institutions.
+Given the rapidity and frequency of trade in financial markets, even small transaction costs can hamper the efficiency and liquidity of those markets.
+The common currency, with ongoing efforts to harmonize financial regulations and institutions, has significantly reduced those transaction costs.
+Together with lower country-specific macro risks arising from the adoption of the common currency, this reduction in transaction costs has greatly improved the breadth and efficiency of European financial markets.
+Importantly, the benefit of more efficient financial markets goes well beyond the benefits to financial investors and the financial industry itself.
+A growing academic literature suggests that financial development is a critical precursor to broader economic development (King and Levine, 1993).
+In this vein, a study for the European Commission estimated that financial development that brought the European financial system close to U.S. norms might add almost a percentage point to the growth of value added in manufacturing in the European Union (Giannetti et al., 2002).
+Whether one accepts this optimistic assessment or not, there are evidently significant potential benefits to financial deepening that go beyond the financial sector itself.
+How has the common currency improved financial efficiency?
+Perhaps the most dramatic effects of the monetary union in the financial sphere have been in fixed-income markets, both government and private.
+Government debt markets, because of their size, safety, and benchmark status, are central to a vibrant fixed-income market, and they have been particularly strengthened by the adoption of the euro.
+Notably, since the run-up to monetary union began, sovereign debt yields have converged to a remarkable extent.
+For example, between 1990 and 1996, spreads on Italian and Spanish government bonds, relative to German bonds of comparable maturity, averaged about 430 and 350 basis points, respectively.
+Today the spreads paid by these governments are quite small, in the vicinity of 15 basis points over the German equivalent for Italy and essentially zero for Spain.9 Clearly, these governments have benefited substantially by the reduction in inflation risk and exchange rate risk provided by the common currency.10 The addition of some sovereign default risk (now relevant because individual countries are no longer able to inflate away their debts) has evidently not offset these benefits, perhaps because of the effects of the Stability and Growth Pact.
+Beyond improving the fundamentals of government finances, the common currency has also increased the depth and breadth of government bond markets.
+In particular, the development of a large market in euro-denominated government debt and the resulting expansion in cross-border holdings of debt has improved market liquidity and opportunities for risk sharing.
+For example, in their excellent survey of developments in European financial markets since the introduction of the euro, Gabriele Galati and Kostas Tsatsaronis (2003, p. 174) note that nonresident holdings of French government bonds rose from about 15 percent at the end of 1997 to about 35 percent by 2002.
+Moreover, as of 2002, foreigners held three-quarters of Belgian government long-term bonds and 63 percent of Irish government debt.
+A broader investor clientele implies more potential bidders in primary markets and more transactions in secondary markets, improving liquidity.
+This broadening is the sense in which an international role for the euro, by which here I mean more internationalized European financial markets, seems to promise the greatest potential benefits.
+The European government bond market has been substantially strengthened by the adoption of the common currency, but it has not attained the liquidity of the U.S. Treasury market (and may never do so).
+Although aggregate issuance of euro-zone government debt is of the same order of magnitude as U.S. Treasury issues, there remains the fundamental difference that euro-zone debt is the debt of twelve sovereign entities, rather than one as in the United States.
+Naturally, the Stability and Growth Pact notwithstanding, the European Union accepts no collective responsibility for the debts of individual governments.
+Moreover, so far coordination of issuance schedules, the structure of issues, and other technical details has been limited.
+However, opportunities for further strengthening of the euro-zone government bond market appear to remain.
+For example, if the technical details can be worked out, one can imagine the issuance of securities backed by the obligations of multiple European governments.
+These securities could be made uniform by fixing the country shares of the underlying debt, or by stripping off country-specific default risks through such instruments as credit default swaps.
+Such securities would provide a benchmark yield curve, among other advantages.
+The benefits of the euro for government bond markets have carried over to corporate bond markets as well.
+Issuance of euro-denominated bonds by corporations took off soon after the introduction of the new currency.
+Although much of the boom no doubt reflected general macroeconomic conditions and other factors, potential access to a much larger base of investors willing to hold bonds in the common currency and resulting improvements in pricing and liquidity also played a role.
+Underwriting costs have also fallen, the result of both greater competition and the reduced costs of bringing issues to market (Santos and Tsatsaronis, 2003).
+The rapid development of Europe's corporate bond market, including a nascent high-yield market, should prove highly beneficial to European economic development.
+The benefits of the common currency for other types of securities markets have been more mixed thus far, but the potential is there.
+The European interbank market was strengthened substantially in tandem with the creation of the Eurosystem of central banks.
+In contrast, markets for securities lending (repo markets) remain somewhat fragmented, and commercial paper markets are underdeveloped.
+European stock markets, which in any case account for a smaller share of financing activity than in the United States, have not been successfully harmonized thus far, and cross-border equity investments may still involve high transaction costs (McAndrews and Stefanadis, 2002).
+However, it is widely observed that the perspectives and strategies of European equity analysts have changed, toward a de-emphasis on country-specific factors and greater attention to industry and company factors in the valuation of stocks (Adjaouté and Danthine, 2002).
+This change indicates that financial market participants see increased financial and economic integration in Europe as an irreversible trend.
+Efforts to adhere to the Lamfalussy Process, which aims to streamline the harmonization process for financial market legislation and regulation, should hasten the integration of European securities markets.
+European finance has traditionally been bank-centered.
+What will happen to banks in the new regime?
+Banks may lose some loan customers to the growing securities markets, but they will also benefit from increased access to finance, both in the interbank market and in the corporate bond market.
+Indeed, the banks were large players in the early boom in the issuance of euro-denominated corporate bonds, accounting for more than half the new issues thus far (Galati and Tsatsaronis, 2003, p. 181).
+On the lending side, banks' local knowledge and specialized services should allow them to retain an important market share.
+In a study that illustrated the importance of banks' knowledge of local conditions, Allen Berger and David Smith (2003) found that European affiliates of multinational corporations strongly prefer working with a bank in the country of their operation, rather than a bank from the country of the multinational's corporate headquarters.
+Moreover, having chosen a bank in the country of operations, the affiliates were more likely to select a bank with local or regional operations than a bank with global reach.
+These results are consistent with the view that bankers' competitive advantage relative to security markets is their knowledge of local firms, markets, and economic conditions and their ability to establish long-term relationships with local customers.
+Perhaps the European banking situation will begin to look more like that of the United States, where borrowing through securities issuance and banking co-exist, providing different services and meeting the needs of different clienteles.
+Moreover, the composition of banks may settle into the pattern of the United States, where very large banks with a global reach and the capacity to engineer highly complex transactions and community banks that specialize in lending to the local area have both found room to flourish.
+However banking may evolve in Europe, increased financial integration that makes local banking markets more "contestable" will likely improve the efficiency with which local banking services are delivered.
+My remarks this evening have only scratched the surface of a large topic, but it seems safe to conclude that the common currency has had and will continue to have large benefits for European finance.
+At a minimum, the single currency eliminates exchange-rate risks that exist when securities are denominated in different currencies.
+The single unit of account seems also likely to reduce transaction costs and eliminate a portion of the fixed costs involved in issuing similar securities in multiple currencies.
+These factors are already serving to moderate home bias in borrowing and lending, leading to larger, more-liquid, and more-diversified financial markets.
+Clearly, a great deal more work needs to be done, both by the government and by the private sector, to realize the full benefits of the common currency for European finance.
+Beyond the markets that I have mentioned as needing special attention, like equity markets, further harmonization is also required to coordinate national systems for payments, clearing, and settlement.

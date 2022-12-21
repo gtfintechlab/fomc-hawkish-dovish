@@ -1,0 +1,148 @@
+When I was a boy in South Carolina, my parents always advised me never to discuss religion or politics in public, those being subjects on which everyone has a strong opinion but on which no one can ever be proved wrong.
+I have always followed their advice on those particular topics, but I am afraid that economic forecasting may be just about as bad on both counts.
+Everyone has strong views on where the economy is heading, but when the time finally comes to compare your forecast with the data, the world has changed in eleven unpredictable ways that no one can blame you for failing to foresee--that is, if they remember what you forecast in the first place.
+Unfortunately, as helping to make monetary policy is part of my current job, I cannot avoid forming some opinions about the outlook for the U.S. and world economies.
+Today I will give you a few of my impressions about what seems likely to unfold in the next year to eighteen months, as well as what I see as the most important risks to that forecast.
+I will talk first about output growth and unemployment, and then about inflation, and I will conclude by discussing some implications for monetary policy.
+Both my prepared remarks and the comments I may make in the discussion later should be clearly understood as reflecting only my own views and not those of my colleagues on the Federal Open Market Committee (FOMC) or the Board of Governors of the Federal Reserve System.
+The Forecast through 2004: Growth and Unemployment To provide some context for this talk, I consulted the prognostications (in August releases) of some prominent private-sector forecasters and surveys of forecasters, namely Global Insight (formerly DRI-WEFA), the Blue Chip Survey, Macroeconomic Advisers, and the Survey of Professional Forecasters (see table 1).
+As you will see, I agree with several aspects of these well-regarded forecasts but (perhaps at my peril) disagree with, or at least have reservations about, some others.
+Beginning with the real side of the economy, we see in table 1 substantial agreement among the private-sector forecasters about the prospects for real GDP growth and the unemployment rate through the end of 2004.
+All the forecasters expect output growth during the second half of this year to be strong, in the general range of 3.7 to 4.2 percent.
+Despite the projections of high growth rates, the private forecasters expect the unemployment rate to remain at about the current rate of 6.2 percent through the end of this year.
+The private-sector forecasters also see strong economic growth continuing, although generally not accelerating, in 2004.
+Measuring growth as 2004:Q4 over 2003:Q4, Global Insight forecasts 4.1 percent growth for real GDP in 2004, Blue Chip calls for 3.7 percent growth, Macroeconomic Advisers sees 4.0 percent growth, and the Survey of Professional Forecasters looks for 3.8 percent growth.
+Notably, according to the professionals, even this performance is not expected to decrease the unemployment rate by very much.
+Only Macroeconomic Advisers sees unemployment in the fourth quarter of 2004 falling as low as 5.4 percent; the rest foresee the unemployment rate remaining at 5.8 or 5.9 percent during the last quarter of next year.
+These projections for the paths of growth and unemployment are broadly consistent with forecasts made by the members of the FOMC prior to our June 24-25 meeting and released shortly thereafter as part of the Federal Reserve's semiannual Monetary Policy Report to the Congress.
+The FOMC members' forecasts for real GDP for 2003 were for growth over the entire year; they were not broken down by quarter.
+However, given information about the first half available at the time the Committee's forecasts were made, the central-tendency FOMC forecast for real GDP growth for the year as a whole almost certainly implies a noticeable pickup in the pace of expansion in the second half of 2003.
+For 2004, the central-tendency FOMC projection for real GDP growth as of the end of June covered the range of 3-3/4 percent to 4-3/4 percent, a forecast more optimistic than even current private-sector forecasts of growth for next year and suggestive of an acceleration in real activity from the second half of 2003 to 2004.
+The central tendency of FOMC forecasts for the unemployment rate, as of the end of this past June, called for the rate to fall to between 6 and 6-1/4 percent in the fourth quarter of this year and to decline to between 5-1/2 and 6 percent in the fourth quarter of 2004.
+Again, these values are broadly consistent with the more recent private-sector forecasts.
+In particular, the private-sector forecasters and FOMC members evidently agree that strong GDP growth will only gradually erode the accumulated slack in the job market.
+Simple arithmetic tells us that all the forecasters are expecting much of the projected increase in output to be met by ongoing increases in labor productivity, rather than by substantial new hiring.
+This point is a crucial one, to which I will return later when discussing inflation projections.
+I should tip my hand at this point and say that I personally find the real growth and unemployment forecasts just described to be broadly reasonable, though there are important risks.
+In particular, I have been of the view for quite a while that acceleration of growth to 4 percent or better in 2004 is plausible; and I agree also that the decline in the unemployment rate, though steady, is likely to be slow.
+Why do I believe that there are grounds for optimism about economic growth, even as more caution is warranted regarding unemployment?
+The consumer plays a central role as always, and recent news on retail sales (including automobile sales) and housing starts and sales, among other data, suggests that household spending continues to hold up well, as it has throughout the past three years.
+Tax cuts, signs of stabilization in the job market, and rising stock prices are among the factors that should keep the consumer in the game as the recovery proceeds.
+What makes the situation today feel particularly encouraging, however, is that we may finally be seeing some signs of a revival in business investment.
+Because I see the strength and sustainability of that revival as the key to the forecast, I would like to discuss it in a bit more detail.
+In a speech I gave to the Forecasters' Club last April (Bernanke, 2003a), entitled "Will Business Investment Bounce Back?," I pointed out that the recession that began in March 2001 is distinctive in being one of the few business-led--as opposed to household-led--recessions of the post-World War II period.
+In particular, a sharp decline in business investment spending that began in the second half of 2000 was the proximate cause of the recession.
+By the same token, I argued in my earlier speech--making a point that many others have made as well--that a balanced recovery would be impossible without a sustained revival in capital expenditures.
+My earlier speech surveyed the prospects for various types of investment spending but emphasized the importance for the strength of the investment recovery of CEOs' views on prospective returns to capital expenditure and the future of the economy--their animal spirits, if you will.
+With a little more than four additional months' worth of data, what can we say today about the recovery of investment spending?
+As I noted in April, the best prospects for an investment rebound in the corporate sector lie in the equipment and software sector, particularly in high-tech equipment.
+Over the summer we have seen indications of at least a moderate pickup in this sector.
+Notably, according to the preliminary GDP estimates, real investment in equipment and software rose at an annual rate of 8 percent in the second quarter.
+Real expenditures for high-tech equipment advanced 34 percent (at an annual rate) in the second quarter, a significant step up from the first quarter, and real spending on software rose at a 9 percent rate.
+Perhaps managers have finally decided that they can't put off that IT upgrade any longer.
+Even spending on communications equipment was strong in the second quarter.
+Investment in non-high-tech equipment, including both transportation and general machinery, has also improved.
+In recent months, indicators such as orders data and indexes based on surveys of managers' plans for capital expenditures have strengthened, on balance, suggesting that investment in equipment and software is likely to continue to rise in the near term.
+By contrast, as I noted in my earlier speech and others have observed, investment in nonresidential structures is not a promising source of growth.
+The strength in this category in the second quarter was due importantly to an increase in spending in the drilling and mining sector, tied primarily to high natural gas prices.
+The outlook for buildings, particularly office and industrial buildings, remains weak, as high vacancy rates and low utilization rates persist.
+However, for better or worse, investment in nonresidential structures has become such a small part of aggregate spending on average that recovery in this sector is not a make-or-break factor for the overall economy.
+Looking beyond the very near term, I see some grounds for optimism that the revival in business investment will persist, laying the foundation for continuing rapid expansion in 2004.
+First, the strong growth in demand already in train should provide incentives to corporate managers to expand productive capacity, particularly given the efforts that they have already made to reduce costs and increase the efficiency of production within existing plants.
+In that regard, I think it is worth pointing out that firms have been meeting demand recently not only by getting greater productivity out of their existing capital and labor resources but also by running down inventory stocks relative to sales.
+If the past is a guide, we may soon see a quarter or two of inventory building that provides a powerful boost to the growth rate of output.
+Second, financial conditions remain favorable to business investment.
+Profits are rising smartly, and corporations have considerably improved their balance sheets.
+Although corporate bond rates have risen in the past few months, they remain low by historical standards, and spreads have continued to come down.
+Banks are well capitalized, profitable, and eager to lend to business borrowers.
+In short, both internal funding and external finance for investment are available.
+Third, tax provisions passed in 2001 and 2003 lower the effective cost of investing in new equipment.
+Finally, as best as we can tell, expectations and attitudes in the business community--as reflected in surveys, information from business contacts, analysts' expectations of long-term earnings growth, and the like--have brightened somewhat.
+When all these factors are taken together, it seems a reasonable bet that the revival in capital expenditures will continue and will strengthen sufficiently to support the optimistic growth forecasts that I discussed earlier.
+As the prospective investment revival is central to the optimistic growth forecast, however, it is also the locus of the most critical risks to the forecast.
+For some time now, CEOs have displayed a greater reluctance to invest and hire than standard econometric models predict.
+Commentators have given this negative residual many names: the workout of post-bubble excesses, geopolitical uncertainty, the reaction to the accounting scandals of 2002, and self-fulfilling pessimism.
+Personally, I admit that I don't fully understand the sources of this conservative behavior on the part of company management, and for that reason, I cannot be entirely confident that caution will not continue to predominate in the executive suite.
+A weaker investment trajectory reflecting continued CEO caution would probably not derail the current recovery, but it would certainly put the more-optimistic growth projections for 2004 out of reach and would substantially slow the absorption of unemployed resources.
+I have not mentioned the trade sector.
+Net exports have been a drag on U.S. growth; indeed, in the second quarter, net exports deducted (in an arithmetic sense) a hefty 1-1/2 percentage points from U.S. real GDP growth.
+My sense is that the optimistic growth forecasts for the United States for the next year do not rely on anything more than a modest increase in growth in the rest of the world.
+Of course, to the extent that unanticipated strength abroad materializes and raises demand for U.S. exports, the outlook here will improve further.
+Finally, a word on long-term interest rates, which as you know have been rising.
+At current levels, bond yields do not pose a major risk to continuing strength in housing or the recovery in corporate investment, in my view, though they may well end the boom in mortgage refinancing activity.
+Since those consumers who had the most to gain from refinancing have mostly already done so, a slowdown in refinancing is unlikely to have a significant effect on household spending.
+The Forecast through 2004: Inflation I turn now from the forecast for real activity to the outlook for inflation.
+As before, I will both compare the various published projections and talk about some risks to the forecast.
+Inflation has been quite low, of course, and the private-sector forecasters expect inflation to remain low for the rest of this year and next.
+As table 1 shows, forecasts for CPI inflation for the second half of 2003 (the average of third- and fourth-quarter inflation forecasts, at an annual rate) by Global Insight, Blue Chip, Macroeconomic Advisers, and the Survey of Professional Forecasters are tightly clustered in a range of approximately 1-1/4 percent to 1-1/2 percent.
+(I will not comment here on forecasts for inflation as measured by the GDP price index, also shown in table 1, other than to say, as you can see for yourselves, that they are also quite low.)
+The same four sources report CPI inflation forecasts for 2004, fourth quarter over fourth quarter, of between 1-1/4 and 2 percent.
+For monetary policy purposes, one is often interested in measures of underlying inflation.
+One such measure is so-called core CPI inflation, defined as the rate of change of the consumer price index excluding food and energy prices, which tend to be relatively volatile.
+I was able to find a core CPI inflation forecast only for Macroeconomic Advisers.
+Macroeconomic Advisers expects core CPI inflation for 2004 to be 1.5 percent, compared with an expectation of 1.3 percent for overall CPI inflation.
+If Macroeconomic Advisers is representative, then the distinction between core and overall CPI inflation is not of first-order importance for next year's inflation forecast.
+As best as I can tell, the same should be roughly true for inflation forecasts for the second half of 2003, though not for 2003 as a whole (the third column of the table) because of the sharp increases in energy prices in the first quarter of this year.
+For comparison with the private-sector forecasts, the FOMC's central-tendency forecast at the end of June was that inflation in 2004 will range between 1 and 1-1/2 percent, as measured by the personal consumption expenditures (PCE) chain-type price index.
+Because of differences in the construction of this index and the CPI, an upward adjustment of 0.2 to 0.4 percentage point is probably necessary to make PCE inflation comparable to CPI inflation.
+Hence the FOMC central-tendency forecast for inflation for 2004 is also broadly consistent with the private-sector estimates.
+One can try to assess the validity of these forecasts in two ways.
+For the short run, a couple of quarters, looking in some detail at the components of price indexes, to try to isolate trends and special factors, is useful.
+For the longer run, there is no substitute for thinking hard about the underlying economic factors influencing inflation.
+Consideration of the details of the price indexes suggests that the rather marked deceleration we recently saw in core inflation measures has come to a halt for now, and indeed, that core inflation may tick up a few tenths during the remainder of 2003.
+The reasons are largely technical.
+Probably the most important factor, quantitatively speaking, has to do with the way that the Bureau of Labor Statistics (BLS) calculates owners' equivalent rent (OER), an estimate of the cost of living in one's own home.
+Data on market rental rates for homes and apartments are important inputs into the calculation of OER.
+Because rental leases often include landlord-provided utilities, the BLS subtracts estimates of the costs of utilities from market quotes of gross rents to obtain estimates of rents net of utilities.
+However, to the extent that, in the short run, landlords do not fully pass on changes in utility costs to renters, the BLS adjustment is an over-correction.
+In particular, in periods when energy prices and hence utility costs are rising, as in the first half of 2003, the BLS procedure may overstate the deceleration in rents net of utilities and hence in owners' equivalent rent.
+As a result, on this particular count, the slowdown in CPI inflation may have been slightly overstated in the first half of 2003.
+If so, the stabilization in residential energy costs in the second half of 2003 should unwind this effect and likely add a bit to measured inflation going forward.
+Another example of a special factor affecting measured inflation arises from the fiscal problems of state and local governments: To cover rising budget deficits, a number of public university systems have announced large tuition price hikes for the upcoming academic year.
+These tuition hikes will naturally affect the measured cost of living.
+As one-time events that are more fiscal than monetary in nature, however, I do not consider them particularly important from a monetary policy point of view.
+A similar effect was seen in the increase in the July CPI number, which was partly attributable to a rise in tobacco excise taxes imposed by a number of states.
+Other examples arise because of lags in data collection: For example, telephone rates are incorporated into the CPI only with some lag, so that rate increases that occurred earlier this year will not be reflected in the index for a few months yet.
+I alert you to some of these special cases only to illustrate why the Federal Reserve does not react to month-to-month changes in inflation data, or any other series for that matter.
+For assessing the inflation forecast for the longer run, in this case the year 2004, one has to turn to the underlying economics.
+I do not disagree with the general tenor of the private-sector forecasts and the FOMC projections.
+It seems plausible that the combination of a strengthening recovery, well-anchored inflation expectations, and a monetary authority strongly committed to stabilizing inflation will serve to keep inflation in the projected range.
+However, in my view, the most likely outcomes are in the lower part of that range, and I believe that the risks remain to the downside.
+The reason is that ongoing productivity growth, together with stepped-up capital investment, may enable producers to meet expanding demand without substantially increased hiring in the near term, with the result that labor markets remain soft.
+Indeed, as I have noted, several of the private-sector forecasters project unemployment rates still near 6 percent in the fourth quarter of 2004, despite real growth approaching 4 percent for the second half of 2003 and all of 2004.
+By a standard textbook calculation (Bernanke, 2003b), this amount of slack should lead to additional disinflation of a few tenths of a percentage point or so by the end of 2004.
+So by my reckoning, inflation in 2004 might well be a bit lower than in the second half of 2003, not higher as the majority of private-sector forecasters have projected.
+Of course, if real growth were to disappoint--for example, because the investment rebound in 2004 was less strong than is hoped for and expected--the disinflationary pressures would be all the stronger.
+Caveats abound, of course.
+As I have already noted, for various reasons including some special technical factors, core CPI inflation is likely to tick up during the remainder of 2003.
+It is always possible that employment may rebound more quickly than we now expect.
+And, as history tells us, inflation forecasts only two to five quarters out have large standard errors, so that a wide range of inflation outcomes are possible for 2004.
+Nevertheless, for now it seems to me that, with inflation already low, disinflation risk will remain a concern for some time.
+Implications for Monetary Policy Let me turn then to the implications for monetary policy.
+Given these forecasts, how should the Federal Reserve be expected to respond?
+Since May 6, the Federal Open Market Committee has assessed the risks separately for the two main components of its mandate, economic growth and inflation.
+According to the statement that followed our August meeting, the FOMC views the risks to sustainable growth as being roughly balanced.
+However the risks to inflation, according to the statement, are tilted downward, with the probability of an unwelcome fall in inflation outweighing the probability of an increase in inflation.
+As I see it, the persistence of economic slack even as growth picks up makes it likely that inflation will remain low and in some scenarios may fall still further.
+As the statement concluded, "the Committee believes that policy accommodation can be maintained for a considerable period."
+How long is "a considerable period"?
+The right answer, I think, is that "a considerable period" is not a fixed stretch of time but depends on the evolution of the economy.
+In particular, in my view, the Federal Open Market Committee has little reason to undertake significant tightening so long as inflation remains low and promises to remain subdued, as it does today.
+Let me elaborate.
+In the past, significantly tighter monetary policy often came shortly after the beginning of a cyclical pickup in economic growth.
+When Fed policymakers responded that way, they did so as the consequence of living in a regime in which inflation was already above the desired range, and the rapid acceleration of activity threatened to press against capacity and raise inflation still higher.
+Then the risk to satisfactory economic performance was that inflation would rise too high, and policy was forced to preempt that risk.
+Today inflation is at the lower end of the range consistent with optimum economic performance, and soft labor markets and excess capacity create a further downward risk to inflation.
+As a result, I believe that increased economic growth may not elicit the same response from the Fed that it has sometimes elicited in the past.
+Besides the fact that inflation is currently at the low end of the desirable range, there is a second reason why the Fed may not respond as it has in the past to a pickup in economic growth.
+As you know, we have seen in the past few years a truly remarkable increase in labor productivity, sufficient to permit growth in output even as employment has fallen.
+Output growth arising from higher productivity is not typically accompanied by increased inflationary pressures.
+Indeed, I would argue that, in situations of considerable slack, growth that is generated solely by increased productivity, and that is unaccompanied by substantial employment growth, may possibly require monetary ease, rather than monetary tightening, in the short run.
+I should emphasize that, though current circumstances should permit the Federal Reserve to accommodate a considerable period of above-trend growth, this does not in my view imply an increased tolerance for inflation.
+The FOMC has made clear in its new statement, as introduced after the May 6 meeting, that it has an acceptable range for inflation, consistent with its mandate for maintaining price stability.
+The current policy of ease results from concerns that inflation will fall below that acceptable range.
+But at some point in the future, disinflationary forces will abate, and the risks to inflation may turn upwards.
+At that point I expect that the FOMC will act forcefully to ensure that inflation remains low and stable.
+Let me close by restating and summarizing the three main conclusions of these forecasts for monetary policy.
+First, a "considerable period of time" is not a fixed period of time but depends on the evolution of the economy.
+In my view, the Fed has no reason to undertake a significant tightening of policy so long as inflation is low and inflation pressures remain subdued.

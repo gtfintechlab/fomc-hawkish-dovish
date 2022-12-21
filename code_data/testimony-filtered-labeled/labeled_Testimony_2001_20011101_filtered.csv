@@ -1,6 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,growth in the credit card industry among the notable changes in consumer financial services over the past few decades has been the growth in the use of credit cards.,LABEL_1,0.9219043850898743
-1,"a general decline in credit card interest rates from mid-1991 is the result of many factors, including a sharp drop in card issuers' cost of funds and greater competition on this aspect of credit card pricing.",LABEL_0,0.9906291961669922
-2,"today, credit card interest rates average about 14.6 percent.",LABEL_1,0.968788743019104
-3,"apart from the information we have about interest rates, we have little systematic information about other aspects of credit card pricing.",LABEL_2,0.9988958239555359
-4,"as interest rates and other account features became more complex, and the cost disclosures became longer, some card issuers have chosen to use reduced type sizes instead of allocating additional space for the disclosures.",LABEL_1,0.9737705588340759

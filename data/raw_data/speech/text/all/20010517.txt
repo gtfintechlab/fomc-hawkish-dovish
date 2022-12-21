@@ -1,0 +1,117 @@
+The Risk Management Association has been a significant source of expertise and insight for the banking agencies.
+The RMA’s comments on regulatory and supervisory proposals have uniformly been well thought out and responsible.
+Your meetings with staff and your cooperation on special surveys to help flesh out proposals have been exemplary, if not essential, especially on recent efforts to modify the Basel Capital Accord.
+I should, of course, stop heaping praise on the RMA lest its bank membership begin to believe that the organization shares the blame with us for any regulation or proposal that is not to their liking.
+Nonetheless, thank you for your help, and I know we can continue to rely on you for both candor and empirical insights, insights along the lines of your conference theme: the enterprise perspective on risk management.
+I suspect that the recently proposed changes to the Basel accord will affect your working lives rather dramatically.
+The proposals touch upon many aspects of banking and many different kinds of risk, but much of the focus is on credit risk, and RMA’s roots are firmly in credit risk.
+Many of you will be key players in your organization’s response to, and comments on, the new accord--Basel II.
+As background to your efforts, I would like to review how we got where we are today and offer some views of the way forward.
+Basel II is a response to changes flowing from the increasing sophistication of risk measurement and management, but the shaping of the response has motivations that have become more multifaceted over time.
+It is fair to say that the supervisory community initially was motivated to move toward Basel II by the erosion of the Basel I rules through capital arbitrage.
+Simply put, “capital arbitrage” refers to strategies that reduce a bank’s regulatory capital requirements without a commensurate reduction in the bank’s risk exposure.
+One example of such arbitrage is the sale or other shift off of the balance sheet of assets with economic capital allocations below regulatory capital requirements and the retention of those for which regulatory requirements are less than the economic capital burden.
+Aggregate regulatory capital thus ends up being lower than the economic risks require; and although regulatory capital ratios rise, they are, in effect, merely meaningless statistical artifacts.
+The fear of capital arbitrage got us moving, and the new risk measurement technologies offered a way to make capital regulation more risk-sensitive.
+Thus, a significant aspect of Basel II is mending what has been broken.
+But, as we began to shape the new accord, we became ever more convinced that encouraging the adoption of advanced risk management is enormously desirable in its own right.
+Internally, good risk measurement is crucial to the control of risk postures and to choices about capitalization.
+Until the new technologies came along, and still today at many banks, choices about portfolio risk were the outcome of internal debates and struggles between those wishing to push the boundaries of prudence in search of short-term volume and those who saw the risks clearly.
+Traditionally, the right balance was not always achieved because it was hard to distinguish the boundary between reasonable and excessive risk.
+This is unfortunate because a major mistake in just one business line, such as commercial real estate, can be fatal.
+The new risk-management technologies offer the promise of a common system of risk measurement that will support more rational, efficient, reliable internal control systems and choices about risk.
+Moreover, under Basel II, the practices that a strong and rigorous bank management would use on its own will be used to guide regulatory minimums.
+Basel II seeks to eliminate the practice of keeping, as it were, two sets of books, by requiring that the parameters used to determine regulatory capital be the same as those that management uses to run the bank.
+To be sure, the supervisors will have to be comfortable with the internal ratings systems and other techniques used by banks to measure risk exposures and potential losses.
+But once verified--and periodically tested--bank managers and regulators will be using the same concepts and the same techniques.
+And as the measuring techniques improve, many of them may be incorporated in bank management practices--through improved estimates of loss characteristics--without changing the regulatory structure.
+Change and innovation will improve the process, rather than undermine it.
+Improved risk measurement also promises better-informed investors and greater discipline.
+If good risk measurement can improve internal discipline, then disclosing internal risk measures will help the market to understand banks’ risk postures and to react rationally.
+It is important to understand that improved market discipline does not mean uniformly harsher treatment of banks by the market.
+Bank stocks tend to trade at lower multiples of earnings than the equities of many other industries, and one conventional explanation for this is that banks are quite opaque.
+It has become increasingly clear that investors cannot easily know the level of risk they are acquiring with any particular bank equity position.
+When it comes to assessing share values, uncertainty can often breed doubt: It seems reasonable to expect, as a long-run proposition, that more-accurate market valuations of bank equities will follow better disclosure.
+The three pillars discussed in the Basel consultative documents flow directly from this multifaceted view, and the rank-ordering of their importance in the long run is not indicated by the number of pages devoted to each in the consultative documents.
+In the long run, the supervision pillar remains critical, but the supervision must be even more risk-focused and increasingly concerned with validating systems.
+Line supervisors will evaluate the quality of risk management and examine the adequacy of the risk measures.
+Without good supervision, the other pillars cannot stand.
+For example, accurate internal risk-based (IRB) inputs are surely crucial to obtaining reasonably accurate regulatory measures of capital adequacy.
+And the market will not believe or use risk disclosures unless it believes that the underlying risk measures, like ratings and the probabilities of default, have been validated.
+Thus, supervisors must validate the risk measures to support both capital regulation and market discipline.
+Market discipline will become increasingly important.
+Given informative and comparable disclosures of internal risk measures, the market will react more quickly and appropriately than any regulator to variations in risk postures, and such responses will help banks strike the right balance between risk and reward.
+Formal capital regulation is the most familiar of the three pillars, and the one to which the most pages are devoted--no doubt because it, by definition, contains more “rules” that must be explained.
+Capital ratios will serve as a trigger for corrective actions for banks that get into trouble.
+Projecting ahead many years, better risk management may mean that troubled banks will be far fewer than they have been historically.
+Ideally, the three pillars will work in an integrated way to strengthen banking systems.
+Nonetheless, during the transition to a working Basel II, we may have to lean on capital regulation more than we hope to in the long run.
+In navigating that transition, our overarching goal should be to advance the practice of risk management and encourage its wider adoption.
+And we all should accept that a lot of work remains both for banks and for supervisors.
+Let me say that again for emphasis: Our goal should be to advance the practice of risk management and encourage its wider adoption, and we have a lot of work to do.
+Partly in pursuit of that goal, the qualification standards have been set very high for the Advanced IRB approach and, in truth although perhaps not in public perception, for the Foundation IRB approach as well.
+The standards are an amalgamation of the best practices of many banks.
+No one bank follows all of them and, hence, at this moment, no bank meets all the IRB standards, especially for the advanced approach.
+Let me also say that again: At this moment and with current systems, no bank in the United States likely would qualify to use the Advanced IRB approach.
+Two considerations led the regulatory community to set standards at the cutting edge.
+First, the IRB approach gives primacy to internal risk measures in setting regulatory capital requirements.
+The regulators need to be comfortable that the risk measures are reasonably accurate and consistent, and the draft standards represent our perception of the practices that will make us comfortable.
+The standards are tough because the demands on the risk measures and the incentive pressures on the underlying systems will be large.
+Moreover, to the extent we are comfortable that a bank meets the standards, other aspects of supervision can be less intrusive.
+A comfortable supervisor is a less intrusive supervisor!
+Second, we believe the standards represent precepts for good risk management, worthy in their own right even in the absence of an IRB approach to regulatory capital.
+By making them a requirement for the IRB approaches, we hope to encourage their wider adoption.
+It is our hope and expectation that the large, complex banking organizations (LCBOs) will continue to enhance their risk management practices so that they might be prepared to adopt the advanced IRB approach.
+Other banks that can meet the standards are also welcome to use the advanced approach.
+But we do not plan to relax the standards to ensure that all the LCBOs qualify.
+LCBOs that believe they will get a free pass into Advanced IRB simply by virtue of being large and by promising to someday improve will be, I think, disappointed.
+Of course, there is a tension between setting high standards and also expecting wide adoption of the advanced approach by LCBOs.
+Is there a danger that the U.S. banking industry will simply stick with the standardized approach and turn a cold shoulder to IRB?
+Perhaps, but I believe that the market will help here.
+If any LCBO adopts the advanced approach--and I believe some intend to--it seems likely the market will pressure all the large banks to adopt it or be judged as having something to hide or having standards not quite up to snuff.
+There will also be direct economic incentives to adopt IRB approaches.
+The effective average risk weight for a bank as a whole should decline with the more sophisticated approaches depending on the extent of capital arbitrage already accomplished.
+If true, such banks would achieve lower total regulatory capital charges and, consequently, a higher reported risk-weighted capital ratio.
+At the same time, given the different risk profiles at individual banks, capital requirements almost certainly would vary more widely under the new risk-based capital ratios than under today's measure.
+However, banks would then presumably respond to changes in their risk-based capital ratios.
+For example, a bank with a relatively low risk portfolio would find that its risk-weighted capital ratio increased because its risk-weighted exposures had declined.
+It would, as a result, presumably reduce its capital, or increase its leverage, or even increase its risk exposure.
+A bank with a higher level of risk-weighted exposures resulting in diminished risk-based capital ratios would presumably do the opposite: raise more capital, or reduce its leverage, or reduce its risk exposures.
+At the end of this adjustment process, we might again--for either competitive reasons or because of the incentives from the prompt-corrective-action structure--have a relatively tight configuration of risk-weighted capital ratios, especially at LCBOs, but riskier banks would be holding more absolute capital to support their risks.
+Indeed, that is the whole purpose of the exercise.
+In contemplating your own bank’s effort to prepare for adoption of the IRB approach, I would suggest that a pivotal step is warehousing your own institution’s credit-loss experience.
+To be candid, the scarcity of data on losses has been a major stumbling block in the development of the IRB approach.
+Let me urge all of you to follow the example of some of you and move quickly in this direction.
+Data storage is extraordinarily cheap these days, but we all know that extracting and organizing the right data from existing systems is very expensive and often painful.
+Nonetheless, the contribution of better data to sound risk management will undoubtedly prove to be extremely valuable.
+As you develop your own plans, let me emphasize that supervisors will be looking for a committed and integrated response by IRB banks.
+Focusing IRB efforts in a compliance unit that seeks to meet the letter but not the spirit of the IRB standards will not be welcome.
+The details of what we will expect are, of course, still being developed.
+Based on our discussions with banks thus far, areas of special attention may include the breadth and depth of internal audit and loan review and the consistency and timeliness of internal ratings.
+The overall supervisory review process is likely to be familiar: verification of internal processes and procedures, coupled with some degree of transaction testing.
+The overarching goal will be to assess the effectiveness of a bank’s processes and systems in achieving sound risk management and adherence to IRB standards rather than to dictate the particular form that internal checks and balances must take.
+Supervisors will also carefully review the manner in which loss characteristics are estimated and the estimates themselves--such as the probabilities of default, the losses given default, and the exposures at default--that are provided by IRB banks.
+This is an area where supervisors have not tread very often and with many open issues.
+The issues include the suitability of internal and external data sources, the appropriate historical period to use in producing estimates, and the manner in which historical data and loss estimates should be linked to the bank’s current exposures.
+These and other issues will be challenging and will rightly occupy much of our attention over the coming months and years.
+In this context, the industry and supervisors must work together to develop and use reasonable standards for IRB quantification.
+Neither we nor banks can afford a “race to the bottom” in this critical area.
+The expertise of the RMA will be particularly sought and appreciated.
+Supervisors obviously have a lot of work to do.
+We are at the very beginning of efforts to train our staff to understand all of the issues raised by Basel II and to make sound judgments about banks’ adherence to the standards.
+I hope you will be patient with our examiners as they come up to speed, just as we intend to be patient with you.
+And you should not interpret my earlier remarks as a signal that we intend to be very inflexible.
+We recognize that many systems, methods, and organizational forms can satisfy the spirit of the IRB standard, and that what is appropriate for one bank may not be appropriate for another.
+We expect and welcome variety, in part because that is necessary to support further innovation.
+And innovation is absolutely necessary.
+Indeed, many technical issues are very unsettled for all of us and must be worked out during the next few years so that standards can be applied with reasonable consistency.
+I know that many of you are especially concerned about the disclosure requirements because of the danger that the market may be misled by inconsistencies across banks in the basis of the numbers that are disclosed.
+Partly, it is the supervisor’s job to promote consistency by ensuring that the IRB inputs are comparable across banks.
+To ensure this, we all must strengthen our current understanding.
+I hope banks and regulators can work together on these problems, as we have so often in the past.
+The Office of the Comptroller of the Currency and the Federal Reserve have begun a series of pilot reviews of a few banks to get a more up-to-date understanding of how practices and standards are changing and how they relate to the proposals in train.
+Based on those reviews and banker responses, we then must develop examination practices, not to mention retrain and develop staff.
+And of course the regulators must finish the proposal.
+We must carefully review your comments, evaluations, and suggestions for improvements to the Bank for International Settlements’ consultative papers, and then make the necessary modifications.
+The proposals in several areas--such as credit cards and commercial mortgage finance--still require fleshing out.
+Basel II as a framework and a concept is nearly finished, but its application will be in a constant state of flux--from the inception onward--as both banks and supervisors improve their procedures and the applications of those procedures.

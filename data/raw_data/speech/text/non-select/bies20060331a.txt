@@ -1,0 +1,134 @@
+I want to discuss with you today some recent and ongoing regulatory issues that are likely of interest to this audience.
+These issues include efforts to enhance our regulatory capital regime, compliance risk management, and consumer protection.
+Proposed Revisions to Regulatory Capital RegimeFirst of all, you probably heard the good news yesterday that the Federal Reserve Board reviewed and in an open Board meeting approved a draft of the interagency notice of proposed rulemaking (NPR) on the Basel II capital framework.
+The draft NPR was made available on the Board's website as well as some statements made at the public meeting.
+The final NPR is expected to be issued in the Federal Register once all of the U.S. banking agencies have completed their review and approval processes, at which time it will then be "officially" out for comment.
+We are very pleased that the substantial time spent on this effort has culminated in this agreement among the agencies.
+We also recognize the significance of this development to the industry, the Congress, and others who have waited for greater specificity on the proposed revisions.
+We look forward to comments on the NPR; they will be an important contribution to the assessment of Basel II objectives and implementation of the framework.
+In some areas, the agencies are still grappling with what the correct approach is.
+For this reason, the NPR contains a number of requests for feedback on specific topics.
+All of this will help us as we continue to develop the framework.
+But before commenting further on the NPR and the U.S. Basel II process, I would like to reiterate our rationale for pursuing Basel II.
+Reasons for Pursuing Basel IIThe current Basel I capital framework, adopted nearly twenty years ago, has served us well, but has become increasingly inadequate for large, internationally active banks that are offering ever-more complex and sophisticated products and services.
+We need a revised capital framework for these large, internationally active banks, and we believe that Basel II is such a framework.
+One of the major improvements in Basel II is the closer linking of capital requirements and risk.
+The current Basel I measures are not very risk-sensitive and do not provide bankers, supervisors, or the marketplace with meaningful measures of risk at large, complex organizations.
+Under Basel I, it is possible for two banks with dramatically different risk profiles in their commercial loan portfolio to have the same regulatory capital requirement, and a bank's capital requirement does not reflect deterioration in asset quality.
+In addition, the balance-sheet focus of Basel I does not adequately capture risks of certain off-balance-sheet transactions and fee-based activity--for example, the operational risk embedded in many of the services from which many large U.S. institutions generate a good portion of their revenues.
+In addition to enhancing the meaningfulness of regulatory capital measures, Basel II should make the financial system safer by substantially improving risk management at banks.
+Basel II builds on the risk-management approaches of well-managed banks and creates incentives for banks to move toward leading risk-measurement and risk-management practices.
+By providing a consistent framework for all banks to use, supervisors will more readily be able to identify portfolios and banks whose risk management and risk levels are significantly different from the range seen in other banks.
+By communicating these differences to banks, management will be able to benchmark their risk assessments, models, and processes in a more detailed and regular manner.
+We have already seen some progress in risk management at many institutions in the United States and around the globe as a result of preparations for Basel II.
+The new framework is also much more consistent with the internal capital measures that institutions use to manage their business.
+Basel II can also provide supervisors with a more conceptually consistent and more transparent framework for assessing the link between risk and capital over time at our most complex institutions; identifying which institutions have deficiencies; and evaluating systemic risk in the banking system through credit cycles.
+Therefore, Basel II establishes a more coherent relationship between how supervisors assess regulatory capital and how they supervise the banks, enabling examiners to better evaluate whether banks are holding prudent capital levels, given their risk profiles, and to better understand differences among institutions.
+As a central bank and supervisor of banks, bank holdings companies, and financial holding companies, the Federal Reserve is committed to ensuring that the Basel II framework delivers a strong and risk-sensitive base of capital.
+That is why we support safeguards to ensure strong capital levels during the transition to Basel II, and will remain vigilant in monitoring Basel II's impact on an ongoing basis.
+This means that during and after the transition to Basel II, supervisors will rely upon ongoing, detailed analysis to continuously evaluate the results of the new framework and ensure prudent levels of capital.
+To be quite clear, the Federal Reserve believes that strong capital is critical to the health of our banking system and we believe that Basel II will help us continue to ensure that U.S. banks maintain capital levels that serve as an appropriate cushion against risk-taking.
+As we have mentioned before, we will continue to use existing prudential measures to complement Basel II.
+For example, the current leverage ratio requirement--a ratio of capital to total assets--will remain unchanged for all banks, whether or not they are subject to the Basel II framework.
+Also, supervisors will continue to enforce existing prompt-corrective-action rules in response to declines in capital.
+Both the leverage ratio and prompt-corrective-action are fully consistent with Basel II.
+Basel II NPRI will not try to summarize the NPR here today.
+We want all of you to read it and come to your own judgments.
+I would, however, like to highlight a few key points.
+As you know, the U.S. Basel II NPR is based on the 2004 framework issued by the Basel Committee and adheres to the main elements of that framework.
+But the U.S. agencies, just as their counterparts in other countries, have exercised national discretion and tailored the Basel II framework to fit the U.S. banking system and U.S. financial environment.
+For example, the U.S. agencies continue to propose that we implement only the advanced approaches of Basel II, namely the advanced internal-ratings-based approach (AIRB) for credit risk and the advanced measurement approaches (AMA) for operational risk.
+The U.S. agencies also included in the NPR a timetable and set of transition safeguards that are more rigorous than those set forth in the 2004 Basel II framework.
+For instance, the U.S. agencies are proposing three transition floors, below which minimum required capital under Basel II will not be permitted to fall, relative to the general risk-based capital rules.
+The first transition period would have a floor of 95 percent, the second 90 percent, and the third 85 percent.
+Part of the justification for implementing more rigorous floors stemmed from the lessons we learned from the fourth quantitative impact study (QIS4) conducted in the United States in 2004.
+As I have said before, QIS4 was not intended to reflect the ultimate impact of Basel II on U.S. institutions--particularly since it was not based on a complete proposal and bank inputs to QIS4 were not based on fully developed systems or full supervisory guidance.
+Rather, it was conducted on a "best-efforts basis" to provide a snapshot for gauging progress toward implementation of Basel II and to give the U.S. agencies a better sense of how to structure the NPR.
+One of the key areas in the NPR influenced by QIS4 pertains to banks' estimates of loss given default (LGD).
+QIS4 results showed that, in general, data histories were not long enough to capture weaker parts of the economic cycle, especially for LGDs, which must reflect downturn conditions.
+As a result, the agencies have provided a supervisory mapping function for those institutions unable to estimate downturn LGDs.
+The mapping function takes average LGDs and "stresses" them to generate an input to the capital calculation that is better suited to the Basel II formulas and produces a more appropriate capital requirement.
+The Federal Reserve believes this supervisory mapping function is a necessary component of Basel II because it appears difficult for some banks to produce internal estimates of LGD that are sufficient for risk-based capital purposes.
+I hope it is clear from the NPR and other statements made by the agencies that we are committed to ongoing, detailed analysis to ensure that U.S. implementation of Basel II achieves a strong and risk-sensitive base of minimum regulatory capital.
+We need to ensure that the items we identified as incomplete in QIS4 are appropriately addressed, and we also need to ensure that additional areas will not inadvertently lower capital levels.
+We intend to conduct thorough analysis of each institution's Basel II capital results and the impact on aggregate capital in the U.S. banking system at many stages along the way.
+In addition, the U.S. regulators are united in their belief that no bank should be permitted to operate under Basel II until it has proven itself ready to do so.
+There will be no "free pass" or "safe harbor" for any institution, regardless of portfolio composition or business activity.
+In other words, we plan to have very high standards for Basel II qualification requirements.
+For instance, a bank will be able to move from the parallel run to live capital calculations with a 95 percent floor only after its primary supervisor has given it permission to do so after having thoroughly evaluated its risk-management methodologies and its ability to calculate minimum regulatory capital using the new framework.
+Similarly, a bank will need approval to move to each of the other two floor levels.
+After the third floor period, a bank will be allowed to move to the full Basel II minimum capital calculation without floors upon a finding by the primary supervisor that it is ready, following a rigorous qualification process.
+Proposed Amendments to Basel IBefore I end my remarks about regulatory capital, I would like to offer some thoughts about ongoing efforts to revise existing regulatory capital rules, known as Basel I.
+First of all, we expect only one or two dozen banks to move to Basel II in the near term.
+The vast majority of U.S. banks would be able to continue operating safely and profitably under Basel I as amended through the rulemaking process.
+The Basel I framework has already been amended more than twenty-five times in response to changes in the banking environment and a better understanding of the risks of individual products and services.
+The agencies believe that now is another appropriate time to amend the Basel I rules.
+Concerns have been raised about potential competitive inequities between Basel II banks and Basel I banks.
+We take these concerns seriously and sought input from the industry and other interested parties in the Basel I ANPR process.
+In an effort to mitigate those concerns, regulators have proposed changes to enhance the risk sensitivity of U.S. Basel I rules and remain vigilant about potential competitive distortions that might be created by introducing Basel II.
+We are also mindful that amendments to Basel I should not be too complex or too burdensome for the multitude of smaller banks to which the revised rules will apply.
+Additionally, we recognize the need for full transparency about Basel II proposals and proposed Basel I amendments.
+For that reason, we expect to have overlapping comment periods for both the Basel II NPR and the proposed Basel I amendments.
+The intent is to allow banks and others to review both NPRs before both sets of rules are finalized.
+In that way, bankers from potential opt-in institutions and those not planning to move to Basel II can evaluate the potential impact of Basel II in light of the proposed Basel I amendments.
+In fact, we want all interested parties to compare, contrast, and comment on the two proposals in overlapping timeframes.
+At this point, we are still reviewing the comments received on the ANPR for amendments to Basel I.
+The comment period ended in mid-January.
+The agencies are developing their proposals for Basel I amendments, based on comments received, and hope to have a Basel I NPR by summer.
+Finally, I would like to underscore that both regulatory capital proposals being worked on by the U.S. agencies are just that--proposals.
+The U.S. agencies welcome any and all comments on these documents.
+Accordingly, our proposals could change based on comments received or new information gathered by the U.S. agencies.
+We know that at times this posture can be frustrating to some, but given the breadth and depth of these proposals, it is critical that we consider all viewpoints.
+This is especially true for the Basel II proposal, which represents a substantial and complex change in bank supervision and regulation.
+In this respect, I would like to echo the comments made earlier this month by Comptroller John Dugan: if the U.S. agencies see that Basel II is not accurately reflecting risk or is producing unacceptable capital levels, we will seek to make changes.
+Indeed, we expect to make some adjustments as we move forward, just as changes have been made to Basel I over the years to reflect changes in bank practice and improvements in supervision.
+Compliance-Risk ManagementWhile the release of the Basel II NPR is indeed a major step forward, it is of course not the only topic worth addressing here today.
+Accordingly, I would now like to turn to another area the financial sector and regulators are focused on: compliance-risk management.
+"Compliance-risk" can be defined as the risk of legal or regulatory sanctions, financial loss, or damage to an organization's reputation and franchise value.
+This type of risk may result when an organization fails to comply with the laws, regulations, or standards or codes of conduct that are applicable to its business activities and functions.
+The Federal Reserve expects each banking organization to have a compliance culture in place across the whole institution and an infrastructure that can identify and control the compliance risks it faces, along with appropriate rewards and penalties for business managers who oversee the compliance risk.
+To create appropriate compliance-risk controls, organizations must first understand risks across the entire entity.
+Managers should be expected to evaluate the risks and controls within their scope of authority at least annually.
+I also emphasize the need for the board of directors and senior management to ensure that staff members throughout their organizations understand the compliance objectives and each member's role in implementing the compliance program.
+An enterprise-wide compliance-risk management program should be dynamic and proactive, meaning it constantly assesses evolving risks when new business lines or activities are added or when existing activities are altered.
+To avoid having a program that operates on "autopilot," an organization must continuously reassess its risks and controls and train employees to effectively implement those controls.
+An integrated approach to compliance-risk management can be particularly effective for Bank Secrecy Act and anti-money-laundering (BSA/AML) compliance.
+Often, the identification of a BSA/AML risk or deficiency in one business activity can indicate potential problems or concerns in other activities across the organization.
+Controlling BSA/AML risk continues to be a primary concern for banking organizations.
+We recognize the commitment that organizations have made to compliance with BSA/AML requirements, and, in return, we continue to work to ensure that obligations in this area are clearly communicated to banking organizations and examiners alike.
+The Federal Reserve strives to provide clear and comprehensive guidance that directly communicates our expectations to the institutions we supervise, so that institutions do not need to rely on, for example, their own interpretations of public enforcement cases, which are not intended to serve as industry-wide compliance guidance.
+The Federal Financial Institutions Examination Council (FFIEC) BSA/AML Examination Manual issued last year is one example of our interagency efforts to clearly communicate our expectations.
+The FFIEC BSA/AML Examination Manual reflects a common view of the federal banking agencies and the Treasury Department's Financial Crimes Enforcement Network (FinCEN) with regard to BSA/AML compliance expectations.
+The agencies universally stress that the purpose of a BSA/AML examination is to assess the overall adequacy of a banking organization's BSA/AML controls, in view of that particular organization's lines of business and customer mix.
+This is critical to ensuring that resulting controls are risk-based, so that resources are directed appropriately.
+We also are working closely with our Treasury and law enforcement counterparts to disseminate information about perceived money-laundering or terrorist-financing threats.
+By identifying emerging vulnerabilities, we can better collaborate with banking organizations to develop systems and procedures to combat criminals' abuse of the financial sector.
+For example, the interagency Money Laundering Threat Assessment (4.1MB PDF) is one step we have taken--with fifteen other U.S. government bureaus, offices and agencies, including law enforcement--to identify significant concerns and communicate them to banking organizations.1 Consumer ProtectionThe Federal Reserve also cares greatly about consumer protection, as should bankers when they are assembling a broad risk-management strategy.
+Bankers need to be especially alert to developing easily understood disclosures as they introduce more innovative and complex products that can be confusing to consumers.
+As you may know, the U.S. banking agencies recently issued proposed guidance on nontraditional mortgages.
+The comment period for this interagency proposal closed on March 29, so we are now in the process of reviewing comments and determining how to proceed.
+Nontraditional mortgages allow borrowers to defer payment of principal and, sometimes, interest.
+While the proposed guidance focuses on banks' ability to adequately identify, measure, monitor, and control the risk associated with these products, it also addresses consumer protection.
+Nontraditional mortgages, including "interest-only" mortgages and "payment-option" adjustable-rate mortgages, have been available for many years, and are beneficial for some borrowers because of the payment flexibility they offer.
+Although these products were initially designed for higher-income borrowers, today these products are being offered to a wider spectrum of consumers, including borrowers for whom these types of mortgages may be ill-suited.
+Moreover, institutions are combining these nontraditional loans with other practices, such as reduced documentation of income and assets in evaluating applicants' creditworthiness.
+Many borrowers may not fully recognize the risks of nontraditional mortgages, particularly "payment shock" when the loan's interest rate increases, or when the consumer is required to make fully amortizing payments.
+Negative amortization coupled with flattening, or even lower, housing prices could make it difficult for some borrowers to refinance or sell the property to avoid payment shock.
+In addition to ensuring that institutions comply with the Truth in Lending Act and other applicable laws, the draft guidance urges institutions to ensure that their advertisements, promotional materials, and oral communications are consistent with the product terms and that these communications provide clear, balanced, and timely information about the risks.
+This is important so that consumers have the information they need at critical decision times, such as when selecting a loan product or choosing a specific payment option each month.
+The Board's Truth in Lending regulations require creditors to provide consumers with disclosures about the loan terms, including a schedule of payments.
+For interest-only and payment option ARMs, the payment schedule shows consumers how their payments will increase to include amortization of the principal.
+The proposed interagency guidance describes how institutions can use their promotional materials to provide better information about the features and risks of these products, especially the risk of payment shock.
+For example, the guidance recommends that institutions' promotional materials inform consumers about the maximum monthly payment they could be required to pay once interest-rate caps and negative-amortization caps have been reached.
+The proposed guidance also lists recommended practices to address other risks.
+When negative amortization is possible, the guidance suggests that institutions alert consumers about the consequences of increasing principal balances and decreasing home equity.
+If both reduced-documentation and full-documentation loan programs are offered, the draft guidance advises institutions to inform consumers if they will pay a pricing premium for the reduced-documentation loan.
+When institutions provide monthly statements with payment options, they are urged to include on the statement information that enables borrowers to make responsible choices, by explaining each payment option and the impact of each choice.
+In addition to the draft nontraditional mortgages, the Federal Reserve Board plans to hold several public hearings this summer on home-equity lending.
+These hearings are a first step to a broader review of mortgage disclosure rules.
+One of the issues that will be explored at the hearings is likely to be the adequacy of the existing disclosures for nontraditional mortgages, such as interest-only loans and payment-option ARMs, as well as forty-year mortgages and reverse mortgages.
+The hearings also likely will address issues related to predatory lending and market developments since 2002, when the Board last revised its rules for higher-priced loans under the Home Ownership and Equity Protection Act (HOEPA).
+Concerns about predatory lending continue to be raised, and the hearings could explore the impact of the HOEPA rule changes on abusive lending practices as well as on the availability of subprime credit.
+ConclusionIn carrying out its role as central bank and banking supervisor, the Federal Reserve must continue to ensure that banking institutions operate in a safe and sound manner with a strong capital base.
+For large, internationally active U.S. organizations, the Federal Reserve believes that the current regulatory capital regime is insufficient.
+The Basel II framework, we believe, provides more risk sensitivity and a much better link between capital and risk--especially for complex products, services and processes--promotes advanced risk management practices and improves transparency to supervisors, bankers, and markets about the nature of risk exposures and risk management.

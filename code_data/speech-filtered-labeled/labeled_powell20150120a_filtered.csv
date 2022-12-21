@@ -1,5 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"this practice results in dealers having advance information about flows, and at the same time places them at some risk, as they are agreeing to execute these orders at an unknown future price.",LABEL_1,0.8565233945846558
-1,"this advance information can create a perception that dealers are trading ahead of their clients, and it certainly created incentives to attempt to influence the fixing price.",LABEL_1,0.9860108494758606
-2,"turning to our work on interest rate benchmark reform, it is worth recalling that, before the scandal broke, the london interbank offered rate (libor) was not regulated.",LABEL_2,0.5006118416786194
-3,"that is emphatically not the view of the fsb official sector steering group that i now co-chair with martin, which concluded that it is essential to develop one or more risk free (or near risk free) alternatives to libor for use in financial contracts such as interest rate derivatives.",LABEL_2,0.6927000284194946

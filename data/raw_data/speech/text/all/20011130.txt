@@ -1,0 +1,132 @@
+That attention is well deserved: Recent changes in asset valuations have been enormous, and they appear to have had substantial effects on the economy.
+The observation that asset prices influence macroeconomic performance is hardly new.
+Undergraduate macroeconomic textbooks generally teach that increases in wealth should boost household spending and that increases in stock prices should stimulate business investment.
+Moreover, a growing body of empirical evidence at both the aggregate level and the level of individual households and businesses supports these basic presumptions.
+But while progress has been made, I believe that our understanding of the empirical relationships and of the theoretical underpinnings of those relationships still remains incomplete.
+My remarks today will cover three topics.
+First, I will discuss the available empirical evidence from the United States on the effect of changes in asset prices on household consumption and business investment.
+Second, I will highlight a few aspects of the relationship between asset prices and household spending that I believe merit further research.
+Third, I will review how monetary policy has responded to asset price fluctuations among other elements of the economic environment in the United States during the past few years.
+Empirical Evidence on Asset Prices and Spending At the aggregate level, a wealth effect on consumption has been a mainstay of large-scale econometric models for at least thirty years.
+The forecasting model in use at the Federal Reserve Board in the early 1970s incorporated a 5-1/2 cent increase in consumption for each dollar of additional wealth.
+The econometric model of the U.S. economy in use today at the Federal Reserve Board includes a wealth effect as well, although somewhat smaller in size.
+Not all researchers agree, but most statistical studies suggest that an additional dollar of household wealth leads, over time, to a permanent rise in household consumption of about three to five cents.
+An important question for both economists and policymakers is whether households’ net worth summarizes all of the information about their balance sheets that is useful in predicting their spending, or whether a decomposition of net worth into various asset and liability categories can improve forecasts of their spending.
+Unfortunately, this question has proved difficult to answer.
+Today I will focus on the possibly different influences of equity wealth and housing wealth, although other components of balance sheets may be important as well.
+In the current version of the Federal Reserve’s econometric model, the estimated marginal propensities to consume out of stock market and other wealth are virtually indistinguishable.
+However, I would not want to exaggerate the ability of either the data or our statistical tools to pinpoint these separate influences, and at times in the past, the model’s estimated marginal propensity to consume out of non-stock-market wealth has been nearly twice as large as the marginal propensity to consume out of stock market wealth.
+Moreover, some recent research conducted outside the Federal Reserve argues that the marginal propensity to consume out of housing wealth likely exceeds the marginal propensity to consume out of equity wealth.
+The relationship between wealth and consumption as reflected in the Fed’s model has certainly had some real-world analogues in the past few years.
+For instance, sales of luxury goods such as jewelry and expensive automobiles were very brisk in the late 1990s, with reports indicating that spending was especially robust in locales where individuals were reaping large wealth gains from the technology and financial sectors.
+More generally, we observed a dramatic decline in the personal saving rate in the late 1990s.
+Personal saving--which is measured in the U.S. National Income and Product Accounts as the difference between disposable income and outlays--dropped from 6-1/2 percent of disposable income at the end of 1994 to roughly 1 percent in early 2000, when equity prices peaked.
+The magnitude of this decline is consistent with the runup in equity prices and the marginal propensity to consume out of equity wealth that appears in the Fed’s model.
+Nevertheless, until recently economists have been able to marshal little formal evidence that the observed relationship between aggregate spending and aggregate wealth could be traced to changes in spending by those households that actually experienced wealth gains.
+But that gap in our understanding is now being filled, at least regarding equity wealth.
+Several recent papers--including some by economists at the Federal Reserve Board--have documented a microeconomic relationship corresponding to the relationship that we have long observed in aggregate data.
+For example, one study that analyzed the response of individual households to changes in stock market wealth found that, over the 1983-to-1999 period, the spending of U.S. households that own stocks responded to movements in the stock market, whereas the spending of non-holders of stocks has no apparent link to stock prices.1 A second study has estimated that, in the second half of the 1990s, households in the top of the income and education distributions in the United States showed the largest consumption increases, consistent with the fact that these households owned the most stocks and experienced the largest gains in wealth.2 Unfortunately, microeconomic evidence on the link between housing wealth and consumption is much more limited.
+But the substantial gains in housing wealth that have been experienced in recent years and the disparate movement of house and equity prices make this an issue of both policy and academic interest.
+I hope that future analyses will add to our understanding of this linkage.
+Hence there seems little empirical question that changes in household net worth cause changes in household spending.
+To be sure, not every analysis of the link between stock prices and spending comes to the same conclusions as those of the studies I mentioned.
+Moreover, we certainly do not have a complete understanding of all aspects of this relationship.
+For example, we have fairly limited evidence to guide us on the important issue of distinguishing the role of housing wealth from equity wealth.
+On balance, however, the link between aggregate household wealth and spending has remained one of the sturdier relationships in macroeconomics.
+When we turn to business spending, the evidence in support of a direct causal link from equity prices to business investment is weaker.
+Indeed, neither Tobin’s q nor other approaches to formalizing the effect of equity prices on business investment have fared well in most empirical tests.
+Other influences on business investment aside from asset-price fluctuations--such as the acceleration in business output and the cash flow of firms--often have proven more robust and more important explanators of capital spending than stock prices.
+However, some careful research--again partly conducted by Federal Reserve economists--suggests that a cost-of-capital effect on investment comes through clearly in empirical models based either on natural experiments with exogenous shocks to the cost of capital or on other econometric techniques that identify the exogenous parts of observed changes in user cost.3 Other recent work suggests that investment is also affected by at least those movements in stock prices that reflect the discounted value of expected profits.4 This important literature is too complex for me to review in detail today.
+Let me say simply that, despite the empirical puzzles, I believe that the cost-of-capital effect is likely to be at work when stock prices rise or fall significantly.
+Two Unresolved Issues Regarding the Link between Wealth and Consumption Let me return to the relationship between household wealth and consumption.
+Although the current body of empirical literature on this topic sends a rather clear message, it does not answer all the questions.
+Let me highlight two unresolved issues that I find particularly intriguing and that deserve further study.
+The first issue pertains to the underlying forces causing the value of the stock market to change.
+The value of equities can change for two basic reasons: because market participants adopt a new view of future profits, or because market participants apply a different set of discount factors to those expectations of future profits.
+The discount factors incorporate both risk-free interest rates and equity premia, but I will refer to the discount factors simply as interest rates.
+Consider the effect of an increase in expected profits, say from a spurt in productivity.
+To the extent that higher expected profits reflect higher expected future output and income--and not just a redistribution of income from labor to capital--both economic intuition and formal models suggest that desired household spending should increase, all else equal.
+Consumers foresee their future higher income and want to spend some of it now.
+That response is a straightforward wealth effect on consumption.
+Now consider instead the effect of a decrease in interest rates, setting aside for a moment the implications of the interest-rate decline for investment and future output.
+In this scenario, households are not expecting higher future returns but are simply discounting the same stream of returns at a different rate, so it is less clear that they are truly better off and should increase their consumption.
+A further complication in evaluating these two scenarios is that the aggregate response of household spending and investment will generally feed back to asset markets and generate further changes in prices and discount rates.
+The nature and magnitude of these interactions depend on the consumption and investment decisions of households and firms, on the extent of unused labor and capital resources, on the openness of the economy, and on other factors.
+Untangling these connections is difficult theoretically, and even more so empirically.
+But the basic point is that wealth changes reflecting future profits (or productivity) and wealth changes reflecting interest rates could have very different effects on consumption.
+Analyses of the wealth effect often give insufficient weight to these complexities.
+I believe that further research on both the theoretical and empirical aspects of this issue could contribute significantly to our understanding of the relationship between asset prices and macroeconomic outcomes.
+A second area in which some further work is warranted is housing.
+The basic puzzle is this: Roughly speaking, the population currently occupies the stock of residential real estate and will continue to do so no matter what happens to its price.
+Suppose there is a rise in the relative price of housing.
+There is no doubt that this rise would increase computed nominal net worth, but why should it support increases in household spending?
+To articulate the puzzle more carefully, suppose that I intend to live in my current house forever and that the price of the house increases because of a decline in the discount rate for future housing services.
+In that case, my measured nominal wealth would be greater, but the nominal value of the housing services I am consuming currently and will consume in the future would also be greater.
+Thus, the increase in the value of my home would not provide me with any additional resources for greater consumption of real housing services or other goods and services.
+Yet, as I noted earlier, the empirical evidence supports the view that changes in the price of residential real estate do affect household spending.
+So what is missing from our simple story?
+One possibility is that the hypothesized increase in the price of my house reflects a change in the housing services that the house is expected to provide, perhaps because individuals have come to think that houses will depreciate more slowly in the future than we had believed.
+In this situation, a higher house price would be accompanied by an increase in my real consumption of housing services over time but--as long as I stayed in the same house--by no change in my consumption of other goods and services.
+A second complicating factor is that many homeowners do not intend to live in their current houses forever.
+Many expect to move to smaller houses, condominiums, or retirement communities as they get older.
+These individuals, who plan to “downsize” their housing over time, are truly better off when house prices increase, and any standard theory would predict that they will increase their consumption.
+At the same time, many individuals who do not currently own homes--or who own small homes--likely plan to purchase homes and increase their consumption of housing services in the future.
+These “upsizers” are worse off when house prices increase, and they will reduce their consumption of non-housing goods and services.
+The effect of changes in house prices on desired aggregate consumption depends on the relative number of individuals in these two groups and their marginal propensities to consume out of housing wealth.
+A third factor, which Chairman Greenspan has recently emphasized, is the effect of realizing capital gains in housing by selling one’s house or by borrowing through a home equity loan.
+Accumulated home equity is not itself a liquid asset.
+In addition, its value is somewhat uncertain: Although general trends in real estate prices can be easily observed, nobody receives a statement in the mail saying how much his or her home is worth, and nobody can look up the value of his or her home in the newspaper.
+Selling a house, or getting one’s house appraised and taking out a home equity loan, converts this illiquid home equity of uncertain value into liquid funds with known value.
+Recent Experience and the Response of Monetary Policy Let me now turn to the recent U.S. experience, including the macroeconomic consequences of movements in asset prices since the mid-1990s and the response of monetary policymakers.
+As you know, the second half of the 1990s saw a record-breaking run-up in equity values in the United States.
+In early 1995, the net worth of U.S. households was about 4-1/2 times their after-tax income, quite close to the average ratio during the preceding quarter century.
+Roughly five years later, in early 2000, the ratio of wealth to disposable income peaked at more than 6--the highest value in the fifty years for which comparable wealth data are available.
+Now, approaching the end of 2001, the wealth-income ratio has fallen back nearly to 5--still a bit high by historical standards but well below the peak.
+The primary driver of these recent developments has been the dramatic advance and partial retreat in the value of publicly traded equities.
+Between early 1995 and the peak in early 2000, the Wilshire 5000 stock-price index (which is a broad measure of equity prices) tripled, adding nearly $12 trillion to the wealth of U.S. households.
+Since the peak, the Wilshire 5000 has dropped by about one-third, corresponding to a loss in wealth of roughly $6 trillion.5 Not only have the recent movements in U.S. stock prices been extremely large, they have arguably affected more households than did past movements in the stock market because of the broadening ownership of corporate equities in the United States.
+According to the Survey of Consumer Finances, which is conducted every three years by the Federal Reserve, roughly 32 percent of American families owned equities in 1989 (either directly or indirectly through mutual funds, retirement accounts, and other managed assets).
+By 1998, 49 percent owned equities in some form.6 Thus, in less than a decade, the United States evolved from a society in which one-third of families owned stocks to one in which one-half of families owned stocks.
+During the same period, the value of residential real estate rose, but more slowly and more steadily than did the value of equities.
+Ten years ago, the value of residential real estate was about twice the value of the household sector’s corporate equities.
+As stock prices soared in the 1990s, the share of equity holdings in household portfolios surpassed the share of owner-occupied housing.
+However, the recent combination of a strong housing market and faltering stock market has put aggregate housing wealth back on par with aggregate equity wealth.
+Now let me turn to the influence of these movements in asset prices on the conduct of monetary policy.
+The fundamental goal of our policy is to achieve maximum sustainable output and employment, which can be reached best in an environment of price stability.
+Therefore, the Federal Reserve must take an active interest in all the factors that affect economic performance, including business and consumer confidence, economic growth abroad, the foreign exchange value of the dollar, fiscal policy, and, of course, asset prices.
+We take the level of the stock market into account when we consider the economic outlook and monetary policy.
+But let me be clear: We do not target a particular level of equity prices.
+We attempt simply to judge the likely influence of the stock market as well as other important factors on the level of aggregate demand and aggregate supply and, hence, on the economy’s ability to achieve price stability and maximum sustainable employment.
+In this respect, the stock market plays the same role in our analysis as does any other influence on our outlook.
+While our goal of price stability can foster a favorable environment for business investment, we make no pretense to being able to control how that plays out in the stock market.
+We cannot avoid gauging the effect of the stock market on economic performance, but we do not target stock prices.
+The dramatic movements in asset prices over the past several years have affected aggregate demand and, to some extent, aggregate supply in the United States.
+In the late 1990s, the growth rate of U.S. labor productivity increased beyond the expectations of most observers.
+An important source of the faster pace of productivity was a surge in capital spending fostered by the development of new technology.
+Faster productivity growth was among the factors that boosted equity valuations; in turn, larger expected productivity advances and a lower cost of equity capital provided a further stimulus to investment.
+The pickup in investment combined with the wealth effect on consumption to boost aggregate demand.
+The rapid pace of investment also helped to hold down inflationary pressures by increasing the growth of productive capacity.
+However, by the summer of 1999, the persistent strength of domestic demand and tightening resource utilization in the United States, especially for labor, heightened concern among policymakers that inflationary pressures could undermine the impressive performance of the economy.
+Accordingly, the Federal Reserve raised short-term interest rates.
+The objective was not to bring down the stock market but rather to bring the growth of aggregate demand and aggregate supply into better alignment.
+Of course, the U.S. economy has now slowed very sharply.
+One factor has been the apparent reconsideration of expected profitability in the high-tech sector.
+This reassessment depressed equity prices for high-tech firms, and it has significantly restrained investment in these types of equipment, which had been substantial contributors to the previously rapid rate of economic growth.
+Slowing investment and a shift from a positive to a negative wealth effect on consumption have significantly damped the growth in aggregate final demand since late last year.
+The associated inventory correction has accentuated the decline in production.
+Since the September 11 terrorist attacks, heightened uncertainty and concerns have also weighed on the U.S. economy.
+These factors, and many others, have informed our decision to shift the stance of monetary policy aggressively and reduce the target federal funds rate by 4-1/2 percentage points since the beginning of the year.
+Conclusion Hence there is no question that asset prices influence the macroeconomy.
+They should theoretically, and they clearly seem to empirically.
+But one would think that wealth changes coming from investors’ re-evaluation of future profits would have different effects from those coming from interest-rate changes or changes in the relative price of housing.
+This puzzle should, I feel, loom large on the research agenda for academic economists and, for obvious reasons, on the policy agenda for central banks.
+Footnotes 1.
+Karen E. Dynan and Dean M. Maki, “Does Stock Market Wealth Matter for Consumption?” Finance and Economics Discussion Series Paper 2001-23 (Board or Governors of the Federal Reserve System, May 2001).
+Return to text 2.
+Dean M. Maki and Michael G. Palumbo, “Disentangling the Wealth Effect: A Cohort Analysis of Household Saving in the 1990s,” Finance and Economics Discussion Series Paper 2001-21 (Board or Governors of the Federal Reserve System, April 2001).
+Return to text 3.
+Jason G. Cummins, Kevin A. Hassett, and R. Glenn Hubbard, “A Reconsideration of Investment Behavior Using Tax Reforms as Natural Experiments,” Brookings Papers on Economic Activity, 2:1994, pp.
+1-59; and Stacey Tevlin and Karl Whelan, “Explaining the Investment Boom of the 1990s,” Finance and Economics Discussion Series Paper 2000-11 (Board or Governors of the Federal Reserve System, February 2000) and Journal of Money, Credit and Banking (forthcoming).Return to text 4.
+Jason G. Cummins, Kevin A. Hassett, and Stephen D. Oliner, “Investment Behavior, Observable Expectations, and Internal Funds,” Finance and Economics Discussion Series Paper 1999-27 (Board or Governors of the Federal Reserve System, May 1999).
+Return to text 5.
+These calculations include both equities held directly and equities owned indirectly through mutual funds, defined contribution pension plans, defined benefit pension plans, life insurance companies, and personal trusts.

@@ -1,0 +1,152 @@
+However, just as good tactics are useful only insofar as they serve a larger strategic purpose, so individual policy decisions are best understood in the context of an encompassing policy framework.
+Today I would like to step back a bit from current policy concerns to address the broader topic of the logical framework within which monetary policy is made.
+Specifically, I will introduce and briefly discuss two competing frameworks for making monetary-policy decisions, each of which has vigorous proponents among leading monetary economists, and I will relate these frameworks to policy practice at the Federal Reserve.
+In the latter portion of my remarks I will argue that the choice of policy framework has important practical implications, most notably for the communication policy of the central bank.
+Before proceeding further, I should say that the views I will express today are my own and are not necessarily shared by my colleagues in the Federal Reserve System.
+1 Car and Driver: A Misleading Analogy Eight times each year the Federal Open Market Committee (FOMC) meets to set U.S. monetary policy--which, under current operating procedures, amounts to choosing a target for the federal funds rate, a short-term interest rate that the Federal Reserve influences by controlling the supply of bank reserves.
+What logical framework guides these decisions?
+Superficially, the FOMC decision process may appear straightforward.
+A commonly used analogy takes the U.S. economy to be an automobile, the FOMC to be the driver, and monetary policy actions to be taps on the accelerator or brake.
+According to this analogy, when the economy is running too slowly (say, unemployment is high and growth is below its potential rate), the FOMC increases pressure on the accelerator by lowering its target for the federal funds rate, thereby stimulating aggregate spending and economic activity.
+When the economy is running too quickly (say, inflation appears likely to rise), the FOMC switches to the brake by raising its funds rate target, thereby depressing spending and cooling the economy.
+What could be simpler than that?
+2 I wish it were that easy.
+Unfortunately, the simplistic view of monetary policymaking derived from the automobile analogy can be seriously misleading, for at least two reasons.
+First, policymakers working to keep the economy from going off the road must deal with informational constraints that are far more severe than those faced by real-world drivers.
+Despite the best efforts of the statistical agencies and other data collectors, economic data provide incomplete coverage of economic activity, are subject to substantial sampling error, and become available only with a lag.
+Determining even the economy's current "speed," consequently, is not easy, as can be seen by the fact that economists' estimates of the nation's gross domestic product (GDP) for the current quarter may vary widely.
+Forecasting the economy's performance a few quarters ahead is even more difficult, reflecting not only problems of economic measurement and the effects of unanticipated shocks but also the complex and constantly changing nature of the economy itself.
+Policymakers are unable to predict with great confidence even how (or how quickly) their own actions are likely to affect the economy.
+In short, if making monetary policy is like driving a car, then the car is one that has an unreliable speedometer, a foggy windshield, and a tendency to respond unpredictably and with a delay to the accelerator or the brake.
+The second problem with the automobile analogy arises from the central role of private-sector expectations in determining the impact of monetary policy actions.
+If the automobile analogy were valid, then the current setting of the federal funds rate would summarize the degree of monetary stimulus being applied to the economy, just as the pressure a driver exerts on the accelerator at any particular moment determines whether the automobile speeds up or slows down.
+However, in fact, the current level of the federal funds rate is at best a partial indicator of the degree of monetary ease or restraint.
+The current funds rate imperfectly measures policy stimulus because the most important economic decisions, such as a family's decision to buy a new home or a firm's decision to acquire new capital goods, depend much more on longer-term interest rates, such as mortgage rates and corporate bond rates, than on the federal funds rate.
+Long-term rates, in turn, depend primarily not on the current funds rate but on how financial market participants expect the funds rate and other short-term rates to evolve over time.
+For example, if financial market participants anticipate that future short-term rates will be relatively high, they will usually bid up long-term yields as well; if long-term yields did not rise, then investors would expect to earn a higher return by rolling over short-term investments and consequently would decline to hold the existing supply of long-term bonds.
+Likewise, if market participants expect future short-term rates to be low, then long-term yields will also tend to be low, all else being equal.
+Monetary policy makers can affect private-sector expectations through their actions and statements, but the need to think about such things significantly complicates the policymakers' task (Bernanke, 2004).
+In short, if the economy is like a car, then it is a car whose speed at a particular moment depends not on the pressure on the accelerator at that moment but rather on the expected average pressure on the accelerator over the rest of the trip--not a vehicle for inexperienced drivers, I should think.
+I hope that this short discussion convinces you that making effective monetary policy is no Sunday drive in the park.
+With both the informational limitations facing policymakers and the role of private-sector expectations in mind, I turn next to a discussion of two alternative frameworks for thinking about monetary policy.
+Making Monetary Policy: Two Candidate Frameworks The two frameworks for monetary policymaking I will compare today are generally referred to in the recent economics literature as instrument rules and targeting rules (Svensson, 2003; McCallum and Nelson, 2004; Svensson, 2004b).
+Unfortunately, for my purposes at least, this terminology is somewhat misleading.
+First, the term "rule" suggests a rigid and mechanistic policy prescription that leaves no room for discretion or judgment.
+However, the argument that monetary policy should adhere mechanically to a strict rule, made by some economists in the past, has fallen out of favor in recent years.
+Today most monetary economists use the term "rule" more loosely to describe a general policy strategy, one that may include substantial scope for policymaker discretion and judgment.
+Here I will use the term "policy" instead of "rule" to avoid the connotations of the latter.
+Second, the terms "instrument" and "targeting" are products of the intellectual history of the debate and, to my mind, are not particularly descriptive.
+I will refer to the approaches known in the literature as instrument rules and targeting rules instead as simple feedback policies and forecast-based policies, respectively.
+I hope that the benefits of greater descriptive accuracy will outweigh the costs arising from any terminological confusion.
+How do these two policy approaches differ, and what are their underlying rationales?
+Under a simple feedback policy, the central bank's policy instrument--the federal funds rate in the United States--is closely linked to the behavior of a relatively small number of macroeconomic variables, variables that either are directly observable (such as employment or inflation) or can be estimated from current information (such as the economy's full-employment level of output).
+I exclude from my definition of simple feedback policies any policy that links the policy instrument to forecasts of macroeconomic variables, such as output and inflation; hybrid policies of this type raise difficult issues that would take me too far afield today.
+3 Generally, the macroeconomic variables that drive simple feedback policies are chosen to reflect the central bank's objectives, and policymakers are directed to adjust the short-term interest rate (or other policy instrument) as needed to offset deviations of these variables from their desired levels.
+That is, current macroeconomic conditions "feed back" into the setting of the short-term rate.
+The adjective "simple" refers to the presumption that, in this regime, policymakers will respond to only a relatively short list of economic variables.
+However, as I have already mentioned, contemporary advocates of simple feedback policies generally recommend applying these policies flexibly, subject to modification in special circumstances and as judgment dictates.
+A classic example of a simple feedback policy is the famous Taylor rule (Taylor, 1993).
+In its most basic version the Taylor rule is an equation that relates the current setting of the federal funds rate to two variables: the level of the output gap (the deviation of output from its full-employment level) and the difference between the inflation rate and the policy committee's preferred inflation rate.
+Like most feedback policies, the Taylor rule instructs policymakers to "lean against the wind"; for example, when output is above its potential or inflation is above the target, the Taylor rule implies that the federal funds rate should be set above its average level, which (all else being equal) should slow the economy and bring output or inflation back toward the desired range.4 Numerous simple feedback policies other than those based on the Taylor rule have been proposed and analyzed.5 How does the use of simple feedback policies address the issues I raised earlier--namely, the problem of limited information and the need to account for private-sector expectations when making policy?
+With respect to the informational constraints, advocates argue that policies of this type, if judiciously chosen, are likely to give reasonably good results even when policymakers' knowledge about the economy and its underlying structure is severely limited.
+The principal evidence for this claim comes from computer simulations of mathematical models of the economy.
+Specifically, researchers have attempted to identify particular simple feedback policies that lead to good economic outcomes when applied to a range of alternative economic models (McCallum, 1988; Taylor, 1999; Orphanides and Williams, 2002; Levin and Williams, 2003).
+As it turns out, simple feedback policies that produce good results in a variety of simulated economic environments--so-called robust policies--can often be found.
+Proponents of simple feedback policies argue that, as we are far from certain about which of many possible economic models provides the best description of the U.S. economy, the safest course is to adopt one of these robust feedback policies, modified as necessary by policymakers' insight and judgment, and to stick with it.
+6 The use of simple feedback policies also addresses to some degree the complications raised by the role of private-sector expectations.
+Because simple feedback policies link the central bank's policy instrument to a short list of macroeconomic variables, these policies should be relatively easy for the public to understand and to use in forming expectations of the way monetary policy will evolve in the future.
+Say, for example, that the feedback policy employed by the central bank stipulates that, when inflation rises 10 basis points, policymakers will raise the short-term interest rate 15 basis points on average, subject to possible judgmental adjustments.
+Armed with this information and their own estimates of how strong inflation pressures are likely to be over the next few quarters, financial market participants should be able to forecast future values of the short-term interest rate, allowing them to price bonds and other financial assets more efficiently.
+Because, under a simple feedback policy, private-sector expectations are likely to be broadly consistent with the central bank's plans, the effectiveness of monetary policy would be enhanced as well.
+The second general approach to making monetary policy is what I am today calling a forecast-based policy (Svensson, 2004c).
+As the name suggests, under a forecast-based policy regime, policymakers must predict how the economy is likely to respond in the medium term--say, over the next six to eight quarters--to alternative plans for monetary policy.
+For example, monetary policy makers might be interested in evaluating a strategy of keeping the federal funds rate low for a period against an alternative plan that implies a gradual rise in rates.
+7 Under a forecast-based approach, for each policy plan under consideration, the policymakers and their staffs must make their best guess of how the economy is likely to evolve should that plan be implemented.
+They may also try to assess the likelihood of outcomes other than their principal scenario.
+For example, they might conclude that a certain policy plan is likely to produce good results under most circumstances but that less-probable scenarios also exist under which the policy plan under consideration would lead to very bad results.
+Taking both their baseline forecast and the various risks to that forecast into account, policymakers then choose the plan that seems most likely to produce the best results overall.
+Their current choice of interest rate corresponds to the first step in implementing the preferred plan.
+This process is to be repeated at each meeting, with the policy plan being modified as necessary in response to new information or new knowledge about the economy.
+How do forecast-based policies deal with informational constraints and the role of expectations, the two issues I raised at the beginning of my remarks?
+Clearly, forecast-based policies require more information to implement than simple feedback policies, a fact that is often stressed by opponents of this approach.
+Indeed, opponents of this approach argue, a major risk of using forecast-based policies is that monetary policy makers, like other human beings, may be prone to thinking that they know more than they really do.
+Excessive optimism about what monetary policy can realistically accomplish, some claim, might conceivably lead to worse economic outcomes than would a more intellectually modest stance.
+In response to this critique, proponents of forecast-based policies suggest that our ability to forecast the economy, though modest, is not nil, and that we should make use of the knowledge we do have.
+In particular, they note, the use of forecast-based policies does not require that the policy committee members adhere strictly to a particular econometric model or economic theory.
+Economic forecasts, in central banks as in the private sector, typically reflect the output of a suite of models and statistical methods, plus a heavy dose of the judgment and insights of experienced economists.
+Forecasts can also be structured to take into account model and data uncertainty--for example by down-weighting changes in variables, such as the output gap, that are known to be poorly measured (Williams, 2004).
+So long as policymakers and their staffs remain appropriately humble about their forecasting ability and their knowledge of the economy, proponents argue, forecast-based policies are likely to provide better results than simple feedback policies.
+Supporters also point out that, in comparison with simple feedback policies, the forecast-based approach provides more guidance about how to incorporate judgment and special information into policymaking.
+As I have noted, advocates of both approaches agree that, in principle, good policy practice leaves scope for discretion and the use of expert judgment.
+But how, specifically, is this to be done?
+Simple feedback policies, which presume a good deal of agnosticism about the economy's underlying structure, do not provide a clear framework for answering this question, except in very qualitative terms.
+Under a forecast-based approach, in contrast, the answer is straightforward: Judgment or special information should affect policy choice to the extent that it affects the forecast or the risks to the forecast.
+For example, simulations of an econometric model may imply that policy A is likely to produce better outcomes than policy B; but if expert judgment suggests that the model's forecasts do not take special information or circumstances fully into account, or that policy A entails some economic risks not captured by the model, then policy B may be preferred instead.
+What about the role of private-sector expectations in determining the effect of policy?
+Again the information requirements of forecast-based policies are relatively more demanding.
+In contrast to the case of simple feedback policies, under a forecast-based policy financial market participants have no simple formula to guide them in forming expectations about future short-term rates; instead, they must infer the likely course of policy based on their own economic forecasts and their knowledge of policymakers' outlook and objectives.
+Given the complexity of the central bank's forecasting and policy evaluation processes, making these inferences is a daunting challenge.
+Clearly, under a forecast-based policy, central bankers have scope to provide considerable help to the private sector in its attempts to anticipate policy changes.
+To the extent that policymakers can accurately communicate their outlook, objectives, and tactics to the public, financial markets will be more efficient and monetary policy more effective (Bernanke, 2004).
+I will return to the issue of communication shortly.
+The Policy Framework of the Federal Reserve It would be nice, at this point, if I could tell you definitively whether simple feedback policies or forecast-based policies represent the superior approach to making monetary policy.
+But drawing strong conclusions at this juncture would be premature, to say the least.
+The debate in the monetary economics literature remains lively.
+Moreover, to some degree, central bank practice remains eclectic.
+At the Federal Reserve, both simple feedback and forecast-based approaches are used to provide information to policymakers.
+For example, FOMC members routinely compare their policy choices with both the prescriptions of various forms of the Taylor rule (as noted, a type of simple feedback policy) and the results of model simulations and forecasting exercises undertaken by staff at the Board and at the twelve Reserve Banks (as required by the forecast-based approach).
+8 Although I will not try here to resolve the deeper debate about frameworks, I can say something about the degree to which central banks rely on these approaches in practice.
+Both simple feedback policies and forecast-based policies influence how policymakers think about their decisions, as I have just noted.
+However, in my judgment, reliance on these two approaches is not symmetric; instead, the forecast-based approach has become increasingly dominant in the monetary policymaking of leading central banks.
+This dominance is reflected in the resources that central banks devote to data collection and modeling and in the increasing sophistication and detail of central bank forecasts.9 Indeed, a number of central banks with explicit inflation objectives publish regular forecasts and closely link monetary policy decisions to those forecasts.
+10 The Federal Reserve does not explicitly link policy actions to forecasts, but projections of how the economy is likely to perform under different policy plans are nevertheless central to the monetary policy process in the United States; that is, the Federal Reserve relies primarily on the forecast-based approach for making policy.
+To provide some evidence for this assertion, as well as some reasons for it, I draw your attention to a speech that Chairman Greenspan made earlier this year, entitled "Risk and Uncertainty in Monetary Policy" (Greenspan, 2004).
+To be sure, the Chairman's remarks make clear that he is profoundly aware of the uncertainties that policymakers must face in making their decisions, and he is appropriately cautious about relying too heavily on any particular model, theory, or data series.
+Nevertheless, his speech presents several reasons for concluding that good policies must be primarily forecast-based.
+These reasons include the need for preemptive policymaking, the importance of taking account of the changing structure of the economy, and the value of what he terms a risk-management approach to policy.
+I will discuss each of these briefly.
+Preemption refers to the idea that policymakers achieve better results when they act in advance to forestall developing problems.
+Early action works best both because monetary policy works with a lag and because developing problems (such as rising inflation) may often be defused at lower cost in their early stages.
+In principle, simple feedback policies are not inconsistent with a preemptive approach; however, to the extent that each episode has unique features, more information than can be captured in a simple feedback policy may be needed to deal effectively with emerging issues.
+Referring to monetary policy developments in the 1980s, Greenspan writes: In recognition of the lag in monetary policy's impact on economic activity, a preemptive response to the potential for building inflationary pressures was made an even more important feature of policy.
+As a consequence, this approach elevated forecasting to an even more prominent place in policy deliberations.
+Structural changes in the economy are notoriously difficult to assess as they happen, but to the extent that such changes can be identified and incorporated into the central bank's forecast, forecast-based policies are again likely to perform better than simple feedback policies.
+In the mid-1990s, Chairman Greenspan and his FOMC colleagues famously recognized an important structural change, an apparent increase in trend productivity growth.
+To quote the Chairman's speech: As a consequence of the improving trend in structural productivity growth that was apparent from 1995 forward, we at the Fed were able to be much more accommodative to the rise in economic growth than our past experiences would have deemed prudent.
+In short, upon determining that an important structural change was occurring, the FOMC did not feel constrained to respond to current developments in output and inflation as it had in the past--an indication that the Committee's policymaking was based on a forecast-based analysis, not a simple feedback approach.
+Perhaps the most interesting confirmation of the role of forecasts in Federal Reserve policymaking, however, is Chairman Greenspan's description of what he calls the risk-management approach to monetary policy.
+The risk-management approach is clearly a forecast-based policy.
+In describing the implementation of this approach, Greenspan describes how models and expert judgment are combined to project not only the most likely scenarios for the economy but also what amounts to a probability distribution of possible economic outcomes.
+Under the risk-management approach, policymakers choose the policy strategy that implies the most desirable of these probability distributions.
+To quote Greenspan one more time: Given our inevitably incomplete knowledge.
+.
+.
+.
+a central bank needs to consider not only the most likely future path for the economy but also the distribution of possible outcomes about that path.
+The decisionmakers then need to reach a judgment about the probabilities, costs, and benefits of the various possible outcomes under alternative choices for policy.
+Moreover, under the risk-management approach, models, judgments, forecasts, and policies are continually updated in light of new information, as theory would suggest.
+Operationally, the risk-management approach differs from the forecast-based policies described in much of the monetary economics literature in only one important respect.
+For simplicity, researchers have generally analyzed forecast-based policies under the assumption that policymakers care only about average economic outcomes.
+However, in practice, policymakers are often concerned not only with the average or most likely outcomes but also with the risks to their objectives posed by relatively low-probability events.
+For example, although the probability last year of a pernicious deflation in the United States was small, the potential consequences of that event were sufficiently worrisome that the possibility of its occurring could not be ignored.
+In that spirit, Greenspan's risk-management approach sensibly reflects the fact that the entire distribution of possible outcomes, not just the average or most likely expected outcome, matters for policy choice.
+This view is certainly realistic, and the analysis of forecast-based policies when the central bank cares about the whole probability distribution of potential outcomes is beginning to receive more attention in the literature (see, for example, Svensson, 2004a).
+To reiterate, however, the policy framework espoused by Chairman Greenspan is very much a forecast-based approach; indeed, because it requires making judgments about unlikely as well as likely economic outcomes, it places greater demands on our ability to forecast and to assess risks than do simpler forecast-based approaches that focus on average outcomes only.
+As I mentioned earlier, I will not try to draw definite conclusions today about the relative merits of simple feedback policies and forecast-based policies.
+I note, however, that not only have most central banks chosen to rely most heavily on forecast-based policies but also that the results, at least in recent years, have generally been quite good, as most economies have enjoyed low inflation and overall economic stability.11 So long as this good performance persists, at least, the simple feedback approach will face a sort of Catch-22 problem: Without a demonstrated record of success, central banks will be reluctant to adopt this approach; but unless some central banks begin to rely on simple feedback policies, real-world evidence in support of this approach will be lacking.12 Flexibility and Communication In previous talks I have argued that clear communication by the central bank is an important element of effective monetary policy (Bernanke, 2004).
+I will conclude with a few brief remarks about how the distinction between simple feedback policies and forecast-based policies bears on the value of central bank communication and on the relationship between central bank communication and policy flexibility.
+Central bank communication and transparency are important precisely because of the role of private-sector expectations in determining the effectiveness of monetary policy, a theme I have highlighted today.
+The economic stimulus provided by monetary policy depends mostly on longer-term interest rates, which in turn are largely determined by the expectations of financial market participants about the future course of monetary policy.
+As a general matter, the more guidance the central bank can provide the public about how policy is likely to evolve (or about the principles on which policy decisions will be based), the greater the chance that market participants will make appropriate inferences--and thus the greater the probability that long-term interest rates will move in a manner consistent with the outlook and objectives of the monetary policy committee.
+My discussion today suggests, however, that the benefit of central bank communication depends crucially on the policy approach that is used.
+As I have noted, if the central bank follows a simple feedback policy (with relatively few judgmental deviations), the private sector's problem of inferring future policy actions is greatly simplified.
+The principal task of market participants in this case would be to forecast the macroeconomic variables featured in the simple feedback policy, from which the course of policy could be inferred with reasonable accuracy.
+Extensive communication by the central bank may not be essential when a simple feedback policy is employed, except in those cases when policymakers decide to deviate substantially from the prescriptions of the simple feedback relationship.
+Under the forecast-based approach, in contrast, the public will generally find inferring the likely course of policy to be a great deal more difficult.
+In that regime, policy plans depend in a complex way on policymakers' outlooks, risk assessments, and objectives, which the public is unlikely to deduce accurately without guidance.
+Clear communication thus appears to be especially important for central banks that employ a forecast-based approach to policy--a category that includes most contemporary central banks, including the Federal Reserve.
+This conclusion bears in turn on the relationship between communication and policy flexibility in modern central banking.
+One sometimes hears the view that providing information to the public about the central bank's forecasts, plans, and objectives inhibits the flexibility of policy by effectively restricting policymakers' future choices.
+This claim might be correct if the current setting of the federal funds rate fully described the overall degree of monetary stimulus or restraint, in the same way that the position of the gas pedal at a particular moment fully describes the impetus that a driver is providing to his or her vehicle.
+In that case, central bank talk could only limit future policy options, much as providing an advance itinerary for an automobile trip may reduce the flexibility to take unplanned detours if required.
+However, as we have seen, the automotive analogy is a poor one.

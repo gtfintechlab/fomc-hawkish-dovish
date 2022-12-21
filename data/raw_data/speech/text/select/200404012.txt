@@ -1,0 +1,129 @@
+The Federal Reserve targets the overnight federal funds rate, and for almost a year this rate has stood at 1 percent.
+By comparison, the funds rate averaged more than 5 percent during the 1990s, and was last at 1 percent in the 1950s.
+Similarly, the yield on a ten-year Treasury note now stands near 4 percent--a level not seen since 1963 and more than 3 percentage points below the average of the past twenty years.
+These low rates are no accident.
+The economy began to weaken in late 2000, and aggregate activity began to contract in early 2001.
+Starting in January of 2001, the Federal Reserve moved to counter this weakness by lowering the funds rate to its present level in a series of steps that ended last June.
+This prompt and aggressive action undoubtedly served to limit the decline in economic activity, and, in fact, the recent recession was one of the mildest on record.
+The Federal Reserve recognizes that the federal funds rate is currently lower than it can be on a sustainable basis: At some point, as the economy moves back toward higher levels of employment, policy accommodation will no longer be needed and the funds rate will be raised.
+But it does not appear that we are as yet at that point.
+The Federal Reserve has opted to keep its policy rate quite low and has said it can be patient in removing the degree of accommodation.
+Although the economy has indeed strengthened over the past few quarters, job growth has been anemic and considerable slack persists in labor markets.
+At the same time, inflation has been quite low and shows few signs that it is in the process of picking up.
+Recently, some observers have been calling for the Federal Reserve to begin the tightening process sooner rather than later.
+In a few cases, the reasoning appears to be that we are risking a major increase in inflation by waiting.
+But most of the calls for a prompt policy tightening are instead based on the concern that the Federal Reserve, by keeping the funds rate so low and signaling that it is likely to stay low for a while, is sowing the seeds for different kinds of future problems.
+In particular, these critics worry that a continued environment of low interest rates is giving rise to economic imbalances--excessive indebtedness, and elevated prices of houses, equities, and bonds--that in the longer run will come back to haunt us.
+They fear that the return to more-normal levels of short-term interest rates might eventually be accompanied by an especially sharp upswing in bond and mortgage rates, a softening in the prices of houses and equities, and problems for households in meeting higher debt obligations that, in turn, could result in a substantial weakening in spending.
+Those worried about these possibilities say that the Federal Reserve should begin to remove its policy accommodation promptly to limit any further buildup of debt and distortions of asset prices.
+Most of these analysts acknowledge that such an action will entail some short-run pain--a slower recovery and a weaker rebound in labor markets.
+But they see this near-term loss as more than compensated for by the long-run gain of avoiding severe problems in the more distant future.
+Today I would like to examine this line of reasoning.
+The issue may seem abstract and arcane to an audience of non-economists--inside baseball as played in the financial markets and in the Board Room of the Federal Reserve.
+But the approach taken to this policy question could have serious consequences for the U.S. economy, and it illustrates nicely the types of subtle but fascinating issues policymakers must confront.
+I must emphasize that these are my own views and not necessarily those of my colleagues at the Federal Reserve.
+The Effects of Low Interest Rates As I have already discussed, the current level of the federal funds rate came about in response to a weakening economy in 2001 and a recovery that has been characterized by the persistence of considerable slack in labor markets and low and declining inflation.
+Stimulative monetary policy helps the economy recover from a spell of economic weakness largely through its effects on interest rates and asset prices.
+Long-term interest rates--the ones most relevant to the borrowing and spending decisions of households and firms--have been held down by easy monetary policy and the expectation that short-term rates will remain low for some time.
+And these low rates in turn have boosted the prices of houses and the value of corporate equity.
+Under the influence of increased wealth and low borrowing costs, households have bought more and larger houses and cars, have taken on more debt, and generally have spent more than would have been the case if interest rates had been higher.
+On the business side, low rates have helped firms reduce debt servicing and rebuild financial resilience by issuing long-term debt and paying off short-term debt, setting the stage for a step-up in investment.
+Stronger balance sheets and higher profits have induced investors to reduce the risk premiums they require to lend to businesses, which has further supported business spending.
+Nothing is necessarily wrong with these developments; in fact, they are by-and-large the intended and logical consequences of the Federal Reserve's efforts to reduce economic slack through low interest rates.
+To be sure, when short-term interest rates rise, bond yields will also rise, the amount of income needed to service debt will increase, and the prices of houses and equity will begin to reflect the greater competition for savers' dollars.
+But as long as interest rates and asset prices are reasonably well aligned with the forces likely to affect the economy, and as long as the public has reasonably accurate expectations about the size and timing of the eventual increase in interest rates and its effect on wealth and debt service, then the economy should not experience any particularly severe bumps when these developments unfold.
+Under these circumstances, households and firms, in the aggregate, should not end up looking back on their borrowing and spending actions as a mistake.
+If they do not view them as a mistake, they are unlikely to make major revisions in spending plans or asset valuations, and the effects on financial markets and the economy should be limited.
+Of course, expectations cannot be entirely accurate; the path interest rates will follow depends on future economic developments, many of which inevitably will be surprises, and in response markets will need to adjust, perhaps substantially.
+Moreover, some households and firms probably harbor unrealistic expectations about the future based on extrapolations of recent interest rates or trends in asset prices, and they run the risk of experiencing serious difficulties as a result.
+But as long as myopia appeared to be restricted to a relatively small portion of the population, and asset prices and expectations in the aggregate seemed realistic given what we know today, we would have little reason to anticipate serious problems as interest rates adjust.
+However, if imbalances were thought to exist--if expectations appeared unrealistic and asset prices distorted--then we would judge that the potential for a sharp correction in financial markets and associated economic instability was greater.
+Is There Evidence that Imbalances are Emerging?
+Determining whether such imbalances are present is a difficult task, and assessing whether those imbalances are related to current policy is even more challenging.
+But given their potential consequences for the economy, these are issues that policymakers cannot ignore.
+Let me begin with the question of whether interest rates and asset prices have been pushed away from appropriate levels.
+Some observers worry that recent Federal Reserve policy, by keeping short-term rates at very low levels for an extended period, has encouraged investors to "reach for yield"--that is, to shift their portfolios toward riskier and longer-term securities, which generally have higher yields, to keep realized returns from falling.
+They also worry about the effects of a related behavior in which financial intermediaries borrow at low short-term rates to lend at higher long-term rates--the so-called "carry trade"--and about the effects of low interest rates on the prices of houses.
+To a considerable extent, these processes are part of the efficient functioning of markets: Investors should compare the return they would receive on holding short-term deposits or the cost of borrowing short-term to the potential returns on riskier assets and make investment decisions on the basis of the trade-off between return and risk.
+Indeed, behaviors of this sort transmit accommodative monetary policy through financial markets to accomplish its intended effect of stimulating demand.
+The issue is whether this process has gone too far--that is, whether investors are failing to take adequate account of the risks of those alternative investments.
+Forming such a judgment requires a view on the level of asset prices that would be "appropriate" given economic fundamentals.
+Unfortunately, economists are not very good at this, but neither is anyone else, including Wall Street analysts.
+The Treasury securities market has been one focus of some concern.
+Some observers argue that, in part because of the carry trade and similar sorts of strategies, rates on intermediate- and longer-term Treasury securities are too low.
+An important observation, however, is that the yield curve is currently quite steep, implying that market participants have priced in a substantial rise in short-term rates.
+Indeed, the current shape of the yield curve suggests that investors expect short-term rates will eventually be in the neighborhood of 4 to 5 percent.
+This expected rate is not unusually low by historical standards; it is near or even above the expectations during the low-inflation period of the 1950s and early 1960s, and it is well within the range of expectations since the mid-1990s.
+The yield curve implies a fairly gradual transition to those long-run levels, and some could argue that this implied adjustment is too gradual.
+However, this pattern in part reflects the Federal Reserve's statements about policy patience and the fact that the economic expansion so far has made only limited progress in reducing slack, particularly in the labor market, even at very low interest rates.
+Overall, the question of whether the yield curve is steep enough is difficult to answer.
+Some analysis suggests that Treasury yields should be a bit higher, and we cannot rule out the possibility that long-term rates will rise once labor markets begin to strengthen convincingly.
+Nonetheless, it would be hard to argue with much confidence that yields are substantially out of line with plausible configurations of fundamental influences.
+Corporate bonds have also been the subject of some concern--specifically, whether the risk spreads on bonds issued by domestic corporations, which have narrowed dramatically, particularly for lower-rated issuers, are too low to offer adequate compensation for the probability of future defaults.
+It would be surprising had we not seen a narrowing of credit spreads over this period.
+Corporate profits have expanded quite briskly of late, and various measures of business financial difficulties have declined substantially.
+Moreover, the outlook for corporations appears favorable, considering that we are now in the early stages of what we hope will be an extended period of economic expansion.
+Many spreads remain above levels they reached through much of the 1990s, and while they may be thin, they do not appear to be clearly unreasonable in the context of recent and expected developments.
+Warnings about a possible "bubble" in house prices have been sounded for a number of years now.
+About a year ago, I examined this issue in some detail and concluded that, while one could never be very confident about such a judgment, house prices were not obviously too high and the housing stock was not clearly too large.1 Since then, however, prices have climbed further, and by more than the rise in rents--a proxy for the return on houses.
+Consequently, the odds have risen that these prices could be out of line with fundamentals.
+We still cannot be very confident about whether a significant misalignment exists, however.
+Moreover, some factors, including increasing prosperity and wealth associated in part with rapid gains in labor productivity and earning power, should help support house prices in the future and thereby reduce the risk of a sizable correction in which prices actually fall across a large number of localities.
+Finally, concerns have been expressed about the level of debt in our economy, especially household debt.
+Debt owed by households is high relative to their income, and so too are the payments required by that debt and by other regular obligations.
+But the vast majority of households are not encountering problems meeting obligations, and they have protected themselves to a considerable extent against increasing interest rates by borrowing for longer terms at fixed rates.
+As a consequence, debt servicing obligations will rise very gradually even if market interest rates increase rapidly.
+Moreover, any increase in rates would most probably occur in circumstances in which income and employment were also rising briskly, and thus adding to the resources available to consumers.
+And, while debt has been increasing, assets on household balance sheets have been rising even more rapidly.
+Barring a collapse in house or equity prices when interest rates rise, household net worth should remain comfortably above the levels of a few years ago.
+This has been a very fast and somewhat cursory tour through U.S. financial markets.
+But the main point should be clear: Although one can never be certain, in my view, the odds are that any imbalances that have emerged in U.S. asset markets or in the level of borrowing by U.S. households and businesses are not so substantial that they will disrupt the economy when they begin to correct.
+To be sure, the prices of assets and the level of debt seem to reflect expectations of a benign economic environment--one in which policy will tighten only gradually, the economy will continue to strengthen and inflation will remain low, and the demand for houses and equities will remain solid.
+Although these expectations could leave markets exposed to unfavorable news, they are not obviously unreasonable.
+In the absence of any substantial distortions in asset prices and debt levels, households and businesses, on average, have not likely been engaging in misguided decisions that they, or the central bank, will come to regret.
+Nevertheless, as emphasized above, policymakers face a tremendous amount of uncertainty regarding this judgment.
+Some borrowers and lenders will be caught by surprise when rates rise and will suffer losses; houses could be overvalued in some markets and subject to correction; and even small, largely predictable changes in interest rates and asset prices could interact in unexpected ways.
+And asset prices and interest rates that look roughly in line with fundamentals today, may not be tomorrow.
+Because they cannot rule out the chance that some asset prices might correct more than anticipated, policymakers must consider how the economy might withstand such a correction.
+Corrections in interest rates and asset values may have the most potential for disruption when they impair the financial health of borrowers and lenders and thereby cause them to pull back even further than might be warranted by the change in rates or prices.
+In that regard, we have some reason to be optimistic that the players are well positioned to absorb these adjustments.
+We have already discussed the reasons for confidence that household borrowers will be able to meet their obligations.
+Lenders, too, appear well positioned to weather any such adjustments.
+Commercial banks remain highly profitable and well capitalized, and other financial intermediaries show few signs of widespread problems.
+I am encouraged by the way our financial system came through the very difficult circumstances of the last few years, including the plunge in equity values, the recession, the subsequent period of slow growth, and the spike in credit problems.
+To be sure, pockets of difficulty emerged, and lenders became more cautious, but, for the most part, credit continued to flow, and problems remained isolated, not systemic.
+Our increasingly sophisticated financial market was able to effectively distribute risk so that lenders were sufficiently diversified to survive some quite stressful developments.
+In addition, financial markets have important automatic-stabilizer properties.
+If investors sense that asset-price adjustments are undermining the expansion, interest rates will fall back because investors will anticipate a lower trajectory for the federal funds rate.
+For its part, the Federal Reserve will adapt its monetary policy to unexpected developments in an effort to keep the economy on track toward high employment and stable prices.
+Implications for the Current Policy Setting That brings me to what I see as the implications of this analysis for the Federal Reserve's current monetary policy of keeping the federal funds rate low and being patient in removing policy accommodation.
+I hope that the discussion has cast some doubt on the argument that this policy is generating substantial imbalances in the economy.
+I am not disputing the argument that current policy has contributed to higher asset prices, more household indebtedness, and strong activity in interest-sensitive sectors such as housing.
+But I am questioning the apparently firm conclusion of some that these developments represent distortions or imbalances that are likely to correct in an abrupt and harmful manner.
+At the very minimum, one cannot reach this conclusion with a great deal of confidence.
+The distortions in the markets I have reviewed do not appear all that large, given the stance of monetary policy, and should we experience much higher interest rates and softer asset prices our resilient markets and flexible economy probably could absorb such a shock.
+Nonetheless, I cannot rule out the possibility that destabilizing imbalances are building.
+Should policymakers adjust policy today to slow the growth of debt and limit potential overshooting in bond and housing markets?
+Such a policy would clearly have near-term costs: It would slow the expansion in demand, damp the creation of new jobs, and keep inflation lower than it otherwise would be.
+Those costs could be significant, given that the economy is already operating with substantial slack and that any further decline in inflation would leave it at uncomfortably low levels.
+In my view, policymakers face a very high burden of proof when it comes to accepting fairly predictable short-term pain in the form of slower expansion in exchange for the possibility of gain over the longer run in the form of reduced risks of fluctuations in output, induced by sharp and unanticipated variations in interest rates and asset prices.
+Despite some signs that values are stretched in some markets, I do not believe this burden of proof has been met at this time.
+Can actions be taken to limit the longer-run risks without near-term policy adjustments?
+At least two considerations come to mind.
+For one, policymakers should continue to remind people that the federal funds rate very probably will have to move up at some point, and that they should be prepared for that adjustment.
+Households with high debt loads need to take account of the fact that the interest payments on their floating-rate loans will increase, probably taking a higher portion of their spendable funds.
+Those lending to such households also need to take into account the rise in rates when they judge credit worthiness.
+Households and those that lend to them also cannot count on large increases in house prices persisting.
+Rising rates are sure to cool the housing market, and possibly could cause prices to soften in some localities.
+Investors, too, must be aware that short-term interest rates, and hence the opportunity cost of their longer-term investments, will increase.
+Borrowing short and lending long is risky and not a sure-fire way to eternally high profits.
+Investors are unlikely to be able to exit from these bets before the market starts to adjust; it is highly probable that many folks in similar circumstances will be trying to squeeze through the same door at the same time, in which case prices could adjust sharply.
+The second consideration is that regulators of financial institutions should strive to ensure that these institutions have risk-management systems in place that help to assess and control vulnerability to potential adjustments in interest rates and asset prices.
+In doing so, supervisors reinforce market discipline.
+Banking supervisors at the Federal Reserve, for example, in the course of the ongoing examination process, have been paying close attention to the sorts of vulnerabilities we have reviewed and have been discussing these risks with the commercial banks they oversee.
+Conclusion Interest rates are at unsustainable levels, and monetary policy will need to tighten eventually if the economy is to be kept on a path to high employment and price stability.
+My remarks today were not focused on the medium-term macroeconomic outlook and its implications for policy.
+Instead, I addressed a different and difficult set of issues for policymakers--whether policy adjustment should be made that might make the medium-term outlook less favorable but might at the same time lower the odds on longer-term economic instability stemming from possible imbalances in financial markets.
+This issue has been the subject of considerable research and discussion in recent years, and I have not had time to touch on all its aspects.
+In recent months some central banks have cited similar types of financial imbalances when they tightened policy.
+But the economies in which these central banks operate have been running at higher levels of resource utilization and have experienced faster increases in some asset prices than has the United States.

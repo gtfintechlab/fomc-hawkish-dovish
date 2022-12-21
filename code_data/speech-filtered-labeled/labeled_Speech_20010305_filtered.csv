@@ -1,6 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"in short, the increasing sophistication of markets demands that, to be effective, regulatory capital charges need to be reasonably attuned to underlying economic risks.",LABEL_1,0.8647632598876953
-1,"the basel committee has designed two versions of the irb approach: a less sophisticated ""foundation"" method and a more flexible, but also more demanding, ""advanced"" approach.",LABEL_2,0.9486247897148132
-2,"in trading activities transactions are marked to market daily, and long series of data are readily available for measuring rate and price volatility.",LABEL_2,0.9979342222213745
-3,"indeed, to the extent that the operational demands of the foundation and advanced irb approaches are viewed as comparable--particularly in light of input from consulting and third-party vendors--many institutions may desire to migrate directly to the advanced approach so as to achieve the largest possible reductions in regulatory capital.",LABEL_2,0.7819435596466064
-4,"of course, banks don't all have to make the same choice with respect to capital levels, but they should pay the appropriate price in the market for lower levels of capital relative to risk.",LABEL_0,0.9941973686218262

@@ -1,0 +1,78 @@
+,sentence
+0,The question you and I might be asking right now is: What is a monetary policymaker doing here?
+1,"My assignment is to answer this question: How do the prevailing surplus and, especially, decisions about the allocation of future potential surpluses affect the formulation and conduct of monetary policy?"
+2,"Using this concept will allow us to focus on the implications of alternative combinations of monetary and fiscal policies--yielding the same level of aggregate demand--for the real interest rate, the composition of output, and the current account balance."
+3,"However, other important features of recent macroeconomic experience--specifically the absence of a large decline in real interest rates and the significant deterioration in the current account balance--appear at least superficially inconsistent with the predictions from the standard analytics."
+4,Perhaps even more important are other developments that have affected real interest rates and the current account balance over the same period.
+5,"I conclude by discussing the implications for monetary policy of options for the allocation of the ""potential"" surplus."
+6,I focus on two ways in which fiscal policy choices could affect monetary policy.
+7,"First, fiscal policy choices will affect the interest rate consistent with full employment and price stability."
+8,"Second, a gradual reduction and ultimate retirement of the federal government debt would require changes in the way monetary policy is implemented."
+9,There are infinite combinations of monetary and fiscal policies that yield the same level of aggregate demand.
+10,"The different combinations result in different outcomes for the level of real interest rates, the composition of output, and the current account balance."
+11,The IS curve shows the combinations of interest rate (R) and output (Y) consistent with equilibrium in the output market.
+12,The LM curve shows the combinations of interest rate and output consistent with equilibrium in the market for money.
+13,The intersection of the curve shows the unique combination of the interest rate and output consistent with equilibrium in all markets simultaneously.
+14,Let's start from a simple case in which the level of capacity is given at a moment in time and the intersection of IS and LM curves determines the prevailing level of aggregate demand.
+15,"I will assume that the intersection takes place at potential output, so that the outcome is consistent with the broad objectives of monetary policy: price stability and full employment."
+16,Evaluating alternative fiscal policies at an unchanged level of output--and specifically at potential output--also allows us to abstract from cyclical changes in the deficit and thereby to focus exclusively on changes in the structural budget balance.
+17,The position of the LM curve is determined in part by the stance of monetary policy.
+18,"In this case, we could view the level of the money stock as being adjusted by open market operations to be consistent with the Federal Reserve's target for the interest rate."
+19,"Alternatively, we could draw the LM curve as a horizontal line at the prevailing interest rate target set by the FOMC."
+20,"In Figure 1 (6 KB), I depict two of the infinite number of combinations of IS and LM curves that intersect at potential output--the intersection at B corresponding to a looser fiscal and tighter monetary policy than the intersection at A."
+21,"A combination of tighter fiscal and looser monetary policy (point A compared with point B in figure 1 (6 KB)) implies a lower interest rate, a higher share of investment (and, in general, of interest-sensitive components of spending) in GDP, a lower value of the dollar, and a higher level of net exports and hence of the current account surplus."
+22,"In addition, more sophisticated models would also show explicitly the increase in the exchange rate and the associated decline in the current account balance in response to a policy mix that resulted in higher real interest rates."
+23,"Not only do changes in tax rates and spending affect aggregate demand, they can also affect aggregate supply, for example, when they alter after-tax wage rates and after-tax rates of return to saving and investment."
+24,The Politics of the Policy Mix: Does Monetary Policy Respond to Fiscal Policy?
+25,"Over the last 20 years, these decisions generally have been based on considerations that have more to do with long-run objectives such as promotion of higher longer-term growth, than with short-run stabilization."
+26,"The Federal Reserve then sets its policy to achieve the broad objectives assigned to it, specifically, price stability and full employment."
+27,"Fiscal decisions are, in turn, affected by budget forecasts that are partly contingent on monetary policy assumptions."
+28,"Monetary policymakers smooth the transition to the new equilibrium, by minimizing the effect on output relative to full employment and on prices."
+29,"Because monetary policy adjusts continuously to changes in the economy, including those resulting from fiscal policy, it makes sense to think that fiscal policy decisions are made first and monetary policy decisions are conditional on the fiscal decisions."
+30,So does this mean that monetary policy responds directly to fiscal policy actions?
+31,"That is, monetary policy responds to changes in fiscal policy in much the same way that it responds to other influences on the economy, such as equity prices, exchange rates, or the demand for U.S. exports due to changed growth prospects abroad."
+32,Each and all of these developments affect both the macroeconomic developments and the forecast that drive adjustments in monetary policy in pursuit of full employment and price stability.
+33,It is also important not to overstate the role monetary policy plays in shaping the policy mix.
+34,"In terms of our diagram, the game is fundamentally over when the fiscal decision pins down the intersection of the IS curve and the vertical line at full employment."
+35,"One possibility, of course, is that the Federal Reserve adjusts its open market operations to move the interest rate to this point."
+36,"In a regime in which the Fed implements policy by choosing a target for the money stock, either the money stock could be adjusted to move the LM curve to this point, or price flexibility would ultimately get the job done, with the emphasis on the ultimately."
+37,"The role of active monetary policy is to avoid the need for price flexibility--that is, to prevent the fiscal decision from either temporarily lowering output below its full employment level or permanently increasing prices."
+38,"Under a plausible policy rule--for example, utilizing actual or forecast output gaps and inflation rates--the interest rate would be reset over time until it was consistent with the intersection of the IS curve and the vertical line at potential output and price stability."
+39,The message of such an interest rate rule is that monetary policy responds only indirectly to fiscal policy.
+40,"That is, the rule specifies the adjustment of the interest rate to changes in output and prices (the indirect approach), not the adjustment to changes in tax rates or spending (as would be the case in a direct approach)."
+41,"However, if we look at the reduced form equation for the now endogenous monetary policy instrument, we shall, to be sure, find--lurking on the right-hand side--the exogenous components of the fiscal policy decision--the level of discretionary spending and the benefit and tax rates."
+42,"In the ""real world,"" of course, many factors besides fiscal policy are likely to be affecting inflation and output."
+43,Comparing the Theoretical Prediction to Recent Experience The swing from budget deficit to surplus has been much more dramatic than was expected when the fiscal year 1994 budget was adopted.
+44,"Such a dramatic swing in the budget balance might have been expected to yield a particularly dramatic confirmation of the predictions of the analytic model, in the form of a sharp decline in real interest rates and a significant improvement in the current account balance."
+45,"In fact, during the period of a dramatic swing in the budget balance, real interest rates have not declined, and the current account balance has significantly deteriorated."
+46,"In addition, in the analytics, by holding output fixed at potential, we abstracted from the effect of cyclical influences on the budget balance, on interest rates, and on the current account."
+47,"The key to getting the right answer in the analysis is to identify correctly the multiple shocks that induced the swing in the ratio of deficit to GDP and that affected the real interest rate and current account, as well as to take into account the effect of the cyclical developments."
+48,I assumed in the analytics of the policy mix that that any non-cyclical change in the deficit was due to a change in policy--some combination of increases in tax rates and cutbacks in government spending.
+49,"But to apply this to our dynamic economy, we have to allow for uncertainty about the level of potential output at a given time and the growth in potential output over time."
+50,"However, the more serious problem with the application of the conventional framework is the failure to account for structural change, specifically a decline in the non-accelerating inflation rate of unemployment (NAIRU) and an increase in trend growth."
+51,More rapid trend income growth would also increase the growth of imports and hence cause a deterioration in the current account.
+52,"In addition, higher trend productivity growth, driven by an increase in the profitability of investing in new technology, would raise the equilibrium real interest rate and encourage capital flows to the United States to take advantage of higher returns on capital."
+53,"This in turn would lead to an appreciation of the dollar, further augmenting the current account deficit."
+54,"Once again, it appears that the increase in the economy's trend rate of productivity growth is playing a starring role in our explanation of recent macroeconomic developments."
+55,"In discussing the interaction between the swing in the federal budget and the increase in the productivity trend, I have focused on how the latter may have offset the tendency of the former to lower real interest rates."
+56,"The increase in the equilibrium real interest rate, expected as a result of an increase in the productivity trend, is also a ceteris paribus result."
+57,"For example, if tax rates are constant and government spending remains a constant share of GDP, then the higher productivity trend will, in general, yield a higher equilibrium real interest rate."
+58,"However, if real (or nominal) government spending is held constant, the surplus will rise over time as a share of GDP, putting downward pressure on the equilibrium real rate, offsetting, at least in part, the effect on the real rate of the higher trend productivity."
+59,But the recent episode underscores the difficulty of actually predicting real interest rates and the current account when unknowable shocks will surely intervene along the way.
+60,"Rather, my assignment is to connect fiscal and monetary policy decisions."
+61,I have emphasized the value of evaluating fiscal policy options in models that incorporate reasonable monetary policy reaction functions.
+62,"Doing so builds in the indirect response of monetary policy to fiscal policy changes, consistent with the logic of the policy mix."
+63,"This is, in effect, the approach I followed my discussion of the analytics of the policy mix by assuming that monetary policy is reset--albeit indirectly--in response to a change in fiscal policy."
+64,"The other options involve increased fiscal stimulus and, as a result, will be accompanied, ceteris paribus, by a higher equilibrium real interest rate in the long run."
+65,They would also likely result in a lower share of investment in output and a higher current account deficit than the option that preserves higher surpluses.
+66,"Ceteris paribus, monetary policy--run off a sensible reaction function--will end up validating the higher equilibrium real interest rate, to keep prices from accelerating indefinitely."
+67,The Implications of Debt Retirement for Monetary Policy Operations One additional consequence of the choice among these options is that preserving the surpluses would lead to a gradual decline in and ultimately the retirement of the federal government debt.
+68,"The prospects for such an outcome depend, of course, on the realized growth rate of income and hence tax revenue and one's assumption about the starting base of expenditures and the appropriate baseline for its rate of growth."
+69,"Once the baby boomers begin to retire, the social security trust fund will be progressively run down, and at some point, the overall budget will likely move from surplus to deficit again."
+70,"Although the Treasury market has been the traditional vehicle for monetary policy operations in recent decades, the Federal Reserve Act provides authority for the Federal Reserve to purchase a fairly wide range of other assets--including obligations of federal agencies, certain obligations of state and local governments, foreign exchange, and sovereign debt."
+71,"There would, of course, be transitional issues as monetary policy operations adapted."
+72,But we surely maintain the effectiveness of our monetary policy operations.
+73,So a decision about whether or not to hold on to the surpluses and ultimately retire the government debt should not be affected by any concern that this option might undermine the effectiveness of monetary policy.
+74,Some have been concerned that the Federal Reserve and the Treasury might be working at cross purposes today to the extent that reductions in the Treasury debt supply have lead to declines in longer-term Treasury rates at a time when monetary policy is aiming to slow the pace of economic activity to a more sustainable rate.
+75,"To date, the main impact of Treasury operations and debt management prospects has been on longer-term Treasury rates, with only a small spillover effect on the financial variables that affect private spending decisions--short- and longer-term private interest rates, equity prices, and exchange rates."
+76,"To the extent that Treasury debt management operations affect the private interest rates or other financial conditions that matter for private spending decisions, the FOMC can always adjust its policy settings as appropriate to achieve its objectives."

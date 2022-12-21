@@ -1,0 +1,121 @@
+I will consider two episodes--the Asian financial crisis and the financial market turmoil surrounding the near-bankruptcy of the hedge fund Long-Term Capital Management (LTCM).
+Because these episodes are too recent and too complicated to draw many firm conclusions that lead to concrete policy recommendations, part of my objective today is to identify some areas where I believe that further study would be particularly productive.
+The Two Crises The details of these two episodes are familiar to everyone here.
+The floating of the Thai baht in July 1997 marked the onset of a period of market turbulence associated with the halting of new funds to and, in most cases, the flight of existing money from, many economies in Southeast Asia.
+Because many entities in those nations relied on short-term funding in foreign currency for their ongoing operations, the drying up of funding from global financial markets quickly placed serious strains on them.
+And because the lines between the private and official sectors were often drawn imprecisely, these funding problems for firms soon became the burdens of national governments.
+Such pressures, unfortunately, exposed numerous and substantial flaws in some of these financial systems, including lax lending policies, substantial mismatches in the maturities and foreign exchange denominations of assets and liabilities, seriously deficient standards for disclosure of basic private financial information, hedges based on erroneous presumptions about the correlations among returns, the failure to monitor ongoing loan performance, and the inadequacy of reserves against potential losses.
+In autumn 1998, we in the major industrial countries were reminded that emerging market economies did not have a monopoly on financial institutions that were inadequate in the task of assessing risks.
+The effective default of the government of Russia on some of its obligations and the travails of LTCM in rebuilding its capital in the face of enormous trading losses--occurring as they did so soon after the crisis in Asia--triggered a generalized reassessment of risk-taking by investors and market makers.
+Interest rate risk spreads widened into ranges normally associated with the troughs of recessions, and reductions in the liquidity of even government securities markets suggested a marked contraction of trading activity.
+In retrospect, the counterparties of LTCM had underestimated the risks associated with that firm's strategy, both in terms of the leverage undertaken and the size and scope of open positions, some of which were in illiquid markets or ones that would become illiquid if attempts were made in scale to close out positions.
+Many firms dealing with LTCM quickly found themselves with a considerably greater potential exposure to loss than they had bargained for, both directly on their credits to LTCM and--should the hedge fund have failed and prices moved as its positions were liquidated--indirectly in their own trading books and on some of their other outstanding credits.
+Some Tentative Lessons and Responses I take three lessons away from this experience and suggest a like number of supervisory and regulatory responses.
+As for the lessons, first, measures of direct risk-taking can provide misleading assessments of overall exposure in an environment with so many interconnections.
+The direct lending exposure of most global financial institutions to Thailand, Malaysia, and Korea was limited at the time.
+However, proxy hedging of country risks in international financial markets propagated shocks across national borders beyond that called for by direct trade and financial linkages alone, spreading the initial problems in Asia to many other markets.
+Simply, those entities with direct exposure to troubled credits sometimes took offsetting hedging positions in obligations of other economies that traded in deeper and more-liquid markets on the theory that the usual correlation among returns in that asset class would trim at least some of their potential losses.
+In the process, those deeper markets used for hedging purposes, including ones in Hong Kong, Australia, Brazil, and Mexico, suffered their own downdrafts at the peak of the Asian crisis.
+Similarly, concerns about the potential fire sale of LTCM's assets, as well as the efforts of counterparties to rebalance their positions in advance of possible failure of the hedge fund, produced wide swings in many financial prices and contributed to a drying up of market liquidity.
+As a result, institutions with no direct exposure to Asian economies, Russia, or LTCM found themselves caught flat-footed.
+Second, regulators and industry participants in industrial countries have reason to be proud that improvements in capital, regulatory structure, and risk management over the years allowed depository institutions to weather the storms without substantial adverse effects.
+Exposures to emerging market economies were much more limited in this episode when compared with the debt crisis of the early 1980s.
+For instance, on the eve of the debt crisis in 1982, U.S. banks'direct exposure to Latin America ran about 125 percent of their capital, and for the largest banks, it was more than 180 percent of capital.
+In contrast, in mid-1997, U.S. banks' direct credit exposure to all emerging markets was around one-third of their capital.
+These lower exposures reflect, to an important degree, a better management of risk that recognizes the importance of diversification across asset classes.
+Third, regulators and industry participants also have reason to be humble.
+Few would have predicted that the floating of the Thai baht would topple dominoes all over the region with such force.
+And the almost universally accepted opinion of the risk-taking prowess of LTCM proved mistaken in retrospect.
+These examples should serve as a reminder that we will not be able to know where, when, or with how much force the next crisis will hit.
+However, one of the surest lessons of history is that there will be a next crisis, a crisis that will share some attributes of the ones that came before while offering new challenges in its own right.
+And that brings us to the appropriate responses: First, in preparation for the next round of problems, supervisors and regulators should reinforce efforts to get the basics right.
+For all the talk of financial wizardry that allows the unbundling and transferring of risks and the lightening speeds of transmission that occupy so much attention, I would like to remind everyone that, by and large, the mistakes of the past few years were rather humdrum.
+In Asia, there were widespread failures of supervision and regulation, including the failure to enforce limits on lending to individual entities, to appreciate the implications of over-reliance on potentially changeable short-term sources of funding, to evaluate repayment risk on a timely basis, and to react quickly as problems emerged.
+In industrial countries, it was a widespread misassessment of counterparty risk.
+Whether lulled by the collateral provided for credit exposure by each daily marking to market or the lofty reputation of the principals of the firm, counterparties failed to provide an effective check on the leverage of LTCM.
+That said, we should appreciate that in the United States and Europe, bank supervision and regulatory capital standards worked well in protecting the banking system.
+Thus, a second item on my list of responses to the recent financial crisis is that work must continue to determine the incremental improvements that can be put in place within the existing structure, especially including supplementing those efforts with an increased reliance on market discipline.
+And a third important response is to recognize that these incremental improvements will be more drastic for some institutions and less drastic for others.
+The general principle, I think, is that the complexity and focus of both the supervisory examination and the capital requirements should be determined by the complexity, diversity, and perhaps the scale of the organization being examined.
+This suggests not only different approaches across nations but also different approaches within nations.
+A one-size-fits-all supervisory and regulatory framework is simply inconsistent with the existing and evolving banking structure.
+Banks are just too different, with different risk profiles, risk controls, strategies, and approaches to managing risks to be supervised and regulated by one yardstick.
+Similar institutions should be supervised and regulated similarly, and different institutions differently.
+The consultative document released by the Basel supervisors in June recognizes this multitrack approach Agendas for Action By the United States In the United States, this suggests that the current structure of supervision and regulation--including minimum capital rules--probably does not have to be changed very much for most banks and perhaps can even be simplified for some.
+But there is a small subset of megabanks, who through growth and consolidation have reached a scale and diversity that would threaten the stability of financial markets around the world in the event of their failure--or even if they faced severe stress under certain circumstances.
+For these larger, complex banking organizations, the Federal Reserve has already begun a different supervisory focus, and we believe that further modifications are required in both that approach and capital regulations.
+We have chosen about thirty U. S. banking organizations--about one-third subsidiaries of foreign banks, by the way--whose scale, complexity, and diversity distinguish them from other organizations, especially the role that they play in U.S. and world financial markets.
+For each of these large, complex banking organizations--creatively known as LCBOs in supervisory circles--we have established dedicated teams of examiners, assisted by roving teams of specialists in payments systems, risk management, information technology, financial engineering, and modeling.
+Each examiner team is headed by a Central Point of Contact, and that team is dedicated full-time to understanding and supervising everything about that organization--especially its risk profile, risk controls, and strategy.
+Just as each institution is different, the team is supplemented by different experts as needed.
+As these institutions grow more sophisticated and complex, our challenge is to attempt to develop the skills to evaluate their activities.
+But scale and complexity imply that the supervisor cannot alone accomplish the job, or at least cannot do so without a degree of intrusion and network of rules and regulations that would be simply inconsistent with the need for flexibility and rapid response by financial businesses operating in an increasingly complex market environment.
+We have no choice, therefore, but to rely increasingly on market discipline as both a supplement to supervision and regulation and as a source of information to the supervisors.
+Such market discipline--which in practice can best be applied only to those large institutions that rely significantly on uninsured on- and off-balance-sheet liabilities to finance their activities--requires a larger scale and scope of public disclosure than so far has characterized banking, even with the substantial disclosures already made by large U.S. banks.
+Information on the risk categories of credit exposure, credit concentration, and exposure retained in securitizations is an example of the kind of disclosure that may be required if the cost and availability of funding is to truly reflect the riskiness of individual institutions.
+Capital regulation for LCBOs also must change.
+Best-practice banks in the United States have already begun the process of risk-categorizing their portfolios and using historical data to establish internal capital allocations, loan loss reserving, and pricing.
+Our examiners have been instructed to begin evaluating these systems and urging their improvement.
+We have also begun work on how best to tie the required minimum capital regulation for an individual large bank directly into its own internal risk-profiling system, rather than to one or even multiple externally defined "risk buckets."
+This isn't going to be easy.
+The U.S. regulators and our colleagues abroad are hard at work on how to do it.
+At the outset, I am sure, the approach will be relatively simple, but as both banks and supervisors learn, it will become more sophisticated.
+The framework for LCBOs in the United States, then, will be based on the three pillars discussed in the Basel Supervisors consultative paper: market discipline, supervision, and capital regulation.
+My personal view is that in the near term we will have to rely more on supervision, supplemented increasingly by market discipline, as we develop and deploy the revised capital regulations.
+By Emerging Market Economies In emerging market economies, national authorities have to develop the expertise in supervision and regulation to monitor activities of complex financial organizations and foster enhanced risk management practices in their local industry.
+But we must appreciate that such experience accumulates only over time.
+In the interim, national authorities may well want to consider supplementing their supervisory and regulatory framework with quantitative restrictions that limit risk-taking.
+When the skills to interpret regulations flexibly are in short supply, national authorities might prefer to bind themselves to simple rules.
+Such rules presumably would be structured to prevent the outsized behaviors that in the past have preceded financial crises, such as extremely rapid growth in lending for property development or a large share of real estate loans on depositories' balance sheets.
+I would also like to point out that the institutional depth to both manage and examine complex banking organizations need not always be home grown.
+While I appreciate the natural sensitivities of countries trying to build their own economic capabilities, emerging market economies seeking to strengthen their own financial systems should not restrict--and, indeed, may want to encourage--entry by foreign banks.
+Foreign banks will bring with them the human and financial capital that can raise the level of financial expertise for the entire industry, to the benefit of local banking services.
+The presence of such global banks will also foster the development of complementary institutions, such as credit-rating agencies and accounting firms, that will be valuable for both local institutions and national supervisors.
+Those foreign banks also will likely have access to strong parents, implying that the resources that can be applied to quelling financial turmoil will extend beyond the limits of the national central bank.
+By International Organizations We must also recognize that the agendas for strengthening banking systems in industrial and emerging market economies are intertwined.
+There are important cooperative advances to be made, starting with progress on monitoring compliance with international standards.
+But all the effort in establishing standards and guidelines will go for naught if there are not clear, comprehensive procedures for monitoring the performance of banks in meeting them and incentives for adopting them.
+Part of this, no doubt, will require strengthening cooperation among national supervisors.
+Many financial institutions have increased their global reach, and those who have not are still affected by development abroad.
+Supervisors must therefore also strengthen their connections outside their national markets.
+While the events of the last few years that have buffeted world markets caught us by surprise, they were not a total surprise.
+With the benefit of hindsight, we can pick out warning signals in some countries that were missed in advance of the Asian crisis, including an overreliance on leverage, a troubling buildup of short-term financing, and an overvalued exchange rate.
+With LTCM, there was similar excessive leverage and reliance on short-term financing arrangements.
+Going forward, international organizations and national authorities will have to invest more resources in monitoring markets for signs of stress.
+While there is not a single indicator of banking or balance-of-payment crises, the tracking of financial market prices in many markets and financial flows across borders should help to identify trouble spots.
+Where appropriate, national authorities should consider broadening the information they collect.
+Complementary to these efforts, national authorities can take steps to facilitate transparency within markets.
+The key to avoiding excessive leverage is the market discipline that should be provided by market participants' creditors and counterparties.
+But market discipline works well only if counterparties share sufficient information to allow reliable assessments of their risk profiles.
+Supervisors need to ensure that, before establishing credit relationships, regulated entities have a clear picture of a counterparty's risk profile and have ensured that information relevant to that relationship will be available on a sufficiently timely and ongoing basis.
+Public disclosure also has an important role to play, and authorities should make sure that appropriate requirements are in place.
+To be sure, public disclosure is unlikely to be sufficiently timely or detailed to meet the needs of creditors.
+Still, it is essential to protect retail depositors and investors, and it provides a standardized framework from which customized bilateral disclosures can be drawn and elaborated.
+Lastly, industrial countries have the responsibility to assist in the training of supervisors in emerging market economies, an area in which, I am pleased to say, we in the Federal Reserve System have been active for a while.
+We cannot afford not to take this responsibility, and in this regard, virtue is more than its own reward.
+We benefit in such technical assistance by strengthening our contacts with supervisors abroad, which is important when examining internationally active institutions based here at home, and by reducing the potential for adverse shocks from abroad.
+Issues for Further Consideration As I noted, one of the contributing factors to Asian financial distress was the ill-considered buildup of short-term foreign currency borrowing by banks in these nations from banks in industrial countries.
+Some have attributed such behavior to the effects of an inappropriately low capital charge in the Basel Accord for short-term interbank credit extensions.
+They argue that the experience requires an increase in capital charges in order to effectively control the quantity of interbank loans.
+I do believe that we, in fact, should question the treatment of interbank credit by the Accord.
+Credit risk, in my view, ought to be determined by the specific circumstances of the individual borrower.
+If that borrower is really the sovereign, let us be up front about it.
+If the borrower is really a bank, its capital classification should not be determined simply by its home country.
+The Capital Accord should not lend its support to the unfortunately traditional presumption of external creditors that countries need to stand behind all external borrowings by their banks.
+So, by all means, I am firmly in the camp for adjusting interbank capital charges.
+But, I doubt that an alignment of risk weights for interbank credit itself would have had much effect on the borrowing and lending behavior we saw in the runup to the Asian financial crisis.
+This is not to say that interbank lending has not been a problem.
+But the problem may be us.
+That is, we have created a significant moral hazard by, in effect, making lending banks whole, and even increasing their returns, when the borrowing banks in emerging nations are unable to meet their obligations.
+When confronted with the reality, no authority has been willing to face the implications of bank defaults on the losses of the lending banks or the implications of the unavailability of new bank credit for the nation in default.
+But our perfectly rational short-run decisions create the incentive for lending banks to do the same thing again, and again, and again.
+Returns are reasonably high, and risk to them is reasonably low.
+The issue is clearly the short-run-long-run tradeoff and I do not have much to add to the argument about interbank lending other than that some change in the architecture and process must be made or the cycle will continue; and that change must involve some genuine risk-taking by the lending banks if we are to reduce, if not eliminate, the moral hazard we have created.
+Conclusion A final word about short-run-long-run tradeoffs.
+Some have argued that both risk-sensitive capital charges and market discipline will be pro-cyclical.
+The rationale, as I understand it, is that following a peak, as economic conditions deteriorate, evaluations of risk will change, and risk premiums will rise.
+As more potential borrowers are viewed as riskier, banks will be even less willing to lend so as to avoid facing higher capital charges or higher borrowing costs or less availability in the market.
+In an improving economy, the opposite occurs.
+As one of my colleagues states, the problem with market discipline and risk-based capital is that they work.
+If and as they work, we may well observe what the critics note.
+But, that short-run effect has to be evaluated against the long run, and a judgment reached about the terms of the tradeoff.

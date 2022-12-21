@@ -1,0 +1,108 @@
+I would like to thank the SWIFT organization for inviting me to speak to you about disaster recovery and business continuity, one of the main topics you have been discussing this week.
+It has now been a little more than one year since the events of September 11.
+Since then, bankers and the regulatory authorities in various financial centers have been intensively discussing new business-continuity challenges.
+This forum is very important for two reasons.
+First, SWIFT itself is a critical service provider for the largest financial institutions and markets.
+SWIFT’s efforts to provide leadership in strengthening business continuity are both welcome and important.
+Second, the annual Sibos meetings bring together financial industry leaders from around the world to discuss common issues affecting funds transfer, securities clearing, and other payment and settlement businesses.
+The people at this conference have both the responsibility and the experience to address serious common issues involving disaster recovery and business continuity.
+This afternoon I would like to share some thoughts with you about business-continuity challenges and to discuss a white paper on this topic that regulators in the United States have recently published for public consultation.
+I would also like to underscore the opportunities and responsibilities that financial firms and their financial utilities have in this new environment.
+Lessons from September 11 about business continuity in financial markets One of the essential lessons of September 11 is that the human spirit is both noble and resilient in the face of tragedy.
+Many acts of heroism have been recorded.
+I am sure that many more have not been recorded.
+Unparalleled cooperation in the financial markets supported both assistance to those in need and resumption of day-to-day operations.
+In the end, although the financial markets quickly returned to normal operations, I hope that we have learned from our experiences and are able, in a continuing spirit of cooperation, to address the vulnerabilities of the financial industry that were revealed by those events.
+It is critical that we vigorously address the possibility of terrorist attacks in areas where major financial markets or operational centers are concentrated.
+In discussions with financial institutions, someone typically asks, What are the specific threats or scenarios that we need to guard against?
+The answer to this question is not easy because law-enforcement officials and knowledgeable experts discuss a wide range of scenarios, including some with very serious consequences.
+In addition, the next event may be the one that we have not foreseen.
+We have therefore concluded that, for key planning purposes, financial institutions and financial authorities should place more emphasis on the potential effects of regional disruptions than on the potential sources of those disruptions.
+At the national and international level, we must focus on the systemic risk that could result from large-scale, regional disruptions in one or more financial centers.
+In a recent white paper issued jointly by the Federal Reserve, the Comptroller of the Currency, the Securities and Exchange Commission, and the New York State Banking Department, we identified critical financial markets in the United States.
+These include the markets for federal funds, foreign exchange, and commercial paper, as well as the markets for government, corporate, and mortgage-backed securities.
+Additionally, most of these markets are closely integrated with global financial markets with respect to institutional participation and liquidity management as well as pricing and overall risk management.
+From working with clearing organizations and private financial firms since September 11, we know that they are taking steps to reassess their vulnerabilities to regional events.
+They have strong incentives to strengthen their own resiliency.
+Their counterparties expect it.
+The regulatory community has also been working hard to strengthen the foundations of critical markets, for three reasons.
+First, because clearing and settlement functions are performed as part of an interdependent network of activity, there is a concern that the incentives of one organization to strengthen resilience may not fully reflect either the impact of its loss on others or the benefits of its greater resilience for the entire market.
+Second, there is a concern that in times of cost pressures organizations may be tempted to overly discount the risk of future regional events.
+Third, there is a concern that competitive pressures will lead some firms to delay improvements in resilience in the hope that others will shoulder the responsibility.
+In other words, there is a concern that some private organizations may not make sufficient and consistent investments in resilience for the sake of the industry as a whole.
+In addition, over the past thirty years the clearing and settlement infrastructure has become increasingly concentrated in the United States and in some other countries as financial firms have pursued the advantages of economies of scale and invested in technology to reduce costs and streamline procedures.
+In Europe, this process accelerated following the introduction of the euro.
+Not surprisingly, the overall consolidation of infrastructure has been accompanied by increasing technical linkages and interdependence within and across markets.
+In this type of environment, significant single points of failure within clearing and settlement processes can have far-reaching effects throughout the financial markets.
+To address these concerns, the regulatory community has adopted a strategy to help reduce systemic risk from regional disruptions to the clearing and settlement infrastructure.
+This strategy has three broad components: first, prevention; second, management; third, testing and assurance.
+The objective is to reduce the probability that a regional event would bring critical financial markets to a standstill and to ensure the smooth operation of critical infrastructure, if possible.
+Another objective is to allow the most active firms, at a minimum, to wind up transactions, manage the related financial risk, and to resume trading as soon as commercially reasonable.
+Sound practices Our recent white paper sets out several sound practices to achieve these objectives.
+To help prevent and contain the effects of a regional event, financial utilities and critical firms should regionally diversify their back offices and operational sites that support clearing and settlement for critical markets.
+In particular, primary operations and backup operations need to be significantly more diverse in order to meet the greater regional risks.
+The old model of having primary and backup operations centers in close proximity so that they can be served by a common labor pool does not address the possibility of a significant threat to an entire region and labor pool.
+To help manage a regional event, the white paper sets out as a sound practice that financial utilities should plan to recover and fully resume operations on an intraday basis.
+The paper notes that an emerging sound practice is for these utilities to plan to recover and to resume operations within two hours or less.
+Of course, actual recovery times will depend on circumstances.
+However, the objective of rapid intraday recovery provides an important focal point for planning and testing by both utilities and their financial institution customers.
+I should note that the Federal Reserve’s own current recovery objectives for Fedwire are much more aggressive than two hours.
+The paper recognizes clearly that financial firms’ ability to recover their overall operations is critically dependent on their financial utilities.
+This means, in general, that the utilities will have to recover and resume operations more quickly than their participants in order to enable those participants and the overall market to recover in an orderly way.
+Many financial institutions are shareholders and board members as well as participants in private-sector utilities.
+It will be very important for the management of these utilities and their shareholder-participants to work closely to ensure that the recovery and resumption strategies of both the utilities and the participants meet sound practices and are consistent with one another.
+The white paper also proposes that firms that play significant roles in critical financial markets should plan to recover their operations sufficiently so that they can clear and settle trades that have already been executed, as well as complete funds-transfer and other critical operations, on the same business day that an event occurs.
+The paper notes that an emerging sound practice in the industry would call on these significant players to plan to recover in four hours or less, again depending somewhat on circumstances.
+To help prepare for a regional event, the white paper encourages greater contingency and assurance testing.
+As we learned from Y2K and again from September 11, testing is one of the vital elements of contingency planning.
+Our white paper recommends that financial utilities and firms that play significant roles in critical markets routinely use or test their recovery and resumption arrangements for the required connectivity, functionality, and capacity.
+In particular, greater testing between the backup facilities of financial utilities and the backup facilities of their critical members would help the clearing and settlement infrastructure perform more smoothly in the event of a regional disruption.
+Much more coordinated testing among utilities and firms serving different markets would also help in the management of problems involving cross-market clearing and settlement linkages.
+Obviously, in preparing for Y2K we engaged in very large-scale testing.
+In the current context we understand that there may ultimately be diminishing returns from repeated testing and that we must learn from our experiences in preparing for Y2K.
+The industry again is working together to help define reasonable and meaningful tests and to cooperate by participating in them.
+In the United States, the Federal Reserve and Clearing House Interbank Payments System (CHIPS) have already coordinated their test schedules.
+The Federal Reserve Bank of New York’s Payment Risk Committee, the Securities Industry Association, and the Banking Industry Technology Secretariat are working together to address testing and similar issues.
+As I have said before, this spirit of cooperation in addressing critical, cross-industry problems of business continuity and testing is welcome.
+SWIFT played a very important role in preparations for Y2K and since September 11 has been working to share ideas and coordinate testing with other organizations.
+I hope the results of your meetings this week will provide additional ideas and the ongoing support necessary to address the difficult issues involved in strengthening the industry’s level of testing.
+SWIFT clearly can play an important role in promoting and facilitating testing.
+More broadly, SWIFT can adopt and foster emerging best practices for business continuity.
+Challenges in addressing the risks of regional disruptions I would now like to identify three primary challenges in implementing a strategy to address regional disruptions.
+These challenges involve people, business, and technology.
+In developing strategies for regional disruption, we must recognize that the safety of people--our colleagues, employees, and their families--is paramount.
+Different strategies of regional diversification, along with efforts to strengthen security and crisis response within regions, will help protect our people.
+One of the challenges that we face, however, is how to increase individual safety without losing the efficiencies that we have gained from concentrating staff and expertise at critical geographic locations.
+The effect of regional diversification on business also presents challenges.
+Firms will both incur costs and reap benefits with diversification, but it is often difficult to justify adding costs to address contingencies.
+Firms inevitably have a number of strategic priorities and projects that contend for resources.
+We also recognize that some firms are in different positions than others in addressing regional issues.
+Some firms have a national or international “footprint” that makes it somewhat easier to take important measures to diversify operational centers and back-office operations.
+Others, because of historical circumstances or regional specialization, have harder decisions to make.
+These issues are always difficult.
+Firms that play significant roles in critical markets, in particular, need to think very carefully about the new situation we are facing, along with their importance to their customers, counterparties, and the markets generally.
+At the highest levels of major firms, there is a real need for leadership in dealing with an issue that goes beyond ordinary business decisions.
+Our white paper asks a series of questions about how to identify critical firms that need to adopt sound practices for regional diversification and seeks guidance on cost and similar issues.
+The third important challenge involves technology.
+Some key technologies for data storage and communication do not accommodate regional diversification as readily as we all would like.
+The challenge here will be to modify existing arrangements, solve technological problems, and find new ways to facilitate diversification.
+I am sure that the firms attending Sibos are very aware of these issues, and I trust that the market for these technologies will see a flow of very creative solutions over the coming months.
+I would like to add a note about telecommunications.
+We have known for some time that our progress in automating the financial markets has made us highly dependent on telecommunications.
+In our own discussions within the Federal Reserve and our discussions with others, the issue of telecommunications circuit diversity is very important.
+I encourage firms to take this issue seriously and to discuss it with individual telecommunications providers, industry groups, and appropriate government officials.
+Conclusion In taking the next steps to strengthen the foundations of our critical financial markets, we need to constantly remember how dependent we are on one another.
+We will not accomplish our task if one or two organizations strengthen their resilience and others do not.
+Instead, we need to work hard to adopt consistent strategies to meet regional risks that together address prevention, management, and testing.
+The importance of creating and maintaining a highly resilient financial services sector is self-evident.
+Similarly, the challenges to achieving that goal are numerous, involving, as I indicated, people, business, and technology.
+Given the importance and complexity of this topic, senior management will need to become fully engaged.
+At the international level, the openness of our financial systems means that the business-continuity practices in one country can affect critical markets in another.
+We will therefore need to share information and sound practices that will help us address regional risks in various countries.
+At this stage, this does not necessarily mean traditional regulatory coordination.
+Rather, private firms and the financial authorities will need to work together within their various communities and with each other to make our key business-continuity practices more robust and more consistent.
+We also need to recognize that new business-continuity strategies need to be practical.
+We are looking forward to receiving the views of market participants and other knowledgeable experts to help ensure that the final white paper ultimately sets out sound practices that are well grounded and practical.
+As we work through these new challenges, however, we must keep in mind that to do nothing would leave serious risks unaddressed.
+I would like to close by noting the importance of our financial centers.
+These cities are a source of work, play, and inspiration for millions of people.

@@ -1,5 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"according to a global survey of financial institutions conducted by pricewaterhousecoopers, part of the reason why financial institutions are not making the grade is that they equate effective governance with meeting the demands of regulators and legislators.1 that is, they tend to look at this as another compliance exercise.",LABEL_2,0.986991286277771
-1,"the disclosure of deficient business and governance practices can then lead to lower share prices, the likelihood of potential shareholder lawsuits and enforcement actions, the loss of credibility and damage to a bank's reputation, and the payment of higher spreads to access capital markets.",LABEL_1,0.935603141784668
-2,"or, we could say those negative statistics only apply to the boards and senior managers at a small group of poorly rated institutions who now have to pay the price.",LABEL_0,0.9964191913604736
-3,"in part, this is due to the significant improvements we have seen in the last two decades in interest rate and credit risk management.",LABEL_2,0.9050819277763367

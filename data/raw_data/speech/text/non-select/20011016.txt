@@ -1,0 +1,126 @@
+As this audience knows better than most, last month our country, and our financial system, suffered a trauma of almost unimaginable proportions.
+The fixed-income community has borne a disproportionate share of the loss.
+You and the firms that you represent are to be commended for persevering even in the face of great personal grief and professional stress, which may persist long into the future and, for many, will never be put entirely right.
+Our topic today is risk management, and I will turn to that shortly.
+First, however, I would like to spend just a few minutes discussing my views regarding the state of the U.S. economy.
+The longer-term prospects for the U.S. economy remain sound, just as they were before September 11.
+Our flexible markets, entrepreneurial spirit, and well-educated work force, and more recently major advances in information technology, bode well for the long-term growth of productivity, employment, and standards of living.
+Clearly, the immediate impact of the events of September 11 was negative--from disrupted sales, air travel, and production, not to mention the effect on the attitudes and expectations of consumers and businesses.
+Spending appears to be recovering from the initial cutback, but of course it is too early to assess how great the influence will be in the medium term.
+Although severely disrupted by the attacks, financial market operations and activity have nearly recovered, with the exception of some strains in the repo market.
+The initial direct disruptions proved to be short-lived.
+If the extent of the economic damage inflicted by the attacks is unknown at this point, so too is the length of time before aggregate economic growth picks up.
+Many private-sector economists are forecasting a brief decline in economic activity during the second half of this year, followed by a recovery early next year.
+Whether this outlook becomes reality depends importantly on the aforementioned household and business confidence.
+Individuals could curtail consumption and businesses could curtail investment because they are concerned about the direction the economy will take.
+However, opposing these contractionary impulses, should they occur, will be a more expansionary fiscal policy.
+Moreover, monetary policy has been and will continue to be responsive to rapidly changing circumstances.
+All told, as you know, we have taken the federal funds rate down 100 basis points since September 11, in two steps of 50 basis points each.
+It is too soon to judge the strength of these various forces--consumer and business behavior, monetary and fiscal policy--and how they will balance out.
+Risk Modeling: Benefits and Critiques Let me turn now to the theme of this conference.
+Risk management, as this audience is very well aware, has been revolutionized in recent years by advances in both theory and technology.
+This morning, I would like to discuss the nature of better risk management and also some observers’ criticism that the expanded use of sophisticated techniques for measuring and managing risk may actually increase market volatility and reduce market liquidity.
+For centuries, financial intermediaries--lenders, institutional investors, dealers, and insurers--have engaged in risk modeling.
+The model was in their heads and was based on judgment and experience, but that model involved categorizing and evaluating the proposed risk and reaching a series of interrelated decisions.
+For example, in the context of bank lending, for each potential credit those decisions have included: (1) whether or not to lend, (2) at what price to lend, (3) what maturity should the loan have, and (4) what collateral to accept and how to structure it.
+Formal models for market and credit risk are designed to augment judgment and experience to help make exactly the same decisions.
+The difference, of course, is that models rely on a clearly specified base of information and do so in a structured way.
+Judgment is still required in determining inputs and evaluating outputs, but the modeling process was inconceivable before the development of both modern finance theory and modern information technology.
+And, in my opinion, by measuring and managing risk in a formal and structured way, models, when combined with sound judgment, have, on balance, improved the resultant decisions.
+What have been the benefits of the new model-based approach to risk measurement and management?
+The most important is that better risk measurement and management contribute to more-efficient resource allocation.
+When risk is better evaluated, it can be more accurately priced; if it can be more-accurately priced, it can be more easily spread among a larger number of market participants, improving the risk-bearing capacity of the market.
+Better risk measurement and the consequent more-efficient risk-sharing improve the markets’ ability to allocate resources to the most productive uses.
+One example close to the hearts of this audience is the improvement in credit risk modeling that has led to the development of new markets for credit risk transfer, such as credit derivatives and collateralized debt obligations (CDOs).
+These new markets have expanded the ways that market participants can share credit risk and have led to more-efficient pricing of that risk.
+More accurate risk measurement and better management do not mean the absence of loss.
+Those outcomes in the tails of distributions that with some small probability can occur, on occasion do occur.
+But improved risk management has meant that lenders and investors can more thoroughly understand their risk exposure and intentionally match it to their risk appetite, and they can more easily hedge unwanted risk.
+I submit that we are already reaping the benefits of better credit risk management in the relatively modest lender and investor difficulties associated with the current slowdown in the economy.
+Classified bank loans, defaults, and bond downgrades have increased, but the hits to the capital of financial intermediaries have been relatively small, in part, because of the diversification of portfolios and the dispersion of risk that these new tools make possible.
+Nonetheless, not everyone is a fan of the increasingly widespread use of sophisticated risk-management models.
+Some express concern about a market externality that may flow from their wider use.
+The core of the criticism is that more widespread use of a relatively few models and databases may induce a significant number of market participants to respond to new information or shocks by attempting simultaneously to transfer their risks to others.
+These critics fear that the resulting adjustments in asset prices and market liquidity that are associated with the reallocation of risk can sometimes be disruptive to market functioning, straining market liquidity and magnifying market volatility.
+The flaw in this critique is that it fails to consider the proper counter factual.
+The question one must ask is whether formal risk models improve the risk-transfer process relative to the process without such models.
+In my judgment, the answer to that question is that formal risk models have made the risk-transfer process more efficient than it otherwise would be.
+That statement does not mean that the risk-transfer process is perfect but that, on balance, it is better.
+Formal models help firms attempting to shed risk to identify available hedging strategies and to choose the most appropriate strategy, given the prevailing market conditions.
+Formal models help firms with larger risk appetites--in other words, those willing to take on additional risk--evaluate their capacity to absorb and manage such risks and to take on the risk shifted from others.
+I contend that firms with larger appetites for risk will be relatively more willing to take on additional risk if they can model and manage it better.
+Without formal risk management, a firm would still be able, in times of high market volatility, to sense that its risk had risen.
+But it would be uncertain about exactly how the market volatility had affected it.
+The firm would, in effect, be flying by the seat of its pants.
+The uncertainty, it seems clear, would lead to less-effective decisionmaking and less ability to transfer risk to someone willing to bear it since others, too, would face the same uncertainty.
+Greater uncertainty would also heighten the potential that markets would simply seize up.
+Though models in general help reduce uncertainty and increase efficiency, the sophistication and structure of risk-management models vary widely, belying the notion that their use would create herdlike behavior.
+This point applies with full force to value-at-risk models in use at U.S. commercial banks, a topic about which the Federal Reserve has gained considerable knowledge through supervisory oversight.
+Our examiners have observed how banks implement a common objective--measuring the value at risk of the bank’s trading account--in diverse ways.
+Other sources of diversity among financial firms include differences in customer bases and product lines.
+These additional sources of variation create considerable heterogeneity in financial firms’ trading strategies, in their risk-taking, and in their responses to market shocks.
+Nonetheless firms should be aware of the models that their competitors are using and alert to the possibility that a single model could carry undue weight in the assessment of risk in a particular market.
+Still, neither the models nor the actual risk positions are now, or are likely to be, as similar as assumed by observers concerned about the negative implications of model-based risk management.
+In addition, it would be a mistake to think that decisionmaking at financial firms has become, or is likely to become, so rigidly bound by models that the models would dominate the process in any meaningful sense.
+Judgment, experience, exposure limits, and procedures for exceptions are also significant and, at times, critical, and it is important that these more traditional elements of risk management continue to play key roles.
+Areas for Improvement in Risk Modeling Although I believe that some of the criticisms of recent advances in risk management are misguided, events of the past several years have highlighted several areas for improvement.
+On balance, formal risk modeling has improved risk management, but making further improvements is important.
+For example, market participants have been made keenly aware of the implicit assumptions about market liquidity embedded in models and of the ways in which market, credit, and liquidity risk can interact.
+One common criticism of risk-management models is that they ignore the risk that liquidity may dry up or become depleted in certain markets, making trading difficult, if not impossible.
+It is certainly true that the first generation of risk-management models did not deal with liquidity in the most sophisticated way, but they did partially address this important issue.
+For example, the standard measures of value at risk assume that the firm cannot alter its positions for a time as market prices change.
+In other words, these models assume complete illiquidity throughout a stated holding period.
+Another widely used, but more sophisticated, approach that takes account of liquidity risk is stress testing.
+Unlike value-at-risk models, which usually assume normal market conditions, stress tests help to quantify how much a firm could lose in unusual or stressful scenarios.
+A typical stress scenario incorporates extremely large shocks of the kind that are almost always associated with reduced market liquidity.
+In sophisticated cases, these scenarios can be dynamic in that they account for likely changes in the firms’ positions.
+A fixed-income dealer, for example, might consider a scenario in which the firm first accumulates a long position in certain bonds because of customer order flow, and then those bonds experience a large price decline at the same time that liquidity decreases or dries up.
+A survey done last year by the Group of Ten central banks found that nearly all internationally active banks use stress tests to help them understand their risk profiles and to communicate with senior management.
+Even relatively simple methods can be used, to some extent, to quantify the liquidity risk that firms face.
+For example, the liquidity of each asset position in an investment portfolio can be measured as the number of days it would take to liquidate that position, assuming that the firm limited its trading on any day to 20 percent of average daily volume.
+Aggregate portfolio liquidity would be the weighted average of this statistic across the entire portfolio.
+With this relatively simple measurement, which requires only minimal modeling effort, the risk manager can flag the most illiquid positions as a special concern and can monitor changes in the portfolio’s aggregate liquidity over time.
+Of course, as I discuss below, this simple measurement may not identify the full range of potential liquidity risks.
+This example of measuring liquidity risk shows how important market transparency is to efficient risk management.
+That is, judging liquidity risk is easier in a transparent market like the equity market, from which the foregoing example is actually taken, than in a non-transparent market like the corporate bond market.
+However, as this audience knows well, the transparency of the corporate bond market will improve next year when the collection and dissemination of data on secondary market trading begin.
+I suspect this new source of data will improve the ability of fixed-income risk managers to measure and manage the liquidity risk of corporate bond portfolios.
+Although a number of methods for measuring liquidity risk are already used, the quantification and modeling of market liquidity remains a relatively new area in which I expect to see, and I encourage, further growth.
+Another weak spot of risk-management models is the risk associated with unknown common positions.
+That is the risk that several firms are holding the same positions, and all of those firms are basing their value-at-risk estimate on the assumption that these positions could be liquidated more quickly than they actually could.
+This circumstance is also known as a “crowded trade.” Examples include the fixed-income relative-value arbitrage in autumn 1998.
+In autumn 1998, simultaneous liquidations by many market participants, some of them forced because of collateral or margin calls, caused liquidity spreads to widen far beyond the limit that a risk-management model using historical data would have deemed possible.
+In the wake of this experience, market participants reported that they had not fully understood the balance sheet of Long Term Capital Management (LTCM) and other large players, and hence, in some cases, their risk-management models had underestimated their own portfolio’s risk.
+Prudent risk managers are probably aware of this limitation in their models--more aware now than they were before the LTCM crisis, perhaps--and all risk managers should try to manage this risk as best they can.
+Unfortunately, there are no easy ways to account for it in a typical risk model.
+Essentially what risk managers can do is to forecast other investors’ needs for market liquidity in the future.
+These projections could draw on information such as other investors’ asset allocations, market risk, leverage, and ability to manage liquidity risk.
+In the final analysis, the judgment and experience of traders and risk managers come into play.
+A third area in which risk-management models currently fall short but improvements are possible is counterparty credit risk.
+Of concern here is that, knowing their ability to measure counterparty credit risk is limited, dealers may cut their business with all counterparties in times of market stress rather than focusing on the counterparties that pose the greatest risk of loss.
+Indeed, this is a major source of “contagion” in times of market stress--the phenomenon that causes even fundamentally healthy enterprises to suffer when the market punishes sick ones.
+Improvements in counterparty credit risk modeling, spurred by the events of autumn 1998, continue.
+The need for better quantitative and qualitative information about counterparties is essential to any improvement in counterparty credit risk modeling.
+For example, what asset classes or strategies does the counterparty employ?
+How much leverage does it tolerate?
+How liquid or illiquid is its balance sheet?
+All these questions must be answered for a risk manager to know how a stressful event would affect the counterparty.
+A key area in counterparty credit risk modeling, as well as in risk modeling more generally, that needs improvement is adequately accounting for the interaction of market, credit, and liquidity risk.
+These risks are typically measured and managed in isolation from one another, but in reality, they are often linked.
+An event that drives down the value of a particular asset is likely to reduce the liquidity of that asset as well, at least in the short term.
+Certain types of market and credit risk exposures are closely linked--for example, derivative contracts on emerging-market exchange rates written with a counterparty from that emerging market.
+Risk managers use qualitative information about the interaction of market, credit, and liquidity risk to control their exposures.
+One way they do so is by flagging those deals in which such an interaction is likely.
+Another is by quantifying their vulnerability with stress tests.
+Some progress in this area has been made, but more work clearly remains to be done.
+Finally, we are all more aware now of the need to understand operational risk.
+Although operational risk is not easily susceptible to formal modeling, the events of September 11 have highlighted its importance to market participants, to financial institutions, to the financial utilities, and to the regulators and supervisors.
+Addressing operational risk requires, at a minimum, stronger and deeper operational back-ups--including systems and telecommunications--at individual firms and their service providers.
+Conclusions In closing, I think it useful to revisit one of the main issues I have raised today--whether a firm’s risk-management decisions should be informed by formal risk modeling.
+Clearly, either with or without formal modeling, a firm will always respond to a change in perceived risk.
+Formal risk models provide a systematic and disciplined way for firms to measure changes in the riskiness of their portfolios, and they provide a framework to help firms develop strategies to manage changes in their risk.
+Put differently, formal models are tools that help provide information to firms so that they can better think about what they are doing.
+In using this tool, practitioners must never lose sight of the fact that models need continued care and feeding to keep them in line with the latest knowledge, and parameters need to be set with due regard for low-probability events that may not be adequately addressed in recent data.
+Practitioners need to keep in mind that rare events implicit in the tails of distributions will occasionally occur.
+The critics don’t seem to mention perhaps the biggest risk of the increasing importance of models: the lulling of the users into a false sense of well-being that loses sight of these potential tail events.
+I find, on balance, recent advances in the formalization of risk measurement and management to be beneficial.

@@ -1,0 +1,142 @@
+It is a pleasure to be here on the panel discussing the restructuring and integration of our financial system.
+I am delighted that the North American Economics and Finance Association (or NAEFA) has given me the opportunity to participate in honoring its distinguished past-president, Andy Brimmer.
+I am also honored and pleased to be on the panel with Ed Kane, Allen Sinai, and Ken Guenther, as well as the honoree himself.
+It seems apparent from the participant list and from the titles of this evening's talks that we will have a lively discussion, that we will cover the issues from a number of angles, and that we will have an interesting diversity of opinions.
+I will direct my remarks to the on-going transformation of the U.S. banking system, and suggest what I believe some of the key policy responses to this transformation should be.
+To be more specific, I will focus on two aspects of the transformation: consolidation and integration.
+By consolidation, I mean the concentration of banking resources into fewer and larger banking organizations, primarily through mergers and acquisitions, or M&As, among existing banks and bank holding companies.
+By integration, I mean the expansion of the scope or breadth of banking organizations into the provision of financial services not traditionally offered by banks, at least in this nation, such as securities underwriting and insurance.
+Integration often occurs through M&As between banking organizations and other financial service firms.
+For the most part, consolidation and integration of the banking system have been driven by similar economic motivations and the policy responses are based on the same principles.
+However, there are some important and interesting differences in the challenges posed by these two trends.
+It is clear that the consolidation of the banking industry has been well under way for some time.
+The number of U.S. banks and banking organizations fell by almost 30 percent between 1988 and 1997, while the share of total domestic banking assets held by the largest ten banking organizations rose from 20 percent to 34 percent, and the share of the top fifty organizations rose from 51 percent to 66 percent.
+Several hundred M&As occurred each year, about half of which were of the in-market type between banks with deposits in the same metropolitan area or rural county.
+The other half were of the market-extension variety between banks in different local markets.
+This distinction between in-market and market-extension M&As will be important for assessing both the consequences of and the policy responses to M&A activity.
+During recent years, there were a number of especially large bank M&As, several of them between institutions with assets over $100 billion each.
+These very large M&As also require some special policy attention.
+In contrast with this consolidation activity, the integration of banking with other financial services is somewhat more recent and has not progressed nearly as much.
+Since 1996, there have been significant acquisitions of investment banking firms by bank holding companies, but such M&As were rare before that time.
+I will discuss the reason for this temporal pattern of integration in a moment.
+What is causing the consolidation of the banking industry and the integration of banking with other financial services?
+Why have banking organizations been engaging in M&As with other banking organizations for some time now, and why have we observed M&As between banking and nonbanking financial services firms more recently?
+I want to distinguish between the goals of the firms participating in the M&A activity, which I believe have not changed over time, and the constraints they face in achieving these goals, which have changed dramatically.
+The main goal or motive behind most consolidation and integration activity is the same goal or motivation behind most corporate activity--maximizing shareholder value--although I acknowledge that the preferences of managers and government supervisors also often affect M&A decisions.
+Shareholder value may be increased through M&As primarily by improving the efficiency of the participating firms, by increasing their market power in setting prices, or in some cases by increasing their access to the safety net.
+As I will discuss further in a moment, I believe that policymakers should allow market participants to take advantage of opportunities to improve their overall efficiency, while at the same time policymakers must act to mitigate the social costs from potential increases in market power and increases in systemic risk or other expansions of the safety net.
+That is, we should leave the efficiency issues to the marketplace to decide, and try to prevent large increases in market power and risks that impose costs on others.
+Our role cannot be to micro-manage decisions that should take place in the market, but rather to prevent significant negative externalities to the banks' consumers, the financial system, and the taxpayers who provide the ultimate funding behind the safety net.
+Although the main goal behind consolidation and integration has remained constant, the constraints faced by banking organizations in achieving this goal have changed dramatically over time.
+I would argue that the reason we have seen such intense consolidation activity over the last decade, and some integration activity recently, are several major changes in the constraints faced by banking organizations in maximizing value.
+Many of these changes are driven by market developments that are not directly related to policy changes.
+Such developments include technological progress, improvements in financial condition, excess capacity or financial distress in some markets, and consolidation of markets across national boundaries.
+Nonetheless, perhaps the most important changes in constraints were policy related--the deregulation of geographical and product restrictions on banking organizations.
+Restrictions on banks' ability to expand geographically were relaxed in the 1980s and first half of the 1990s with a series of removals of restrictions on intrastate and interstate banking, concluding with the Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994, which permits interstate branching into almost all states.
+The prior geographic restrictions on competition likely permitted some banks with relatively low shareholder value to survive.
+The removal of these constraints allowed some previously prohibited M&As to occur, which may have forced these poorly performing banks to become more efficient or otherwise increase shareholder value by acquiring other institutions, by being acquired, or by improving management practices internally.
+In short, the deregulation of geographical restraints on bank competition has been a powerful force behind bank consolidation.
+The limited deregulation of product restrictions has also undoubtedly led to the recent increase in the integration of commercial banking with investment banking.
+The Glass-Steagall Act and related legislation effectively limited banking organizations' abilities to underwrite securities.
+Significant liberalization of these powers began in 1987, when the Federal Reserve expanded bank holding companies' abilities to underwrite corporate debt and equity through "Section 20" affiliates, albeit with revenue and other restrictions.
+Following the last liberalization of these restrictions in 1996--which allows revenue from underwriting corporate debt and equity to be as much as 25 percent of the affiliate's total revenue--there have been several large M&As between bank holding companies and securities firms.
+Despite the geographic and bank powers deregulation, unless there are further actions the remaining regulations likely will continue to restrain consolidation and integration activity significantly relative to the bank shareholder and management preferences.
+For example, the Riegle-Neal Act caps the total amount of deposits that any banking organization may reach by M&A to 30 percent in a single state and 10 percent nationally.
+This cap is close to binding already on some organizations and may make it difficult for any banking organization to have deposit-taking branching operations in all 50 states.
+The remaining bank powers restrictions also appear to hamper integration.
+For example, most insurance underwriting remains prohibited for banking organizations, except on a temporary basis following M&As.
+The potential consequences of banking consolidation and integration are numerous, indeed far too many to discuss in one talk.
+Tonight, I will address three: efficiency, market power, and systemic risk/safety net issues.
+I will then conclude by suggesting further how policymakers should address these potential consequences.
+Consolidation and integration may increase bank efficiency in a number of different ways.
+M&As may allow the institutions to achieve a scale, scope, or mix of output that is more profitable.
+The gains may come as a result of cost savings, revenue increases, or both.
+M&As also may be a means to change organizational focus or managerial behavior to improve X-efficiency, or the ability to produce the highest value of outputs for the smallest value of inputs.
+Other potential efficiency gains include improvements in the institution's risk-expected return tradeoff.
+These gains may be particularly important in consolidations of banking organizations in different regions or nations, and in integrating banking with other financial industries with different return characteristics.
+Reductions in risk--from diversification gains or improved risk-management techniques--may increase shareholder wealth because financial distress, bankruptcy, and loss of franchise value are costly.
+The available evidence suggests that bank consolidation increases profit efficiency and helps diversify the portfolio risks of the participants, at least on average.
+Much of the improved profit efficiency appears to have come about because banks have taken at least part of their diversification gains not as reductions in their overall risk, but as higher expected returns by taking on additional high risk-high expected return investments in their portfolios.
+The data suggest that there was little or no cost efficiency improvement on average following M&As--most of the gains were on the revenue side.
+Until a few years ago, the empirical research on scale economies in banking suggested that increases in scale beyond a relatively small size did not improve efficiency and may even create diseconomies.
+However, recent studies suggest that there may be some scale, scope, and product mix efficiency gains available from consolidation, even among fairly large institutions, but there are not yet enough data on these large institutions to draw strong conclusions.
+There are also considerable potential positive and negative efficiency effects of combining banks with nonbanks, but there is little evidence to date on this topic.
+Put differently, there is still a lot we do not know about the potential efficiency effects of M&As among very large institutions.
+The consolidation of banks through in-market M&As--that is, M&As between institutions that have significant local market overlap ex ante--may increase local market concentration and allow the consolidated firm and other firms in the market to raise profits by setting prices less favorable to customers.
+In particular, this may affect rates and fees on retail deposits and small business loans, as these products are typically competed for on a local basis.
+The available evidence suggests that those in-market M&As that raise local market concentration substantially appear to result in less favorable prices for some retail customers and possibly less efficiency for the firms providing these products.
+Importantly, average concentration in local U.S. banking markets has not increased over time, even while large numbers of in-market M&As were occurring, suggesting that other market and regulatory actions have prevented large increases in local market power on a widespread basis.
+Perhaps the most important market development preserving competition has been the continued economic viability of small and medium-sized depository institutions.
+Indeed, new entry into U.S. banking, primarily by small institutions, has been truly impressive over this period of significant consolidation.
+For example, from 1980 through 1997, 3,621 new banks were chartered in the United States.
+In addition, I believe that the actions of the Federal Reserve, the other banking agencies, and the Justice Department have played important roles in keeping market concentration and the effects of local market power mostly under control.
+In my view, we should continue to prevent M&As that increase local market concentration substantially.
+In contrast, M&As of the market-extension type that join institutions in different parts of a state, different regions of the nation, or different nations are less likely to increase market power significantly.
+This is because households and small businesses almost always choose a local financial institution and the purchasers of wholesale financial services, such as large corporate loans, may shop for services in national or international markets.
+It seems unlikely that consolidation would create substantial market power against the large clients for these services, who typically can choose among many suppliers.
+It also seems unlikely that integration of banking with nonbank financial service providers would create significant market power.
+Consolidation and integration may increase systemic risk or otherwise expand the safety net in several ways.
+Consolidation and integration may affect systemic risk in part by changing the risks of individual institutions, particularly the risks of large institutions whose credit or liquidity problems may affect many other depositories.
+If the risk of an individual institution is higher, this raises the probability that the institution will fail or become illiquid before settling some of its payments obligations, exposing other institutions directly to risks as payees, or indirectly through contributing to panic runs or securities markets problems.
+M&As may either increase or decrease the risk of institutions, mostly depending upon whether any diversification gains are offset by the institutions' pursuit of additional risks.
+As I already mentioned, the research results suggest that in many cases consolidating banks appear to move along the risk-expected return frontier and take most of the benefits of diversification gains as higher returns by shifting their portfolios toward higher risk-higher expected return investments.
+Consolidation and integration may also affect systemic risk by increasing the sizes of the institutions.
+The systemic consequences of the failure of one or more very large players may be more severe, spreading problems to more counterparties, particularly for institutions that are heavily involved in clearing and settlement functions.
+Put differently, the creation of institutions that may be viewed by the market as too-big-to-fail is a real concern that policymakers must face directly.
+When dealing with such situations, I believe that we must be guided by some fundamental principles.
+The most basic of these is that any bank can fail in the sense that stockholders can lose all, existing management can be replaced, and uninsured creditors can suffer losses.
+If need be, the institution can be wound down and even eventually sold--in whole or in part--in an orderly way.
+In the case of very large institutions some of these actions may take considerable time, and certainly will take great care.
+To be sure, there could be macroeconomic circumstances or unusual market fragilities that require extended periods of government assistance--and even management--in order to assure economic and financial stability.
+But even in these cases stockholders and management should bear the maximum cost.
+Indeed, the realization of significant losses should be the expectation of owners, managers, and uninsured creditors of any failed institution.
+These principles have been advanced by the Board for many years, and their essence has been codified in the FDIC Improvement Act of 1991.
+If policies consistent with these principles are followed, then it seems to me that the moral hazard of too-big-to-fail will be reduced to manageable proportions, while the financial system is protected.
+The safety net may also be extended when M&As combine banking with nontraditional activities, activities that might not otherwise receive safety net protection.
+In my judgment, there is no fool proof way to completely prevent the risks from nonbanking activities from spreading to the insured bank and giving some of the benefits of the safety net to the nonbanking activity at the margin.
+However, this does not mean that we should not try to minimize these effects.
+A significant part of the minimization process is to assure by action no assistance or bail out of nonbank affiliates, and significant limits on bank exposure to these affiliates.
+Let me now turn specifically, but briefly, to my views regarding some additional policy responses to the developments I have just outlined.
+As I alluded to earlier, the appropriate responses to these potential consequences of consolidation and integration--efficiency, market power, and systemic risk/safety net expansion--are quite different.
+First, I believe that the best response to potential changes in efficiency from M&A activity is no response.
+We should allow banks to take advantage of perceived opportunities to increase profitability by improving efficiency, and leave it to the market to discipline errors made in this regard, so long as substantial externalities are not generated.
+With regard to the potential for increases in market power, our policy goal should be to prevent substantial increases in market power in much the same way that we have done so in the past.
+We need not worry much about market power except for in-market mergers between banking organizations.
+Our basic policy should be--and is--to deny or alter M&As that appear likely to result in substantial increases in local market power over locally limited customers, primarily retail depositors and small businesses.
+Here, we can and should continue to develop our tools for measuring market power potential and for defining local banking deposit and loan markets.
+For example, the growing roles of nonbank competitors and electronic banking must be monitored carefully and taken into account.
+However, in my view, the basic policy of preventing large increases in local market power should continue.
+Minimizing the potential for bank M&As to significantly increase systemic risk and to expand safety net subsidies requires a portfolio of policy responses.
+Since in my remarks tonight I only have time to suggest a few directions, I will limit my attention to some relatively new and developing areas.
+In my judgment, new policies must be formulated in three general areas: capital regulation, bank supervision, and market discipline.
+In the capital regulation area, it is clear that the current system of risk-based capital standards, or the Basle Accord, is increasingly out of date.
+Particularly critical is the way the Accord deals with a variety of credit risk issues, the treatments of which are currently rather crude.
+Indeed, plans are well under way in both the domestic and international arenas to revise the Basle Accord.
+And, while the exact nature of proposed revisions is unclear, I think that it is very clear that we need to view capital standards as an evolutionary process that must be reviewed and revised periodically in order to adapt to market developments.
+The same comment can be made with even more force with regard to bank supervisory policy.
+The rapid pace of technological and intellectual change in financial risk measurement and management requires that supervisors keep up, and change their own policies and procedures appropriately.
+A particularly important market development that has import for both supervision and capital regulation is the increasing use and sophistication of credit risk models at the largest and most complex domestic and foreign banks.
+Understanding, evaluating, and criticizing these models is quickly becoming a required skill of bank supervisors.
+But credit risk models are only the tip of an iceberg that includes ever new methods of securitization, credit derivatives, remote originations, financial guarantees, and many other financial innovations.
+Add to this the incredible speed with which financial transactions are now conducted, and one gets an idea of the many challenges bank supervisors face.
+I am optimistic, however, that--by working with the banking system--the supervisory process will adapt, as it has in the past.
+Indeed, the experience of the thrift industry hardly a decade ago reminds us there is really no alternative to adapting and maintaining an effective oversight process as bank activities become ever more sophisticated and complex.
+The potential costs of not changing are too great.
+To that end, supervisory practices of all the banking agencies are changing in order to adapt to new conditions.
+In particular, oversight has become much more continuous and risk-focused than before, especially for the largest institutions.
+We can no longer rely on periodic on-site examinations to ensure that these largest banking organizations remain sound, but rather must be confident that their risk management practices and internal controls are adequate and effective at all times.
+This approach places greater importance on an institution's own management process, from the top down.
+Boards of directors are required to be actively involved in setting the tone for risk taking, staying informed about the level of risks and how they are managed and controlled, and ensuring that senior management is competent and that it has the needed resources.
+Management is expected to develop and enforce the policies, procedures, and limits necessary to implement and conduct bank activities and to see that risks are adequately measured and identified.
+Follow-up controls, evaluated by an independent internal auditing function, must be sound.
+In its own efforts, the Federal Reserve is making greater use of stable, designated teams of examiners to evaluate activities of the largest and most complex institutions, with the teams structured to provide the skills and expertise most relevant to each bank.
+We are also designing and revising our computer systems to provide greater and more timely information about these institutions to appropriate supervisory personnel throughout the Federal Reserve System.
+As banking organizations expand throughout the country, we also need to draw on resources nationwide.
+I believe that the complexity of modern finance requires that we also move to strengthen the ability of market forces to discipline the potential for excessive risk taking at banks.
+Two general areas seem especially promising.
+First, greater transparency of bank balance sheets and risk exposures is, in my judgment, a must.
+Great progress could be achieved in this area with improved disclosures by banks and banking organizations.
+Possibilities include more frequent reporting and the disclosure of credit risk modeling procedures, risk positions, and perhaps even supervisory evaluations.
+The second strategy that may hold considerable promise for enhancing market discipline is to require banks to issue minimum amounts of subordinated debt to non-related parties.
+Such debt holders would have risk preferences similar to government supervisors, and thus would help to discipline excessive risk taking.
+Significant changes in the market prices or ratings of this debt might also provide useful signals to supervisory authorities, alerting them to examine a bank or inspect a holding company more quickly than they otherwise would.

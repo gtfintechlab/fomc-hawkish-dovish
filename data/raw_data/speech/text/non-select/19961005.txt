@@ -1,0 +1,96 @@
+I hope that by the end of my remarks this morning it will be clear that we, the regulators, share with you ultimately the same objective of a strong and profitable banking system.
+Such a banking system knows how to take and manage risk for profit.
+The problem is what, if anything, regulators should do to constrain the amount of risk bankers take in trying to meet their corporate objectives.
+I have given considerable thought to this issue over the years, and today I would like to address this theme once again.
+I.
+The Changing Nature of Bank Supervision and Regulation At the outset, it is critical to understand some key unintended implications of the safety net--our system of deposit insurance, payment guarantees, and discount window credit.
+First, since the safety net makes bank creditors feel safer, the banking system is larger, more stable, and more able to take risk and extend more credit than otherwise would be the case.
+In the process, banks have contributed significantly to the economic growth of the nation and continue to do so.
+Second, since deposit insurance premiums do not, and probably cannot, vary sufficiently with risk, the disconnect between bank portfolio risk-taking and a bank's cost of funding has made necessary a degree of regulation and supervision that would be unnecessary without the safety net.
+That is, since the market signals that usually accompany excessive risk-taking are substantially muted, regulators are compelled to act as a surrogate for market discipline.
+In addition, our preoccupation with prudential risk-taking has added to the pressures put on the entire banking and regulatory structure by technology and globalization.
+Many of the activities that banks feel are necessary responses to these market pressures are either prohibited by statute or constrained by regulation because of our concerns about exposing the safety net to unacceptable risk.
+These implications of the safety net highlight the dilemma of the regulator.
+How do we avoid killing the goose that lays the golden egg--an innovative and flexible banking system--without either exposing the taxpayer to excessive potential cost or the financial system to excessive systemic risk?
+The answers to this question are critical.
+First and foremost, as I have indicated many times before, the optimal failure rate in banking is not zero.
+Risk-taking means that failures will occur, and, moreover, if we did not permit risk-taking, and therefore the possibility of failure, the banking system would not be in a position to foster economic growth.
+The banking system would shrink because it would be unable to carry out its underlying economic function.
+While failures will inevitably occur in a dynamic market, the safety net--not to mention concerns over systemic risk--requires that regulators not be indifferent to how banks manage their risks.
+To avoid having to resort to numbing micromanagement, regulators have increasingly insisted that banks put in place systems that allow management to have both the information and procedures to be aware of their own true risk exposures and to be able to modify such exposures.
+The better these risk information and control systems, the more risk a bank can prudently assume, although higher risk positions generally will require larger loan loss reserves and higher capital.
+I might also note that risk management standards are increasingly an important supplement to traditional supervisory techniques.
+The use of new technology and instruments in rapidly changing financial markets means that some balance sheets are already becoming historical artifacts that are not even necessarily indicative of risk exposures of the next day.
+In such a context, the supervisor must rely on his evaluation of risk management procedures as a supplement to--and in extreme cases, in lieu of--balance sheet facts.
+As the 21st century unfolds, the supervisors' evaluation of safety and soundness, of necessity, increasingly will be focused on process, and less on historical records.
+Well-functioning risk management systems are necessary, but not sufficient, for taking on greater risk.
+Banks must also have the capital resources to absorb the inevitable losses that result from risk-taking and still remain solvent.
+Thus, banks are required to maintain both reserves consistent with expected losses and capital sufficient to absorb the vast majority of unexpected losses that experience and data suggest could occur, but whose timing and size are not predictable.
+Determination of appropriate capital levels is not just a regulatory concern.
+Increasingly, bankers are treating the determination of proper capital levels as integral to the meeting of shareholder goals.
+Shareholder value is maximized, almost surely, when long-run risk-adjusted return on equity is maximized.
+One method of quantifying the risk-adjusted return is to measure returns--net of expected losses--against the capital that should be allocated to a transaction to reflect that transaction's risk.
+As I will discuss in more detail shortly, some bankers are doing exactly that: quantifying risks, allocating sufficient capital to cover those measured risks, and then trying to focus on those lines of business for which risk-adjusted returns to allocated capital are the highest.
+It does not matter whether the bank concentrates on low-risk, low-capital business, or on high-risk, high-capital business, only that it concentrates on businesses for which it has a comparative advantage, that is, businesses that earn an above-average rate on its internally allocated capital, after provisions for expected losses.
+Regulators, in my opinion, should take notice of this emerging business philosophy-- for a bank that properly measures its risks and allocates capital to those risks is well on its way to being a safe and sound bank, as well as one that meets its shareholders' objectives.
+II.
+Implications of Technology for Shareholder Value and for Regulatory Policy Many observers have commented on the increasing complexity of financial instruments and transactions.
+However, these complexities would not have been possible in actual market circumstances without the technological advances that also allowed these risks to be measured and managed.
+Indeed, as I noted earlier, banks can now quantify the dimensions of risks for instruments and transactions that we could only conceptualize a short time ago.
+Consider just two examples of what risk quantification permits today: securitization and the day-to-day control of market risk in a portfolio of complex derivative contracts.
+In both of these cases, risk quantification is a prerequisite to informed risk-based pricing.
+Moreover, the comparison of the risk-based price to current market conditions is critical to management decisions regarding withdrawing, cutting back, or expanding a bank's endeavor in specific credit markets.
+A critical component of risk-based pricing, as I noted earlier, is the determination of an appropriate internal allocation of capital to the individual credit subportfolios.
+For internal management purposes, banks for some time have been grouping their credits by risk class, modifying the classification of individual credits periodically.
+Now, banks on the frontier are using historical data and advanced modeling techniques to determine formal estimates of probable losses for each loan classification.
+Some of these banks have gone one step further, using these risk estimates to estimate the amount of capital that management should allocate against various loan classifications for internal pricing and other resource allocation purposes.
+The widespread adoption of these techniques lies in the future, but, as I suggested earlier, some forms of risk quantification are now being used by banks to enhance shareholder values.
+Unfortunately, some bankers believe that new technologies, such as credit scoring, and the growth of some activities, such as securitization, will reduce their franchise values by driving down spreads.
+Indeed, the new technologies can be viewed as chipping away at banks' specialized knowledge of the local loan customer.
+In effect, barriers to entry are lowered when the new technologies allow nonlocal competitors to offer standardized products through nationwide marketing campaigns using, for example, toll-free 800 telephone numbers.
+On the other hand, the byproducts of these new technologies include lower underwriting expenses and the more accurate estimation of probable losses.
+These byproducts act to offset the effects of increasing competition created by the new technologies, both by raising profits on existing operations and by opening up opportunities with customers previously not served.
+Better and more quantifiable estimates of risk are tantamount to risk reduction.
+More generally, and of much greater importance, rapidly changing technology is broadening and deepening financial markets while inevitably enhancing competitive pressures.
+In one sense this trend has been with us since the industrial revolution, but it has clearly accelerated in recent years in banking markets.
+Because the hot hand of competition is always putting pressure on us, we in our darker moments wish it would just go away.
+I very often succumbed to such melancholy when I was in the private sector.
+But we are wrong.
+Competition is the force which keeps us on our toes, makes us better and more productive, and creates higher market values for our banking institutions, just as it does for other firms.
+Competition is what has raised our standards of living for generations and made this nation the world's preeminent economic power.
+Technological change and the accompanying competition are irreversible, and those banks unwilling or unable to adapt to them will lose market share and suffer lower risk-adjusted rates of return.
+But the banks that embrace the cost-cutting and risk-reducing effects of the technology will, in my judgment, tend to find it a rewarding experience.
+Scale is not an issue.
+Small banks can now purchase the software that will permit them to use the new procedures, and upstream correspondents and others will be there to buy the product.
+III.
+Regulatory Innovation Technological change is not the sole province of the private sector.
+Regulators too must adapt to the new technology, and, in this regard, some important lessons are being learned.
+For example, the private sector, for a considerable time, has been accustomed to product planning cycles in which the planning of the replacement product is begun, if not well along, by the time a new product is being introduced.
+Similarly, regulators are beginning to understand that the supervision of a financial institution is, of necessity, a continually evolving process reflecting the continually changing financial landscape.
+This is not a fault but rather a description of an appropriate regulatory process.
+Indeed, given our own long lead times, we must begin designing the next generation of supervisory procedures even while introducing the latest modification, much as you are forced to do for your own products.
+Increasingly, the new supervisory techniques and requirements try to harness both the new technologies and market incentives to improve oversight while reducing regulatory burden, burdens that are becoming progressively obsolescent and counterproductive.
+This is becoming especially true in evaluating the capital adequacy of banks.
+One example is the recent decision by regulators to use internal model approaches for measuring market risks at banks and allocating regulatory capital to those risks.
+In addition, the Federal Reserve Board has been studying an alternative capital allocation process for market risk, the so-called pre-commitment approach.
+This methodology would provide market and other financial incentives for banks to choose their own capital allocations for trading risk that they believe are consistent with their own risk management capabilities as well as with regulatory objectives.
+The range and extent of securities powers permissible for bank holding companies is another area where the Federal Reserve has attempted to modify its regulations to parallel changing market realities.
+As you know, beginning in 1987 the Federal Reserve allowed increased securities powers in so-called section 20 subsidiaries.
+Most recently, based on our favorable experience with these subsidiaries, we have proposed dismantling some of the limitations and restrictions that, in an abundance of caution, we originally imposed to constrain risk exposures of the insured bank affiliate.
+Both that favorable experience and the changing structure of financial markets suggested that these modifications were desirable.
+Similarly, both changing markets and our experience suggested the need to streamline the bank holding company application process and related provisions.
+Accordingly, in August the Board requested comment on a wide ranging revision to its Regulation Y.
+You will note that the expedited application procedures were proposed only for strong and well-managed entities that we believe, by definition, need less oversight.
+This, too, is a simulation of the way the market would treat such financial institutions.
+However, both the section 20 and Regulation Y examples illustrate another major problem in the current banking environment.
+Both areas are still constrained by outdated and increasingly inefficient statutes.
+Indeed, statutory provisions ultimately limit the Fed's ability to relax section 20 or Regulation Y limits.
+Fundamental congressional reform of the Glass-Steagall and the Bank Holding Company acts is still needed.
+IV.
+Conclusion If banks were unregulated, they would take on any amount of risk they wished, and the market would rate their liabilities and price them accordingly.
+Ideally, banks should also face regulatory responses to their portfolio risks that simulate market signals.
+And these signals should be just as tough as, but no tougher than, market signals in an unregulated world.
+Perfection would occur if bankers had a genuinely difficult choice deciding if they really wanted to remain an insured bank or become an unregulated financial institution.
+While awaiting perfection, it is useful to underline that regulators and banks have a common interest in using the evolving new technologies to meet their own separate objectives: maximizing shareholder value and maintaining a safe and sound banking system.
+One cannot be done without the other.
+And as you increasingly apply these new technologies, we will be replacing our procedures with those that depend increasingly on risk management, risk quantification, market simulations, and--within the confines of law--reduced barriers.

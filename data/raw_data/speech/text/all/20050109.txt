@@ -1,0 +1,105 @@
+Because central banks are key players in financial markets, a better public understanding of central bank behavior should improve pricing in those markets.
+Over my career, I have witnessed notable efforts by central banks to improve the public's understanding of their behavior by increasing the amount of "talk" they do about policy and the economy.
+The trend toward more talk reflects several interrelated developments.
+The demand for information has expanded along with the size and sophistication of financial markets; financial assets have increased far faster than gross domestic product, and a much greater variety of instruments are priced.
+At the same time, rising wealth has meant that increasing numbers of people have a stake--and an interest--in the forces determining the prices in those markets.
+Technological change--including the ubiquitous Internet--has made it easier to cater to and feed this interest by making more information available more quickly and cheaply.
+And, in part as the result of academic progress on the topic, central banks better appreciate that more-accurate expectations of market participants can help improve the performance of the economy and the achievement of economic objectives.
+Changes in the political environment surrounding central banks have reinforced the increased demand for transparency.
+Greater support for independent central banks with goals set by the political process was one of the results of the lessons of the great inflation of the 1970s.
+But an arm's-length distance from immediate political pressures requires accountability and reporting to elected representatives.
+The quid pro quo is most evident in many of those countries that have shifted to inflation targeting, but the United States followed the same pattern earlier--in the late 1970s.
+In that period, laws for the first time established goals for monetary policy, albeit not as specific as inflation targets, and imposed reporting requirements in the form of reports and testimony to the Congress.
+Given the trends I have mentioned and the benefits of greater transparency, people sometimes wonder why central bank transparency has evolved as slowly as it has and why some central banks do not take additional steps to talk more--especially about what they see coming in the future.
+I will give you my own answer to this question, which I hasten to add, does not necessarily reflect the views of my colleagues on the Federal Open Market Committee or its staff.1 The answer, I believe, is that more is not necessarily always better, and at each step of the way central banks have needed to take account of the potential costs as well as the benefits of greater transparency.
+One consideration involves the nature of information and its relationship to market pricing.
+In fact, economists do not fully understand how markets incorporate information.
+Herding behavior, information cascades, multiple equilibria, and the amount of investment in financial research all pose puzzles about markets and information.
+The situation is complicated still more when an important participant is seen as having superior information owing to its investment in research or its understanding of its own behavior.
+In such circumstances, certain types of central bank talk might actually impinge on welfare-enhancing market pricing by being misunderstood and receiving too much weight relative to private judgments.
+We need to be particularly careful that people understand how limited our knowledge actually is--the uncertainty and conditionality around any statement we make about future developments.
+Moreover, what we are doing is complicated and involves weighing many factors; we should not misrepresent it for the sake of clarity in communication.
+The publication of useful information is complicated further by the fact that, in most countries, policy is made by a committee; representing the thinking of a diverse group is difficult and limits what can be said.
+A second type of consideration that has constrained the pace of increase in transparency is its potential interaction with monetary policy decisions.
+What we say is important, but what we do over time will ultimately determine economic outcomes.
+We should not allow a desire for clarity of expression to deflect our decisions from those that would contribute best to overall economic performance and which may be difficult to explain easily.
+And we must take care that policy expectations engendered by communication do not unduly constrain policy action.
+Furthermore, we cannot allow transparency to limit discussion in the Committee out of concern about how its publication will affect markets and the economy.
+Every decision about additional transparency is a balancing of possible costs and benefits.
+The preexisting structure of central bank talk reached its state for particular reasons; changing it entails adjusting the balance that previous Committees found.
+And reversing movements toward greater communication in the event of unforeseen consequences could be difficult.
+But circumstances change; markets change; we gain experience through our own actions or those of other central banks.
+More information, generally, is better, and markets and central bank governance have greatly benefited from the steps taken around the world to increase transparency over recent decades.
+Talk about "Policy Inclination" and "Economic Outlook" How many central banks weigh the costs and benefits of additional transparency can be illustrated by differentiating communication along the lines offered in the paper Brian Sack and I wrote that is part of this session.2 We separated the effect of talk between policy inclination--the likely near-term path of the policy interest rate--and the economic outlook--the evolution of prices and output over the intermediate and longer term.
+Experience shows that central bankers generally have been much more comfortable talking about the economic outlook than about policy inclination.
+Policy Inclination This difference in comfort level relates in part to our evaluation of the interaction of each type of talk with market prices.
+The risks seem more sizable that markets will overweight our discussion of the possible path of policy interest rates than they will our discussion of the economic outlook.
+After all, if we possess any private information, it is most likely to be about the steps we might take in the immediate future.
+But we are concerned that markets will not appreciate the degree of conditionality behind our expectations in this regard and take them as a firmer precommitment than they were intended to be.
+The market reaction to our words could well be heightened by the behavior of market analysts, who tend not to place probabilities on their predictions of our actions over the next few meetings but instead tend to make "zero/one" calls.
+In any case, the risks of herding, of overreaction, of too little scope for private assessments of economic developments to show through, would seem to be high for central bank talk about policy interest rates.
+Because of concern about market interpretation, policymakers often see talk about policy inclination also as having the potential for constraining future decisions in ways that might interfere with the most-effective achievement of policy objectives.
+The stronger the market expectations about near-term policy actions, the greater the risk of roiling markets and creating confusion in the event the decision differs from those expectations.
+The possibility that discussions of future policy, even nonspecific, could create presumptions about a string of policy actions makes finding a consensus among policymakers on what to say about future interest rates quite difficult--more so than agreeing on the policy today.
+It is no accident that the Reserve Bank of New Zealand stands out as about the only central bank to publish such a path and as one of the few in which decisions are the responsibility of only one individual.
+Sack and I found that actions, not words, dominated the policy inclination factor.
+However, the study was completed before the Federal Reserve became more explicit about future policy rates in the summer of 2003.
+The unusual situation at that time shifted our assessment of the balance of costs and benefits in favor of a public statement about our expectations for the near-term path of policy.
+Markets appeared to be anticipating that inflation would pick up soon after the expansion gained traction, and therefore that interest rates would rise fairly steeply.
+This expectation was contrary to our own outlook.
+We saw economic slack and rapid productivity growth keeping inflation down for some time.
+Our expectations about policy also took account of the fact that the level of inflation was already low--lower than it had been for several decades.
+We thought that our reaction to a strengthening economy would be somewhat different this time than it had been in many past economic expansions and unlike what the markets seemed to anticipate.
+Under most circumstances, this sort of disconnect between the central bank and the markets would not be a big problem; we could compensate for the market's tendency to raise intermediate and long-term rates unduly by keeping policy easier for longer.
+But with the federal funds rate already at 1 percent, our scope for that was limited; and if the economy suffered any downward shocks, policy could reach the constraint of a zero federal funds rate, with uncertain consequences.
+Under these circumstances, giving markets more information about our policy inclination, and thereby holding down longer-term interest rates, seemed to be the less-risky way to stabilize inflation at a reasonable level and encourage a vigorous expansion.
+I would judge the outcome to have been successful.
+We did influence rates to better reflect the actual path of policy; economic outcomes have been good; and, to date, our discussion of the path for rates has not constrained our actions.
+3 That is partly because we have been able to pull back gradually on the degree of commitment on our near-term actions in a way consistent with incoming data and without roiling markets.
+As the FOMC's minutes make clear, however, our experience has also illustrated how difficult it can be for a diverse committee to talk about the future course of rates.
+I take from this experience the lesson that, despite their drawbacks much of the time, conditional statements from the central bank about the near-term course of policy can be useful in certain circumstances.
+These circumstances might include a situation in which the policymakers and the markets seemed to have substantially conflicting forecasts about the economy and the path of policy; such differences persist despite the central bank's efforts to explain its outlook; and the effect of those divergent views on financial conditions threaten to detract from economic performance.
+Economic Outlook Monetary policy committees generally judge the costs and benefits of talking about the economic outlook much more favorably than discussing the path of rates.
+Of course markets can often infer from a discussion of the economy how the central bank thinks rates will evolve.
+But limiting communication to the economic outlook allows the markets to work out an expected path for rates by combining the central bank's judgment about the economy with its own and with its understanding of the central bank's reaction function.
+This gives greater scope for private assessments to show through to market prices, which itself can be helpful to a central bank trying to gauge public attitudes and expectations.
+In my view, the most useful service the central bank can provide in this arena is its analysis of the forces bearing on the outlook--the determinants of aggregate demand, potential supply, and inflation.
+This type of discussion can help the public interpret developments and allow markets to respond constructively to surprises in the data.
+Forecasts can be used as a framework for such a discussion, but the public should appreciate the limits of a numerical forecast.
+The relationship of the forecast to the policy decision is loose.
+Inevitably, point forecasts will be incorrect; they should be seen as the centers of wide distributions of possible outcomes; and low-probability outcomes can be very important in policy decisions in certain circumstances.
+Moreover, quite often, the FOMC can reach a consensus on policy without reaching one on a specific forecast--only a general agreement on the general degree of strength in economic activity and the likely tilt to inflation if alternative policy paths are chosen.
+Sack and I note the power of even nonspecific central bank talk about the economic outlook to greatly influence expectations embodied in intermediate- and long-term interest rates.
+Is it too much, as some argue?4 Is central bank talk about the economy crowding out other legitimate perspectives?
+This is an empirical question, and I do not think we yet have the studies to provide an answer.
+One way to frame the question would be to ask whether market forecasts over the intermediate and longer run have improved or deteriorated as central banks have ramped up their talk.
+I suspect that the greater provision of informed analysis from central banks has led to an improvement.
+In the United States, we have some indirect evidence that crowding out of private views has not increased even as the Federal Reserve has become more talkative.
+Market interest rates have continued to respond substantially to surprises in economic data.
+The degree of the reaction to individual indicators has risen or fallen depending on the economic situation and the focus of policymakers; for example, the reaction to price data decreased in recent years as low, steady inflation became more firmly established, and the reaction to labor market data increased as the "jobless recovery" became more of a focus.
+But we do not see a general falloff in the strength of response, as one might expect if markets were relying more on central bank views and less on their own interpretation of data.
+That markets continue to react strongly to incoming data is not surprising.
+Predicting interest rates far enough into the future is not just about what others--including the central bank--think; over time those rates should be tied to objective factors--for example, the forces of productivity and thrift.
+Differing views about these factors give scope for opportunities to profit from independent research and betting against the crowd.
+Earlier Release of the Minutes As evidence that our communication policy is a work in progress, the FOMC has recently shifted its views in favor of expediting the release of its minutes.
+5 Minutes of FOMC meetings necessarily contain elements of both policy inclination and economic outlook.
+Benefits flow from a more timely release of a fuller, more nuanced explanation of why the policy decision was made than is possible in an announcement.
+The Committee's discussion, and the minutes of it, help to spell out the linkage the Committee may see between any policy inclination and its economic outlook.
+The explanation can convey the conditionality of Committee thinking and the role of any concerns about the implications of low-probability events on its current or expected policy actions.
+Not surprisingly, Sack and I found a correlation between the amount of talk and its effect on expectations.
+Reactions to the minutes could be sizable, as they were last Tuesday, but because the minutes do elaborate on the rationale for the Committee's decisions and outlook, these reactions should help markets anticipate policy actions and price assets in ways that foster economic stability.
+In addition, the minutes are another chance for the Committee, as a whole, to talk.
+One advantage is that they should give the public a broader context in which to interpret the many statements by individual members between meetings.
+In that regard, the fact that the minutes convey the range of Committee members' views should be helpful.
+The minutes are not an attempt to articulate a single consensus explanation of our actions or outlook, but rather, reflecting a strength of the FOMC, they summarize the give and take in Committee discussion arising from differing perspectives on difficult issues.
+Early release of the minutes could have costs if Committee members became more guarded in their discussion out of concern about the effects of their remarks when reported or if, over time, the minutes themselves became less comprehensive.
+In my view, neither of these developments is an inevitable consequence of the new schedule, and I am sure the Committee will resist any temptation to allow them to occur.
+Early release had been considered before, but recent experience convinced members that the balance had swung in its favor.
+Successful dry runs alleviated concerns about the practical problems of getting timely agreement on minutes from nineteen geographically dispersed members.
+On one or two occasions in recent years, longer delays in release of the minutes had resulted in market confusion because the minutes were interpreted as pertaining to the most recent decision, not the one at the preceding meeting for which the minutes were prepared.
+Finally, the difficulty of structuring talk about the future in the brief announcement released immediately after the meeting has enhanced the perceived value of the minutes for this purpose.
+Expedited release is an incremental step.
+The market will not have information it did not eventually have before, but it will have it sooner.
+Conclusion Over the past several decades, central banks have become considerably more open about their decisions and the reasons for them.
+Progress has been incremental--and may have seemed slow to some--but we have been adapting to changing circumstances in financial markets and in the governance of central banks in democratic societies.
+In addition, we have tried to be careful not to allow steps toward greater transparency to impinge on discussions or deflect us from making the best possible decisions to reach our objectives.

@@ -1,0 +1,133 @@
+Markets aggregate diffuse information more effectively and set prices more efficiently than any central planner possibly could.
+The result is powerful competitive incentives for businesses to produce, at the least cost, the goods and services that our citizens value most.
+Writing in the eighteenth century, Adam Smith conceived of the free-market system as an â€œinvisible handâ€ that harnesses the pursuit of private interest to promote the public good.
+Smithâ€™s conception remains relevant today, notwithstanding the enormous increase in economic complexity since the Industrial Revolution.
+Although the market system is the principal source of Americaâ€™s economic dynamism, economic theory and practice both suggest that targeted government regulation and intervention can sometimes benefit the economy.
+In the particular case of financial markets, for example, government regulation helps to promote general financial stability and to protect investors and consumers against fraud.
+Of course, the benefits of regulation come with direct and indirect costs.
+Direct costs include those arising from compliance with a thicket of complicated rules--costs that can add significantly to a firmsâ€™ costs of production, leading to higher prices for consumers.
+Indirect costs include reductions in innovation or competition that can result from overly restrictive regulations.
+Therefore, before government decides to regulate in a particular situation, it must weigh the social costs and benefits of the contemplated intervention.
+In recent decades, public policy has been increasingly influenced by the insight that the market itself can often be used to achieve regulatory objectives.
+For example, in the area of environmental protection, the trading of emissions permits has been widely embraced as a cost-effective means of controlling pollution.
+That market-based approach is regulation by the invisible hand, as opposed to the very visible hand of direct government regulation and enforcement.
+The invisible-hand approach to regulation aims to align the incentives of market participants with the objectives of the regulator, thereby harnessing the same powerful forces that allow markets to work so efficiently.
+In the financial arena, as I will discuss, this approach often takes the form of creating incentives for market participants to monitor and control the risk-taking behavior of financial firms--that is, to exert market discipline--thereby reducing the need for direct oversight by the government.
+Today I would like to explore the market-based approach to financial regulation by considering its application to two important--but very different--types of financial institutions: commercial banks and hedge funds.
+For both types of institutions, market-based regulation has proven an effective supplement to (or substitute for) conventional command-and-control approaches.
+Commercial Banks For much of U.S. history, bank shareholders and creditors--not government regulators--were responsible for overseeing banksâ€™ lending and investment decisions.
+For example, in the years between the demise of the Second Bank of the United States, in 1836, and the National Banking Act of 1863, private commercial banks issued non-interest-bearing notes that served as the principal medium of exchange.
+Although the notes issued by each bank were supposedly redeemable for gold (or other safe assets, such as government bonds), they did not always trade at face value in every location.
+Instead, notes issued by different banks traded at variable discounts that depended on (among other things) the perceived financial condition of the issuing bank and the distance a note-holder would have to travel to redeem the notes (Gorton, 1996).
+Banks did not like to see their notes trade for much less than face value, however, because holders of deeply discounted notes had an incentive to demand the face amount in gold from the issuing bank.
+If too many note-holders redeemed their notes, the bank might have to pay out all its reserves of gold and close down.
+Concern about potential note redemptions discouraged banks from taking excessive financial risks that might cause their notes to trade at a deeper discount and, consequently, trigger increased redemptions.
+Market forces thereby exerted discipline on banksâ€™ activities and the types of assets they held.
+Similarly, later in the nineteenth century, when demand deposits became the primary form of bank liability, bankers recognized that any loss of confidence by depositors might provoke a run--panicky withdrawals--that could force the bank to close its doors.
+Presumably the potential for deposit runs led banks to take fewer risks than they might have otherwise--another instance of market discipline (Calomiris and Gorton, 1991).
+Although the actions of note-holders and depositors constrained banksâ€™ risk-taking, they had some undesirable side effects.
+Throughout the nineteenth century and in the early decades of the twentieth, bank runs often helped to precipitate general financial panics that shut down large parts of the financial system and constricted economic activity.
+Bank runs, by extinguishing deposits, also tended to sharply reduce the nationâ€™s money supply.
+And they sometimes wreaked considerable hardship on the depositors themselves.
+Certainly, from a modern perspective, putting the burden of monitoring banks on small depositors seems inappropriate.
+Most retail depositors donâ€™t have the time and resources to gather information on bank assets and investments, and typically they cannot absorb losses when a bank fails.
+In response to this series of financial panics, the Congress in 1913 founded the Federal Reserve to provide the nation with a safer, more flexible, and more stable monetary and financial system.
+Specifically, the Fed was established "to furnish an elastic currency, to afford means of rediscounting commercial paper, [and] to establish a more effective supervision of banking in the United States.
+"1 Such powers can be used to provide liquidity when an otherwise solvent bank experiences unexpected and widespread withdrawals during a financial panic.
+Today, the Federal Reserve's discount window and its oversight of the payment system are core components of the so-called federal "safety net" provided to banks.
+However, the Federal Reserve failed to avert the banking panics of the Great Depression of the 1930s, the longest and most severe series of banking panics in U.S. history.
+Thousands of banks failed, many after suffering runs on their deposits.
+As a consequence, the Congress added another element to the safety net when it established government-backed deposit insurance.
+Deposit insurance both protects depositors (subject to limits on the size and type of account) and reduces the liquidity risks faced by banks.
+It has achieved its objective in that runs on insured institutions have virtually disappeared.
+However, despite its evident benefits, deposit insurance created a new type of problem.
+Unlike the note-holders and depositors of earlier years, insured bank depositors, who know that their funds are protected even if their bank fails, have little or no incentive to evaluate the risk-taking activities of their bank.
+In the absence of other measures, this safety net reduces the restraint that creditors would otherwise place on unsound lending because the insurance reduces the amount of money they have at stake.
+The tendency of banks to take on excessive risks when they face little economic penalty for doing so is an example of what economists call a moral hazard problem.
+To help counter the moral hazard created by deposit insurance, and to try to ensure that banks operate safely and soundly, the United States has developed an extensive system of banking supervision and regulation.
+In effect, regulators assumed the role of monitor, the role that insured depositors no longer have any incentive to play.
+Somewhat ironically, however, this system of government supervision may itself exacerbate moral hazard if the banksâ€™ uninsured creditors assume that the governmentâ€™s oversight obviates any need for them to monitor banks.
+Market discipline may erode further if market participants believe that, to avoid the risk of a financial crisis, the government will step in to prevent the failure of any very large institution--the â€œtoo big to failâ€ problem.
+With little or no help from market forces, the burden of ensuring banksâ€™ soundness falls entirely on the supervisory agencies.
+But as we saw in the savings and loans crisis of the 1980s, regulatory oversight may also fail if the regulators are not sufficiently vigilant or lack the political will or financial resources to promptly close insolvent institutions.
+The lesson of history appears to be that neither market discipline nor regulatory oversight alone is completely adequate for keeping the banking system safe and sound.
+However, regulators have increasingly come to appreciate the value of a hybrid system that supplements direct regulation with a substantial amount of market discipline.
+Fortunately, regulators have a variety of ways to restore and strengthen market discipline for banks, notwithstanding the existence of the federal safety net.
+Minimum capital requirements are one method.
+A bankâ€™s capital provides a buffer that can absorb losses before they fall on the deposit insurance fund (and, ultimately, the taxpayers).
+In addition, however, capital requirements enhance market discipline; they do so by ensuring that the bank will have shareholders (and possibly other types of creditors as well) who have a significant amount of money at risk.
+These shareholders have a substantial financial incentive to monitor the bankâ€™s activities and to insist on changes if they are dissatisfied.
+Bank managers are also quite aware that a low share price could invite a hostile takeover, an outcome they usually want to avoid.
+The incentives for a bank to control risk are even stronger if regulations link the amount of regulatory capital to the risks taken by banks.
+(Tying capital requirements to risk is a primary objective of the Basel II capital accord, currently in the process of review and implementation.)
+Risk-based capital regulations, if properly designed, require banks that take more risks to hold more capital.
+Because equity capital is the most expensive form of funding, this linkage gives banks an incentive to better measure and control risks.
+Credible receivership provisions for insolvent banks are another method of enhancing market discipline.
+Effective market discipline requires that uninsured investors believe they could lose some, or all, of their stake.
+This belief is especially important in the case of very large banks, which investors may otherwise perceive to be too big to fail.
+Receivership rules that make clear that investors will take losses when a bank becomes insolvent should increase the perceived risk of loss and thus also increase market discipline.
+In the United States, the banking authorities have ensured that, in virtually all cases, shareholders bear losses when a bank fails.
+Historically, however, bondholders and uninsured depositors have at times doubted that regulators would impose significant losses on them in the event of a bankâ€™s failure.
+To address this issue, the Congress has reduced regulatorsâ€™ discretion when dealing with troubled banks.
+For example, the requirement for prompt corrective action prohibits regulatory forbearance when a bankâ€™s capital falls to a predetermined level; and the least-cost-resolution requirement compels regulators to resolve a troubled bank at the lowest cost to the deposit insurance fund.2 Improving and broadening the requirements for disclosing information are yet another method of strengthening the invisible hand.
+For example, the part of the Basel II capital initiative called Pillar 3 requires banks to release additional information to the public about their risk-taking.
+Pillar 3 should thus help investors, creditors, and other counterparties better assess banksâ€™ risk profiles.
+Transparency about risk has become all the more important because modern financial assets increasingly entail greatly different degrees of economic leverage per dollar invested.
+When pursuing regulatory objectives through the application of market discipline, regulators must consider the nature of the incentives faced by different types of stakeholders in varying circumstances as well as the ways each type of stakeholder affects the bankâ€™s risk-taking.
+For example, as I mentioned, bank capital usually gives equity investors an incentive to monitor and control risk.
+But when a bank falls into financial distress, its capital may be all but depleted, and its equity investors may thus have little left to lose.
+Consequently, equity holders may â€œgamble for resurrectionâ€ by encouraging rather than discouraging excessive risk-taking.
+Thus, as was evident in the savings and loan crisis of the 1980s, market discipline by equity holders may break down when it is most needed.
+This example suggests that the mix of instruments a bank uses to raise funds can matter.
+For instance, holders of uninsured debt (such as large certificates of deposits or corporate debt issues) care mostly about the risk of bankruptcy.
+They donâ€™t benefit if the bankâ€™s stock price rises when undue risk-taking pays off.
+Consequently, they focus on what bank managers are doing to avoid default.
+The incentive to monitor risk-taking is particularly keen for holders of subordinated debt, as they are last in line in the event of failure.
+Because debt holders are sensitive to changes in the probability of financial distress, risk-taking by a bank raises its cost of funding in credit markets, and that connection creates an incentive for banks to control risks.
+Moreover, the price of a bankâ€™s debt provides useful information about the bankâ€™s riskiness.
+With that information, the bankâ€™s counterparties and supervisors can take steps of their own to ensure that the bank is operating safely.3 Hedge Funds Hedge funds provide a second illustration of how the invisible hand can be used to support regulatory objectives.
+Their rapid growth is one of the most important developments in U.S. financial markets in the past decade or so.
+Hedge funds vary widely in their investment strategies and in the types of risks they take.
+Overall, however, most economists agree that the rise of hedge funds has been a positive development for investors and for financial markets.
+They have stimulated an extraordinary amount of financial innovation in recent years; and, using many of these new financial tools, they have greatly enhanced the liquidity, efficiency, and risk-sharing capabilities of our financial system.
+Regulatory oversight of hedge funds is relatively light.
+Because hedge funds deal with highly sophisticated counterparties and investors, and because they have no claims on the federal safety net, the light regulatory touch seems largely justified.
+However, the growing market share of hedge funds has raised concerns about possible systemic risk.
+The complexity and rapid change inherent in the strategies of many funds make them relatively opaque to outsiders, and so the concern arises that the collapse of a hedge fund might come with little warning.
+In addition, many hedge funds are either highly leveraged or hold positions in derivatives or other assets that make their net asset positions very sensitive to changes in asset prices (the functional equivalent of high leverage).
+Highly leveraged investors are intrinsically more vulnerable to market shocks, of course, but leverage also increases the risks to the broader financial system.
+The failure of a highly leveraged fund holding large, concentrated positions could involve the forced liquidation of those positions, possibly at fire-sale prices, thereby imposing heavy losses on counterparties.
+In the worst scenarios, these counterparty losses could lead to further defaults or threaten systemically important institutions.
+In addition, market participants that were not creditors or counterparties of the defaulting firm might be harmed indirectly through changes in asset prices, liquidity strains, and increased market uncertainty.
+As I have noted, the market discipline provided by creditors and investors is potentially a powerful mechanism for controlling leverage and other aspects of risk-taking.
+But market discipline can fail, as is illustrated by one notable case--the hedge fund Long-Term Capital Management (LTCM), which was at the center of an episode of severe financial stress in 1998.
+Perhaps because of the stellar reputations of LTCMâ€™s principals, banks and broker-dealers provided credit on generous terms, even though LTCM took exceptional risks.
+LTCMâ€™s investors and counterparties simply did not ask the tough questions necessary to understand the risks they were taking.
+Together with the admittedly extraordinary market conditions of August 1998, these risk-management lapses were a major source of the LTCM crisis.
+In response to the LTCM episode, the Congress might have imposed a much more intrusive regulatory regime on private pools of capital.
+However, doing so would have been costly and technically difficult, would have increased moral hazard by relieving investors and counterparties of the responsibility for monitoring the funds, and likely would have reduced the social benefits of hedge funds by hampering the ability of their managers to respond quickly and flexibly to changing market conditions.
+Instead, the regulatory approach taken in the United States has followed recommendations set forth in 1998 by the Presidentâ€™s Working Group on Financial Markets and recently reaffirmed in a set of principles by the same group.4 The market-discipline approach to regulating hedge funds imposes responsibilities on four sets of actors: hedge fund investors, creditors and other counterparties, the regulatory agencies, and the hedge funds themselves.
+In discussing the regulation of commercial banks, I noted that most small retail investors are ill-equipped to provide effective market discipline because monitoring complex financial activities demands considerable time, effort, and sophistication.
+In the case of hedge funds, securities laws effectively allow only institutions and high-wealth individuals to invest in them.
+These investors generally have the resources and sophistication, as well as the incentive, to monitor the activities of the hedge funds.
+Large investors are not only well equipped to assess the management, strategies, performance, risk-management practices, and fee structures of individual hedge funds but they also have the clout to demand the information they need to make their evaluations.
+Although regulations limit the direct access of retail investors to hedge funds, small investors may obtain indirect exposure, through pension funds for example.
+However, managers of pension funds and similar institutions generally have a fiduciary duty to their investors to research and understand their investments and to ensure that their overall risk profile is appropriate for their clientele.
+In practice, most pension funds have only a small exposure to hedge funds.
+Counterparties are another important source of market discipline.
+The principal counterparties of most hedge funds are large commercial and investment banks, which provide the funds with credit and a range of other services.
+As creditors, counterparties have a clear economic incentive to monitor and perhaps impose limits on hedge fundsâ€™ risk-taking, as well as an incentive to protect themselves from large losses should one or more of their hedge-fund customers fail.
+Counterparties seek to protect themselves against large losses through risk management and risk mitigation.
+Risk management includes the use of stress tests to estimate potential exposure under adverse market conditions; risk-mitigation techniques include collateral agreements under which hedge funds must daily mark to market and fully collateralize their current exposures.
+The incentives of hedge fund counterparties line up well with regulatorsâ€™ objectives, which include not only constraining excess risk-taking by hedge funds but also preventing losses that would threaten the stability of other major financial market participants.
+However, for various reasons, including competitive pressures and the existence of the safety net for some counterparties, private counterparties may not fully account for risks to general financial stability.
+Thus, supervisors seek to ensure that hedge-fund counterparties--primarily very large commercial and investment banks--protect themselves and, in so doing, protect the broader financial system.
+Supervisors also monitor markets and key institutions, coordinate with their domestic and foreign counterparts, and work with the private sector to strengthen market infrastructures.
+For example, the Federal Reserve Bank of New York has been leading joint public-private efforts to improve the clearing and settlement of credit derivatives.
+Coordination of this type can improve market functioning and reduce risks to financial stability without harming market discipline.
+Finally, in a system of market-based discipline, hedge-fund managers themselves have both the incentive and the responsibility to manage risk effectively, to develop consistent methods for valuing assets and liabilities, and to provide timely and accurate information to their investors, creditors, and counterparties.
+Thus far, the market-based approach to the regulation of hedge funds seems to have worked well, although many improvements can still be made (Bernanke, 2006).
+In particular, risk-management techniques have become considerably more sophisticated and comprehensive over the past decade.
+To be clear, market discipline does not prevent hedge funds from taking risks, suffering losses, or even failing--nor should it.
+If hedge funds did not take risks, their social benefits--the provision of market liquidity, improved risk-sharing, and support for financial and economic innovation, among others--would largely disappear.
+Conclusion I have argued today that, in many situations, regulation that relies on the invisible hand of market-based incentives can complement direct government regulation.

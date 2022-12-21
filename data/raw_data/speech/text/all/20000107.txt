@@ -1,0 +1,167 @@
+Perhaps more than anything else, the crisis has raised an array of questions that demand our consideration, including the following: What are the major macroeconomic and financial characteristics that make countries vulnerable to crises?
+What factors determine the depth and severity of such crises, both for a particular country and for the global financial system as a whole?
+What is the nature of contagion?
+Why does a crisis in a given country adversely affect other countries that often have little interaction with (or little similarity to) the initial crisis country?
+These questions are of more than just intellectual interest.
+They have enormous implications for the formulation of economic policy and directly affect the welfare of millions of people across the globe.
+The economics profession in recent years has made some progress in formulating answers to these questions, but the limits of our understanding remain substantial.
+Today, I will focus on a subset of these issues, examining an aspect of the recent emerging markets crisis that remains something of a puzzle.
+For many years, the Asian developing countries have been held up as one of the global economy's shining success stories.
+Fueled by high domestic savings and investment rates, coupled with fiscal restraint and low inflation, real per capita GDP in these economies has risen dramatically since the 1960s.
+In contrast, during large portions of this period, the Latin American countries have been afflicted by a variety of economic ailments--including fiscal imbalances, capital flight, hyperinflation, and currency crashes--that have depressed domestic savings and investment and hindered economic growth.
+Judged by several measures, however, the Asian countries were hit much harder by the recent crisis than were the Latin American countries.
+Why was this the case?
+What vulnerabilities pushed these dynamic Asian economies into severe crisis?
+What economic policies or characteristics allowed the major Latin American countries to weather the storm with comparatively less damage?
+One apparent answer to these questions is that Latin America recently had endured a crisis--the 1994-95 peso devaluation.
+This observation, however, raises a complementary set of equally intriguing questions.
+Namely, in what sense does a crisis today inoculate a country against crisis tomorrow?
+Does this inoculation occur through improved macroeconomic fundamentals, stronger financial sector performance, or some other factors?
+In an effort to answer such questions, I will focus on two issues.
+First, I will discuss some evidence assessing the impact of the recent crisis on the emerging Asian and Latin American countries.
+Second, I will offer some working hypotheses that might explain the differential effects of the crisis on the two regions.
+Before going further, let me underscore the following point.
+The Asian economies have proven themselves to be very competitive in global markets and highly resilient.
+Consistent with this observation, the major Asian crisis countries appear to be well on their way to recovery, with the possible exception of Indonesia, which remains plagued by political instabilities.
+But notwithstanding the underlying strength of the Asian economies--or perhaps precisely because of their underlying strength--there is much to be learned in assessing why they fared poorly relative to their Latin American counterparts during the recent round of crises.
+Comparing the Impact of the Crisis The behavior of GDP provides a natural measure for assessing the severity of the recent crisis in the two regions (exhibit 1).
+The Asian crisis began in Thailand during July 1997, when a run on the country's currency--the baht--forced the government to float the exchange rate.
+Not coincidentally, real GDP peaked in mid-1997 and fell more than 10 percent before reaching a trough during the second half of 1998.1 After the devaluation of the baht, the crisis spread to Malaysia, Indonesia, and the Philippines.
+Each of these countries was eventually forced to allow its currency to float more freely against the dollar, and each country also experienced a sharp contraction of its GDP.
+In Malaysia, output fell 10 percent between the third quarter of 1997 and the third quarter of 1998.
+Indonesia was even more severely afflicted, with GDP plunging more than 15 percent during that time.
+The Philippines was relatively less affected, however, as GDP declined just 3 percent from peak to trough.
+Korea, which was the last major Asian country hit by the crisis, endured sharp declines in the value of its currency and its domestic financial markets during late 1997 and early 1998.
+Korean GDP dropped about 8 percent during this period.
+Now turning to Latin America, this region first felt the effects of the financial crisis during the fall of 1997.
+At that time, Brazil--the center of the crisis in Latin America--raised interest rates to high levels and drew down its stock of international reserves to keep its currency--the real--from falling.
+However, pressures on Brazil re-emerged following the Russian devaluation in August 1998.
+The high interest rates necessary to defend the real became increasingly difficult to sustain, and the authorities floated the currency in January 1999.
+The real depreciated about one-third in the subsequent six months.
+To the surprise of most observers, Brazilian GDP fell only 3 percent from its peak during the second quarter of 1998 to a trough at the end of that year.
+Perhaps even more surprisingly, Brazilian inflation remained restrained after the devaluation, and the economy registered strong growth during the first half of 1999, nearly erasing the contraction that occurred during the second half of 1998.
+Ironically, several of Brazil's neighbors have fared worse.
+Argentina successfully defended its exchange rate regime but has suffered a comparatively steep decline in economic activity.
+The high interest rates necessary to defend its peg to the dollar, along with the intensified uncertainty generated by the crisis and reduced competitiveness following the Brazilian devaluation, pushed Argentine GDP down 5 percent from mid-1998 to mid-1999.
+Activity in Chile, Colombia, and Ecuador has fallen by a comparable amount.
+Mexico's experience, however, stands as an interesting contrast.
+For a number of reasons, which I will discuss later, economic activity in Mexico generally has remained strong.
+The country has endured only one quarter of negative GDP growth in the past three years.
+A second means of assessing the impact of the crisis on the two regions is the degree of external adjustment that occurred (exhibit 2 or exhibit 2A).
+Significantly, Thailand's current account swung from a deficit of 8 percent of GDP in 1996 to a surplus of 12 percent of GDP in 1998.
+This startling adjustment in the current account balance was accomplished entirely by a compression of imports, as the dollar value of exports was about flat but imports plunged 40 percent.
+The story for other major Asian crisis countries is broadly similar.
+In contrast, current account adjustment in the three major Latin American countries has been much less pronounced.
+All three countries have remained in deficit, with total adjustment during the crisis estimated to amount to only about $15 billion (compared with $120 billion in Asia) and current account deficits remaining around 3 to 5 percent of GDP.
+The extent of current account adjustment in Asia was necessitated in part by a sharp tailing off of private capital flows to the region (exhibit 3).
+Specifically, gross private financial flows to Korea, Malaysia, Thailand, and the Philippines plunged from $28 billion in the second half of 1996 to just $4 billion in the last half of 1998.2 Over this period, new bank loans issued to these economies fell nearly two-thirds, and bond issuance declined more than 90 percent.
+Private financial flows to Latin America, in contrast, did not decline severely until the second half of 1998.
+Flows to both regions rebounded during the first half of 1999.
+Explaining the Differential Impact of the Crisis The available evidence clearly indicates that the Asian developing countries experienced sharper GDP declines, more severe current account adjustment, and a steeper falloff in private capital flows during the recent crisis than did their Latin American counterparts.
+I will now consider four broad hypotheses that may account for the differential impact of the crisis on the two regions.
+First, were macroeconomic conditions in Asia in worse shape than those in Latin America?
+Asia's growth performance in the years immediately preceding the crisis did not hint of disruptive imbalances.
+These economies were registering average annual growth of roughly 7 to 8 percent.
+While such rates of expansion might be considered unsustainably rapid, these countries had maintained such performance for many years without any apparent adverse effects.
+By comparison, the Latin Americans recorded more moderate growth rates in the years before the crisis.
+Inflation in both regions generally was well contained.
+What about current account imbalances (exhibit 4)?
+All of these countries ran current account deficits in the period before the crisis.
+Although the imbalances in Asia were somewhat larger than those in Latin America, such differences--with the possible exception of Thailand--do not appear to be particularly significant.
+Moreover, the current account performance of the three major Latin American countries deteriorated further during 1998.
+Were real exchange rates in Asia substantially overvalued relative to those in Latin America (exhibit 5)?
+During the first half of 1997, immediately before the onset of the crisis, the broad real exchange rates for Thailand, Indonesia, and Malaysia were only about 5 to 8 percent stronger than their 1990-96 average, and Korea's real exchange rate was slightly weaker than its 1990-96 average.
+The real exchange rate for the Philippines was more than 20 percent above its average, but--as previously noted above--this country was relatively less affected by the crisis.
+Hence, there is little evidence of substantial overvaluation of exchange rates in these countries.
+In comparison, during the first half of 1998, before the onset of the Latin American phase of the crisis, the real exchange rates for Argentina and Brazil were about 10 percent stronger than the 1990-97 average, while Mexico's real rate was about 5 percent stronger.
+Finally, the fiscal position of the Asian countries (exhibit 6) was no worse--and perhaps somewhat better--than that of the Latin American countries.
+Countries in both regions ran small deficits or slight surpluses.
+Brazil was the pronounced exception, with a fiscal deficit well over 5 percent of GDP.
+Accordingly, there seems to be little evidence that Asia's macro fundamentals in the run-up to the crisis were significantly weaker than those for the Latin American countries.
+Indeed, indicators point to roughly comparable performance and risk in the two regions.
+A second hypothesis is that the financial systems in the Asian developing countries were beset with greater vulnerabilities than was the case in Latin America.
+This explanation seems to be more promising.
+Consider the case of Thailand.
+In the mid-1990s, the country's domestic savings rate was about 35 percent of GDP, and the current account deficit was about 8 percent of GDP.
+This suggests that the financial system each year was intermediating investment flows on the order of 40 percent of GDP.
+It is conceivable that an economy with sound financial infrastructure and well-developed legal and regulatory institutions could have efficiently allocated such massive flows.
+However, in an emerging market economy that is still developing the institutions required to regulate, supervise, and support a viable financial system, it is not surprising that over time financial resources were misallocated and a substantial stock of bad loans emerged.
+In the absence of strong prudential regulation, the financial sector may have had inadequate incentives to assess risk properly and to monitor borrowers.
+From this perspective, the real puzzle may be why the Asian financial system did not falter sooner.
+Stated in slightly different terms, IMF statistics (exhibit 7) indicate that in 1996 bank claims on the private sector were about 100 percent of GDP in Thailand and about 60 percent of GDP in Korea.
+These numbers far exceed the ratios of roughly 20 percent of GDP that prevailed in Mexico, Argentina, and Brazil, countries that also experienced considerably slower domestic loan growth in the years preceding the recent crisis.
+The systemic risks implied by weak regulation may be much more severe in countries with relatively large banking systems.
+This observation is not unique to developing countries.
+Even Japan, one of the world's advanced industrial countries, has struggled with a bad-loan problem, partially because of massive bank lending in an environment of inadequate prudential supervision.
+Moreover, countries where the banking system is large relative to GDP may be forced to endure more-severe macroeconomic disruptions when a banking crisis actually occurs, since the costs of cleaning up the crisis are likely to be large compared with the size of the economy and firms are likely to be highly dependent on banks for the provision of credit.
+In light of these considerations, it is perhaps not surprising that Asian financial institutions were hit harder by the crisis than Latin American institutions.
+For example, Thailand was forced to close dozens of finance companies, and deep financial problems in two of Korea's largest banks persuaded the authorities to temporarily nationalize those institutions.
+In addition, an enormous bad-loan problem in Thailand and Indonesia--and to some extent in the other Asian crisis countries, including Korea--emerged after the crisis, thus creating uncertainty about the future economic performance and financial viability of these economies.
+In contrast, major Latin American countries moved to strengthen their financial systems following the peso crisis in the mid-1990s.
+As a result, banks in these countries appear to have sustained minimal new damage.
+Argentina is a notable example: Efforts to strengthen the financial position of the banks, coupled with improvements in prudential regulation, have allowed the banks to remain relatively healthy, despite the effects of the crisis and the country's protracted recession.
+This discussion suggests that financial system vulnerabilities probably were more severe in Asia than in Latin America.
+Such a conclusion, however, does not necessarily imply that Asian financial institutions were fundamentally less efficient or effective, only that they were more vulnerable when the crisis hit.3 Suffice it to say that policymakers in Latin America also are wrestling with sizable financial sector problems.
+A third hypothesis is that the crisis hit Asia harder because investor sentiment shifted more abruptly than it did in Latin America.
+In other words, one might be asked--Did the crisis somehow reveal comparatively more information about the performance of the Asian developing countries and their economic prospects?
+The answer to this question seems to be "yes."
+The major revelation--or wake-up call--that transformed the Asian devaluations into first-order crises was the (apparently sudden) realization on the part of investors that the Asian countries were suffering from deep structural imbalances, particularly in their financial sectors.
+This dramatic shift in sentiment was a central feature of the crisis in Asia.
+Importantly, there were no similar downside surprises in Latin America, because investors were already familiar with the region's structural inefficiencies and difficulties.
+It is fair to say that memories of the peso devaluation in 1994-95 remained fresh in investors' minds.
+The sudden shift in investor perceptions of the Asian countries is reflected in the dramatic downgrading of sovereign debt ratings that occurred between mid-1997 and early 1998 (exhibit 8).
+During this period, Standard & Poor's downgraded Thailand four notches (from A to BBB-), Indonesia, six notches (from BBB to B), and Korea, ten notches (from AA- to B+).
+In contrast, S&P's credit ratings for Argentina and Mexico were unchanged during the crisis (at BB), and Brazil's rating was reduced only one notch (from BB- to B+).4 The less-pronounced reversal in sentiment regarding Latin America may be partially due to the fact that the crisis hit Asia first.
+This gave policymakers in Latin America an opportunity to implement preemptive measures, such as interest rate increases and initiatives to improve fiscal performance, that may have helped minimize subsequent damage.
+Another implication of the difference in timing was that "hot money" was able to leave Latin America gradually rather than in one frenetic rush.
+The Latin American countries also may have benefited because global economic policymakers--including the IMF--had learned from their experiences in Asia and Russia.
+A fourth hypothesis focuses on the speed and effectiveness of the policy response.
+Were policymakers in Asia slower to respond to the crisis than those in Latin America, and did this have a bearing on the severity of the crisis?
+The response to the crisis in the two regions differed in at least one important respect: The Latin Americans were much quicker to raise interest rates aggressively.
+Notably, short-term interest rates in Thailand did not peak until the second half of 1997, well after the baht was allowed to float.
+The authorities were hesitant to raise interest rates rapidly during the first half of that year, notwithstanding the fact that the currency had come under severe pressure.
+As an alternative strategy, the Thai authorities attempted to defend the pegged exchange rate regime through substantial foreign exchange intervention, which drained a significant fraction of official reserves and still failed to achieve the desired goal.
+In contrast, the major Latin American countries raised interest rates significantly as soon as they were hit by the shock waves from the crisis.
+More generally, Thailand's experience highlights the fact that a half-hearted defense of a fixed exchange rate regime may drain reserves, reduce the credibility of the authorities, and ultimately prove unsuccessful.
+Accordingly, an emerging consensus in the policymaking community suggests that, when fixed exchange rate regimes come under attack, they either should be abandoned as quickly as possible or defended with all available instruments, including aggressive monetary tightening.
+This discussion suggests a further observation.
+Ironically, Latin America's history of financial crises actually may have helped limit the damage done by the recent crisis.
+The regions' previous crises have allowed policymakers (many of whom are well-trained technocrats) to gain significant experience in crisis management.
+The Asian economies, in contrast, had grown essentially without interruption for many years.
+Perhaps as a result, policymakers in the region may have been less prepared to deal with the crisis.
+Additionally, since the Latin American countries had much experience with economic crises, the turmoil associated with the recent crisis may have been less damaging to the sentiment of investors and the general public than was the case in Asia.
+It seems reasonable to hypothesize that, when economic crises are a fact of life, institutions and practices are likely to develop that make countries more resilient in the face of such crises.
+Lessons from Mexico's Recent Experience I now turn to Mexico.
+As mentioned earlier, the Mexican economy has been particularly buoyant during the recent crisis.
+Are there any general lessons that can be drawn from Mexico's experience?
+Although the Mexican authorities have raised interest rates at various times over the past two years to stabilize the peso, they nonetheless have allowed the peso to depreciate.
+It is probably fair to say that any adverse effects of peso depreciation are small compared with the costs that would have been borne had the authorities attempted to prevent the currency from weakening.
+This suggests that the policies required to defend a pegged exchange rate--not to mention the disruptions that are endured when such pegs are blown out--may leave countries with this sort of regime more vulnerable to downturn when crises occur.
+An additional factor that likely has contributed to Mexico's resilience in recent years is its close relationship with the exuberant U.S. economy.
+Roughly three-quarters of Mexican exports are purchased by the United States, representing about one-fifth of Mexican output.
+The strength of the U.S. economy also has benefited Latin American countries more generally.
+On the other hand, the Asian countries are highly integrated with Japan.
+It may be more than coincidence that the Asian crisis erupted after a sustained depreciation of the yen and as Japan fell into a deep recession.
+Moreover, during the darkest days of the Asian crisis, Japanese imports from Asia declined sharply, and Japanese bank lending to these countries slowed.
+Developments in Japan almost certainly exacerbated the breadth and depth of the Asian crisis.
+Some Conclusions What conclusions can be drawn from this discussion?
+First, and not surprisingly, developing countries that are hit with adverse shocks are likely to fare much better if they are highly integrated with a large, booming economy.
+This unfortunately is more a matter of luck (namely, the position of the partner country in its business cycle) than a clear prescription for economic policy.
+Second, during times of crisis, flexible exchange rate regimes appear to have major advantages relative to more rigid regimes.
+Flexible regimes may provide additional room for maneuver, since adjustment to an adverse shock can come through exchange rate depreciation.
+Flexible exchange rate regimes are also less costly to defend.
+Third, when adverse shocks arise, the authorities should move quickly to put appropriate policies in place to preempt potential difficulties.
+Particularly, in the context of a fixed exchange rate regime, monetary policy should be tightened aggressively to defend the peg, or the regime should be abandoned.
+A fourth lesson from the discussion is that strong macroeconomic fundamentals are necessary--but not sufficient--for avoiding crisis.
+Structural policies are also of first-order importance.
+Fifth, developing countries should move to strengthen their financial infrastructure, improve the efficiency of financial intermediation, and ensure that the regulations and incentives for proper credit assessment and monitoring are in place.
+This is particularly important for those countries with huge quantities of domestic savings; if appropriate measures are not implemented, such countries may face further financial crises in coming years.
+Finally, probably the major factor generating the sharp economic decline in Asia was the dramatic reassessment of prospects for the region, largely reflecting a "wake-up call" regarding the financial sector's level of performance.
+Of necessity, investors will punish such downside surprises severely.
+To limit the magnitude of such downside surprises, policymakers should take action to maximize financial sector transparency and ensure appropriate disclosure of information.
+Exhibits 1 - 8 (23 KB PDF) Footnotes 1 Thailand's GDP declined during 1996:Q4 and 1997:Q1.
+The economy rebounded briskly during 1997:Q2, but GDP remained below its 1996 high.
+I have chosen 1997:Q2 (the local maximum) as the relevant pre-crisis peak.
+2 These data include bank loans received and issuance of bonds and equities.
+The data exclude interbank flows.
+3 In other words, consider the following: Suppose that the Asian banking systems and the Latin American banking systems were asked to intermediate a similar quantity of funds.

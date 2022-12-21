@@ -1,0 +1,98 @@
+Naturally, sitting where I do, I have taken the opportunity presented by serving as a discussant for this paper to think about the possible implications of behavioral economics for my own job--the conduct of monetary policy.
+B&L venture a little way into this area--they recommend that the Federal Reserve set a long-run inflation target well above zero and they recommend greater attention to survey results in forecasting--but I wonder whether the ideas might have more far-reaching application.
+So I have chosen not to comment very much on the paper or to pass judgment on its policy recommendations, but instead to use it as a jumping-off point for raising questions about the wider implications of nonrational behavior for monetary policy.
+After I prepared the first draft of these comments, I looked at the program again and realized the considerable overlap between my questions and those posed in the introductory paragraph for this session.
+You can think of this comment as expanding on those questions in the hope of pointing the way toward more fruitful research.
+Deviations from fully rational optimizing behavior induced by psychological factors have long been important in macroeconomic analysis and hence in monetary policy.
+Certainly the terms "animal spirits" and "irrational exuberance" have been used extensively in macroeconomic and policy discussions in recent years to characterize these types of behaviors by private agents.
+It may be that the framework of behavioral analysis laid out by B&L and others gives us the tools to look at these and similar phenomena more systematically and to derive from that analysis implications for the conduct of policy that we cannot derive from more standard ways of looking at the economy and the effects of policy.
+B&L extend the usual scope of analysis by pointing out that policymakers are subject to the same types of biases and mistakes made by private agents.
+It took only a few seconds of introspection to convince me that this subject was worth pursuing, and I will also raise some questions about its possible import for how monetary policy is made.
+What are the implications of nonrational behavior on the part of private agents?
+1.
+What do these behaviors imply about how aggressive monetary policy should be and about whether it should pay special attention to asset prices?
+If people do such things as overweight the near-term future at the expense of long-term goals, ignore reversion to the mean, and pay too much attention to recent changes relative to longer-term levels, they may be likely to overreact to current interest rates and asset prices and extend recent trends inappropriately.
+That response would tend to result in increasingly serious misallocations of resources as interest rates and asset prices strayed further from long-run fundamentals.
+If such behavior were widespread, a major deviation of interest rates from longer-run equilibrium levels, which might be called for to forcefully counter economic weakness or inflation, could then have some side effects that needed to be taken into account.
+Short-sighted businesses and households would make decisions about investments in houses and capital equipment based on today's rates, without giving adequate consideration to whether such investments would seem appropriate at the equilibrium constellation of rates.
+Compromising longer-run policy objectives clearly would be destabilizing and counterproductive; but if these side effects were significant, they might counsel smaller deviations of the funds rate from the neighborhood of its natural level and a more patient return to longer-run goals than otherwise.
+However, other aspects of behavioral economics could send conflicting signals.
+For example, the "slow learning" error seems to underline the importance of keeping inflation and inflation expectations close to whatever level the central bank sees as appropriate over the long run because any change in expectations could be difficult and costly to reverse.
+The picture becomes even more complicated when we consider a broader array of financial assets.
+We observe what appears to be a tendency for equity prices, exchange rates, and other asset prices to overshoot longer-run fundamentals from time to time.
+Such overshooting can be derived from models in which asset prices are fully rational, but it could be accentuated by some of the behaviors identified by B&L.
+If so and if also, as a consequence of those behaviors, resources are even more poorly allocated than a standard model would suggest, does this strengthen the argument that monetary policy should pay attention to asset prices even at the expense of shorter-term deviations of output and prices from long-term objectives?
+I must admit that even raising these questions makes me uncomfortable.
+Like most central bankers, my predilection is to keep monetary policy focused closely on achieving legislated mandates expeditiously and to limit consideration of resource allocation or asset prices to their likely effect on macroeconomic stability over the next few years.
+Asset price bubbles and resource misallocations are difficult to identify, especially at times of structural change such as the late 1990s in the United States.
+Moreover, governments have other policy tools with which to address some of the potential effects of these distortions, such as the supervision of banks and securities dealers.
+But a finding of large and systematic distortions, owing for example to problems of self-control, would be a new element to weigh in the policy mix, in particular if they were shown to add to the volatility of output and prices over longer periods.
+2.
+What do nonrational behaviors imply about the price stability goal of monetary policy?
+The authors repeat the familiar argument that resistance to nominal wage reductions owing to money illusion and nominal loss aversion on the part of workers justifies the settings of monetary policy in its inflation target appreciably above zero to facilitate employers' ability to cut real wages.
+However, the evidence on this point isn't nearly as overwhelming as B&L suggest.
+With inflation much lower than the authors' suggestion of 3 percent and continuing to decline, we're in the midst of a natural experiment.
+So far at least, real wage increases have not been markedly higher than would have been predicted based on models fit over periods of more rapid inflation.
+And inflation has been coming down somewhat more rapidly than our models expect given the level of the unemployment rate.
+Preliminary work by Bill Wascher and Bruce Fallick on the Board staff using micro data from the Employment Cost Index does show a piling up of wage changes at zero each year that affect perhaps an extra 10 to 15 percent of wage decisions--not a small proportion.
+However, the spike has become no larger in recent years as inflation has fallen to quite low levels.
+In addition, the same work shows only small distortions to wage-change distributions over periods of four years; apparently by freezing wages for more than one year, and because productivity rises and negative shocks go away, employers can achieve reasonable outcomes for wage increases over time and still respect the resistance to nominal wage declines in any particular year.
+Moreover, I wonder whether bounded rationality and money illusion don't actually weigh more heavily on the side of seeking true price stability over time.
+Obviously, true price stability is the only state in which money illusion won't give distorting signals for resource allocation.
+Perhaps the difficulty of rationally factoring prospective changes of the price level into decisions about saving and investment partly fuels the public's strong aversion to inflation.
+Decisions about how much to save for a distant event, like retirement, and about how to allocate savings across financial and real stores of value are greatly complicated by the need to take account of inflation.
+In my view, the main argument for keeping steady-state inflation a little elevated is the possible constraint that the zero bound on nominal interest rates might place on the central bank's ability to decrease real interest rates in response to a downward demand shock.
+To be sure, as many of my colleagues have been emphasizing, we do have instruments to deal with a situation in which conventional policy ran out of room; but as they also have emphasized, a first choice would be to avoid circumstances in which the use of these instruments would be required.
+Still, any steady state rate of inflation has costs and benefits, and further analysis of this consideration using the tools of behavioral economics might be useful.
+3.
+How should the nonrationality of private agents be integrated into forecasting?
+B&L touch on this subject by advocating the greater use of survey results.
+I can assure them that, at the Board, the staff already pays close attention to these surveys and finds them of some help in predicting near-term developments.
+We have followed them especially closely when we are trying to determine whether specific events are likely to trigger changes in spending behavior, for example after the Gulf wars and the terrorist attacks of September 11, 2001.
+We have not, however, found that they add much of value to predictions based on standard spending determinants over periods of several quarters or more.
+In our forecasts and policy discussions we take account of the full range of information and possible behavioral responses to explain recent developments and to forecast the economy.
+These discussions often focus on anomalies in the economic situation and deviations from expected paths, frequently giving psychological explanations, such as the animal spirits and irrational exuberance examples I cited near the beginning of my discussion.
+I do occasionally wonder whether, in the absence of more-focused analysis and any quantitative measures of such behaviors, such an identification is simply relabeling our ignorance.
+And we often speculate on the psychology of market participants when we discuss the potential reactions to different paths for policy.
+My question is whether behavioral economics can narrow our ignorance and give us a deeper and more systematic understanding of economic dynamics.
+Our formal modeling has already incorporated some insights of this character.
+For example, in the course of putting together FRBUS, the Board staff's current large-scale quarterly econometric model, we quickly decided not to restrict ourselves to just model-consistent expectations and instead to allow a variety of mechanisms for individuals to form their expectations.
+We have spent a lot of time on attempting to capture sensible descriptions of learning--what do people know, when do they know it, and how does new information become embedded in expectations.
+But much more can probably be done to work in those micro level insights of behavioral economics that can be shown to have macroeconomic importance.
+It stands to reason that, if the types of irrational decisionmaking cited by B&L and others are widespread, they should affect at least the dynamics of macroeconomic adjustment.
+Starting points and recent history, the size and frequency of changes, hyperbolic discounting, and other such characteristics could impart important nonlinearities and asymmetries to the response of the economy to monetary policy or other shocks, which, if well understood, could narrow at the margin our degree of ignorance and uncertainty.
+Does bounded rationality promote the use of rules of thumb by households and business, and if so, what is the nature of these rules?
+Has the response to the decline in equity wealth we have seen in recent years been shaped in a nonlinear way by the decline's extraordinary size, or by its following a rapid run-up in wealth, or by the circumstance that so much of it came to rest in defined-contribution retirement accounts?
+We are constantly striving to have our models reflect what people actually do and how they actually form expectations.
+How can behavioral economics help in that endeavor?
+What are the implications of nonrational behavior on the part of policymakers?
+1.
+What does the potential for such behaviors imply about institutional design?
+Elected representatives, recognizing their own "self-control" problem, have created central banks with a high degree of insulation from short-term political pressures and instructed them as to their long-run objectives.
+Such a design should help to address the potential conflict in the political arena between "patient long-run goals" and "impatient short-run impulses," in the phrases of B&L.
+But as the authors point out, the policymakers could be subject to the same set of biases.
+Moreover, when exercising their oversight, politicians are often tempted to emphasize short-run results over long-term goals.
+Formally focusing accountability tightly around long-run goals, like price stability, will help to counter these tendencies in politicians and policymakers, but it risks short-changing legitimate shorter-run objectives like stabilizing output.
+Of course, a considerable literature already addresses the issues of the way to structure central bank independence and accountability.
+The question is whether this new wrinkle--the possibility of inadvertent irrational behaviors by the policymakers--has anything to contribute to the thinking about these elements of institutional design.
+In recent years, when granting central bank independence or restructuring central bank goals, many countries have given the responsibility for monetary policy to a committee in order to bring to bear a diversity of views on decisions.
+The possibility that individual policymakers would be vulnerable to the same mistakes as private agents seems to strengthen the rationale for group decisionmaking.
+Presumably, in a diverse group, some member will be able to point out a poorly reasoned analysis to the others.
+Perhaps for this reason the few experimental tests of group decisionmaking for monetary policy have concluded, contrary to the common wisdom, that groups perform better than individuals.
+But policy committees have evolved with different cultures; for example some, such as the Federal Reserve, have tended to try to find consensus under the leadership of a chairman; others, like the Monetary Policy Committee in the United Kingdom, have emphasized individual accountability.
+Does behavioral economics or the psychology it is based on have anything to say about how best to structure groups to enhance the odds of avoiding mistakes of reasoning such as those highlighted by the authors?
+Efforts to build consensus would tend to force groups to pay greater attention to individuals with contrary reasoning that turns out to be correct, but strong leadership might imply that some views get more weight than others.
+Can some of the concepts regarding organizations discussed in the Gibbons paper earlier at the conference be applied to the Federal Open Market Committee?
+Can this literature address the optimal size of the group?
+As groups become larger, more viewpoints are represented; but meetings can become unwieldy and damp the give and take needed to realize the full benefits of diversity.
+2.
+What are the implications of nonrational policymaker analysis for the conduct of policy itself?
+If group decisionmaking does not entirely rule out the possibility of irrationally based analysis, is policymaker bounded rationality--the inevitably limited understanding of the economy--another reason to be restrained in the conduct of policy, another reason for gradualism?
+Decisionmakers, recognizing that they can't foresee and weigh all the possible elements in the outlook and responses to policy, may see their own limitations as another form of Brainard uncertainty and restrict the aggressiveness of their actions.
+Slow policy responses could also result from excessive weight on changes relative to levels--for example, mistaking easing for easy policy.
+In either case, the risk is that timid policy would allow imbalances to build and destabilize prices and economic activity.
+Does behavioral economics have anything to say about whether the nonrationality of policymakers, if not adequately recognized, has the potential to impede the efficient conduct of policy?
+Does it argue for a commitment to more rule-like behavior, or are the effects of policymaker errors likely to fall mostly on the forecasts that are likely to play an important role in any such rule?
+Conclusion Monetary policymakers necessarily operate in the real world, and we are constantly grappling with issues of how people really act, make decisions, and form expectations.
+Much of the attention of the FOMC is taken up with trying to understand the behavior of households and businesses, especially when their actions do not seem to conform to traditional economic models.
+The problems are difficult, but this conference has highlighted a flowering of interest in bringing new perspectives and a richer understanding to the study of why people do what they do.

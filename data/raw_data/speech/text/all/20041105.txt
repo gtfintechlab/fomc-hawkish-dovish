@@ -1,0 +1,105 @@
+The financial services industry continues to evolve to meet the challenges posed by mergers, new financial instruments, and changing regulatory frameworks.
+The Federal Reserve Board, as the umbrella supervisor of financial holding companies, has been working with other regulators and financial institutions to improve the effectiveness and relevance of regulation and supervision in this changing environment.
+Some of the issues that we have been dealing with recently are of mutual concern to both broker-dealers and commercial bankers--albeit they may represent different sides of the coin.
+Others involve reconciling the differing perspectives and regulatory environments of investment firms and commercial banks around similar financial products and activities in the wake of financial conglomeration.
+Today I would like to bring you up-to-date on three such issues, as well as highlight some aspects of the Federal Reserve's proposed anti-tying guidelines.
+In all of these areas, I encourage your participation as we work toward new regulatory guidance.
+Accounting for Securities The first supervisory issue I would like to discuss involves accounting for investment securities.
+The recent accounting guidance, The Meaning of Other-Than-Temporary Impairment and Its Application to Certain Investments, or EITF 03-1, has raised serious questions about accounting for investments that are held in available-for-sale portfolios.
+As many of you are aware, when the Emerging Issues Task Force (EITF) of the Financial Accounting Standards Board (FASB) came to its consensus earlier this year, it was not intending to dramatically change accounting practices for debt securities.
+But in early August, the public accounting firms began interpreting the guidance very differently.
+Specifically, if a security was sold from the available-for-sale investment portfolio at a loss, the new interpretation called into question the facts and circumstances that should be used to determine if the remaining portfolio should be viewed as "other than temporarily impaired," and thereby marked down to the lower of cost or market through earnings (LOCOM).
+At the Federal Reserve, we were concerned about the interpretation since most banks use their available-for-sale portfolio to manage their net interest margin on longer-term, fixed-rate deposits and funding.
+A LOCOM accounting model applied to such instruments is not consistent with this important management function.
+For asset-liability management purposes, historical cost accounting better reflects the use of the available-for-sale portfolio to hedge this type of interest rate risk.
+We have always expected banks to regularly review the fair values of all their securities.
+But the concept of "tainting" due to realized losses from the available-for-sale portfolio had not been widely applied in such a narrow way.
+I commend FASB for listening to questions raised by preparers, auditors, and bank regulators and for agreeing to defer the effective date of the impairment guidance in this interpretation.
+FASB has also issued some implementation guidance, and its comment period ran until October 29.
+To be sure, the fixed-income research groups of a number of SIA members have played an important role in educating their commercial bank customers on the issues surrounding EITF 03-1 over the past few months.
+However, more work may be needed and I would encourage you to closely monitor FASB's deliberations.
+Pay particular attention to the facts and circumstances that should be considered.
+Note that the guidance allows sales of available-for-sale securities at a loss for the same reasons sales of held-to-maturity securities are permitted without tainting the remaining portfolio.
+For example, mergers or changes in regulatory capital justify untainted sales.
+The guidance also permits sales for unexpected and significant changes in liquidity needs or for increases in interest rates.
+In practice, EITF 03-1 should make all organizations that have available-for-sale securities review their procedures for identifying impairment.
+Clearly, investors should continue to monitor for credit downgrades and changes in prepayment speeds, especially for interest-only strips and mortgage-backed securities booked at a premium.
+But the trigger for recognizing impairments for changes in interest rates under EITF 03-1 would no longer be an intent to sell, but rather whether the investor no longer intends to hold the security until fair value recovers to its amortized cost.
+Also note that the disclosure aspects of EITF 03-1 do apply to third-quarter financial statements.
+The major change is separate disclosure of securities whose fair value is below carrying cost.
+Organizations must now disclose separately the amount of securities that have been in a continuous unrealized loss position for more than one year, and in the narrative discuss why the loss has not yet been recognized.
+As dealers in investment securities for banks and other investors, your organizations should be aware of the importance of remaining informed about emerging accounting interpretations that deal with long-accepted practices--not only in the context of providing products and services to your customers, but also in your own bank-like entities that may be affected as investors.
+Regulatory Capital Issues Let me now move on to some accounting issues that relate broadly to the new capital framework for the largest U.S.-based financial institutions, including broker-dealers who wish to have consolidated supervision for purposes of meeting European Union requirements.
+In general, this entails broker-dealer implementation of Basel II capital requirements.
+As you know, the Basel II effort to revise bank risk-based capital standards is now in its final stages and moving toward implementation.
+Importantly, that effort has adopted an approach to credit risk for instruments held in the banking book that differs from the current capital rules applied to instruments held in the trading book under the 1996 Market Risk Amendment (MRA) to the Basel Accord.
+Clearly, the fair valuing or "marking to market" of commercial bank trading portfolios and the implied short-term holding periods of such positions factor into the different approaches.
+We must remember, however, that the MRA was adopted at a time when bank trading portfolios looked very different from today.
+Significant growth in structured transactions, collateralized debt obligations, and credit derivatives are just a few examples of the significant developments over the past several years.
+Moreover, the MRA was structured with commercial banks in mind and not broker-dealers who, as you know, mark most of their balance sheets to market.
+Also, both banking organizations and investment firms appear to be holding less-liquid instruments at fair value over longer time horizons than has been traditionally associated with the concept of a commercial bank trading account.
+Taken together, these industry and regulatory dynamics suggest that the time may have arrived for supervisors to begin to review the appropriateness of the 1996 MRA for commercial bank trading accounts and investment firm fair-valued holdings.
+In an initial effort to fully identify the types and characteristics of instruments that banks hold in their trading accounts, and that securities firms hold at fair value, a joint subgroup of the International Organization of Securities Commissions (IOSCO) and the Basel Committee on Banking Supervision is surveying the industry.
+This survey seeks to gain a better perspective on the range of techniques financial institutions are developing to more robustly measure the risk these instruments entail.
+The information acquired in the survey is to be fully incorporated in supervisors' review of the current adequacy of the MRA.
+However, this effort to review the MRA is still in its early stages.
+As yet, it is uncertain whether the effort will result in minor revisions or significant changes to the current MRA.
+Challenges in Securities Accounting and Auditing Both of these securities-accounting issues that I have just discussed should also be viewed in light of broader issues that are challenging corporate management, independent accountants, and regulators.
+Fair value accounting for securities, whether in the income statement or in disclosures, relies on key assumptions, modeling techniques and judgment.
+For example, modeling techniques are commonly used in valuing mortgage-backed securities.
+The present value of the estimated future net cash flows attempts to anticipate prepayments of mortgages due to forecasted changes in interest rates.
+Changes in the assumptions used in the modeling approach for any instrument or product will affect the resulting values.
+For example, if property values are rising rather than falling, the resulting buildup of home equity can affect a borrower's desire to refinance the loan or use the equity to purchase a more expensive home.
+Thus, the auditing of model-based fair values for accounting purposes requires a high level of specialized knowledge.
+The auditor must fully understand how modeling or other sophisticated techniques are used to determine fair value, whether the assumptions used in the models are appropriate, and whether the data have integrity.
+Furthermore, "fair value" is not always clearly defined or easily determined for some products or instruments.
+The lack of observable market prices, differences in modeling assumptions, expectations of future events and market conditions, and customer behavior make the task of assigning appropriate valuations very difficult.
+Certainly, a noncomplex instrument that is highly liquid and that has an observable market price is easier to value with more precision than a highly complex, illiquid instrument.
+Given the myriad of complex financial instruments that currently exist and that are constantly being created, developing verifiable and auditable fair value estimates is a major concern.
+And because fair value models are forward looking, an auditor has an additional challenge: determining what is the normal variability in expectations that surrounds any forecast and what is earnings manipulation.
+To its credit, FASB has recently issued an exposure draft on fair value measurement.
+The proposal provides a framework for fair value measurement objectives, and it is just the initial phase of a long-term fair value project.
+The initial phase is generally intended to apply to financial and nonfinancial assets and liabilities that are currently subject to fair value measurement and disclosure.
+It is not intended to expand the use of fair value measurements in financial statements at the present time.
+In my view, the proposal is a good first step in enhancing fair value measurement guidance, but I believe additional guidance is warranted.
+The proposal should address reliability issues more comprehensively.
+Most important, FASB should develop additional guidance and conduct more research and testing to enhance the reliability of fair value measurements before the use of fair value is significantly expanded in primary financial statements.
+Furthermore, FASB should work with other organizations including the Public Company Accounting Oversight Board (PCAOB), the American Institute of Certified Public Accountants (AICPA), and accounting firms to enable the development of robust guidance that ensures fair value estimates can be verified and audited.
+Anti-Tying Restrictions on Banks Finally, I want to discuss the nature of anti-tying regulations for financial institutions, an issue that can be very confusing to nonbankers.
+As innovations create new financial instruments, services, and markets, and as banks expand the scope of the financial services they offer, the process banks use to make business decisions is similar to the process many of you apply in your own business.
+Financial institutions are trying to build customer loyalty by offering a broader menu of financial services to corporate customers.
+Some of these financial services are more profitable than others, and thus, add greater shareholder value.
+The concern addressed by anti-tying restrictions is that banks may force customers to take unwanted products in order to obtain needed services--primarily loan products.
+As a brief background, a special anti-tying statute applies to banks.
+The statute generally prohibits a bank from conditioning the availability or price of one product on a requirement that a customer also obtain another product that is not a traditional bank product from the bank or an affiliate of the bank.
+For example, a bank may not inform a customer that it will provide the customer with a loan only if the customer engages the bank's securities affiliate for an underwriting or obtains some other product or service that is not a traditional bank product from the bank or an affiliate.
+The words "that is not a traditional bank product" are important.
+Not all tying arrangements are illegal ties.
+The statute and the Federal Reserve Board's regulations expressly permit a bank to condition the availability or price of a product or service on a requirement that the customer also obtain one or more traditional bank products from the bank or an affiliate.
+For example, banks for many years required customers obtaining construction financing to maintain compensating balances.
+A traditional bank product generally is defined as any "loan, discount, deposit, or trust service," and the Board's proposed interpretation provides guidance on what types of products fall within the scope of these terms.
+In light of the complexities of the anti-tying restrictions, the Board has published and received public comment on both an interpretation of the anti-tying statute and on related supervisory guidance.
+The proposed interpretation was published to help banking organizations and corporate customers clarify permissible practices under this complex statute in today's financial services environment.
+Importantly, the interpretation proposes guidelines that a bank should follow when it seeks to engage in traditional "relationship banking," that is, serving its customers on the basis of the profitability of the overall customer relationship with the entire banking organization.
+The proposed supervisory guidance communicates our expectations as to the types of policies, procedures, internal controls, and training programs that should help banks comply with the anti-tying restrictions.
+The proposed guidance also emphasizes the importance of the compliance and internal audit functions in ensuring compliance with the law and regulations.
+Ensuring compliance can be an extremely difficult endeavor because there is no prohibition against cross selling products or aggressive marketing.
+The goal is to ensure that banks don't cross the line between offering choices and illegally tying products and services.
+The Federal Reserve Board and the other federal banking agencies have long required that banking organizations establish and maintain policies and procedures to ensure compliance with the anti-tying restrictions, and the agencies monitor these policies and procedures through the supervisory process.
+Admittedly, at times it can be difficult to determine whether a violation of the anti-tying statute has occurred.
+As I mentioned, some forms of tying by banks are expressly permitted, and the statute does not apply to tying arrangements imposed by a bank's nonbank affiliates.
+Moreover, divining whether a bank imposed a prohibited tie often requires a close review of the facts and circumstances associated with a particular transaction.
+A prohibited tie, for example, may be conveyed orally and not memorialized in transaction documentation.
+Our supervisory reviews indicate that banks generally understand and have implemented systems to ensure compliance with the anti-tying provisions to which they are subject.
+In addition, although we have encouraged customers that believe they have been the subject of an illegal tie to come forward, we have received few complaints from bank customers.
+Moreover, few customers have sought to challenge their banks directly, although they are granted a private right of action under the statute and may obtain triple damages if successful.
+A 2003 report by the Government Accountability Office (GAO) on bank tying practices found that the available evidence did not substantiate claims that banks were engaging in illegal tying, but the report did note that borrowers were reluctant to file formal complaints.
+The GAO recommended that the Board consider taking additional steps to enforce compliance with the anti-tying provisions.
+Our proposed interpretation and guidance are intended to help banks and the customers understand this rather complex compliance area.
+I should mention that we also received a comment letter on the proposed interpretation from the Department of Justice.
+This letter, which is available on the Department's web site, expresses concern that the bank anti-tying statute itself may suppress competition and harm consumers, especially as it is applied to large customers.
+The Justice Department recommends that the Board interpret the bank anti-tying statute in a manner similar to the federal antitrust laws.
+Under federal antitrust laws, which apply to independent broker-dealers, a showing of market power is essential to support a finding that a company has coerced its customer to purchase an unwanted product or service.
+In contrast, the courts historically have found that the special anti-tying statute that applies only to banks generally does not require a showing of market power to support a violation.
+Alternatively, the department recommends that the Board exercise its statutory authority to exempt large, corporate customers from the reach of the bank anti-tying statute.
+These are all issues the Board will have to carefully consider as it moves toward finalizing the anti-tying interpretation and guidance.

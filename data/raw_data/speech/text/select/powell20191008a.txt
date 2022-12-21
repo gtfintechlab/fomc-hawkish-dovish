@@ -1,0 +1,115 @@
+At the Fed, we like to say that monetary policy is data dependent.
+We say this to emphasize that policy is never on a preset course and will change as appropriate in response to incoming information.
+But that does not capture the breadth and depth of what data-dependent decisionmaking means to us.
+From its beginnings more than a century ago, the Federal Reserve has gone to great lengths to collect and rigorously analyze the best information to make sound decisions for the public we serve.
+The topic of this meeting, "Trucks and Terabytes: Integrating the 'New' and 'Old' Economies," captures the essence of a major challenge for data-dependent policymaking.
+We must sort out in real time, as best we can, what the profound changes underway in the economy mean for issues such as the functioning of labor markets, the pace of productivity growth, and the forces driving inflation.
+Of course, issues like these have always been with us.
+Indeed, 100 years ago, some of the first Fed policymakers recognized the need for more timely information on the rapidly evolving state of industry and decided to create and publish production indexes for the United States.
+Today I will pay tribute to the 100 years of dedicatedâ€”and often behind the scenesâ€”work of those tracking change in the industrial landscape.
+I will then turn to three challenges our dynamic economy is posing for policy at present: First, what would the consequences of a sharp rise in the price of oil be for the U.S. economy?
+This question, which never seems far from relevance, is again drawing our attention after recent events in the Persian Gulf.
+While the question is familiar, technological advances in the energy sector are rapidly changing our assessment of the answer.
+Second, with terabytes of data increasingly competing with truckloads of goods in economic importance, what are the best ways to measure output and productivity?
+Put more provocatively, might the recent productivity slowdown be an artifact of antiquated measurement?
+Third, how tight is the labor market?
+Given our mandate of maximum employment and price stability, this question is at the very core of our work.
+But answering it in real time in a dynamic economy as jobs are gained in one area but lost in others is remarkably challenging.
+In August, the Bureau of Labor Statistics (BLS) announced that job gains over the year through March were likely a half-million lower than previously reported.
+I will discuss how we are using big data to improve our grasp of the job market in the face of such revisions.
+These three quite varied questions highlight the broad range of issues that currently come under the simple heading "data dependent."
+After exploring them, I will comment briefly on recent developments in money markets and on monetary policy.
+A Century of Industrial Production Our story of data dependence in the face of change begins when the Fed opened for business in 1914.
+World War I was breaking out in Europe, and over the next four years the war would fuel profound growth and transformation in the U.S. economy.1 But you could not have seen this change in the gross national product data; the Department of Commerce did not publish those until 1942.
+The Census Bureau had been running a census of manufactures since 1905, but that came only every five yearsâ€”an eternity in the rapidly changing economy.
+In need of more timely information, the Fed began creating and publishing a series of industrial output reports that soon evolved into industrial production indexes.2 The indexes initially comprised 22 basic commodities, chosen in part because they covered the major industrial groups, but also for the practical reason that data were available with less than a one-month lag.
+The Fed's efforts were among the earliest in creating timely measures of aggregate production.
+Over the century of its existence, our industrial production team has remained at the frontier of economic measurement, using the most advanced techniques to monitor U.S. industry and nimbly track changes in production.
+What Are the Consequences of an Oil Price Spike?
+Let's turn now to the first question of the consequences of an oil price spike.
+Figure 1 shows U.S. oil production since 1920.
+After rising fairly steadily through the early 1970s, production began a long period of gradual decline.
+By 2005, production was at about the same level as it had been 50 years earlier.
+Since then, remarkable advances in the technology for finding and extracting oil have led to a rapid increase in production to levels higher than ever before.3 In 2018, the United States became the world's largest oil producer.4 Oil exports have surged, imports have fallen (figure 2), and the U.S. Energy Information Administration projects that this month, for the first time in many decades, the United States will be a net exporter of oil.5 As monetary policymakers, we closely monitor developments in oil markets because disruptions in these markets have played a role in several U.S. recessions and in the Great Inflation of the 1960s and 1970s.
+Traditionally, we assessed that a sharp rise in the price of oil would have a strong negative effect on consumers and businesses and, hence, on the U.S. economy.
+Today a higher oil price would still cause dislocations and hardship for many, but with exports and imports nearly balanced, the higher price paid by consumers is roughly offset by higher earnings of workers and firms in the U.S. oil industry.
+Moreover, because it is now easier to ramp up oil production, a sustained price rise can quickly boost output, providing a shock absorber in the face of supply disruptions.
+Thus, setting aside the effects of geopolitical uncertainty that may accompany higher oil prices, we now judge that a price spike would likely have nearly offsetting effects on U.S. gross domestic product (GDP).
+How Should We Measure Output and Productivity?
+Let's now turn to the second question of how to best measure output and productivity.
+While there are some subtleties in measuring oil output, we know how to count barrels of oil.
+Measuring the overall level of goods and services produced in the economy is fundamentally messier, because it requires adding apples and orangesâ€”and automobiles and myriad other goods and services.
+The hard-working statisticians creating the official statistics regularly adapt the data sources and methods so that, insofar as possible, the measured data provide accurate indicators of the state of the economy.
+Periods of rapid change present particular challenges, and it can take time for the measurement system to adapt to fully and accurately reflect the changes in the economy.
+The advance of technology has long presented measurement challenges.
+In 1987, Nobel Prizeâ€“winning economist Robert Solow quipped that "you can see the computer age everywhere but in the productivity statistics.
+"6 In the second half of the 1990s, this measurement puzzle was at the heart of monetary policymaking.7 Chairman Alan Greenspan famously argued that the United States was experiencing the dawn of a new economy, and that potential and actual output were likely understated in official statistics.
+Where others saw capacity constraints and incipient inflation, Greenspan saw a productivity boom that would leave room for very low unemployment without inflation pressures.
+In light of the uncertainty it faced, the Federal Open Market Committee (FOMC) judged that the appropriate riskâ€‘management approach called for refraining from interest rate increases unless and until there were clearer signs of rising inflation.
+Under this policy, unemployment fell near record lows without rising inflation, and later revisions to GDP measurement showed appreciably faster productivity growth.8 This episode illustrates a key challenge to making data-dependent policy in real time: Good decisions require good data, but the data in hand are seldom as good as we would like.
+Sound decisionmaking therefore requires the application of good judgment and a healthy dose of risk management.
+Productivity is again presenting a puzzle.
+Official statistics currently show productivity growth slowing significantly in recent years, with the growth in output per hour worked falling from more than 3 percent a year from 1995 to 2003 to less than half that pace since then.9 Analysts are actively debating three alternative explanations for this apparent slowdown: First, the slowdown may be real and may persist indefinitely as productivity growth returns to moreâ€‘normal levels after a brief golden age.10 Second, the slowdown may instead be a pause of the sort that often accompanies fundamental technological change, so that productivity gains from recent technology advances will appear over time as society adjusts.11 Third, the slowdown may be overstated, perhaps greatly, because of measurement issues akin to those at work in the 1990s.12 At this point, we cannot know which of these views may gain widespread acceptance, and monetary policy will play no significant role in how this puzzle is resolved.
+As in the late 1990s, however, we are carefully assessing the implications of possibly mismeasured productivity gains.
+Moreover, productivity growth seems to have moved up over the past year after a long period at very low levels; we do not know whether that welcome trend will be sustained.
+Recent research suggests that current official statistics may understate productivity growth by missing a significant part of the growing value we derive from fast internet connections and smartphones.
+These technologies, which were just emerging 15 years ago, are now ubiquitous (figure 3).
+We can now be constantly connected to the accumulated knowledge of humankind and receive near instantaneous updates on the lives of friends far and wide.
+And, adding to the measurement challenge, many of these services are free, which is to say, not explicitly priced.
+How should we value the luxury of never needing to ask for directions?
+Or the peace and tranquility afforded by speedy resolution of those contentious arguments over the trivia of the moment?
+Researchers have tried to answer these questions in various ways.13 For example, Fed researchers have recently proposed a novel approach to measuring the value of services consumers derive from cellphones and other devices based on the volume of data flowing over those connections.14 Taking their accounting at face value, GDP growth would have been about 1/2 percentage point higher since 2007, which is an appreciable change and would be very good news.
+Growth over the previous couple of decades would also have been about 1/4 percentage point higher as well, implying that measurement issues of this sort likely account for only part of the productivity slowdown in current statistics.
+Research in this area is at an early stage, but this example illustrates the depth of analysis supporting our data-dependent decisionmaking.
+How Tight Is the Labor Market?
+Let me now turn from the measurement issues raised by the information age to an issue that has long been at the center of monetary policymaking: How tight is the labor market?
+Answering this question is central to our outlook for both of our dual-mandate goals of maximum employment and price stability.
+While this topic is always front and center in our thinking, I am raising it today to illustrate how we are using big data to inform policymaking.
+Until recently, the official data showed job gains over the year through March 2019 of about 210,000 a month, which is far higher than necessary to absorb new entrants into the labor force and thus hold the unemployment rate constant.
+In August, the BLS publicly previewed the benchmark data revision coming in February 2020, and the news was that job gains over this period were more like 170,000 per monthâ€”a meaningfully lower number that itself remains subject to revision.
+The pace of job gains is hard to pin down in real time largely because of the dynamism of our economy: Many new businesses open and others close every month, creating some jobs and ending others, and definitive data on this turnover arrive with a substantial lag.
+Thus, initial data are, in part, sophisticated guesses based on what is known as the birthâ€“death model of firms.
+Several years ago, we began a collaboration with the payroll processing firm ADP to construct a measure of payroll employment from their data set, which covers about 20 percent of the nation's private workforce and is available to us with a roughly one-week delay.15 As described in a recent research paper, we constructed a measure that provides an independent read on payroll employment that complements the official statistics.16 While experience is still limited with the new measure, we find promising evidence that it can refine our real-time picture of job gains.
+For example, in the first eight months of 2008, as the Great Recession was getting underway, the official monthly employment data showed total job losses of about 750,000 (figure 4).
+A later benchmark revision told a much bleaker story, with declines of about 1.5 million.
+Our new measure, had it been available in 2008, would have been much closer to the revised data, alerting us that the job situation might be considerably worse than the official data suggested.17 We believe that the new measure may help us better understand job market conditions in real time.
+The preview of the BLS benchmark revision leaves average job gains over the year through March solidly above the pace required to accommodate growth in the workforce over that time, but where we had seen a booming job market, we now see more-moderate growth.
+The benchmark revision will not directly affect data for job gains since March, but experience with past revisions suggests that some part of the benchmark will likely carry forward.
+Thus, the currently reported job gains of 157,000 per month on average over the past three months may well be revised somewhat lower.
+Based on a range of data and analysis, including our new measure, we now judge that, even allowing for such a revision, job gains remain above the level required to provide jobs for new entrants to the jobs market over time.
+Of course, the pace of job gains is only one of many job market issues that figure into our assessment of how the economy is performing relative to our maximum-employment mandate and our assessment of any inflationary pressures arising in the job market.
+What Does Data Dependence Mean at Present?
+In summary, data dependence is, and always has been, at the heart of policymaking at the Federal Reserve.
+We are always seeking out new and better sources of information and refining our analysis of that information to keep us abreast of conditions as our economy constantly reinvents itself.
+Before wrapping up, I will discuss recent developments in money markets and the current stance of monetary policy.
+Our influence on the financial conditions that affect employment and inflation is indirect.
+The Federal Reserve sets two overnight interest rates: the interest rate paid on banks' reserve balances and the rate on our reverse repurchase agreements.
+We use these two administered rates to keep a market-determined rate, the federal funds rate, within a target range set by the FOMC.
+We rely on financial markets to transmit these rates through a variety of channels to the rates paid by households and businessesâ€”and to financial conditions more broadly.
+In mid-September, an important channel in the transmission processâ€”wholesale funding marketsâ€”exhibited unexpectedly intense volatility.
+Payments to meet corporate tax obligations and to purchase Treasury securities triggered notable liquidity pressures in money markets.
+Overnight interest rates spiked, and the effective federal funds rate briefly moved above the FOMC's target range.
+To counter these pressures, we began conducting temporary open market operations.
+These operations have kept the federal funds rate in the target range and alleviated money market strains more generally.
+While a range of factors may have contributed to these developments, it is clear that without a sufficient quantity of reserves in the banking system, even routine increases in funding pressures can lead to outsized movements in money market interest rates.
+This volatility can impede the effective implementation of monetary policy, and we are addressing it.
+Indeed, my colleagues and I will soon announce measures to add to the supply of reserves over time.
+Consistent with a decision we made in January, our goal is to provide an ample supply of reserves to ensure that control of the federal funds rate and other short-term interest rates is exercised primarily by setting our administered rates and not through frequent market interventions.
+Of course, we will not hesitate to conduct temporary operations if needed to foster trading in the federal funds market at rates within the target range.
+Reserve balances are one among several items on the liability side of the Federal Reserve's balance sheet, and demand for these liabilitiesâ€”notably, currency in circulationâ€”grows over time.
+Hence, increasing the supply of reserves or even maintaining a given level over time requires us to increase the size of our balance sheet.
+As we indicated in our March statement on balance sheet normalization, at some point, we will begin increasing our securities holdings to maintain an appropriate level of reserves.18 That time is now upon us.
+I want to emphasize that growth of our balance sheet for reserve management purposes should in no way be confused with the large-scale asset purchase programs that we deployed after the financial crisis.
+Neither the recent technical issues nor the purchases of Treasury bills we are contemplating to resolve them should materially affect the stance of monetary policy, to which I now turn.
+Our goal in monetary policy is to promote maximum employment and stable prices, which we interpret as inflation running closely around our symmetric 2 percent objective.
+At present, the jobs and inflation pictures are favorable.
+Many indicators show a historically strong labor market, with solid job gains, the unemployment rate at half-century lows, and rising prime-age labor force participation.
+Wages are rising, especially for those with lower-paying jobs.
+Inflation is somewhat below our symmetric 2 percent objective but has been gradually firming over the past few months.
+FOMC participants continue to see a sustained expansion of economic activity, strong labor market conditions, and inflation near our symmetric 2 percent objective as most likely.
+Many outside forecasters agree.
+But there are risks to this favorable outlook, principally from global developments.
+Growth around much of the world has weakened over the past year and a half, and uncertainties around trade, Brexit, and other issues pose risks to the outlook.
+As those factors have evolved, my colleagues and I have shifted our views about appropriate monetary policy toward a lower path for the federal funds rate and have lowered its target range by 50 basis points.
+We believe that our policy actions are providing support for the outlook.
+Looking ahead, policy is not on a preset course.

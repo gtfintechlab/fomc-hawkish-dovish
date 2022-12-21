@@ -1,0 +1,98 @@
+The sharing of ideas among policymakers, academics, and bankers at venues such as this benefits all involved and, I believe, helps us assess important issues relating to the strength and stability of banking and financial markets.
+I hope that my remarks today will contribute to that overall objective.
+This conference on financial stability and implications of Basel II is certainly timely.
+As you know, members of the Basel Committee on Banking Supervision are working diligently to implement the framework issued last June.
+At the same time, we are all dedicated to maintaining financial stability in our respective jurisdictions, and in global banking and financial markets as a whole.
+In this light, Basel II should not be seen as an end in itself, but a means to promote broad stability and enhance safety and soundness of financial institutions.
+Today I want to address three issues.
+First, I will describe the challenges facing bank regulators as they strive to improve financial stability.
+Then I will briefly describe some of the Basel II issues in the United States that were covered in the recent interagency press release and in last week's congressional hearing.
+Finally, I want to describe the challenges bank supervisors face in effectively implementing Basel II.
+Financial Stability As a central banker, I realize how vital it is to have a strong, stable financial system to support effective monetary policy.
+Excessive volatility in financial markets can significantly raise the cost of capital for business investment and adversely affect real economic expansion.
+History has demonstrated that a weak financial sector can significantly impede the monetary transmission mechanism when the central bank is trying to stimulate the economy.
+Since banks are the core of the financial system, efforts to improve their risk management can help mitigate the impact of shocks on financial markets and real economic performance.
+With effective risk management, banks are better able to plan alternatives to mitigate risks when they exceed predetermined risk exposure levels.
+It is important to emphasize that the normal fluctuations in asset prices that result from dynamic demand and supply conditions, and even some increase in uncertainty, do not usually generate financial instability.
+Put differently, financial stability implies that key institutions in the financial system are operating without significant difficulty and markets are generally functioning well.
+Bankers implicitly accept risk as a consequence of providing services to customers and also take explicit risk positions that offer profitable returns relative to their risk appetites.
+The job of bank supervisors is to ensure that bank capital represents an adequate cushion against losses, especially during times of financial instability or stress.
+Basel II is yet another step to minimize the negative consequences of risk-taking by financial institutions, particularly those institutions that could contribute to financial instability.
+This is reflected in the use of unexpected loss to calibrate capital.
+The assumption is that normal volatility should be covered by normal operating earnings.
+For losses beyond the normal range of expectations, capital should be in place to absorb the loss and leave the financial institution stable and able to continue operating effectively.
+Thus, financial institutions with weaker profit margins, or with customers with more varied ability to meet their obligations, should have more capital.
+It is important here to distinguish between higher expected losses, for which bankers raise prices to cover risk, and greater volatility of results, which requires additional capital.
+Greater sensitivity of regulatory capital to risk has taken on increased significance as virtually all banking markets have become considerably more concentrated, with some companies--by their very size alone--posing the potential for systemic risk.
+Also, the advanced approaches of Basel II better align regulatory capital to the risks presented by sophisticated financial instruments and to the complexity of large, internationally active financial institutions.
+The current Basel I framework is more focused on credit risk for balance sheet assets.
+But sophisticated financial institutions carry fewer of their potential exposures on their books.
+Rather, after credit- and market-risk mitigation, it is often the process of managing risks or laying off exposures that has created earnings surprises in recent years.
+Basel II is intended to mitigate potential disruptions in banking markets by improving risk measurement and management; establishing a better link between risk and minimum capital ratios; and providing more information to bankers, supervisors, and other market participants.
+But we should also remember that the increased sensitivity to risk in Basel II carries with it the possibility that minimum capital ratios could actually be more volatile than they are today.
+As my colleague Bill Rutledge pointed out yesterday, that is what we expect, since those ratios will be more responsive to changes in risk.
+The Basel Committee has attempted to reduce procyclicality effects in the new framework, incorporating factors such as estimates of loss severities that focus on downturns.
+These are wise decisions intended to obviate the need for institutions to raise large amounts of capital at the trough of a downturn--something that can be quite difficult and add to financial market instability.
+But I think we could all agree that Basel II should not be unresponsive to changes in risk, for example when the obligor rating distribution at an institution shifts to poorer-quality borrowers.
+In my view, we want these signals of changes in risk reflected in regulatory capital levels.
+But by being careful about the extent that capital levels respond to cyclicality, we are trying to make sure that risk signals do not on their own generate added instability.
+This requires some balancing.
+Greater responsiveness of regulatory capital ratios to risk is something that institutions will have to learn to manage under Basel II.
+Given the potential for increased volatility in their capital ratios, I expect that institutions operating under Basel II will maintain a certain cushion above their minimum ratios since they must have the capital in place before the date of measurement of risk.
+Indeed, Pillar 2 of the Basel framework (supervisory review) requires banks to develop a viable internal process for assessing capital adequacy that helps determine the amount of capital actually needed for their particular business mixes and risk profiles.
+Explicit assumptions are built into Pillar 1 (minimum capital requirements), such as the idea that portfolios are well-diversified and do not contain geographic or sectoral concentrations--assumptions that are not true in the case of many institutions.
+Supervisors must remind institutions that it is initially the banks' job to address any deviations from Pillar 1 assumptions, as well as any additional factors that affect the risk of the individual bank, and adjust their capital accordingly.
+Under Pillar 2, supervisory authorities, in turn, will review these adjustments by banks and could ask them to take additional steps to ensure that all risks have been addressed.
+There are additional reasons why I expect that well-run financial institutions will maintain capital ratios above the regulatory minimums, as they have under the existing Basel I framework.
+Some markets and customers will require their banks to have a stronger credit rating than that implied by the Basel I or II minimum capital frameworks.
+Banks will also continue to be opportunistic in pursuing mergers and new business expansion, and this requires capital above the regulatory minimum to be able to respond promptly to new initiatives.
+Finally, bankers who are using economic capital models such as RAROC (risk-adjusted return on capital) recognize that Basel II does not take into consideration some forms of unexpected losses, for example, higher charge-offs that occur when new products are introduced, information technology systems change, merger integrations occur, and internal control processes occasionally prove ineffective.
+Implementation Efforts in the United States The U.S. banking agencies' reaction to the results of the fourth Quantitative Impact Study--known as QIS4--shows how seriously we are taking Basel II implementation.
+In a statement issued on April 29, the U.S. banking agencies indicated that the minimum regulatory capital changes resulting from QIS4 were more variable across institutions and capital dropped more in the aggregate than the agencies had expected.
+This was the impetus for deciding to delay issuance of our next round of proposals for Basel II.
+These unexpected results show the continued benefit of conducting periodic quantitative impact studies.
+They serve as a milestone to help us calibrate the progress of the framework and the bankers as we move to Basel II.
+We now must determine the reasons for the unexpected results from QIS4.
+Do they reflect actual differences in risk among respondents when prior supervisory information suggested more similarity in credit quality?
+None of the participating banks has completed their databases and models for all of their risk areas.
+In some cases, this created results that would not be reliable for implementing Basel II.
+For example, for some portfolios, expected losses reflected only the last year or two of results.
+Thus, the strong credit performance of recent experience was not balanced by higher losses at other points of the credit cycle.
+Were there limits of the QIS4 exercise itself?
+Is there a possible need for adjustments to the Basel framework itself?
+Analyzing the data used in QIS4 is vitally important, because ultimately the success of Basel II will depend on the quantity and quality of data that banks have to use as inputs to the framework.
+I am sure that those of you working on Basel II--particularly the advanced approaches--are facing the same types of issues in your own countries.
+For those of you who will be conducting QIS5 or similar exercises, I strongly suggest that you include qualitative responses from the participants as well as quantitative data.
+We are finding this very useful as we review the results and have follow-on discussions with bankers.
+U.S. regulators expect to provide additional information on the lessons we learn from the QIS4 review in the near future.
+The notice of proposed rulemaking for Basel II will incorporate what we learn from this exercise.
+But we really are caught in a process dilemma.
+Bankers cannot complete their models and collect the necessary data until they know what the specific requirements will be.
+Regulators, on the other hand, will have to develop these requirements before seeing the actual results of these models and robust databases.
+The process we have for vetting Basel II in the United States is probably similar to those followed in many other countries.
+We are putting forward proposals and seeking comment from the industry, our legislature, and other interested parties.
+Given what a vast undertaking Basel II is, this seems entirely appropriate and beneficial.
+In addition to what we learn from the work on QIS4 results, we will also assess the trading and banking book comments of the Basel Committee on Banking Supervision and the International Organization of Securities Commissions.
+We will incorporate the latest proposal into the notice of proposed rulemaking and hope to complete our efforts in a timely manner.
+Challenges for Supervisors In preparing for Basel II, supervisors realize that they must address their own capital needs--that is, human capital.
+Throughout Basel II implementation in the United States, it has become strikingly apparent that supervisors will need a higher degree of knowledge, skill, and experience.
+Even just our preliminary work on Basel II, which includes writing regulations, drafting guidance, and evaluating preliminary estimates from banks, has consumed substantial resources within the Federal Reserve System.
+We are in the process of training existing staff members and recruiting new ones, and that itself takes time and resources.
+We are aware that to implement a framework of the complexity and scope of the advanced approaches of Basel II, we need highly qualified supervisors.
+As we have learned over the past few years, many aspects of Basel II will require a considerable amount of judgment and experience.
+That is, as supervisors engage in the qualification of institutions for Basel II and then conduct ongoing monitoring, they will need to become intimately familiar with many technical aspects of the framework and have the ability to assess each institution in context.
+We want to ensure that in all Basel II discussions, bankers will sit across the table from supervisory staff who understand the framework and how it applies to individual institutions.
+This does not pertain just to Basel II, specifically, but also to supervision of evolving risk-measurement and -management practices more generally.
+As they have in the past, supervisors must keep pace with the latest developments in the industry and be able to differentiate among them in terms of appropriateness.
+One of the many attractive characteristics of the Basel II framework is its flexibility for incorporating new best practices without having to be fundamentally restructured.
+It provides a useful and credible basis for improving bank practice today and allowing for future improvements--which could include actual modifications to the framework.
+We consider this vitally important because banking will remain a highly dynamic industry.
+Supervisors will have to be especially attentive to changing best practices and ensure that Basel II does not inhibit adoption of new banking practices and financial instruments.
+Conclusion Maintaining financial stability in global banking and financial markets continues to be an important objective of regulators, bankers, and other market participants, particularly because of the negative impact that financial instability has on economies as a whole.
+Basel II, in my view, will help improve financial stability.
+The new framework will enable bank regulatory capital ratios to be more responsive to changes in risk and will foster additional disclosures by banks about their risk-measurement and -management systems.
+And even though minimum regulatory capital ratios are likely to be more volatile under Basel II, this reflects greater risk sensitivity.
+Perhaps most important, Basel II will encourage banks to develop their systems to measure and manage risk as part of the investment needed to support strategic initiatives.
+The greater volatility in measured risk, coupled with strategic capital planning, should encourage bankers to continue to maintain actual capital levels above regulatory minimums.
+In the United States, we are working very hard on Basel II implementation and are taking the appropriate, measured steps to ensure that we get it right.
+I expect that those in other Basel member countries are doing the same, and facing similar challenges.

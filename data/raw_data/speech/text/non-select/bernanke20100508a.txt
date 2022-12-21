@@ -1,0 +1,139 @@
+Although I was born just across the border in Augusta, Georgia, I considered South Carolina my home from early childhood until I married and took my first academic job after graduate school.
+During most of that time, my family lived in Dillon, a couple of hours' drive from here.
+I have had several occasions to visit Dillon and other places in the Carolinas since I got into government work, and I am both amazed and proud about the remarkable economic and social progress that has occurred since I grew up here.
+South Carolina, like America, is always reinventing itself, despite new and, it sometimes seems, ever more difficult challenges.
+I always find it difficult to choose a topic for a commencement talk.
+I am an economist, but my experience has been that people in a celebratory frame of mind are usually not that interested in an economics lecture.
+(I can't quite understand why not.)
+Instead, they are generally looking for something more personal and inspirational.
+So I thought I would split the difference between an economics lecture and inspirational remarks and speak briefly about what economics and social science more generally have to say about personal happiness, and what those ideas imply both for economic policymaking and the choices each of you will make as you leave college for other pursuits.
+Why talk about happiness?
+Well, it's right there in the mission statement of the United States, the Declaration of Independence: The inalienable rights of Americans are "Life, Liberty and the pursuit of Happiness."
+If Thomas Jefferson thought it was important to facilitate the pursuit of happiness, maybe we should think a bit about what that means in practice.
+In exploring the question, researchers have distinguished between two related, but different, concepts--"happiness" and "life satisfaction."
+They use "happiness" to mean a short-term state of mind that may depend on a person's temperament, but also on external factors, such as whether it is a sunny or rainy day.
+They use "life satisfaction" to refer to a longer-term state of contentment and well-being.1 The relationship between life satisfaction and happiness, and the factors contributing to each, is not always straightforward.
+I'll come back to this issue later.
+As you might guess, when thinking about the sources of psychological well-being, economists have tended to focus on the material things of life.
+This proclivity is why economic policymakers often emphasize the promotion of economic growth.
+The richer a country is, the higher the material standard of living of its average person.
+What applies to a country applies to individuals: Higher income equals a higher standard of living, which most people desire.
+This traditional economist's perspective on happiness is not as narrow and Scrooge-y as you might think at first.
+If I were to ask you what you value in life besides goods and services--a nice car or house, for example--you might begin with, say, your health.
+Well, richer countries have more resources to devote to medical care, to good nutrition and sanitation, and to workplace safety, and for these and other reasons rich countries have higher life expectancies, lower infant mortality rates, and generally better health indicators than poor countries.
+Likewise, as the United States has grown richer over time, longevity and other measures of health have improved.
+Another thing that most people value is a clean environment.
+Air and water quality are not included in the broadest measure of economic activity emphasized in government statistics, the gross domestic product (GDP), although some economists have worked on ways to do so.
+But again, rich countries have more resources to devote to maintaining a clean environment and do tend to have better air and water quality than poor and middle-income countries, notwithstanding the fact that rich countries by definition produce more goods and services.
+Rich countries also generally provide people more leisure time, less physically exhausting and more interesting work, higher education levels, greater ability to travel, and more funding for arts and culture.2 Again, these linkages, together with the benefits of enjoying a wide variety of goods and services, are the reason that economic policymakers--at the behest of the public--usually put heavy emphasis on job creation and growth.
+Along with price stability, maximum employment is one of the Congress's two mandated objectives for the Federal Reserve.
+And, indeed, economists researching happiness and life satisfaction have found that both inflation and unemployment detract from happiness, consistent with the focus on these macroeconomic conditions in the mandate of the Federal Reserve.3 Even though I hope I have persuaded you that purely economic measures of personal well-being are not as narrow as sometimes thought, I have so far dodged the key questions: Ultimately, what makes us happy?
+What makes our lives satisfying in the long run?
+And, more subtly, how is the state of mind we call happiness, at least as social scientists define the term, related to our long-run life satisfaction?
+We can look inward for answers, but, at least for someone trained as a social scientist, the most direct way to tackle the question is just to go out and ask people--lots of people.
+In fact, psychologists for some time have been running surveys in which they have asked thousands of randomly selected people in countries all around the world to rate their own happiness or life satisfaction, and recently economists have gotten into the act.
+There is now a field of study, complete with doctoral dissertations and professorships, called "the economics of happiness."
+The idea is that by measuring the self-reported happiness of people around the world, and then correlating those results with economic, social, and personal characteristics and behavior, we can learn directly what factors contribute to happiness.
+The results of these studies are quite interesting.
+One finding is that most people consider themselves to be reasonably happy, despite the undeniable hardships that many people face.
+Asked a question like, "Taken altogether, how would you say things are these days--would you say you are very happy, pretty happy, or not too happy?
+", about 90 percent of respondents in the United States reply that they are very happy or pretty happy, a relatively high percentage.4 Perhaps people don't want to admit to survey-takers that they are unhappy, but the explanation preferred by most researchers is that human beings are intrinsically very adaptable and are able to find satisfaction in their lives even in very difficult circumstances.
+Another area of this research bears directly on what I said earlier about the relationship between income and happiness.
+Some years ago the economist Richard Easterlin showed that, just as would be expected, wealthier people in any given country are more likely to tell a survey-taker that they are happy with their lives than are poorer people in the same country.
+However, Easterlin also found two other things that don't fit so well with the economic perspective.
+First, he found that as countries get richer, beyond the level where basic needs such as food and shelter are met, people don't report being any happier.
+For example, although today most Americans surveyed will tell you they are happy with their lives, the fraction of those who say that they are happy is not any higher than it was 40 years ago, when average incomes in the United States were considerably lower and few could even imagine developments like mobile phones or the Internet.
+Second, he found that--again, once you get above a basic sustenance level--on average, people in rich countries don't report being all that much happier than people in lower-income countries.
+The finding that people in rich countries don't report much greater happiness than those in lower-income countries--even though, in any given country, the rich say they are happier than the poor do--is called the Easterlin paradox, after its discoverer.5 Now, research in social science is hardly ever the final word, and a large body of more recent research has contested Easterlin's results, finding that people in rich countries may, on average, be happier or more satisfied after all.
+But this research still suggests that the increase in happiness flowing from greater wealth is moderate.
+For example, reported levels of life satisfaction among Americans are similar to reported levels among Costa Ricans, who have about one-quarter the per capita income.6 So I am going to continue under the assumption that, although wealth and income do contribute to happiness and life satisfaction, other factors must also be very important.7 Or, as your parents always said, money doesn't buy happiness.
+Well, an economist might reply, at least not by itself.
+What could explain Easterlin's finding that, beyond a certain point, wealth and income don't buy happiness?
+Easterlin's own view, taking an economic perspective, is that people's happiness depends less on their absolute wealth than on their wealth compared with others around them.
+If I live in a country in which most people have only one cow, and I have three cows, then I will have lots of social status and self-esteem and will thus feel happy.
+But if everyone around me has a luxury car, and I am hung up on status, I won't feel very special unless I have both a luxury car and an SUV.
+This relative-wealth hypothesis can explain why rich people are happier than poor people in the same country, but also why people in richer countries are not on average much happier than people in poorer countries.
+It's the big fish in a little pond phenomenon.
+There is certainly something to this explanation.
+"Rich" is a relative term.
+When I was a kid, having a color television was a major status symbol.
+Now, most households have color TVs, often more than one.
+Your sense of how well off you are economically depends a great deal on your expectations and aspirations, which in turn are largely formed by the community in which you live.
+Easterlin's research and interpretation, I think, has some personal application.
+We all know that getting a better-paying job is one of the main reasons to go to college, and achieving economic security for yourself and your family is an important and laudable goal.
+But if you are ever tempted to go into a field or take a job only because the pay is high and for no other reason, be careful!
+Having a larger income is exciting at first, but as you get used to your new standard of living, and as you associate with other people in your new income bracket, the thrill quickly wears off.
+Some interesting studies of winners of large lottery prizes, even in the millions of dollars, found (as you would expect) that they were happy and excited on learning that they had won.
+But only six months later they reported being not much happier than they were before they won the lottery.
+The evidence shows that, by itself, money is not enough.
+Indeed, taking a high-paying job only for the money can detract from happiness if it involves spending less time with your family, stress, and other such drawbacks.
+Human adaptability, which I mentioned earlier, also helps to explain the Easterlin paradox.
+Rich or poor, you tend to get used to your circumstances.
+Lottery winners get used to being wealthier, and their psychological state may ultimately be not much different than it was before buying the winning ticket.
+Have you ever said, "If I can just do or get X, I'll be happy"?
+"X" might be to graduate, get a promotion, or be named to the all-star team.
+Well, it appears to be a scientific fact that it's not true.
+No particular achievement or occurrence can guarantee long-term happiness by itself, because you will get used to your new status and your degree of happiness will eventually revert to something close to what it was before X, whatever it was, occurred.8 Interestingly, Adam Smith, the intellectual father of modern economics, understood this point; he once wrote: "[T]he mind of every man, in a longer or shorter time, returns to its natural and usual state of tranquility.
+In prosperity, after a certain time, it falls back to that state; in adversity, after a certain time, it rises up to it.
+"9 Does this mean that achievement is not worth the effort, that nothing we can do can make us happy?
+Not at all, and I'll explain why in a moment.
+But first, let's revisit the central question.
+If, as your parents always told you, money doesn't buy happiness, then what factors do contribute to life satisfaction?
+Psychologists and economists have done good work on this point, going your parents one better by identifying statistically just what factors are linked to self-reported happiness and how short-run happiness is related to, but distinct from, long-run life satisfaction.10 Some of them won't surprise you, but are nevertheless worth repeating.
+Happy people tend to spend time with friends and family and put emphasis on social and community relationships.
+We are social creatures.
+Research has demonstrated that happiness and life satisfaction are perhaps more closely related to participating meaningfully in a network of friends, family, and community than any other factor.11 I urge you to take this research to heart by making time for friends and family and by being part of and contributing to a larger community.
+Another factor in happiness, perhaps less obvious, is based on the concept of "flow.
+"12 When you are working, studying, or pursuing a hobby, do you sometimes become so engrossed in what you are doing that you totally lose track of time?
+That feeling is called flow.
+If you never have that feeling, you should find some new activitiesâ€‘â€‘whether work or hobbies.
+Another finding is that happy people feel in control of their own lives.
+A sense of control can be obtained by actively setting goals that are both challenging and achievable.
+Ultimately, though, there are many things in our lives we cannot control.
+So it also is important to recognize what is and is not within our control, to cultivate the flexibility to accept unexpected change with equanimity, and to focus our efforts on achieving goals at the limit of, but still within, our reach.
+Finally--and this is one of the most intriguing findings--happiness can be promoted by fighting the natural human tendency to become entirely adapted to your circumstances.
+One interesting practical suggestion is to keep a "gratitude journal," in which you routinely list experiences and circumstances for which you are grateful.13 Devices like gratitude journals help people remain aware of the fortunate aspects of their lives, offsetting the natural human tendency to take those things for granted after a while.
+Happiness research can be useful for individuals, but it also has implications for policymakers.
+For one, the policy goals of promoting economic growth and employment, though not--as we have seen--the only appropriate goals, are worthwhile nonetheless.
+On average, as I have already noted, citizens of richer countries report higher levels of life satisfaction, no doubt in part because they tend to be healthier, to have more leisure time to pursue hobbies or socialize, and to have more interesting work.
+Generally, richer countries also have fewer citizens in severe poverty.
+But, again, many things beside income contribute to feelings of well-being.
+For example, as I mentioned, social interactions appear very important for individual happiness.
+One application of this insight--and this is just an example of the type of research connected with the "economics of happiness" that may bear policy insights--involved a program in Canada in which recipients of employment insurance or income assistance were offered jobs in community development and opportunities to develop a social network.14 Being unemployed is stressful, not just because of loss of income but also because of feelings of loss of control and diminished self-worth.
+But individuals who participated in these opportunities reported higher satisfaction than those who did not.
+Further study could shed light on the effectiveness of alternative approaches to traditional unemployment insurance programs.
+More generally, economic policymakers should pay attention to family and community cohesion.
+All else equal, good economic policies should encourage and support stable families and promote civic engagement.
+And to help people feel in control of their own destinies, policies should respect the autonomy of individuals, families, and communities to make their own decisions whenever possible, as research has confirmed the intuitive notion that individual freedoms contribute to life satisfaction.
+Notwithstanding that income contributes to well-being, the economics of happiness is also a useful antidote to the tendency of economists to focus exclusively on material determinants of social welfare, such as the GDP.
+GDP is not itself the final objective of policy, just as an increase in income may not be a good enough reason for you to change jobs.
+Obtaining broader measures of human welfare is challenging, but not impossible.
+Indeed, the United Nations has produced its human development reports for 20 years, and the Organisation for Economic Co-operation and Development has been engaged in a comprehensive project to examine the progress of societies in order to ensure that economic policymaking focuses on improving human welfare, broadly construed.15 But even though GDP or income should not be the only goal of our strivings, we can go one step further and recognize as well that happiness itself, at least to the extent that the term is associated with immediate rather than long-lasting feelings and emotions, should not be our only goal either.
+Remember that I began by distinguishing between happiness and life satisfaction.
+Happiness is just one component of the broader, longer-term concept of life satisfaction, and only one indicator of how the fabric of our lives is being shaped by our choices and circumstances.
+I am reminded of a story about Abraham Lincoln.
+According to the story, Lincoln was riding with a friend in a carriage on a rainy evening.
+As they rode, Lincoln told the friend that he believed in what economists would call the utility-maximizing theory of behavior, that people always act so as to maximize their own happiness, and for no other reason.
+Just then, the carriage crossed a bridge, and Lincoln saw a pig stuck in the muddy riverbank.
+Telling the carriage driver to stop, Lincoln struggled through the rain and mud, picked up the pig, and carried it to safety.
+When the muddy Lincoln returned to the carriage, his friend naturally pointed out that he had just disproved his own hypothesis by putting himself to great trouble and discomfort to save a pig.
+"Not at all," said Lincoln.
+"What I did is perfectly consistent with my theory.
+If I hadn't saved that pig, I would have felt terrible."
+The story points out that, sometimes, happiness is nature's way of telling us we are doing the right thing.
+True.
+But, by the same token, ephemeral feelings of happiness are not always reliable indicators we are on the right path.
+Ultimately, life satisfaction requires more than just happiness.
+Sometimes, difficult choices can open the doors to future opportunities, and the short-run pain can be worth the long-run gain.
+Just as importantly, life satisfaction requires an ethical framework.
+Everyone needs such a framework.
+In the short run, it is possible that doing the ethical thing will make you feel, well, unhappy.
+In the long run, though, it is essential for a well-balanced and satisfying life.
+Thank you for this opportunity to address you.
+This is an exciting day for the graduates and their families.
+I congratulate you on your accomplishment and wish you the best in the next stage of your lives.
+1.
+Traditionally, when economists talk about happiness or satisfaction, they use a technical term, "utility," whose central role in both economics and philosophy goes back to the time of Thomas Jefferson--in particular, to the introduction of the "utilitarian" approach in philosophy associated with Jeremy Bentham, an approach that has had a strong influence on economics.
+Return to text 2.
+Economists have long noted the importance of the rich array of factors that contribute to individual and societal welfare.
+For example, Nobel laureate Amartya Sen has been particularly clear in his discussions of the range of capabilities that contribute to welfare while also emphasizing that growth in income is one (but most certainly not the only) means to expanding welfare.

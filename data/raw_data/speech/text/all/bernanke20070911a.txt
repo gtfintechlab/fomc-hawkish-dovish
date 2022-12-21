@@ -1,0 +1,156 @@
+I argued that these developments could be explained, in part, by the emergence of a global saving glut, driven by the transformation of many emerging-market economies--notably, rapidly growing East Asian economies and oil-producing countries--from net borrowers to large net lenders on international capital markets.
+Today I will review those developments and provide an update.
+I will also consider policy implications and prospects for the future.
+A principal theme of my earlier remarks was that a satisfying explanation of the developments in the U.S. current account cannot focus on developments within the United States alone.
+Rather, understanding these developments and evaluating potential policy responses require a global perspective.
+I will continue to take that perspective in my remarks today and will emphasize in particular how changes in desired saving and investment in any given region, through their effects on global capital flows, may affect saving, investment, and the external balances of other countries around the world.
+The Origins of the Global Saving Glut, 1996-2004 I will begin by reviewing the origins and development of the global saving glut over the period 1996-2004, as discussed in my earlier speech, and will then turn to more-recent developments.
+As is well known, the U.S. current account deficit expanded sharply in the latter part of the 1990s and the first half of the present decade.
+In 1996, the U.S. deficit was $125 billion, or 1.6 percent of U.S. gross domestic product (GDP); by 2004, it had grown to $640 billion, or 5.5 percent of GDP.1 National income accounting identities imply that the current account deficit equals the excess of domestic investment in capital goods, including housing, over domestic saving, including the saving of households, firms, and governments.
+The proximate cause of the increase in the U.S. external deficit was a decline in U.S. saving; between 1996 and 2004, the investment rate in the United States remained almost unchanged at about 19 percent of GDP, whereas the saving rate declined from 16-1/2 percent to slightly less than 14 percent of GDP.2 Domestic investment not funded by domestic saving must be financed by capital flows from abroad, and, indeed, the large increase in the U.S. current account deficit was matched by a similar expansion of net capital inflows.
+Globally, national current account deficits and surpluses must balance out, as deficit countries can raise funds in international capital markets only to the extent that other (surplus) countries provide those funds.
+Accordingly, it is not surprising that the widening of the U.S. current account deficit has been associated with increased current account surpluses in the rest of the world.
+What is surprising, however, in light of historical patterns, is that much of the increase in current account surpluses during this period took place in developing countries rather than in the industrial countries.3 The table shows current account balances for various countries and regions in selected years.
+The aggregate current account balance of industrial countries other than the United States did increase between 1996 and 2004, by a bit less than $200 billion, much of that rise being accounted for by an increase in Japan's current account balance; the aggregate balance of the euro area rose only slightly.4 In comparison, the aggregate current account position of developing countries swung from a deficit of about $80 billion in 1996 to a surplus of roughly $300 billion in 2004, a net move toward surplus of $380 billion.
+In the aggregate, the shift from deficit to surplus in the current account of the emerging-market world over this period largely reflected increased saving as a share of output rather than a decline in the rate of capital investment.
+However, changes in saving and investment patterns varied by countries and regions.
+For example, in the countries of developing Asia excluding China, most of the $150 billion swing toward external surplus between 1996 and 2004 was attributable to declines in domestic investment.
+In China, rates of both saving and investment rose, but saving rates rose more, leading to an increase in that country's current account surplus of about $60 billion.
+Outside of developing Asia, oil exporters in the Middle East and the former Soviet Union were also important contributors to the large increase in emerging-market current account balances.
+The combined current accounts of the two regions increased from a surplus of $20 billion in 1996 to a surplus of $162 billion in 2004, an increase of about $140 billion.
+This rise largely reflected higher saving rates, as domestic consumption fell behind the surge in oil revenues.
+Among other emerging-market economies, higher saving also accounted for an increase in the aggregate current account balance of Latin America.
+Of course, as emerging-market countries switched from being net borrowers to being net lenders, they began to pay down their international debts and to acquire assets of industrial countries.
+I have noted the expansion of the U.S. current account deficit and the associated increases in current account surpluses abroad over the 1996-2004 period.
+A third key development in that period was a sustained decline in long-term real interest rates in many parts of the world.
+For example, the real yield on ten-year inflation-indexed U.S. Treasury securities averaged about 4 percent in 1999 but less than 2 percent in 2004.
+The difference between the nominal long-term Treasury yield and the trailing twelve-month rate of consumer price inflation, another measure of the U.S. real interest rate, showed a similar pattern, falling from about 3.5 percent in 1996 to about 1.5 percent in 2004.
+Similar movements were observed in other industrial countries: In the United Kingdom, the real yields on inflation-indexed government bonds fell from an average of 3.6 percent in 1996 to just below 2 percent in 2004; in Canada, the analogous figures were 4.6 percent in 1996 and 2.3 percent in 2004.
+Real interest rates measured as the difference between government bond yields and consumer inflation also fell in Germany, Sweden, and Switzerland.
+However, in Japan, real interest rates remained low throughout the period.
+In sum, considering the 1996-2004 period, we have three facts to explain: (1) the substantial increase in the U.S. current account deficit, (2) the swing from moderate deficits to large surpluses in emerging-market countries, and (3) the significant decline in long-term real interest rates.
+Many observers have focused on the expansion of the U.S. current account deficit in isolation and have argued that it is due largely to domestic factors, particularly declines in both public and private saving rates.
+But accounting identities assure us that any movement in the current account must involve changes in realized saving rates relative to investment rates.
+The question at issue, therefore, is whether the decline in the realized saving rate in the United States reflected a decline in desired saving or was instead a response to other, possibly external, economic developments.
+Or, in textbook terms, did the fall in the realized saving rate in the United States reflect a shift in the demand for savings at any given interest rate (a shift in the saving schedule) or a decline in savings induced by a change in the interest rate (a movement along the saving schedule)?
+In fact, there is no obvious reason why the desired saving rate in the United States should have fallen precipitously over the 1996-2004 period.5 Indeed, the federal budget deficit, an oft-cited source of the decline in U.S. saving, was actually in surplus during the 1998-2001 period even as the current account deficit was widening.
+Moreover, a downward shift in the U.S. desired saving rate, all else being equal, should have led to greater pressure on economic resources and thus to increases, not decreases, in real interest rates.
+As I will discuss later, from a normative viewpoint, we have good reasons to believe that the U.S. saving rate should be higher than it is.
+Nonetheless, domestic factors alone do not seem to account for the large deterioration in the U.S. external balance.
+In my earlier speech, I put forth an alternative explanation that is consistent with each of the three basic facts I listed earlier.
+That explanation takes as a key driving force a large increase in net desired saving (that is, desired saving less desired domestic investment) in emerging-market and oil-producing economies, a change that transformed these countries from modest net demanders to substantial net suppliers of funds to international capital markets.
+This large increase in the net supply of financial capital from sources outside the industrial countries is what, in my earlier remarks, I called the global saving glut.
+To interpret the rise in net saving in emerging-market countries as causal, we need to identify factors in those countries that may have caused their desired saving to rise, or their desired investment to fall, or both.
+In fact, several factors appear to have contributed to the increase in the supply of net saving from emerging-market countries.
+First, the financial crises that hit many Asian economies in the 1990s led to significant declines in investment in those countries (in part because of reduced confidence in domestic financial institutions) and to changes in policies--including a resistance to currency appreciation, the determined accumulation of foreign exchange reserves, and fiscal consolidation--that had the effect of promoting current account surpluses.
+Second, sharp increases in crude oil prices boosted oil exporters' incomes by more than those countries were able or willing to increase spending, thereby leading to higher saving and current account surpluses.
+Finally, Chinese saving rates rose rapidly (by more even than investment rates); that rise in saving was, perhaps, a result of the strong growth in incomes in the midst of an underdeveloped financial sector and a weak social safety net that increases the motivation for precautionary saving.
+The combined effect of these developments, I argued, raised desired saving relative to desired investment in the emerging markets, which in turn led to current account surpluses in those countries.
+But for the world as a whole, total saving must equal investment, and the sum of national current account balances must be zero.
+Accordingly, in the industrial economies, realized saving rates had to fall relative to investment, and current account deficits had to emerge as counterparts to the developing countries' surpluses.
+This adjustment could be achieved only by declines in real interest rates (as well as increases in asset prices), as we observed.
+The effects were particularly large in the United States, perhaps because high productivity growth and deep capital markets in that country were particularly attractive to foreign capital.
+The global saving glut hypothesis is thus consistent with the three key facts I noted earlier.
+To be sure, the global saving glut was not the only factor behind the decline in long-term real interest rates since the 1990s.
+As I described in subsequent remarks (Bernanke, 2006), term premiums also declined during this period for reasons that are debated but may have included a perceived reduction in uncertainty regarding inflation and the real economy as well as increased demand for longer-term securities by various institutional investors, including pension funds and foreign central banks.
+Changes in the global pattern of saving and investment surely played an important role in the decline in long-term rates, however.
+Recent Developments I turn now to a review of developments since I last spoke on these issues two and a half years ago.
+In brief, external imbalances have become wider since 2004.
+Both the geographical pattern of these imbalances and their sources in terms of saving and investment rates have changed a bit.
+Nevertheless, the broad configuration that developed after 1996 still seems to be in place today.
+As the table shows, the U.S. current account deficit has widened further in the past two years, from $640 billion in 2004 (5.5 percent of GDP) to $812 billion in 2006 (6.2 percent of GDP), although it fell a bit in the first quarter of this year, to $770 billion at an annual rate.
+In an accounting sense, the increase in the U.S. deficit over this period reflects primarily an increase in the investment rate from about 19 percent of GDP in 2004 to 20 percent of GDP in 2006.
+The U.S. national saving rate did not change significantly over that period.
+Meanwhile, the aggregate current account surplus of emerging-market economies expanded about $350 billion, from $297 billion in 2004 to $643 billion in 2006; almost all the increase was attributable to a higher aggregate rate of saving.
+A significant portion of this further growth is due to China, whose current account surplus swelled an additional $180 billion, rising from 3.6 percent of national output in 2004 to 9.4 percent in 2006.
+The increase in the Chinese surplus can be attributed primarily to an increase in the saving rate between 2004 and 2006.
+The increase in China's saving rate could, in part, be a consequence of the rapid pace of growth in the country.
+That is, with income growing very rapidly, but with consumer credit not readily available and precautionary motives for saving remaining strong, consumption is failing to catch up.6 Also contributing to high saving rates was the authorities' decision to limit currency appreciation, thereby restraining import demand and boosting exports.
+Oil exporters have also contributed significantly to the recent increase in the aggregate current account balance of developing countries.
+The combined current account balance of the countries of the Middle East and the former Soviet Union (which include a number of large oil exporters) rose about $150 billion between 2004 and 2006.
+Again, the increase is almost entirely reflected in higher saving rates, as the oil exporters continue to save a large portion of the increased revenue resulting from higher oil prices.
+In contrast to the situation in emerging markets, the aggregate current account surplus for industrial countries other than the United States declined recently, from almost $350 billion in 2004 to about $200 billion in 2006; most of the decline reflected a sharp drop in the euro-area balance.
+Thus, unlike in the 1996-2004 period, industrial countries other than the United States have absorbed part of the increase in the net supply of capital coming from the emerging-market economies.
+In aggregate, the recent decline in the current account balances of non-U.S. industrial economies reflects an increase in investment rates; saving rates have generally remained little changed.7 In short, in the emerging markets, realized saving and current account surpluses have increased since 2004.
+In the industrial countries, over the same period, current accounts have moved further into deficit, primarily because of higher realized rates of investment.
+What about real interest rates?
+Since I discussed these issues in March 2005, real interest rates have reversed some of their previous declines.
+For example, in the United States, real yields on inflation-indexed government debt averaged 2.3 percent in 2006 as compared with 1.85 percent in 2004.
+In the past few weeks, that yield has averaged about 2.4 percent.
+Inflation-adjusted yields in other industrial countries have also started to move back up after falling in 2005.8 How does this all fit together?
+My reading of recent developments is that although some of the details have changed, the fundamental elements of the global saving glut remain in place.
+Most important, the emerging-market countries and oil producers remain large net suppliers of financial capital to global markets.
+The mix of suppliers of funds and the factors motivating that supply have changed a bit: China and the oil exporters account for a larger share of the developing countries' aggregate surplus, and developing Asia excluding China accounts for somewhat less.
+Also, the further expansion of the region's net supply of saving in the past two years appears to reflect primarily an increase in desired saving by the emerging-market countries, whereas the previous increase in net saving also involved some decline in desired investment in East Asia after the financial crises of the 1990s.
+Exchange rate policies in Asia have also influenced desired saving in that region.
+Further increases in net capital flows from the developing economies, all else being equal, should have further depressed real interest rates around the world.
+But as I have noted, in the past few years, real interest rates have moved up a bit.
+This increase does not imply that the global saving glut has dissipated.
+However, it does suggest that, at the margin, desired investment net of desired saving must have risen in the industrial countries enough to offset any increase in desired saving by emerging-market countries.
+This characterization is certainly consistent with the pickup in investment rates in the industrial countries, which I noted earlier, and it is also consistent, more generally, with the recovery of domestic demand growth in Europe, Japan, and other parts of the industrial world.
+In summary, economic growth over the past few years, especially in industrial countries, has apparently been sufficient to increase the net demand for saving and thus to raise global real interest rates somewhat.
+Once again, however, I do not want to rely exclusively on this line of explanation for the behavior of long-term real interest rates, as other factors have no doubt been relevant.
+In particular, term premiums appear recently to have risen from what may have been unsustainably low levels, in part because of the greater recent volatility in financial markets and investors' demands for increased compensation for risk-taking.
+Are Current Account Imbalances a Problem?
+This analysis of the sources of global imbalances does not address the critical normative question: Are the current account imbalances that we see today a problem?
+Not everyone would agree that they are, for several reasons.
+First, these external imbalances are to a significant extent a market phenomenon and, in the case of the U.S. deficit, reflect the attractiveness of both the U.S. economy overall and the depth, liquidity, and legal safeguards associated with its capital markets.9 Of course, some foreign governments have intervened in foreign exchange markets and invested the proceeds in U.S. and other capital markets, which most likely has led to greater imbalances than would otherwise exist.
+But the supply of capital from foreign governments is not as large as that from foreign private investors.
+From 1998 through 2001, even as the U.S. current account deficit widened substantially, official capital flows into the United States were quite small.
+During the years 2002 through 2006, net official capital inflows picked up substantially but still corresponded to less than half (47 percent) of the U.S. current account deficit over the period.
+On a gross basis, during the same period, private foreign inflows were three times official capital flows.10 Moreover, even public investors are motivated to some extent by the attractions of the U.S. economy and U.S. capital markets.
+Second, current account imbalances can help reduce tendencies toward recession, on the one hand, or overheating and inflation, on the other.11 During the late 1990s, for example, the developing Asian economies that had experienced financial crises and consequent collapses in domestic investment benefited from being able to run trade surpluses, which helped strengthen aggregate demand and employment.
+During that same period, the trade deficits run by the United States allowed domestic demand to grow strongly without creating significant inflationary pressures.
+Until a few years ago, the euro area was growing slowly and thus also benefited from running trade surpluses; more recently, as domestic demand in Europe has recovered, the trade surplus has declined.
+Third, although the U.S. current account deficit is certainly not sustainable at its current level, U.S. liabilities to foreigners are not, at this point, putting an exceptionally large burden on the American economy.
+The net international investment position (NIIP) of the United States, although at a substantial negative 19 percent of GDP, is still smaller than the negative NIIP of several other industrial economies.
+As a fraction of net household wealth, which totaled almost $56 trillion in 2006, the negative NIIP is even smaller--less than 5 percent.
+Moreover, the U.S. investment income balance, which essentially represents the debt service on the NIIP, remains positive, at least for now.
+Thus, even after years of current account deficits and corresponding increases in net liabilities, the United States continues to earn more on its foreign investments than it pays on its foreign liabilities.
+And, as best we can tell, the share of U.S. assets in foreign portfolios does not seem excessive relative to the importance of the United States in the global economy.
+All that said, the current pattern of external imbalances--the export of capital from the developing countries to the industrial economies, particularly the United States--may prove counterproductive over the longer term.
+I noted some reasons for concern in my earlier speech, and they remain relevant today.
+First, the United States and other industrial economies face the prospect of aging populations and of workforces that are growing more slowly.
+These trends enhance the need to save (to support future retirees) and may reduce incentives to invest (because workforces eventually will shrink).
+If the United States saved more, one likely outcome would be a reduction in the U.S. current account deficit and in the rate at which the country is adding to its liabilities to the rest of the world.
+Second, the large U.S. current account deficit cannot persist indefinitely because the ability of the United States to make debt service payments and the willingness of foreigners to hold U.S. assets in their portfolios are both limited.
+Adjustment must eventually take place, and the process of adjustment will have both real and financial consequences.
+For example, in the United States, the growth of export-oriented sectors such as manufacturing has been restrained by the shifts in relative prices and foreign demand associated with the U.S. trade deficit.
+Ultimately, the necessary reduction in the trade and current account deficits will entail shifting resources out of sectors producing nontraded goods and services to those producing tradables.
+The greater the needed adjustment, the more potentially disruptive and costly these shifts may be.
+Similarly, external adjustment for China and other surplus countries will involve shifting resources out of the export sector and into industries geared toward meeting domestic consumption needs; that necessary shift, too, will likely be less disruptive if it occurs earlier and thus less rapidly and on a smaller scale.
+On the financial side, if U.S. current account deficits were to persist at near their current levels, foreign investors would ultimately become satiated with dollar assets, and financing the deficit at a reasonable cost would become difficult.
+Earlier reduction of global imbalances would reduce the potential strains associated with financing a large quantity of international liabilities and likely allow a smoother adjustment in financial markets.
+Finally, in the longer term, the developing world should be the recipient, not the provider, of financial capital.
+Because developing countries tend to have high ratios of labor to capital and to be away from the technological frontier, the potential returns to investment in those countries are high.
+Thus, capital flows toward those countries should benefit both them and the countries providing the capital.
+Prospects for Reducing External Imbalances What are the prospects for a gradual and orderly rebalancing of spending and external accounts around the world?
+The brief answer is that signs of progress have appeared but that most countries have only just begun to undertake the policy changes that will ultimately be needed.
+Recently, the pickup in economic growth outside the United States, together with changes in the real exchange rate and other relative prices, has assisted the process of current account adjustment.
+Notably, during 2006, foreign growth helped U.S. real exports of goods and services grow 9.3 percent, and exports of capital goods rose 10.8 percent.
+Some of the gain in foreign growth is cyclical, but some is due to economic reforms (in both industrial and non-industrial countries) and thus may be more persistent.
+Overall, we have seen some modest indications of improvement in the U.S. external balance recently.
+For example, the non-oil trade deficit has declined modestly, from 3.7 percent of U.S. GDP in 2004 to 3.5 percent of GDP in 2006.
+In addition, in 2006, net exports made a positive contribution to U.S. real GDP growth, the first year that had happened since 1995.
+Net exports also contributed to U.S. growth in the first half of 2007.
+As is well known, however, further progress on the U.S. current account seems unlikely without significant increases in public and private saving in the United States.
+The U.S. federal budget deficit has declined recently and is officially projected to improve further over the next few years.
+Unfortunately, as I have noted, the United States has already reached the leading edge of major demographic changes that will result in an older population and a more slowly growing workforce.
+A major effort to increase public and private saving is needed to prepare for the economic consequences of this demographic transition and to address external imbalances.
+As the global perspective makes clear, the reduction of the U.S. current account deficit also requires efforts on the part of the surplus countries to reduce the excess of their desired saving over desired investment.
+Over the longer term, the current account surpluses of the emerging-market countries seem likely to narrow as domestic spending catches up with income.
+Economic policies in these countries can assist this process.
+For example, the oil exporters have collectively saved much of the windfall arising from higher crude prices in recent years; they should spend more in the future to develop and diversify their domestic economies.
+China has officially recognized the need to increase its domestic spending and scale back its reliance on exports.
+Measures that could help achieve these goals include further reforms of the financial sector; increased government spending on infrastructure, environmental improvement, and the social safety net; and currency appreciation.
+In East Asia excluding China, continued efforts to strengthen and deepen the banking sector and financial markets would help domestic investment recover from the lingering effects of the financial crises of the 1990s.
+In each of these cases, the indicated policies would reduce global imbalances.
+Moreover, as with U.S. saving efforts, these actions would convey important economic benefits to the countries undertaking them even if current account balances were not an issue.
+What implications would a gradual rebalancing have for long-term real interest rates?
+The logic of the global saving glut suggests that, as the glut dissipates over the next few decades and thereby reduces the net supply of financial capital from emerging-market countries, real interest rates should rise--a tendency that seems likely to be only partly offset by increased saving in the industrial countries.
+However, factors other than the saving-investment balance affect long-term interest rates, including the relative supplies of, and demands for, long-term securities and changes in the required compensation for the risk embedded in term premiums.
+Moreover, distant one-year forward interest rates remain low, an indication that markets currently do not expect much change in the global balance of desired saving and investment or that they expect the effects of such a change to be offset by other developments.
+Accordingly, we are again reminded of the need to maintain appropriate humility in forecasting returns and asset prices.
+Current Account Balances (Billions of U.S. dollars) Country or region 1996 2000 2004 2005 2006 Industrial 31.1 -304.7 -296.5 -502.5 -607.3 United States -124.8 -417.4 -640.2 -754.8 -811.5 Japan 65.7 119.6 172.1 165.7 170.4 Euro area 1 77.3 -37.0 115.0 22.2 -11.1 France 23.4 22.3 10.5 -19.5 -28.3 Germany -14.0 -32.6 118.0 128.4 146.4 Italy 36.8 -6.2 -15.5 -28.4 -41.6 Spain -1.4 -23.1 -54.9 -83.0 -108.0 Other 12.9 30.0 56.6 64.4 45.0 Australia -15.4 -14.9 -38.5 -41.2 -40.9 Canada 3.4 19.7 21.3 26.3 21.5 Switzerland 22.0 30.7 50.4 61.4 69.8 United Kingdom -10.5 -37.6 -35.4 -53.7 -88.3 Memo: Industrial excl.
+United States 155.9 112.7 343.7 252.3 204.2 Developing -82.8 124.7 296.5 507.9 643.2 Asia -40.2 77.0 172.4 245.1 352.1 China 7.2 20.5 68.7 160.8 249.9 Hong Kong -4.0 7.0 15.7 20.3 20.6 Korea -23.1 12.3 28.2 15.0 6.1 Taiwan 10.9 8.9 18.5 16.0 24.7 Thailand -14.4 9.3 2.8 -7.9 3.2 Latin America -39.1 -48.1 20.4 34.6 48.7 Argentina -6.8 -9.0 3.2 3.5 5.2 Brazil -23.5 -24.2 11.7 14.2 13.6 Mexico -2.5 -18.7 -6.7 -4.9 -1.5 Middle East 15.1 72.1 99.2 189.0 212.4 Africa -5.2 7.2 0.6 14.6 19.9 Eastern Europe -18.5 -31.8 -58.6 -63.2 -88.9 Former Soviet Union 5.2 48.3 62.6 87.7 99.0 Memo: Developing Asia excl.
+China -47.4 56.5 103.7 84.3 102.2 Statistical discrepancy -51.6 -180.0 0.0 5.4 35.9 1.

@@ -1,0 +1,42 @@
+During roughly the same period, equity valuations have risen, and term premiums for fixed-income assets have fallen.
+The obvious question is whether these real economy and financial market phenomena are measurably related.
+Put differently, has less-variable real activity helped increase the value of financial assets, as some have claimed?
+It is certainly possible to see how such a link might occur.
+If perceived to be persistent over sufficiently long periods of time, greater economic stability could support higher asset prices by reducing risk premiums on financial assets.
+It is also plausible that more stability in output and inflation could lead to lower volatility in financial asset prices.
+In my remarks today, I want to discuss what researchers are uncovering about the links between the volatility of real activity and asset prices.
+As a monetary policy maker, I am interested in these links because the prices of financial assets affect the spending decisions of firms and households and because these prices may reveal forward-looking information relevant for setting policy.
+In addition, I want to discuss changes in financial markets themselves that may contribute to asset price volatility.
+Before proceeding, I must indicate that the views I am about to express are my own and do not necessarily reflect the views of other members of the Board of Governors or the Federal Open Market Committee.
+The volatility of GDP has fallen while equity prices have risen A number of researchers have documented that the volatility of economic activity has moderated since the mid-1980s (Kim and Nelson, 1999; McConnell and Perez-Quiros, 2000).
+Moreover, the decline does not appear to be the result of a long-term downward trend but appears to conform more to a structural break around the mid-1980s.
+The moderation is substantial: The standard deviation of the quarterly growth rate of real gross domestic product from 1985 to 2004--about 2.1 percent--is only about one-half its standard deviation from 1960 to 1984.
+Similar-sized declines in volatility have been evident in many of the components of GDP, including consumption and residential investment, and also in inflation.
+Declines have also occurred in the volatility of business investment and corporate profits, but these declines have been more modest.
+A variety of explanations for this Great Moderation have been put forth, and each has garnered some empirical support.
+First, the U.S. economy might have been lucky, and the shocks to the economy have been milder than in the past (Stock and Watson, 2002; Ahmed, Levin and Wilson, 2004).
+Another explanation is that firms may have adopted information technologies that allow them to more efficiently manage their inventories (Kahn, McConnell, and Perez-Quiros, 2002), thus limiting destabilizing imbalances and rectifying them more quickly when they arise.
+Better conduct of monetary policy could also lead to lower inflation and economic volatility (see, for example, Clarida, Gali, and Gertler, 2000; and Romer and Romer, 2002).
+Finally, financial innovations, such as risk-based loan pricing and expanded securitization, may have enhanced the ability of households to borrow, which would make them less sensitive to fluctuations in income (Dynan, Elmendorf, and Sichel, 2005).
+Importantly, equity valuation, as measured by the price-earnings ratio of the S&P 500, has been higher in the past two decades than in the two decades before that.
+The price-earnings ratio averaged 14 from 1960 to 1984 and rose to an average of 19 over 1985-2004.
+The average since 1984 falls only slightly, to 18, if we exclude the late 1990s and 2000, when valuations reached record levels.
+The rise in equity valuations at the same time that macroeconomic volatility fell is circumstantial evidence of a link between the two.
+Interest rates also could potentially have been affected by the Great Moderation.
+Investors in Treasury bonds require a risk (or term) premium to compensate them for the risk of loss on longer-maturity bonds resulting from movements in interest rates.
+Term premiums could be lower when inflation expectations are well anchored or the macroeconomy is less volatile.
+Ongoing research by Board staff suggests a notable downward trend in term premiums since 1990 (Kim and Wright, 2005).
+This secular decline in term premiums since 1990 appears to be correlated with the decline in long-run inflation uncertainty and in short-term interest rate uncertainty.
+Does volatility of real activity affect the level of asset prices?
+Now, I would like to explore some of the research that might explain whether and, if so, how the Great Moderation affected the level of asset prices.
+Structural models of asset prices provide a consistent framework for understanding both equity prices and interest rates.
+In these models, each asset price contains a risk premium that represents the additional return demanded by risk-averse investors for bearing risk.
+A reduction in macroeconomic volatility that reduces uncertainty about earnings or dividends could reduce the equity risk premium and, as a result, lead to higher equity prices.
+Less uncertainty about future inflation could lower the risk premiums on nominal Treasury bonds, lowering the risk-free interest rate.
+There is, however, a potential offset as well.
+Lower volatility may reduce the motive for precautionary savings and thus put upward pressure on interest rates and, all else equal, downward pressure on equities.
+One recent paper has directly examined whether the recent decline in economic volatility contributed to a lower long-run equity premium and the steep run-up in stock prices in the late 1990s (Lettau, Ludvigson, and Wachter, 2005).
+This model supposes that investors learn about the new, low-volatility regime only gradually.
+The researchers estimate that investors revised up the probability of being in a low-volatility regime starting in the early 1990s.
+This revision, if perceived to be persistent, could explain the magnitude of the decline in the long-run equity premium in the late 1990s.
+However, one concern that has been raised about this model is that it does not also address the behavior of interest rates over the past decade.

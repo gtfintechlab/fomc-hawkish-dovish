@@ -1,0 +1,86 @@
+I want to thank you for the invitation to speak at the Institute's annual Washington conference.
+International banking organizations are playing an increasingly important role in the U.S. financial sector.
+Foreign banking organizations hold more than $3.5 trillion in banking and nonbanking financial assets in the United States--making these organizations some of the biggest financial holding companies operating in this country.
+For two broad reasons, U.S. banking supervisors give a great deal of thought to the foreign banking organizations here.
+First, the management of complex international banking businesses creates inherent risks, which must be mitigated through sophisticated enterprise-wide risk management and internal controls.
+International organizations face difficult questions of management and control across their geographically dispersed offices.
+They often operate in new and unfamiliar financial terrain, which poses strategic challenges.
+And they are vulnerable to terrorist financing, money laundering, and other customer fraud issues that tend to involve cross-border transactions.
+Second, international banking organizations are regulated by supervisors in various national jurisdictions that have different legal, regulatory, and supervisory frameworks.
+Thus, the supervision and regulation of these organizations requires the continuous coordination and cooperation of host- and home-country supervisors.
+While banks operate globally, supervisory and regulatory responsibility for the various operating units of the organizations is still based on laws and regulations of sovereign states.
+Complying with diverse laws and regulations can be complex and costly for global banking organizations.
+Today, I want to touch on two regulatory issues that are currently high on the list of both bankers and supervisors: Bank Secrecy Act compliance and Basel II implementation.
+Compliance with the Bank Secrecy Act Since the passage of the USA Patriot Act in 2001, which significantly amended the Bank Secrecy Act, compliance in this area has been a major concern for the banking industry.
+In large part, bankers' concerns center on the increased burden of complying with the amended Bank Secrecy Act, the apparent lack of consistency in oversight and supervision, and law enforcement issues.
+The Federal Reserve recognizes that banking organizations have devoted significant resources to helping the government identify and prosecute those who are involved with money laundering, the funding of terrorist activities, and other crimes.
+But some recent events are affecting bankers' perceptions about their role in this critical area, and have raised serious questions about what bank regulators and other government authorities--most notably law enforcement agencies--expect of bankers.
+Today, I want to provide some background information and describe what the Federal Reserve is doing, in coordination with the Justice and Treasury departments, to clarify expectations and dispel misconceptions about compliance with the Bank Secrecy Act.
+But first I want to emphasize an important point about the Bank Secrecy Act: Implementation of the act has traditionally been accomplished through a partnership among banks, supervisors, and law enforcement authorities.
+The law requires reports and recordkeeping that is useful to all these entities.
+Further, the law capitalizes on the role of banks in payment systems.
+As collectors of financial information, banks are in a good position to identify questionable or suspicious payments or activities.
+For the past decade, the key obligation of banks within this partnership has been the filing of Suspicious Activity Reports, or SARs, in accordance with regulations issued by the U.S. Department of the Treasury and all of the federal banking and thrift regulators.
+The agencies' rules require banking organizations to file SARs to alert law enforcement authorities and federal bank supervisors about a known or suspected violation of law, or about any suspicious activity being conducted at, by, or through a bank, thrift, or credit union.
+By filing SARs, banking organizations put critical information into the hands of the proper law enforcement authorities in a timely and effective manner.
+Since the SAR system was started in 1996, banking organizations have filed more than 1.7 million SARs.
+That is an enormous amount of cooperation and information sharing.
+However, recent criminal investigations and prosecutions based on Bank Secrecy Act and SAR reporting violations have attracted significant industry attention.
+Most importantly, these cases have generated complaints from the financial industry about the increased burden of Bank Secrecy Act compliance, as well as the uncertainty of future requirements--particularly for the filing of SARs.
+Believing that regulators and law enforcement authorities have set a zero-tolerance level for SAR-filing deficiencies, banking organizations are concerned that in certain situations failing to file a SAR could result in a criminal prosecution.
+Bankers are telling us that regulatory criticism and criminal prosecutions based on SAR-filing deficiencies can produce collateral consequences.
+For example, banks are tending to avoid customers, such as money transmitters and check cashers, who present perceived heightened risks.
+Yet the closing of accounts for these types of businesses is effectively a denial of banking services to many categories of legitimate customers.
+Banking organizations have also begun to file "defensive" SARs in an effort to avoid any criticism of their judgment about whether some activity is illegal or suspicious, and to avoid sanctions for failing to file particular SARs.
+The Treasury Department's Financial Crimes Enforcement Network (FinCEN) has reported that these defensive filings threaten to clutter the SAR database with information that cannot be properly analyzed due to the volume.
+Bank regulators and FinCEN recognize that no process for fraud or money laundering detection and control can reasonably be expected to perfectly detect every transaction.
+But, financial institutions are expected to have a sound anti-money-laundering compliance program.
+This must include well-defined processes to identify suspicious activities, and those processes should be tailored to the risk and complexity of each business line.
+Banks should provide sufficient training to line staff, compliance officers, internal auditors, and legal staff to keep employees on the alert for suspicious activities.
+Further, when questionable activity is detected, the bank must respond promptly and effectively, and work with appropriate law enforcement authorities and bank regulators.
+I am sure that you are aware by now of the interagency efforts to develop and issue new, enhanced Bank Secrecy Act examination guidelines and procedures within the next few months.
+The Federal Reserve and the other federal banking supervisors, with the active participation of FinCEN, are drafting these more-detailed uniform examination guidelines and procedures.
+We are reaching out to the industry during this stage of the project.
+Once the procedures are completed, we will work hard to educate our examination forces and the industry about the guidelines and procedures.
+These efforts are intended to better ensure consistency in the Bank Secrecy Act and anti-money-laundering supervision programs of the bank regulators and FinCEN--the entity within the U.S. Treasury that is statutorily responsible for the implementing the Bank Secrecy Act.
+In addition, the Federal Reserve and the other federal bank supervisory agencies recently signed a Memorandum of Understanding with FinCEN to share critical information about banking organizations' compliance with the Bank Secrecy Act.
+By providing pertinent Bank Secrecy Act information to FinCEN, which is adding additional staff to fulfill its responsibilities, the Federal Reserve and the other regulators can now better coordinate their supervision and enforcement efforts, thus further reducing the potential for unwarranted compliance burdens.
+FinCEN is also committed to providing both bankers and regulators information about emerging money-laundering schemes and guidance for continually improving Bank Secrecy Act compliance.
+The Federal Reserve is also working with senior Justice and Treasury officials to ensure they understand the efforts of banks and the regulators to ensure compliance with the Bank Secrecy Act.
+We want awareness of these compliance efforts to be consistent throughout the criminal justice system so that the industry and its regulators can continue building partnerships with law enforcement authorities.
+I would now like to move on to a discussion of Basel II implementation.
+Basel II Implementation Basel II represents a fundamental change in how bank capital is determined for regulatory purposes.
+The advanced approaches require banking organizations to make significant investments to improve risk-management processes and measurement so that minimum regulatory capital better reflects each institution's unique business mix, risk appetite, and control structure.
+Internationally active banking organizations, in particular, have understandable concerns about the prospect of each national supervisor across the expanse of their global operations asking a multitude of questions about Basel II implementation, demanding considerable amounts of data, applying the framework differently, or taking other actions that increase costs.
+Inevitably, some of you will find your institutions calculating capital under different approaches in the various jurisdictions in which you operate.
+To help national supervisors coordinate and achieve greater consistency in the implementation of Basel II within their individual countries, the Basel Committee, as you all know, has established the Accord Implementation Group (AIG), headed by our colleague Nick Le Pan, Canada's superintendent of financial institutions and the vice chairman of the Basel Committee.
+Nick is here today and will be addressing the recent efforts of the AIG and the greater issue of home-host supervisory coordination in some depth.
+I want to assure you that U.S. supervisors are sensitive to the need to coordinate their efforts.
+We will do our best to make compliance manageable for global banking organizations and to improve our coordination efforts with foreign supervisors.
+These initiatives include entering into written supervisory cooperation and information-sharing arrangements with financial institutions' supervisors in countries that share cross-border banking operations with the United States.
+However, while we can strive to minimize the burden on regulated institutions, we cannot eliminate it.
+A critical point for this audience, and this is true for Bank Secrecy Act issues as well, is that we as regulators are committed to applying the same rules to foreign-owned organizations that we apply to domestic ones.
+Foreign-owned U.S. bank holding companies, banks, and thrifts that meet the criteria for mandatory Basel II institutions will be required to follow the advanced approaches.
+U.S. bank holding companies, banks, and thrifts owned by foreign organizations that do not meet these criteria--including the great majority of institutions represented in this audience--will have a choice to either follow our current capital framework in the United States or to "opt in" to the advanced Basel II approaches.
+If you decide to opt in, you will have to meet the same qualification requirements as domestic organizations.
+The new Basel II rules are expected to take effect on January 1, 2008.
+To qualify by that date, both supervisors and bankers have substantial work to accomplish.
+Currently, we are reviewing the submissions received from various banking organizations as part of a quantitative impact study, QIS-4, to assess the effects of Basel II rules on bank capital levels.
+This summer, the agencies will issue a notice of proposed rulemaking (NPR) for Basel II.
+We will also issue for comment, amendments to the existing capital framework.
+Thus, bankers will be able to compare the two alternatives and to evaluate which is appropriate for their U.S. operations.
+In the run-up to 2008, institutions subject to the new rules will be required to conduct a year of parallel calculations; that is, institutions will have to perform a dress rehearsal, if you will, to demonstrate not only that the design of the Basel II systems is sound but also that the rules can be practically implemented.
+As you know, the federal banking agencies in the United States have stated that a small number of large, internationally active banking organizations will be required to follow the advanced approaches of calculating capital under Basel II.
+A year and a half ago, we proposed setting the threshold at $250 billion or more in total banking assets or $10 billion or more in foreign banking assets.
+The criteria in the forthcoming notice of proposed rulemaking are unlikely to differ materially from those levels.
+At the same time, U.S. regulators--especially those among us who spent the greater part of our careers as bankers--are very sensitive to the competitive implications of having two sets of rules for the banking industry.
+Regulators recognize that Basel I can be enhanced and that the Basel II standardized approach is not well suited to the needs of our domestic-focused community banking organizations.
+Accordingly, we are now seriously considering making some targeted adjustments to our existing regulatory capital rules and looking for ways to enhance their risk sensitivity without increasing regulatory burden.
+The staffs of the agencies are drafting an advance notice of proposed rulemaking (ANPR) suggesting possible changes to our existing capital rules.
+This advance notice will be published close to the publication of the Basel II notice of proposed rulemaking.
+Finally, those institutions considering adoption of the advanced approaches at the earliest possible date should begin defining the details of their own implementation plans, while identifying gaps and placeholders for further discussion with supervisors.
+In this regard, the U.S. banking agencies recently issued guidance describing how we expect the implementation process will work in the United States and some steps that banking organizations could consider.
+To be sure, several important implementation issues still need to be worked out, but the focus on enhanced risk management in Basel II (especially in the advanced approaches) means that banking organizations should not view Basel II preparations with a checklist mentality.
+Rather, they should be moving ahead on many fronts, looking at how to make the fundamental changes needed for better risk identification, measurement, management, and control.
+By doing so, banking organizations can position themselves to succeed in implementing the accord on a timely basis.
+Throughout the process, it will be critical that you regularly communicate with your primary supervisor about whether you plan to "opt-in" to the advanced approaches and about your timeframe for compliance.

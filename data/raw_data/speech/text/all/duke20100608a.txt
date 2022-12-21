@@ -1,0 +1,138 @@
+I am pleased to be here today to address the Consumer Bankers Association's Annual Conference.
+Many of you may know that I spent most of my career as a banker.
+Some of you also know that I spent two weeks a year for many years with the CBA Graduate School of Retail Bank Management teaching bank management concepts to mid-career bankers who specialized in providing financial services to consumers.
+One of the best tools I ever found for teaching adults was a simulation exercise.
+In the retail banking simulation developed for CBA, students compete by making the decisions that comprise a retail strategy--choosing customer segments, designing products and prices, and establishing a distribution network.
+The computer model calculates market share using a series of demand curves derived from actual consumer surveys and observed behavior, then applies pricing decisions and standard cost tables to construct profitability.
+All of this number crunching takes place in the context of an assumed economic and regulatory environment.
+Of course, the credibility of a simulation exercise comes from its similarity to real world conditions that students have experienced.
+As I thought about this speech, it occurred to me that if I had tried to simulate an environment in which interest rates dropped from more than 5 percent to near zero in 16 months, unemployment went to 10 percent, housing prices dropped nearly 30 percent, mortgage delinquencies hovered around 10 percent, and credit card loss rates went over 10 percent, nobody would have believed it.
+But that is exactly the environment that lenders have experienced in the last two years, and it has been the environment that I, and my fellow policymakers, have faced during my entire time at the Federal Reserve.
+And I never got a chance to practice first in a simulation.
+Consumers were at the very center of the recent crisis.
+And consumers were the focus of Federal Reserve actions as we fought the crisis--lowering interest rates to stimulate economic activity, providing liquidity to markets to maintain credit flows, and issuing regulations to improve the quality of credit provided to consumers.
+The environment you face today as retail bankers is very different from the one that prevailed before the crisis.
+It was changed in some ways by the crisis itself and in other ways by actions taken by the Federal Reserve and other policymakers to fight the crisis.
+Ongoing policy actions designed to reduce the frequency and intensity of any future crises will further change the rules governing consumer banking.
+And as bankers you will shift the competitive environment as you modify your business models to adjust to regulatory changes and your recent loss experience.
+In my remarks today, I will begin by discussing some of the key elements of the crisis that led us to where we are today.
+Then I will talk about new regulations governing consumer financial products and the current financial condition of the consumer, with some thoughts about the resulting implications for retail banking.
+I will conclude with some suggestions for principles to guide consumer banking going forward.
+Reflections on the Crisis The recent crisis in our mortgage finance system and capital markets was severe.
+It plunged our economy into a level of stress second only to the Great Depression of the 1930s.
+The results were devastating for investors, financial institutions, businesses, and consumers from Wall Street to Main Street.
+As a first responder, the Fed used a wide range of tools to fight the crisis in a direct and urgent manner, including lowering interest rates; maintaining a steady flow of dollars to meet demand abroad; providing liquidity to sound institutions to support faltering financial markets; and providing emergency loans to specific, troubled institutions whose failures would have had disastrous consequences for the financial system and the broad economy.
+The pervasiveness of the panic required that the Federal Reserve act swiftly, responsibly, and effectively.
+If we had been unable or unwilling to do so, I believe that today the economic and financial situation would be much worse.1 Our actions have hardly come without scrutiny or criticism, of course.
+While some hailed the forceful steps taken by the Federal Reserve in the fall of 2008 to help prevent the apocalyptic scenario that we all believed possible, a vocal contingent of critics questioned the Federal Reserve's decisions and the degree to which individual financial institutions benefitted from our actions, especially the so-called bailout for insurance company American International Group (AIG).
+To help you understand our actions, let me put you into the moment when we decided to provide liquidity to AIG.
+The government had already put Fannie Mae and Freddie Mac into conservatorship to preserve the mortgage market.
+Lehman had just failed, and we were getting the initial reports of the fallout, like reports of battlefield casualties, that market after market was damaged or frozen.
+Panic was so heavy in the markets that it was almost a physical presence.
+I kept having this image in my head of the panic being like the monster called "the Blob" that I saw years ago in an old movie.
+Like the Blob, panic attacked one institution after another, and with each institution it ate, it grew bigger and stronger.
+We had just watched it eat Lehman.
+We could not stop it there because we are only authorized to lend against collateral, and Lehman did not have enough collateral.
+Now it was focused on AIG.
+Unlike the situation with Lehman Brothers, we were presented with an action we could take, a loan we could make to avoid the collapse of AIG.
+Our knowledge of the company was limited because we had never supervised AIG, but the loan could be secured with collateral.
+Based on our assessments of the collateral, we believed the risk of the loans to be limited.
+And while the risk of making the loan was limited, the risk of not making the loan--of letting AIG, which was significantly larger than Lehman, fail--was certain to be huge.
+And no other entity--not a private company, not a consortium of private companies acting together, not any other branch or agency of the government--was in a position to do anything.
+The clock was ticking, and default was imminent.
+There was no time to gather more information or find another solution.
+So I ask you, what would you have done?
+It was in this context that the Federal Reserve, with the full support of the Treasury, made a loan to AIG to prevent its failure.
+The loan imposed tough terms, senior management was replaced, and shareholders lost almost all of their investments.
+If I had to cast that vote again, even knowing all that followed, including the criticism that we have received, I wouldn't change it.
+I still believe that the consequences would have been far worse for all businesses and consumers if we had let AIG fail.
+Despite the claims by some that healthier Wall Street firms or even the small businesses and consumers on Main Street did not benefit from assistance to AIG, I would argue that no business or individual was immune to the effects of a sequential collapse of key financial intermediaries.
+As it was, we still had frozen credit markets so we turned our attention to facilities designed to unfreeze those markets.
+While actions like our lending to AIG have grabbed the biggest headlines, other moves by the Federal Reserve, like those to ensure the functioning of consumer credit markets, were equally important when it came to supporting consumers and the economy in the midst of the financial crisis.
+New issuance of asset-backed securities (ABS), which provided funding for auto loans, credit cards, student loans, and other loans to consumers and small businesses, had virtually ceased.
+Investors had lost faith in the quality of the triple-A ratings on the securities, and the complex system that funded the securities known as the "shadow banking system" broke down.
+Without access to funding, credit for households and small businesses would have become even less available and more costly.
+The Federal Reserve designed the Term Asset-Backed Securities Loan Facility, or TALF, to provide funds for the purchase of securities backed by new consumer loans.
+In the end, nearly 3 million auto loans, over 1 million student loans, about 850,000 small business loans, and millions of credit card accounts were supported by TALF-eligible securities.
+TALF worked.
+It served its intended purpose of unlocking lending, the lifeblood of the U.S. economy.
+As pleased as I was to see that TALF worked, I was even more pleased when it eventually became unnecessary.
+ABS issuance remained stable in the months after TALF ended.
+While liquidity helped restore the market for consumer loan securitization, liquidity alone did not solve all the consumer credit problems exposed by the crisis.
+Additional consumer protection would also be needed to restore healthy consumer lending.
+Enhancing Consumer Protection The first signs of serious consumer credit distress appeared in the subprime mortgage market, and much attention has been deservedly paid to correcting problems in that market.
+In hindsight, though, we also see that the developments in the U.S. mortgage market, fueled by the credit boom, revealed acute weaknesses in mortgage finance that eventually had far-reaching effects on many other forms of credit.
+The gradual but widespread declines in underwriting standards, breakdowns in lending oversight by investors and rating agencies, and increased reliance on complex and opaque credit instruments led to the current set of circumstances in which lenders are skittish about lending, borrowers are skittish about borrowing, and investors are skittish about investing.
+The credit markets must reemerge in sounder and more transparent ways in order for "normal" lending activity--whatever that will mean in the coming months and years--to reemerge.
+Essential to jumpstarting market activity is rebuilding consumer confidence.
+Over the last few years, the Federal Reserve has been just as aggressive in providing safeguards for consumers as it was in making liquidity available to institutions.
+We have created a blanket of new protections for consumers that we think will go far toward avoiding the excesses of the recent past.
+I'd like to take a few minutes to remind you of some of these changes.
+Subprime Mortgage Lending First, to deal with the subprime mortgage market, changes have been made under the Home Ownership and Equity Protection Act, adding layers of defenses for borrowers of higher-cost mortgages.2 The new rules, most of which went into effect in October, target higher-priced loans where borrowers are most vulnerable to abuse.
+For these "riskier" mortgages, our new rules require that lenders verify borrowers' abilities to repay the loans at a fully indexed rate, ban prepayment penalties if payments may increase in the loan's early years, require escrows for taxes and insurance, and prohibit a range of misleading advertising practices.
+Mortgage Disclosure Reform Currently, the Federal Reserve Board is engaged in a comprehensive revision of the mortgage disclosures required under the Truth in Lending Act to improve the effectiveness of mortgage disclosure forms for all loans.
+These new forms were developed through consumer testing, including focus groups and detailed surveys, to ensure that they provide information that is useful and understandable to consumers.
+These disclosures are designed to better focus consumer attention on mortgage features, such as variable rates, that might be appropriate for some consumers, but potentially risky for others.
+And we have proposed to ban compensation methods that give originators incentives to steer borrowers to loans with higher rates or disadvantageous terms.
+Credit Card Protections Credit card regulations issued by the Federal Reserve in December 2008 and the provisions of the Credit Card Accountability, Responsibility and Disclosure Act (CARD Act) enacted by Congress last May combined to create the most comprehensive and sweeping regulatory reforms of credit cards in the history of the product.
+In large part, these reforms respond to concerns that consumers could not accurately predict the costs associated with their credit cards and therefore could not make informed decisions about the use of credit.
+The regulations improve credit card disclosures and establish a new baseline for transparency and fairness in the credit card industry.3 Based on extensive consumer testing, the Fed substantially revised the disclosures provided with credit card solicitations and disclosures contained in periodic statements to improve consumers' understanding of costs associated with using their cards.
+In addition, we imposed several new restrictions to ban certain practices, such as double-cycle billing, that increase the cost of credit in ways that cannot be effectively disclosed.
+Except in certain limited circumstances, issuers are prohibited from increasing interest rates applied to existing balances.
+They must also provide adequate notice of higher rates to be applied to future balances and are required to apply payments in excess of minimum payments to the balances that carry the highest interest rate.
+Other Consumer Protections The Federal Reserve has been active in issuing regulations governing other consumer products as well.
+We implemented new rules that will help students shop intelligently for student loans.4 We implemented provisions in the CARD Act that apply to gift cards and marketing of credit cards to students.5 We also issued new regulations that prohibit automatic enrollment in overdraft programs, requiring that consumers opt in before they can be charged for overdrafts created by ATM withdrawals and one-time debit card transactions.
+Furthermore, banks will be required to offer the same account fees and features to customers regardless of whether they opt in to coverage for debit overdrafts.6 While the additional protections for consumers are long overdue, they will require considerable changes in bankers' business practices and product pricing and design.
+The changes reduce the ability to build profitability models around penalty pricing such as overdraft fees or raising interest rates on existing credit card balances.
+They require pricing to be front loaded and clearly disclosed.
+I fully expect current banking products to change as banks adjust to accommodate the new requirements.
+And I understand the potential for at least a temporary lull in service innovation as providers concentrate on change implementation.
+At the same time, I have every confidence that competition will ultimately restore innovation, but with products that are safer, simpler, and more transparent to consumers.
+Consumer Lending: Post-Crisis Not only have the regulations that govern consumer products changed, the consumer to whom those products are sold is considerably different than the consumer of a few years ago.
+During the crisis, household net worth declined about 25 percent from peak to trough.7 While some net worth was restored as stock markets recovered, recent retrenchment in markets demonstrates the volatility that still remains.
+Roughly 20 percent of mortgage borrowers are underwater in their mortgages, leaving them without home equity to tap through sale or borrowing and limiting their ability to move to reduce expenses or find employment.
+Still 9.7 percent of the workforce is unemployed and nearly 6 percent is working only part time while still seeking full-time employment.
+Although low mortgage rates help keep mortgage payments relatively low from an historical perspective, households remain quite burdened by debt payments.
+The household debt service ratio, which represents the share of household after-tax income obligated to debt repayment, peaked near 14 percent in 2007 before dropping off to about 12 ½ percent recently.
+Despite its recent decline, this ratio is still above its average over the past 30 years.
+Much of this recent drop reflects the largest annual decline in aggregate consumer credit outstanding in the nearly 70-year history of the series.
+For the moment, the contraction in consumer credit appears to be a story both of diminished supply and weakened demand.
+While much of the decline in outstanding credit reflects elevated charge-offs and tighter lending standards, consumer cautiousness about debt appears to also play a role.
+A significant net fraction of lenders still report reductions in credit card line availability, and the volume of new credit card offerings is only a fraction that of pre-crisis levels, which in turn leads to fewer new accounts.
+At the same time, senior loan officers at commercial banks continue to report weak borrower demand for mortgages and for consumer loans.8 The fact that consumers are shedding debt is not surprising, as households report a heightened awareness of their debt burden.
+For instance, in a recent survey, one in three households surveyed reported that they are stressed about their ability to pay their debt.
+Among delinquent borrowers, the stress is even more pronounced, with 84 percent reporting being particularly stressed and 86 percent reporting being devoid of sufficient savings.9 One potentially positive outcome of this stress would be if it gives consumers an incentive to save and makes them wary to take on debt unless they are sure of their ability to pay.
+In combination with regulations that require creditors to consider the borrower's ability to pay and disclosures that are clear about the cost of credit, these hard lessons could lead to more sustainable credit decisions by lenders and borrowers alike.
+Balancing Access to Credit and Risk Management In the course of our country's history we have seen the standard of living and economic prosperity that can result from a robust consumer credit market.
+We have also seen the financial devastation and personal tragedy that can result from weak underwriting and poor loan structures recklessly marketed to consumers in ways that hide their potential cost.
+Certainly the lessons of the recent crisis underscore the need for a stronger, safer, but still robust system of consumer credit.
+As both industry and policymakers explore what changes are necessary and what a better-functioning system would look like, I would suggest five core principles for balancing access to credit and sound risk management: Adequate consumer protection First and foremost, any new system must contain adequate protections for consumers.
+In the aftermath of widespread abuses, consumers need to feel confident that they can satisfactorily shop for credit and anticipate the debt service burden of that credit over the short run and the long term.
+Effective consumer protection, as events of the past few years underscore, are integral to the promotion of sound market practices, and are also a necessary precondition to the restoration of consumer, lender, and investor confidence to the consumer credit markets.
+Prudent underwriting Second, we have seen the results of underwriting based on collateral values or the ability to refinance.
+Loans should instead be underwritten on the basis of the consumer's ability to repay according to the terms of the loan.
+Many consumers have impaired credit coming out of this cycle because they were unable to pay due either to poor underwriting or loss of income.
+Consumer lenders will likely need to develop innovative ways to assess credit histories during this period.
+And they will need to be attentive to the risk of poor performance in stressed economic conditions.
+Transparency Third, there must be transparency at all levels.
+Retail products should be as transparent as possible, so that consumers find it easy to understand the terms and risks of their credit.
+Lenders and servicers should also make as much information as is reasonably feasible available to investors.
+Indeed, adequate information for due diligence is likely a prerequisite to attract capital back to the securitization market.
+Simplicity Fourth, the new system should encourage simplicity.
+Credit disclosures and retail mortgage contracts ought to be as simple as possible.
+Too often, the complexity of credit and lending products has served to confuse borrowers and make it more difficult to make informed decisions.
+Securitization structures will likewise need to be simpler and conform to standardized contracts.
+The trickle of new mortgage securitizations that are attracting investor interest today have structures that are markedly simpler and more transparent than those of the recent past.
+Properly aligned incentives Finally, the new system should feature clear roles and properly aligned incentives for all players.
+In the recent turmoil, we saw examples of misaligned interests and competing objectives.
+For instance, there is evidence that some loan officers and mortgage brokers may have been as concerned about whether loans were profitable to them personally as they were about whether the borrower could actually repay.
+10 Servicers, too, turned out to have interests that were not always aligned with investors, and different tranches of investors themselves had competing interests that they tried to impose onto servicers.
+Certainly, greater clarity about roles and responsibilities, and the associated compensation of participants in the origination and servicing chains, will help all parties understand, and properly align, incentives.
+Conclusion Having survived the financial crisis, it is now time to work together to build a consumer banking model for the future.
+It sure would be nice if we could build it in a laboratory or test it in a simulation.
+But we are all working in real time.
+The new model will be shaped by the scars of the past.
+Policymakers will continue to craft regulation to prevent the practices that led to devastation in our entire economy as well as in the lives of individual consumers.
+Investors will demand enough information to judge the ongoing performance of credit underlying debt securities.
+Lenders will price and underwrite products to conform to regulation and avoid a recurrence of recent high loan loss experience.
+Consumers will reengage slowly as confidence, income, and balance sheets strengthen.

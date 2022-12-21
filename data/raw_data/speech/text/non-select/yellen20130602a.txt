@@ -1,0 +1,61 @@
+I don't want to delay what I expect to be a lively discussion, so my opening remarks will be brief.
+I'll summarize the considerable progress since 2008 to make the global financial system more resilient, and then offer my views on what more should be done.
+A Brief Retrospective on Financial Regulatory Progress It's useful to divide the regulatory reform work of the past few years into three categories: strengthening the basic bank regulatory framework, reducing the threat to financial stability posed by systemically important financial institutions (SIFIs), and strengthening core financial markets and infrastructure.
+Bank Regulatory Basics The financial crisis revealed that banking firms around the world did not have enough high-quality capital to absorb losses during periods of severe stress.
+The Basel III reforms promulgated in 2010 by the Basel Committee on Banking Supervision will increase the amount of regulatory capital required to be held by global banking firms and improve the loss-absorbing quality of that capital.
+U.S. banking agencies issued proposals last summer to implement BaselIII's capital reforms, have reviewed comments, and are preparing the final regulation.
+We also were reminded during the crisis that a banking firm--particularly one with significant amounts of short-term wholesale funding--can become illiquid before it becomes insolvent, as creditors run in the face of uncertainty about the firm's viability.
+The Basel Committee generated two liquidity standards to mitigate these risks: a Liquidity Coverage Ratio with a 30-day time horizon and a Net Stable Funding Ratio (NSFR) with a one-year time horizon.
+The U.S. banking agencies expect to issue a proposal to implement the Liquidity Coverage Ratio later this year, and we are working with the Basel Committee now to review the structure and parameters of the NSFR.
+Special Measures for SIFIs The financial crisis also made clear that international bank rules should focus more on the potential threat to financial stability posed by SIFIs.
+In this arena, the efforts of the Federal Reserve and the global regulatory community have focused principally on (1) producing stronger regulations to reduce the probability of default of such firms to levels that are meaningfully below those for less systemically important financial firms, and (2) creating a resolution regime to reduce the losses to the broader financial system and economy upon the failure of a SIFI.
+The goal has been to compel SIFIs to internalize the costs their failure would impose on society and to offset any implicit subsidy that such firms may enjoy due to market perceptions that they are too-big-to-fail.
+The effort to reduce the likelihood of SIFI failure has worked through several channels.
+The Basel Committee in 2011 agreed on a framework of graduated common equity risk-based capital surcharges for systemic firms, and we are working toward proposing rules to implement this surcharge framework in the United States.
+Consistent with the Dodd-Frank Wall Street Reform and Consumer Protection Act, the Federal Reserve proposed a broad set of enhanced prudential standards for large U.S. bank holding companies in December 2011.
+The Federal Reserve also now performs rigorous annual supervisory stress tests and capital plan reviews of the largest banking firms to ensure that these firms can continue to operate and lend through times of severe economic and financial stress.
+In addition, in December the Federal Reserve proposed enhanced prudential standards for foreign banks under the Dodd-Frank Act.
+The proposal generally would require foreign banks with a large U.S. presence to organize their U.S. subsidiaries under a single intermediate holding company that would be subject to the same capital and liquidity requirements as U.S. bank holding companies.
+The proposal is designed to increase the resiliency and resolvability of the U.S. operations of foreign banks, help protect U.S. and global financial stability, and promote competitive equity for all large banking firms operating in the United States.
+In addition to reducing the probability of SIFI failure, global regulators also have striven to reduce the potential damage to the financial system and the economy if a failure of a major financial firm were to occur.
+The Financial Stability Board (FSB) has proposed new standards for statutory resolution frameworks, firm-specific resolution planning, and cross-border cooperation.
+In the United States, Dodd-Frank created an OrderlyLiquidation Authority and required all large bank holding companies to develop resolution plans.
+Other countries that are home to large global banking firms are working along similar lines.
+Strengthening Resilience of Financial Markets Reducing the likelihood of a severe financial crisis also requires strengthening the capacity of our financial markets and infrastructure to absorb shocks.
+Toward that end, U.S. and global regulators have worked to improve the transparency and stability of the over-the-counter derivatives markets and to strengthen the oversight of financial market utilities and other critical financial infrastructure.
+In particular, U.S. agencies are working together to address structural weaknesses in the triparty repo market and in money market mutual funds.
+The Unfinished Business of Financial Regulatory Reform Let me now look forward.
+Although we have made the financial system safer, important work remains in each of the three areas I have highlighted: the basic bank regulatory apparatus, addressing the problems posed by SIFIs, and limiting risks in shadow banking and financial markets.
+Let me outline what I consider the principal pieces of unfinished business in global financial regulatory reform.
+Strengthening the Basic Bank Regulatory Framework First, we must actively support the continuing efforts of the Basel Committee to strengthen the foundations of global bank regulation.
+Key Basel Committee work in the years ahead will include finalizing the BaselIII leverage ratio and NSFR, completing the comprehensive review of trading book capital requirements, adopting a global large-exposure regime, and increasing the comparability of risk-based capital requirements across banks and across countries.
+I want to highlight the importance of the committee's work to explore ways to increase the standardization and comparability of the risk-based capital rules for global banks.
+The stability of the global financial system depends critically on the capital adequacy of global banks, the capital adequacy of global banks depends critically on the Basel III reforms, and much of the good progress in the BaselIII reforms rests on the integrity and strength of the risk weights.
+Reducing the Probability of SIFI Failure As this brief history has highlighted, tougher prudential regulation and supervision have substantially reduced the probability of a SIFI failure.
+Ending too-big-to-fail will require steadfast implementation by global regulators over the next few years of the work already in train.
+Some have proposed ideas for more sweeping restructuring of the banking system to solve too-big-to-fail.
+These ideas include resurrection of Glass-Steagall-style separation of commercial banking from investment banking and imposition of bank size limits.
+I am not persuaded that such blunt approaches would be the most efficient ways to address the too-big-to-fail problem.
+But at the same time I'm not convinced that the existing SIFI regulatory work plan, which moves in the right direction, goes far enough.
+As my colleagues Governors Tarullo and Stein have noted in recent speeches, it may be appropriate to go beyond the capital surcharges put forward by the Basel Committee.
+As they suggest, fully offsetting any remaining too-big-to-fail subsidies and forcing full internalization of the social costs of a SIFI failure may require either a steeper capital surcharge curve or some other mechanism for requiring that additional capital be held by firms that potentially pose the greatest risks to financial stability.
+Improving SIFI Resolvability There are at least three key obstacles that policymakers must overcome to maximize the prospects for an orderly resolution of a global financial firm.
+First, each major jurisdiction must adopt a statutory resolution regime for financial firms consistent with the FSB's Key Attributes.1 The United States has been a leader in this regard, and I hope that other countries that have not yet adopted a compliant resolution regime will do so promptly.
+Second, policymakers need to ensure that all SIFIs maintain a sufficient amount of total pre-failure and post-failure loss absorption capacity.
+In consultation with the Federal Deposit Insurance Corporation, the Federal Reserve is considering the merits of a regulatory requirement that the largest, most complex U.S. banking firms maintain a minimum amount of long-term unsecured debt outstanding.
+Such a requirement could enhance the prospects for an orderly SIFI resolution.
+Switzerland, the United Kingdom, and the European Union are moving forward on similar requirements, and it may be useful to work toward an international agreement on minimum total loss absorbency requirements for global SIFIs.
+Third, it is time for policymakers to find concrete and credible solutions to the thorny cross-border obstacles that impede the orderly resolution of a globally systemic financial firm.
+Reducing Systemic Risk in the Shadow Banking System Important as banking reforms may be, it is worth recalling that the trigger for the acute phase of the financial crisis was the rapid unwinding of large amounts of short-term wholesale funding that had been made available to highly leveraged and/or maturity-transforming financial firms that were not subject to consolidated prudential supervision.
+Many of the key problems related to shadow banking and their potential solutions are still being debated domestically and internationally.
+But I believe the path forward is reasonably clear.
+We need to increase the transparency of shadow banking markets so that authorities can monitor for signs of excessive leverage and unstable maturity transformation outside regulated banks.
+We also need to take further steps to reduce the risk of runs on money market mutual funds.
+In addition, we need to further ameliorate risks in the settlement process for triparty repo agreements, including through continued reductions in the amount of intraday credit provided by the clearing banks.
+But even when we accomplish these reforms, more work will remain to reduce systemic risk in the short-term wholesale funding markets that shadow banking relies on.
+A major source of unaddressed risk emanates from the large volume of short-term securities financing transactions (SFTs)--repos, reverse repos, securities borrowing and lending transactions, and margin loans--engaged in by broker-dealers, money market funds, hedge funds, and other shadow banks.
+Regulatory reform mostly passed over these transactions, I suspect, because SFTs appear safe from a microprudential perspective.
+But SFTs, particularly large matched books of SFTs, create sizable macroprudential risks, including large negative externalities from dealer defaults and from asset fire sales.
+The existing bank and broker-dealer regulatory regimes have not been designed to materially mitigate these systemic risks.
+The global regulatory community should focus significant amounts of energy, now, to attack this problem.
+The perfect solution may not yet be clear but possible options are evident: raising bank and broker-dealer capital or liquidity requirements on SFTs, or imposing minimum margin requirements on some or all SFTs.

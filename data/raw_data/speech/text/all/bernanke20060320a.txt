@@ -1,0 +1,58 @@
+I intend to take the opportunity afforded by an audience of experts on global financial markets to address an intriguing financial phenomenon: the fact that, over the past seven quarters or so, tightening monetary policy has been accompanied by long-term yields that have moved only a little on net.
+Why have long-term interest rates not risen more, as they have done over previous policy tightening cycles?
+And what implications does this pattern of long-term interest rates have for monetary policy and the economic outlook?
+As you will see, in my remarks I will do a better job of raising questions than of answering them.
+In particular, I will conclude that the implications for monetary policy of the recent behavior of long-term yields are not at all clear-cut.
+I hope you will agree that these questions are nevertheless worthwhile posing, as they are intertwined with a number of important economic and financial issues.
+I should say at the outset that the views I will express are my own and are not necessarily shared by my colleagues on the Federal Open Market Committee (FOMC).
+The Federal Reserve's Tightening CycleThe tightening cycle that began at the end of June 2004 is notable in at least four respects.
+First, its onset was delayed for longer than many observers expected.
+The FOMC kept policy unusually accommodative for an extended, or should I say for a considerable, period.
+The goal, as you know, was to help ensure that the economic expansion would be self-sustaining and to protect against a remote risk that the fall in inflation observed during 2003 might culminate in outright deflation--an outcome that could have had potentially serious consequences for the economy and for the efficacy of monetary policy.
+Indeed, with those concerns in mind, in 2003 the Federal Reserve made explicit for the first time that price stability is a symmetric objective: It is important to avoid inflation that is too low as well as inflation that is too high.
+A second way in which the most recent experience has been unusual is the extent to which policy actions have been signaled in advance.
+Both in the months leading up to the initiation of the tightening cycle and during the cycle itself, the statements issued after each meeting of the FOMC provided qualitative guidance about the likely future path of policy and its dependence on economic events.
+Providing information about the expected path of policy helped to ensure that long-term interest rates and other asset prices did not build in a projected pace of tightening that was more rapid than the Committee itself anticipated, and the statement's focus on the conditionality of future policy actions emphasized the ongoing need for both policymakers and financial market participants to respond to economic news.
+In retrospect, the clear communication of policy provided notable benefits, in my view, by increasing the effectiveness of monetary policy while minimizing unnecessary volatility in financial markets.
+Third, policy moved gradually, tightening in one-quarter point increments over fourteen successive meetings.
+Together with expanded communication, this gradual approach served to stabilize policy expectations and damp market volatility.
+In addition, the measured pace of rate increases gave the Committee time to observe the progress of the economy and to adjust its plans and communications strategy accordingly.1 To be sure, gradualism was possible only because inflation expectations remained contained--testimony to the importance of a central bank's retaining credibility in financial markets and among businesses and households.
+A fourth interesting aspect of the latest tightening cycle, which is my principal focus this evening, is the behavior of long-term interest rates.
+Since June 30, 2004, the overnight interest rate has moved up 3-1/2 percentage points, but the ten-year nominal Treasury yield has only edged higher.
+At less than 4-3/4 percent, that yield is not much above the target federal funds rate of 4-1/2 percent and, indeed, is about even with yields for maturities of one to three years.
+In the remainder of my remarks I will speculate on the reasons for and consequences of this historically unusual behavior of long-term rates.
+The Recent Behavior of Longer-Term YieldsSome discussion of the arithmetic of longer-term yields provides a useful perspective on recent developments in bond markets.
+The ten-year Treasury yield, for example, can be viewed as a weighted average of the current one-year rate and nine one-year forward rates, with the weights depending on the coupon yield of the security.
+As I will discuss, each of these forward rates can be split further into (1) a portion equal to the one-year spot rate that market participants currently expect to prevail at the corresponding date in the future, and (2) a portion that reflects additional compensation to the bondholder for the risk of holding longer-dated instruments.
+Current and near-term forward rates are particularly sensitive to monetary policy actions, which directly affect spot short-term interest rates and strongly influence market expectations of where spot rates are likely to stand in the next year or two.
+Indeed, as we would expect, the recent tightening of policy has been accompanied by increases in both the current one-year rate and next few years' forward rates.
+For example, since June 2004, the one-year forward rate for the period two to three years in the future has risen almost 1-1/2 percentage points.
+As the ten-year yield is about unchanged even as its near-term components have risen appreciably, it follows as a matter of arithmetic that its components representing returns that are more distant in time must have fallen.
+In fact, the one-year forward rate nine years ahead has declined 1-1/2 percentage points over this tightening cycle.
+Incidentally, by comparing forward rates implied by yields on nominal Treasuries with those implied by Treasury securities that are indexed for inflation, we can infer that about two-thirds of the overall decline in far-distant nominal forward rates over this tightening cycle has been associated with a drop in real yields, with the remainder reflecting a drop in inflation compensation.
+It is important to note that the marked decline in far-forward interest rates has not been confined to U.S. Treasury securities.
+The spread in yields between Treasuries and longer-term private securities such as corporate bonds is little changed or is down on net since June 2004, implying that essentially all of the fall in forward rates seen in the Treasury market has occurred in private yields as well.
+These patterns have also appeared in securities not denominated in dollars.
+For example, over the same period, longer-term government and swap yields in the United Kingdom and the euro area have moved appreciably lower.
+Indeed, long-term nominal yields have dropped in a number of countries, often by more than in the United States, and the yield curves in many of these countries are also rather flat or even slightly inverted.
+Some Reasons for the Decline in Far-Forward Rates Why have the far-forward rates implied by the term structure of interest rates declined in recent years?
+Observers have offered two broad (and not mutually exclusive) classes of explanations.
+One set of explanations holds that bond yields are reacting to current or prospective macroeconomic conditions.
+Another set focuses on special factors that may have influenced market demands for long-term securities per se, independent of the economic outlook.
+I will first consider explanations that emphasize possible changes in the net demand for long-term securities and later return to explanations that focus on the link between bond yields and the economic outlook.
+As I have noted, each of the forward interest rates implicit in the term structure can be usefully decomposed into two parts: (1) the spot interest rate that market participants currently expect to prevail at the corresponding date in the future and (2) the additional compensation that investors require for the risk of holding longer-term instruments, known as the term premium.
+With the economic outlook held constant, changes in the net demand for long-term securities have their largest effect on the term premium.
+In particular, if the demand for long-dated securities rises relative to the supply, then investors will generally accept less compensation to hold longer-term instruments--that is, the term premium will decline.
+To quantify the importance of the shift in the balance of demand and supply and of the consequent change in the term premium, we can appeal to the research literature on the term structure of interest rates.
+In modern models of the term structure, yields at each horizon are explained by a small number of factors.
+In some models, these factors can be explicitly tied to observable economic variables, such as inflation; in other models, the factors represent statistical summaries of the data and have no explicit economic interpretations.
+These factors, in turn, can be used to estimate term premiums at each point in time, although one should clearly acknowledge that the results can be sensitive to various statistical and modeling assumptions.
+According to several of the most popular models, a substantial portion of the decline in distant-horizon forward rates over recent quarters can be attributed to a drop in term premiums.2 Using some of these models, we can further divide the term premium into two parts--a premium for bearing real interest rate risk and a premium for bearing inflation risk.
+Both of these components have trended lower over time as well, according to the standard models, but the decline in the premium since last June 2004 appears to have been associated mainly with a drop in the compensation for bearing real interest rate risk.
+At least four possible explanations have been put forth for why the net demand for long-term issues may have increased, lowering the term premium.
+First, longer-maturity obligations may be more attractive because of more stable inflation, better-anchored inflation expectations, and a reduction in economic volatility more generally.
+With the benefit of hindsight, we now recognize that an important change occurred in the U.S. economy (and, indeed, in other major industrial economies as well) sometime in the mid-1980s.
+Since that time, the volatilities of both real GDP growth and inflation have declined significantly, a phenomenon that economists have dubbed the "Great Moderation."
+I have argued elsewhere that improved monetary policies, which stabilized inflation and better anchored inflation expectations, are an important reason for this positive development; no doubt, structural changes in the economy such as deregulation, improved inventory control methods, and better risk-sharing in financial markets also contributed.3 Whatever the reason for the fall in macroeconomic volatility, if investors have come to expect this past performance to continue, they might believe that less compensation for risk--and thus a lower term premium--is required to justify holding longer-term bonds.
+In that regard, it is interesting to observe that long-term forward rates were also low in the 1950s and 1960s.
+With long-term inflation expectations apparently anchored at low levels and with the prospect of continued economic stability, market participants may believe that it is appropriate to price bonds for an environment like that which prevailed four or five decades ago.

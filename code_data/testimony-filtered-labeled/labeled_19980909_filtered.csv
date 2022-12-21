@@ -1,9 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,these changes go some way to eliminating social security's actuarial deficit.,LABEL_0,0.9929018020629883
-1,"there would be a slight increase in the normal retirement age for all workers, in line with the expected growth in overall life expectancy (also proposed by the ced, senator moynihan, and the ncrp).",LABEL_1,0.9924694299697876
-2,there would also be a slight change in the benefit formula to reduce the growth of social security benefits for high wage workers (also proposed by the ced and ncrp).,LABEL_0,0.9797906875610352
-3,the result of all these changes would be a modest reduction in the overall real growth of social security benefits over time.,LABEL_0,0.9906942844390869
-4,"the funds would be converted to real annuities on retirement, to protect against inflation and the chance that retirees would overspend in their early retirement years.",LABEL_1,0.9771754145622253
-5,"while the advent of these overall surpluses lessens future interest payments and the overall growth of entitlement spending, i see some problems with ""using"" the surpluses for social security.",LABEL_0,0.9561038017272949
-6,the changes would eliminate social security's long run financial deficit while still holding together the important retirement safety net provided by social security.,LABEL_0,0.997168242931366
-7,they would reduce the growth of entitlement spending.,LABEL_0,0.9363518953323364

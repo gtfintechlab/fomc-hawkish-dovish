@@ -1,0 +1,216 @@
+As you may know, Willis was an important figure in the early history of my current employer, the Federal Reserve System.
+While he was a professor at Washington and Lee, Willis advised Senator Carter Glass of Virginia, one of the key legislators involved in the founding of the Federal Reserve.
+Willis also served on the National Monetary Commission, which recommended the creation of the Federal Reserve, and he went on to become the research director at the Federal Reserve from 1918 to 1922.
+At the Federal Reserve, Willis pushed for the development of new and better economic statistics, facing the resistance of those who took the view that too many facts only confuse the issue.
+Willis was also the first editor of the Federal Reserve Bulletin, the official publication of the Fed, which in Willis's time as well as today provides a wealth of economic statistics.
+As an illustration of the intellectual atmosphere in Washington at the time he served, Willis reported that when the first copy of the Bulletin was presented to the Secretary of the Treasury, the esteemed Secretary replied, "This Government ain't going into the newspaper business."
+Like Parker Willis, I was a professor myself before coming to the Federal Reserve Board.
+One topic of particular interest to me as a researcher was the performance of the Federal Reserve in its early days, particularly the part played by the young U.S. central bank in the Great Depression of the 1930s.1 In honor of Willis's important contribution to the design and creation of the Federal Reserve, I will speak today about the role of the Federal Reserve and of monetary factors more generally in the origin and propagation of the Great Depression.
+Let me offer two caveats before I begin: First, as I mentioned, H. Parker Willis resigned from the Fed in 1922, to take a post at Columbia University; thus, he is not implicated in any of the mistakes that the Federal Reserve made in the late 1920s and early 1930s.
+Second, the views I will express today are my own and are not necessarily those of my colleagues in the Federal Reserve System.
+The number of people with personal memory of the Great Depression is fast shrinking with the years, and to most of us the Depression is conveyed by grainy, black-and-white images of men in hats and long coats standing in bread lines.
+However, although the Depression was long ago--October this year will mark the seventy-fifth anniversary of the famous 1929 stock market crash--its influence is still very much with us.
+In particular, the experience of the Depression helped forge a consensus that the government bears the important responsibility of trying to stabilize the economy and the financial system, as well as of assisting people affected by economic downturns.
+Dozens of our most important government agencies and programs, ranging from social security (to assist the elderly and disabled) to federal deposit insurance (to eliminate banking panics) to the Securities and Exchange Commission (to regulate financial activities) were created in the 1930s, each a legacy of the Depression.
+The impact that the experience of the Depression has had on views about the role of the government in the economy is easily understood when we recall the sheer magnitude of that economic downturn.
+During the major contraction phase of the Depression, between 1929 and 1933, real output in the United States fell nearly 30 percent.
+During the same period, according to retrospective studies, the unemployment rate rose from about 3 percent to nearly 25 percent, and many of those lucky enough to have a job were able to work only part-time.
+For comparison, between 1973 and 1975, in what was perhaps the most severe U.S. recession of the World War II era, real output fell 3.4 percent and the unemployment rate rose from about 4 percent to about 9 percent.
+Other features of the 1929-33 decline included a sharp deflation--prices fell at a rate of nearly 10 percent per year during the early 1930s--as well as a plummeting stock market, widespread bank failures, and a rash of defaults and bankruptcies by businesses and households.
+The economy improved after Franklin D. Roosevelt's inauguration in March 1933, but unemployment remained in the double digits for the rest of the decade, full recovery arriving only with the advent of World War II.
+Moreover, as I will discuss later, the Depression was international in scope, affecting most countries around the world not only the United States.
+What caused the Depression?
+This question is a difficult one, but answering it is important if we are to draw the right lessons from the experience for economic policy.
+Solving the puzzle of the Depression is also crucial to the field of economics itself because of the light the solution would shed on our basic understanding of how the economy works.
+During the Depression years and for many decades afterward, economists disagreed sharply on the sources of the economic and financial collapse of the 1930s.
+In contrast, during the past twenty years or so economic historians have come to a broad consensus about the causes of the Depression.
+A widening of the geographic focus of Depression research deserves much of the credit for this breakthrough.
+Before the 1980s, research on the causes of the Depression had considered primarily the experience of the United States.
+This attention to the U.S. case was appropriate to some degree, as the U.S. economy was then, as it is today, the world's largest; the decline in output and employment in the United States during the 1930s was especially severe; and many economists have argued that, to an important extent, the worldwide Depression began in the United States, spreading from here to other countries (Romer, 1993).
+However, in much the same way that a medical researcher cannot reliably infer the causes of an illness by studying one patient, diagnosing the causes of the Depression is easier when we have more patients (in this case, more national economies) to study.
+To explain the current consensus on the causes of the Depression, I will first describe the debate as it existed before 1980, and then discuss how the recent focus on international aspects of the Depression and the comparative analysis of the experiences of different countries have helped to resolve that debate.
+I have already mentioned the sharp deflation of the price level that occurred during the contraction phase of the Depression, by far the most severe episode of deflation experienced in the United States before or since.
+Deflation, like inflation, tends to be closely linked to changes in the national money supply, defined as the sum of currency and bank deposits outstanding, and such was the case in the Depression.
+Like real output and prices, the U.S. money supply fell about one-third between 1929 and 1933, rising in subsequent years as output and prices rose.
+While the fact that money, prices, and output all declined rapidly in the early years of the Depression is undeniable, the interpretation of that fact has been the subject of much controversy.
+Indeed, historically, much of the debate on the causes of the Great Depression has centered on the role of monetary factors, including both monetary policy and other influences on the national money supply, such as the condition of the banking system.
+Views have changed over time.
+During the Depression itself, and in several decades following, most economists argued that monetary factors were not an important cause of the Depression.
+For example, many observers pointed to the fact that nominal interest rates were close to zero during much of the Depression, concluding that monetary policy had been about as easy as possible yet had produced no tangible benefits to the economy.
+The attempt to use monetary policy to extricate an economy from a deep depression was often compared to "pushing on a string."
+During the first decades after the Depression, most economists looked to developments on the real side of the economy for explanations, rather than to monetary factors.
+Some argued, for example, that overinvestment and overbuilding had taken place during the ebullient 1920s, leading to a crash when the returns on those investments proved to be less than expected.
+Another once-popular theory was that a chronic problem of "under-consumption"--the inability of households to purchase enough goods and services to utilize the economy's productive capacity--had precipitated the slump.
+However, in 1963, Milton Friedman and Anna J. Schwartz transformed the debate about the Great Depression.
+That year saw the publication of their now-classic book, A Monetary History of the United States, 1867-1960.
+The Monetary History, the name by which the book is instantly recognized by any macroeconomist, examined in great detail the relationship between changes in the national money stock--whether determined by conscious policy or by more impersonal forces such as changes in the banking system--and changes in national income and prices.
+The broader objective of the book was to understand how monetary forces had influenced the U.S. economy over a nearly a century.
+In the process of pursuing this general objective, however, Friedman and Schwartz offered important new evidence and arguments about the role of monetary factors in the Great Depression.
+In contradiction to the prevalent view of the time, that money and monetary policy played at most a purely passive role in the Depression, Friedman and Schwartz argued that "the [economic] contraction is in fact a tragic testimonial to the importance of monetary forces" (Friedman and Schwartz, 1963, p. 300).
+To support their view that monetary forces caused the Great Depression, Friedman and Schwartz revisited the historical record and identified a series of errors--errors of both commission and omission--made by the Federal Reserve in the late 1920s and early 1930s.
+According to Friedman and Schwartz, each of these policy mistakes led to an undesirable tightening of monetary policy, as reflected in sharp declines in the money supply.
+Drawing on their historical evidence about the effects of money on the economy, Friedman and Schwartz argued that the declines in the money stock generated by Fed actions--or inactions--could account for the drops in prices and output that subsequently occurred.2 Friedman and Schwartz emphasized at least four major errors by U.S. monetary policymakers.
+The Fed's first grave mistake, in their view, was the tightening of monetary policy that began in the spring of 1928 and continued until the stock market crash of October 1929 (see Hamilton, 1987, or Bernanke, 2002a, for further discussion).
+This tightening of monetary policy in 1928 did not seem particularly justified by the macroeconomic environment: The economy was only just emerging from a recession, commodity prices were declining sharply, and there was little hint of inflation.
+Why then did the Federal Reserve raise interest rates in 1928?
+The principal reason was the Fed's ongoing concern about speculation on Wall Street.
+Fed policymakers drew a sharp distinction between "productive" (that is, good) and "speculative" (bad) uses of credit, and they were concerned that bank lending to brokers and investors was fueling a speculative wave in the stock market.
+When the Fed's attempts to persuade banks not to lend for speculative purposes proved ineffective, Fed officials decided to dissuade lending directly by raising the policy interest rate.
+The market crash of October 1929 showed, if anyone doubted it, that a concerted effort by the Fed can bring down stock prices.
+But the cost of this "victory" was very high.
+According to Friedman and Schwartz, the Fed's tight-money policies led to the onset of a recession in August 1929, according to the official dating by the National Bureau of Economic Research.
+The slowdown in economic activity, together with high interest rates, was in all likelihood the most important source of the stock market crash that followed in October.
+In other words, the market crash, rather than being the cause of the Depression, as popular legend has it, was in fact largely the result of an economic slowdown and the inappropriate monetary policies that preceded it.
+Of course, the stock market crash only worsened the economic situation, hurting consumer and business confidence and contributing to a still deeper downturn in 1930.
+The second monetary policy action identified by Friedman and Schwartz occurred in September and October of 1931.
+At the time, as I will discuss in more detail later, the United States and the great majority of other nations were on the gold standard, a system in which the value of each currency is expressed in terms of ounces of gold.
+Under the gold standard, central banks stood ready to maintain the fixed values of their currencies by offering to trade gold for money at the legally determined rate of exchange.
+The fact that, under the gold standard, the value of each currency was fixed in terms of gold implied that the rate of exchange between any two currencies within the gold standard system was likewise fixed.
+As with any system of fixed exchange rates, the gold standard was subject to speculative attack if investors doubted the ability of a country to maintain the value of its currency at the legally specified parity.
+In September 1931, following a period of financial upheaval in Europe that created concerns about British investments on the Continent, speculators attacked the British pound, presenting pounds to the Bank of England and demanding gold in return.
+Faced with the heavy demands of speculators for gold and a widespread loss of confidence in the pound, the Bank of England quickly depleted its gold reserves.
+Unable to continue supporting the pound at its official value, Great Britain was forced to leave the gold standard, allowing the pound to float freely, its value determined by market forces.
+With the collapse of the pound, speculators turned their attention to the U.S. dollar, which (given the economic difficulties the United States was experiencing in the fall of 1931) looked to many to be the next currency in line for devaluation.
+Central banks as well as private investors converted a substantial quantity of dollar assets to gold in September and October of 1931, reducing the Federal Reserve's gold reserves.
+The speculative attack on the dollar also helped to create a panic in the U.S. banking system.
+Fearing imminent devaluation of the dollar, many foreign and domestic depositors withdrew their funds from U.S. banks in order to convert them into gold or other assets.
+The worsening economic situation also made depositors increasingly distrustful of banks as a place to keep their savings.
+During this period, deposit insurance was virtually nonexistent, so that the failure of a bank might cause depositors to lose all or most of their savings.
+Thus, depositors who feared that a bank might fail rushed to withdraw their funds.
+Banking panics, if severe enough, could become self-confirming prophecies.
+During the 1930s, thousands of U.S. banks experienced runs by depositors and subsequently failed.
+Long-established central banking practice required that the Fed respond both to the speculative attack on the dollar and to the domestic banking panics.
+However, the Fed decided to ignore the plight of the banking system and to focus only on stopping the loss of gold reserves to protect the dollar.
+To stabilize the dollar, the Fed once again raised interest rates sharply, on the view that currency speculators would be less willing to liquidate dollar assets if they could earn a higher rate of return on them.
+The Fed's strategy worked, in that the attack on the dollar subsided and the U.S. commitment to the gold standard was successfully defended, at least for the moment.
+However, once again the Fed had chosen to tighten monetary policy despite the fact that macroeconomic conditions--including an accelerating decline in output, prices, and the money supply--seemed to demand policy ease.
+The third policy action highlighted by Friedman and Schwartz occurred in 1932.
+By the spring of that year, the Depression was well advanced, and Congress began to place considerable pressure on the Federal Reserve to ease monetary policy.
+The Board was quite reluctant to comply, but in response to the ongoing pressure the Board conducted open-market operations between April and June of 1932 designed to increase the national money supply and thus ease policy.
+These policy actions reduced interest rates on government bonds and corporate debt and appeared to arrest the decline in prices and economic activity.
+However, Fed officials remained ambivalent about their policy of monetary expansion.
+Some viewed the Depression as the necessary purging of financial excesses built up during the 1920s; in this view, slowing the economic collapse by easing monetary policy only delayed the inevitable adjustment.
+Other officials, noting among other indicators the very low level of nominal interest rates, concluded that monetary policy was in fact already quite easy and that no more should be done.
+These policymakers did not appear to appreciate that, even though nominal interest rates were very low, the ongoing deflation meant that the real cost of borrowing was very high because any loans would have to be repaid in dollars of much greater value (Meltzer, 2003).
+Thus monetary policy was not in fact easy at all, despite the very low level of nominal interest rates.
+In any event, Fed officials convinced themselves that the policy ease advocated by the Congress was not appropriate, and so when the Congress adjourned in July 1932, the Fed reversed the policy.
+By the latter part of the year, the economy had relapsed dramatically.
+The fourth and final policy mistake emphasized by Friedman and Schwartz was the Fed's ongoing neglect of problems in the U.S. banking sector.
+As I have already described, the banking sector faced enormous pressure during the early 1930s.
+As depositor fears about the health of banks grew, runs on banks became increasingly common.
+A series of banking panics spread across the country, often affecting all the banks in a major city or even an entire region of the country.
+Between December 1930 and March 1933, when President Roosevelt declared a "banking holiday" that shut down the entire U.S. banking system, about half of U.S. banks either closed or merged with other banks.
+Surviving banks, rather than expanding their deposits and loans to replace those of the banks lost to panics, retrenched sharply.
+The banking crisis had highly detrimental effects on the broader economy.
+Friedman and Schwartz emphasized the effects of bank failures on the money supply.
+Because bank deposits are a form of money, the closing of many banks greatly exacerbated the decline in the money supply.
+Moreover, afraid to leave their funds in banks, people hoarded cash, for example by burying their savings in coffee cans in the back yard.
+Hoarding effectively removed money from circulation, adding further to the deflationary pressures.
+Moreover, as I emphasized in early research of my own (Bernanke, 1983), the virtual shutting down of the U.S. banking system also deprived the economy of an important source of credit and other services normally provided by banks.
+The Federal Reserve had the power at least to ameliorate the problems of the banks.
+For example, the Fed could have been more aggressive in lending cash to banks (taking their loans and other investments as collateral), or it could have simply put more cash in circulation.
+Either action would have made it easier for banks to obtain the cash necessary to pay off depositors, which might have stopped bank runs before they resulted in bank closings and failures.
+Indeed, a central element of the Federal Reserve's original mission had been to provide just this type of assistance to the banking system.
+The Fed's failure to fulfill its mission was, again, largely the result of the economic theories held by the Federal Reserve leadership.
+Many Fed officials appeared to subscribe to the infamous "liquidationist" thesis of Treasury Secretary Andrew Mellon, who argued that weeding out "weak" banks was a harsh but necessary prerequisite to the recovery of the banking system.
+Moreover, most of the failing banks were relatively small and not members of the Federal Reserve System, making their fate of less interest to the policymakers.
+In the end, Fed officials decided not to intervene in the banking crisis, contributing once again to the precipitous fall in the money supply.
+Friedman and Schwartz discuss other episodes and policy actions as well, such as the Federal Reserve's misguided tightening of policy in 1937-38 which contributed to a new recession in those years.
+However, the four episodes I have described capture the gist of the Friedman and Schwartz argument that, for a variety of reasons, monetary policy was unnecessarily tight, both before the Depression began and during its most dramatic downward phase.
+As I have mentioned, Friedman and Schwartz had produced evidence from other historical periods that suggested that contractionary monetary policies can lead to declining prices and output.
+Friedman and Schwartz concluded therefore that they had found the smoking gun, evidence that much of the severity of the Great Depression could be attributed to monetary forces.
+Friedman and Schwartz's arguments were highly influential but not universally accepted.
+For several decades after the Monetary History was published, a debate raged about the importance of monetary factors in the Depression.
+Opponents made several objections to the Friedman and Schwartz thesis that are worth highlighting here.
+First, critics wondered whether the tightening of monetary policy during 1928 and 1929, though perhaps ill advised, was large enough to have led to such calamitous consequences.3 If the tightening of monetary policy before the stock market crash was not sufficient to account for the violence of the economic downturn, then other, possibly nonmonetary, factors may need to be considered as well.
+A second question is whether the large decline in the money supply seen during the 1930s was primarily a cause or an effect of falling output and prices.
+As we have seen, Friedman and Schwartz argued that the decline in the money supply was causal.
+Suppose, though, for the sake of argument, that the Depression was the result primarily of nonmonetary factors, such as overspending and overinvestment during the 1920s.
+As incomes and spending decline, people need less money to carry out daily transactions.
+In this scenario, critics pointed out, the Fed would be justified in allowing the money supply to fall, because it would only be accommodating a decline in the amount of money that people want to hold.
+The decline in the money supply in this case would be a response to, not a cause of, the decline in output and prices.
+To put the question simply, we know that both the economy and the money stock contracted rapidly during the early 1930s, but was the monetary dog wagging the economic tail, or vice versa?
+The focus of Friedman and Schwartz on the U.S. experience (by design, of course) raised other questions about their monetary explanation of the Depression.
+As I have mentioned, the Great Depression was a worldwide phenomenon, not confined to the United States.
+Indeed, some economies, such as that of Germany, began to decline before 1929.
+Although few countries escaped the Depression entirely, the severity of the episode varied widely across countries.
+The timing of recovery also varied considerably, with some countries beginning their recovery as early as 1931 or 1932, whereas others remained in the depths of depression as late as 1935 or 1936.
+How does Friedman and Schwartz's monetary thesis explain the worldwide nature of the onset of the Depression, and the differences in severity and timing observed in different countries?
+That is where the debate stood around 1980.
+About that time, however, economic historians began to broaden their focus, shifting from a heavy emphasis on events in the United States during the 1930s to an increased attention to developments around the world.
+Moreover, rather than studying countries individually, this new scholarship took a comparative approach, asking specifically why some countries fared better than others in the 1930s.
+As I will explain, this research uncovered an important role for international monetary forces, as well as domestic monetary policies, in explaining the Depression.
+Specifically, the new research found that a complete understanding of the Depression requires attention to the operation of the international gold standard, the international monetary system of the time.4 As I have already mentioned, the gold standard is a monetary system in which each participating country defines its monetary unit in terms of a certain amount of gold.
+The setting of each currency's value in terms of gold defines a system of fixed exchange rates, in which the relative value of (say) the U.S. dollar and the British pound are fixed at a rate determined by the relative gold content of each currency.
+To maintain the gold standard, central banks had to promise to exchange actual gold for their paper currencies at the legal rate.
+The gold standard appeared to be highly successful from about 1870 to the beginning of World War I in 1914.
+During the so-called "classical" gold standard period, international trade and capital flows expanded markedly, and central banks experienced relatively few problems ensuring that their currencies retained their legal value.
+The gold standard was suspended during World War I, however, because of disruptions to trade and international capital flows and because countries needed more financial flexibility to finance their war efforts.
+(The United States remained technically on the gold standard throughout the war, but with many restrictions.)
+After 1918, when the war ended, nations around the world made extensive efforts to reconstitute the gold standard, believing that it would be a key element in the return to normal functioning of the international economic system.
+Great Britain was among the first of the major countries to return to the gold standard, in 1925, and by 1929 the great majority of the world's nations had done so.
+Unlike the gold standard before World War I, however, the gold standard as reconstituted in the 1920s proved to be both unstable and destabilizing.
+Economic historians have identified a number of reasons why the reconstituted gold standard was so much less successful than its prewar counterpart.
+First, the war had left behind enormous economic destruction and dislocation.
+Major financial problems also remained, including both large government debts from the war and banking systems whose solvency had been deeply compromised by the war and by the periods of hyperinflation that followed in a number of countries.
+These underlying problems created stresses for the gold standard that had not existed to the same degree before the war.
+Second, the new system lacked effective international leadership.
+During the classical period, the Bank of England, in operation since 1694, provided sophisticated management of the international system, with the cooperation of other major central banks.
+This leadership helped the system adjust to imbalances and strains; for example, a consortium of central banks might lend gold to one of their number that was experiencing a shortage of reserves.
+After the war, with Great Britain economically and financially depleted and the United States in ascendance, leadership of the international system shifted by default to the Federal Reserve.
+Unfortunately, the fledgling Federal Reserve, with its decentralized structure and its inexperienced and domestically focused leadership, did not prove up to the task of managing the international gold standard, a task that lingering hatreds and disputes from the war would have made difficult for even the most-sophisticated institution.
+With the lack of effective international leadership, most central banks of the 1920s and 1930s devoted little effort to supporting the overall stability of the international system and focused instead on conditions within their own countries.
+Finally, the reconstituted gold standard lacked the credibility of its prewar counterpart.
+Before the war, the ideology of the gold standard was dominant, to the point that financial investors had no doubt that central banks would find a way to maintain the gold values of their currencies no matter what the circumstances.
+Because this conviction was so firm, speculators had little incentive to attack a major currency.
+After the war, in contrast, both economic views and the political balance of power had shifted in ways that reduced the influence of the gold standard ideology.
+For example, new labor-dominated political parties were skeptical about the utility of maintaining the gold standard if doing so increased unemployment.
+Ironically, reduced political and ideological support for the gold standard made it more difficult for central banks to maintain the gold values of their currencies, as speculators understood that the underlying commitment to adhere to the gold standard at all costs had been weakened significantly.
+Thus, speculative attacks became much more likely to succeed and hence more likely to occur.
+With an international focus, and with particular attention to the role of the gold standard in the world economy, scholars have now been able to answer the questions regarding the monetary interpretation of the Depression that I raised earlier.
+First, the existence of the gold standard helps to explain why the world economic decline was both deep and broadly international.
+Under the gold standard, the need to maintain a fixed exchange rate among currencies forces countries to adopt similar monetary policies.
+In particular, a central bank with limited gold reserves has no option but to raise its own interest rates when interest rates are being raised abroad; if it did not do so, it would quickly lose gold reserves as financial investors transferred their funds to countries where returns were higher.
+Hence, when the Federal Reserve raised interest rates in 1928 to fight stock market speculation, it inadvertently forced tightening of monetary policy in many other countries as well.
+This tightening abroad weakened the global economy, with effects that fed back to the U.S. economy and financial system.
+Other countries' policies also contributed to a global monetary tightening during 1928 and 1929.
+For example, after France returned to the gold standard in 1928, it built up its gold reserves significantly, at the expense of other countries.
+The outflows of gold to France forced other countries to reduce their money supplies and to raise interest rates.
+Speculative attacks on currencies also became frequent as the Depression worsened, leading central banks to raise interest rates, much like the Federal Reserve did in 1931.
+Leadership from the Federal Reserve might possibly have produced better international cooperation and a more appropriate set of monetary policies.
+However, in the absence of that leadership, the worldwide monetary contraction proceeded apace.
+The result was a global economic decline that reinforced the effects of tight monetary policies in individual countries.
+The transmission of monetary tightening through the gold standard also addresses the question of whether changes in the money supply helped cause the Depression or were simply a passive response to the declines in income and prices.
+Countries on the gold standard were often forced to contract their money supplies because of policy developments in other countries, not because of domestic events.
+The fact that these contractions in money supplies were invariably followed by declines in output and prices suggests that money was more a cause than an effect of the economic collapse in those countries.
+Perhaps the most fascinating discovery arising from researchers' broader international focus is that the extent to which a country adhered to the gold standard and the severity of its depression were closely linked.
+In particular, the longer that a country remained committed to gold, the deeper its depression and the later its recovery (Choudhri and Kochin, 1980; Eichengreen and Sachs, 1985).
+The willingness or ability of countries to remain on the gold standard despite the adverse developments of the 1930s varied quite a bit.
+A few countries did not join the gold standard system at all; these included Spain (which was embroiled in domestic political upheaval, eventually leading to civil war) and China (which used a silver monetary standard rather than a gold standard).
+A number of countries adopted the gold standard in the 1920s but left or were forced off gold relatively early, typically in 1931.
+Countries in this category included Great Britain, Japan, and several Scandinavian countries.
+Some countries, such as Italy and the United States, remained on the gold standard into 1932 or 1933.
+And a few diehards, notably the so-called gold bloc, led by France and including Poland, Belgium, and Switzerland, remained on gold into 1935 or 1936.
+If declines in the money supply induced by adherence to the gold standard were a principal reason for economic depression, then countries leaving gold earlier should have been able to avoid the worst of the Depression and begin an earlier process of recovery.
+The evidence strongly supports this implication.
+For example, Great Britain and Scandinavia, which left the gold standard in 1931, recovered much earlier than France and Belgium, which stubbornly remained on gold.
+As Friedman and Schwartz noted in their book, countries such as China--which used a silver standard rather than a gold standard--avoided the Depression almost entirely.
+The finding that the time at which a country left the gold standard is the key determinant of the severity of its depression and the timing of its recovery has been shown to hold for literally dozens of countries, including developing countries.
+This intriguing result not only provides additional evidence for the importance of monetary factors in the Depression, it also explains why the timing of recovery from the Depression differed across countries.
+The finding that leaving the gold standard was the key to recovery from the Great Depression was certainly confirmed by the U.S. experience.
+One of the first actions of President Roosevelt was to eliminate the constraint on U.S. monetary policy created by the gold standard, first by allowing the dollar to float and then by resetting its value at a significantly lower level.
+The new President also addressed another major source of monetary contraction, the ongoing banking crisis.
+Within days of his inauguration, Roosevelt declared a "bank holiday," shutting down all the banks in the country.
+Banks were allowed to reopen only when certified to be in sound financial condition.
+Roosevelt pursued other measures to stabilize the banking system as well, such as the creation of a deposit insurance program.
+With the gold standard constraint removed and the banking system stabilized, the money supply and the price level began to rise.
+Between Roosevelt's coming to power in 1933 and the recession of 1937-38, the economy grew strongly.
+I have only scratched the surface of the fascinating literature on the causes of the Great Depression, but it is time that I conclude.
+Economists have made a great deal of progress in understanding the Great Depression.
+Milton Friedman and Anna Schwartz deserve enormous credit for bringing the role of monetary factors to the fore in their Monetary History.
+However, expanding the research focus to include the experiences of a wide range of countries has both provided additional support for the role of monetary factors (including the international gold standard) and enriched our understanding of the causes of the Depression.
+Some important lessons emerge from the story.
+One lesson is that ideas are critical.
+The gold standard orthodoxy, the adherence of some Federal Reserve policymakers to the liquidationist thesis, and the incorrect view that low nominal interest rates necessarily signaled monetary ease, all led policymakers astray, with disastrous consequences.
+We should not underestimate the need for careful research and analysis in guiding policy.
+Another lesson is that central banks and other governmental agencies have an important responsibility to maintain financial stability.

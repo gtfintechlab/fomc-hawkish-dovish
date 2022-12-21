@@ -1,0 +1,81 @@
+This evening I will offer my perspective on the fundamental sources of financial risk and the value added of banks and other financial intermediaries.
+Then, from that perspective, I will delve into some of the pitfalls inherent in risk-management models and the challenges they pose for risk managers.
+Risk, to state the obvious, is inherent in all business and financial activity.
+Its evaluation is a key element in all estimates of wealth.
+We are uncertain that any particular nonfinancial asset will be productive.
+We're also uncertain about the flow of returns that the asset might engender.
+In the face of these uncertainties, we endeavor to estimate the most likely long-term earnings path and the potential for actual results to deviate from that path, that is, the asset's risk.
+History suggests that day-to-day movements in asset values primarily reflect asset-specific uncertainties, but, especially at the portfolio level, changes in values are also driven by perceptions of uncertainties relating to the economy as a whole and to asset values generally.
+These perceptions of broad uncertainties are embodied in the discount factors that convert the expectations of future earnings to current present values, or wealth.
+In a market economy, all risks derive from the risks of holding real assets or, equivalently, unleveraged equity claims on those assets.
+All debt instruments (and, indeed, equities too) are essentially combinations of long and short positions in those real assets.
+The marvel of financial intermediation is that, although it cannot alter the underlying risk in holding direct claims on real assets, it can redistribute risks in a manner that alters behavior.
+The redistribution of risk induces more investment in real assets and hence engenders higher standards of living.
+This occurs because financial intermediation facilitates diversification of risk and its redistribution among people with different attitudes toward risk.
+Any means that shifts risk from those who choose to withdraw from it to those more willing to take it on permits increased investment without significantly raising the perceived degree of discomfort from risk that the population overall experiences.
+Indeed, all value added from new financial instruments derives from the service of reallocating risk in a manner that makes risk more tolerable.
+Insurance, of course, is the purest form of this service.
+All the new financial products that have been created in recent years, financial derivatives being in the forefront, contribute economic value by unbundling risks and reallocating them in a highly calibrated manner.
+The rising share of finance in the business output of the United States and other countries is a measure of the economic value added from its ability to enhance the process of wealth creation.
+But while financial intermediation, through its impetus to diversification, can lower the risks of holding claims on real assets, it cannot alter the more deep-seated uncertainties inherent in the human evaluation process.
+There is little in our historical annals that suggests that human nature has changed much over the generations.
+But, as I have noted previously, while time preference may appear to be relatively stable over history, perceptions of risk and uncertainty, which couple with time preference to create discount factors, obviously vary widely, as does liquidity preference, itself a function of uncertainty.
+These uncertainties are an underlying source of risk that we too often have regarded as background noise and generally have not endeavored to capture in our risk models.
+Almost always this has been the right judgment.
+However, the decline in recent years in the equity premium--the margin by which the implied rate of discount on common stock exceeds the riskless rate of interest--should prompt careful consideration of the robustness of our portfolio risk-management models in the event this judgment proves wrong.
+The key question is whether the recent decline in equity premiums is permanent or temporary.
+If the decline is permanent, portfolio risk managers need not spend much time revisiting a history that is unlikely to repeat itself.
+But if it proves temporary, portfolio risk managers could find that they are underestimating the credit risk of individual loans based on the market value of assets and overestimating the benefits of portfolio diversification.
+There can be little doubt that the dramatic improvements in information technology in recent years have altered our approach to risk.
+Some analysts perceive that information technology has permanently lowered equity premiums and, hence, permanently raised the prices of the collateral that underlies all financial assets.
+The reason, of course, is that information is critical to the evaluation of risk.
+The less that is known about the current state of a market or a venture, the less the ability to project future outcomes and, hence, the more those potential outcomes will be discounted.
+The rise in the availability of real-time information has reduced the uncertainties and thereby lowered the variances that we employ to guide portfolio decisions.
+At least part of the observed fall in equity premiums in our economy and others over the past five years does not appear to be the result of ephemeral changes in perceptions.
+It is presumably the result of a permanent technology-driven increase in information availability, which by definition reduces uncertainty and therefore risk premiums.
+This decline is most evident in equity risk premiums.
+It is less clear in the corporate bond market, where relative supplies of corporate and Treasury bonds and other factors we cannot easily identify have outweighed the effects of more readily available information about borrowers.
+The marked increase over this decade in the projected slope of technology advance, of course, has also augmented expectations of earnings growth, as evidenced by the dramatic increase since 1995 in security analysts' projections of long-term earnings.
+While it may be that the expectations of higher earnings embodied in equity values have had a spillover effect on discount factors, the latter remain essentially independent of the earnings expectations themselves.
+That equity premiums have generally declined during the past decade is not in dispute.
+What is at issue is how much of the decline reflects new, irreversible technologies, and what part is a consequence of a prolonged business expansion without a significant period of adjustment.
+The business expansion is, of course, reversible, whereas the technological advancements presumably are not.
+Some analysts have offered an entirely different interpretation of the drop in equity premiums.
+They assert that a long history of a rate of return on equity persistently exceeding the riskless rate of interest is bound to induce a learning-curve response that will eventually close the gap.
+According to this argument, much, possibly all, of the decline in equity premiums over the past five years reflects this learning response.
+It would be a mistake to dismiss such notions out of hand.
+We have learned to no longer cower at an eclipse of the sun or to run for cover at the sight of a newfangled automobile.
+But are we really observing in today's low equity premiums a permanent move up the learning curve in response to decades of data?
+Or are other factors at play?
+Some analysts have suggested several problems with the learning curve argument.
+One is the persistence of an equity premium in the face of the history of "excess" equity returns.
+Is it possible that responses toward risk are more akin to claustrophobia than to a learning response?
+No matter how many times one emerges unscathed from a claustrophobic experience, the sensitivity remains.
+In that case, there is no learning experience.
+Whichever case applies, what is certain is that the question of the permanence of the decline in equity premiums is of critical importance to risk managers.
+They cannot be agnostic on this question because any abrupt rise in equity premiums must inevitably produce declines in the values of most private financial obligations.
+Thus, however clearly they may be able to evaluate asset-specific risk, they must be careful not to overlook the possibilities of macro risk that could undermine the value of even a seemingly well-diversified portfolio.
+I have called attention to this risk-management challenge in a different context when discussing the roots of the international financial crises of the past two and a half years.
+My focus has been on the perils of risk management when periodic crises--read sharply rising risk premiums--undermine risk-management structures that fail to address them.
+During a financial crisis, risk aversion rises dramatically, and deliberate trading strategies are replaced by rising fear-induced disengagement.
+Yield spreads on relatively risky assets widen dramatically.
+In the more extreme manifestation, the inability to differentiate among degrees of risk drives trading strategies to ever-more-liquid instruments that permit investors to immediately reverse decisions at minimum cost should that be required.
+As a consequence, even among riskless assets, such as U.S. Treasury securities, liquidity premiums rise sharply as investors seek the heavily traded "on-the-run" issues--a behavior that was so evident last fall.
+As I have indicated on previous occasions, history tells us that sharp reversals in confidence occur abruptly, most often with little advance notice.
+These reversals can be self-reinforcing processes that can compress sizable adjustments into a very short period.
+Panic reactions in the market are characterized by dramatic shifts in behavior that are intended to minimize short-term losses.
+Claims on far-distant future values are discounted to insignificance.
+What is so intriguing, as I noted earlier, is that this type of behavior has characterized human interaction with little appreciable change over the generations.
+Whether Dutch tulip bulbs or Russian equities, the market price patterns remain much the same.
+We can readily describe this process, but, to date, economists have been unable to anticipate sharp reversals in confidence.
+Collapsing confidence is generally described as a bursting bubble, an event incontrovertibly evident only in retrospect.
+To anticipate a bubble about to burst requires the forecast of a plunge in the prices of assets previously set by the judgments of millions of investors, many of whom are highly knowledgeable about the prospects for the specific investments that make up our broad price indexes of stocks and other assets.
+Nevertheless, if episodic recurrences of ruptured confidence are integral to the way our economy and our financial markets work now and in the future, the implications for risk measurement and risk management are significant.
+Probability distributions estimated largely, or exclusively, over cycles that do not include periods of panic will underestimate the likelihood of extreme price movements because they fail to capture a secondary peak at the extreme negative tail that reflects the probability of occurrence of a panic.
+Furthermore, joint distributions estimated over periods that do not include panics will underestimate correlations between asset returns during panics.
+Under these circumstances, fear and disengagement on the part of investors holding net long positions often lead to simultaneous declines in the values of private obligations, as investors no longer realistically differentiate among degrees of risk and liquidity, and to increases in the values of riskless government securities.
+Consequently, the benefits of portfolio diversification will tend to be overestimated when the rare panic periods are not taken into account.
+The uncertainties inherent in valuations of assets and the potential for abrupt changes in perceptions of those uncertainties clearly must be adjudged by risk managers at banks and other financial intermediaries.
+At a minimum, risk managers need to stress test the assumptions underlying their models and set aside somewhat higher contingency resources--reserves or capital--to cover the losses that will inevitably emerge from time to time when investors suffer a loss of confidence.
+These reserves will appear almost all the time to be a suboptimal use of capital.
+So do fire insurance premiums.

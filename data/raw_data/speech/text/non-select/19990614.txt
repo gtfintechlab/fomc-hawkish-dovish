@@ -1,0 +1,209 @@
+The topic of this conference--reforming bank capital standards--could not be more timely.
+Reform is very much an issue on the minds of all supervisors and market participants.
+But regulatory capital standards are only one component of the overall framework for maintaining bank safety and soundness.
+This overall framework can be described, as in the consultative paper recently released by the Basel Supervisors Committee, in terms of "three pillars" -bank supervision, market discipline, and regulatory capital standards.
+There are two approaches to assessing the adequacy of the overall framework.
+First, we could consider merely rebalancing the existing components, in search of the most efficient combination.
+Some have argued, for example, that enhancing market discipline could permit reduced reliance on the more intrusive and burdensome regulatory and supervisory components.
+Second, to the extent that recent changes in banking and financial markets have made bank regulation and supervision more difficult, we may also need to incrementally improve capital standards and supervisory practices as well as enhance market discipline.
+My remarks today will focus on the market-discipline component of the three-pillars framework, specifically on how we might enhance market discipline in banking as we adapt to changes in banking and financial markets that have made bank supervision and regulation more difficult.
+There is an irony here in that it might take additional regulation--for example, increased disclosures and/or a mandatory subordinated debt requirement--to enhance market discipline.
+I will also discuss practical issues that must be considered and questions that must be answered if we are to move in this direction.
+I.
+Adapting to Change As we all know, financial markets and institutions are evolving at a rapid and unprecedented pace.
+This evolution has been driven in part by statutory reforms and dramatic regulatory changes.
+The abolition of interstate banking constraints has allowed for the creation of a growing number of very large banking organizations.
+The erosion of legal and regulatory barriers has permitted banking organizations to expand their scope of activities.
+And, both the relaxation of trade barriers and the freer flow of capital have facilitated the operation of banks across national boundaries.
+Financial and technological innovations have had an equally dramatic effect on financial markets and institutions.
+As a result of technological innovations, the increased speed and reduced cost of transacting have improved the depth and liquidity of financial markets.
+These improvements, together with advances in financial theory, have led to the adoption of new and arguably more complex tools for measuring, taking, and controlling risks.
+The growing size and complexity of banking organizations make the supervisor's job of protecting bank safety and soundness increasingly difficult.
+Size, scope, and complexity simply make it more difficult for supervisors to understand and evaluate bank positions and operations.
+In response, heightened supervisory focus on risk-management procedures and policies has been under way for some time.
+This focus recognizes that a bank's own risk-management process is the linchpin for controlling risks.
+However, while new procedures, policies, and tools for risk management may ultimately buttress supervision and regulation, these tools are based on relatively recent financial theories that have yet to be tested under the full range of market conditions.
+Moreover, the sophistication and complexity of these new tools often make it more difficult, not less, for supervisors to assess the true risk of a banking organization and to assign appropriate capital requirements.
+Adding to these difficulties, supervisors must account for risk exposures that are altered at an ever faster pace.
+We have often said that, in this environment, we want supervision and regulation to simulate or mimic market discipline in the sense of creating the proper incentives, costs, and rewards.
+I also believe that we ought--where we can--to skip the middlemen and go right to our first line of defense: market discipline.
+By aligning market incentives with regulatory incentives, policies designed to harness market forces could complement bank supervision by encouraging banks to refrain from excessive risk-taking.
+Indeed, I believe that market discipline is a particularly attractive tool for encouraging safety and soundness in a rapidly evolving environment.
+Market discipline is inherently flexible and adaptive with respect to innovations, since market participants have incentives to change the ways that they evaluate risks as innovations are adopted.
+II.
+Market Discipline as a Complement to Supervision and Regulation Before discussing how market discipline might complement bank supervision and regulation, it is useful to discuss how market discipline works.
+It seems to operate through two channels.
+"Direct" market discipline is exerted through risk-sensitive debt instruments when a banking organization's expected cost of issuing those instruments increases substantially with an increase in its risk profile.
+For this to occur, investors must gather and collect information about the banking organization's risks and prospects, and then incorporate that information into their decisions to buy the organization's debt.
+The anticipation of higher funding costs provides an incentive for the banking organization to refrain from excessive risk-taking.
+"Indirect" market discipline is exerted through risk-sensitive debt and equity instruments when private parties, and possibly government supervisors, monitor secondary market prices of those instruments in order to help determine the risk exposure (or default probability) of a banking organization.
+In response to perceived increases in bank risk, such parties could then take a variety of actions that increase bank operating costs.
+For example, purchasers of bank claims could increase the bank's cost of funds and limit its supply of credit, and both private counterparties and supervisors could reduce the bank's ability to engage in certain types of contracts.
+The anticipation of these actions, which are essentially various types of penalties, provides banking organizations with incentives to refrain from excessive risk-taking.
+Market discipline does not come naturally to banking.
+The federal safety net limits direct market discipline because it reduces the demand for disclosure and the risk-sensitivity of debt holders.
+Clearly, insured depositors have almost no incentive to penalize banks for excessive risk-taking.
+And, uninsured depositors, because of depositor preference laws, may also perceive relatively little need to impose higher costs on banks for excessive risk-taking.
+Given these incentives, secondary market rates and spreads on these debt instruments would be inadequate--if not irrelevant--barometers of a bank's risks and would therefore generate little indirect market discipline.
+Further, the real and perceived certification of soundness provided by supervisory authorities may also reduce the demand for disclosures and the risk-sensitivity of debt holders.
+Compounding these disincentives for investors to evaluate bank risks, the raison d'etre of banks is that these institutions provide credit in environments characterized by asymmetric information.
+Therefore, banks are inherently opaque and difficult to assess.
+Nevertheless, there seems to be fairly strong statistical and anecdotal evidence supporting the view that both direct and indirect market discipline currently are exerted on large banking organizations.
+With respect to direct market discipline, econometric studies of the relationship between deposit growth and portfolio risk have generally found that uninsured depositor holdings decline with increases in the depository institution's risk.
+And, other econometric studies have found that rates on uninsured certificates of deposit are sensitive to measures of risk.
+Supervisory experience is consistent with both of these observations.
+Other types of bank liabilities also appear to be sensitive to risk.
+For example, during periods of financial stress, riskier banking organizations tend voluntarily not to issue subordinated debt.
+This is precisely what would be expected if the subordinated debt market imposed risk premiums on banking organizations.
+Above and beyond this implication that issuance costs are risk sensitive, this empirical evidence suggests that direct market discipline is substantial enough in the subordinated debt market to affect actual decisions made by banking organizations.
+The evidence with respect to indirect market discipline is also encouraging.
+Studies that have considered recent secondary market spreads on subordinated debt have found them to be statistically sensitive to various measures of risk.
+Importantly, while risk-sensitivity of subordinated debt spreads is necessary for market participants to exert indirect market discipline on banking organizations, it is not sufficient.
+Market participants outside of the subordinated debt market also must monitor these spreads to assess the condition of the banking organization.
+Indeed, market participants confirm that the "Street," not just the bond market, appears to pay considerable attention to such spreads.
+On balance, the empirical evidence together with anecdotal evidence from the market indicates that secondary market subordinated debt spreads are generating indirect market discipline on banking organizations.
+While market discipline is currently exerted directly and indirectly on large U.S. banking organizations, the strength of this discipline could be enhanced by policymakers in a number of promising ways.
+For example, a policy improving disclosures of bank risk exposures and internal capital assessments could potentially improve the market's ability to assess risks.
+Another option is for supervisory policy to enhance indirect market discipline by linking supervisory actions to secondary market information.
+For example, secondary market information could be used to help time bank examinations, to possibly limit bank activities, or to potentially raise bank capital requirements.
+In this way, market discipline might strengthen bank supervision.
+While the evidence is not yet clear whether secondary market indicators provide information that the supervisor does not yet have, at worst such indicators could confirm supervisory views or could prompt supervisors to reassess their appraisals of banks.
+III.
+Using Subordinated Debt To Enhance Market Discipline A promising approach to enhance market discipline, which has received considerable renewed attention of late, is to adopt a subordinated debt policy.
+There are a number of features of subordinated debt that make it particularly attractive for providing increased market discipline.
+First of all, subordinated debt is the most junior of all bank liabilities.
+Therefore, these bondholders are the least likely to be bailed out in the event of bank failure, and the most likely to demand disclosures of a bank's condition.
+Second, subordinated debt holders do not partake in the upside gains associated with risk-taking.
+Hence, at least in principle, the issuance and secondary market spreads on subordinated debt should be particularly sensitive to banking organization risk.
+In contrast, since equity holders may also benefit from the upside gains associated with risk-taking, equity issuance may provide inadequate direct market discipline, and the signals of bank risk derived from secondary market prices may be blurred and difficult to interpret.
+In addition, subordinated debt has a relatively long maturity.
+This feature magnifies the risk-sensitivity of the debt and reduces the probability of a "silent run" on the bank occurring when the debt becomes due.
+Subordinated debt issued in place of insured deposits also provides an extra "cushion" for the deposit insurance fund in the event of bank failure.
+Subordinated debt is also attractive from a market discipline perspective because there exists a well-established, deep, and fairly liquid market for such instruments.
+Market participants claim that bond issues of $150 million or more are traded in liquid markets -- a requirement satisfied by very large bank holding companies and a much smaller number of very large banks.
+The standardization of publicly traded subordinated debt of banking organizations is also striking and desirable from a market discipline perspective.
+The majority of U.S. bank or (more commonly) holding company subordinated debt instruments being issued today are fixed-rate, noncallable, 10-year maturity bonds with few bells and whistles.
+These two features of the market, liquidity and standardization, facilitate the comparison by market participants of secondary market subordinated debt spreads.
+The finding in recent empirical research that spreads are sensitive to banking organization risks further supports the depth of the secondary market.
+Not surprisingly, market participants claim routinely to monitor such spreads for various peer groups, which is consistent with the imposition of indirect market discipline on these banking organizations, and some of this discipline is no doubt passed through to banks, particularly if the bank makes up a sizable fraction of the bank holding company.
+A.
+Existing Proposals Based on the appealing characteristics of subordinated debt, many observers have called for requiring banking organizations to issue subordinated debt and some have also called for frequent issuance of such debt.
+Requiring banking organizations to issue subordinated debt frequently would force them to issue risk-sensitive debt, rather than insured deposits, when the bank's risk has increased.
+Without such a requirement, there is empirical evidence that risky banks tend to shift their funding sources toward insured deposits and away from risk-sensitive securities.
+This evidence provides important motivation for a policy that would require a banking organization to regularly issue subordinated debt.
+In short, mandatory and regular subordinated debt issuance would weaken a banking organization's ability to shield itself from direct market discipline.
+Existing proposals for mandatory subordinated debt typically share three common elements: first, that organizations be required to issue subordinated debt; second, that the subordinated debt be held by independent third parties; and three, that the bank have total subordinated debt outstanding in excess of 2 percent of its risk-weighted assets.
+There are, however, a number of other practical issues that have to be considered in designing an operational mandatory subordinated debt policy and many of these involve important tradeoffs that have to be weighed in deciding how to proceed.
+B.
+Practical considerations and details of a mandatory subordinated debt proposal 1.
+Only large banks?
+Some proposals would only require large banks to issue subordinated debt.
+This approach is consistent with a theme I have been emphasizing, the importance of differentiation in regulatory standards and supervisory practice between the largest, most complex and internationally active banks and all others.
+As we begin to think of reform of the capital standards, for example, I expect we will move to a bifurcated approach in the United States, applying the revised Basel Accord only to large, complex, and internationally active banks and designing a simpler, less burdensome approach for the overwhelming majority of U.S. banks.
+In our supervisory program, the Federal Reserve is already focusing increased attention on a small number of large, complex domestic and foreign-owned banking organizations.
+It is sensible that any effort to enhance market discipline should also be focused on those banks.
+Several arguments can be advanced that suggest that a policy focused on large banks would get the most bang for the regulatory buck.
+Such banks hold the most significant systemic risk potential, and most of the banking system's assets are in such organizations.
+These are the institutions that have become larger, more varied in their services and practices, and are more complex and, as a result, are more difficult to supervise.
+It is also the case that subordinated debt issues of the largest banks are more likely to be large enough to ensure a liquid market for the instrument.
+Finally, large banking organizations are already voluntarily issuing a significant amount of subordinated debt, so that a mandatory policy could be introduced with minimal transition costs.
+2.
+Bank or bank holding company?
+Interestingly, the top fifty U.S. insured commercial banks on average already finance in excess of 2 percent of their risk weighted assets with subordinated debt.
+Thus, many large banks already issue subordinated debt in the amounts stipulated in many of the existing subordinated debt proposals.
+This is not to say, however, that a 2 percent subordinated debt requirement would have no bite.
+Currently, most bank subordinated debt is held by the parent holding company and hence is not traded.
+Thus requiring a bank to issue tradable debt would likely increase both direct and indirect discipline.
+Moreover, in the absence of such a requirement, risky banking organizations could shift into risk-insensitive deposits and, in effect, avoid market discipline.
+With the requirement, this option would be closed and riskier banks would have higher funding costs.
+Most of the largest bank holding companies already have 2 percent or more of their risk-weighted assets in subordinated debt, and, in this case, the debt is publicly traded.
+While such debt issue is voluntary, these organizations typically come to the market to issue subordinated debt at least once or twice a year.
+Most subordinated debt proposals focus on banks, however, and there are strong public policy reasons for doing so.
+Insured commercial banks have direct access to the federal safety net, and thus, banks are where the dangers of moral hazard and the consequent risks to the taxpayer are concentrated.
+The commercial bank is the primary concern of supervision and regulation, and where the supervisors most need the market's help.
+It follows that a subordinated debt policy should be focused on banks and not on their parent or affiliate organizations.
+In addition, subordinated debt issued at the bank level can provide increased protection for the deposit insurance fund.
+And, a policy focused on banks would reinforce the regulatory philosophy that the safety net and associated policies are limited to just commercial banks.
+3.
+How frequently should debt issuance be required?
+In the design of a subordinated debt policy, one also needs to analyze what frequency of issuance would be required.
+On the one hand, frequent issuance could improve the quality of the signals provided by spreads of subordinated debt in the secondary market, because the issuance process generally involves increased disclosure.
+This boost in the information content of secondary prices may be particularly important during periods of financial stress.
+More generally, frequent renewal of the information content of secondary prices may be highly beneficial as financial and technological innovations allow banking organizations to change their financial condition rapidly.
+Frequent issuance may also result in lower spreads as the market's familiarity with the issuers increases.
+This would, of course, reduce the cost of a subordinated debt requirement.
+On the other hand, a lower required frequency of issuance may allow banks to signal their financial condition through their timing of issuance.
+Flexibility with respect to issuance may also allow banks to avoid the unnecessary cost of issuing subordinated debt during periods in which the bond market is turbulent.
+On balance, a mandated frequency of once or twice a year would seem reasonable, and would be in line with current practice for larger banking organizations.
+4.
+Should subordinated debt with standardized characteristics be required?
+There are also tradeoffs associated with requiring banking organizations to issue a standardized debt instrument with the same maturity, option characteristics, and covenants.
+The benefit of standardized debt is fairly obvious.
+It makes it easier for market participants to decipher the signals of a banking organization's condition.
+The costs are also pretty clear.
+A standardized debt instrument could be more costly for some banks to issue than for others because bank capital structures differ across organizations.
+And, a standardized debt instrument may be very costly during certain market conditions.
+For example, in periods of actual or expected interest rate volatility, spreads on debt without put options may be relatively high.
+I would expect that the benefits of standardization in ensuring a purer signal about the relative risk of different banking institutions would outweigh the costs associated with such a restriction.
+5.
+Should put options be required?
+Some proposals have advocated that the required subordinated debt have put options.
+These options have been suggested for two reasons.
+First, they would provide debt holders a powerful tool for increasing the cost of bank risk-taking.
+With a put option, debt holders would be able to force early repayment of debt when a bank changed its risk profile.
+Second, under some proposals, put options take the closure decision out of the hands of the regulators and place it in the hands of the debt holders.
+Not coincidentally, these proposals arose in the wake of the savings and loan crisis during which regulators were criticized for their forbearance.
+Put options may also increase indirect discipline if they trigger supervisory actions.
+As disciplinary as they may be, there are strong arguments against the inclusion of put options.
+First, the exercise of put options can be extremely Draconian, inducing liquidations and possibly premature closures.
+Second, the high correlation of risks across banks may induce a simultaneous exercise of put options, which could exacerbate or even trigger a systemic crisis.
+6.
+Should there be a cap on the rate paid at issuance for subordinated debt?
+Other proposals have advocated that a subordinated debt policy should impose maximum caps on rates or spreads over Treasuries with comparable maturities.
+The primary appeal of such an approach is that direct market discipline would be relatively strong under a rate cap.
+Banking organizations unable to issue under such a cap would be forced to lower their riskiness by shrinking their assets or by changing their asset mix.
+A cap could also be used to strengthen indirect discipline.
+A banking organization's inability to issue subordinated debt under the cap would send a "red flag" to the market.
+Alternatively, the cap could be used to trigger supervisory action in the same way that a banking organization's capital ratios currently trigger prompt corrective action.
+The downside of a cap is that it would be difficult, perhaps in practice impossible, to determine the optimal rate or spread that should serve as a cap, particularly since the optimal cap would vary with bond market and macroeconomic conditions.
+A fixed cap might harshly punish all banking organizations unnecessarily when the bond market is highly illiquid.
+A fixed cap might also be highly procyclical.
+Banking organizations would be forced to shrink, change their asset mix, or face supervisory discipline during downturns because spreads would be more likely to run into a fixed cap at such times.
+While some procyclical effects of market discipline are unavoidable, a fixed rate cap may make a market discipline policy so severely procyclical as to be undesirable from a macroeconomic perspective.
+As one considers the various features that have been recommended in the existing subordinated debt proposals, it is important to keep in mind that there are strong reasons to stay closely aligned with current market practices and conventions.
+Capitalizing on such conventions could, of course, reduce the potential costs of a subordinated debt policy.
+And, at the same time, a subordinated debt policy aligned with such conventions could be very effective.
+Given the current deep and liquid markets for subordinated debt, such a policy would likely improve the information content of secondary market debt spreads.
+These spreads would facilitate an increase in indirect market discipline.
+C. Questions about the value of a subordinated debt requirement It is important to recognize that the costs and benefits of a subordinated debt policy - even one tailored to current market conventions - would vary over time.
+1.
+Subordinated debt in times of stress.
+A mandatory subordinated debt requirement would likely be most costly to banking organizations when either the markets are under stress, the economy is deteriorating, or the bank itself is in financial difficulty.
+During these periods, the cost of issuing risk-sensitive securities would likely increase, and, at such times, forced issuance of subordinated debt would be particularly costly.
+I believe proposals that increase market discipline inevitably risk aggravating instability in times of overall stress.
+Eliminating deposit insurance, for example, would have the same qualitative outcome.
+The key in designing approaches to enhance market discipline is therefore to ensure a favorable tradeoff--sufficiently better controlled risk-taking in good times and bad times relative to somewhat aggravated risks during periods of overall stress.
+Subordinated debt, with its relatively long maturities and therefore limited ability to "run," appears to offer such a favorable tradeoff.
+2.
+The cost of reduced funding flexibility.
+Another major cost of a subordinated debt proposal would be the reduced flexibility in financing, resulting in a somewhat higher cost of financing than would otherwise be available.
+These higher costs may also vary with business conditions, market conditions, and banking conditions.
+One of the ironies of a subordinated debt proposal is that it suggests that additional regulation is required to induce additional market discipline.
+Regulations are never costless, so we must, therefore, ask what additional costs might be imposed as a consequence of the mandate.
+Of course, to the extent that the proposal follows existing market conventions - in terms of the amount, frequency, etc.
+- the incremental costs are limited, though, of course, so are the benefits.
+It is therefore important to be satisfied that the benefits outweigh the costs.
+IV.
+More Research Is Important A subordinated debt proposal is, in my judgment, promising and intriguing.
+Still, there remain questions to be answered.
+To move in the direction of answers, the Federal Reserve is working to improve the data it has available on the market price of subordinated debt issued by banks and bank holding companies, as well as other market data that could be useful in signaling changes in the risk profiles of banking organizations.
+We will be evaluating the degree to which prices of market instruments track the changing risk profiles of banking organizations, assessing the usefulness of such market signals in the surveillance of the financial conditions of large, complex banking organizations, and evaluating the potential usefulness of such data in the supervisory process.
+We believe that before we seriously consider imposing a mandate related to subordinated debt, we should carefully study how the existing market functions and the degree to which current practices may already be fulfilling many of the objectives of a mandatory system.
+In addition, we will be focusing increased research effort on topics related to market discipline in general and subordinated debt in particular.
+We must get a reasonable estimate of how much additional market discipline would be imposed by forced issuance of risk-sensitive debt.
+How much more effective would subordinated debt holders be than uninsured deposit holders when they raise funding costs for a risky bank?
+Does the strength of penalties associated with bank debt issuance vary systematically across bank liabilities or with the business cycle?
+This research may also help us understand how to strike a balance between supervision, regulation, and market discipline in order to most effectively achieve the safety and soundness of our financial system.
+V. Conclusion I hope my review of the difficulties and challenges associated with developing an operationally feasible market discipline policy has not been disheartening.
+Such has not been my intention.
+Rather, I have sought to realistically review the practical issues and tradeoffs that need to be resolved.

@@ -1,0 +1,123 @@
+By helping to restore confidence in the banking system, the program was an important step toward quelling the crisis.
+Beyond that, however, our experience during the stress assessments also contributed to the development of tools and approaches that will inform our supervisory process as we work to reduce the likelihood of future financial crises.
+My remarks today will look back at the assessment program and its effects, then look forward to how our experience with the program and with the crisis in general is influencing the practice of banking supervision.
+I'll also make a few comments on how the Federal Reserve is working to restore the flow of bank credit to creditworthy borrowers.
+Objectives and Design of the Supervisory Capital Assessment Program In February 2009, against a backdrop of severe strains in the financial system and a sharply contracting economy, the Federal Reserve, in coordination with the other U.S. banking agencies, launched a simultaneous and comprehensive test of the health of the largest banking organizations in the country.
+At that time, many steps had already been taken to help stabilize our banking system.
+The Treasury Department had injected capital into banks, the Federal Deposit Insurance Corporation had expanded guarantees for bank liabilities, and the Federal Reserve had established lending programs to provide liquidity to a range of financial institutions and markets.
+These efforts, together with similar measures abroad, had averted the imminent collapse of the global banking system in the fall of 2008.
+But confidence in banks remained tenuous in early 2009.
+In markets, this unease had driven up credit spreads on corporate bonds issued by banks, impaired banks' access to short-term funding, and depressed values of bank equities.
+Importantly, the concerns about banking institutions arose not only because market participants expected steep losses on banking assets, but also because the range of uncertainty surrounding estimated loss rates, and thus future earnings, was exceptionally wide.
+The stress assessment was designed both to ensure that banks would have enough capital in the face of potentially large losses and to reduce the uncertainty about potential losses and earnings prospects.
+To achieve these objectives, for each banking organization included in the SCAP, supervisors estimated potential losses for each major category of assets, as well as revenue expectations, under a worse-than-expected macroeconomic scenario for 2009 and 2010.
+Importantly, the SCAP was not a solvency test; rather, the exercise was intended to determine whether the tested firms would have sufficient capital remaining to continue lending if their losses were larger than expected.
+The assessment included all domestic bank holding companies with at least $100 billion in assets at the end of 2008--19 firms collectively representing about two-thirds of U.S. banking assets.
+The SCAP represented an extraordinary effort on the part of Federal Reserve staff and the staff of the other banking agencies.
+In a relatively short time, the supervisors had to gather and evaluate an enormous amount of information.
+Extensive back-and-forth with the banks was necessary to ensure that the information provided was comparable and complete.
+Moreover, to achieve the greatest possible consistency of results across institutions, supervisors supplemented judgmental assessments by banks and examiners with objective, model-based estimates for losses and revenues that could be applied across firms.
+By statistically analyzing the relationship of loss estimates to portfolio characteristics, for example, supervisors were able to estimate potential losses for each firm, which could then be compared to independent examiner judgments and the firms' own estimates.
+The assessment found that if the economy were to track the specified "more adverse" scenario, losses at the 19 firms during 2009 and 2010 could total about $600 billion.
+After taking account of potential resources to absorb those losses and capital that had already been raised or was contractually committed, and after establishing the size of capital buffers for the end of the two-year horizon that we believed would support stability and continued lending, we determined that 10 of the 19 institutions would collectively need to raise an additional $75 billion in common equity.
+Firms were asked to raise the capital within six months, by November 2009.
+Importantly, we publicly released our comprehensive assessments of each of the firms' estimated losses and capital needs under the more-adverse scenario.
+Our objective in releasing the information was to encourage private investment in these institutions, and thus bolster their lending capacity.
+If private sources of capital turned out not to be forthcoming, however, U.S. government capital would be available.
+Effect of the Stress Assessment on Confidence in the Banking System Early last year, when the stress assessment was getting started, some observers had warned that the assessment and, in particular, the public disclosure of the results might backfire.
+As it turned out, we now can see that the assessment in fact met its objectives of reducing uncertainty about losses and ensuring sufficient capital in the largest banking firms, and that the public disclosure was an important reason for its success.
+The release of detailed information enhanced the credibility of the exercise by giving outside analysts the ability to assess the findings, which helped restore investor confidence in the banking system.
+In a demonstration of greater confidence, nearly all of the SCAP firms that were judged to need additional capital were able to raise that capital in the public markets through new issues or by voluntary conversions of preferred to common shares.
+And most of the 19 institutions have repaid the government capital that had been injected during the crisis.
+In all, the assessed firms have added more than $200 billion in common equity during the past year, including the $75 billion they added to meet the required SCAP capital buffer.
+Despite sizable new issuance of common equity relative to overall market capitalization, share prices for the SCAP firms have generally increased.
+Along with access to equity markets, banks' access to debt markets and interbank and short-term funding markets also improved following the evaluations.
+Importantly, the assessment program focused not just on levels of capital, but also on the composition of capital.
+Long-standing Federal Reserve policy holds that common equity should be the dominant component of Tier 1 capital because it provides permanent loss absorption capacity and increased flexibility around the timing and amount of dividends and other distributions.
+At the end of last year, nearly all of the 19 firms had substantially higher Tier 1 common measures than a year earlier; specifically, the average ratio of Tier 1 common to risk-weighted assets rose from 6.7 percent to 8.5 percent.
+Of course, we continue to monitor credit losses and earnings at the SCAP institutions and to compare those outcomes with the supervisory estimates made a year ago under the more adverse scenario.
+It is not possible to say precisely at this point whether the assessed banks are performing better or worse than estimated, as the figures we released a year ago covered the 2009-2010 period as a whole and did not try to apportion losses to specific quarters within the period.
+Moreover, at this point, the overall economy is likely to perform better than in the more adverse scenario.
+However, with those caveats, it is encouraging that, through the end of last year, the revenues of the SCAP banks have collectively reached about 60 percent of the two-year estimates under the more adverse scenario while loan losses are at only about 40 percent of estimates.
+Although the banking organizations that participated in the SCAP have significantly improved their financial positions, they continue to face challenges.
+By the same token, regional and community banks, which also play a vital role in our financial system and economy, are dealing with challenges of their own.
+The number of regional and community institutions considered weak is still increasing, and their loan losses likely will remain elevated this year.
+The most significant areas of concern are residential mortgages and commercial real estate loans.
+Also, with credit demand tepid and the economy still under stress, profitable lending opportunities have been relatively scarce for many of these banks.
+For logistical reasons--including the large number and diversity of smaller banks in the United States--we have not attempted a full-scale simultaneous stress test of these banks but instead have worked with them on an individual basis to evaluate their capital needs.
+Although the results vary considerably across institutions, prospective losses are such that many of these organizations may need additional capital over the next few years.
+Unfortunately, smaller banks generally have fewer alternatives than large banks for raising fresh capital and thus tend to rely on retained earnings for capital growth.
+Recognizing these difficulties, we will continue to work closely with smaller banks as they rebuild their financial strength.
+For example, we continue to receive numerous proposals from private equity investors to take stakes in regional and community banks, and over the past two years we have approved many of these proposals, including some that bring both new capital and management to the organization and some that provide new capital through minority investments.
+Lending to Creditworthy Borrowers A key objective of the stress assessments and our efforts with smaller institutions has been to restore confidence in the stability of our banking system, confidence that was lacking in early 2009.
+Our goal, though, was to accomplish more than stability; for example, in the SCAP, by setting reasonably ambitious capital targets, we hoped also to hasten the return to a better lending environment.
+Clearly that objective has not yet been realized, as bank lending continues to contract and terms and conditions remain tight.
+Consequently, restoring the flow of credit through the banking system remains a central objective of the Federal Reserve.
+To achieve this outcome, we have been taking measures to ensure that our supervisory actions do not inadvertently impede sound lending.
+Businesses need access to credit to maintain or expand their payrolls and make productive investments.
+And banks need to make sound loans to preserve their earnings stream, absorb credit losses, and support capital growth, as necessary.
+For this reason, we have joined with the other federal banking agencies to issue a series of policy statements to examiners: on the importance of bank lending to creditworthy borrowers, on small business lending, and on commercial real estate loan restructuring.2 We have followed up this formal guidance with training for examiners and outreach to the banking industry.
+Our message is a simple one: Institutions should strive to meet the needs of creditworthy borrowers, and the supervisory agencies should do all they can to help, not hinder, those efforts.
+We also are supporting sensible efforts to work with troubled borrowers to bring them back into good standing.
+In an effort such as this, feedback is critical.
+To help us better understand what is going on in the banks we supervise and in the communities they serve, we continue to seek many views.
+For example, Reserve Banks across the country are meeting with small business owners, community bankers and others to talk about opportunities for--and barriers to--small business lending.
+We are also developing a number of sources of information to help us evaluate whether banks are achieving the right balance between sound lending and necessary prudence.
+For example, examiners are collecting information on banks' workout practices and loan restructurings, which will act as a baseline for assessing the effectiveness of supervisory guidance.
+In addition, we have asked banks for more frequent and detailed information on smaller business loans, and we have added questions to our own Senior Loan Officer Opinion Survey on Bank Lending Practices to assess changes in lending to small businesses, augmenting questions already in the survey.
+We also helped the National Federation of Independent Business (NFIB) develop a special survey of small business owners on their access to credit.
+Consistent with anecdotes and with our discussions with banks and businesses, the survey results confirm that financing conditions are difficult for small businesses and that declining real estate values are contributing to the difficulties.
+Although bank credit remains tight, I see some reasons for optimism.
+Economic activity has continued to strengthen.
+And senior loan officers tell us that, at least outside of commercial real estate, they anticipate a modest reduction in their troubled loans over the coming year.
+As a result, bank attitudes toward lending may be shifting.
+In the Senior Loan Officer Opinion Survey conducted in April, most banks reported unchanged lending standards over the previous three months.
+For the first time since the crisis began in the summer of 2007, banks reported no net tightening of lending standards for small businesses.3 Lessons for Future Supervision and Regulation Although the financial crisis has eased, we must persevere in efforts to respond to the lessons the crisis has taught.
+The Federal Reserve supports ongoing efforts in the Congress to reform financial regulation and close existing gaps in the regulatory framework.
+The new framework should include enhanced consolidated supervision of bank holding companies and similar supervision for systemically important nonbank financial firms.
+We also need a strong resolution framework that allows policymakers to wind down failing, systemically important financial institutions without a destabilizing bankruptcy and without a taxpayer bailout.
+While these legislative steps are necessary, we are not waiting to implement improvements that can be accomplished within our existing authority.
+We are toughening capital and liquidity rules in cooperation with other regulators here and around the world, and we are taking other significant steps, including issuing proposed guidance to help ensure that compensation structures at banking organizations do not encourage excessive risk-taking.
+We are also leading cooperative efforts by market participants and regulators to strengthen the infrastructure of key markets, including the market for securities repurchase agreements and the markets for credit derivatives and other over-the-counter derivative instruments.
+Informed by our experience during the crisis, we have also taken a number of steps to reorient and strengthen our supervision of the largest, most complex financial institutions.
+The financial crisis has made clear that supervisors must adopt a macroprudential, or systemically oriented, approach that addresses both safety and soundness risks at individual institutions and risks to the stability of the financial system as a whole.
+A systemic approach to regulation, which of necessity involves the monitoring of the interactions of a range of financial firms, markets, and instruments, requires a multidisciplinary perspective.
+The SCAP demonstrated the feasibility and benefits of employing such a perspective, and we are working to ensure that all aspects of our supervision employ it fully.
+In the SCAP, staff members covering a range of subject areas worked together to develop stress scenarios, analyze the likely effects of these scenarios on expected losses and earnings, ensure comparability across firms and supervisory agencies, and study the interactions of different types of risks facing the tested firms.
+In the same spirit, in its evolving supervisory approach, the Federal Reserve is bringing together the skills of economists, financial market specialists, payment systems experts, and others, with those of bank examiners to get the widest possible perspective on financial developments.
+The stress assessment also showed how much can be learned by explicit comparisons of the practices and risks of different firms, rather than focusing on only one firm at a time, as was often the practice in the past.
+Thus, the Federal Reserve is increasing its use of cross-firm, horizontal examinations.
+Moreover, we will be looking at all activities within a consolidated organization that can create risk to the firm and the financial system, not just those that increase risk for insured depository institutions within the larger firm.
+A quantitative surveillance mechanism for large, complex financial organizations will be an essential component of our multidisciplinary approach.
+We will use supervisory information, firm-specific data, and financial market data to identify developing strains and imbalances that may affect multiple institutions, as well as specific firms.
+As in the stress tests, our staff members will conduct forward-looking scenario analyses to gauge the potential effects of adverse changes in the operating environment on individual firms and on the system as a whole.
+This work will allow us to more effectively connect the firm-specific information and insights gained from traditional examinations and other supervisory activities with analysis of systemwide developments and emerging stresses.
+Enhanced data collection is a key component of our supervisory restructuring, particularly for our increased emphasis on systemic surveillance.
+We have initiated new efforts to better measure large institutions' counterparty credit risk and interconnectedness, sensitivity to market risk, and funding and liquidity exposures.
+These efforts will help us focus not only on risks to individual firms, but also on concentrations of risk that may arise through common exposures or sensitivity to common shocks.
+For example, we are now collecting additional data in a manner that will allow for the more timely and consistent measurement of individual bank and systemic exposures to syndicated corporate loans.
+In addition, supervisors are mining detailed data from banks' risk-management systems and aggregating, where possible, the largest exposures to other banks, nonbank financial institutions, and corporate borrowers.
+That effort can reveal banks' common exposures to individual borrowers and help assess the effect of a failure of a large financial institution on individual banks or the system more broadly.
+Last year's stress assessment was a one-time event in the sense that circumstances may not again call for a simultaneous evaluation of institutions holding two-thirds of the banking system's assets.
+But we are incorporating elements of the assessment into our ongoing supervision of capital adequacy.
+We are developing and refining the tools necessary to better gauge appropriate capital buffers for our largest firms.
+As a follow-on effort to last year's stress assessment, we are now conducting a horizontal examination to evaluate whether these banks can effectively estimate their capital needs and identify resources to meet those needs.
+Bankers need to conduct their own stress tests as well.
+Two years ago at this conference, before the SCAP had been conceived, I discussed, among other topics, the emphasis placed on stress testing by the international Senior Supervisors Group.4 I noted then that stress tests are a good way to augment models and other standard quantitative techniques for risk management.
+And they force bankers to think through the implications of scenarios that may seem relatively unlikely but could pose serious risks if those scenarios materialized.
+Stress tests must be an integral part of firms' processes for ensuring their capital is adequate.
+Importantly, to conduct effective stress tests, banks need to have systems that can quickly and accurately assess their risks under alternative scenarios.
+During the SCAP, we found considerable differences last year across firms in their ability to do that.
+It is essential that every complex firm be able to evaluate its firmwide exposures in a timely way.
+One of the benefits of the stress testing methodology is that it provides a check on the quality of firms' information systems.
+As I discussed, one reason for the success of the stress tests was the public disclosure of the results.
+We are evaluating the lessons of the experience for our disclosure policies.
+The traditional supervisory view has been that confidentiality enhances the willingness of institutions to cooperate with supervisors and reduces the risk that a limited set of adverse findings might be over-interpreted by market participants.
+Nevertheless, in proper context, more information about the status of both individual banks and of the banking system as a whole should be confidence-enhancing.
+We will continue to examine options for increasing the information that supervisors make public.
+Conclusion Last year's stress assessment was a watershed event--unprecedented in scale and scope, as well as in the range of information we made public on the projected losses and capital resources of the tested firms.
+We are gratified that market participants and private analysts viewed the exercise as credible.
+It helped restore confidence in the banking system and broader financial system, thereby contributing to the economy's recovery.
+Now we are working with banks to ensure they improve their risk-measurement and risk-management as well as strengthen their liquidity and capital levels while also providing the credit that households and businesses need.
+We expect senior managers and boards of directors to take an active and direct role in these efforts.
+Additionally, we are incorporating key lessons from the financial crisis and the stress assessment into our day-to-day supervisory processes.

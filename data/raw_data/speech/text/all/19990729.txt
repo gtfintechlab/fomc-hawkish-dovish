@@ -1,0 +1,103 @@
+So I applaud the Research Program in Social and Organizational Learning here at George Washington University for sponsoring this wide-ranging conference.
+Over the course of several days, this assembly has discussed important issues in many sectors of our economy.
+These Year 2000 discussions, and others like them around the nation, will help to create public awareness and understanding, which are very important building blocks in the structure of public confidence.
+I will come back to the confidence issue in a few minutes, but I will commence with a review of progress to date.
+Preparedness of the Domestic Banking Industry First I want to provide today some perspectives on the Year 2000 readiness of the U.S. banking sector.
+At the Federal Reserve, we are closely involved with preparations for the century date change in the financial sector here and around the world.
+We expect there will be glitches.
+Nothing this complex can be completely without fault.
+However, I want to confirm at the outset that the Federal Reserve is ready for the Year 2000, and every current indication is that the domestic banking system also is, for all practical purposes, ready for a smooth transition.
+Much of my emerging confidence results from the fact that the Federal Reserve System is fully prepared for the Year 2000; 100 percent of the Federal Reserve's mission-critical systems are ready.
+At the Federal Reserve Board and the 12 District Banks, we are using today the automated systems that we will use in the Year 2000.
+In fact, we have been testing these systems for more than a year with banks and thrifts that are linked to us around the country for payments and related functions.
+These tests have gone extremely well.
+This is significant because the Federal Reserve Banks operate the hub of the nation's payments system, providing depository institutions with essential services in cash, checks, and electronic payments.
+Thus, because of the Federal Reserve's readiness, Americans can have confidence that the nation's basic payments infrastructure is sound and ready to process payments as usual before and after the century date change.
+Another fact that gives me confidence in the domestic financial sector's preparations for the century date change is that almost all of the nation's banks, thrift institutions, and credit unions are ready for Year 2000.
+The Federal Deposit Insurance Corporation (FDIC) reported last month that 98.3 percent of insured institutions were ready.
+These good evaluations reflect years of diligent work by thousands of large and small institutions alike to meet rather aggressive deadlines for mission critical systems set by the regulators.
+As you may know, banks were required to meet certain milestones for identifying, renovating, implementing, and testing their mission critical automated systems to ensure that their customers would receive the quality and timeliness of service they expect after the century date change.
+The small handful of institutions that have not yet met the regulatory milestones are, I assure you, receiving the full attention of the regulators.
+Combined with the readiness of the Federal Reserve to support the nation's payments infrastructure, the readiness of commercial banks means that we can expect that the processing systems that support all methods of payment--ATM cards, debit cards, credit cards, direct deposit and other electronic payments, checks, and even cash--will work smoothly around the date change.
+The readiness of the Federal Reserve and the extensive preparations in the banking system do not, however, guarantee perfection.
+No one can say that there will be no problems in the banking system when the century date rolls over.
+As we are all aware, processing and other failures do occur in complex modern automated systems, often in ways that are rarely visible to the public.
+We fix these annoying minor faults every day and go on, and this is what we will do at the time of the century date change.
+Moreover, if isolated glitches do emerge, the Federal Reserve and depository institutions will draw on their contingency plans to get systems operating again as promptly as possible.
+At the Federal Reserve, we have extensive contingency plans, many of them already well tested during hurricanes, blizzards, and other events.
+It is important to emphasize that we believe such contingency planning to be an important element of planning and preparedness for a wide variety of possible events.
+It does not mean that we think particular problems are likely.
+In general, we encourage all banking institutions to undertake appropriate contingency planning, so they will be ready just in case there is an unexpected or unusual set of events.
+For the special circumstances of the century date change, we have developed additional wide-ranging plans to deal with contingencies of all kinds, even though we expect the banking system to operate normally.
+Let me give you some examples.
+One recent example of our contingency planning is the establishment of special liquidity arrangements for borrowing by depository institutions.
+As lender of last resort, the Federal Reserve always is ready to provide short-term loans to banks and thrifts that experience temporary liquidity needs.
+For additional liquidity, the Federal Reserve announced a plan to help healthy institutions meet credit demands late this year and in the first quarter of 2000 should they face short-term liquidity problems.
+This borrowing arrangement, by its very existence, even if it is not widely used, should provide assurance to the public and banks that the lender of last resort will be there to provide liquidity should banks need it during the rollover to 2000.
+To be prepared in case our fellow citizens choose to have a little extra cash on hand for the century rollover--it will be a long holiday weekend for many, after all-- the Federal Reserve is building an inventory of currency in our vaults.
+This inventory will be more than enough to meet any conceivable demand for cash.
+Given the high expectation that all normal payments methods will work, we do not expect that there will be any unusual demand for cash, but if there is, we will be ready to meet it.
+Just as the Federal Reserve has planned for even very remote contingencies, individual banks and thrifts also have been required to extend existing contingency plans to address new risks posed by Year 2000 and test these plans.
+These plans are meant to ensure that customers can be confident they will have access to their funds during the century date rollover period.
+For example, each institution was required to develop a liquidity plan describing how it would meet demands for cash from its customers and how it would meet the credit needs of its community.
+For some institutions, getting extra cash from the Federal Reserve or borrowing in the financial markets or from the Federal Reserve may be part of their plans.
+Having detailed the readiness and contingency planning of the Federal Reserve and the entire U.S. banking sector, I hope you can understand why I am increasingly confident that generally normal operations will prevail in this country's financial institutions during the century date change.
+International Financial Sector Developments Turning now to the international arena, I am encouraged at the progress being made this year by most foreign financial regulators and the largest financial institutions to meet the Year 2000 challenge, but I am somewhat less certain of the international preparations than I am of our domestic readiness.
+Let me emphasize that I am somewhat less certain, not fearful.
+Given the wide variety of institutions and systems around the world, and obvious difficulties in systematically collecting definitive and current information regarding Year 2000 readiness, no one can know for certain all of the international outcomes of the century date change.
+However, in my role as Chairman of the Joint Year 2000 Council, which is an international group of financial regulators representing banking, insurance, and securities regulators, as well as central bankers and payment system overseers, I have information that helps bring some of the issues into clearer focus.
+The preparation of our domestic payments links is bolstered by the fact that foreign financial services firms are generally believed to be among the best prepared in their respective countries.
+We do know that the largest, most internationally active firms are making good progress toward preparedness.
+They are forced to do so in order to remain viable in their home markets and globally.
+I also know that awareness among financial regulators is high.
+The Joint Year 2000 Council has held meetings in all regions of the globe.
+These regional meetings have been attended by regulators from over 100 countries.
+Similarly, the United Nations hosted a meeting for Year 2000 Coordinators in June, which was attended by representatives of more than 170 countries.
+These public sector efforts are mirrored by regional meetings held by leading members of the private sector.
+Surveys of international financial regulators, as well as my own conversations with many of them, also have demonstrated that a recognition of the problem increasingly has been translated into concrete plans and actions, many of which have gathered momentum in the last six months.
+Another positive perspective flows from the large and very successful test of domestic and cross-border payments systems last month.
+In this test using a simulated Year 2000 environment, more than 500 financial market participants from 19 countries were able to complete transactions in 34 national and international payment systems.
+The test included sending and receiving payment instructions, and payment settlements.
+There were virtually no errors, and the few problems discovered were remedied quickly.
+That cross-border test is one example of a broader development.
+We are getting increasingly positive information regarding the preparedness of core financial systems overseas, importantly including payment and settlement systems, that could, if not prepared, trigger difficulties in the world's financial operations.
+These systems have generally implemented extensive internal testing and most are testing with participants, as well.
+The large test last month does seem to confirm that Year 2000 readiness has improved in many of the more important financial sectors around the world.
+Avoiding Complacency We should not let these recent successes lead to complacency, either domestically or internationally.
+Domestically, institutions should continue to make preparations for the rollover period through event management and contingency planning, and in a very few cases by further remediation work.
+Most importantly, this should include maintaining an active effort to keep customers appropriately informed.
+Because of the important role of public confidence in sustaining financial stability during an event such as the Year 2000 rollover, in which there are inevitable uncertainties, persistent and effective public communication is essential.
+Full and fact-based information will certainly help individuals maintain perspective and encourage them to avoid taking needless risks.
+On the other hand, incomplete information or misunderstanding may cause some to take risks such as shifting deposits from banks, or withdrawing large sums of cash, or even making unreasoned decisions about other assets they hold.
+Without solid perspective about Year 2000 preparations, others may fall victim to Year 2000-related frauds or be asked to buy Year 2000 products and services of questionable value.
+Similarly, there is still work to be done internationally.
+First, while the financial sector worldwide is considered to be ahead of most other sectors, it is generally thought that the United States still leads most other countries in the degree of preparedness, although some are as advanced as we are.
+For example, testing programs and in some cases further remediation efforts still need to be made in some countries, although these activities are obviously quite advanced in our major trading partners and the other major industrialized economies.
+Second, all countries should hold themselves to the highest standard of self-disclosure, so that financial markets can make fully informed decisions.
+This need for disclosure includes industrial countries, as well as developing countries.
+Similarly, financial market participants need to seek full information on international preparedness, and make reasonable, calm, and considered--not hasty--trade-offs between risk and reward.
+Now that it seems as though the developed world is generally well positioned in dealing with the Year 2000 problem, the focus has shifted to the "emerging market countries."
+This group is described by some to be at the greatest risk of failure due to technical difficulties.
+My concern is that "emerging market countries" is too broad a group of nations, numbering well over 100.
+It is important that emerging and newly industrialized economies making good progress toward preparedness, and there are many, disclose that as clearly as possible.
+Market participants should look for and make those disclosures part of their decisionmaking.
+Those "emerging market economies" that are not making satisfactory progress should disclose their status and seek assistance as they work to remediate mission-critical systems and engage in contingency planning.
+In particular, financial institution preparedness can be hampered by a lack of preparedness in critical infrastructure--telecommunications, power, and water.
+This cannot be taken for granted.
+I would, however, note that many of the countries that may be the farthest behind are also those that are least dependent upon technology.
+Similarly, many of these countries have the fewest links to the international financial markets, and their performance during the century date change is least likely to have a significant cross-border impact.
+Finally, good contingency planning, including manual work-arounds may avoid serious problems.
+Ultimately, however, systems will have to be fixed or replaced, whether before the century date change or after, and the sooner the process is started, the better.
+Conclusion To sum up, I believe that the U.S. banking system is largely ready for the Year 2000 and that major foreign financial institutions generally are working diligently to be ready as well by January 1.
+Thus, I believe that the Year 2000 in the financial sector of the United States and many other countries is really less of a technical issue now than it was last year at this time.
+Moreover, the relevant regulators here and around the world know what needs to be done over the next five months, and are communicating with the business leaders managing the world's financial institutions.
+The progress we see in the global financial sector and the evidence from successful cross-border and domestic tests are also positive signs.
+Thus, with the technical and business elements generally making good progress, the real issue remaining for the United States and other leading countries is that of public awareness, understanding, and ultimately, public confidence.
+We should all recognize that the Year 2000 event is unique in that we all know that it will occur, but exactly what will occur is uncertain.
+In this environment, we should listen to the most reasonable and responsible sources.
+Part of maintaining public confidence is fact-based disclosure to both the public at large and to market counterparties.
+Disclosure still remains an issue for some, particularly as "emerging market economies" seek to distinguish those making good progress from those that need to increase efforts.
+Many emerging market and newly industrialized countries are making good progress.
+For some countries, technical challenges may remain, particularly for those that recognized this problem relatively recently.
+Finally, we know that there are likely to be some glitches, which I would expect to be small and of short duration.
+Similarly, I would expect any international disturbances to be limited in terms of the number of institutions and countries affected.

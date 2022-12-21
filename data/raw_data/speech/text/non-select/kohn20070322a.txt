@@ -1,0 +1,37 @@
+I am pleased to participate in the Boardâ€™s conference on credit risk and credit derivatives.
+Song Han, Matt Pritsker, and Hao Zhou have worked hard to put together a stimulating program of cutting-edge research in this area.1 Your conference focuses on improving our understanding of credit risk and credit derivatives, but I will begin my talk by taking a step back and discussing a wider range of asset markets, in which our understanding is also limited.
+Then I will examine how the research in this conference can help sharpen our focus on this broader range of asset markets.
+At the Federal Reserve, we have considerable interest in credit risk and credit derivatives.
+As these markets develop and become more complete, they facilitate risk transfer and diversification, thereby increasing the resilience of our financial system.
+With participants coming to rely more on these markets to manage risk, we have focused increasingly on their liquidity and structure.
+We have worked closely with the private sector to strengthen the clearing and settlement infrastructure and to understand how these markets will function under stress.
+But my emphasis today will be not the structure or mechanics of credit markets but rather the information contained in the prices we observe in these markets.
+We at the Federal Reserve use this information in nearly every area of our responsibility.
+For example, in our roles as bank supervisors and protectors of financial stability, we monitor the credit spreads of financial institutions as early warning signs of possible financial stress.
+In our role as monetary policy makers, we analyze information from credit-risk markets to get readings on the cost of capital to businesses and on forward-looking indicators of the health of the corporate sector that can have implications for future macroeconomic developments.
+Extracting Information from Asset Prices As a consequence, the staff at the Federal Reserve puts considerable effort into research on asset prices and into reporting the results of that research to policymakers.
+One reason we do so is to try to understand the expectations that households, businesses, and market participants have about the future.
+Expectations are critical to understanding the economy and developments in the financial system.
+Of course, we look at a great deal of data from the nonfinancial side of the economy, such as gross domestic product (GDP) growth, the unemployment rate, and changes in the prices of goods and services.
+These data certainly reflect expectations but not always in a transparent way.
+And, these data take some time to compile and so are never available in real time.
+Because financial asset prices embody expectations about the future, they also contain forward-looking information about prospective developments, and many are available continuously and instantaneously.
+We pay attention to an extensive range of asset prices, including those of Treasury securities (both nominal and real), corporate debt and equities, and derivatives.
+Although it is not easy, we use these asset prices to tease out information about expectations that help us to interpret and predict the pace of economic activity and prices.
+The price of an asset reflects the future cash flows that investors expect to receive from owning that asset.
+The price also reflects a risk premium, which is the excess expected return over the risk-free rate that investors require for holding risky assets in their portfolios.
+Each assetâ€™s risk premium depends on the assetâ€™s risk--as measured by the possible variability of its cash flows from their expected level--and on investors' risk aversion, which represents the extent of investorsâ€™ appetite for risk.
+And we try to measure and understand the elements of the risk premium, in addition to the embedded expectations.
+In equity markets, corporate earnings are the future cash flows that affect equity prices.
+Given the marketâ€™s outlook for corporate earnings--as embodied, for example, in the predictions of market analysts--we make a crude estimate of the risk premium on equities as the difference between the ratio of trend earnings to price and a real long-term Treasury yield.
+On occasion, we go further and use structural economic models to decompose the risk premium into components related to risk and to investorsâ€™ risk appetite.
+In the credit market, the relevant future cash flows are the coupons on corporate debt, less an allowance for expected losses from future defaults.
+In one exercise, we forecast future defaults with a simple regression model and estimate the credit-risk premium as the difference between corporate yields and Treasury yields that is in excess of what would be required to compensate investors for their estimates of expected credit losses.
+We also estimate a term structure of credit-risk premiums by repeating this analysis using debt that has different maturities.
+To judge what market prices of risk might be telling us, we try to understand how the resulting credit-risk premiums relate to other sources of information, such as the strength of business balance sheets, historical levels of risk premiums, and premiums observed in related markets, like that for equities.
+This approach helps us to assess the current attitudes and expectations of market participants as well as possible future movements in risk premiums under alternative scenarios.
+We look to prices in Treasury markets and in markets for interest rate options and futures to infer investorsâ€™ expected future path of monetary policy and their uncertainty about that path.
+To do so, we need to model term premiums to tease out the links between long-term interest rates and investorsâ€™ expectations of future short-term rates.
+We also compare the Treasury yield curve with the prices on Treasury inflation-protected securities to infer expected inflation, a key variable tracked by monetary policy makers.
+Although we use a variety of techniques for extracting information from asset prices, what we can learn has limits.
+First, asset prices are tough to work with.

@@ -1,0 +1,133 @@
+Occasions such as this provide those of us who work on economic policy in Washington an invaluable way to touch base and exchange ideas with business leaders around the country.
+The views that I will set forth today are my own and are not necessarily shared by other members of the Board of Governors or the Federal Open Market Committee.
+As you know, economic growth has been slow for four quarters after several years of very strong gains.
+Perhaps the most striking aspect of this slowdown has been the abrupt deceleration in business fixed investment.
+Business investment in equipment and software grew exceptionally rapidly in the latter half of the 1990s and the first half of 2000, but it moved down in the final quarter of last year and declined further in the first quarter of 2001.
+Indicators of second-quarter investment outlays have been decidedly downbeat.
+More dramatic still is the turnabout in a number of high-tech investment categories.
+Real business outlays on information-processing equipment dropped at an annual rate of almost 10 percent in the first quarter of this year after having posted increases that averaged close to 25 percent a year from 1997 through 2000.
+Within that category, real investment in computers and related equipment showed no growth in the first quarter of this year after having risen 30 percent or more in each of the seven years starting in 1994.
+Outlays for communications equipment swung from growth rates of about 25 percent in 1999 and 2000 to an annual rate of decline of more than 30 percent in the first quarter of this year.
+The cutback in business spending on high-tech equipment has led, in turn, to sharp cutbacks in output at the firms that produce such equipment.
+Many of these firms have experienced sharp declines in actual and anticipated profits, and the values of their equities have dropped.
+Business fixed investment has always been cyclical, of course.
+When the economy is speeding up, businesses typically respond by boosting their expansion plans, and the resulting increment to the desired capital stock leads to a burst of investment spending.
+Similarly, when the economy slows, plans for capital expansion are shaded down, and investment is scaled down or perhaps even postponed for a time.
+Because the stock of capital is large relative to the investment spending in any particular year, a relatively small shift in expansion plans generates a big swing in current expenditures.
+This is the accelerator effect that is commonly discussed in economics textbooks.
+However, some observers believe that what has been happening recently to business fixed investment differs in some important respects, or at least in degree, from the normal accelerator response to a slowdown in aggregate demand.
+These observers hypothesize that, for a variety of reasons, including the more subdued prospects for aggregate demand going forward, firms may be holding considerably more capital now than they would prefer.
+Reflecting this possibility is the opinion we hear that there is currently an "overhang" of capital in the economy.
+According to this view, too much was put in place too soon, and as a corollary, investment spending will need to remain subdued for a long enough time in the future to let the actual capital stock come back into line with the desired capital stock.
+In the remainder of my talk today, I wish to explore more fully this question of a capital stock overhang.
+Along the way, I will be laying out some analytical distinctions that are important to understanding exactly what we mean when we talk about an overhang of capital.
+At the same time, I will try to demonstrate why a capital overhang is so difficult to identify and estimate in practice.
+I plan to give some special attention to those high-tech industries in which the turnabout in investment spending has been the most dramatic this past year, notably telecommunications industries.
+Finally, I will have some brief comments about the implications of a capital overhang for the economy and for monetary policy.
+Measuring the Capital Goods Overhang Capital, by definition, has value because it is expected to generate income in the future.
+In view of that orientation toward the future, the value placed on capital can shift considerably as expectations change.
+Some of the same firms that might have felt comfortable with their capital stocks a year ago, or even been of the view that more capital was needed, may now view their capital as being excessive in light of the abrupt slowing in demand for their products, especially if they extrapolate the slowdown well into the future.
+Moreover, values that are placed on particular pieces of capital can change sharply as advances in technology make one form of equipment obsolete while creating an incentive for the rapid expansion of the stock of another form of equipment.
+It might seem that business executives are the people best positioned to know if capital is indeed excessive at the moment.
+However, as is often the case, reports from individual firms cover a wide range of situations.
+Reports from high-tech companies at present are notable for the frequency with which talk of excess capital appears, and we hear reports of overhangs in some other industries as well.
+Many firms, particularly in the high-tech sector, have been surprised by the slump in demand or by the entry of competitors or the introduction of new products.
+In many of these instances, capital spending plans have been shelved or delayed.
+But the anecdotal evidence does not all point in one direction.
+A recent survey from the National Association for Business Economics showed that, at least among the companies that belong to that organization, the number of firms that perceive that they are still under-invested in high-tech equipment exceeds the number that have over-invested by a considerable margin.
+How those numbers translate into dollars is uncertain, of course, but the survey does remind us that we have to be cautious about the lessons we draw from the anecdotes.
+We also have to be a little cautious about the inferences we draw from the recent sluggishness in investment.
+In particular, a downturn in investment does not, by itself, imply that firms view their capital stocks as being too large.
+The rate of change in the stock of capital reflects both the spending on new capital--that is, gross investment--and the rate at which capital is being consumed, mainly through depreciation.
+Even at rates well below those of a year ago, today's investment still likely exceeds by a significant margin the pace at which capital is depreciating.
+Thus, the stock of capital, at least for the economy as a whole, probably is still expanding at a brisk pace.
+We can say with a reasonable degree of confidence that the investment cutback of recent quarters demonstrates that businesses did not want to continue adding to their capital stocks at quite the pace that they were a while back.
+But whether the stock itself is too large is a different question and one to which the answer is less clear.
+And because the composition of the capital stock is so enormously varied, the answer will no doubt be that some forms are held greatly in excess of desired levels, some well below desired levels, and others approximately at the desired levels.
+Alternatively, one might turn to econometric modeling to estimate the magnitude of such an overhang.
+The economics profession provides us with the logic for determining whether the stock of capital is excessive, namely the difference between the desired, or target, capital stock and the actual stock.
+However, empirical models are conditioned on a number of assumptions, not only about the longer-run prospects for economic growth but also about the ways in which capital and labor interact in the productive process.
+Such calculations require that desired and target stocks be valued for widely heterogeneous types of plant and equipment, of differing vintages and in differing states of operating efficiency.
+The size of the overhang can be estimated following these methods, but the results are bounded by wide ranges of uncertainty.
+The financial markets have perhaps provided some of the strongest signals that the capital stock might have started growing too fast in recent years and that it might be excessive in some sectors.
+For example, the performance of the stock market has mirrored, in a rough way, what has happened to business fixed investment.
+The stock market boom of the late 1990s was associated with a growing optimism on the part of both firms and investors about future profit growth.
+Between 1992 and the peak in 2000, expected long-term earnings growth rates for technology firms in the S&P 500 increased from 12 percent at an annual rate to more than 22 percent .
+Similarly, expectations of long-term earnings growth for telecom service providers--widely anticipated to be beneficiaries of surging demand for Internet-related services--rose from 8 percent to 15 percent.
+Since early- to mid-2000, however, these supportive financial conditions have eroded amid concerns that Internet retailers and other "dot-coms" face severe challenges in achieving profitability.
+Technology and telecommunications stock price indexes began to slump in the spring of 2000, and financing conditions for start-ups cooled off.
+In addition, earnings-growth projections for telecom service providers began to decline around the middle of last year, as intense competition in long-distance telephony eroded profit margins for existing business lines, and the expansion in demand for advanced products such as digital subscriber lines (DSL) was less robust than had been hoped.
+With a retrenchment in capital spending under way, the drop in expectations for long-term growth began to extend to manufacturers of telecom equipment and other high-tech gear during the last few months of 2000, and conditions for many such firms have remained difficult in 2001.
+Will the Overhang Be Worked Off Quickly?
+The obvious question is: When will the stock adjustment in high-tech capital run its course, and the supply and demand for capital goods return to balance?
+This question is not answerable with certainty.
+There are reasons to be hopeful and reasons to be cautious.
+Just as firms might tend to overestimate their longer-term capital requirements when times are good, there likely is some tendency to underestimate longer-term needs when the economy is soft.
+Thus, it could well be that stocks of capital will not seem so excessive once the economy picks up.
+Moreover, as a number of observers have suggested, the fact that a capital stock overhang might be concentrated most heavily in the high-tech industries has one important silver lining.
+This advantage is that, on average, a good deal of high-tech equipment probably depreciates more rapidly than most other types of equipment.
+Consequently, with other things equal, the shorter life of some of the capital currently held in excess amounts would seem to imply that the overhang can be worked off more quickly than otherwise.
+There is much to be said for this point of view, and undoubtedly the adjustment process may progress more quickly than if the overhang were concentrated in other types of equipment or structures.
+Nonetheless, in the interest of exploring more fully the potential dynamics of high-tech capital investment, I would like to take a few minutes to examine why an overhang might take longer to work off than we might like or expect.
+And I have to emphasize here that I am focusing on some parts of the high-tech sector, not the sector as a whole, and certainly not the economy as a whole.
+One reason an overhang could persist is that some types of high-tech capital do not depreciate rapidly.
+For instance, unlike the equipment that sends signals down the optical fiber, the fiber itself probably has a useful lifetime that is reasonably long.
+Optical fiber today is not greatly different in quality from the fiber of a few years ago, and there is little physical deterioration once the fiber is in the ground.
+All this suggests that the excess capacity of total fiber could take quite some time to work off.
+And presumably other types of equipment and structures are similar in this respect to fiber.
+Second, depreciation rates are partly a reflection of economic obsolescence; that is, capital often loses value because of the expectation that it will soon be replaced by newer, more advanced equipment.
+However, the replacement decision is, to some degree, at the discretion of the firm that owns the capital.
+In the context of weaker-than-expected demand for their products, and hence weaker cash flow, businesses may decide that they prefer to hang onto their existing computer hardware, software, and communications equipment for longer than they otherwise might.
+Accordingly, it might presently be the case that high-tech equipment is not as short-lived as we think it usually is.
+Adding further to firms' willingness to hold on to their existing equipment through the current period is the apparent absence of new "killer apps," break-through technological advances in applications such as e-mail and web browsers that in the past have spurred investment in software and in complementary goods like computers and communications equipment.
+A third reason for caution in assuming that the overhang will be worked off quickly is that even if high-tech depreciation rates remain elevated, new investment could continue feeding into the capital stock because of planning lags, lengthy building times, or costly irreversibilities.
+For example, a national optical network can take years to roll out--longer than the average time to build a nonresidential structure.
+If demand falls below expectations, a firm might decide to persevere to completion of an investment project with a lengthy building time, but may be left with a capital good that is ill-suited to the conditions that prevail at the time of completion.
+Lastly, the situation of the high-tech industries is also complicated by some considerations that are difficult to capture in the normal calculations of investment and depreciation.
+One such factor is the changing market structure of the high-tech sector.
+In the mid-1990s, deregulation in the telecom industry and the rise of the Internet led to a surge of entrants into the high-tech areas.
+These startups not only generated a good deal of spending on capital goods themselves, they also forced incumbent firms to invest and innovate to keep up, even as profits were eroding.
+Survivor mentalities may have caused the competing firms to push capital outlays further than they might have otherwise, on the notion that the short-term losses recorded in stretching to expand market share could be made up later as competitors fell by the wayside.
+The creation of the long-haul fiber optic network, the part of the network that runs from city to city, provides perhaps the best illustration of the excesses that can develop as firms rush to establish their market positions.
+The creation of these networks may also indicate the complexities involved in determining the size of a capital overhang in a particular industry.
+In 1995, just three firms had significant long-haul fiber optic networks in the United States.
+By 2000, however, there were nine such firms, and by the end of this year, there will be several more.
+In some regions of the country, the numbers are larger still, with some major cities in the Midwest being served by as many as twenty long-haul firms.
+The competing long-haul firms have laid huge amounts of fiber over the past few years.
+Not only do numerous firms compete, but each firm also has the incentive to put in place more fiber than it might need in the immediate future.
+As I mentioned before, the optical fiber itself is long-lasting, and the quality of new fiber has tended to increase only slowly over time.
+Thus, with the risk of obsolescence low, investment could be targeted more toward anticipated long-run needs.
+Moreover, fiber itself is relatively cheap.
+By contrast, the vastly greater expense in building a network is the construction cost associated with laying the fiber.
+Indeed, back-of-the-envelope calculations suggest that the cost per mile of fiber is something like $170, whereas the cost of installation is more on the order of $125,000 per mile.
+In that context, it is not surprising that firms would lay excess amounts of fiber in a given trench once the ground is broken.
+In contrast to the fiber itself, the equipment that is used to transmit and receive data over the network has been subject to very rapid technological change, and the economic considerations of investing in this type of equipment are similar to those for computers and other types of capital goods that rapidly become obsolete because of the fast pace of technological change.
+Although some overhangs of the transmitting and receiving equipment may be present, the stock of such equipment has likely been tied more closely to current and near-term demand than is the case for fiber.
+Accordingly, the extent of overcapacity for this equipment is likely to be less severe.
+Moreover, two forces should operate in the direction of resolving any overhang in relatively speedy fashion--namely, that the equipment depreciates rapidly, and also that the amount of information being transmitted over the Internet is still growing very rapidly, roughly doubling each year since the start of the 1990s.
+Meanwhile, there is a shortage of what is sometimes referred to as "last mile" capacity, the component of the network that runs from a long-haul node in a particular geographic area to individual businesses and homes.
+In view of that shortage and of the excess amount of long-haul fiber, patterns of investment are shifting.
+Industry analysts expect that in 2001 more fiber will be laid by cable companies and short-haul providers than by long-haul providers, and this gap is likely to widen in coming years.
+Thus, even in the hard-pressed telecommunications industry, we are probably going to see continued rapid expansion in some types of capital, even as overhangs of capital may persist in other areas.
+Macroeconomic Implications For the economy as a whole, it seems likely that the overall stock of high-tech capital will grow rapidly over time, even if installation of some types of high-tech equipment and structures may be slowing down.
+The economic benefits of making such investments still appear to be quite persuasive in many cases.
+There is no evidence of an end to the growth in the amount of information that can be put on a computer chip.
+Computers coming on the market are getting more powerful year by year, and their prices still are falling quite rapidly.
+The pressures on firms to remain competitive should keep them from putting off investments in new, lower-cost products for very long.
+All in all, I am hopeful that we will look back on the present concerns about excess stocks of capital as only a temporary interlude in the ongoing transformation of the economy toward more and more advanced technologies.
+In terms of macroeconomic performance, the increase in the high-tech capital stock is important because of the boost it has given to the growth of structural productivity over the past few years.
+Productivity growth has benefited not only from an increase in the amount of capital per worker, especially of high-tech capital, but also from the enhanced efficiencies that have been made possible in combining labor and capital in the workplace.
+I realize, of course, that measured productivity growth has not been all that impressive in recent quarters.
+That weakness, however, almost surely is a reflection of the sluggishness of the economy, rather than a sign that structural productivity might be reverting to the slow rate of growth that was evident before the mid-1990s.
+I continue to be cautiously optimistic that the prospects for healthy gains in productivity over the longer term still are quite favorable.
+In light of the overhang in some types of capital, some have wondered whether monetary policy might be less effective in combating the current economic weakness than otherwise.
+After all, conditions in short-term money markets, by themselves, are unlikely to induce substantial further investment, for example, in the long-haul fiber network.
+However, it would be a mistake to focus on only one channel of monetary influence, such as the impact that policy might have on the demand for high-tech equipment.
+Monetary policy works on a wide variety of spending, including housing, consumption expenditures, and net exports, and the channels through which policy works range broadly across the financial markets.
+Just as in the past, an easing of policy is likely, over time, to provide impetus to growth of demand in the aggregate, even if it does not immediately lift the prospects of the hard-pressed firms in some high-tech industries.
+Nonetheless, despite our aggressive easing actions of the first half of this year, I believe that it is too early to say definitively that the current period of subpar growth has ended.
+Given the likely magnitude of the capital goods adjustment that I have just discussed, as well as other forces, I expect only a gradual pick-up in the rate of growth later this year.
+Against that background, I continue to believe that the balance of risks seems to be toward continuing weakness in the economy.
+Conclusion In sum, although it is difficult to determine how large the overhangs of capital might be at present, they seem likely to exert at least a modest amount of drag on the economy over the near term, even as growth picks up.
+Over time, though, the discrepancy between actual and desired stocks of capital will be worked off, both as actual holdings diminish through depreciation, and as target holdings increase with the revival of aggregate demand.
+The overhang does not require that we alter our basic approach to monetary policy: We still maintain the ultimate objectives of price stability and maximum sustainable employment.

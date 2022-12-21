@@ -1,0 +1,112 @@
+Thank you very much for the invitation to speak today.
+I hope that your visit here to Washington, D.C. provides you with useful information about regulatory and policy matters that affect your institutions.
+My remarks today address the latest developments on Basel II implementation in the United States.
+As most of you know, the process for developing a revised international capital accord, known as Basel II, has been a long--and some might say painful--trek for both bankers and supervisors.
+Many countries around the world are already tailoring and implementing Basel II in their jurisdictions, while the U.S. banking agencies are in the process of finalizing their rules for implementation.
+The agencies have been considering the comments received on the Basel II proposals that were issued over the past year, and real progress has been made toward developing a workable rule.
+The substantial work to date by both the banking industry and supervisors has laid the foundation for moving the implementation process along, and I am optimistic about the current forward momentum in the United States to develop and implement a final rule for Basel II.
+Implementation of Basel II in the United States is necessary in order to ensure the safe and sound operation of our banking industry and the stability of our financial system.
+Basel II would promote continued improvements in bank risk management practices and would maintain capital levels in the U.S. banking system that are appropriate and risk-sensitive.
+As I will discuss in more detail, the existing Basel I capital regime has very limited risk sensitivity and is widely known to be outdated for large, complex banking organizations.
+If we retain Basel I for these institutions, we will be leaving in place a regulatory capital regime that could undermine the safety and soundness of our largest banking organizations by widening the gap between these banks' regulatory capital requirements and their actual risk profiles.
+The Federal Reserve's role as the nation's central bank reinforces our belief in the importance of maintaining prudent and risk-sensitive capital requirements for financial institutions.
+Beyond its supervisory authority over individual banking organizations, the Federal Reserve is responsible for maintaining stable financial markets and ensuring a strong financial system.
+In this regard, the Federal Reserve has long required banking organizations to operate in a safe and sound manner, and to hold sufficient capital to protect against potential losses.
+Financial stability is enhanced when banks' regulatory capital measures adequately reflect risk, as well as when banks continually improve their risk-management practices.
+Since the Basel II regime is far superior to the current Basel I regime in aligning regulatory capital measures with risk and fostering continual improvements in risk management for our largest and most complex banking organizations, I believe it will contribute to a more resilient financial system.
+Reasons for Basel II The Federal Reserve believes very strongly that prudent and risk-sensitive regulatory capital requirements are integral to ensuring that individual banks and the financial system have an adequate cushion against losses, particularly during times of financial or economic stress.
+This strong belief is what motivated the Federal Reserve in the late 1980s to play a leading role in both negotiating the first international capital accord--Basel I--and supporting implementation of the accord in the United States.
+In light of our role in developing Basel I, let me explain why the Federal Reserve now supports moving to Basel II.
+First, although Basel I was a major step forward in capital risk sensitivity at the time, rapid and extensive evolution in the financial marketplace has substantially reduced the effectiveness of the Basel Irules for some U.S. banking organizations.
+The current Basel I regulatory capital rules are increasingly inadequate for large, internationally active banks that offer ever more complex and sophisticated products and services in an extremely competitive environment.
+The flaws of the existing Basel I rule for large, complex U.S. banks are fairly well-known.
+The simple risk-bucketing approach in the existing Basel I rule, for example, creates perverse incentives for risk-taking.
+This approach--in which (1) the same amount of regulatory capital is assessed against all unsecured corporate loans and bonds regardless of actual risk, (2) all unsecured consumer credit card exposures are treated equivalently, and (3) almost all first-lien residential mortgage exposures are deemed equally risky--provides incentives for banking organizations to shed relatively low-risk exposures and acquire relatively high-risk exposures within each of these asset classes.
+The existing Basel I rule also ignores important elements of credit-risk mitigation--such as most forms of collateral, many guarantees and credit derivatives, and the maturity and seniority of an exposure--and thus blunts bank incentives to reduce or otherwise manage risk.
+Moreover, Basel I is particularly inadequate for dealing with capital-markets transactions, such as repurchase agreements, securities borrowing and lending, margin loans, and over-the-counter (OTC) derivatives.
+For example, the existing Basel I rule only imposes capital requirements on one side of a repurchase agreement, even though counterparty credit risk is present on both sides.
+For these reasons, a large and complex bank operating under Basel I can easily and significantly increase its credit risk, without increasing its regulatory capital.
+This brings me to my second point: the advanced approaches of Basel II are designed to substantially reduce the perverse incentive effects and opportunities for regulatory capital arbitrage present in Basel I.
+In short, Basel II significantly increases the risk sensitivity of the capital rule.
+Under the advanced approaches, capital requirements for an exposure will vary on the basis of a bank's actual risk experience.
+If a bank increases the credit risk of its portfolio, its regulatory capital requirements will also increase, and vice versa.
+The enhanced risk sensitivity of Basel II will thus ensure that banks have positive incentives for lending to more creditworthy counterparties, for lending on a collateralized basis, for increasing loan seniorities, and for holding a larger capital cushion for higher-risk exposures.
+Basel II also includes sophisticated methods to address capital-markets transactions.
+Third, the Basel II regulatory capital framework has three pillars--minimum capital requirements, supervisory review of capital adequacy, and market discipline through disclosure--that build on the economic capital and other risk-management approaches of sophisticated banks and competing institutions.
+As a result, Basel II will be better able than the current system to adapt over time to innovations in banking and financial markets.
+The new framework should also establish a more coherent relationship between regulatory measures of capital adequacy and the day-to-day risk management conducted by banks.
+Finally, I would argue that one of the key benefits of the Basel II process is that it has prompted banks to make substantial progress in developing much more sophisticated risk-measurement and -management processes.
+For example, most international banks have adopted detailed rating systems for credit risk that assess both borrower and facility characteristics.
+That is, the banks assign one rating that reflects a borrower's overall creditworthiness, and another for each individual exposure that takes into account collateral, seniority, and other factors that affect how much a bank is likely to lose on that specific exposure if the borrower defaults.
+In addition, large banks are increasingly using common credit-risk measurement concepts, such as probability of default (PD), loss given default (LGD), and exposure at default (EAD).
+Together, these concepts help banks take a more granular approach to assessing the various drivers of credit risk, which in turn helps them to make more informed decisions about extending credit, mitigating risk, and determining capital needs.
+Another example of industry progress is in the measurement and management of operational risk.
+Under Basel II, banks are expected to weigh both quantitative and qualitative factors in order to assess potential future operational losses.
+As a result, Basel II has already helped the industry improve its methods for identifying and measuring risks--and for estimating the capital needed to support those risks.
+We applaud these industry efforts, and we expect the Basel II framework to provide incentives for banks to continue improving their risk measurement and management on an ongoing basis.
+These developments not only benefit individual banks, but contribute to the resilience of the financial system as a whole.
+From a safety-and-soundness perspective, I believe it is critical that the industry not lose momentum in this area and that we ensure that Basel II promotes the continued improvement of risk-management processes at the largest U.S. banks.
+U.S. Basel II and Basel IA ProposalsI would now like to turn to the Basel II proposal and the proposed set of revisions to the Basel I framework in the United States--the so-called Basel IA proposal--which I will also discuss very briefly.
+A fundamental part of the implementation process involves consideration of the comments on the Basel proposal.
+I have been deeply impressed with the thoughtful analysis reflected in those comments, and would like to thank all parties who took the time and effort to submit comments.
+Reviewing and considering comments takes time and extends the U.S. rulemaking process; nevertheless, we believe the comment process is essential.
+Quite simply, feedback from the industry and others leads to better rules.
+For something as important and far-reaching as Basel II, we understand the need to engage in a frank dialogue with the banking industry, Congress, and other relevant parties.
+Indeed, the Federal Reserve has been committed to an open interchange of ideas about the U.S. proposals since the start of the Basel II process.
+And we have found comments on our proposals to be invaluable in moving forward.
+A key theme voiced by the industry and many others is the need to have the Basel II process move forward expeditiously, and I heartily agree.
+Commenters also requested greater clarity on how the qualification for U.S. banks for Basel II would proceed and how much flexibility supervisors would apply when assessing compliance with the rules and related supervisory guidance, and I believe that such clarification is important.
+One major concern raised in the comments is that the proposals differ markedly in certain respects from the Basel Committee's revised accord, first issued in June 2004 and updated in 2005, and now commonly known as the "Mid-year Text."
+Although the U.S. proposals do diverge in a number of ways from the versions of Basel II being adopted in Europe and other industrialized countries, many of these divergences are in fact consistent with the national discretion built into the framework and used in most other countries.
+The U.S. proposals also included other divergences to adapt the international framework to the unique aspects of the U.S. banking system, to address issues raised through the earlier public comment process, and to ensure a safe and sound transition to Basel II.
+But many emphasized the need for less variance in Basel II across countries.
+Concerns about having to meet multiple versions of Basel II across countries are certainly reasonable ones, and I take these concerns quite seriously.
+I believe Basel II implementation in the United States should proceed in a manner that enhances consistency with implementation in other countries; Basel II is intended, after all, to be an international framework for internationally active banks.
+At the same time, the framework needs to accommodate robust U.S. supervisory practices and the unique aspects of our financial markets.
+I also believe that we have an obligation to retain only those divergences for which we are convinced the regulatory benefits exceed the implementation burden and costs.
+Some commenters also raised concerns about the complexity of the Basel II proposal.
+Yes, the Basel II advanced approaches are complex, but this reflects how complex our largest financial institutions have become.
+To be effective, risk-management practices have evolved in order to support the increasingly sophisticated services, business practices, and organizational structures of large, internationally active financial institutions.
+Hence, these banks already employ sophisticated risk-management practices and internal economic capital models.
+I fully support our proposal to review carefully these practices and models, among other factors, before granting the required supervisory approval for individual banks to use the advanced approaches of Basel II.
+Determining the right level of complexity for U.S. Basel II rules remains an issue.
+While many bankers support the issuance of so-called principles-based regulations, some bankers have expressed a desire for more detail on certain aspects of the Basel II proposals in order to reduce uncertainty about what will be acceptable practice and what will not.
+My view is that these are not necessarily contradictory approaches.
+That is, we should take a principles-based approach that is sufficiently clear about our expectations but that is not so detailed that supervisors become de facto managers of the bank.
+Taking a more principles-based approach means that we must allow bankers some flexibility in meeting the requirements and permit a reasonable amount of diversity of practices across banking organizations.
+Such flexibility will allow banks to use and easily improve their existing risk-measurement and -management practices.
+More to the point, we should actively encourage such improvements.
+While the improvements in risk measurement and management envisioned under Basel II will require banks to bear the cost of investing in systems and human capital, we believe these institutions would have made these investments in any event, as they seek ways to effectively manage their own increasingly complex risks.
+Another important issue to consider is the impact of potential distortions or unintended consequences created by the new framework.
+For example, if we see unreasonable declines in capital requirements at individual institutions that do not appear to be supported by either the bank's own internal capital adequacy assessments or by our supervisory view of the institution's risks and how well these risks are managed, we may seek to mitigate the impact of these declines through supervisory review and direct discussions with banks under Pillar 2--which could result in discretionary changes to capital at individual institutions.
+We must also remain mindful of areas of the proposals that could unfairly tilt either the domestic or international competitive playing field if some banks have higher or lower capital requirements for certain activities or in the aggregate.
+One particular concern is that inconsistency in Basel II implementation across countries could put internationally active U.S. banks at a disadvantage and create advantages for U.S. investment banks and foreign banks.
+Achieving broad international consistency will be a challenge, but we should all remember that this problem is not really new.
+The Federal Reserve and the other U.S. banking agencies have, for many years, worked with their international counterparts to limit the difficulties and burdens that have arisen as foreign banks have entered U.S. markets and as U.S. banks have established operations in other jurisdictions.
+We have continued this productive work with our colleagues overseas during the development and implementation of Basel II, but to most effectively tackle some of the issues that have come to our attention, we need to take the important next step of actually implementing Basel II for U.S. banking organizations.
+Once we do so, I believe that we can effectively manage the issues that arise, given our past experience with cross-border supervision.
+In addition, some concerns have been voiced that adoption of a new capital framework for the largest and most complex U.S. banking organizations could disadvantage other U.S. banking organizations, particularly the smaller banks.
+In this regard, the Basel IA proposal was designed to modernize the existing Basel I framework in the United States and improve its risk sensitivity, without making it overly burdensome or complex for banks that are comparatively smaller and less complex.
+Moreover, Basel IA would not be required; smaller banks that wish to stay on the current Basel I framework would be allowed to do so.
+We are keenly aware of the need for capital requirements to make sense from the standpoint of both safety and soundness and competitiveness; we recognize that a one-size-fits-all approach is probably not feasible in this country, in light of our wide range of institutions.
+We remain sensitive to the principle that if we have multiple regulatory capital frameworks, they must work together to improve the safety and soundness of our entire banking system without artificially creating competitive inequalities.
+I want to emphasize that, amidst all of the detailed discussions and comments surrounding Basel II, the Federal Reserve continues to believe that strong capital serves the United States' interest in maintaining the safety, soundness, and resiliency of our banking system.
+We also know that banks maintain capital above these regulatory minimums in order to capture their full risk profiles, since minimum capital requirements do not necessarily cover all risks to which a given bank may be exposed.
+Banks also hold capital above regulatory minimums to support their strategic objectives.
+They know that customers, counterparties, creditors, and investors take into account overall bank capital adequacy when making investment or other business decisions.
+In addition, banks hold excess capital to be able to respond to potential business-expansion opportunities and to be able to manage the ups and downs of market- and credit-risk cycles.
+These market-based incentives should not change under Basel II.
+Indeed, I believe that greater transparency under Pillar 3 will enhance the role of market incentives in ensuring that banks hold sufficient capital.
+By helping banks absorb unexpected losses, strong capital reduces the moral hazard associated with the federal safety net.
+A key lesson of the banking and thrift crises of the late 1980s and early 1990s is that prudent and explicit minimum regulatory capital requirements are needed to ensure that banks maintain adequate capital and to anchor an effective supervisory system.
+The Federal Reserve is strongly committed to the prompt-corrective-action (PCA) framework, which I have long supported,1 including the leverage ratio that will continue to bolster capital and complement risk-based measures.
+The PCA framework is important not only for the strong backstop it provides against declines in capital but also for the incentives it provides for banks to be considered well-capitalized, such as allowing holding companies to maintain their financial holding company status and, perhaps more importantly, meeting market expectations that banks will remain well-capitalized.
+To ensure that banks maintain strong capital ratios, the U.S. banking agencies will continue to monitor the impact of Basel II during every step of its implementation.
+We will conduct extensive analysis of regulatory capital requirements produced by the new framework, as well as analyze the inputs behind the requirements.
+In addition, under the proposals, the agencies would determine whether any adjustments to the Basel II framework would be appropriate before removing the temporary floors that will be in place for a three-year transitional period.
+The use of these floors and other transitional safeguards during the first years that Basel II is in use will help ensure that there are no sudden drops in capital levels.
+The Federal Reserve agrees with the Government Accountability Office (GAO) that (1)finalizing the U.S. Basel II rule will generate crucial information to enable the agencies to make future assessments of the strengths and weaknesses of the Basel II rule for the U.S. banking system and (2) the agencies should continue to evaluate during the transition period whether the advanced approaches of Basel II provide an appropriate regulatory capital framework for U.S. banking organizations.2 Moreover, we believe that this review should be as robust and transparent as possible, including active and meaningful dialogue among the agencies, the industry, market participants, Congress, and other interested parties.
+We seek to have strong risk-based capital ratios for large, complex banking organizations under Basel II that are substantially more meaningful, more representative of risk profiles, and more sensitive to changes in those risk profiles than they are today.
+If analysis shows that any part of this goal is not being met, we will consider ways to improve the framework.
+ConclusionThe three pillars of Basel II provide a broad and coherent framework for linking regulatory capital to risk, for improving internal risk measurement and management, and for enhancing supervisory and market discipline at large, complex, and internationally active banks.
+Indeed, we have already seen significant progress in risk measurement and management at many banks in the United States and elsewhere as a result of the Basel II development process.

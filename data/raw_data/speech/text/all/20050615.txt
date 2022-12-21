@@ -1,0 +1,111 @@
+As I thought about the conference title--"Charting a Course for the Future"--it struck me that, since one can never really know what the future will bring, charting specific paths to preconceived destinations is of limited value.
+To be sure, we make our best forecasts and base our actions on them.
+But perhaps the most important thing we can do--as managers of financial institutions, as regulators, and as monetary policymakers--is to develop systems for our actions and reactions that can accommodate the unexpected--that is, we can become better managers of risk.
+The evolution of financial markets and institutions has greatly affected the process of risk management.
+The means of managing risk have broadened dramatically, but the resulting systems could well be challenged by developments over coming years.
+I would like to take a few minutes this morning to ruminate on the changes in financial systems and their implications for risk management, the possibility that developments in our macroeconomic landscape might test these systems, and the steps you as private participants, and we as public policymakers, have been taking to raise the odds on preserving healthy financial systems and economies when the unexpected inevitably occurs.1 The Changing Financial Landscape Change in financial markets over the past decade or so has been rapid and profound.
+New computing and telecommunication technologies, along with the removal of legal and regulatory barriers to entry, have resulted in greater competition among a wider variety of institutions, in broader geographic areas, and across an expanding array of instruments.
+The result has been an increase in the efficiency with which financial markets channel funds from savers to spenders and an improvement in the ability of both savers and spenders to adjust their risk profiles.
+Among the key technological innovations are those that have enabled the development of databases critical to pricing and managing the risks of financial instruments.
+The ability to value risky assets laid the foundation for understanding the risks embedded in those assets and managing those risks on a portfolio basis.
+The evolution of financial markets has meant that more people and institutions have a greater number of alternatives for supplying or acquiring funds.
+In addition, both lenders and borrowers have a much wider range of instruments from which to choose the risk profile of their financial positions and to adjust that profile in response to changes in their own situations or in the overall financial and economic environment.
+Innovation and competition have substantially increased the role of markets relative to banks and other traditional providers of financial intermediation services.
+This has helped reduce the cost of transferring savings from anywhere around the globe into investment anywhere around the globe.
+It has also reduced the reliance of particular classes of borrowers and lenders on particular types of financial intermediaries.
+But it has also challenged you as bankers to identify the value you add to the intermediation process, and some of the new instruments and techniques we see have resulted from your attempting to exploit your comparative advantage.
+These changes have created the potential for more-robust financial markets, but in practice these shifts have not been without difficulties.
+Some significant disturbances in the past decade have challenged market participants’ and regulators’ understanding of risk and revealed weaknesses in risk-management tools and practices.
+For example, in 1997 and 1998, capital flows to a number of Asian countries were disrupted, with severe effects on their economies.
+In 1998, the global financial system was rocked by the Russian debt default and the troubles of Long-Term Capital Management and its imitators.
+Those events were followed by the worst excesses of the stock market bubble, including not only the overvaluation of many stocks, but also the lapses in corporate governance that marked that era.
+Still, for most industrialized economies the macroeconomic fallout from the sharp decline in equity prices, from the spike in risk premiums and business distress, and from the revelations of corporate wrongdoing of a few years ago has been limited; in the United States, we experienced a mild recession.
+The effects have been limited in part because the financial system has proven reasonably resilient to these developments.
+Since the fall of 1998, we have not seen the kind of widespread uncertainty about the health of major players in financial markets that has in the past tended to intensify and spread the economic effect of adverse events.
+In my view, two basic reasons account for this relatively favorable outcome.
+First, risks probably are in fact better diversified and better allocated to those who are prepared to absorb them or to those whose financial distress is less likely to have feed-through effects on the economy.
+Second, monetary policy in the United States responded very aggressively to incipient declines in activity and inflation that resulted from the emerging problems.
+My message this morning, however, is that this is not a time for complacency.
+Financial-market innovations, some of which have not yet been rigorously stress tested, along with a macroeconomic environment that, while most likely stable and constructive, contains significant uncertainty, suggest that vigilance and adaptation by both market participants and regulators will be necessary to improve the odds of sustaining this era of damped economic cycles and supporting the orderly evolution of financial markets.
+The Macroeconomic Environment Changes in financial intermediation and markets may have helped contain the transmission of shocks from the financial sector to the real economy, but the evolution of financial markets in turn probably has been facilitated by favorable economic conditions.
+Business cycles have been damped since the early 1980s, and inflation has been low and steady in the United States and many other industrial economies for some time.
+As I just noted, this pattern has persisted through the past few years despite several major shocks, from the bursting of the tech stock bubble through the terrorist attacks.
+Stable economic environments encourage innovation; indeed fostering a stable economic environment is an important way in which central banks can contribute to public welfare.
+I do not anticipate any break in the pattern of generally favorable economic performance over coming years.
+Most economic forecasts are for moderate growth and low inflation in the United States for the foreseeable future.
+To be sure, we see a range of views about just how much underlying strength the economy has, about the intensity of any inflation pressures, and about the path of interest rates that will be associated with continued growth and low inflation.
+But for the most part, that range is narrow relative to the actual fluctuations the U.S. economy experienced in the 1950s, 1960s, and 1970s.
+The fundamentals, such as growth and inflation expectations and underlying financial conditions, appear to support continued good economic outcomes.
+Moreover, the flexibility and resilience of markets for finance and for goods and services, together with monetary policy focused on maintaining price stability and high employment, should help damp the economic fallout from unexpected developments.
+However, although the most likely outcome for the overall economy is good, a number of characteristics of the current situation suggest some greater-than-usual risks around that central tendency, and, in particular, raise questions about the pattern of asset price movements that might accompany even favorable overall economic performance.
+That caution flows from the existence of some unusual imbalances in the U.S. economy today.
+We are buying far more than we produce, and the extra purchases come from importing more than we export, financed by net borrowing from abroad.
+The resulting current account deficit has risen to a record level, in excess of 6 percent of gross domestic product.
+The counterpart of the current account deficit is low savings generated here at home; in the past year, household saving out of current income fell to the unusually low level of about 1 percent.
+Several factors have contributed to the willingness of households to spend most of their income, but an important one has been the rapid and continuing rise in housing prices, which has boosted household net worth.
+That rise in turn probably reflects several influences, one of which has been low long-term interest rates.
+These imbalances and unusual asset price configurations have persisted for some time.
+The current account deficit has grown steadily since the mid-1990s; household saving rates have been on a downward trajectory for even longer; the low level of long-term interest rates and the rapid pace of house price increases have been the subject of much commentary for the past few years.
+These phenomena could well continue for some time longer, but they are not sustainable indefinitely.
+At some point, global investors will require higher expected rates of return as their portfolios become increasingly concentrated in dollar assets; house price increases will encounter resistance as they rise relative to income and rents; as housing prices level out, households will recognize that they must increase saving out of income to have adequate resources for retirement; and the Federal Reserve already has been raising short-term interest rates as demand recovers from the shocks of recent years.
+I expect that the adjustment to more-sustainable patterns of spending and production and saving will occur in an orderly manner.
+The response of asset markets to changing attitudes and appetites will induce gradual adjustments in spending.
+But as you think about your risk-management challenges over coming years, you need to keep in mind that our economy is in unexplored territory in many respects.
+Historic patterns of movements in interest rates, exchange rates, and house prices may not be very good guides to future relationships.
+Who would have anticipated that the dollar would strengthen in 2001 as the Federal Reserve eased aggressively or that long-term interest rates would fall as we gradually reduced monetary accommodation over the past year?
+Even orderly adjustments may involve new combinations of market developments.
+And the risk of rapid adjustments and unusual configurations of asset price movements is higher than normal.
+Implications for Risk Management Financial institutions and public policymakers have demonstrated an ability to respond flexibly to changing circumstances over the past several years.
+But what does this imply about their ability to adapt to the conditions that they may confront in the future?
+Financial Institutions One of the defining characteristics of financial institutions and markets of late has been a significant expansion in the tools available for managing risk.
+These tools are tested and refined over time.
+Importantly, however, they rest on past experience and our understanding of events.
+Thus, as firms look ahead, they must be cognizant of the challenges that activities or events outside our experience pose for their risk management.
+New products and new business lines, for example, are an ongoing challenge.
+Historical data may be limited or not relevant for assessing risk in newly created products.
+Such data limitations affect even standard risk-management tools such as value-at-risk analysis.
+Recognizing the need to supplement standard risk-management tools, managers also routinely estimate their exposures under so-called tail events.
+Tail events, that is, asset price movements that are much more extreme than our usual experience, often appear driven by unique and idiosyncratic circumstances, so their implications are open to question and a challenge to risk managers.
+Should they be viewed as temporary deviations from a still-valid view of the usual distributions of possible outcomes, or are they a harbinger of a more permanent shift that suggests a need for re-assessment of risk-management models and practices?
+Tail events, by their nature, also are likely to be accompanied by heightened uncertainties.
+During such periods, the reaction of other market participants may become more relevant in the assessment of one’s own risk.
+Consider the management of market liquidity risk when asset prices are moving in unusual ways.
+A firm can no longer assume that it will be able to reduce its risk quickly by adjusting positions.
+Trades may be possible mostly at smaller volumes, and large trades almost surely will have greater price effects than normally observed.
+Other firms also may be trying to liquidate the same positions, creating further demands on diminished market liquidity.
+Risk management must take into account the potential for the longer holding periods and more-severe asset price movements likely to be observed in such conditions and the possibility of concentrations of positions in some markets.
+The challenges posed by tail events are not limited to market liquidity risk.
+They have broader effects on the measurement and management of market and counterparty credit risk, too.
+Managers of market risk typically mark positions to market and compute the value of positions under different assumptions about future price changes.
+During a tail event, wider bid-offer spreads are expected, reducing the accuracy of valuations of existing positions.
+More importantly, however, the dynamics of prices during tail events for individual assets and for assets in relation to each other likely are different from those observed in normal market conditions.
+This phenomenon raises questions about typical assessments of the likelihood of future changes in values.
+Managers of counterparty credit risk face still more challenges when considering tail events.
+Counterparties may be downgraded in ordinary times, and firms are familiar with the management of this risk.
+But when contemplating more-unusual movements of asset prices, a firm must also consider the degree of correlation between default probabilities and exposures at default as well as the possibility of multiple, correlated downgrades.
+The financial landscape of the future will require institutions to continue to refine their risk-management techniques to better manage these and other challenges posed by tail events.
+As I noted earlier, we are in uncharted territory with respect to many aspects of our macroeconomic environment.
+Prudent risk managers recognize the potential for tail events and prepare for that possibility.
+Such preparations involve stress testing, that is, simulating the portfolio’s behavior during extreme yet plausible events to determine if losses are acceptable in those conditions.
+It is sometimes hard to know what types of events to use in this testing, and the choice of events will, of course, be a function of the underlying portfolio.
+That said, the current imbalances, along with the unusual asset price movements of recent years and the investor behavior and expectations they reflect, offer clues to some of the extreme but plausible events that management should be considering.
+Prudent risk management does not stop with stress testing, however.
+To be meaningful, the results of stress testing should be part of management’s ongoing planning for future contingencies.
+Policymakers Public policymakers are partners of the private sector in this process to strengthen risk management, and by extension, to strengthen the financial system.
+A critical role of the policymaker, of course, is to ensure that the plumbing, or infrastructure, of markets is sound.
+Traded instruments afford the opportunity to assume (or hedge) a growing variety of exposures and are used by a growing variety of investors.
+In such an environment, it is critically important that the mechanisms for settling trades do not introduce unwarranted risk into the system.
+The public sector has been active in developing risk-management standards for securities settlement systems.
+This has been a joint effort of central banks and securities regulators, and it has included representatives of countries with developing financial markets in addition to Group of Ten countries.
+As cross-border investing has grown, the argument for common minimum standards has become compelling.
+But standards without implementation are worthless.
+Critical components of securities settlement systems in many jurisdictions, including the United States, are governed by private-sector users.
+Realization of the benefit of full implementation of these standards requires a partnership with the private sector.
+The supervisory process, too, has shifted toward a greater focus on risk management.
+A key goal of Basel II is to better align regulatory capital requirements with risk.
+In the process, firms have been given greater incentives to invest in more-sophisticated risk-management systems.
+The Federal Reserve and other supervisors of financial institutions have embraced a more risk-focused approach in the way they deploy their own resources.
+Perhaps the most important contribution of the Federal Reserve arises in its conduct of monetary policy.
+Our responsibility is to work to maintain a stable price level and economic environment.
+Your problems would be compounded many times over by a surge in inflation and economic instability.
+In our risk-management approach to monetary policy, we attempt to reduce the odds that our nation will experience damaging macroeconomic tail events.

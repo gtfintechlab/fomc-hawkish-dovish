@@ -1,7 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"in fact, the board's analysis found that nearly 60 percent of higher-priced loans went to middle- or higher-income borrowers or neighborhoods, which are not the focus of cra activity.",LABEL_1,0.7886518239974976
-1,"additionally, about 20 percent of the higher-priced loans that were extended in low- or moderate-income areas, or to low- or moderate-income borrowers, were loans originated by lenders not covered by the cra.",LABEL_0,0.6270688772201538
-2,"our analysis found, in fact, that only 6 percent of all higher-priced loans were made by cra-covered lenders to borrowers and neighborhoods targeted by the cra.",LABEL_1,0.6659571528434753
-3,"communities with lower levels of personal and neighborhood assets, including many minority communities targeted for higher-priced subprime mortgages, have been particularly hard hit.6 as credit has tightened, less capital is available for these communities.",LABEL_0,0.9632693529129028
-4,"to make matters even more challenging, state and local governments face extraordinary budget deficits and have fewer resources to offer these communities.",LABEL_0,0.9991104006767273
-5,"access to credit in lower-income areas has been less of a problem in recent years than has been access to loan products that were fairly priced, well-underwritten by lenders, and well-understood by consumers.",LABEL_0,0.8601219058036804

@@ -1,0 +1,126 @@
+The last few years have seen an explosion in the uses of information technology throughout the American economy.
+At the same time, trend U.S. productivity growth appears to have risen to its highest rate since the 1970s.
+Casual empiricism would suggest a connection-- that the enormous investment in computer technology that has been going on for at least twenty years has finally started to bear fruit.
+But although information technology is available, at least in theory, to the whole world, the recent surge in productivity growth appears to have been stronger in the United States than elsewhere, including the other industrialized countries.
+This raises the interesting questions of what else besides simple availability is needed to translate the promise of information technology into real productivity gains, and whether--whatever it is--the United States has more of it?
+These questions are impossible to answer with precision, so the purpose of my talk this afternoon is to identify particular features of the American economy that might contribute to an especially hospitable climate for translating the potential gains from information technology into actual productivity growth.
+I also want to be careful not to suggest that gains from the use of information technology can safely be assumed to go on indefinitely at their recent pace.
+The recent technical advances represent a continuation of a long string of fundamental leaps in technology that have worked their way through the economic system over many years, boosting productivity growth in the process, but how long a particular innovation has a beneficial effect on productivity growth is difficult to say.
+That depends on the rate of investment in the equipment that embodies the new technology, the rate at which the labor force is able to acquire needed skills, and, of course, on the fundamental potential of the technology itself.
+History demonstrates that the boost to productivity growth from a particular technological advance is not unlimited and eventually will be fully exploited.
+Just as "trees do not grow to the sky," so, too, increases in the rate of productivity growth from any given advance are not without limits.
+One should be cautious in extrapolating from past trends.
+What We Do Know What we do know is that the use of information technology, at least in the United States, has been growing by leaps and bounds.
+For example, personal and business Internet sites have proliferated at an astounding rate, and a wide variety of tasks that used to require person-to-person contact, such as making airline and other travel reservations and choosing and ordering merchandise, can now be done via the Web.
+Search engines have cut the time needed to track down a person or an item to a fraction of amount previously required, clearly raising productivity.
+Improved communication and information flow are only part of the story; increases in computing power also allow workers to complete a variety of tasks more quickly.
+Although it sometimes feels as if these changes are taking place at lightning speed, most of us know that this is partly an illusion.
+Much of the basic technology has been around for decades.
+In fact, as productivity growth slowed in the 1970s and continued to languish in the 1980s, many observers wondered whether the supposed benefits of cheaper and more powerful computers would ever be realized.
+This highlights an important facet of the innovation process: The benefits of a new technology are in no sense automatically conferred on the economy but will show up only after the technology is widely adopted, capital facilities are refitted and adapted to it, and workers learn to use it.
+For instance, Paul David, a Stanford University economist, notes that electric motors did not boost productivity growth appreciably until more than forty years after Edison installed the first dynamo in 1881.
+Though a new technology typically will not be fully incorporated overnight, the speed of its adoption can be faster or slower depending on the institutional and other features of the economy.
+For information technology, the process of incorporation appears to be taking place at a considerably faster rate in the United States than in other parts of the industrialized world.
+For example, there are more than 23 million Internet hosts in the United States--roughly one for every 11 people.
+Canada is second among the major industrial economies with 1.6 million, one for every 19 people.
+In contrast, the ratios are about 1 to 128 people in France, and 1 to 174 people in Italy.
+These statistics suggest that technology is being used more widely in the United States, but is its use paying off?
+The answer appears to be "Yes."
+One pertinent piece of evidence is a recent study of costs of managing cash flow in American versus European firms.
+The study showed European costs to be roughly 30 percent above those of U.S. firms, largely because of the slow adoption of information and other computer-based technologies.
+This is pertinent because finance operations of this type are an essential activity in every firm.
+If it is the case that the United States, at least at this juncture, is somewhat ahead of the rest of the world in realizing the benefits of information technology, does this indicate that our economy or society possess certain characteristics that are particularly conducive to rapid diffusion of technical change?
+A recent study of innovation by the Agamus Consulting firm provides some interesting insights.
+The United States placed second to the Netherlands out of thirteen countries in a survey that asked companies to rate the "innovation climate" in their home countries.
+A second and possibly more objective ranking, based on a measure of innovative success developed by Agamus, placed the United States first.
+The most important factor cited as conducive to innovation was the overall educational standard.
+Given various cross-country comparisons of educational systems, I assume that this finding must be based on our broad-based attainment of higher education.
+Additional Possible Relevant Factors I would like to suggest several other factors that might also make some difference.
+This is not meant to be either a comprehensive or a definitive list.
+Instead, it is an attempt to advance some hypotheses that might help to explain the recent dynamism of the American economy compared with some of its major trading partners--in particular its link to technological change--and to see to what extent the evidence supports them.
+The particular features that I would like to discuss (not necessarily in order of importance) are corporate governance and, especially, a focus on maximization of shareholder value as opposed to other objectives; flexibility of labor markets and the willingness to accept high rates of labor turnover; willingness on the part of labor to continue to invest in human capital over a lifetime; the regulatory environment; and the friendliness of the institutional environment to entrepreneurship.
+Corporate Governance Clearly, the effectiveness of the system of corporate governance is important in overall corporate performance.
+Adoption of new technology may require considerable effort and short-term expense, and it is important that managers have the appropriate incentives to search for improvements that reduce costs over the longer-term.
+In recent years, aggressive cost-cutting in the United States has been linked to greater emphasis on maximization of shareholder value and less on growth and diversification, which was more prominent in the 1970s and 1980s.
+This shift in perspective appears to have been driven, at least in part, by the increasing dominance of large institutional investors in U.S. financial markets.
+In the past, maximizing shareholder value had not been as widely embraced abroad, although there are indications that views are changing.
+For instance, members of corporate boards in Japanese companies often have been promoted from within, fostering control by allied industrial concerns, family interests, banks and holding companies, which may be more motivated by concerns other than maximizing shareholder value.
+In Europe, a reason sometimes cited for the delay in the adoption of shareholder value as a motivating factor for corporations is the greater involvement by the public sector in the economy, with a strong emphasis on job preservation.
+Another important incentive for managers to maximize shareholder value is pay-for-performance through avenues such as stock options.
+Although now commonplace in the United States, such instruments were not legal in Germany and Finland until 1998.
+However, pressure for change clearly has started to emerge.
+Financial market liberalization has increased the importance of equity and publicly traded debt as sources of finance.
+Anecdotal reports suggest that the concept of maximization of shareholder value has been gaining greater acceptance as firms turn more to stock and bond markets for financing and as governments, particularly in Asia, have increased disclosure requirements.
+If the trend continues and other countries move further toward the U.S. model, it will be interesting to see whether improvements in productivity growth follow.
+Labor Market Flexibility Another factor that is often cited as a major element in the dynamism of the U.S. economy is the extraordinary flexibility of our labor markets, especially in contrast to those of continental European countries.
+Although much European regulation has been directed at saving jobs, it can be argued, in fact, to have had the opposite effect in the aggregate, as evidenced by the marked upward drift in continental European unemployment rates over the past two to three decades.
+These jobless rates are now much higher than those in the United States and the United Kingdom, which has also undergone a period of substantial labor market deregulation.
+It is also noteworthy that the unemployment rate differential is particularly large in younger age groups; youth unemployment rates were around 30 percent in 1997 in France and Italy, for example.
+To the extent that younger people are likely to have had more exposure to information technology in the educational process, this bias by itself could potentially be an important obstacle to the incorporation of technology into business processes.
+In addition, workers who are unemployed for long periods of time are likely to see their technology skills deteriorate.
+But why might regulations designed to protect jobs have such a perverse effect?
+The evidence suggests that new technology often results in more growth in employment in innovating industries.
+However, it also tends to shift demand from unskilled to more highly skilled workers, potentially displacing unskilled workers in the process.
+Job protection regulations that affect a firm's flexibility to recruit and dismiss workers can interfere with this process, making it difficult both for newcomers to find jobs and for firms to adopt new technologies.
+The inability to adjust hours flexibly through the use of overtime, part-time, and temporary work may also stifle innovation.
+According to the European Car Assembly Association, similar research projects take much longer to complete in Germany than in the United States because of shorter working hours and less-flexible working conditions.
+As a result, they argue that German automobile manufacturers are less able to exploit the shorter product life cycles associated with more fashionable and high-tech cars.
+It is axiomatic that in a truly flexible labor market everyone who wants a job can find one--at some price.
+As technical change increases demand for skilled relative to unskilled labor, the unskilled workers must acquire new skills, find new jobs at lower relative wages, or become unemployed.
+OECD data suggest that the United States and Canada have been more successful than the other industrialized countries in achieving these adjustments and, therefore, in maintaining aggregate employment growth on a par with labor force growth in the face of differential rates of job growth by occupations.
+White-collar, high-skilled employment increased at a much faster rate than employment in the other categories in nearly all cases in the G-7 countries over 1979-95.
+In the United States and Canada, white-collar, low-skilled employment also rose at healthy rates, while blue-collar employment was little changed.
+In contrast, blue-collar employment fell sharply in most of the other countries.
+Human Capital Of the three choices facing an unskilled worker in a fast-changing economy, acquiring new skills--that is, increasing one's human capital--would seem, in general, to be preferable to either taking a pay cut or becoming unemployed.
+To what extent do American workers take advantage of such opportunities relative to the rest of world?
+Here the evidence is somewhat mixed.
+The U.S. adult population has the highest rates of completion of upper secondary or higher education of any of the major industrialized countries.
+However, educational attainment rates are only part of the story, as skills need to be continually upgraded in a world of rapid technical change.
+This does not suggest that educational attainment is unimportant; in fact, there is a clear interaction between educational attainment and continuing education, as more-highly-educated people are also more likely to participate in continuing education.
+Nevertheless, it is hard to make the case that the United States is ahead of other countries in terms of participation in continuing education.
+In an OECD study of the role of continuing education and employability, the rate of participation in these programs in the United States was about average for the six countries in the sample.
+However, one noteworthy result was that rates of participation in training programs were below average among the young but above average among older workers in the United States.
+This suggests that American workers tend to keep improving existing skills or acquiring new ones as they age to a greater extent than do their counterparts in other countries.
+Other Business Regulations In addition to job protection legislation, other forms of business regulation may also have an impact on the climate for innovation.
+A 1994 survey of more than 2000 European companies by the Union of Industrial and Employers' Confederations of Europe found that regulations made it more difficult to minimize costs, organize production in a flexible way, reduce time to market, and reduce uncertainty.
+The incidence of product market regulation is lower in the United States than in continental Europe.
+A cross-country comparison of macroeconomic performance in terms of productivity growth and utilization of resources with the OECD's index of the overall regulatory environment suggests that a country's performance does improve as the regulatory environment becomes less restrictive.
+On a micro level, differences in the regulatory regimes of the biotechnology industry in Europe and the United States have been cited as playing an important role in explaining why U.S. firms are ahead of European firms in important measures of innovation such as R&D expenditures and patents.
+Surveys of the European biotechnology industry suggest that regulatory restrictions tend to push product development toward existing technologies and force firms to conduct research abroad, although I should note that it is also claimed that American pharmaceutical companies are conducting an increasing amount of research abroad as well because of regulatory obstacles at home.
+In addition, regulatory regimes that promote competition foster innovation and diffusion of technologies.
+According to an OECD study, the United States has policies that are effective in preventing anti-competitive behavior, but Germany is not far behind.
+Why does a more-competitive environment foster innovation?
+One hypothesis is that competition forces firms to innovate and adopt new technologies and, therefore, it increases the speed of diffusion of technology.
+In contrast, monopolists may have little incentive to innovate because they already control most of the market.
+Competition will also tend to result in the failure of unproductive businesses and facilitate the entry and success of more-innovative ones.
+In addition, more heavily-regulated firms may be less motivated to choose an efficient technology.
+In recent years, industries such as telecommunications, transportation, electricity, and banking have undergone privatization, deregulation, and increased competition in a number of countries.
+In many cases, these reforms were in fact prompted by technological change, which reduced large fixed costs and thus the scope for natural monopolies.
+Furthermore, in some of these industries, there is evidence that the move toward a more liberalized regulatory regime induced further innovation.
+A good example is the telecommunications industry.
+Evidence on patents (one measure of innovation) and measures of productivity suggests that those countries that have extensively liberalized (such as Japan, the United Kingdom, Finland, and the United States) have experienced greater innovation and larger gains in efficiency.
+Evidence from the telecommunications industry also suggests that the technological diffusion rate is faster under a more competitive regulatory regime.
+For instance, both growth in cellular phone usage and the penetration rate for Internet hosts is much higher in more-competitive market structures.
+This is not to suggest that regulation is necessarily a bad thing.
+Regulations that protect intellectual property rights reward those with creative ideas and therefore can act to stimulate cost-reducing innovations.
+From a broader perspective, productivity growth is obviously not society's only priority--worker health and safety, pollution control, and other societal values are important as well.
+Although it has been argued that regulations requiring mandated approaches to pollution reduction or worker safety tend to divert managerial energies from pursuing cost-reducing innovations, studies have shown that some regulatory changes can in fact enhance productivity by forcing a firm to develop new and more-efficient production techniques.
+For example, the cotton dust standard mandated by OSHA is claimed to have led to the adoption of new and more cost-effective technologies utilized by the textile industry.
+What I think this suggests is the need, as with so much in economics, to recognize trade-offs.
+We should recognize the broad range of society's interests and continue to seek balance by striving for regulation that serves well-defined purposes with minimal burden.
+Other Institutional Features Other institutional features are also important to the climate for innovation.
+For instance, entrepreneurship is fostered by access of small firms to capital markets.
+A lack of breadth and depth of financial institutions and markets can inhibit the financing of innovative projects by small firms.
+Again, the United States appears to have an advantage in this regard relative to Europe and Japan.
+In particular, venture capital markets here are both more developed and more geared to financing higher-risk projects, mainly in technology-based sectors by start-ups with prospects of rapid growth.
+Furthermore, the range of investors is wide and includes pension funds, insurance companies, and even private individuals.
+In contrast, in Europe, venture capital is geared toward more mainstream projects, and banks dominate lending.
+In Japan, a venture capitalist is typically a subsidiary of a large financial institution and invests mainly in established firms.
+Conclusion Obviously, the United States does not have a monopoly on technological advance.
+We should not be smug nor complacent because certainly the U.S. experience will be adopted and adapted by other countries.
+Although the United States arguably has led the way into the information technology revolution, there is evidence that others are following.
+Scandinavia in particular appears to be embracing computer-based technology; Sweden has begun to market itself as Europe's "Silicon Valley."
+Adoption of new technologies in the United States may also have been spurred in recent years by the cyclical strength of the economy in combination with strong domestic and international competitive pressures.
+With new workers increasingly difficult to hire in a tight labor market, firms have an increased incentive to find new and more-efficient ways to use existing labor resources.
+I might add that the current low inflation environment also helps this process.
+In the presence of subdued inflation expectations, the first inclination of firms in the face of rising demand for their output, thus far at least, appears not to have been to raise prices but rather to find ways to expand output via more-efficient means of production.

@@ -1,0 +1,121 @@
+And, generally speaking, the resulting structure of business incentives, reporting, and accountability has served us well.
+We could not have achieved our current level of national productivity if corporate governance had been deeply flawed.
+And yet, our most recent experiences with the bankruptcy of Enron and, preceding that, several lesser such incidents suggest that the governance of our corporations has strayed from our perceptions of how it is supposed to work.
+By law, shareholders own our corporations and, ideally, corporate managers should be working on behalf of shareholders to allocate business resources to their optimum use.
+But as our economy has grown, and our business units have become ever larger, de facto shareholder control has diminished: Ownership has become more dispersed and few shareholders have sufficient stakes to individually influence the choice of boards of directors or chief executive officers.
+The vast majority of corporate share ownership is for investment, not to achieve operating control of a company.
+Thus, it has increasingly fallen to corporate officers, especially the chief executive officer, to guide the business, hopefully in what he or she perceives to be in the best interests of shareholders.
+Indeed, the boards of directors appointed by shareholders are in the overwhelming majority of cases chosen from the slate proposed by the CEO.
+The CEO sets the business strategy of the organization and strongly influences the choice of the accounting practices that measure the ongoing degree of success or failure of that strategy.
+Outside auditors are generally chosen by the CEO or by an audit committee of CEO-chosen directors.
+Shareholders usually perfunctorily affirm such choices.
+To be sure, a CEO can maintain control over corporate governance only so long as companies are not demonstrably in difficulty.
+When companies do run into trouble, the carte blanche granted CEOs by shareholders is withdrawn.
+Existing shareholders, or successful hostile bidders for the corporation, usually then displace the board of directors and the CEO.
+Such changes in corporate leadership have been relatively rare but, more often than not, have contributed to a more-effective allocation of corporate capital.
+For the most part, despite providing limited incentives for board members to safeguard shareholder interests, this paradigm has worked well.
+We are fortunate, for financial markets have had no realistic alternative other than to depend on the chief executive officer to ensure an objective evaluation of the prospects of the corporation.
+Apart from a relatively few large institutional investors, not many existing or potential shareholders have the research capability to analyze corporate reports and thus to judge the investment value of a corporation.
+This vitally important service has become dominated by firms in the business of underwriting or selling securities.
+But, as we can see from recent history, long-term earnings forecasts of brokerage-based securities analysts, on average, have been persistently overly optimistic.
+Three- to five-year earnings forecasts for each of the S&P 500 corporations, compiled from projections of securities analysts by I/B/E/S, averaged almost 12 percent per year between 1985 and 2001.
+Actual earnings growth over that period averaged about 7 percent.
+Perhaps the last sixteen years, for which systematic data have been available, are an historical aberration.
+But the persistence of the bias year after year suggests that it more likely results, at least in part, from the proclivity of firms that sell securities to retain and promote analysts with an optimistic inclination.
+Moreover, the bias apparently has been especially large when the brokerage firm issuing the forecast also serves as an underwriter for the company’s securities.
+The performance of securities analysts may improve as a result of the recent joint initiative by the National Association of Securities Dealers and the New York Stock Exchange to require brokerage firms to include in research reports the distribution of the firms’ ratings, among “buy,” “sell,” and “hold,” for example.
+Brokerage firms must also include in research reports a record that indicates when an analyst assigned or changed a rating for a company.
+I suspect that with the underlying database publicly available, it is just a matter of time before the ex post results of analysts’ recommendations are compiled and published on a regular basis.
+I venture to say that with such transparency, the current upward bias of analysts’ earnings projections would diminish rather rapidly, because investment firms are well aware that security analysis without credibility has no market value.
+* * * Prior to the past several decades, earnings forecasts were not nearly so important a factor in assessing the value of corporations.
+In fact, I do not recall price-to-earnings ratios as a prominent statistic in the 1950s.
+Instead, investors tended to value stocks on the basis of their dividend yields.
+Since the early 1980s, however, corporations increasingly have been paying out cash to shareholders in the form of share repurchases rather than dividends.
+The marginal individual tax rate on dividends, with rare exceptions, has always been higher than the marginal tax rate on capital gains that repurchases create by raising per share earnings through share reduction.
+But, until the early 1980s, share repurchases were frowned upon by the Securities and Exchange Commission, and companies that repurchased shares took the risk of being investigated for price manipulation.
+In 1982, the SEC gave companies a safe harbor to conduct share repurchases without risk of investigation.
+This action prompted a marked shift toward repurchases in lieu of dividends to avail shareholders of a lower tax rate on their cash receipts.
+More recently, a desire to manage shareholder dilution from the rising incidence of employee stock options has also spurred repurchases.
+As a consequence, dividend payout ratios, which in decades past averaged about 55 percent, have in recent years fallen on average to about 35 percent.
+But because share prices have risen so much more than earnings in recent years, dividend yields--the ratio of dividends per share to a company’s share price--have fallen appreciably more than the payout ratio.
+A half-century ago, for example, dividend yields on stocks typically averaged 6 percent.
+Today such yields are barely above 1 percent.
+The sharp fall in dividend payout ratios and yields has dramatically shifted the focus of stock price evaluation toward earnings.
+Unlike cash dividends, whose value is unambiguous, there is no unambiguously “correct” value of earnings.
+Although most pretax profits reflect cash receipts less out-of-pocket cash costs, a significant part results from changes in balance-sheet valuations.
+The values of almost all assets are based on the assets’ ability to produce future income.
+But an appropriate judgment of that asset value depends critically on a forecast of forthcoming events, which by their nature are uncertain.
+A bank, for example, books interest paid on a loan as current revenue.
+However, if the borrower subsequently defaults, that presumed interest payment would, in retrospect, be seen as a partial return of principal.
+We seek to cope with this uncertainty by constructing loan reserves, but the adequacy of those reserves is also subject to a forecast.
+Depreciation charges against income, based on book values, are very crude approximations of deterioration in the economic value of physical plant.
+The actual deterioration will not be known until the asset is retired or sold.
+And projections of future investment returns on defined-benefit pension plans markedly affect corporate pension contributions and, hence, pre-tax profits.
+Thus, how one chooses to evaluate the future income potential of the balance sheet has a significant impact on current reported earnings.
+* * * Earnings uncertainty has been particularly elevated in recent years.
+Improvements in information technology have created new opportunities for innovative companies, but an environment of rapid technological change is also one in which the resulting profit opportunities are difficult to assess and project.
+In particular, such rapid change has heightened the potential for competitors to encroach on established market positions.
+This process of capital reallocation has not only increased the long-term earnings growth potential of the economy as a whole, but has widened as well the degree of uncertainty for individual firms.
+Not surprisingly then, with the longer-term outlook increasingly amorphous, the level and recent growth of short-term earnings have taken on especial significance in stock price evaluation, with quarterly earnings reports subject to anticipation, rumor, and “spin.” Such tactics, presumably, attempt to induce investors to extrapolate short-term trends into a favorable long-term view that would raise the current stock price.
+CEOs, under increasing pressure from the investment community to meet short-term elevated expectations, in too many instances have been drawn to accounting devices whose sole purpose is arguably to obscure potential adverse results.
+Outside auditors, on several well-publicized occasions, have sanctioned such devices, allegedly for fear of losing valued corporate clients.
+Thus, it is not surprising that since 1998 earnings restatements have proliferated.
+This situation is a far cry from earlier decades when, if my recollection serves me correctly, firms competed on the basis of which one had the most conservative set of books.
+Short-term stock price values then seemed less of a focus than maintaining unquestioned credit worthiness.
+* * * A change in behavior, however, may already be in train.
+The sharp decline in stock and bond prices following Enron’s collapse has chastened many of the uncritical practitioners of questionable accounting.
+Corporate reputation is fortunately reemerging out of the ashes of the Enron debacle as a significant economic value.
+Markets are evidently beginning to put a price-earnings premium on reported earnings that appear free of spin.
+Likewise, perceptions of the reliability of firms’ financial statements are increasingly reflected in yield spreads on corporate bonds.
+Corporate governance has doubtless already measurably improved as a result of this greater market discipline in the wake of recent events.
+But the Congress is clearly signaling that more needs to be done.
+I hope that any legislative and regulatory initiatives will move to further realign current practice with the de jure governance model that served us well in generations past.
+Most success in that direction would seem to come primarily from changes in incentives for corporate officers.
+In particular, as President Bush has suggested, defining more clearly the duties of CEOs with respect to accounting and disclosure appears appropriate.
+There are, doubtless, other measures that could reinforce the aforementioned Enron-induced market incentives for disclosures and thereby strengthen investors’ trust, which is so essential to the effective functioning of free-market capitalism.
+We have to be careful, however, not to look to a significant expansion of regulation as the solution to current problems, especially as price-earnings ratios increasingly reflect the market’s perception of the quality of accounting.
+Regulation has, over the years, proven only partially successful in dissuading individuals from playing with the rules of accounting.
+* * * Some changes, however, appear overdue.
+In principle, stock-option grants, properly constructed, can be highly effective in aligning corporate officers’ incentives with those of shareholders.
+Regrettably, the current accounting for options has created some perverse effects on the quality of corporate disclosures that, arguably, is further complicating the evaluation of earnings and hence diminishing the effectiveness of published income statements in supporting good corporate governance.
+The failure to include the value of most stock-option grants as employee compensation and, hence, to subtract them from pretax profits, has increased reported earnings and presumably stock prices.
+This would be the case even if offsets for expired, unexercised options were made.
+The Financial Accounting Standards Board proposed to require expensing in the early to middle 1990s but abandoned the proposal in the face of significant political pressure.
+The Federal Reserve staff estimates that the substitution of unexpensed option grants for cash compensation added about 2-1/2 percentage points to reported annual growth in earnings of our larger corporations between 1995 and 2000.
+Many argue that this distortion to reported earnings growth contributed to a misallocation of capital investment, especially in high-tech firms.
+If market participants indeed have been misled, that, in itself, should be surprising, for there is little mystery about the effect of stock-option grants on earnings reported to shareholders.
+Accounting rules require that enough data on option grants be reported in footnotes to corporate financial statements to enable analysts to calculate reasonable estimates of their effect on earnings.
+Some have argued that Black-Scholes option pricing, the prevailing means of estimating option expense, is approximate.
+But so is a good deal of all other earnings estimation, as I indicated earlier.
+Moreover, every corporation does report an implicit estimate of option expense on its income statement.
+That number for most, of course, is zero.
+Are option grants truly without any value?
+Critics of option expensing have also argued that expensing will make raising capital more difficult.
+But expensing is only a bookkeeping transaction.
+Nothing real is changed in the actual operations or cash flow of the corporation.
+If investors are dissuaded by lower reported earnings as a result of expensing, it means only that they were less informed than they should have been.
+Capital employed on the basis of misinformation is likely to be capital misused.
+Critics of expensing also argue that the availability of options enables corporations to attract more-productive employees.
+That may well be true.
+But option expensing in no way precludes the issuance of options.
+To be sure, lower reported earnings as a result of expensing could temper stock price increases and thereby exacerbate the effects of share dilution.
+That, presumably, could inhibit option issuance.
+But again, that inhibition would be appropriate, because it would reflect the correction of misinformation.
+* * * In a further endeavor to align boards of directors with shareholders, rather than management, considerable attention has been placed on filling board seats with so-called independent directors.
+However, in my experience, few directors in modern times have seen their interests as separate from those of the CEO, who effectively appointed them and, presumably, could remove them from future slates of directors submitted to shareholders.
+I do not deny that laws could be passed to force selection of slates of directors who are patently independent of CEO influence and thereby significantly diminish the role of the CEO.
+I suspect, however, that such an initiative, while ensuring independent directors, would create competing power centers within a corporation, and thus dilute coherent control and impair effective governance.
+* * * After considerable soul-searching and many congressional hearings, the current CEO-dominant paradigm, with all its faults, will likely continue to be viewed as the most viable form of corporate governance for today’s world.
+The only credible alternative is for large--primarily institutional--shareholders to exert far more control over corporate affairs than they appear to be willing to exercise.
+Fortunately, it seems clear that, if the CEO chooses to govern in the interests of shareholders, he or she can, by example and through oversight, induce corporate colleagues and outside auditors to behave in ways that produce de facto governance that matches the de jure shareholder-led model.
+Such CEO leadership is critical for achieving the optimum allocation of the nation’s corporate capital.
+* * * Before concluding, I should like to emphasize that a market economy requires a structure of formal rules--a law of contracts, bankruptcy statutes, a code of shareholder rights--to name but a few.
+But rules cannot substitute for character.
+In virtually all transactions, whether with customers or with colleagues, we rely on the word of those with whom we do business.
+If we could not do so, goods and services could not be exchanged efficiently.
+Companies run by people with high ethical standards arguably do not need detailed rules to act in the long-run interests of shareholders and, presumably, themselves.
+But, regrettably, human beings come as we are--some with enviable standards, but others who continually seek to cut corners.
+Yet there can be only one set of rules for corporate governance, and it must apply to all.
+Crafting the rules to provide the proper mix of regulatory and market-based incentives and penalties has never been easy.
+And I suspect that even after we get beyond the Enron debacle, crafting and updating such rules will continue to be a challenge.
+Footnotes 1.

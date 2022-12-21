@@ -1,4 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"today, market measures of bank risk derived from stock prices, subordinated debt spreads, and credit default swap spreads all signal a healthy banking industry.",LABEL_2,0.9985590577125549
-1,that the federal reserve moved early and aggressively to lower interest rates has also been very helpful to banks and other participants in the u.s. economy.,LABEL_0,0.9989190697669983
-2,"these developments have been supported and encouraged by the growth of markets for syndicated loans and securitized assets and the creation of new financial instruments, such as credit derivatives, that greatly ease the dispersion of risk to those more willing and able to bear it.",LABEL_1,0.55760258436203

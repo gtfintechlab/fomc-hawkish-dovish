@@ -1,6 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"surveys suggest that many americans believe being middle class means having a secure job and the ability to save.1 in recent decades, income growth for middle-income households has lagged behind that for highâ€‘income households.2 in addition, economic resources differ markedly by race, education, occupation, geography, and other factors.",LABEL_2,0.5500317811965942
-1,the first observation is to note the long-term decline in relative income growth and upward economic mobility for those in the middle.,LABEL_0,0.926649272441864
-2,"one factor in this decline is the increase in income inequality i just noted, and another is slower productivity growth.",LABEL_1,0.8918133974075317
-3,"in the 1960s, well over 90 percent of working-age men held a job, and there was very little difference in employment between those with or without a college degree.",LABEL_2,0.9917128682136536
-4,"research presented this morning will discuss some possible explanations for the divergence in employment, income, and other economic prospects between college grads and others.",LABEL_2,0.989251971244812

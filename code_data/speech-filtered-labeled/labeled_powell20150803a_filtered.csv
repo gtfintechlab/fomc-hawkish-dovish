@@ -1,8 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"hard evidence on the level of liquidity in secondary treasury markets is mixed, with some measures at or above pre-crisis levels and some suggesting a reduced ability to buy or sell large positions without material price effect--a reasonable definition of liquidity.3 it is also possible that liquidity may be more prone to disappearing at times of stress.",LABEL_2,0.6159157752990723
-1,"on october 15, for example, market depth declined sharply, and we saw a sudden spike in prices that was without precedent for a period with little relevant news.",LABEL_2,0.8885350227355957
-2,"other events--such as the 2013 ""taper tantrum,"" the ""bund tantrum"" last spring, and the sharp moves on march 18 in the euro-dollar exchange rate--all broadly show the same pattern: rapidly diminishing liquidity, and large price moves for a given quantum of news.4 but the causes and implications of these events are unclear.",LABEL_2,0.6579460501670837
-3,"in addition to serving the financing needs of the u.s. government, treasury markets are important for the conduct of monetary policy.",LABEL_0,0.8861650824546814
-4,"at the same time it does not eliminate the need for a public market, where price discovery mainly occurs, as dealers must place the orders that they cannot internalize into that market.",LABEL_2,0.9796282052993774
-5,"the trading platforms in both the interdealer cash and futures markets are based on a central limit order book, in which quotes are executed based on price and the order they are posted.",LABEL_2,0.9981406331062317
-6,"there are several private proposals to accomplish that, and any solution will have to satisfy demanding regulatory requirements.",LABEL_2,0.9181283116340637

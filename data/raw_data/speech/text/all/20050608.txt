@@ -1,0 +1,97 @@
+I am particularly honored to be among so many esteemed risk-management practitioners and researchers, including bankers, consultants, academics, and fellow supervisors.
+I hope that my remarks will contribute to the collaborative spirit of this conference.
+Indeed, I am sure you agree that gatherings such as this are an excellent opportunity to share ideas about developing new techniques and practices, as well as revisiting existing ones.
+Today I plan to share with you some views on the Basel II framework, especially its proposed implementation in the United States.
+I will first touch briefly upon the broader objectives of the framework, then offer some thoughts about complexity in Basel II, provide additional detail about the risk-measurement and risk-management aspects of Basel II, and close with a short discussion about current implementation issues.
+Objectives of Basel II The release last June of the new international capital framework, often referred to as Basel II, was a major development.
+It is composed of the now-familiar three pillars: Pillar 1, minimum capital requirements; Pillar 2, self assessment and supervisory review; and Pillar 3, market discipline.
+The major objectives of Basel II include creating a better link between minimum regulatory capital and risk, enhancing market discipline, supporting a level playing field in an increasingly integrated global financial system, establishing and maintaining a minimum capital cushion sufficient to foster financial stability in periods of adversity and uncertainty, and grounding risk measurement and management in actual data and formal quantitative techniques.
+Let me emphasize that last objective, since it is often overlooked.
+Critical to Basel II is the effort to improve risk measurement and management, especially at our largest, most complex organizations.
+In a general sense, Basel II expands advanced risk-measurement and -management techniques from a set of tools used in an operating and control environment into the basis for making minimum regulatory capital more reflective of risk exposures.
+Since individual organizations employ various types of risk-management techniques, moving to Basel II as a minimum regulatory capital framework requires a certain degree of standardization so that risk measures can be reasonably compared across organizations and over time.
+From the outset of our participation in the development of Basel II, the U.S. banking agencies have clearly and consistently stated that the final adoption of the new capital rules in the United States would occur only after (1) we had reviewed all public comments and incorporated any needed adjustments to address legitimate concerns and (2) we were satisfied that Basel II was consistent with safe and sound banking in this country.
+Throughout this process we have stressed that, if we become concerned about the level of overall capital in the banking system or the capital results for individual portfolios, we would seek to modify the framework, including--should it come to that--possibly recalibrating the regulatory capital formulas that translate an individual bank's risk parameters into minimum required capital.
+The agencies' current review and study are consistent with our historical position at Basel.
+Complexity in Basel II One often hears that the advanced approaches of Basel II are "too complex" for anyone to understand, and the mathematical formulas in various drafts of the guidance can look like a foreign language to some readers.
+Attendees at this conference clearly understand that large, internationally active financial institutions have become more complex in terms of both sophistication of services and business practices, as well as organizational structure.
+As a result, effective risk management has been evolving to support these innovative financial structures.
+Indeed, Basel II may not look that complex to many of you here today, given your experience with more-sophisticated risk and internal economic capital models.
+So you would probably agree with me that even before Basel II is adopted, most banking organizations involved in complex financial instruments should already possess an understanding of advanced risk concepts and should have implemented effective risk-measurement and -management practices.
+As prudent supervisors, all of the U.S. banking agencies require any organization employing sophisticated financial practices or using complex financial instruments to have a governance and control structure commensurate with those activities.
+That is, the bank must have knowledgeable staff to set risk limits effectively and clearly communicate them to executive management and their boards of directors, must have acquired and implemented effective mitigating controls, and must have a robust process for monitoring exposures.
+That is one of the reasons that in the United States we are proposing to require only the largest, most sophisticated financial institutions to adopt Basel II--and only the advanced approaches.
+These institutions recognize that complex operations require a more-structured and well-defined risk-management framework to monitor the effectiveness of internal control processes and risk exposures.
+For these organizations, the incremental cost of adopting Basel II advanced approaches, while admittedly significant, should be relatively modest compared with the significant risk-management investments they have already made.
+For financial institutions with simpler organizational structures and less-complex processes and services, a less-sophisticated enterprise-wide risk-management framework is entirely appropriate.
+For these organizations, the incremental cost of developing advanced Basel II systems can be substantial, and they may appropriately choose not to adopt Basel II, especially at the earliest possible date.
+If they do choose to opt in, they may want to implement Basel II later, when they can take advantage of vendor models and databases to assist in the development of their systems at much lower costs.
+Whatever the case, we expect them to take a hard look at whether moving to Basel II is worthwhile from a cost-benefit perspective.
+Risk Management and Basel II Basel II strengthens the link between regulatory capital and risk management.
+Under the advanced approaches, in particular, banks will be required to adopt more-formal, quantitative risk-measurement and risk-management procedures and processes.
+For instance, Basel II establishes standards for data collection and the systematic use of the information collected.
+These standards are consistent with broader supervisory expectations that high-quality risk management at large complex organizations will depend upon credible data.
+Enhancements to technological infrastructure--combined with an appropriate database--will, over time, allow firms to better price exposures and measure and manage risk.
+The emphasis on improved data standards in the revised Accord should not be interpreted solely as a regulatory capital requirement, but rather as a foundation for risk-management practices that will strengthen the value of the banking franchise.
+Even the best processes for evaluating risk and performance suffer if the data used are flawed.
+In this broader sense, "data integrity" can refer not only to the consistency, accuracy, and appropriateness of the information in the database and model, but also to the processes that produce and use this information.
+Used this way, "data integrity" includes quality of credit files, tracking of key customer characteristics, internal processes and controls, and even the training that supports them all.
+As this audience knows well, good risk management is more than just data.
+In their proposed supervisory guidance relating to Pillar 1, the U.S. banking agencies have stressed the importance of control and oversight mechanisms.
+In this area, we expect to hold institutions to standards that will be just as high as those pertaining to quantification and data maintenance.
+If banks do not create an appropriate environment in which their quantitative risk measures and associated models are used--in other words, if an institution considers internal controls to be just a checklist--risk measures will not provide the performance the bank hopes to achieve.
+Furthermore, we expect improved risk management not only through the more-formal quantitative basis of measurement in Pillar 1, but also through the other two pillars.
+Pillar 2 requires each bank to develop its own viable internal process for assessing capital adequacy that contributes to the determination of the amount of capital actually held.
+For instance, each institution must correct for Pillar 1 assumptions that may not apply to that particular bank--for example, if the "well diversified" assumption of Basel II is not met by an individual bank because of its geographic or sectoral concentrations.
+In essence, the bank should determine whether its capital levels are appropriate in light of any deviations from Pillar 1 assumptions.
+The added transparency in Pillar 3 should also generate improved market discipline for these large organizations, in some cases forcing them to run a better business.
+Market discipline is not possible if counterparties and rating agencies do not have good information about banks' risk positions and the techniques used to manage those positions.
+Indeed, market participants play a useful role by requiring banks to hold more capital than implied by minimum regulatory capital requirements--or sometimes their own economic capital models--and by demanding additional disclosures about how risks are being identified, measured, and managed.
+Greater transparency also offers an opportunity for market participants to monitor banks' progress over time and identify if they are keeping up with the latest techniques.
+Even though Basel II should be a major step forward in supporting effective risk management, we do not expect to let best practices be limited to what Basel II requires.
+For example, if you learn things at this conference that might augment your ability to measure risk at your institution, you should by all means pursue them.
+Flexibility has been built into Basel II so that improved techniques for doing such things as measuring potential loss or forecasting exposures can be used within the framework.
+As a former banker, I encourage banks' risk managers to continue their pursuit of improved risk measurement and risk management, making sure not to neglect internal controls and qualitative factors.
+Current Implementation Issues I now want to offer a few remarks about the latest developments in Basel II implementation in the United States.
+As most of you know, the U.S. banking agencies recently concluded their fourth Quantitative Impact Study, known as QIS4.
+In a statement issued on April 29, the U.S. banking agencies indicated that the minimum regulatory capital charges resulting from QIS4 were more variable across institutions and these capital charges dropped more, in the aggregate, than the agencies had expected.
+This was the impetus for deciding to delay issuance of our next round of proposals for Basel II.
+The agencies' reaction to the QIS4 results should signal how seriously we are taking the Basel II effort and how we are striving to implement it correctly.
+The results from QIS4 show the continued benefit of conducting periodic quantitative impact studies.
+They serve as a milestone, helping us evaluate progress as we move to Basel II.
+We now must determine the reasons for the results from QIS4.
+Were there limits to the QIS4 exercise?
+Is there a need for adjustments to the Basel framework itself?
+Do the QIS4 results reflect actual differences in risk among respondents when prior supervisory information suggested more similarity in credit quality?
+Do the results indicate the various stages of preparedness among participants, especially relating to data availability?
+None of the participating banks have completed their databases and models for all of their risk areas.
+In some cases, this created results that could not be relied upon for the implementation of Basel II.
+For example, for some portfolios, losses reflected only the last year or two of results.
+Thus, the strong credit performance of recent experience was not balanced by higher losses at other points in the credit cycle.
+Analysis of the data used in QIS4 is vitally important, because the ultimate success of Basel II will depend both on the quantity and quality of data that banks have to use as inputs to the framework and on our understanding of the limitations of those data.
+And as I noted before, these data are fundamental to the proper management of risk at large complex institutions, even outside the realm of regulatory capital.
+Even though we are still in the midst of our analysis of QIS4 data, we recognize that substantial data limitations may prevent banks from developing viable and robust parameter estimates in the near term.
+For this reason, both banks and their supervisors will have to wait while data accumulate before banks can estimate and validate parameter inputs in a reliable, robust manner.
+In the interim, banks and supervisors will have to rely heavily on qualitative validation approaches.
+Supervisors across countries are working together to address validation issues, and, I believe, will develop useful guidelines for banks and supervisors alike.
+In addition, we will likely need certain safeguards until we have confidence in the data systems producing Basel II estimates.
+And qualitative and quantitative benchmarking studies, which compare methodologies and parameter estimates across banks, will be important validation tools and will encourage the diffusion of best practices throughout the industry both during the initial, more-qualitative interval and later, when more quantitative approaches are used.
+In addition to learning what we can from the QIS4 results, we will also assess comments on the trading and banking book proposals released jointly by the Basel Committee on Banking Supervision and the International Organization of Securities Commissions.
+We intend to incorporate those treatments and revisions into the interagency notice of proposed rulemaking for implementing Basel II in the United States and hope to complete our efforts in a timely manner.
+Although the agencies have decided to delay the notice of proposed rulemaking while we review the QIS4 results, we remain committed to Basel II.
+We recognize that we must continue to give institutions as much information as possible to help them with their preparations.
+And we remain committed to providing helpful information to institutions as soon as it becomes available--for example, the draft supervisory guidance documents that are now under development.
+We do, however, recognize that certain time pressures exist for institutions wishing to implement the new framework at the earliest possible date.
+On the one hand, those institutions are encouraged to start preparations as soon as possible; on the other hand, we leave open the possibility that elements of the framework could change.
+I recognize that this is not a trivial matter, and I sympathize with the challenges you face in deciding which investments and upgrades you should make to your systems and personnel.
+When it comes to Basel II, we recognize that certain details relating to systems and processes will depend on what the final U.S. rule and guidance contain.
+Accordingly, we are available to discuss your implementation efforts at any time, and we want to hear specifics about which elements of the proposal you think will demand the greatest investments or generate the greatest uncertainty.
+With that information, the agencies can then determine where best to target resources to assist institutions during the transition to Basel II.
+We certainly hope that many upgrades made for Basel II are those that would have been made anyway.
+Conclusion These are challenging times both for banks and for bank supervisors.
+On the one hand, new technologies and markets afford us exciting opportunities to meaningfully strengthen the risk-measurement and -management capabilities of our financial institutions.
+On the other hand, the risks of getting it wrong--of failing to keep banks' risk-management practices up-to-date--can only grow as banking becomes ever more complex and sophisticated and as banking systems become more concentrated.
+This will increase the importance of capital adequacy, risk management, effective supervision, and transparency in fostering and maintaining financial stability in an increasingly integrated and interconnected global financial system.
+Indeed, supervisors and bankers need to maintain a healthy skepticism about the uncertainties and real-world vicissitudes surrounding any theoretically precise measures of risk--particularly in times of adversity, when capital cushions are so important.
+Qualitative factors such as sound judgment, knowledge, and real-world experience are essential to successful risk management.
+Our hope is that the implementation of Basel II will substantially improve institutions' ability to measure and manage their risks.

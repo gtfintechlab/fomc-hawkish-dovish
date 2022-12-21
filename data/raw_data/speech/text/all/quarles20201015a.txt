@@ -1,0 +1,113 @@
+It has been eight months since COVID-19 appeared in the US and the attendant containment measures began to have severe effects on the U.S. economy and financial system (the "COVID event").
+While the economy is recovering faster than we originally expected, and the financial sector returned pretty quickly to stable functioningâ€” in significant part due to strong action from governments and central banks around the worldâ€”the shock of the COVID event was by many measures the strongest in recorded history, and for a while in the spring the outcome wasâ€”as the Duke of Wellington said of Waterlooâ€”"a damn, close-run thing."
+For some time, those closest to the events were too involved in fighting the fire to pull together an account of what had happened and what lessons we might learn.
+But at this point, it is now possible, and I believe valuable, to assess what happened in the financial system in March and April, which parts of the system came under stress, and why.
+The COVID event resulted in a large and uniquely exogenous shock to the economy and the financial system, and for that reason alone it can't tell us everything about what might happen in every future financial crisis.
+But as the first real life test of the regulatory framework erected after the global financial crisis (GFC), I believe it can tell us a lot about what is working and what aspects of our framework may need strengthening.
+It seems like a very long time ago, but early this year, the U.S. economy was in vibrant good health.
+Output growth was solid, and unemployment was at a 50-year low.
+Equity markets reached record highs on February 19, and in financial markets generally we saw high and in some cases stretched valuations.
+Business debt had been rising for a while, while household borrowing was more moderate.
+At the core of the financial system, large banks were in a strong position, with much higher capital ratios and liquid assets than in decades.
+We had seen some notable volatility in short-term funding markets, including some spikes in repo rates in 2019, but overall vulnerabilities stemming from liquidity and maturity mismatches in the financial sector still appeared lowâ€”especially so at large banks, which had substantially reduced their reliance on short-term wholesale funding from pre-crisis levels.
+In late 2019, market participants were telling us that the most salient risks to the U.S. economy were from trade frictions, the challenges facing monetary policy given the proximity of interest rates to their effective lower bound, and market liquidity.1 Then the COVID event unfolded.
+On February 21, while we were with the Italian authorities in Riyadh for the G20 meetings, Italy announced quarantines of the northern towns being hardest hit by the new virus.
+This was a trigger for what became a rapid change in market sentiment, as investors began to prepare for what was beginning to seem might be a significant slowdown in economic activity.
+Volatility rose; selling pressure rose.
+As other European governments began to adopt travel bans, lockdowns, and school closures, there was a surging demand for safe assets.
+With fears of a widespread economic slowdown proliferating in late February and early March, Treasury prices rose and yields fell sharply, as usually happens when the economic outlook worsens.
+And as often happens when a shock leads to a surging demand for safe assets, some risky assets became very difficult to sell.
+Then on March 11, roughly two weeks after the first Italian quarantines, the WHO declared COVID-19 a global pandemic, and several new countries announced lockdowns and border closings.
+This was the trigger that turned what up to then had been a reasonably familiar, if concerning, flight to safety into a historically unprecedented dash for cash.
+Corporates preparing for a potentially extended disruption in revenues began seeking cash reserves en masse, while financial firms uncertain about the value of assets and counterparties began cutting their exposures.
+As a result of this scissoring, we saw serious strains in several financial markets.
+Some of the most severe strains emerged in short-term funding markets and among institutions engaged in liquidity transformation.
+I will highlight a few.
+First, we saw a pullback from commercial paper, or CP, markets.
+In an effort to contain risk in an abruptly slowing economy, investors shortened the maturities at which they were willing to lend in the CP market, in effect rushing for the exit and raising the possibility that lending might stop completely.
+Indeed, term CP markets did essentially shut down for some period.
+At the same time, some prime and tax-exempt money market funds experienced large redemptions, forcing these funds to sell assets.
+In addition, we saw large outflows at corporate bond funds and exchange traded funds.
+Corporate bond funds promise daily liquidity, but the underlying assets often take a longer time to sell.
+This creates conditions that can lead to runs on these funds in times of stress.
+Indeed, each of these three developmentsâ€”the pullback from CP and the elevated redemptions at prime money funds and at corporate bond fundsâ€”can be viewed as a kind of run by investors.
+A run occurs when investors concerned about potential losses clamber to withdraw funds or sell their positions before other investors do.
+These actions can lead to sharp declines in asset prices and impair the ability of businesses to fund their operations, leading to strains across the financial system and declines in employment and spending.
+A fourth area of strain was in the Treasury marketâ€”one of the largest and deepest financial markets in the world.
+Treasury securities play a central role in short-term funding markets, such as the repo market, where they are a favored form of collateral.
+Significant amounts of Treasuries are held by institutions that use short-term funding, like broker-dealers and money market funds.
+And, the structure of the Treasury market has evolved substantially in recent years, with the growth of high-speed and algorithmic trading, and a growing share of liquidity provided by new entrants alongside established broker-dealers.
+The new Treasury market structure has had notable episodes of market volatility and stress, but none to compare with the COVID event.2 Treasury market conditions deteriorated rapidly in the second week of March, when a wide range of investors sought to sell Treasuries to raise cash.
+Foreign official and private investors, certain hedge funds, and other levered investors were among the big sellers.
+During this dash for cash, Treasury prices fell and yields increased, a surprising development since Treasury prices usually rise when investors try to shed risk in the face of bad news or financial stress, reflecting their status as the ultimate safe asset.
+While trading volumes remained robust, bid-ask spreads widened dramatically, particularly for older off-the-run Treasuries, but this soon spilled over into the more liquid on-the-run segment of the market, as well as the futures markets.3 The intense and widespread selling pressures appear to have overwhelmed dealers' capacity or willingness to absorb and intermediate Treasury securities.4 In the end, the Federal Reserve took a number of steps to support smooth market functioning, which I will describe in a moment.
+Fortunately, even with these strains in financial markets, banks were able to remain a source of strength to the financial system and the economy.
+Banks entered this crisis with much stronger balance sheets than the last oneâ€”with more and higher-quality capital, more liquid assets, and less reliance on fragile funding.
+This is a testament to reforms implemented by the Fed and other agencies in the aftermath of the GFC.
+Not surprisingly, however, the magnitude of the economic and financial disruptions from the COVID event posed some major challenges to banks.
+First, in March, many businessesâ€”unable to satisfy their large cash demand through CP or corporate bond issuance, for the reasons I described earlierâ€”drew down on their existing credit lines with banks in order to raise cash.
+As a result, commercial and industrial (C&I) loans in the banking system increased by nearly $480 billion in Marchâ€”by far the largest monthly increase ever.
+Banks were able to fund these loans without notable problems through inflows of core deposits, other borrowing, and, to a lesser extent, by using their buffers of liquid assets.
+The inflow of deposits resulted from increased demand for safe haven assets, reflecting confidence in U.S. banks.
+While banks were a source of strain during the GFC, they were a source of strength during this crisis.
+After March, as the economy started to recover, many firms repaid these drawdowns and C&I lending by banks declined.
+If the drawdown of credit lines tested the resilience of banks to liquidity shocks, financial distress at borrowers has been testing the resilience of banks to losses.
+The COVID event has made it harder for many borrowersâ€”businesses as well as householdsâ€”to repay their debt.
+Encouraged by supervisors, banks have been working actively with their customers and have agreed to grant forbearance to millions of borrowers.
+At the same time, banks have recognized that the credit quality of many loans has deteriorated considerably, and they have made sizable provisions to prepare for expected loan losses.
+While banks have continued to lend, we have seen a notable tightening of bank lending standards.
+In the July Fed survey of senior loan officers, banks cited the uncertain economic outlook and industry-specific problems as the main reasons for tighter lendingâ€”the tightening was not due to capital or liquidity pressures.5 Although the overall contraction in credit availability is less severe than during the GFC, tighter lending standards may make it difficult for some businesses and households to borrow during the pandemic.
+While the continued ability of banks to lend to creditworthy borrowers has been good news, a lot of credit in the United States is provided by nonbank financial institutions and markets.
+Indeed, almost two-thirds of business and household debt in the United States is held by nonbanks, though much of the origination of the debt held by nonbank investors is done or facilitated by banks.
+And in March, this lending by non-banks dried up.
+In addition to the strains in short-term funding markets, some vital long-term lending markets were virtually closed.
+As the extent of the economic disruptions became clear, the cost of borrowing rose sharply for businesses issuing corporate bonds, for state and local governments issuing longer-term municipal debt, and for issuers of asset-backed securities (ABS), such as originators of auto and student loans.
+Spreads in some cases widened to post-crisis highs.
+Exacerbated by the problems in short-term funding markets and at bond funds, market functioning and liquidity deteriorated, and issuance of new debt in long-term markets slowed markedly or stopped altogether.
+Effectively, the ability of creditworthy households, businesses, and state and local governments to borrow, even at elevated interest rates, was threatened.
+In light of these unusual and exigent circumstances, the Federal Reserve took a series of emergency actions to support liquidity in markets and the flow of credit to households, businesses, and communities.
+I won't review in detail the kaleidoscopic gallimaufry of actions that we took to address the dysfunctions I've just been describing: emergency lending facilities under section 13(3) of the Federal Reserve Act to support liquidity in funding markets; similar facilities to support credit to nonfinancials; direct purchases of Treasuries; swap lines and repo facilities with foreign central banks.
+These are fully described elsewhere.
+Fundamentally, each measure was designed to address an aspect of the pressures created by the large demand for cash in the real economy and the temporarily limited willingness of financial firms to provide it.
+Our liquidity facilities relieved pressure on markets created by mass liquidations of assets driven by the demand for cash, as did our direct purchases of Treasuries.
+Our credit facilities satisfied the cash demand of borrowers more directly.
+Our swap lines and repo facilities with foreign central banks alleviated the shortage of dollars to satisfy dollar-denominated cash needs abroad.
+The result of this quite muscular intervention has been the fairly rapid return to stable market function despite the severe pressures I have been describing.
+Interestingly, in many cases our facilities had their effect less by actually providing liquidity or credit, than by providing a backstop.
+The "announcement effect" of the Fed's willingness to step in returned confidence to market participants and function to markets, without the facilities themselves seeing large amounts of use.
+Looking back at these events since the COVID event, what have we learned about the U.S. financial system?
+One lesson is that several short-term funding markets proved fragile and needed support â€“ the commercial paper market and prime and tax-exempt money market funds, as key examples.
+The runs on prime money funds and commercial paper were particularly disappointing, since in many ways they resembled runs that we saw in these markets during the GFC.
+Money fund reforms implemented in 2016 were followed by investors shifting away from prime money funds and towards MMFs that hold securities backed by either the U. S. government or government-sponsored enterprises.
+Because they hold safer assets, government funds are less fragile.
+At the same time, some prime funds can still "break the buck" by suffering losses, or can put up "gates" that limit redemptions.
+Investors worried about losses at a money fund may feel some incentive to be among the first to withdraw from the fund, before it breaks the buck or puts up redemption gates in the face of large outflows.
+The shortening of maturities in the commercial paper market was similarly reminiscent of the GFC.
+It appears that these short-term funding markets remain an unstable source of funding in times of considerable financial stress.
+The Fed and other financial agencies have accomplished a lot in requiring or encouraging market participants to rely less on unstable short-term funding, but it is worth asking whether there may be other steps needed to secure these very important sources of liquidity.
+A second lesson we learned last spring is that the Treasury market is not immune to the problems of short-term and dollar funding markets.
+In light of the importance of the Treasury market to many other financial markets as well as to monetary and fiscal policy, this further heightens the need to think about additional steps addressing vulnerabilities in short-term funding markets.
+In addition, we have to ask: What can be done to improve Treasury market functioning over the longer term so that this market can withstand a large shock to demand or supply?
+I will simply raise that question, but not attempt to answer it here.
+A third, broader lesson from this event is that the regulatory framework for banks constructed after the GFC, with the refinements and recalibrations we have made over the last few years, held up well.
+We did not see a recurrence of the problems faced by the banking sector during the GFC, and the financial system and the economy would have been much worse off if we had seen it.
+Instead, banks have been a source of strength.
+I also believe that this conclusion is entirely consistent with the significant emergency measures undertaken by the Fed.
+Almost all of these measures were targeted towards financial markets, nonbank financial institutions, and the real economy.
+Moreover, the unprecedented and in many ways unimaginable nature of the shock posed by the COVID event made it appropriate to take these steps when we did, to backstop the functioning of markets essential to the financial system.
+Their creation was an unmistakable signal to market participants of the capability and willingness of the Fed to restore market functioning, and the fact that this functioning was restored so quickly, with relatively little borrowing, shows this message was received, and believed.
+The system worked.
+Looking across the areas in which strains suggest a need for further reforms, I am struck at the prominence of the continued need to focus on vulnerabilities associated with short-term funding.
+In some sense, this should not be surprising.
+Vulnerabilities associated with short-term funding have always been at the heart of financial crises and central banks' efforts to promote financial stability.
+Such vulnerabilities led to Walter Bagehot's 19th century dictum that central banks need to stand ready to lend freely against good collateral during periods of financial strain.
+Such vulnerabilities triggered the panic of 1907 and led to the establishment of the Federal Reserve.
+Such vulnerabilities led to runs on banks in the Great Depression and a series of reforms, including the establishment of deposit insurance.
+And such vulnerabilities were among those that precipitated the Global Financial Crisis.
+Following in that vein, at the Financial Stability Board (FSB) I have formed a high-level steering group of central bankers, market regulators, and international organizations to oversee the FSB's work on nonbank finance, and to help coordinate work across the range of global standard setting bodies that oversee the financial sector.
+The group is currently completing a holistic review of the COVID event to better understand the role that vulnerabilities stemming from nonbank financial institutions played in those events and to define a work program to address such vulnerabilities during 2021.
+One might look to the emergence of strains in short-term funding markets in March of this year as an indication that previous reform efforts fell short.
+Perhaps, and we will be looking at this at the FSB.
+But I have, as well, a more hopeful outlook, based on the extent of the test we faced and the outcome.
+The COVID event precipitated the most abrupt decline in U.S. and global economic activity in recorded history.
+It is far from shocking that funding strains emerged, and it is heartening that the banking system remained resilient and that policy efforts were able to calm financial markets relatively quickly.

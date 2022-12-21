@@ -1,0 +1,18 @@
+,sentence
+0,"Still, these credit exposures have been growing rapidly, more or less in line with the growth of the notional amounts."
+1,"Despite the world financial trauma of the past eighteen months, there is as yet no evidence of an overall slowdown in the pre-crisis derivative growth rates, either on or off exchanges."
+2,"Indeed, the notional value of derivatives contracts outstanding at U.S. commercial banks grew more than 30 percent last year, the most rapid annual growth since 1994."
+3,"Although episodes of extreme volatility have produced declines in the most highly leveraged contracts, the growth of the more ""plain vanilla"" products has continued apace or even accelerated."
+4,"The reason that growth has continued despite adversity, or perhaps because of it, is that these new financial instruments are an increasingly important vehicle for unbundling risks."
+5,This unbundling improves the ability of the market to engender a set of product and asset prices far more calibrated to the value preferences of consumers than was possible before derivative markets were developed.
+6,"The product and asset price signals enable entrepreneurs to finely allocate real capital facilities to produce those goods and services most valued by consumers, a process that has undoubtedly improved national productivity growth and standards of living."
+7,"Yet, through the past decades' phenomenal growth of the derivative market, there has not been a significant downturn in the economy overall that has tested the resilience of derivative markets."
+8,"First, despite the growing use of more exotic over-the-counter instruments, the vast majority of trades are relatively straightforward interest rate and currency swaps."
+9,"Because prices will doubtless change in the future, those contracts with negative or even positive values have the potential of larger positive values and, hence, a potential credit loss on default."
+10,"For purposes of supervisory risk-based capital requirements, potential future exposure (over and above the current market value of derivatives, if positive) is currently estimated by separating derivatives into categories based on the underlying instrument (interest rate, exchange rate, commodity, equity, etc.)"
+11,The capital requirement is then derived by applying fixed factors to each category that reflect differences in the price volatilities of the instruments and the structure of the contracts.
+12,"Interest rate swaps (70 percent of the notional value of OTC derivatives) have limited long-term loss potential, primarily because the contracts do not provide for an exchange of principal and the exposure is effectively amortized as interest payments are exchanged over the life of the contract."
+13,"Foreign exchange, commodity, and equity derivatives, of course, entail far greater exposures, either because principal amounts are exchanged or because the underlying's price is more volatile."
+14,"Modern quantitative approaches to risk measurement and risk management take as their starting point historical experience with market price fluctuations, which is statistically summarized in probability distributions."
+15,I defy anyone to distinguish a speculative price pattern for 1999 from one for 1899 if the charts specify neither the dates nor the levels of the prices.
+16,"Probability distributions estimated largely, or exclusively, over cycles excluding periods of panic will underestimate the probability of extreme price movements because they fail to capture a secondary peak at the extreme negative tail that reflects the probability of occurrence of a panic."

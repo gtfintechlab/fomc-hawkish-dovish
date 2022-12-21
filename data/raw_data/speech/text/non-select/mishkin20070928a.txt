@@ -1,0 +1,127 @@
+When we speak of systemic risk, we mean the risk of a sudden, usually unexpected, disruption of information flows in financial markets that prevents them from channeling funds to those who have the most productive profit opportunities.
+We have seen how systemic risk, when it becomes especially severe, can result in financial crises--the seizing up of financial markets--which can have potentially important economic consequences.
+We have also seen how governments, in their role as providers of emergency liquidity, can intervene to help put the financial system back on its feet and prevent a financial crisis from spinning out of control.1 In mature industrial economies, domestic central banks have the credibility and the resources to play this role.
+Around the world, central banks have injected liquidity and signaled that credit would be available to those institutions and markets that need it.
+At other times, as well, the Federal Reserve has acted successfully to prevent potentially devastating financial seizures: notably, after the stock market crash of October 19, 1987, and after the terrorist attacks of September 11, 2001.
+Given the current focus on systemic risk, I would like to talk about an issue that I wrote about extensively before coming to the Board of Governors: financial instability in emerging-market countries.
+(Please note that my comments here reflect my own views and not necessarily those of the Board of Governors or the Federal Reserve System.)
+The need for emergency liquidity assistance in times of financial instability is just as strong, and arguably stronger, in emerging-market countries, in part because their less-developed financial markets, weaker institutions, and lack of easily available information often make these countries especially vulnerable to systemic risk.
+Such risk can be elevated and financial instability triggered by several factors: shocks related to weak domestic institutions and policies, swings in world commodity prices, contagion from other emerging markets, and, turmoil originating in the industrial countries.2 Developing economies have made great strides over the past decade to improve economic fundamentals and policymaking, such as strengthening the independence and credibility of their central banks.
+Many of these countries have reaped the rewards of their labors during the most recent period of market turmoil, as volatility in their domestic financial markets was reasonably contained.
+However, room for improvement remains.
+As market participants have become more discriminating in recent years, emerging-market countries with weaker fundamentals and weaker institutions for the most part have been hit relatively harder.
+More broadly, these events should serve notice that no country is impervious to crises and that the need for a lender of last resort remains strong.
+To be clear, by lender of last resort, I mean short-term lending on good collateral to sound institutions, when financial markets temporarily seize up.
+I do not mean rescuing financial market participants from the consequences of their bad decisions by lending to unsound institutions with little capital, thereby postponing the recognition of insolvency.
+Despite the need for a lender of last resort, central banks in emerging-market countries, unlike those in advanced countries, often cannot undertake this role.
+Many emerging-market countries have histories of high inflation and of large fiscal deficits that have generally been accommodated by the monetary authority.
+This legacy has led to a lack of confidence in the domestic currency, which makes emerging-market economies different from advanced economies in two ways.
+First, emerging-market economies often have much of their debt denominated in foreign currency.
+Second, the credibility of central banks in these countries to keep inflation under control is low.
+Accordingly, an injection of liquidity in the form of domestic currency can actually make the financial crisis worse by raising inflation fears and thus causing the domestic currency to depreciate.
+Given a debt structure characterized by liabilities denominated in foreign currency, this depreciation causes the domestic-currency value of the liabilities to rise, induces a deterioration of balance sheets, and thus causes a severe economic contraction.
+Moreover, a run on the domestic currency will likely be associated with a spike in nominal domestic-currency interest rates--just the opposite of what the injection of liquidity was intended to achieve--which will further damage economic prospects.
+Therefore, if liquidity is to be provided during a financial crisis in an emerging-market economy, it generally should be in the form of foreign, not domestic currency.
+But, if a domestic central bank lacks the foreign reserves to conduct emergency liquidity assistance in foreign currency to stop a financial crisis or promote a recovery when one occurs, can another institution come to the rescue?
+The answer is yes, and it is often best if the assistance comes not from within the country, but from without.
+Liquidity provided by foreign sources can help emerging-market countries cope with financial crises without many of the undesirable consequences that can result from the provision of domestic-currency liquidity by the domestic central bank.
+roperly managed, and in conjunction with steps to address the sources of the crisis, foreign liquidity assistance does not lead to increased inflation, higher interest rates, and an excessive depreciation of the domestic currency.
+Instead, it gives the government international reserves which can then be used to stabilize the value of the domestic currency and support domestic financial markets and institutions.
+Indeed, foreign liquidity assistance should also help lower interest rates (and thus improve firms' and households' cash flow).
+The resulting strengthening of domestic balance sheets helps undo the asymmetric information problems created by a financial crisis.
+The need for providing liquidity has once again become the primary focus of governments around the world.
+Today I would like to review the principles that should govern such lending and then examine some key issues concerning the activities of an international lender of last resort, including which institutions could play this role.
+How Should a Lender of Last Resort Operate?Our understanding of the sources of systemic risk immediately suggests three general principles for operating as an effective lender of last resort: (1) restore confidence in the financial system by quickly providing liquidity, (2) limit moral hazard by encouraging adequate prudential supervision, and (3) act as a lender of last resort infrequently.
+Restore Confidence in the Financial System by Quickly Providing LiquidityWhen a systemic financial crisis occurs, the emergency lender's most crucial task is to restore confidence in the financial system.
+Without confidence, participants will pull out of financial markets, which will then be unable to channel funds to productive investment opportunities.
+Confidence is essential to an efficiently operating financial system, and it is also necessary for promoting recovery from, or forestalling, a financial crisis.
+romoting and restoring confidence are easier said than done, however, and require several measures.
+One such measure is to quickly provide ample liquidity so that markets can operate effectively.
+Speed is critical.
+Experience shows that the faster the lending, the lower the amount of lending necessary.3 To illustrate the benefits of acting quickly, I will use a canonical example, the Federal Reserve's operations in the aftermath of the stock market crash in October 1987.
+What is remarkable about this episode is that the Federal Reserve did not need to lend directly to the banks to encourage them to lend to the securities firms that needed funds to clear their customers' accounts.
+ecause the Federal Reserve acted promptly (within a day) and reassured banks that the financial system would not seize up, banks knew that lending to securities firms would be profitable.
+They saw that making these loans immediately was in their interest, even if they did not borrow from the Federal Reserve.
+anks thus began lending freely to securities firms, and, as a result, confidence was restored and the fear of crisis diminished almost immediately.
+The Federal Reserve did not have to increase its lending to the banking system at all, and the actual amount of liquidity that it injected into the banking system through open-market operations in the immediate aftermath of the crash was around $12 billion, which at the time was notable but not exceptional.
+And the Federal Reserve was able to remove this liquidity almost immediately, within weeks of the crash.
+The resolution of, and recovery from, a financial crisis require a restoration of the balance sheets of financial and nonfinancial firms.
+This restoration, in turn, requires several steps: the closing down of insolvent financial institutions, the injection of public funds so that healthy financial institutions can buy up the assets of insolvent institutions, and the establishment of a well-functioning bankruptcy law that enables the balance sheets of nonfinancial firms to be cleaned up quickly so that the firms can regain access to the credit markets.
+Crucial to a country's successful resolution of a financial crisis is a commitment to necessary reforms and a refusal to go halfway.
+Allowing weak financial institutions or practices to continue may encourage excessive risk-taking because participants have little to lose.
+ecause the continued presence of excessive risk diminishes confidence in the future health of the financial system, insolvent financial institutions must be shut down.
+Limit Moral Hazard by Encouraging Adequate Prudential Supervision The funds provided by lenders of last resort may be used indirectly to protect depositors and other creditors of banking institutions from losses.
+This safety net means that depositors and other creditors have little incentive to monitor these banking institutions and withdraw their deposits if the institutions are taking on too much risk.
+As a result, in the absence of a strong system of bank supervision, banking institutions are encouraged to take on exposures that heighten systemic risk.
+To limit the moral hazard problem created by their acting as lenders of last resort, governments and institutions must make improved financial-sector supervision and regulation a high priority.
+The usual elements of a well-functioning prudential regulatory and supervisory system are adequate disclosure and capital requirements, limits on currency mismatch and connected lending, prompt corrective action, careful monitoring of an institution's risk-management procedures, close supervision of financial institutions to enforce compliance with regulations, and sufficient resources and accountability for supervisors.
+Often, however, strong political forces resist putting these kinds of measures into place.
+This resistance has been a problem in industrialized countries (it was, for example, an important factor in the U.S. savings and loan debacle of the 1980s),4 but the problem is far worse in many emerging-market countries.
+The political will to adequately regulate and supervise financial institutions can be weak because powerful special interests have prevented such oversight and because the underlying legal and political framework has often been too frail to counteract the special interests.
+Another important element of financial regulation is that the owners, if not also the managers, of insolvent institutions should suffer significant losses in the event of insolvency.
+In emerging-market countries (and sometimes in advanced countries, a prominent example of which is Japan during the 1990s), governments have often provided insolvent institutions with funds to keep them from failing and left the existing owners and managers in charge.
+ailing out the owners and managers in this way worsens the moral hazard problem.
+Knowing that a bailout will occur, they have incentives to take on huge risks because they have so little to lose.
+Furthermore, in some cases, the owners and managers of these institutions have been able to take the rescue funds for their own personal gain and send them out of the country before the institutions fail.
+Act as a Lender of Last Resort Infrequently Besides encouraging and promoting the adoption of prudential regulatory and supervisory measures to limit moral hazard, governments and institutions should act as lenders of last resort only when absolutely necessary, as doing so involves a tradeoff between the benefit of preventing a financial crisis and the cost of the moral hazard it creates, which increases systemic risk.
+Recognizing that the decision to act as a lender of last resort is often very difficult, lenders should refrain from providing funds to markets or institutions not in crisis or to those that are truly insolvent because of an unsustainable amount of debt.5 Furthermore, once a crisis is over, the liquidity that has been injected into the financial system must be removed so that asset prices represent the appropriate market-determined value.
+Current Challenges for an International Lender of Last Resort As discussed earlier, for certain types of crises in emerging markets an international lender of last resort is necessary.
+However, the dramatic improvement of the policy and financial environment around the world over the past several years has left many wondering whether such crises are things of the past.
+For emerging-market economies, the most prominent international institution to act as a lender of last resort has been the International Monetary Fund (IMF).
+However, demand for IMF lending has dropped more than 80 percent since 2005 as emergency lending has almost ceased and most borrowers have repaid their loans.
+Such developments have led some to speculate that an international lender of last resort is no longer needed.
+However, it would be naïve to think that we will never again see situations where an international lender will be indispensable.
+The past few years have been unusual ones, providing ideal conditions for strong growth in emerging markets.
+In particular, growth in industrial countries has been solid, borrowing costs have been very low, and commodity prices have been high, not just for fuel but also for many of the primary metals and agricultural products that are produced in developing countries.
+Many countries have taken advantage of these developments to pay down debt and consolidate fiscal balances.
+Nevertheless, concerns remain.
+Numerous economies are vulnerable to changes in commodity prices or slower world demand.
+This is particularly true for countries that have not improved their financial and regulatory infrastructure and that have adopted policies that stifle investment.
+In some countries, corporate and household debt levels have increased greatly.
+For example, one troubling development in the past few years has been the sharp rise of home mortgage lending in foreign currencies, particularly in eastern Europe.
+This development threatens to unwind the progress made in reducing currency mismatches by shifting the locus of the mismatch from the government or financial sector to the household sector, in which market participants are less well equipped to understand the risks they are taking on.
+And, more generally, we are increasingly realizing that globalization and the growth of markets have led to complex and occasionally surprising interconnections among markets and economies.
+Individual countries and regional institutions can track these developments to some extent, but the need to have institutions devoted to international monetary and financial stability on a global level has perhaps never been greater.
+Given a need for lenders of last resort, the question remains, what institutions will best fill that role?
+The answer is that it is likely to be best filled by a combination of institutions.
+In some cases, as we have just seen, individual countries, particularly the large industrial countries, will be able to provide liquidity to markets that are domestically based but global in their linkages.
+To a much larger extent than in the recent past, countries are also working to insure themselves through the accumulation of foreign currency reserves.
+In the past few weeks, we have seen such reserves being used in the industrial and developing worlds to dampen volatility in exchange rates.
+Also, talk of regional arrangements such as the Chiang Mai initiative for currency cooperation in Asia, has been increasing.
+Finally, the IMF remains the premier institution overseeing international monetary and financial stability and crisis lending.
+None of these options are perfect by themselves.
+Although central banks of large industrial countries have tremendous resources, their primary focus is domestic monetary policy and they have little mandate for involvement in crises without systemic implications for their countries.
+It is a positive development that countries with significant exposure to foreign currency risk are more and more able to insure themselves with reserves.
+However, there are costs associated with such reserve accumulation and there is also a danger that, under the guise of "insurance," countries will engage in activities--including intervention to keep their currencies weak--that are increasingly distorting global capital and trade flows.
+In terms of regional arrangements, the trend toward rising international cooperation and coordination can have benefits.
+But regional institutions are typically small and untested, and so their actions may risk undermining more-global efforts.
+Moreover, their lending may violate the principles I discussed above.
+In many cases, the IMF is likely the best institution to provide liquidity--it has long experience in this role, significant expertise, and the ability to distribute funds quickly.
+However, IMF funds may be insufficient when the crisis countries--and associated capital markets--are large.
+In the mid-1990s and early 2000s, for example, the IMF worked in combination with other lenders in the cases of Korea and Mexico.
+Regardless of the institution providing emergency liquidity, several challenges must be addressed if that function is to remain effective.
+One such challenge, which recalls principle number one for operating as a lender of last resort, is the growing need to respond quickly as financial crises evolve.
+As shown by the events of the past several months, in a world of instantaneous communication and fully integrated financial markets, disruptions in such markets can materialize and spread very rapidly, thereby placing a premium on the ready analysis of developments and quick disbursement of funds.
+Moreover, an international lender of last resort will be challenged to substantively address liquidity problems in an environment in which gross international flows of capital are increasingly large and threaten to dwarf the resources that can be mustered by the international facility.
+In many cases, the IMF's funds will be sufficient--as of July, the institution had almost $200 billion in resources available for new financial commitments in the coming year.
+But in cases involving the largest countries and capital markets, the IMF has played, and must continue to play, the role of coordinator of funds from a variety of sources (a role it adopted most noticeably in the Mexican and Korean crises) or that of a catalyst to restore confidence (as in Brazil in 2002).
+A second key challenge for an international lender of last resort remains the need to limit moral hazard by encouraging adequate prudential supervision--principle number two discussed earlier.
+To address this concern, the official international community has promoted such efforts as the establishment of the Financial Sector Assessment Program (FSAP), the preparation of Reports on the Observance of Standards and Codes (ROSCs), and the publication of Financial Soundness Indicators.
+In particular, the FSAP and ROSC initiatives, which are conducted jointly with the World Bank, consist of detailed public examinations of the financial sectors of member countries and of the countries' adherence to best practices in data dissemination, policy transparency, legal systems, corporate governance, and in combating money laundering and terrorist financing.
+In combination with the FSAP, the ROSC program has greatly increased the pressure on emerging markets to adopt reforms to improve economic and financial stability and limit moral hazard.
+This surveillance should enhance the effectiveness of lending regardless of which institution provides the emergency liquidity.
+A third important challenge, reflecting principle number three for operating as an international lender of last resort, is to bolster the ability to say no to countries and, in cases of insolvency, to facilitate the involvement of governments and the private sector.
+Several years ago the IMF adopted criteria that countries must meet to receive sizable loans.
+These criteria included rigorous analysis indicating that a country's financial difficulties reflected a crisis of liquidity rather than of solvency, a high likelihood of a quick return to borrowing from private markets, and a strong probability that the stabilization program would be successful.
+It is less clear what safeguards regional institutions are adopting to enable them to say no to members when the lending is not justified.
+Moreover, in countries where reserves are plentiful, it may tempting to lend to insolvent institutions and to avoid the difficult reforms necessary to address the underlying weaknesses.
+Distinguishing between illiquidity and insolvency, though critical to being an effective lender of last resort, is exceedingly difficult.
+The difference hinges on many assumptions about future economic conditions, including global and domestic demand, interest rates, commodity prices, exchange rates, and so on, as well as the behavior of market participants, policymakers, and consumers.
+Moreover the determination is not a static one.
+Institutions and markets that are initially illiquid can quickly become insolvent without the appropriate funds.
+The distinction may be even trickier in the case of sovereign insolvency.
+One could argue that governments have at their disposal an even greater range of possible policy responses to crises than do firms or markets, and so they face a greater range of potential outcomes.
+Around the world over the past few weeks, central bankers, market participants, academics, and the media have been wrestling with the question of what it means to be an effective lender of last resort.
+Appropriately providing liquidity while limiting the risk of moral hazard has always been a challenge.
+Within their own countries, policymakers worldwide must wrestle with the best way to design institutions and, in times of crisis, support the stability of financial systems, in both the short and long runs.
+This approach must also be taken internationally.

@@ -1,0 +1,14 @@
+Here at the Fed, we are continually assessing the current state of the economy, updating our outlook for economic activity, and estimating the risks around that outlook.
+In this environment, we assess a broad array of government and private-sector data to determine what they imply for the achievement of the Fed's statutory goals of maximum employment and price stability.
+As a result, this conference and the range of topics on your agenda for today and tomorrow are highly relevant for us.
+More timely and accurate information sourced from nontraditional data and the use of new techniques should permit Board staff economists to make better estimates of the evolving news and what it implies for the economic outlook and allow policymakers to make better-informed decisions.
+Over these next two days, you will hear about the use of new tools and nontraditional data sources and what they say for the assessment of inflation and the labor market; about the use of new methods for forecasting; and about extracting information from text and using textual analysis to evaluate regulatory complexity and understand central bank communications.
+You no doubt will have many conversations in this room and during breaks about the usefulness of big data and new techniques for macroeconomic analysis.
+I am pleased to see some former colleagues and important contributors to macroeconomics and measurement on your conference program, such as Erica Groshen; Ron Jarmin; Matthew Shapiro; Hal Varian; and David Wilcox, who recently left the Fed for other pastures.
+I would also like to acknowledge the diversity this conference offers.
+This conference is interdisciplinary, bringing together people from many different fields of studyâ€”economists, computer scientists, and statisticiansâ€”as well as people from many different types of institutions, including universities, central bank research departments, statistical agencies, and the private sector.
+We all stand to benefit from work across disciplines, and the connections forged at conferences such as this one can be highly fruitful.
+To a large extent, the use of nontraditional data, machine learning, and natural language processing in macroeconomics and for policy is only just in its infancy.
+In many cases, we are unsure of the efficacy or benefits of these approaches.
+Coordination between statistical agencies and policymaking institutions will help us achieve our shared goalâ€”a better understanding of the economy.
+To this end, the discussions on the use of big data and new techniques for central banking and on the possibilities for cooperation between private companies and government agencies should be particularly helpful.

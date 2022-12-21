@@ -1,0 +1,64 @@
+I will start with some brief remarks about the current economic situation and monetary policy and then turn to the actions that the Federal Reserve has taken this year to help ensure that the banking system remains a source of strength during the recovery from the COVID event, the term I use for the complex set of responses in both the private and public sectors to the outbreak of COVID-19.
+I will close with some thoughts on nonbank financial institutions and international coordination.
+Although the COVID event put the U.S. economy in a deep hole, the recovery since the economy began reopening in May has been stronger than almost any forecaster predicted back in the spring.
+Spurred in part by record fiscal stimulus, both business and household spending appear to have bounced back significantly through the third quarter, and we have regained about half of the jobs lost in March and April.
+I attribute a good portion of that strength to the inherent dynamism and flexibility of the American economy.
+Although the COVID event continues to stress businesses, many businesses adjusted their operations to remain open, and applications for new businesses surged over the summer.
+Meanwhile, better treatments and more-targeted containment measures focused on protecting the most vulnerable have resulted in falling rates of hospitalization and mortality.
+Therefore, I am optimistic that the recovery from the COVID event will continue to be robust.
+Of course, while we're doing better than expected, we still have a ways to go.
+The labor market remains deeply depressed, and employment is far short of the Federal Reserve's maximum employment goal.
+We are also keenly aware that the harm from higher unemployment has fallen even more than usual on those low-income households least able to bear it.
+Some businesses, particularly those in high-contact and personal-service industries, largely have been left out of the recovery.
+Inflation is well below our 2 percent longer-run goal, and some measures of inflation expectations have ticked down.
+Therefore, at the September Federal Open Market Committee (FOMC) meeting, I voted in favor of the new and clearer forward guidance for monetary policy because it will provide additional support for the recovery.1 Indeed, interest-rate and credit-sensitive sectorsâ€”business spending, home sales, auto sales, and other "big-ticket" itemsâ€”have helped fuel that recovery.
+This spending was supported by our timely and forceful moves to cut the federal funds rate to its effective lower bound, restore market functioning, and provide emergency support to households and businesses through 13(3) emergency lending facilities.
+Which leads me to the banking industry.
+For monetary policy to fully support Main Street, we need a well-capitalized, stable banking system that is lending to creditworthy households and businesses.
+Since the Global Financial Crisis (GFC), the Federal Reserve has focused on building the resiliency of banks so that they would be a source of strength during the next downturn.
+Thus far, that plan has borne a great deal of fruit.
+As the crisis intensified in early March, banks stepped into the breach and met the massive demands for cash from businesses that drew on their preexisting credit lines.
+Banks also funded the bulk of the more than $500 billion in Paycheck Protection Program (PPP) loans.
+According to our weekly bank credit data, commercial and industrial loans increased $715 billion between the week of February 26th and their peak on May 13th.2 For millions of struggling households, banks have agreed to forbear interest and principal payments on their loans.
+In addition, through September, banks absorbed more than $1.2 trillion of central bank reserves and received about $2.5 trillion of core deposits from investors who sought the safe haven of the U.S. dollar and insured bank accounts.
+As supervisors, we recognized that these actions strained the balance-sheet capacity of banks and so have taken a number of steps to allow them to continue to support their customers during this unprecedented time.
+A number of those stepsâ€”such as encouraging banks to work with their customers until the emergency subsidesâ€”are consistent with what we do whenever there is a natural disaster that disrupts normal commerce.
+But the COVID event has affected the entire country at the same time, requiring a broad set of extraordinary actions.
+For instance, we have temporarily exempted reserves and Treasury securities from the Supplementary Leverage Ratio so that banks do not become constrained by growing Treasury issuance and central bank reserves and can support businesses and households.3 More broadly, we have reintroduced and added numerous funding facilities through our 13(3) authority to support the continued flow of credit in the economy.4 Throughout all this, U.S. banks have remained financially healthy.
+Second-quarter data showed that most banks were profitable, aggregate capital ratios increased, and banks continued to maintain ample levels of liquidity.
+In addition, banks added substantially to their loan loss reserves over the first half of 2020, providing additional resilience.
+This week, some of the largest institutions have begun to report that their profitability held up again in the third quarter, partly because their robust provisions for loan losses earlier this year limited the need for additional provisions this quarter.
+Going forward, we will want to be sure that banks remain a source of strength and support for the economy.
+Even with the economic recovery being stronger and faster than expected, there are certainly reasons to be vigilant.
+Interest rates are likely to remain very low for quite some time, putting downward pressure on banks' net interest margins and their profitability more generally.
+The high level of corporate debt and elevated valuations in commercial real estate going into this crisis, combined with prolonged uncertainties and changes in the way we shop and work, could lead to higher-than-expected losses on loans to some of these businesses.
+Consumer lending and residential mortgages seem to be holding up well so far, which may reflect the relatively high quality of household credit going into the COVID event.
+However, the performance of these loans also needs to be watched closely in light of the forbearance policymakers have encouraged and the possibility of a reduction in fiscal support for households.
+For the past decade, robust stress testing has been at the core of our strategy for ensuring that our largest banks have sufficient capital to meet the credit needs of their customers while weathering an extreme downturn.
+In making decisions about our stress tests this year, I have been guided by three principles: First, we want to make sure that our supervisory and regulatory actions do not exacerbate the fallout from what was the most extreme deterioration in economic conditions on record.
+Second, we want to jealously guard the credibility of our stress tests, which restored confidence in banks during the GFC and have helped maintain that confidence since.
+Third, we want to establish the precedent that our response to a crisis would remain as deliberate, data driven, and bank specific as could be done prudently.
+Therefore, once it was apparent that our initial stress test scenarios for 2020â€”which were released before the pandemicâ€”had been overtaken by events, we conducted a suite of additional analyses to assess the sensitivity of this year's results.5 This comprehensive analysis included consideration of banks' vulnerabilities under three additional downside scenarios that were very severe even given how gloomy the picture looked this spring.
+The staff also incorporated a number of conservative assumptions about the balance sheet changes that we saw at the end of the first quarter.
+This analysis found that the banking system would experience substantial losses under those highly adverse conditions but remain well capitalized in the aggregate.
+However, individual bank outcomes across the three scenarios varied significantly.
+The variation in those outcomes highlighted the considerable uncertainty in the economic outlook at the time and how that would translate to banking conditions in coming quarters.
+Accordingly, we required banks to resubmit their capital plans and took several actions to preserve capital in the interim.
+For the third quarter, the Board required large banks to suspend all stock repurchases, capped their dividends, and placed a second limit based on individual banks earnings.
+The limitation of share repurchases, which accounted for 70 percent of all capital distributions at large banks in recent years, by itself led to a meaningful preservation of capital among large banks.
+The dividend restrictions guarded against capital depletion in the event that some banks experienced unexpectedly large losses, while still allowing firms that could support them to pay out dividends.
+Late last month, the Board extended the distribution limitations onto the fourth quarter amid the continued uncertainty.
+The Federal Reserve is currently conducting another round of stress tests, using two new severe downside scenarios published last month, and will release bank-specific results from both scenarios before the end of the year.6 Taken together, these actions will preserve capital in the system during this highly uncertain time.
+As I noted, I also hope that the process we followed to arrive at these decisions will affirm that our actions, even in a crisis, will be dictated by the most comprehensive analysis we can do in a timely manner and will be as tailored to individual institutions' condition as is feasible given the circumstances.
+While banks so far have been resilient to the shock from the COVID event, the same cannot be said for important parts of the system of nonbank financial intermediation (NBFI).
+Starting in March, Federal Reserve facilities were needed to contain pressures in some prime money market funds, as well as, to a lesser extent, in certain long-term mutual funds that invest in corporate debt.
+Other types of NBFI also struggled during that period, including nonbank mortgage servicers and real estate investment trusts, the latter of which received support from the Board's decision to, for the first time, purchase agency commercial mortgageâ€“backed securities.7 The vulnerabilities of NBFI are also at the top of the mind of international regulators.
+The Financial Stability Board's (FSB) annual report on NBFI indicates that the NBFI sector is now almost 50 percent of total financial intermediation, and many NBFIs rely on the banking system for credit and backstop liquidity.8 Thus, late last year, I formed a high-level steering group of central bankers, market regulators, and international organizations to oversee the FSB work on nonbank finance and to help coordinate work across the range of global standard setting bodies that oversee the financial sector.
+The group is currently completing a holistic review of the COVID event to better understand the role that vulnerabilities stemming from the NBFI sector played in those events.
+In the wake of the COVID event, we have made good progress in arriving at a shared diagnosis of the market turmoil that happened during the onset of the event in March.
+Our discussions have surfaced a number of issues associated with particular types of market participants and mechanisms that may have caused liquidity imbalances and propagated stress.
+They include: vulnerabilities in money market funds (as I discussed earlier); dealers' capacity and willingness to intermediate; market structure in the core government bond markets and, potentially, the role of leveraged investors; and fragilities in US dollar cross-border funding.
+We are looking at the role that each of these factors may have played, but we are not yet prepared to say "J'accuse" to any one of them.
+This is because our work has also reinforced the point that one needs to examine the system as a whole and take into account the various linkages within nonbank financial intermediation and between nonbanks and banks.
+We will provide to the G20 Summit next month our holistic review of the turmoil and a concrete set of proposals for follow-up work on NBFI.
+This will provide a basis for a work plan for 2021, focused on better understanding this critical sector, vulnerabilities related to it, and how we might take a more macroprudential approach to supervising and regulating at least some parts of this sector.

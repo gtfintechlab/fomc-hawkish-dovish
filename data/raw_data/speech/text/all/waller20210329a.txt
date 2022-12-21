@@ -1,0 +1,77 @@
+One of my main fields of inquiry was monetary policy theory.
+I have long been a strong believer in the virtues of central bank independence, and today I will devote my remarks to that topic.1 As a result of the COVID-19 crisis, tremendous monetary and fiscal measures have been taken to provide economic relief to American households and businesses.
+The Federal Reserve took a host of actions, including lowering its policy rate to zero and purchasing securities to support market functioning and provide monetary accommodation.2 The Congress enacted several packages that funded the health response to the pandemic, expanded unemployment insurance, and provided economic assistance payments to households and businesses.3 The virus also created uncertainty and turbulence in financial markets, which led the Federal Reserve to establish emergency lending programs to serve as lending backstops and support the flow of credit to households, businesses, nonprofits, and state and local governments.4 Establishing these programs under section 13(3) of the Federal Reserve Act required substantial cooperation between the Department of the Treasury and the Federal Reserve.
+The Congress has provided spending of roughly $5.8 trillion during the past year to deal with the pandemic and its effects on the economy.5 This action has pushed the ratio of publicly held U.S. debt to nominal gross domestic product to more than 100 percent for the first time since World War II.6 The Federal Reserve's holdings of U.S. government debt has risen to around $7 trillion, with about $2.5 trillion of that total resulting from its asset purchase program aimed at smoothing credit market functioning and providing monetary accommodation.
+Because of the large fiscal deficits and rising federal debt, a narrative has emerged that the Federal Reserve will succumb to pressures (1) to keep interest rates low to help service the debt and (2) to maintain asset purchases to help finance the federal government.
+My goal today is to definitively put that narrative to rest.
+It is simply wrong.
+Monetary policy has not and will not be conducted for these purposes.
+My colleagues and I will continue to act solely to fulfill our congressionally mandated goals of maximum employment and price stability.
+The Federal Open Market Committee (FOMC) determines the appropriate monetary policy actions solely to move the economy towards those goals.
+Deficit financing and debt servicing issues play no role in our policy decisions and never will.
+Chair Powell made this same point in his recent comments to the Economic Club of New York.7 My objective today is to reinforce that message.
+This does not mean, however, that the Treasury and Federal Reserve should never work together.
+My comments today will focus on the issue of cooperationâ€”on when and how much is beneficial and on the potential costs that should not be overlooked.
+Let me point out that there are two fronts for interaction between the Treasury and the Federal Reserve.
+The first is what I will call "back office" operations.
+By this term, I mean the range of fiscal agency services that the Federal Reserve provides to the Treasury by statute.8 For example, the Federal Reserve maintains the Treasury's operating account, accepting deposits, paying checks, and making electronic payments on behalf of the Treasury.
+It provides securities services on behalf of the Treasury, supporting the auction, issuance, and redemption of marketable Treasury securities.
+It also provides application development and infrastructure support services, assisting in the Treasury's efforts to improve government cash- and debt-management processes.
+Since the Federal Reserve is the fiscal agent for the Treasuryâ€”and to play that role efficiently and at low costâ€”the Federal Reserve and the Treasury must always work closely together on operations issues.
+The second form of interaction involves the Treasury and the Federal Reserve working together on certain macroeconomic policy issues.
+I will discuss two areas where differing degrees of interaction could occur, emergency lending facilities and economic stabilization, and one area where that interaction should not, and does not, occurâ€”debt financing.
+First, let me talk about emergency lending facilities authorized by section 13(3) of the Federal Reserve Act.9 During a financial crisis or extreme market malfunctioning, cooperation between the fiscal and monetary authorities is imperative.
+An important role of a central bank is to step in and provide liquidity to ensure market functioning during those "unusual and exigent circumstances.
+"10 And under those circumstances, since the passage of the Dodd-Frank Wall Street Reform and Consumer Protection Act, the Secretary of the Treasury is required to approve any new programs under the Federal Reserve's emergency lending authority.
+As I mentioned, the Federal Reserve and the Treasury undertook this kind of coordinated response a year ago, as uncertainty about the economic effect of the virus caused markets to begin seizing up.
+Many section 13(3) facilities were established to support the flow of credit to households, businesses, and state and local governments.
+All of these emergency programs required the approval of the Secretary of the Treasury, and many of them were supported by the Treasury's financial backing, using funds specifically appropriated by the Congress for these facilities in the Coronavirus Aid, Relief, and Economic Security Act.
+At times like these, cooperation between the fiscal and monetary authorities strengthens financial stability.
+A financial crisis is not a time for uncooperative behavior from either side.
+However, with regard to the second area, economic stabilization, it is imperative that the central bank remain independent from the fiscal authority.
+There are sizable costs if cooperation turns into fiscal control.
+To understand this point, consider a situation where the economy is hit with a negative shock that depresses aggregate demand.
+The Macro 101 textbook policy response we teach students is for the monetary and fiscal authorities to enact stimulative policies to increase aggregate demand.
+This effort involves fiscal actions, such as increasing spending and cutting taxes, which increase the deficit.
+The finance ministry's job is to finance the deficit that results from these fiscal policy actions.
+Greater borrowing by the finance ministry to finance these policies will tend to put upward pressure on interest rates, which crowds out private sector spending.
+In this textbook example, the monetary authority should respond to this upward pressure on interest rates by adopting a more accommodative policy stance to bring rates back down.
+From an institutional design viewpoint, what would be the appropriate arrangement to ensure this type of policy response?
+One obvious solution would be to give the finance ministry control of monetary policy to ensure a coordinated policy response.
+This logic suggests central bank independence is an impediment to optimal stabilization policy.
+So why have an independent central bank?
+Why create an impediment to socially beneficial cooperation?
+In the situation where monetary policy is under control of the Treasury, and thus the executive branch in the United States, political motivations may influence decisions.
+To return to my stabilization example, as the economy recovers, with all of the monetary and fiscal stimulus in place, this stimulus may lead to undesirable inflation pressures.
+The standard monetary policy response is to evaluate the current employment and inflation situations and raise interest rates when deemed appropriate.
+However, if monetary policy is under the control of the Treasury, then to further juice the economy for short-term political gains, this action could be delayed past the date the central bank would want to raise rates.
+Consequently, the argument goes that a hot economy may cause substantial inflation pressures that are hard to rein in politically, and which ultimately harm Americans in the longer run.
+This view is backed up by the political economy literature, which argues that having monetary policy under the control of political authorities may lead to excessive inflation and economic volatility that is not socially optimal.11 Put another way, it can lead to an unstable economy, on which households and businesses cannot rely.
+Subsequent academic research, including mine, focuses on ways in which the central bank could be designed to prevent this undesired outcome from happening.12 One of those ways is delegating decisionmaking to a policy committee that is insulated from short-term political pressures.
+Institutional details that enhance insulation include giving central bankers long terms and prohibiting removal from office for political reasons.
+This literature provides the theoretical foundations for central bank independence and the importance of central bank credibility.
+A look across countries is instructive.
+Operational independence with clearly specified goals for monetary policy has become the norm for central banks in advanced economies, reflecting the consensus that has emerged over the past 30 years concerning the benefits of central bank independence.
+The Congress was fully aware of the potential misuse of monetary policy for political reasons, and it purposefully created the Federal Reserve as an independent central bank.
+The design features of the Federal Reserve minimize political influence over monetary policy while still maintaining accountability to the Congress and to the electorate for its policy actions.13 Eventually, in 1977, the Congress mandated that the Federal Reserve conduct monetary policy to effectively promote the goals of maximum employment and price stability.
+By having monetary policy overseen by independent officials, the incentive to misuse stabilization policy for partisan purposes is reduced.
+Monetary policymakers can focus on what is best for the economy over the long run.14 Finally, we come to the third area of potential interaction between the central bank and the Treasury: debt financing.
+When governments run up large debts, the interest cost to servicing this debt will be substantial.
+Money earmarked to make interest payments could be used for other purposes if interest rates were lower.
+Thus, the fiscal authority has a strong incentive to keep interest rates low.
+The United States faced this situation during World War II.15 Marriner Eccles, who chaired the Federal Reserve at the time, favored financing the war by coupling tax increases with wage and price controls.
+But, ultimately, he and his colleagues on the FOMC concluded that winning the war was the most important goal, and that providing the government with cheap financing was the most effective way for the Federal Reserve to support that goal.
+So the U.S. government ran up a substantial amount of debt to fund the war effort in a low interest rate environment, allowing the Treasury to have low debt servicing costs.
+This approach freed up resources for the war effort and was the right course of action during a crisis as extreme as a major world war.
+After the war was over and victory was achieved, the Treasury still had a large stock of debt to manage and still had control over interest rates.
+The postwar boom in consumption, along with excessively low interest rates, led to a burst of inflation.
+Without control over interest rates, the Federal Reserve could not enact the appropriate interest rate policies to rein in inflation.
+As a result, prices increased 41.8 percent from January 1946 to March 1951, or an average of 6.3 percent year over year.16 This trend, and efforts by then-Chair Thomas McCabe and then-Board member Eccles, ultimately led to the Treasury-Fed Accord of 1951, which restored interest rate policy to the Federal Reserve.
+The purpose of the accord was to ensure that interest rate policy would be implemented to ensure the proper functioning of the economy, not to make debt financing cheap for the U.S. government.
+The upshot of these examples is that cooperation between the Federal Reserve and the Treasury is important to address macroeconomic policy issues.
+But research shows that, to avoid distortions in using monetary policy for deficit financing, it is important to have an independent central bank with a clear and credible inflation target, which the Federal Reserve does.17 Central bank independence is critical for maintaining that target and keeping inflation expectations in line with that target.
+My message today is that the Federal Reserve and the Treasury should work together at key times and along certain dimensions.
+Back-office operations are done efficiently and effectively in this manner.
+And in times of crisis, coordination allows policies to be implemented quickly and forcefully to set the stage for a strong path of recovery.
+But for this arrangement to work, the political independence of the Federal Reserve is essentialâ€”it is the best way for the Federal Reserve to meet its congressional mandate and allow policymakers to meet the longer-term needs of the American people.
+The Treasury and the Federal Reserve both recognize this necessity and have issued joint statements to this effect in the past.18 With this independence, of course, the FOMC is committed to being accountable and transparent about our actions to both the Congress and the publicâ€”and the Federal Reserve strives to continually improve its transparency.

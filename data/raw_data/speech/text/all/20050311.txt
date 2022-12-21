@@ -1,0 +1,80 @@
+In past years, I have discussed many and varied issues with you, from technological change to the future of community banking in the United States.
+Today, I sense that concern about the burden of regulation is high on your agenda.
+I thought it might therefore be useful to share some views on regulatory burden from the perspective of a bank regulator.
+A Framework American banking dates to the earliest days of our nation, and its long history has, I believe, taught us some valuable lessons.
+Foremost is that our banking system plays a central role in allocating resources, pooling capital, and funding and fostering economic growth.
+That role has not changed as our financial system has become more complex and diverse.
+We also have learned that leveraged banking systems can be both an initiator and a conduit of painful financial and real economic instability.
+We must keep both of these historical lessons in mind in any evaluation of banking regulation for they explain the tension between our appreciation for the central role that banks play in our prosperity and our concern about banks' potential effects on economic stability.
+Over the years, that tension has been reflected primarily in "safety and soundness" regulation, the supplement to banking supervision.
+Banking supervision is intended to be flexible and to be carried out case by case; it is designed to limit--not eliminate--the risk of failure.
+Over the past fifteen or so years, supervision has focused on ensuring that bank management has in place policies and procedures that will contain such risk and that management adheres to those policies and procedures.
+Supervision has become increasingly less invasive and increasingly more systems- and policy-oriented.
+These changes have been induced by evolving technology, increased complexity, and lessons learned from significant banking crises, not to mention constructive criticism from the banking community.
+Regulations, on the other hand, prescribe and proscribe what must be done and what may not be done in specific areas, and most reflect past events.
+Many regulations are thus backward-looking, adopted in response to specific problems but often remaining after the problems are resolved.
+However, public comments, changing market realities, and our internal programs help us to identify regulations that no longer serve public policy objectives.
+We then update or remove those regulations.
+In other cases, market changes and innovations often require changes in regulations, or even new regulations, to ensure that policy objectives continue to be achieved.
+The need for safety and soundness supervision and regulation has been greatly reinforced in the past century to address the market distortions that are unavoidable consequences of the special benefits provided to banks, benefits that were promulgated because of the tensions between bank contributions to growth and concerns about banks' role in economic instability.
+These benefits are access to the Federal Reserve's discount window; access to the payment system, especially Fedwire; and deposit insurance.
+These provisions, collectively often called the bank safety net, were designed to minimize the potential for asset or other problems in the banking system to disrupt the real economy, but, as an unavoidable byproduct, also provide an important subsidy to banks.
+By protecting depositors and counterparties, they also reduce, if not eliminate, much of the market discipline that constrained risk-taking by nineteenth-century banks.
+While there is some evidence that the Federal Deposit Insurance Corporation Improvement Act of 1991 has reduced the value to banks of the safety net, bank safety and soundness regulation and supervision still must act as a supplement to, if not a substitute for, the market discipline that the safety net undermined The increasing scale and diversity of our nonbank financial institutions has suggested to some that those institutions, too, need to be subject to bank-like supervision and regulation, since their risk-taking, while contributing to our economic growth, also has implications for stability.
+However, it is clear from leverage ratios and other indicia of their funding process that the market monitors and disciplines nonbank entities far more intensively than banks.
+Indeed, the real difference between banks and these entities is the difference we have made for banks: the creation of the safety net and the resultant need to find a mechanism to substitute for the market discipline displaced by the safety net.
+To be sure, we have increasingly tried to make supervision and regulation more like the discipline the market would impose if there were no safety net, but human beings cannot duplicate the market, or adjust as adroitly, and hence we turn to rules and to insistence on prudential policies and procedures.
+Traditional banking regulation is well understood and appreciated, or at least tolerated, by bank management.
+But other forms of regulation have been required by the Congress in the last three or so decades.
+One class of regulations is concerned mostly with ensuring that banking institutions serve their communities by addressing possible instances of discrimination and, more recently, by assisting law enforcement.
+Examples are regulations adopted to carry out provisions of the Equal Credit Opportunity Act (ECOA), the Community Reinvestment Act (CRA), the Home Mortgage Disclosure Act (HMDA), and, the Bank Secrecy Act (BSA).
+Another class of regulations addresses "consumer protection," which the agencies, at the direction of the Congress, have implemented by adopting rules designed primarily to provide consumers with information to protect themselves (in some cases, however, the rules also involve substantive restrictions on certain practices).
+More generally, these regulations, if crafted carefully, should enhance market efficiency by providing consumers with more complete, consistent, and timely information; by promoting consumer awareness and shopping; and by opening the way for more-effective competition.
+That is surely our intention with our Truth-in-Lending and Truth-in-Saving regulations, for example.
+The same factors that make banks candidates for supervision and regulation--their central role in the financing process coupled with the benefits of the safety net provided to banks by government--have also made banks prime candidates for lawmakers to select as vehicles to achieve desired social and economic objectives.
+Not only can banks deliver because of their economic role and expertise, but also legislators often believe banks have an obligation to do so because of the special benefits that have been provided for them.
+In implementing the law of the land, cost-benefit calculations often require compromises and modifications.
+The recently announced proposal by the Federal Deposit Insurance Corporation, the Office of the Comptroller of the Currency, and the Federal Reserve to modify CRA exams is an example.
+In addition, the agencies constantly struggle to avoid unintended consequences, particularly to limit the extent to which our rules, as well as our compliance supervision, cause an undesirable change in credit availability or in bank behavior that undermines the objective of the rules.
+To be effective regulators, we must also attempt to balance the burdens imposed on banks with the regulations' success in obtaining the intended benefits and to discover permissible and more-efficient ways of doing so.
+Because we understand that regulatory changes can be quite costly, we recognize as well the important regulatory responsibility to balance the cost of change with the desired benefits.
+But markets are not static, and changes must be made from time to time to fulfill the objectives of the law being implemented.
+Basel II All of these factors--unintended consequences, balancing burdens and benefits, as well as the need for and the cost of change--enter the calculus for the implementation of the proposed new Basel Capital Accord.
+As you know, although they will not be required to adopt the new capital rules, many community and regional banks are uneasy that they may be left at a competitive disadvantage after the 2008 adoption of the new rules by their larger rivals.
+To gauge whether these concerns are warranted, the Federal Reserve has been studying the competitive implications of Basel II implementation.
+Some of our studies have been completed and made public; others will be published in coming weeks.
+For some business lines, the studies have suggested that competitive impacts are not likely, while for others, such as some types of small business loans, it does appear that unintended competitive advantages and disadvantages might be created.
+Where concerns appear valid, we and the other federal banking agencies will this summer propose some options for simple revisions to the current capital rules that would mitigate any unintended and undesired competitive distortions engendered by the new Accord.
+Moreover, as in the past, if competitive or other issues later arise that we cannot now adequately foresee, the Federal Reserve would make appropriate further adjustments to the rules.
+HMDA Disclosure Another example of the need for and the cost of change--and perhaps the risk of unintended consequences--can be found in the new rules regarding HMDA disclosures.
+Several factors have substantially changed the structure of residential mortgage lending over the past decade or so.
+Prominent among these are developments in information processing technology that permit more-efficient and more-accurate risk assessment and management.
+In addition, the dynamics of the marketplace have induced banks to seek new lending opportunities.
+Moreover, earlier HMDA data collections have led many institutions to review and, in some cases, to modify their marketing and underwriting practices.
+These developments have induced banks to change their policies from simply not making riskier mortgage loans to making such credit available but charging for the additional risk taken.
+Banks are now making many more such loans to higher-risk borrowers, and they justifiably seek compensation for the higher risk through higher interest rates.
+An economist would suggest that in perfect markets nominal rates on loans would be different, but risk-adjusted real rates, that is, the rate after deduction of expected losses, would be about the same on all loans.
+Such risk-based pricing is consistent with expanding access to credit.
+Indeed, many of those receiving higher-rate loans would in the past have been denied credit at lower rates.
+However, some banks are concerned about the risk to their reputation that might be precipitated by the new HMDA data on rates charged for the higher-rate segment of the market.
+Specifically, by doing what public policy intended--increasing credit availability to less creditworthy, often minority, borrowers--banks might be accused unfairly of discrimination by those who fail to connect risk to price or to evaluate rates in terms of risk measures.
+Such concerns are understandable as, indeed, also are concerns that race, gender, ethnicity or other characteristics not reflective of risk per se may still adversely affect the cost of credit to some borrowers.
+The adoption of risk-based pricing, together with elements of discretion that are often afforded loan officers or brokers in the pricing of credit, does raise the concern that some borrowers, in fact, may not be treated fairly.
+The changes in market structure coupled with such concerns suggested to us the need to revise our HMDA data collection in order to gather information on rates charged to aid us in seeing if, in fact, differences in rates are truly driven by differences in risks and costs and not tainted by discrimination.
+We recognized that such conclusions require far more detailed evaluations than is possible using HMDA information alone, with or without the additional data on rates.
+Nonetheless, the pricing data will assist as a screening tool to facilitate self-monitoring and enforcement activities.
+If screening suggests that there might be a fairness issue, additional information will need to be collected from banks' loan files or other sources.
+Bank Secrecy Act and Suspicious Activity Reports In the last year or so, banks have also become concerned about the scope of their obligations to file Suspicious Activity Reports (SARs) under Bank Secrecy Act regulations and the sanctions used to address deficiencies, which have included criminal prosecutions.
+The purpose of the law and its associated regulation is to capitalize on the banks' central role in payments and financial flows by, in effect, making banks partners with law enforcement to address criminal activities such as money laundering by drug dealers, the financing of terrorist activities, and fraud.
+As you know, SAR regulations call for banks to report what they believe to be "known or suspected" violations and suspicious activities by their customers that could be associated with such criminal activities.
+Bank regulations and supervisory oversight are designed to reinforce the building of systems and the development and application of bank policies, both of which are to highlight for management what could be suspicious or unlawful activity by customers and employees, the basis of the SARs reports.
+But banks are to make the judgment of what is likely to be useful information for law enforcement.
+The banking agencies are in the process of developing compliance examination guidelines under the Bank Secrecy Act, which we hope can provide uniform direction on SAR filing requirements.
+The Federal Reserve is working closely, and will continue to work closely, with the staff of the Treasury Department responsible for anti-money-laundering and terrorist-financing enforcement, as well as with other bank regulatory agencies and the Justice Department, to support a fair, effective, and consistent approach to Bank Secrecy Act compliance.
+All of us want the system to work, including the bankers who want to do their part in curbing criminal and terrorist activities.
+Besides participating in interagency discussions, we intend to monitor developments so as to be in a position to help make the system work without excessive burden.
+Such assistance will, we believe, require that all parties, including law enforcement authorities, better understand not only how banks and banking supervision operates but also the unintended consequences that will surely accompany a misunderstanding of these operations.
+Conclusion In closing, let me underline just a few key points.
+When implementing the law, we try to avoid unintended consequences and excessive burden.
+Our regulatory programs go through intensive initial reviews that include extensive public comment, periodic review, and more-or-less continuous evaluation.
+Our cost-benefit analysis goes beyond burden to encompass likely effects on credit flows and bank behavior that may unintentionally defeat the purposes of the regulation.

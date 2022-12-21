@@ -1,0 +1,118 @@
+I am sure that, both in your academic studies and your practical experience, each of you has come to appreciate the rapid pace of change in the financial industry and the increasing complexity of that industry.
+My remarks will focus on an area that is evolving particularly quickly: the field of risk management.
+As you know, contemporary banking organizations are exposed to a diverse set of market and nonmarket risks, and the management of risk has accordingly become a core function within banks.
+Banks have invested in risk management for the good economic reason that their shareholders and creditors demand it.
+But bank supervisors, such as the Federal Reserve, also have an obvious interest in promoting strong risk management at banking organizations because a safe and sound banking system is critical to economic growth and to the stability of financial markets.
+Indeed, identifying, assessing, and promoting sound risk-management practices have become central elements of good supervisory practice.
+The evolution of risk management as a discipline has thus been driven by market forces on the one hand and developments in banking supervision on the other, each side operating with the other in complementary and mutually reinforcing ways.
+Banks and other market participants have made many of the key innovations in risk measurement and risk management, but supervisors have often helped to adapt and disseminate best practices to a broader array of financial institutions.
+And at times, supervisors have taken the lead, for example, by identifying emerging issues through examinations and comparisons of peer institutions or by establishing guidelines that codify evolving practices.
+The interaction between the private and public sectors in the development of risk-management techniques has been particularly extensive in the field of bank capital regulation, especially for the banking organizations that are the largest, most complex, and most internationally active.
+The current system of bank capital standards is the so-called Basel I framework, which was established internationally in 1988.
+Basel I was an important advance that resulted in higher capital levels, a more equitable international marketplace and--most relevant to my theme this evening--closer links between banks' capital holdings and the risks they take.
+However, as I will discuss, Basel I is becoming increasingly inadequate for our largest and most complex organizations.
+The activities of these organizations demand that we not only go beyond Basel I but that we continue to improve on today's most advanced methods of risk management.
+Thus, in the proposed new framework, known as Basel II, supervisors are seeking to draw upon industry best practice while also encouraging the industry to advance the risk-management frontier.
+The Evolution in Risk-Management PracticesRisk-management practices and bank supervision have both evolved over their long histories, but innovations in information technology and in financial markets have caused the pace of change to increase significantly over the past two decades.
+In particular, the management of market risk and credit risk has become increasingly sophisticated.
+Market RiskFor example, in the area of market risk, advances in data processing have enabled more analytically advanced and more comprehensive evaluations of the interest rate risks associated with individual transactions, portfolios, and even entire organizations.
+Institutions of all sizes now regularly apply concepts such as duration, convexity, and option-adjusted spreads in the context of analyses that ten years ago would have taxed the processing capabilities of all but a handful of large institutions.
+From the perspective of bank management and stockholders, the availability of advanced methods for managing interest rate risk leads to a more favorable risk-return tradeoff.
+For supervisors, the benefit is a greater resilience of the banking system in the face of a risk that figured prominently in some past episodes of banking problems.
+Other market risks are those inherent in trading and dealer activities.
+The management of such risks has also advanced significantly, in large part as a result of the growth and development of over-the-counter derivatives markets.
+Critical concepts such as value-at-risk and stress testing were pioneered and then became standard practice during the 1990s, advances that, again, were facilitated by the growth of computing power in that decade.
+Over the past few decades, banks' management of their capital-market risks has evolved from simple methods like the imposition of fixed position limits to increasingly sophisticated techniques that make use of extensive data analyses and a variety of new financial instruments.
+Supervisors have encouraged the continuous improvement of banks' systems for managing market risk by emphasizing that bankers bear responsibility for understanding and managing their risk profiles and by issuing guidance that, in some cases, includes industry advances in risk management.
+A case in point is the 1996 Market Risk Amendment to Basel I, in which supervisors incorporated industry innovations in the calculation of capital requirements for market risk, including the linking of capital charges to the outputs of banks' own value-at-risk models.
+Credit RiskThe banking industry has also made strides in managing credit risk.
+Until the early 1990s, the analysis of credit risk was generally limited to reviews of individual loans, and banks kept most loans on their books to maturity.
+Today, credit-risk management encompasses both loan reviews and portfolio analysis.
+Moreover, the development of new technologies for buying and selling risks has allowed many banks to move away from the traditional book-and-hold lending practice in favor of a more active strategy that seeks the best mix of assets in light of the prevailing credit environment, market conditions, and business opportunities.
+Much more so than in the past, banks today are able to manage and control obligor and portfolio concentrations, maturities, and loan sizes, and to address and even eliminate problem assets before they create losses.
+Many banks also stress-test their portfolios on a business-line basis to help inform their overall risk management.
+To an important degree, banks can be more active in their management of credit risks and other portfolio risks because of the increased availability of financial instruments and activities such as loan syndications, loan trading, credit derivatives, and securitization.
+For example, trading in credit derivatives has grown rapidly over the last decade, reaching $18 trillion (in notional terms) in 2005.
+The notional value of trading in credit default swaps on many well-known corporate names now exceeds the value of trading in the primary debt securities of the same obligors.
+Similarly, between 1990 and 2005, the market for loan syndications grew from $700 billion to more than $2.5 trillion, and loan trading grew from less than $10 billion to more than $160 billion.
+Asset-backed securitization has also provided a vehicle for decreasing concentrations and credit risk in bank portfolios by permitting the sale of loans in the capital markets, particularly loans on homes and commercial real estate.
+Risk-management principles are now ingrained in banks' day-to-day credit allocation activities.
+The most sophisticated banking organizations use risk-rating systems that characterize credits by both the probability of default and the expected loss given default.
+Consistent with the principles of the Basel II accord, the largest banks evaluate credit decisions by augmenting expert judgment with quantitative, model-based techniques.
+For instance, lending to individuals once relied mainly on the personal judgments of loan officers and was thus highly labor-intensive and subjective.
+Today, retail lending has become more routinized as banks have become increasingly adept at predicting default risk by applying statistical models to data, such as credit scores.
+Similarly, new analytical tools and techniques have made lending to corporate borrowers highly quantitative.
+Among these tools are models that estimate the risk-adjusted return on capital and thus allow lenders to price relevant risks before loan origination.
+Other tools include proprietary internal debt-rating models and third-party programs that use market data to analyze the risk of exposures to corporate borrowers that issue stock.
+Banks have also come to appreciate the importance of independent controls within the credit review and rating process.
+Innovations in technology have facilitated significant improvements in bank information systems, a development that the Basel II proposal also has encouraged.
+These systems increase the ability of bank management to identify, measure, and control key characteristics of portfolio risk.
+Evolution of Banking Supervision and Capital RegulationTo help fulfill their mandate to monitor and protect the safety and soundness of the financial sector, bank supervisors have consistently encouraged the development of risk management.
+Through guidance and the supervisory process, they have highlighted advances in sound risk-management practices and encouraged the industry to implement them broadly and consistently.
+Indeed, the four key elements of sound risk management that are widely accepted today were articulated more than a decade ago by Federal Reserve supervisors in guidance on managing derivatives activities and interest-rate risk.
+Those four elements are, first, good corporate governance--that is, active oversight by the board and senior management; second, the consistent application of policies, procedures, and limits; third, the use of appropriate risk-measurement techniques and reporting; and, fourth, the adoption of comprehensive internal controls.
+Since the mid-1990s, Federal Reserve supervisors have rated banks' risk-management capability as well as their financial condition as part of the examination process.
+Last year the Federal Reserve introduced a revised rating system for bank holding companies, under which each company receives a rating specifically for the quality of its risk management.
+This rating includes the four key elements of sound risk management that I just mentioned.
+The increasing supervisory focus on risk-management practices has also had a large influence on the practice of bank supervision.
+Traditional supervision consisted primarily of periodic assessments of loan quality.
+In the early 1990s, bank supervisors began to concentrate more on the forward-looking issues of risk and whether the bank has the infrastructure to manage risks.
+Under this approach, examiners focus their on-site reviews on those activities that appear to pose the greatest risk to the banking organization.
+The objective is to address weaknesses in management and internal controls before financial performance suffers rather than being satisfied with identifying what went wrong after the fact.
+At the heart of the modern bank examination is an assessment of the quality of a bank's procedures for evaluating, monitoring, and managing risk, and of the bank's internal models for determining economic capital.
+These models link capital to risk-taking and help banking organizations compare risks and returns across diverse business lines and locations.
+Both robust risk management and strong capital positions are critical to ensure that individual banking organizations operate in a safe and sound manner that enhances the stability of the financial system.
+More generally, strong capital helps banks absorb unexpected shocks and reduces the moral hazard associated with the federal safety net.
+Why Basel II?In introducing the concept of risk-based capital ratios, Basel I established the important principle that regulatory capital requirements should be related to risk.
+At various times, of course, supervisors have also made important adjustments to the Basel I framework, such as the Market Risk Amendment mentioned earlier.
+Nonetheless, advances in risk management and the increasing complexity of financial activities have prompted international supervisors to review the appropriateness of regulatory capital standards under Basel I, particularly for the largest and most complex banking organizations.
+The supervisory organizations have agreed that Basel I, with its broad-brush system for setting the risk weights on various classes of bank assets, is increasingly inadequate for measuring risk and the appropriate level of capital for such firms.
+For example, under Basel I, a bank's regulatory capital requirement takes no account of the specific risk profile of its commercial loan portfolio, deterioration in asset quality, the risks of certain off-balance-sheet transactions or fee-based activities, and actions banks may take to mitigate balance sheet risks.
+Supervisors recognize that some of the largest and most complex banking organizations have already moved well beyond Basel I in the sophistication of their risk management and internal capital models.
+As risk-management practices continue to evolve, the gulf between the determinants of minimum regulatory capital under Basel I and what these banks actually do to manage risk will widen.
+Most important, if the regulatory capital required of these organizations does not adequately reflect the risks they are actually taking, the safety and soundness of the U.S. banking system may be jeopardized.
+The U.S. banking agencies have proposed the adoption of the Basel II accord because it links the risk-taking of large banking organizations to their regulatory capital in a more meaningful way than does Basel I and encourages further progress in risk management.
+It does this by building on the risk-measurement and risk-management practices of the most sophisticated banking organizations and providing incentives for further improvements.
+Moreover, by providing a framework to be applied consistently across banks, Basel II will make it easier for supervisors to identify banks whose capital is not commensurate with their risk levels and to evaluate emerging risks in the banking system as a whole.
+Broadly, the Basel II framework encompasses three pillars.
+Pillar 1 is risk-focused minimum regulatory capital requirements, pillar 2 is supervisory review, and pillar 3 is market discipline.
+Under pillar 1, the risk sensitivity of minimum risk-based capital requirements would be much greater than under the current accord.
+This greater sensitivity would be achieved by linking each banking organization's capital requirement to empirically based measures of credit and operational risk; these measures would be determined in part by risk parameters estimated by the banks, such as a loan's probability of default and its expected loss given default.
+The methods used to construct these estimates would be subject to regulatory requirements and supervisory guidance and review, including a requirement that the risk parameters used for pillar 1 be consistent with risk assessments actually used by the bank for its internal risk management.
+The pillar 1 treatment of credit risk also reflects more accurately the risk-reducing effects of guarantees, credit derivatives, and securitization, thus improving regulatory capital incentives for banks to hedge credit risks.
+The incorporation of operational risk in pillar 1 is based on the recognition that, indeed, operational failures are a potentially important risk that banks should seek to minimize.
+Pillar 2 of the new accord provides a consistent framework for improving supervisory assessments of capital adequacy and risk management.
+Under pillar 2, a bank would be required to maintain capital in excess of the regulatory minimums to capture the full set of risks to which the bank is exposed.
+These include liquidity risk, interest rate risk, and concentration risk, none of which are reflected in pillar 1.
+Currently, U.S. banking regulators assess a bank's overall capital adequacy as a normal part of the examination process.
+But the overall quality of assessments of capital adequacy, both by supervisor and by each bank, should improve greatly under Basel II because of the expanded information that will be available from pillar 1, from supervisory reviews under pillar 2, and from the bank's own analyses.
+Under pillar 3, banks will be required to disclose to the public the new risk-based capital ratios and more-extensive information about the credit quality of their portfolios and their practices in measuring and managing risk.
+Such disclosures should make banks more transparent to financial markets and thereby improve market discipline.
+Taken together, these three pillars provide a broad and coherent framework for linking regulatory capital to risk, for improving internal risk measurement and management, and for enhancing supervisory and market discipline at large, complex, internationally active banks.
+The three pillars build on the risk-management approaches of well-managed banks and better align regulatory and supervisory practices with the way the best-run banks are actually managed.
+As a result, Basel II will be better able than the current system to adapt over time to innovations in banking and markets.
+In addition, Basel II sets standards for the measurement and management of risk and for related disclosures that will give banks ongoing incentives to improve their practices in these areas.
+Although the Basel II framework provides the basis for modernizing the supervision of large, internationally active banks, I emphasize that it remains in many ways a work in progress.1 Important details remain to be worked out, and much work remains to be done by both banks and supervisors to ensure that the system works as intended.
+The Federal Reserve Board has only recently approved a notice of proposed rulemaking, which invites comments from interested parties on all aspects of the proposed rules.
+The Federal Reserve and the other bank supervisors will review these comments carefully and will continue to consult widely.
+Under current plans, the transition to the new system will be gradual--no U.S. bank will have its capital requirement determined unconditionally by Basel II before 2012--and implementation will be subject to a number of safeguards.
+The supervisory agencies are also committed to continued review and adjustment of the system as experience accumulates.
+Proposals to Amend Basel IMany of you here today have also been following discussions about possible changes to the existing Basel I framework, proposals known collectively as "Basel IA."
+Only the very largest banking organizations will be required (or will choose) to adopt the Basel II framework.
+The vast majority of U.S. banks would be able to continue operating safely under Basel I as amended through the rulemaking process.
+The Basel I framework has already been amended more than twenty-five times in response to changes in the banking environment.
+The agencies believe that now is another appropriate time to amend the Basel I rules.
+Last fall, the U.S. banking agencies issued preliminary proposals that outline suggested changes to Basel I.
+In part, these proposed changes are meant to address concerns about the potential adverse competitive effects of Basel II.
+The Federal Reserve takes concerns about competitive effects seriously and has conducted substantial research on the topic.
+During the process to amend Basel I, we sought input from the industry and other interested parties.
+In view of those concerns, regulators have proposed changes to enhance the risk sensitivity of U.S. Basel I rules; we also remain vigilant about identifying potential competitive distortions that might be created with the introduction of Basel II.
+We are also mindful that amendments to Basel I should not be too complex or too burdensome for the multitude of smaller banks to which the revised rules would apply.
+That is, in amending Basel I for these institutions, we are trying to find the right balance between added risk sensitivity and regulatory burden.
+That balance is not necessarily easy to find.
+For example, one way to tie regulatory capital more closely to risk under Basel I would be to expand the number of factors used to determine risk weights--for example, to include credit scores or external credit ratings.
+The tradeoff is that incorporating additional risk measures is likely to increase the burden of calculating regulatory capital.
+The comments received suggest that institutions differ on how best to make this tradeoff.
+We will continue to evaluate this tradeoff and solicit further comments on how to proceed.
+ConclusionWe expect that risk management and banking supervision will continue to develop along parallel tracks.
+The Basel II framework represents an important effort by supervisors to integrate leading-edge risk management practices with the calculation of regulatory capital requirements.

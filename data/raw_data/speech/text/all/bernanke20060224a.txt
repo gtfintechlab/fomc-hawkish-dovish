@@ -1,0 +1,134 @@
+I taught at Princeton for seventeen years--more often than not in Bowl 1, in the deep, dark basement of Robertson Hall--and my wife Anna and I raised our two children here.
+Like all good New Jerseyans, we will always think of our home address in terms of a Turnpike exit--in our case, Exit 9.
+As you know, the Woodrow Wilson School is named after a renowned Princeton professor of politics and law who, having determined from a stint as the University's president that the institution was essentially ungovernable, decided to try his hand at public service.
+I do not presume to draw any comparisons between myself and the nation's twenty-eighth President, of course; but besides the Princeton affiliation, we have in common a connection with the Federal Reserve System.
+President Wilson made the establishment of the Federal Reserve one of his early legislative priorities, signing the Federal Reserve Act into law in December 1913, less than a year after taking office.
+Wilson helped to negotiate the complex political compromises that finally gave the nation a permanent central bank, following two earlier failed attempts.
+To simplify a complex history, earlier attempts to stabilize the monetary arrangements of the United States had frequently been roiled by perceived conflicts of interest between (on the one hand) the farmers and tradespeople of Main Street America, who believed that they were most advantaged by policies of easy credit, and (on the other hand) the financial barons of Wall Street, who, as creditors and bondholders, preferred "hard-money," low-inflation policies.
+Recognizing that all parties would be served by a central bank that could help contain the periodic financial crises that afflicted the U.S. economy, Wilson worked with the Congress to develop a structure for the central bank that finely balanced competing interests and concerns.
+In particular, the Federal Reserve was given a regional structure, with twelve Reserve Banks that were distributed around the country and were empowered to represent sectional interests and to respond to local conditions.
+Although Wilson understood the political and practical advantages of decentralization, he also resisted some powerful proponents of a completely decentralized system by supporting the creation of a Board of Governors in Washington to oversee and coordinate the activities of the regional Reserve Banks.
+The mandate of the Federal Reserve System has changed since the institution opened its doors in 1914.
+When the System was founded, its principal legal purpose was to provide "an elastic currency," by which was meant a supply of credit that could fluctuate as needed to meet seasonal and other changes in credit demand.
+In this regard, the Federal Reserve was an immediate success.
+The seasonal fluctuations that had characterized short-term interest rates before the founding of the Fed were almost immediately eliminated, removing a source of stress from the banking system and the economy.1 The Federal Reserve today retains important responsibilities for banking and financial stability, but its formal policy objectives have become much broader.
+Its current mandate, set formally in law in 1977 and reaffirmed in 2000, requires the Federal Reserve to pursue three objectives through its conduct of monetary policy: maximum employment, stable prices, and moderate long-term interest rates.
+One of my goals today is to consider the relationships among the three apparently disparate objectives of monetary policy.
+In particular, I will argue for what I believe has become the consensus view, that the mandated goals of price stability and maximum employment are almost entirely complementary.
+Central bankers, economists, and other knowledgeable observers around the world agree that price stability both contributes importantly to the economy's growth and employment prospects in the longer term and moderates the variability of output and employment in the short to medium term.
+But that view did not always command the support that it does today.
+Notably, during the 1960s and early 1970s, some policymakers appeared to believe that price stability and high employment were substitutes, not complements.
+Specifically, some influential voices of the time argued that, by accepting higher inflation, policymakers could bring about a permanently lower rate of unemployment.2 As I will discuss a bit later, the demise of the view that higher inflation promotes employment in favor of the modern consensus that low inflation and strong employment are complementary goals resulted from the constructive interplay between academic research and practical policymaking experience, an interplay that significantly improved policy outcomes and economic welfare in the United States.
+Of course, fostering this sort of interaction between academic analysis and real-world policymaking is a principal objective of the Woodrow Wilson School.
+The Dual Role of Price StabilityPrice stability plays a dual role in modern central banking: It is both an end and a means of monetary policy.
+As one of the Fed's mandated objectives, price stability itself is an end, or goal, of policy.
+Fundamentally, price stability preserves the integrity and purchasing power of the nation's money.
+When prices are stable, people can hold money for transactions and other purposes without having to worry that inflation will eat away at the real value of their money balances.
+Equally important, stable prices allow people to rely on the dollar as a measure of value when making long-term contracts, engaging in long-term planning, or borrowing or lending for long periods.
+As economist Martin Feldstein has frequently pointed out, price stability also permits tax laws, accounting rules, and the like to be expressed in dollar terms without being subject to distortions arising from fluctuations in the value of money.3 Economists like to argue that money belongs in the same class as the wheel and the inclined plane among ancient inventions of great social utility.
+Price stability allows that invention to work with minimal friction.
+In principle, the problem of inflation could be reduced by the practice of indexing dollar payments such as interest and wages to the price level, but people seem to find indexing costly and avoid it when they can.
+It is interesting and instructive, for example, that the indexation of wages to prices in labor contracts has always been quite limited in the United States; some indexation was used during the high-inflation 1970s but the practice has been substantially reduced since then.
+Moreover, some countries that adopted indexing during high-inflation periods, such as Brazil and Israel, largely abandoned the practice when inflation receded.
+Borrowers and lenders likewise seem to prefer to contract in dollar terms, although inflation-indexed financial instruments have gained wider acceptance in recent years.
+Borrowing and lending in dollar terms, particularly for long periods, requires confidence that the purchasing power of the currency will be stable and predictable.
+The savings and loan crisis of the 1980s, which cost U.S. taxpayers roughly $150 billion, is an example of the kind of problem that can arise in the absence of price stability.
+An important source of the S&L crisis was the unexpected inflation of the 1970s, which greatly reduced the real value of mortgage loans made by the S&Ls in an earlier, low-inflation era.
+These losses effectively de-capitalized the savings and loans, helping to set the stage for the problems that followed.
+Although price stability is an end of monetary policy, it is also a means by which policy can achieve its other objectives.
+In the jargon, price stability is both a goal and an intermediate target of policy.
+As I will discuss, when prices are stable, both economic growth and stability are likely to be enhanced, and long-term interest rates are likely to be moderate.
+Thus, even a policymaker who places relatively less weight on price stability as a goal in its own right should be careful to maintain price stability as a means of advancing other critical objectives.
+Let me elaborate briefly on the relationship between price stability and the other two goals of monetary policy.
+First, price stability promotes efficiency and long-term growth by providing a monetary and financial environment in which economic decisions can be made and markets can operate without concern about unpredictable fluctuations in the purchasing power of money.
+As I have already noted, the dollar provides a reasonably secure gauge of real economic values only when inflation is low and stable.
+High and variable inflation degrades the quality of the signals coming from the price system, as producers and consumers find it difficult to distinguish price changes arising from changes in product supplies and demands from changes arising from general inflation.
+Because prices constitute a market economy's fundamental means of conveying information, the increased noise associated with high inflation erodes the effectiveness of the market system.
+High inflation also complicates long-term economic planning, creating incentives for households and firms to shorten their horizons and to spend resources in managing inflation risk rather than focusing on the most productive activities.
+Research is not definitive about the extent to which price stability enhances economic growth.
+We do not have controlled experiments in macroeconomics, and inflation and growth are both endogenous variables that respond jointly to many factors.
+Nevertheless, I am confident that the effect is positive and see the international experience as at least consistent with the view that, in combination with other sound policies, the maintenance of price stability has quite significant benefits for efficiency and growth.
+That view appears to be widely shared among policymakers, as governments around the world have made extensive efforts to bring inflation down over the past two decades or so, with substantial success.
+More recently, the evidence has mounted not only that low and stable inflation is beneficial for growth and employment in the long-term but also that it contributes importantly to greater stability of output and employment in the short to medium term.
+Specifically, during the past twenty years or so, in the United States and other industrial countries the volatility of both inflation and output have significantly decreased--a phenomenon known to economists as the Great Moderation (Bernanke, 2004).
+This finding challenges some conventional economic views, according to which greater stability of inflation can be achieved only by allowing greater fluctuations in output and employment.
+The key to explaining why price stability promotes stability in both output and employment is the realization that, when inflation itself is well-controlled, then the public's expectations of inflation will also be low and stable.
+In a virtuous circle, stable inflation expectations help the central bank to keep inflation low even as it retains substantial freedom to respond to disturbances to the broader economy.
+This mechanism can be illustrated by comparing the effects of the recent rise in oil prices to the effects of the oil price increases of the 1970s.
+Thirty years ago, the public's expectations of inflation were not well anchored.
+With little confidence that the Fed would keep inflation low and stable, the public at that time reacted to the oil price increases by anticipating that inflation would rise still further.
+A destabilizing wage-price spiral ensued as firms and workers competed to "keep up" with inflation.
+The Fed, attempting to gain control of the deteriorating inflation situation, raised interest rates sharply; however, initially at least, these increases proved insufficient to control inflation or inflation expectations, and they added substantially to the volatility of output and employment.
+The episode highlights the crucial importance of keeping inflation expectations low and stable, which can be done only if inflation itself is low and stable.
+By contrast, the oil price increases of recent years appear to have had only a limited effect on core inflation (that is, inflation in the prices of goods other than energy and food), nor do they appear to have generated significant macroeconomic volatility.
+Several factors account for the better performance of the economy in the recent episode, including improvements in energy efficiency and in the overall flexibility and resiliency of the economy.
+But, the crucial difference from the 1970s, in my view, is that today inflation expectations are low and stable (as shown, for example, by many surveys and a variety of financial indicators).
+Oil price increases in the past few years, unlike in the 1970s, have not fed through to any great extent into longer-term inflation expectations and core inflation, as the public has shown confidence that any increases in inflation will be temporary and that, in the long run, inflation will remain low.
+As a result, the Fed has not had to raise interest rates sharply as it did in the 1970s but instead has been able to pursue a policy that is more gradual and predictable.
+Of course, the relatively benign state of inflation expectations we enjoy today has not come automatically.
+The anchoring of inflation expectations in a narrow range has been the product of Fed policies that have kept actual inflation low in recent years, clear communication of those policies, and an institutional commitment to price stability.
+Price stability also contributes to the third component of the Fed's mandate, the objective of moderate long-term interest rates.
+As first pointed out by the economist Irving Fisher, interest rates will tend to move in tandem with changes in expected inflation, as lenders require compensation for the loss in purchasing power of their principal over the period of the loan.
+When inflation is expected to be low, lenders will require less compensation, and thus interest rates will tend to be low as well.
+In addition, because price stability and the associated macroeconomic stability reduce the risks of holding long-term bonds and other securities, price stability may also reduce the premiums that lenders charge for bearing risk, lowering the overall level of rates.
+The Origins of the Modern Consensus on Price StabilityI have briefly laid out the modern consensus that price stability, besides being desirable in itself, tends also to increase economic growth and stability.
+As I noted earlier, however, this view is quite different from the one that prevailed forty years ago.
+At that time, the ascendant paradigm was that society faced a long-term tradeoff between price stability and high employment.
+Implied in this position was a potential conflict between defenders of "hard money" and supporters of easy credit that echoed, at least faintly, the political conflicts that Wilson faced in setting up the Federal Reserve.
+The development of the modern consensus was a fascinating example of the way economic science progresses through the interaction of academic research and policy experience--exactly the kind of activity that the Woodrow Wilson School was designed to promote.
+Thus I thought I might briefly describe the evolution of that consensus here today.
+The 1960s' idea that greater prosperity could be achieved if only we were willing to accept higher inflation had its origins in an academic study, although the author likely did not intend that outcome.
+In 1958, A.W.
+Phillips, using British data, showed that historically inflation had tended to be high in years in which unemployment was low.
+Similar results were subsequently reported for the United States.4 Phillips did not draw strong policy conclusions from his findings.
+But that did not stop others from doing so.
+In the decade following the publication of his paper, his empirical finding was sometimes interpreted (including, for example, by members of the Kennedy and Johnson Administrations) as showing that policymakers could choose (permanently) lower unemployment if they were willing to accept (permanently) higher inflation in exchange.
+Scholars disagree somewhat about the extent to which policymakers of the time tried actively to take advantage of this supposed tradeoff, but these ideas likely provided part of the intellectual rationale that made the authorities willing to allow inflation to rise throughout the 1960s and in the early 1970s.
+The idea of the permanent tradeoff did not go unchallenged, however.
+In 1967, economists Milton Friedman and Edmund Phelps independently produced influential critiques of this view.
+Their key contribution was to observe that, if inflation expectations react to changes in actual inflation in an economically reasonable way, then any tradeoff between inflation and unemployment would be short-lived at best.
+To illustrate their argument, let us suppose that firms and workers set nominal wages once a year but that, sometime during the year, the prices of firms' output rise unexpectedly as a result of stronger-than-expected demand.
+The combination of higher prices for their output and fixed nominal wages would raise the profitability of increasing production; thus, assuming that more workers are available at the previously fixed wage, firms would respond to the rise in prices by adding workers.
+Over a short period, then, higher inflation might bring lower unemployment, consistent with the empirical results found by Phillips.
+However, this logic applies only during the period in which wages and workers' expectations of inflation are fixed.
+If inflation were to rise persistently, Friedman and Phelps argued, workers' expectations of inflation would not remain unchanged but would adjust to match the actual rate of inflation.
+Higher inflation expectations would in turn lead workers to bargain for commensurate raises in nominal wages to preserve the real value of their earnings.
+With nominal wages rising as well as prices, firms would no longer have an incentive to hire additional workers, and employment would return to its normal level.
+An attempt to stimulate the economy by choosing a permanently higher level of inflation could thus not succeed, according to this analysis; such an attempt would leave the economy with higher inflation but a level of employment no different than it would have been otherwise.
+This work was both brilliant and prescient.
+In particular, among the seminal contributions of the Friedman and Phelps analyses was the identification of the key role of inflation expectations in determining the behavior of the economy, a point that remains central to our thinking today.
+Moreover, the performance of the U.S. economy soon bore out the predictions made by Friedman and Phelps.
+The inflationary policies of the 1960s led not to permanently lower unemployment, as the permanent-tradeoff theory predicted, but instead to persistently higher inflation with no improvement in unemployment.
+For example, in the 1970s, core inflation averaged 6 percent, compared with 2-1/4 percent in the 1960s, and unemployment in the 1970s averaged 6-1/4 percent, compared with the 4-3/4 percent rate in the 1960s.
+The volatility of output and (especially) inflation both increased, as the Fed struggled to contain inflation expectations.
+Other factors, including the aforementioned surge in oil prices, played a role in the deterioration of economic performance in the 1970s.
+Clearly, though, the theory that a long-run tradeoff exists between inflation and unemployment had sprung a serious leak.
+Despite a growing recognition that higher inflation provided no labor-market benefits, there was, until the end of the 1970s, little appetite for taking the actions necessary to reduce inflation.
+For one thing, economists and policymakers recognized that reversing the rise in inflation expectations that had occurred during the 1970s could take time and that, during the process, the nation could suffer ultimately transitory but still-serious increases in unemployment.
+Furthermore, at the time, it was widely believed among economists that any stable level of inflation would be as good as another.
+Although the efficiency costs associated with high inflation were acknowledged, the costs were thought to be associated mostly with changes in the underlying rate of inflation--particularly unexpected changes.
+In addition, many economists argued that the efficiency costs of inflation were not particularly large.5 Milton Friedman once again was in the vanguard on this issue.
+In his 1977 Nobel Prize address, Friedman laid out the modern argument--that, because it harms the efficient operation of markets, high inflation is more likely to raise unemployment than to lower it--and he used the experience of the 1970s to illustrate his point.6 Indeed, by the late 1970s, even economists who were not part of Friedman's monetarist circle were beginning to study and acknowledge the costs to the economy associated with high inflation.7 When Federal Reserve Board Chairman Paul Volcker embarked on his campaign to break the back of U.S. inflation in October 1979, he drew on this existing work in formulating and defending his program.
+(Volcker, by the way, was Princeton class of 1949, and he wrote his senior thesis on the Federal Reserve.)
+In his first testimonies and speeches after becoming Chairman, Volcker emphasized many of the arguments developed by academics for how inflation interfered with the efficient working of the economy.
+And he drew on Friedman's monetarist approach, both in its advocacy of low and stable inflation and in its prescriptions for policy implementation.
+In a speech given just after the Federal Open Market Committee announced its adoption of a monetarist-style policy approach in October 1979, Volcker dismissed the notion that lowering inflation meant accepting permanently higher unemployment and suggested instead that the reverse was more likely to be the case.8 Until this point, academic research (or at least some of it) had paved the way for improved policymaking.
+After 1979, however, policymakers increasingly began to set the intellectual pace.
+Volcker's statements from this period in particular are remarkable in the extent to which they anticipate contemporary thinking about the crucial importance of low and stable inflation and inflation expectations.
+He repeatedly noted, for example, how instability in inflation and inflation expectations were "jeopardizing the orderly functioning of financial and commodity markets.
+"9 Unlike academics, of course, Volcker was in a position to put his views into practice.
+Under the Volcker-led Federal Reserve, annual core inflation fell from more than 9 percent in 1980 to just below 4 percent in 1987.
+Alan Greenspan, who succeeded Volcker as Fed Chairman in 1987, continued to work to stabilize inflation and inflation expectations.
+Under Greenspan, the Federal Reserve gradually brought core inflation down further, to about 2 percent in recent years.
+The Greenspan era also saw important steps toward increased transparency at the Federal Reserve, which helped to clarify for the public the Federal Reserve's strong institutional commitment to price stability.
+In a sense, Chairman Greenspan had the harder sell: As an economist would say, we might expect diminishing marginal returns to inflation reduction.
+Yet I think subsequent events demonstrate clear benefits from the tenacity of the Fed under Greenspan.
+Lower inflation has been accompanied by inflation expectations that are not only lower but better anchored, so far as we can tell.
+Most striking, Greenspan's tenure aligns closely with the Great Moderation, the reduction in economic volatility I mentioned earlier, as well as with a strong revival in U.S. productivity growth--developments that had many sources, no doubt, but that were supported, in my view, by monetary stability.
+Like Volcker, Greenspan was ahead of academic thinking in recognizing the potential benefits of increased price stability.
+Indeed, in recent years, academic research on monetary policy has caught up with the policymakers, providing new support for what I have termed the modern consensus, that price stability supports both strong growth and stability in output and employment.
+ConclusionPrice stability plays a dual role in monetary policy.
+Stable prices are desirable in themselves and thus are an important goal of monetary policy.
+But stable prices are also a prerequisite to the achievement of the Federal Reserve's other mandated objectives, high employment and moderate long-term interest rates.
+In particular, low and stable inflation and inflation expectations enhance both economic growth and economic stability.
+The complementarity of price stability with the other goals of monetary policy is now the consensus view among economists and central bankers.

@@ -1,0 +1,151 @@
+Main Menu Toggle Button Sections Search Toggle Button Search Search Submit Button Submit Aboutthe Fed Structure of the Federal Reserve System The Fed Explained Board Members Advisory Councils Federal Reserve Banks Federal Reserve Act Currency Board Meetings Board Votes Diversity & Inclusion Careers Do Business with the Board Holidays Observed - K.8 Ethics & Values Contact Requesting Information (FOIA) FAQs Economic Education Fed Financial Statements Innovation News & Events Press Releases Speeches Testimony Calendar Videos Photo Gallery Conferences MonetaryPolicy Federal Open Market Committee About the FOMC Meeting calendars and information Transcripts and other historical materials FAQs Monetary Policy Principles and Practice Notes Policy Implementation Policy Normalization Policy Tools Reports Monetary Policy Report Beige Book Federal Reserve Balance Sheet Developments Review of Monetary Policy Strategy, Tools, and Communications Overview Supervision& Regulation Institution Supervision Community & Regional Financial Institutions Large Financial Institutions Foreign Banking Organizations Financial Market Utilities Consumer Compliance Reports Federal Reserve Supervision and Regulation Report Reporting Forms All Reporting Forms Recent Updates Information collections under review Financial Statements Applications/structure change Federal Financial Institutions Examination Council (FFIEC) Municipal & Government Securities Supervision & Regulation Letters By Year By Topic Banking Applications & Legal Developments Application Process Board & Reserve Bank Action Enforcement Actions & Legal Developments Regulatory Resources Regulations Manuals Basel Regulatory Framework Volcker Rule Education, Training, and Assistance Banking & Data Structure Beneficial Ownership reports Large Commercial Banks U.S. Offices of Foreign Entities Financial Holding Companies Interstate Branching Securities Underwriting & Dealing Subsidiaries Minority Depository Institutions FinancialStability Financial Stability Assessments About Financial Stability Types of Financial System Vulnerabilities & Risks Monitoring Risk Across the Financial System Proactive Monitoring of Markets & Institutions Financial Stability & Stress Testing Financial Stability Coordination & Actions Responding to Financial System Emergencies Cooperation on Financial Stability Reports Financial Stability Report PaymentSystems Regulations & Statutes Regulation CC (Availability of Funds and Collection of Checks) Regulation II (Debit Card Interchange Fees and Routing) Regulation HH (Financial Market Utilities) Other Regulations and Statutes Payment Policies Federal Reserve's Key Policies for the Provision of Financial Services Overnight Overdrafts Payment System Risk Sponsorship for Priority Telecommunication Services Reserve Bank Payment Services & Data Automated Clearinghouse Services Check Services Currency and Coin Services Daylight Overdrafts and Fees FedNowâ„ Service Fedwire Funds Services Fedwire Securities Services Fiscal Agency Services National Settlement Service Financial Market Utilities & Infrastructures Supervision & Oversight of Financial Market Infrastructures Designated Financial Market Utilities International Standards for Financial Market Infrastructures Research, Committees, and Forums Payment Research Federal Reserve Payments Study (FRPS) Payments System Policy Advisory Committee Forums EconomicResearch Meet the Economists Working Papers and Notes Finance and Economics Discussion Series (FEDS) FEDS Notes International Finance Discussion Papers (IFDP) Data, Models and Tools Economic Research Data FRB/US Model Estimated Dynamic Optimization (EDO) Model Survey of Consumer Finances (SCF) Data Data Download Program Bank Assets and Liabilities Aggregate Reserves of Depository Institutions and the Monetary Base - H.3 Assets and Liabilities of Commercial Banks in the U.S. - H.8 Assets and Liabilities of U.S.
+Branches and Agencies of Foreign Banks Charge-Off and Delinquency Rates on Loans and Leases at Commercial Banks Senior Financial Officer Survey Senior Loan Officer Opinion Survey on Bank Lending Practices Bank Structure Data Large Commercial Banks Minority Depository Institutions Structure and Share Data for the U.S. Offices of Foreign Banks Business Finance Commercial Paper Finance Companies - G.20 New Security Issues, State and Local Governments New Security Issues, U.S.
+Corporations Dealer Financing Terms Senior Credit Officer Opinion Survey on Dealer Financing Terms Exchange Rates and International Data Foreign Exchange Rates - H.10/G.5 International Summary Statistics Securities Holdings and Transactions Statistics Reported by Banks and Other Financial Firms in the United States Structure and Share Data for U.S. Offices of Foreign Banks Financial Accounts Financial Accounts of the United States - Z.1 Household Finance Consumer Credit - G.19 Household Debt Service and Financial Obligations Ratios Mortgage Debt Outstanding Survey of Consumer Finances (SCF) Survey of Household Economics and Decisionmaking Industrial Activity Industrial Production and Capacity Utilization - G.17 Interest Rates Selected Interest Rates - H.15 Micro Data Reference Manual (MDRM) Micro and Macro Data Collections Money Stock and Reserve Balances Factors Affecting Reserve Balances - H.4.1 Money Stock Measures - H.6 Other Yield Curve Models and Data Consumers& Communities Regulations Community Reinvestment Act (CRA) All Regulations SupervisionÂ & Enforcement CA Letters Enforcement Actions Independent Foreclosure Review Community Development Housing and Neighborhood Revitalization Small Business and Entrepreneurship Employment and Workforce Development Community Development Finance Rural Community and Economic Development Conferences ResearchÂ & Analysis Survey of Household Economics and Decisionmaking Research Publications & Data Analysis Community Advisory Council Consumer Resources Mortgage and Foreclosure Resources Federal Reserve Community Development Resources Home News & Events Speeches Speech Please enable JavaScript if it is disabled in your browser or access the information through the links provided below.
+May 10, 2007 The Future of Payments: Challenges and Opportunities Governor Randall S. Kroszner At the 2007 Payments Conference Competitive Forces Shaping the Payments Environment: What's Next?, Federal Reserve Bank of Chicago, Chicago, Illinois Share I am pleased to have the opportunity to speak at this conference on competitive forces shaping the payments environment.1 Spurred by a period of rapid innovation, we are at a crucial juncture in the evolution of the U.S. payments system.
+The long-predicted decline of the paper check is materializing as consumers and businesses continue to embrace alternative ways of making and clearing payments.
+A 2004 Federal Reserve study of retail payments revealed that electronic payments have now surpassed the use of checks as the preferred means of making noncash payments.2 The use of debit cards has grown strongly, and the number of checks being converted into ACH payments has grown to nearly 3 billion annually.
+Electronic check clearing has begun to grow exponentially in response to changes in check law.
+As a consequence of the accelerating pace of change, we participants in the payments system cannot help but challenge our fundamental assumptions about payment operations, which were based on long-standing processes for clearing paper.
+And adjustments are being made.
+The Federal Reserve Banks, for example, have cut the number of offices at which they process checks in half since 2003, and more consolidations are planned for later this year.
+Check transportation networks, particularly air transportation networks, are also beginning to shrink.
+Our conference organizers are to be applauded for bringing together industry participants, regulators, and academics at this crucial juncture to consider "whatâ€™s next" for the payments system.
+After briefly describing the evolution of the payments system, I will discuss how recent regulatory changes and technological innovation have interacted to affect the payments system--that is, how regulatory changes have affected the use of technology in the payments system and how technological innovations have affected how the payments system is regulated.
+I will then discuss some key characteristics of successful payments innovations and highlight some challenges and tradeoffs, such as the tradeoff between convenience and security, that need to be considered as the payments system continues to evolve.
+Finally, I will discuss the future of electronic check clearing and the important and complementary roles the Federal Reserve and the private sector will need to play in the continued evolution of the payments system.
+Evolution in the Structure of the Payments SystemThe different forces now shaping the evolution of the payments system have been gathering for decades.
+From a legal and regulatory perspective, a series of fundamental changes in U.S. banking laws, especially the laws governing interstate banking, have facilitated a long-term consolidation of banking across geographic boundaries in this country.3 Banking consolidation, in turn, has fostered the ongoing consolidation of payments infrastructure both within banks and among the clearinghouses, networks, and other financial utilities that serve the banking industry.
+From a technological perspective, decades of investment by the financial industry, businesses, and more recently households have broadened and deepened the infrastructure for supplying and accessing electronic payments.
+Payment cards and other access devices have proliferated, and the demand for electronic payments has grown apace.
+As a result, the use of electronic payments has doubled over the first half of this decade.
+From a historical perspective, it is clear that the Federal Reserve has an important role to play in the evolution of the payments system.
+Indeed, the Federal Reserve was founded, in part, to address significant problems in the payments system, such as nonpar check collection and financial stability issues that existed in the nineteenth and early twentieth centuries.
+Regulation and TechnologyTurning now to regulation and technology, technological change can create the need for regulatory change.
+And regulatory change can stimulate new applications of technology that foster greater efficiency and growth.
+At times, there is a complex interplay between changing technology and regulation.
+In the payments arena, regulators and rulemakers need to be aware of how technology is changing the industry and, when appropriate, remove artificial barriers to innovation.
+Let me highlight several important examples of recent adjustments to rules and regulations that have changed the way payments are initiated and processed.
+Beginning in the late 1990s, the National Automated Clearing House Association (NACHA) changed its rules to permit the so-called conversion of checks to electronic fund transfers via the ACH system; subsequently, the Board modified its staff commentary to clarify the application of Regulation E to these transactions.4 Today, businesses can use the information on eligible checks they receive over the counter and at lockbox locations to create ACH debit transactions.
+Partly as a result of the private sectorâ€™s expanding use of check conversion, the total volume of checks collected by Federal Reserve Banks has in recent years fallen faster than the estimated decline in the number of checks being written.
+In 2003, Congress passed the Check Clearing for the 21st Century Act (Check 21).5 Broadly speaking, Check 21 was designed to foster market-based improvements in the check collection and return system, mainly by authorizing--but not requiring--banks to truncate or stop the flow of original paper checks and to create legally equivalent substitute checks for presentment to the paying bank.6 In 2004, the Board published regulatory changes to implement Check 21.
+The legal and regulatory changes associated with Check 21 are encouraging the banking industry to use new technologies to create and process digital images of checks and to print substitute checks only when necessary to meet legal presentment or customer requirements.
+In a recent report to Congress on Check 21, the Board noted that the adoption of new clearing techniques was slow at first but has accelerated significantly in the past year.7 For example, between March 2006 and January 2007, the banking industryâ€™s use of substitute checks increased three-fold and its use of electronic check images increased five-fold.
+This pattern of adoption is consistent with early conjecture from the banking industry that the scale and scope of required changes to individual bank technology systems and operations would take time to implement.
+In addition, Check 21 has started to alleviate the check systemâ€™s dependence on large-scale air transportation to move checks around the country, a vulnerability that was highlighted when planes were grounded following the events of September 11.
+To address a barrier to the use of electronic payments, the Federal Reserve has recently proposed modifications to Regulation E that would eliminate the requirement for paper receipts on small-dollar payments.8 The Federal Reserve must, however, also be mindful of how changing payment practices can affect risk in the payments system and take regulatory action, when appropriate.
+For example, the Federal Reserve recently modified Regulation CC to reallocate the liability for unauthorized remotely created checks among depository institutions, shifting liability to institutions that are better positioned to understand and mitigate those risks.9 Clearly, both regulators and the private sector have a role to play in the continuing evolution of the payments system.
+Regulators must continue to evaluate and adjust their rules in light of new realities in the marketplace.
+At the same time, the private sector must put forward sound and prudent innovations that address the needs of the marketplace, including the need to control risk.
+Characteristics of Successful InnovationOur conference organizers have challenged us to think about "whatâ€™s next."
+One tool to help understand the future is to analyze why certain innovations have been successful in the past.
+Infrastructure changes have been one source of successful innovation.
+Much of the innovation in the early days of electronic payments involved building new electronic processing systems for ACH and card systems, and then gradually expanding electronic access to these core systems.
+The goal of these infrastructure changes was typically to speed up payments and reduce the societal costs of dependence on paper.
+Following the implementation of Check 21, the banking industry and the Reserve Banks are again making major infrastructure changes.
+The expansion of access to this infrastructure and the development of tools for using it may well follow the path of earlier innovation and foster additional change over the next few years.
+Experience in the late 1990s, however, gives us reason for caution.
+At that time, there were attempts to introduce whole new payments systems for card and Internet payments.
+A few of these attempts succeeded, but most failed.
+Thus, the introduction of new technology alone is not sufficient for successful innovation; innovations must also meet important market demands.
+A key characteristic of successful innovation is that it generally reduces cost or increases the convenience of making one or more types of payments.
+Examples include the introduction of ATM transactions many years ago, as well as new methods for making payments over the Internet.
+Both of these examples highlight the importance payment system end-users place on the convenience of making their payments, specifically the time and location of their transactions.
+In the case of ATMs, banking customers shifted their payment activity from inside a bank branch to a more convenient time and location.
+ATMs also provided banks with a lower-cost way to serve their customers.
+In the case of Internet and telephone payments, the use of credit cards, new person-to-person systems, and new ACH payment types allowed payments to be made more rapidly at any time of the day, even when the parties to the transaction were thousands of miles apart.
+The information linked to a payment has also emerged as an important component of end-usersâ€™ demand for payment innovations.
+This point challenges us to think of payments as more than simple instructions to debit and credit bank accounts when we attempt to predict the needs of consumers and businesses for innovative payment products.
+In business-to-business remittance payments, for example, firms need to link traditional payment information to information about the bills being paid in order to post and reconcile their accounts.
+Over the years, businesses have made significant investments to automate their internal accounting processes for check payments.
+As a result, checks are still very heavily used for corporate remittances.
+After years of industry discussion, it is now clear that linking billing information to electronic payment instructions is a key to the greater automation of business payments.10 Payments system operators, banks, and businesses must continue to cooperate on standards and encourage the necessary software changes to enable the broad-based automation of business payments.
+This is no simple task, as there are competing standards both domestically and internationally.
+Nonetheless, business users of the payments system continue to call for change, and we all need to press forward on this issue.
+Challenges to InnovationAlthough improving convenience has been an important force behind successful innovation, consumers and businesses have increasingly demanded greater security in their electronic payments, particularly as more information is linked to these payments.
+In general, there is often a basic tradeoff between security and convenience: the easier a system is to use and access, the less secure it tends to be.
+Striking the appropriate balance between convenience and security is a key challenge.
+How can we manage fraud and operational risks, along with credit and other risks, without unduly interfering with the ease of using a particular system?
+As I noted earlier, technological change can help stimulate successful innovations and make it more convenient for businesses and consumers to make and receive payments and link information to those payments.
+But technological change can also generate new methods of perpetrating fraud and disrupting payments systems--and thus require us to develop new responses to these challenges and risks.
+Check fraud has long been an important issue for the banking system and has been increasing recently, as described in the Boardâ€™s Check 21 report.
+In the electronic sphere, card systems have also had to deal with fraud since their inception.
+Naturally, cost-benefit calculations guide the pace of innovation to address fraud.
+These costs typically include technology and labor costs, as well as the time and other requirements needed to authenticate and authorize transactions.
+Benefits typically include the monetary losses, customer problems, and legal costs that are avoided.
+Important but more difficult-to-quantify benefits include the avoidance of reputational damage to payments system participants, as well as sustained public confidence in the payments system.
+In the context of this cost-benefit framework, we can anticipate that when the costs of prevention fall or fraud begins to increase, banks, businesses, and consumers, will react by implementing or demanding changes in policies, business processes, and technology to address risk.
+This dynamic balancing process is part of the ongoing development of the payments system.
+In the past, the banking industry has taken steps to address its own security concerns, as well as those of its customers.
+The experience with card systems and the ACH are instructive.
+In the 1970s, major credit card companies began to deploy electronic authorization systems for transactions.
+This step was strongly influenced by the desire of banks and merchants to control fraud.
+The more recent development of intelligent detection systems represents yet a further step in combating fraud.
+Other new technologies are beginning to be deployed, such as cards that have computer chips, to further reduce fraud and to introduce new services to the market.
+In the ACH system, the original risk design relied heavily on trusted, long-term relationships among known counterparties.
+Key participants were supervised depository institutions that originated and received the electronic payments.
+The primary types of commercial payments were electronic payroll deposits and recurring payments for utility bills.
+Fraud concerns did not justify establishing centralized controls at the system level.
+The risk model, however, has been changing as parties have begun to use the ACH to make one-time payments over the telephone and Internet, payments that are not necessarily based on long-term, trusted relationships.
+As the ACH network has grown and become more complex, layers of nonbank service providers may now be involved in originating certain types of payments, which further attenuates the trust relationships on which the network was founded.
+To address these emerging risks, ACH operators and NACHA have been working cooperatively with the industry to control new occurrences and types of fraud and other closely related risks.
+ACH operators are now providing their customers with innovative risk-management services, and NACHA has initiated a risk-monitoring program to better identify problems.
+NACHA is also developing programs to better monitor and control the ACH originations of depository institution customers.
+While the ultimate success of these efforts cannot yet be assessed, they represent important steps in the right direction.
+As the banking industry develops new payments solutions, it must be proactive in balancing convenience and risks, as well as cost, to ensure continued customer confidence in the payments system.
+The Future of Electronic Check ClearingPerhaps the greatest current opportunity in the retail payments system is for the banking industry to move rapidly to the electronic clearing of checks.
+As envisioned by Congress, Check 21 has created a strategic vision for moving the U.S. check clearing system into the new century.
+The historic infrastructure for paper check clearing is consolidating rapidly.
+Banks are changing their internal systems so they can accept deposits and collect checks electronically and are increasingly accepting their check presentments electronically.
+Bank technology vendors are playing an important role in facilitating change.
+And the Reserve Banks are working to implement the vision of Check 21, both by enhancing their electronic check infrastructure and by working closely with other payments system operators and the industry.
+In this environment of changing rules, infrastructure, and, yes, costs, it is imperative for banks and their customers to look closely at their own payment policies, operations, and technologies.
+Banks will need to develop broad and thoughtful payment strategies to navigate the changing environment and work constructively within the industry.
+Inevitably, banks will also need to change their operations.
+The Role of the Federal ReserveThe Federal Reserve will continue to play an important role in fostering a smoothly functioning payments system that is safe, efficient, and accessible.
+We also need to be flexible in carrying out our traditional payments system functions--provider of payment services, regulator, and catalyst for change--in the rapidly changing payments landscape.
+Since its inception, the Federal Reserveâ€™s broad role in the payments system has been to improve efficiency and foster financial stability.
+When the Federal Reserve was formed almost one hundred years ago, the U.S. banking system was highly fragmented and checks were not cleared at par.
+To address this situation, the Federal Reserve began providing a national check-clearing service to banks that joined the Federal Reserve System.
+This service and other Federal Reserve policies helped guide the nation toward a more unified payments system.
+In its role as service provider, the Federal Reserve will continue to promote the efficiency and stability of the nationâ€™s payments system.
+The Reserve Banks are now pricing their check services to encourage greater use of electronic check clearing.
+The Reserve Banks are also leaders in providing Check 21 services that encourage depository institutions to shift to a greater use of electronics in check processing and are working collaboratively with the industry on electronic check standards and other technical issues.
+Most importantly, the Reserve Banks will continue to compete as payment services providers on a fair and equitable basis by pricing their services to recover their costs, including imputed profits and taxes, over the long run, as required by the Monetary Control Act of 1980.
+In its role as a regulator, the Federal Reserve will need to be alert to the application of regulations in changing circumstances.
+As I have already noted, the Federal Reserve has, in recent years, modified its regulations to facilitate the greater use of electronics in the payments system and to address emerging risks.
+When considering potential regulatory changes, the Federal Reserve must also ensure that any proposed changes are consistent with the changing technological environment and adequately protect consumers.
+Finally, in its role as a catalyst for change, the Federal Reserve continues to work with the private sector to identify and, when appropriate, address barriers to payments system innovation.
+This past March, I participated in a roundtable in Minneapolis on retail payments fraud that was sponsored by the Payments System Policy Advisory Committee.
+The roundtable promoted dialogue on key fraud issues with a wide range of participants in the retail payments systems.
+It is our objective to continue to sponsor different types of forums over time as an important part of our public outreach activities.
+We believe that through its payments system roles, the Federal Reserve is well positioned to encourage both future payments system evolution and the appropriate balancing of efficiency and risk as new products and services are developed.
+ConclusionWe are living in a period of rapid innovation and transition in the payments system.
+Powerful forces have been converging to reshape the retail payments system.
+Yet the United States continues to enjoy safe, efficient, and reliable systems for making payments.
+As innovations occur, market forces will ultimately sort out which of these will best serve the needs of consumers and businesses.
+Both the private and public sectors have contributed to the evolution of the national payment system of the United States; clearly, both will have an important role to play in the future.
+As we ask each other "whatâ€™s next" during this time of transition, I believe that dialogue among payments system participants and users is critically important.
+Information and different points of view will help us all identify and address issues of innovation, risk, and efficiency in a balanced and thoughtful manner.
+This conference is a welcome and constructive element in this important dialogue.
+Footnotes 1.
+Helena L. Tenenholtz, Jeffrey S. H. Yeganeh, Jack K.Walton II, and Jeffrey C. Marquardt of the Boardâ€™s Division of Reserve Bank Operations and Payments Systems contributed to this speech.
+Return to text 2.
+See Gerdes, Geoffrey R., Jack K. Walton II, May X. Liu, and Darrel W. Parke, "Trends in the Use of Payment Instruments in the United States," Federal Reserve Bulletin, Spring 2005, pp.
+180-201.
+(http://www.federalreserve.gov/pubs/bulletin/2005/spring05_payment.pdf) Return to text 3.
+See, for example, Kroszner, Randall S., "The Effect of Removing Geographic Restrictions on Banking in the United States: Lessons for Europe."
+Conference on the Future of Financial Regulation, London School of Economics, April 6, 2006.
+See also Kroszner, Randall S., "What Drives Deregulation?
+Economics and Politics of the Relaxation of Bank Branching Restrictions," Quarterly Journal of Economics, November 1999, pp.
+1437-67, with Philip Strahan.
+Return to text 4.
+The term "conversion" generally refers to "check-to-ACH conversion," in which data from a check is used to create an electronic funds transfer that is cleared and settled over the ACH network.
+Such transactions include accounts receivable (ARC), point-of-purchase (POP), and back-office conversion (BOC) transactions.
+Return to text 5.
+Check 21 became effective in October 2004.
+Return to text 6.
+Before Check 21, banks were required to present the original paper check to the paying bank unless the paying bank had agreed to accept presentment of the check electronically.
+Return to text 7.
+See Board of Governors of the Federal Reserve System, Report to the Congress on the Check Clearing for the 21st Century Act of 2003, April 2007. http://www.federalreserve.gov/boarddocs/rptcongress/check21/check21.pdf Return to text 8.
+See 71 FR 69500 (72 KB PDF) (December 1, 2006).
+Return to text 9.

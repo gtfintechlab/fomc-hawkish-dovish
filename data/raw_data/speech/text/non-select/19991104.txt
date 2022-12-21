@@ -1,0 +1,86 @@
+Over the past quarter century the CRC has been responsible for much innovative and relevant policy research on consumer credit topics.
+Center staff have routinely testified before the Congress and state legislatures regarding the impact of various consumer laws.
+Your topic for today, Consumer Credit in the 21st Century, continues the tradition of timeliness and relevance.
+Since most of your agenda involves the details of consumer credit regulation and operations, I thought I might take the opportunity to look at the big picture.
+The United States has always been a country with a relatively low saving rate, both for the household sector and for the nation as a whole.
+Concerns about low saving have been amplified lately, what with the previously reported consumer saving rate dropping below zero for several quarters now, the high level of personal bankruptcy filings, and the nation's enormous trade deficits, which suggest a deficiency of national saving.
+Are these concerns justified?
+Is the consumption-saving picture a soft spot in the so-called Goldilocks economy of the United States?
+Indeed, in a deep sense is the United States economy saving enough?
+To anticipate my bottom line, I do find some grounds for concern, though in the spirit of centralbankspeak, the picture is not entirely clear.
+One reason why the picture is not entirely clear is that it never can be entirely clear.
+At a theoretical level, a nation's saving rate helps determine its long run path of output per capita.
+Up to what is known as the "golden rule of capital accumulation," a nation can raise the level of this path by saving more, in effect raising future consumption levels at the expense of present consumption levels.
+Even theorists have not solved the question of whether this might be a desirable exchange, since it involves comparing the living standards of present generations with the living standards of future generations.
+But short of this theoretical puzzle, one can ask more pragmatic questions about national saving.
+Is it as high as it used to be?
+Is it high enough for the country to benefit from potential innovations?
+Are there potential imbalances down the road that could be prevented by higher saving?
+Consumption and Saving Beginning with the time series perspective, for all of a week now we have had new national income accounts (NIA) data to analyze.
+The NIA revisions have made at least two important changes in the nation's investment-saving accounts.
+The revisions at long last treat software expenditures as investment, and also at long last, treat public pension surpluses as personal saving, consistent with the treatment of private pension saving.
+Chart 1 (6 KB PDF) shows gross domestic investment and gross domestic saving, in nominal terms and scaled by nominal GNP, annually from 1959 to the present.
+Recessions are indicated by shaded areas.
+The top panel of the chart shows gross saving and investment, and the middle panel eliminates the statistical discrepancy by focusing just on net foreign investment, the part of the gap that represents the foreign saving used to finance domestic investment.
+For many years net foreign investment was close to zero, indicating that trade deficits were also close to zero and that not much foreign saving was needed to close the investment-saving gap.
+But beginning in the early 1980s, a large gap opened up, as it did again in the late 1990s.
+While the average levels of saving and investment are similar in these different periods, the trends are very different.
+In the 1980s, after an early sharp rise, both investment and saving trended down.
+In the 1990s, beginning from low levels, both investment and saving trended up.
+Comparing the late 1980s with the late 1990s, in the earlier period investment was falling and the foreign saving was increasingly financing a consumption boom; now investment is rising and the foreign saving is increasingly financing an investment boom.
+This point can be amplified when we consider relative prices.
+The investment numbers shown in the chart are in nominal terms.
+But computer prices are dropping rapidly, and computers are a much bigger component of investment in the 1990s than the 1980s.
+In real terms, then, investment is relatively higher now and the real difference between investment in the 1990s as compared to the 1980s is larger than shown in the chart.
+There is both good and bad news in this picture.
+The good news is that national saving is now recovering from its lows in the late 1980s and early 1990s, and this should make for positive returns down the road.
+But the blessings are mixed because the nation is still importing a lot of foreign saving right now, more than 3 percent of GNP.
+Presumably foreign savers will not want to build up their U.S. assets without limit, which is another way of saying that at some point the foreign saving inflow is likely to taper off.
+That will require some adjustments in the U.S. economy--some combination of higher exports, higher interest rates, lower investment, and/or lower dollar values.
+These adjustments need not be painful, though they could be.
+They could also be partially prevented were the United States to raise national saving.
+The bottom panel of the chart asks who is doing the saving.
+The personal saving component of national saving has been drifting down lately, inspiring some of the alarm stories alluded to earlier.
+But the chart gives some reasons for tempering this concern.
+First, once pension saving is properly allocated, the personal saving rate is not negative after all.
+It may not be very high, but it is not negative.
+Second, the rising amount of other saving, done by both the corporate and the government sector (the latter in the form of budget surpluses), has more than offset this decline in personal saving, as reflected in the rising level of overall national saving.
+Finally, not shown on the chart, the St. Louis Federal Reserve Bank has recently calculated that if capital gains were treated as income, which is improper from an NIA standpoint but might reflect how households actually look at the matter, even personal saving rates have not dropped.
+There could also be a problem with the distribution of saving across households.
+Table 1, from the 1995 Survey of Consumer Finances, gives this distribution.
+The table shows that one-third of the lowest income households have no financial assets at all, that those who do have assets have tiny amounts, and that only 8 percent of these families have self-directed retirement accounts.
+Median financial assets rise slowly across the income classes, but the pension saving is still low--three-quarters of the next class of families have no self-directed pension assets, and the share of families owning retirement accounts does not get above half until incomes of close to $50,000 per year.
+And, 16 percent of families with incomes above $100,000 report no self-directed retirement accounts, though on average the families at this level do have substantial amounts of other assets.
+These figures suggest that many families will be looking at big declines in their standard of living as they approach retirement years.
+This was an important reason why, wearing a different hat, I recently recommended a small saving supplement to Social Security.
+Consumer Debt Another potential alarm bell in this area involves consumer debt, the topic of your conference.
+As shown in the bottom panel of chart 2 (5 KB PDF), personal bankruptcy filings per 100,000 persons have risen sharply since the mid-1980s.
+There could be some deficiencies in the nation's bankruptcy laws to explain part of this rise, a topic I am sure you have discussed extensively, and of course a topic that the Congress has been debating for the past year.
+Recently this number of bankruptcies has turned down fairly significantly, perhaps reducing the intensity of the congressional debate about bankruptcy reform.
+Will the level of bankruptcies continue to decline?
+One should make the usual statistical disclaimers, but there are some grounds for optimism.
+Various loan delinquency rates should be a leading indicator of future bankruptcies, and all have turned down lately--rates for consumer loans, auto loans, credit cards, and home mortgages are all declining, mortgages for some time now.
+Household debt service burdens, from the chart that Dean Maki showed you, is reproduced in the top panel of chart 2 (5 KB PDF).
+Debt service burdens rose sharply between 1994 and 1996 but have held steady since then, at levels well below the peak of the early 1980s.
+Debt service burdens have been held down recently by the rapid rise in incomes and the shift of household debt away from consumer credit toward longer maturity mortgage loans.
+These debt service burdens are even lower relative to household net worth, since net worth is rising relative to income.
+The debt statistics enrich the consumption-saving picture, but do not seem to change it fundamentally.
+Personal bankruptcies have soared in recent years, probably a result of earlier rises in debt service burdens and perhaps a function of U.S. bankruptcy law.
+But debt service burdens have now leveled off, and loan delinquencies are declining, giving some hope that recent declines in personal bankruptcies will continue.
+But personal bankruptcies probably will not decline as much as we might like, just as some consumers may not save as much as we might like.
+This decline in bankruptcies may turn off the alarm bells, but there is still valid concern that at least some U.S. consumers may be undersaving.
+Conclusion Is the level of U.S. consumer saving too low?
+In the end, it is difficult to tell.
+The best single measure for assessing saving adequacy is the overall national saving rate, which is trending upward, largely because of the welcome appearance of budget surpluses at both the federal and state levels.
+In contrast to the 1980s, this rate of national saving is financing rising levels of capital investment, particularly in real terms.
+But the rising national saving is still being supplemented by large-scale foreign saving, implying a hefty trade deficit that probably cannot continue and will require some macroeconomic readjustments.
+As regards personal saving, it is trending down.
+Presumably the rising stock market explains some of this trend, but explaining a phenomenon is different from applauding it.
+There does seem to be a personal saving deficiency, especially for households with low incomes but perhaps even for some upper-income households.
+As the baby boom generation moves inexorably towards retirement, many families may be looking at potentially large declines in their standard of living, declines that might have been averted had the level of personal saving been higher.
+Household debt statistics reinforce this picture.
+Most families seem to be doing fine, but a great many are still declaring bankruptcy.
+As with many macroeconomic issues, it is difficult to generalize.
+There is some good news and some bad news.
+Perhaps we should say that while there is not cause for alarm, there are grounds for concern.
+Table 1 Financial Assets and Retirement Account Participation: By Family Income Family Income ($,thousands) With Financial Assets > 01 (%) Median Financial Assets2 ($) With Retirement Account3 (%) 0-10 67 1.2 8 10-25 88 5.4 25 25-50 97 12.1 53 50-100 100 40.7 72 >100 100 214.5 84 All 91 13.0 45 Footnotes: 1 Percentage of families holding a positive amount of financial assets.
