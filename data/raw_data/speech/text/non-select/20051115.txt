@@ -1,0 +1,84 @@
+Retail Banking Forum Conference, Brussels, Belgium November 15, 2005 Perspectives on the Development of a Unified National Payments System in the United States Introduction Good morning.
+I would like to thank the World Savings Banks Institute, as well as the European Savings Banks Group, for the invitation to address this distinguished audience.
+I appreciate the opportunity to share some thoughts on the development of a unified national payments system in the United States.
+I am looking forward to Ms. Tumpel-Gugerell's remarks on the euro system's perspective, and I anticipate a lively panel discussion will follow.
+The European Union and the United States have had very different experiences with the origin and evolution of their payments systems.
+There is a great deal to learn by studying both systems and their ongoing changes.
+This morning, I would like to discuss the development of a unified national payments system, or single payments area, in the United States.
+I will sketch the foundations of the contemporary U.S. payments system and remark on the history of U.S. banking.
+I think you will recognize some parallels with, but also important differences from, the European Union experience.
+I will then discuss some of the challenges in the U.S. experience, as well as some thoughts on the future of the U.S. payments system.
+The overarching theme of my remarks is that the United States has evolved toward an increasingly unified national payments system, through both market-driven development and some specific public-sector actions.
+A Brief History of the U.S. Banking and Payments System From the late 1700s through the mid-1800s, the development of the U.S. banking system was dominated by roles played by individual states.
+Generally, commercial banks were not chartered by the federal government; rather, they were chartered, regulated, and supervised by the states and operated under different state legal and regulatory frameworks.
+The explicit delegation of bank supervision to the states reflected the strong preference for decentralized authority and resulted in the first brief efforts to establish a national bank.
+In 1791, the federal government chartered the First Bank of the United States with a twenty-year charter, its first attempt to establish a central bank.
+After that charter lapsed in 1811, the federal government in 1816 made a second attempt to form a central bank, by establishing the Second Bank of the United States.
+That twenty-year charter was also allowed to lapse amid the economic and political controversies of that time.
+In ensuing years, the banking system was highly decentralized with individual state-chartered commercial banks issuing their own bank notes.
+Although there has been an academic debate about the success of this period of competitive, private-bank note issuance, the federal government ultimately acted to address significant problems posed by this banking structure.
+In the payments system, for example, state bank notes were subject to devaluation in response to credit risk and to counterfeiting, creating a significant burden on local and interstate commerce.
+In 1863 and 1865, the National Bank Acts permitted the federal government to charter national banks and allowed these banks to issue national bank notes backed by federal bonds.
+The collateralization of national bank notes with U.S. government bonds, along with a 10 percent tax on state notes, expedited the acceptance of national bank notes and quickly eliminated state notes from circulation.
+In addition, the United States Treasury also began directly issuing notes backed by gold in the 1870s.
+These developments were important first steps in unifying the national payments system.
+In retrospect, the overall fragmentation of the U.S. banking system helped produce a fragmented national retail payments system, including a fragmented check-clearing system.
+Checks, which were traditionally cleared through local private clearing houses or correspondent banks, were the predominant alternative to making payments with bank notes or gold.
+However, checks were not paid at par.
+That is, checks cleared between banks in different states or locales were discounted based on the costs of transportation needed to collect the checks, the risk profiles of the banks on which the checks were drawn, and the need to earn a return on clearing activities.
+Neither the consumer nor the merchant knew how much of the value of a check would ultimately be delivered to the intended beneficiary, so it was difficult to determine the value of a check needed to pay a bill.
+As the level of interstate commerce grew, the costs associated with this inefficient practice became quite burdensome.
+Also, collecting a check could take a long time.
+Because a check could be forwarded to numerous correspondent banks before ultimately being presented for payment, some public officials charged that banks deliberately engaged in the “circuitous routing” of checks to exploit the inefficiencies of the payments system.
+The risks and inefficiencies in the fragmented banking system also resulted in bank panics, which were relatively common, and made it difficult to transfer liquidity from one region of the country to another.
+In 1913, the U.S. Congress established the Federal Reserve System, not only to provide greater financial stability and to improve banking supervision, but also to provide an elastic currency and a national check-clearing system.
+The Federal Reserve began issuing currency in 1914.
+Moreover, checks that were cleared through the Federal Reserve and that were drawn on Federal Reserve member banks were exchanged at par value.
+In the early days, the Federal Reserve's national check-clearing service was provided free of charge to nationally chartered banks that were required to join the system and state-chartered banks that joined voluntarily.
+Despite some early difficulties with achieving widespread par clearing, the Federal Reserve's check collection services ultimately provided the nation with a much more unified payments system.
+During this period, checks or drafts were also used as a means of settling interbank payment obligations.
+To improve the safety and efficiency of the interbank settlement process, in 1918 the Federal Reserve developed and implemented Fedwire, the first real-time gross settlement system.
+The key feature of the Fedwire system was the ability to transfer account balances held at the central bank through telegraphic messages using a secure communications network.
+Although Fedwire was intended to improve the large-value payment system, and quickly accomplished that goal, it was also used for some urgent large-value commercial and retail payments, and continues to be used that way today.
+The payments operations of state and federally chartered private banks, private clearing houses, and the operations of the new central bank, provided the foundation for the private- and public-sector payments infrastructure that exists in the United States today.
+Yet for many years, policies that deterred interstate banking shaped the design and operation of the retail payments system.
+The U.S. banking and payments system has also been shaped by other important state and federal laws.
+Starting in the late 1800s, states attempted to develop a more-uniform set of commercial laws codifying existing laws and common business practices.
+They eventually adopted the Uniform Commercial Code, or UCC, which states generally enacted.
+At the federal level, a number of laws influenced the development of the banking system.
+Laws such as the McFadden Act and the Douglas Amendment to the Bank Holding Company Act were passed to restrict either bank ownership or bank branching across state lines.
+Over the years, legislation enacted by the various states, and ultimately at the federal level, eliminated the barriers to banks operating across state lines, at least with respect to interstate bank acquisitions.
+In 1994, the Riegle-Neal Act, which repealed most of the federal prohibitions on interstate banking, set the foundation for establishing efficient, national retail banking and payment arrangements.
+If the U.S. banking structure is the foundation of the retail payments system, the cornerstone is the competitive market model for payment system operators.
+The Monetary Control Act of 1980, or MCA, codified the use of the competitive market model for the U.S. payments system with the central bank as a provider of services.
+Prior to that Act, only Federal Reserve member banks were permitted to use the Federal Reserve's (free) payment services.
+Nonmembers typically cleared checks through a network of upstream correspondent banks that were Federal Reserve members.
+The MCA confirmed the Federal Reserve's role as a key provider of services and required the Federal Reserve to provide payment services to both member and nonmember banks.
+Most importantly, the MCA required the Federal Reserve to price its payment services and to fully recover the costs of providing those services, including imputed taxes and profits.
+The purpose of this requirement was to avoid having the central bank underprice payment services in a way that would undercut the existence and growth of private-sector alternatives.
+The ultimate goal was to stimulate efficiency and innovation by encouraging competition between service providers and payment system operators, including the central bank.
+The legal framework governing payment systems has continued to evolve.
+In its role as catalyst for payments system improvements, the Federal Reserve has worked with the private sector to identify and address barriers to improvements in payments system efficiency.
+It then developed legislative recommendations that eventually became the Check Clearing for the 21st Century Act, known as Check 21.
+Check 21, which became effective in 2004, eliminated legal impediments to the use of electronic technologies to collect checks.
+Under Check 21, banks no longer need to physically move original paper checks from the bank where the checks are deposited to the bank that pays them.
+The law created a new negotiable instrument called a substitute check, which permitted banks to truncate original checks, to send digital check images across the country, and to deliver paper substitute checks to banks that wanted to continue receiving paper checks.
+As a result, checks will ultimately be collected faster and at lower cost through an electronic national clearing structure.
+Consumer Behavior and Market Response in the Future U.S. Payments System The development and adoption of new payments instruments is largely being influenced by consumers, merchants, and their banks and service providers interacting in a market setting.
+Until very recently, checks have been the dominant form of noncash payment in the U.S. payments system as measured by the annual number of payments.
+However, the 1990s saw a marked shift in consumers' behavior.
+Federal Reserve research has revealed a steady decline in check usage since the mid-1990s.
+By 2003, electronic noncash retail payments exceeded check payments for the first time.
+Debit cards, used primarily by consumers for everyday purchases, have represented the fastest growing segment of the retail payments system.
+They have been a natural bridge from cash and checks to electronics.
+Historically, automated teller machine and debit card networks, much like the early check-clearing network in the U.S., were generally regionally based.
+Banks issued debit cards that could be used only on certain networks, which had limited reach across state lines.
+This meant that, although early debit cards were a convenient new way to make noncash payments, the scope of their use was limited.
+Some networks developed interchange agreements to expand the acceptance of their debit cards.
+In addition, as debit cards evolved, the major credit card companies and their banks began to issue a new type of debit card that operated through the existing national credit card networks.
+The use of these so-called signature-based debit cards has been growing rapidly for several years.
+Another payment mechanism that was developed jointly by the private sector and the Federal Reserve was the automated clearinghouse, or ACH, system.
+The ACH system is a batch electronic payment system that has traditionally been used to process recurring credit and debit transactions, such as payroll payments, mortgage and utility payments, and government benefits.
+In its infancy, the ACH system was a segmented regional system that has since evolved into a nationwide payments system.
+More recently, banks have used the ACH system in innovative ways to make nonrecurring payments, such as payments over the telephone or Internet, which were typically made by credit or debit card.
+In addition, businesses that receive large numbers of checks from customers are obtaining their customers' permission to convert the checks into ACH payments.

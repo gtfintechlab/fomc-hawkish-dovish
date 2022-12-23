@@ -1,0 +1,140 @@
+When I joined the Federal Reserve Board of Governors last December, I knew I would be doing more than helping to set short-term interest rates.
+While the general public and market focus on the decisions of the Federal Open Market Committee, Board members spend much of their time on various operating committees, focusing on payment and settlement systems, and the safety and soundness of financial institutions and markets.
+But the rush of current events has meant that I have spent less of my time dusting off my economics Ph.D. and more time using my experience as a corporate chief financial officer, auditor, risk manager, and accountant, to consider the policy issues of recent corporate control failures.
+Today I want to focus on the role that risk management can play in strengthening corporate governance from the point of view of boards of directors, management, and internal control functions.
+Managing Risks The last decades of the twentieth century were, without a doubt, a period of dramatic change in financial engineering, financial innovation, and risk-management practices.
+Enterprise-wide risk management has been evolving as financial theory has advanced, new technology has made modeling of risks more feasible, and innovation has helped to find better ways to mitigate risk.
+Some types of risk are further along in the evolutionary process.
+While there are many ways to categorize risk, I will use three broad categories for illustration -- market, credit, and operating.
+Operating risk is the least developed, as conceptual frameworks, metrics, and databases are still in preliminary stages.
+I will come back to the issues surrounding operating risk in a few moments.
+Market risk arguably has evolved the furthest because of the transparency of markets, frequency of transactions, and financial engineering that can parse the various forms of risk exposure so that appropriate financial instruments can be developed to hedge the specific components of risk.
+The treasury functions of corporations routinely use models to assess and manage price, interest rate, liquidity, and foreign exchange risk.
+As a result, managers can better anticipate changes in revenue and expense due to these factors and develop responses to their specific circumstances.
+One tool for managing risk is securitization.
+Many of the assets on a firm's balance sheet, such as receivables and customer leases, can now be securitized--that is, grouped into pools and sold to outside investors.
+Securitization helps a firm manage the risk of a concentrated exposure by transferring some of that exposure outside the firm.
+By pooling a diverse set of assets and issuing marketable securities, firms obtain liquidity and reduce funding costs.
+Of course, moving assets off the balance sheet and into special-purpose entities, with the attendant creation of servicing rights and high-risk residual interests retained by firms, generates its own risks.
+Derivatives are another important tool for managing risk exposures.
+In the ordinary course of business, firms are exposed to credit risk and the risk of price fluctuations in currency, commodity, energy, and interest rate markets.
+For example, when an airline sells tickets months before a flight, it becomes exposed to fluctuations in the price of jet fuel.
+A higher price of jet fuel translates directly into lower profits and, perhaps, a greater risk of bankruptcy.
+Firms can now use derivatives--options, futures, forwards, and so on--to mitigate their exposure to some of these risks.
+The risk can be transferred to a counterparty that is more willing to bear it.
+In my example, the airline could buy a forward contract or a call option on jet fuel to hedge its risk and thereby increase its financial stability.
+Another major category of risk is credit risk, which also has become much more quantified.
+Models analyze a corporate customer's or borrower's probability of default, the loss in the case of default, and the borrower's likely exposure at the time of default, taking into consideration future draw-downs.
+The greater use of credit models in retail transactions provides a stronger framework to assess risk and ensure that pricing reflects credit quality.
+For consumer credit, however, models are less proven, since data collection and loss estimates generally evolved after the 1990-91 recession and so have not been proven under stress conditions or for subprime borrowers.
+Because many of these borrowers did not have significant access to credit in previous recessions, their ultimate default rate in the current cycle should help to validate the strength of the new statistical models.
+For example, the health of financial institutions today reflects the improvement in the risk management process that has been ongoing at banks for many years.
+Increasingly, the entire risk management process has become more quantitative, reflecting not only the enhanced ability and lower costs of collecting and processing data, but also improved techniques for measuring and managing risk.
+The banking industry has been able to report record earnings in the first half of this year, despite rising loan losses for large corporate credits and credit cards.
+Banks have diversified their revenue streams to mitigate the impact on earnings during credit cycles.
+And by improving risk management processes, bankers have learned to identify risk exposures that exceed the target return on capital and sell, hedge, or use controls to mitigate risk exposures.
+Risk Assessment As corporations grow larger and more diverse, it becomes more difficult for executive management and boards of directors to monitor activity across the company.
+Directors, particularly, do not have the time to understand all of the transactions occurring.
+Thus, a key issue for boards and audit committees is how to focus their attention to the appropriate areas.
+This is where a sound risk management and internal control framework can be very helpful.
+The Sarbanes-Oxley Act requires management to issue a report about the quality of internal controls.
+A similar requirement was put into effect for banks in the Federal Deposit Insurance Corporation Improvement Act of 1991.
+Since then, bankers have adopted approaches along the lines of the Committee of Sponsoring Organizations' of the Treadway Commission (COSO) Internal Control--Integrated Framework.
+This requires all managers, at least once a year, to step back from other duties, and evaluate risks and controls.
+Each manager considers current and planned operation changes, identifies the risks, and determines appropriate mitigating controls and the effectiveness of those controls.
+Managers then report their assessment up the chain of command to the chief executive officer, with each new level of management in turn considering the risks and controls under their responsibility.
+The external auditors attest to the results of this self-assessment in banks, and results are reported to the audit committee of the board of directors.
+Thus, the process helps management communicate among themselves and with the board about the dynamic issues affecting risk exposures, risk appetites, and risk controls throughout the corporation.
+Risk assessments such as the one outlined in COSO's internal control framework presumably could be useful in assessing the relative risk and returns from various lines of business when formulating business strategies.
+But not all corporations and boards consider risk as a part of their annual strategic planning or other evaluation processes.
+A study conducted this year by the Institute of Internal Auditors and the National Association of Corporate Directors showed that directors are not focusing on risk management.1 Forty-five percent of directors surveyed said their organization did not have a formal enterprise risk management process -- or any other formal method of identifying risk.
+An additional 19 percent said that they were not sure whether their company had a formal process for identifying risks.
+Sound corporate governance is an essential element of a strong risk management process.
+Governance involves many players, each with specific assigned responsibilities to ensure that the system as a whole is sufficient to support the business strategy and ensure the effectiveness of the systems of internal control.
+Directors are not expected to understand every nuance of every line of business or to oversee every transaction.
+They can look to management for that.
+They do, however, have the responsibility to set the tone regarding their corporations' risk-taking and to oversee the internal control processes so that they can reasonably expect that their directives will be followed.
+They also have the responsibility to hire individuals who they believe have integrity and can exercise a high level of judgment and competence.
+In the light of recent events, I might add that directors have the further responsibility to periodically determine whether their initial assessment of management's integrity was correct.
+Indeed, beyond legal requirements, boards of directors and managers of all firms should periodically test where they stand on ethical business practices.
+They should ask, for example, "Are we getting by on technicalities, adhering to the letter but not the spirit of the law?
+Are we compensating ourselves and others on the basis of contribution, or are we taking advantage of our positions?"
+Risk Management and Internal Controls Boards of directors are responsible for ensuring that their organizations have an effective audit process and that internal controls are adequate for the nature and scope of their businesses.
+The reporting lines of the internal audit function should be such that the information that directors receive is impartial and not unduly influenced by management.
+Internal audit is a key element of management's responsibility to validate the strength of internal controls.
+Internal controls are the responsibility of line management.
+Line managers must determine the level of risks they need to accept to run their businesses and to assure themselves that the combination of earnings, capital, and internal controls is sufficient to compensate for the risk exposures.
+Supporting functions such as accounting, internal audit, risk management, credit review, compliance, and legal should independently monitor the control processes to ensure that they are effective and that risks are measured appropriately.
+The results of these independent reviews should be routinely reported to executive management and boards of directors.
+Both executive management and directors should be sufficiently engaged in the process to determine whether these reviews are in fact independent of the operating areas under review and whether the officers conducting the reviews can, indeed, speak freely.
+In many of the recent corporate and audit firm failures that have received public attention, basic tenets of internal control, particularly those pertaining to operating risks, were not followed.
+Recent events should remind boards of directors, management, and auditors that internal controls and sound governance become even more important when firms' operations move into higher-risk areas.
+Indeed, when changes are happening, control failures often increase significantly.
+Rapid growth, merger of operation centers, and introduction of new products and delivery channels are examples of situations that put stress on the control environment.
+When these types of changes occur, "people risks" rise.
+These are risks that are related to training employees in new products and processes.
+Employees who join the organization need to learn the culture of the company and the control environment.
+Employees unfamiliar with their new responsibilities--the systems they use, the services they provide customers, the oversight expected by supervisors and members of internal control functions--are all more likely to create control breaks.
+Rapid growth and change also modify the relative risks to an organization.
+New lines of business may require different customer-qualification tests to meet the expected levels of customer risk exposure.
+Further, the pressure to beat a competitor to market with new products may shortcut the design-review process and omit an important control or allow a programming error to adversely affect the software used to deliver the services.
+Many of the companies that have been the center of recent governance failures demonstrate some similar characteristics.
+They were lead by hard-charging entrepreneurs whose ability to think outside the box pioneered advances in new lines of business.
+But the personalities of these individuals, in many cases, led to a focus on sales growth and support and inadequate time spent building the control infrastructure.
+Another form of people risk is internal fraud.
+When expectations of the market and supervisors, or pressures of personal life become overwhelming key officers may step over the ethical and legal boundaries and cover up errors or purposely steal from the corporation.
+While executive fraud is very difficult to detect, it is eventually discovered.
+Obviously, during the past year, we've seen severe reactions to observed failures within corporations--not only from investors and creditors, but also from lawmakers and regulators.
+Although risk management has become much more quantitative, considerable management judgement must be applied to the risk management process.
+Frequent, small losses can generally be absorbed in the operating margin of the product or service.
+It is the low-probability, large losses that provide the greatest challenge.
+And, it is just such risks--the ones that can severely damage, if not kill, an organization--that too many enterprises do not formally take into consideration.
+When one looks at the extreme loss events for many types of operating risks, for example, executive frauds, it is easy to recognize that the normal bell-shaped probability distribution does not fit.
+Rather, the extremely long-or fat-tailed distributions emphasize that risk management and internal control judgments must be applied.
+What is even more difficult, is that some exposures can better be classed as uncertainties than as risks.
+That is, patterns of losses, and risk drivers, are very hard to identify.
+Terrorist attacks, technology breakthroughs, and other events that cannot be defined ahead of time often have significant implications for the loss exposures of corporations.
+Indeed, recent events have demonstrated that the complexity and size of modern corporations create significant market risk exposures that give management and the board of directors little time to react after serious breaches in internal controls become known.
+Reputation risk, especially in a trust business like banking, can lead to loss of liquidity, cancellation of major new contracts, and indictments, which bring the ultimate corporate loss--failure of the firm.
+And as we have seen, the market's response can be harsh.
+Risk Management and Disclosure The intended or unintended consequences of the opaqueness that comes with complexity raise serious issues for financial reporting and corporate governance.
+Effective governance requires investors and creditors to hold firms accountable for their decisions.
+But they must first have the information necessary to understand the risks that the firm is bearing and those it has transferred to others.
+Here again, enterprise risk management can provide a framework through which management and boards can convey appropriate information that will allow outsiders to understand the company's risk exposures and how the company limits and manages those risks.
+Public disclosures by corporations need not follow a standard framework that is exactly the same for all.
+Rather, we should insist that each entity disclose the information it believes its stakeholders need to evaluate its risk profile.
+Each business line in a complex organization is unique, and--to be most effective--the specific disclosures of its risks should be different, too.
+Even in smaller organizations, disclosures should be tailored to reflect the activities of the organization.
+A summary of the information that executive management and the board of directors need to monitor the health of the enterprise is an excellent place to start when tailoring the information that would be useful to investors and customers.
+Disclosure rules that are too rigid may become incompatible with risk management processes that continually evolve.
+Disclosures should clearly identify all significant risk exposures--whether on or off the balance sheet--and their impact on the firm's financial condition and performance, cash flow, and earnings potential.
+With regard to securitizations, derivatives, and other innovative risk-transfer instruments, traditional accounting disclosures of a company's balance sheet at a single point in time may not be sufficient to convey the full impact of a company's financial prospects.
+For example, if a firm securitizes receivables through commercial paper conduits, those receivables are no longer on the company's books under current accounting standards.
+Yet the aging of receivables is a key indicator that investors and lenders use to assess the quality of sales and operations.
+If the receivables move off the balance sheet, information about the aging of the receivables should continue to be part of the firm's disclosures.
+Equally important are disclosures about how risks are being managed and the underlying basis for values and other estimates that are included in financial reports.
+These disclosures should identify key risk drivers and describe the range of possible outcomes.
+Unlike typical accounting reports, information generated by risk management tends to be oriented less to a point in time and more to a description of the risks and the variability of results.
+To take an example from the world of banking where the discipline of risk management is relatively well developed, an accounting report might say that the fair value of an investment portfolio is $300 million and has dropped $10 million from the last report.
+However, the bank's internal risk report would show much more extensive information, such as the interest rate, maturity, and credit quality of the assets and the range of values the portfolio would take under alternative future scenarios.
+The user of a risk-management report could determine whether changes in value were due to declining credit quality, rising interest rates, portfolio sales, or payoffs of underlying loans.
+Corporate risk officers have developed other types of reports that provide information on the extent to which the total return in a particular line of business compensates for the line's comprehensive risk.
+On an enterprise basis, a reader of covariance reports can determine whether the growing lines of business have risk exposures that tend to offset those in other business lines--thereby resulting in lower volatility for the earnings of the corporation as a whole.
+If the lines of business have high correlations, investors would expect management and the boards of directors to have in place more significant processes to monitor and mitigate those risks.
+Complex organizations should continue to improve their risk-management and reporting functions.
+When they are comfortable with the reliability and consistency of the information in these reports, they should begin disclosing this information to the market, perhaps in summary form, paying due attention to the need for keeping proprietary business data confidential.
+Not only would such disclosure provide more qualitative and quantitative information about the firm's current risk exposure to the market, it would also help the market assess the quality of the risk oversight and risk appetite of the organization.
+A sound risk-management system in a complex organization should continually monitor all relevant risks, including credit, market, liquidity, operational, and reputation risks.
+Reputation risk, which recent events have shown can make or break a company, becomes especially hard to manage when off-balance-sheet activities conducted in a separate legal entity can affect the parent firm's reputation.
+For all these risks, disclosures consistent with the information used internally by risk managers could be very beneficial to market participants.
+Conclusion In conclusion, an effective enterprise-wide risk management process can provide executive management and the board of directors with a framework to strengthen the governance process.
+Risk management can identify where exposures exceed the risk- tolerance limits and determine where investments in enhanced controls can most effectively mitigate remaining risks.
+The evolution of risk management can provide metrics for management and the board of directors to assess the relative returns from various forms of risk exposures and can help shape strategic decisions.
+For companies undergoing rapid growth and those engaged in relatively new business processes and practices, risk management can provide a method for developing an internal control infrastructure to support the success of the business strategy.
+Further, the risk management framework can improve the transparency of disclosures to help investors and customers better understand the operations of the firm.
+I particularly want to emphasize that disclosure need not be in a standard accounting framework or exactly the same for all organizations.
+Rather, each entity should disclose the information its stakeholders need to best evaluate the entity's risk profile.
+Companies should be less concerned about the vehicle of disclosure and more concerned about the substance of the information made available to the public.
+No business can afford to remain static, and firms of all sizes should continually pursue better ways to manage risk.
+The discipline of risk management is still relatively young.
+Investments in better forms of risk management processes often reduce losses and provide a more robust framework for evaluating business alternatives.

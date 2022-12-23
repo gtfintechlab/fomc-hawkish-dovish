@@ -1,0 +1,96 @@
+This year's conference is again focusing on a timely and important set of issues.
+The advent of the Internet and advances in information technology and telecommunications unquestionably are having significant effects on financial markets and institutions.
+No one seems to doubt that, in the long run, electronic finance will result in more efficient financial intermediation.
+Declining costs of information will reduce some of the uncertainty that gives rise to financial risks.
+New financial instruments and risk-management techniques will reduce the required rates of return for bearing the risks that remain by allowing them to be unbundled and shifted more effectively than has been possible.
+However, many observers are concerned about the short-run challenges that those rapid advances in technology pose for financial institutions and markets and for policymakers.
+Some institutions inevitably will suffer erosion of their franchise values as competitors, new and old, prove more adept at tapping the potential gains from the new technology.
+Electronic finance represents an acceleration of the process that noted economist Joseph Schumpeter many years ago termed "creative destruction"--the continuous shift in which emerging technologies push out the old.
+Although I trust that supervisors and regulators themselves are not at risk of creative destruction, the effectiveness of their approaches may well be impaired, if not marginalized.
+Consequently, they need to continuously reevaluate the effectiveness of their regimes and make appropriate adjustments in response to the changes in financial institutions and markets that electronic finance is bringing about.
+However, in responding to these challenges, the authorities would do well to heed the advice offered to the medical profession and, first, do no harm.
+Policymakers should resist any temptation to preserve the franchise values of some institutions by protecting them from competition from other institutions that are better able to take advantage of the new technologies.
+Equity markets will inevitably shift capital from the losers to the winners.
+In most cases, the losers will fade away without placing any burdens on their creditors.
+But some undoubtedly will fail.
+This is a tendency that should not be resisted.
+Authorities need to remember that the optimal rate of failure of regulated financial intermediaries is not zero, in part because of the inevitable and necessary process of creative destruction.
+Policymakers also need to be cautious about efforts to direct the evolution of the financial market infrastructure--that is, trading systems and payment, clearance, and settlement systems.
+Government authorities are poorly suited to picking winners and losers among competing technologies and market structures.
+Innovations have to be tested by the marketplace-- ultimately by consumer choice.
+Those that fall short of creating sufficient value added will fail, and their capital will be redirected to potentially more productive uses.
+Where governments intervene, failure becomes difficult, if not impossible, with the consequence that inferior technologies are shielded from the forces of competition.
+Consequently, attempts by government to direct change in trading systems are more likely to retard progress than to promote it.
+These words of caution are not meant to imply that authorities should remain inactive in the face of the technological revolution that electronic finance constitutes.
+As already indicated, supervisors and regulators need to reevaluate whether these changes have undermined the effectiveness of their existing approaches and make appropriate adjustments.
+For example, in recent years, rapidly changing technology has begun to render obsolete the bank examination regime established in earlier decades.
+Bank regulators are perforce being pressed to depend increasingly on private market discipline, which has always been the most effective form of regulation.
+Policymakers can play a constructive role in facilitating the market's transition to the more efficient long-run equilibrium that technological advances are making possible.
+They can make the competitive process itself more effective by promoting disclosures by financial institutions and systems operators that make more transparent where returns to investments are highest and, therefore, where capital should flow.
+They also can provide encouragement and support for cooperation within the private sector in areas, like clearing and settlement, where such cooperation is necessary to reach that long-run equilibrium.
+These considerations are broadly applicable to financial institutions and markets, but they seem especially relevant to the trading, clearing, and settlement of equities and other securities, which is the primary focus of the program for the remainder of this conference.
+Evolution of Securities Markets: Trade Execution Securities markets in general, and equity markets in particular, have undergone dramatic changes in the way market participants obtain information, communicate with each other, and execute and settle deals.
+The regulatory policy challenges raised in these markets by new technology are important because the ways in which the challenges are met have consequences for our financial system and our overall economic growth.
+Publicly traded equities are a significant source of capital for firms, and equity markets are a key part of the process of allocating capital among competing uses in our economy.
+Through the issuance of equities, firms enable broad sets of investors to share in the risks and rewards of economic activity.
+The pricing of existing capital assets is important in directing investments into new capital assets.
+Today, equities constitute a substantial portion of the net worth of households when both direct holdings of shares and indirect holdings through mutual and pension funds are taken together.
+In addition, U.S. equity markets are a significant factor in the international competitiveness of our finance industry.
+Thus, it is vital that participants in equity markets adapt to the changing financial landscape and that policymakers play a constructive role in helping markets respond to the changing technological opportunities.
+Profound shifts have occurred in equity markets as powerful computers and new telecommunications technologies, in combination with deregulatory innovations by the Securities and Exchange Commission, have facilitated the development of new trading venues for equities.
+These new venues offer investors a wide range of alternatives for entering orders and executing trades.
+Some of the new trading mechanisms also offer speedier executions or greater anonymity, which are important to some investors.
+Many trading mechanisms allow customer orders to be matched directly, without the traditional intervention of a specialist or marketmaker.
+As alternative trading venues have proliferated and flourished, they have attracted increasingly larger volumes from the Nasdaq market and to a lesser extent from the other exchanges.
+This competition among trading systems in the short run has resulted in market fragmentation--not all orders to buy and sell securities necessarily have the opportunity to interact with one another.
+Concerns that this fragmentation will harm the price discovery process, investors' ability to obtain the best executions, and overall market liquidity are driving many policy discussions.
+The prices established in equity markets should reflect the supplies and demands of participants at a given time.
+Fragmentation thus raises both questions about the quality and completeness of the price discovery process and concerns that investors' orders to buy and sell securities may not be executed at the best price or the lowest cost.
+Fragmentation also creates the impression, and perhaps the reality, that separate pools of liquidity yield a lower volume of liquidity in the aggregate.
+Particularly in times of stress, liquidity simply may not be there or it may not be there in depth.
+But these concerns about fragmentation must be placed in perspective.
+We are just beginning to develop evidence about the way the structural evolution of our equity markets affects their performance, particularly in stressful times.
+Some have argued that during the volatile times last spring, liquidity apparently did not dry up, even though markets may have been more fragmented than in the past.
+Clearly, a deeper understanding of the effects of changes in market structure on liquidity awaits a careful sifting of data by researchers.
+But it is not evident at this point that the more dire predictions of the consequences of fragmentation will necessarily be realized.
+Perhaps market participants have adapted their trading styles to the more fragmented structure, or those structures are more resilient than previously thought.
+Taking a longer view, market structures are constantly evolving, and activity shifts in response to innovations in trading and in financial instruments.
+Unfettered competitive pressures will foster consolidation in the long run as liquidity tends to centralize in the system providing the narrowest bid-offer spread at volume.
+Two or more venues that are trading the same security or commodity will naturally converge toward a single market.
+One market offering marginally narrower bid-ask spreads at volume will attract the business of others, improving its liquidity further and reducing that of its competitors.
+This, in turn, will engender an even greater competitive imbalance, leading eventually to full consolidation.
+Of course, this process may not be fully realized if there are impediments to competition or if markets are able to establish and secure niches by competing on factors other than price.
+What, in general, should be the role of policymakers in this cycle of competition, fragmentation, and consolidation?
+As I noted at the outset, it has never proved wise for policymakers to try to direct the evolution of markets, and it strikes me as especially problematic at this juncture.
+The structure of our equity markets is extraordinarily dynamic; hardly a week goes by without the announcement of a new trading venue or the trumpeting of an enhancement to an existing system.
+None of us can anticipate which of these venues will have the combination of services that best meets the needs of investors.
+That can only be revealed as competition establishes winners and losers.
+As this technology-led market restructuring plays out, policymakers can help facilitate the transition to a long-run equilibrium market structure, though it is clear that any equilibrium will itself be subject to a continuing evolution.
+Change often engenders controversy because entities currently earning above-market rates of return owing to dominance over a segment of a market will seek, not unexpectedly, to protect those returns.
+Many entities will argue that the rules, regulations, or market practices that give rise to such niches are critical for the continued functioning of markets or are in the best interest of investors.
+These same entities, however, will see the need for additional competition in areas where others are earning above-market returns.
+Policymakers have an obligation to ensure that market participants and trading venues compete on terms as even as possible and that the property rights of participants are scrupulously enforced.
+As policymakers seek to make competition itself more effective, one area in which endeavors could well prove fruitful is enhancement of the transparency in markets.
+The SEC recently has proposed rules that would improve the public disclosure of order-routing and execution practices.
+This proposal is an example of the way in which policymakers can foster competition by improving investors' understanding of the venues to which their orders are being routed and of the quality of execution they receive in those venues.
+Disclosure empowers investors to make explicit, "reasoned" choices about those factors that affect the quality of trade executions and ultimately the returns on their investments.
+Evolution of Securities Markets: Clearance and Settlement The dramatic changes in the mechanisms for trading securities are also giving rise to concerns about the clearance and settlement infrastructure that critically supports the marketplace.
+To date, electronic finance has not had nearly as significant an effect on the back office as on the front office.
+The clearance and settlement process for U.S. equities and other corporate securities is still a sequential and repetitive process that involves significant manual intervention.
+Already there are signs that trading volumes are straining the capacity of the infrastructure--an increasing number of transactions are failing to settle as scheduled on the third business day after trade date (T+3).
+Many fear that, without a complete re-engineering of the process that uses new technology to achieve straight-through processing, or STP, of trade data, further increases in trading volumes, driven in part by the ongoing decimalization of equity prices, will soon result in serious capacity problems.
+The potential for such problems clearly must be a significant concern for policymakers.
+Errors and delays in settling trades imply greater operational risks and counterparty credit risks to market participants.
+Furthermore, should capacity problems emerge because of a volatility-induced spike in trading volumes, the equity markets themselves could be compromised.
+Here again, policymakers would be unwise to try to direct the modernization of the infrastructure.
+But they can and should support and encourage private-sector initiatives.
+In particular, I believe that the Securities Industry Association's efforts to compress the settlement cycle for U.S. corporate securities from T+3 to T+1 deserve support and encouragement.
+The shorter settlement cycle would significantly reduce counterparty credit risks by reducing the number and value of trades awaiting settlement and by reducing the potential for losses from those unsettled trades should a participant default.
+Moreover, the efforts to settle on T+1 are serving as a catalyst for STP, without which implementation of T+1 is simply impossible.
+Achievement of straight-through processing will significantly reduce costs of settlement, including the growing costs of resolving errors in the documentation and processing of trades, and it should create scalable capacity that can meet future increases in trading volumes.
+Finally, the achievement of STP will remove many, if not all, of the obstacles to realization of what should be the ultimate goal--settlement on T+0.
+Some market participants may resist efforts to shorten the settlement cycle because they benefit from features of the current system.
+Policymakers need to be particularly sensitive to the distinction between real technical problems of transition to shorter settlement cycles and foot dragging by market participants that are reluctant to forego benefits they have received serendipitously.
+For example, some firms may seek to preserve the trade float that arises in longer settlement cycles when investors pay for purchases with checks.
+Conclusion As these remarks indicate, I see electronic finance creating far more opportunities than problems.
+The process of creative destruction no doubt poses challenges for market participants and policymakers in the short run.

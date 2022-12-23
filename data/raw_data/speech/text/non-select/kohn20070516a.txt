@@ -1,0 +1,76 @@
+I will focus on the implications for our objectives for financial stability and the containment of systemic risk.1 To formulate appropriate policy responses, we first must identify how credit derivatives might be affecting systemic risk.
+In considering this question, we need to recognize that credit derivatives are an extension of decades-long trends.
+The Chicago futures exchanges introduced financial derivatives in the 1970s.
+Since the early 1980s, over-the-counter (OTC) derivatives have become increasingly important.
+Over the same period, the securitization of mortgages and other assets has been transforming regulated depository institutions from holders of interest rate and credit risk to originators and distributors of such risk.
+Perhaps the most significant aspect of credit derivatives has been the marriage of derivatives and securitization technologies in synthetic collateralized debt obligations (CDOs).
+There are good reasons to think that these developments have made the financial system more resilient to shocks originating in the real economy and have made the economy less vulnerable to shocks that start in the financial system.
+Borrowers have a greater variety of credit sources and are less vulnerable to the disruption of any one credit channel; risk is dispersed more broadly to people who are most willing to hold and manage it.
+One can see the effects of these changes in the reduced incidence of financial crises in recent years.
+From the 1970s through the early 1990s, we seemed to be in almost continuous crisis mode.
+These crises were centered on depository institutions, and because borrowers were so dependent on depository institutions for credit availability, problems at depository institutions meant problems for the financial system and for the economy more generally.
+To be sure, much, perhaps most, of the improvement has been due to the better performance of the overall economy--low and stable inflation and damped business cycles since the early 1980s.
+In addition, financial stability has been greatly enhanced by improvements in bank capital regulation that were implemented in the late 1980s and after the crisis in the early 1990s.
+But greater diversification of risk has also contributed significantly; we could see this in the 2001-03 period, when a sharp decline in equity prices, a spike in spreads on corporate debt, and unanticipated business failures did not threaten depository institutions or the broader financial system.
+But we certainly should not read this experience as meaning that we are free of systemic risk--the risk of financial-sector problems spilling into the real sector or aggravating already difficult economic circumstances.
+Indeed, I see several reasons for carefully considering the potential for such problems to emerge.
+New players and new instruments have become important since 2002, when the last adverse credit cycle peaked.
+New and already existing market participants are maneuvering for greater shares in a rapidly evolving market structure.
+Although leverage has declined in the nonfinancial businesses whose credit is being priced and traded, it may well have increased in the structure of intermediary finance.
+In any event, the growth of tranched CDOs and other structured credit products with substantial embedded leverage has made it more difficult to assess the degree of leverage of individual institutions or of the financial system as a whole.
+In addition, the extraordinarily rapid growth of credit derivatives markets in the past few years has occurred against the backdrop of relatively benign macroeconomic performance--good global growth, low inflation, historically high corporate profits and low business failures, and reasonably predictable monetary policies.
+Partly as a consequence, the prices of financial assets seem to embody relatively low expected volatilities and relatively little reward for taking credit risk or for extending the duration of investor portfolios.
+With more risk traded in markets and more participants managing that risk through portfolio adjustments made in markets, the importance of market liquidity has increased and the potential knock-on effects from an erosion of liquidity have multiplied.
+We could face situations in which asset price movements are exacerbated by the actions of market participants, including dynamic hedging strategies or forced liquidations of assets to meet margin calls, and those asset price movements could feed back onto the economy.
+Moreover, the layers of intermediation between borrower and lender that increasingly characterize the financial system may have created new channels for the transmission of shocks within the financial markets and into the economy.
+We have seen some indications of this in the recent experience in the subprime mortgage market.
+Packagers of securities whose performance is tied to subprime mortgages have suffered unanticipated losses, and as some originators have gone out of business and secondary markets have been disrupted, institutions along the chain have found themselves with unexpected exposures from warehousing or financing the holding of loans before securitization.
+However, thus far the dramatic widening of spreads on the riskier tranches of subprime securitizations has not produced spillovers large enough to threaten stability.
+Finally, although risks are better dispersed, the credit-risk transfer markets are dependent on a small set of key intermediaries.
+In the extreme, price variations and other adverse developments could call into question the viability of these intermediaries, threatening a larger cumulative real effect.
+In short, systemic risk in the financial markets most likely has declined on balance, but it still exists, and central banks and other regulators need to adapt to the evolving nature of markets and the changing character of the systemic risk.
+Before discussing what we are doing and what we should be doing, I want to take a few minutes to call attention to some limits and constraints on our actions.
+We need to accept that accidents will happen--that asset prices will fluctuate, often over wide ranges, and those fluctuations will be driven in part by trading strategies, by the cycles of greed and fear that have always been with us, and by the ebb and flow of competition for market share.
+The fluctuations will result in redistributions of wealth and, on occasion, will confront us with financial crises.
+But we cannot and should not try to prevent this process through a monetary policy that puts special emphasis on stabilizing asset prices or through regulatory policies that limit access to markets by qualified participants or that attempt to restrain competition materially.
+Monetary policy that proactively leans against asset price movements runs a considerable risk of yielding macroeconomic results that fall short of maximum sustainable growth and price stability.
+Regulatory policies that try to prevent failures of core participants or others under all conceivable circumstances will tend to stifle innovation and reduce our economy's potential for long-run growth.
+Systemic events in market-based financial systems are perhaps more likely to involve price fluctuations and abrupt changes in market liquidity than are systemic events in depository-based financial systems.
+But that is not really bad news because such events can more readily be countered by macroeconomic policy instruments than could old-fashioned crises of depository intermediation.
+Supplying additional liquidity and reducing borrowing costs can greatly ameliorate the effects of market events on the economy, and those types of macroeconomic interventions will carry less potential for increasing moral hazard than would the discount window lending that was a prominent feature of crisis management when depositories funded more credit.
+Market-intermediated finance also requires us to live with less control and less knowledge than we had when banks were dominant.
+Greater uncertainty about where risks are lodged is the flip side of better dispersion of those risks, especially to less regulated sectors, and of more resilience of the whole system.
+Gathering additional information about the risk profiles of currently less regulated institutions is unlikely to yield insights that can be acted upon and may create a false sense of comfort among market participants, which could make the system substantially more risky.
+We need to have confidence in the invisible hand.
+But confidence does not mean blind faith, a thought that brings me to what we can productively do to reduce systemic risks within the boundaries that I just described.
+Although credit derivatives and other derivatives have facilitated the dispersion of risk, the mechanisms for carrying out this function are highly dependent on a small number of institutions that are critical to the functioning of the markets.
+These institutions are the principal dealers in the OTC derivatives markets and often also among the leading clearing firms for exchange-traded derivatives.
+They also originate securitized assets, and provide financing to other originators, and often provide financing to the buyers of those assets, including buyers of the riskiest tranches.
+If their ability to perform these functions were impaired when a shock hit the economy or the financial markets, the ability of the buyers and sellers to manage their positions, provide trading liquidity, and facilitate stabilizing financial flows would in turn be impaired.
+Consequently, our efforts to manage the potential for systemic risk focus on these core institutions, nearly all of which already are subject to prudential supervision.
+In light of the possibility of unusual asset price movements, which I discussed earlier, we need to encourage these institutions to practice robust enterprise-wide risk management.
+A critical aspect of such risk-management efforts is the use of stress tests across the various aspects of their businesses that allow them to ascertain and appropriately limit their market and counterparty exposures in a scenario in which credit spreads widen rapidly and asset market liquidity decreases markedly.
+Good risk management can limit potential losses under many circumstances, but these institutions will still be vulnerable to major unexpected events, and their viability will depend on their capital cushions.
+As a consequence, we also need to strengthen the connection of capital to risk by moving forward with the implementation of Basel II.
+We should also work toward ensuring that clearing and settlement arrangements on which core institutions and other participants depend are safe and efficient.
+Weaknesses in such systems can be a source of systemic contagion.
+Conversely, when such arrangements are robust, the potential for contagion is significantly diminished.
+The benefits of such supervisory initiatives can extend beyond the core regulated institutions themselves because improvements in their counterparty-risk-management practices will strengthen market discipline on their unregulated counterparties.
+Although the critical roles that these core institutions play in global markets require us to focus on them, we need to address the possibility that this approach could increase moral hazard by reinforcing perceptions that these institutions are too big to fail.
+This risk can be mitigated by the steps that I have mentioned earlier, including the promotion of enhanced risk-management practices and the implementation of capital requirements that are more risk sensitive, steps that greatly reduce the chances that government intervention will be needed.
+In all of this work, coordination and cooperation among regulators, domestically and internationally, are critical because the same firms are the core firms in each of the principal global financial centers.
+Effective oversight of these firms generally can be conducted only by the home country supervisor, which alone has the authority over a firm's consolidated global operations.
+When supervisory coordination and cooperation exist, much good work can be accomplished relatively quickly.
+An excellent example is the work that the Federal Reserve Bank of New York and other prudential supervisors have undertaken over the past year and a half to encourage and support market participants' progress in addressing what were serious weaknesses in the infrastructure of the credit derivatives markets.
+Those supervisors are now systematically reviewing the core firms' management of counterparty exposures to hedge funds and other highly leveraged counterparties.
+Both market participants and public authorities should understand that, despite our best efforts, crises are inevitable, and so we need to work on crisis management as well.
+Here, too, cooperation among authorities here and abroad is critical.
+We must understand the market structures and vulnerabilities and the objectives and constraints under which authorities with different jurisdictions would be working in those circumstances.
+Inevitably, uncertainty on the part of market participants and public authorities will be heightened in the event of market turmoil, and that uncertainty can feed on itself.
+Both authorities and participants need to think through how they will handle such crises.
+For the authorities, that process includes considering how to resolve any failures of large institutions in ways that impose costs on shareholders and uninsured liability holders while preserving orderly markets.
+Such a resolution will be necessary to limit the moral hazard of any interventions that we are forced to undertake.
+Market participants need to consider how they would settle contracts and work with troubled borrowers in a distress situation.
+More planning will reduce the rise in uncertainty in a crisis and the likelihood that fear will lead to precipitous actions that are in no one's best interest.
+In sum, there are good reasons to think that financial innovation over the past few decades, including the emergence and growth of the credit derivatives markets, has made the financial system and the economy more resilient.
+But it would be foolish to think that these innovations have eliminated systemic risk.

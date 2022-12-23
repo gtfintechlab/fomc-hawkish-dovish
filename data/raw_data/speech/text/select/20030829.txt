@@ -1,0 +1,55 @@
+As a consequence, the conduct of monetary policy in the United States at its core involves crucial elements of risk management, a process that requires an understanding of the many sources of risk and uncertainty that policymakers face and the quantifying of those risks when possible.
+It also entails devising, in light of those risks, a strategy for policy directed at maximizing the probabilities of achieving over time our goal of price stability and the maximum sustainable economic growth that we associate with it.
+Toward that objective, we have drawn on the work of analysts who over the past half century have devoted much effort to improving our understanding of the economy and its monetary transmission mechanism.
+A critical result has been the identification of a relatively small set of key relationships that, taken together, provide a useful approximation of our economy's dynamics.
+Such an approximation underlies the statistical models that we at the Federal Reserve employ to assess the likely influence of our policy decisions.
+Despite the extensive efforts to capture and quantify these key macroeconomic relationships, our knowledge about many of the important linkages is far from complete and in all likelihood will always remain so.
+Every model, no matter how detailed or how well designed conceptually and empirically, is a vastly simplified representation of the world that we experience with all its intricacies on a day-to-day basis.
+Consequently, even with large advances in computational capabilities and greater comprehension of economic linkages, our knowledge base is barely able to keep pace with the ever-increasing complexity of our global economy.
+Given this state of flux, it is apparent that a prominent shortcoming of our structural models is that, for ease in parameter estimation, not only are economic responses presumed fixed through time, but they are generally assumed to be linear.
+An assumption of linearity may be adequate for estimating average relationships, but few expect that an economy will respond linearly to every aberration.
+Although some nonlinearities are accounted for in our modeling exercises, we cannot be certain that our simulations provide reasonable approximations of the economy's behavior in times of large idiosyncratic shocks.
+Recent history has also reinforced the perception that the relationships underlying the economy's structure change over time in ways that are difficult to anticipate.
+This has been most apparent in the changing role of our standard measure of the money stock.
+Because an interest rate, by definition, is the exchange rate for money against non-monies, money obviously is central to monetary policy.
+However, in the past two decades, what constitutes money has been obscured by the introduction of technologies that have facilitated the proliferation of financial products and have altered the empirical relationship between economic activity and what we define as money, and in doing so has inhibited the keying of monetary policy to the control of the measured money stock.1 Another example of ongoing structural change relates to innovations in mortgage finance.
+This includes the elimination of Regulation Q, the emergence of variable rate loans, the growth of the mortgage-backed securities market, and improvements in the efficiency of the credit application process.
+These developments appear to have buffered activity in the housing market to some extent from shifts in monetary policy.
+But some of the same innovations in housing finance have opened new avenues of policy influence on economic behavior.
+For example, households have been able with increasing ease to extract equity from their homes, and this doubtless has helped support consumer spending in recent years, complementing the traditional effects of monetary policy.
+* * * What then are the implications of this largely irreducible uncertainty for the conduct of monetary policy?
+A well-known proposition is that, under a very restrictive set of assumptions, uncertainty has no bearing on the actions that policymakers might choose, and so they should proceed as if they know the precise structure of the economy.2 These assumptions--linearity in the structure of the economy, perfect knowledge of the interest-sensitivity of aggregate spending and other so-called slope parameters, and a very specific attitude of policymakers toward risk--are never met in the real world.
+Indeed, given our inevitably incomplete knowledge about key structural aspects of our ever-changing economy and the sometimes asymmetric costs or benefits of particular outcomes, a central bank seeking to maximize its probability of achieving its goals is driven, I believe, to a risk-management approach to policy.
+By this I mean that policymakers need to consider not only the most likely future path for the economy but also the distribution of possible outcomes about that path.
+They then need to reach a judgment about the probabilities, costs, and benefits of the various possible outcomes under alternative choices for policy.
+A policy action that is calculated to be optimal based on a simulation of one particular model may not, in fact, be optimal once the full extent of uncertainty in the policymaking environment is taken into account.
+In general, it is entirely possible that different policies will exhibit different degrees of robustness with respect to the true underlying structure of the economy.
+For example, policy A might be judged as best advancing the policymakers' objectives, conditional on a particular model of the economy, but might also be seen as having relatively severe adverse consequences if the true structure of the economy turns out to be other than the one assumed.
+On the other hand, policy B might be somewhat less effective in advancing the policy objectives under the assumed baseline model but might be relatively benign in the event that the structure of the economy turns out to differ from the baseline.
+These considerations have inclined Federal Reserve policymakers toward policies that limit the risk of deflation even though the baseline forecasts from most conventional models would not project such an event.
+* * * At times, policy practitioners operating under a risk-management paradigm may be led to undertake actions intended to provide some insurance against the emergence of especially adverse outcomes.
+For example, following the Russian debt default in the fall of 1998, the Federal Open Market Committee (FOMC) eased policy despite our perception that the economy was expanding at a satisfactory pace and that, even without a policy initiative, was likely to continue to do so.3 We eased policy because we were concerned about the low-probability risk that the default might severely disrupt domestic and international financial markets, with outsized adverse feedback to the performance of the U.S. economy.
+The product of a low-probability event and a severe outcome, should it occur, was judged a larger threat than the possible adverse consequences of insurance that might prove unnecessary.
+The cost--or premium--of the financial-contagion insurance was the associated increase in the risk of higher inflation at some future date.
+This cost was viewed as relatively low at the time, largely because increased competition, driven by globalization, thwarted employers' ability to pass through higher labor costs into prices.
+Given the Russian default, the benefits of the unusual policy action were deemed to outweigh its costs.
+Such a cost-benefit analysis is an ongoing part of monetary policy decisionmaking, and tips more toward monetary ease when the fallout from a contractionary event such as the Russian default seems increasingly likely and its occurrence seems especially costly.
+Conversely, in 1979, with inflation threatening to get out of control, the cost to the economy of a major withdrawal of liquidity was judged far less than the potential long-term consequences of leaving accelerating prices unaddressed.
+* * * In implementing a risk-management approach to policy, we must confront the fact that only a limited number of risks can be quantified with any confidence.
+And even these risks are generally quantifiable only if we accept the assumption that the future will replicate the past.
+Other risks are essentially unquantifiable--representing Knightian uncertainty, if you will--because we may not fully appreciate even the full range of possibilities, let alone each possibility's likelihood.
+As a result, risk management often involves significant judgment on the part of policymakers, as we evaluate the risks of different events and the probability that our actions will alter those risks.
+For such judgment, we policymakers, rather than relying solely on the specific linkages expressed in our formal models, have tended to draw from broader, though less mathematically precise, hypotheses of how the world works.
+For example, inference of how market participants might respond to a monetary policy initiative may need to reference past behavior during a period only roughly comparable to the current situation.
+Some critics have argued that such an approach to policy is too undisciplined--judgmental, seemingly discretionary, and difficult to explain.
+The Federal Reserve should, some conclude, attempt to be more formal in its operations by tying its actions solely to the prescriptions of a formal policy rule.
+That any approach along these lines would lead to an improvement in economic performance, however, is highly doubtful.
+Our problem is not the complexity of our models but the far greater complexity of a world economy whose underlying linkages appear to be in a continual state of flux.
+Rules by their nature are simple, and when significant and shifting uncertainties exist in the economic environment, they cannot substitute for risk-management paradigms, which are far better suited to policymaking.
+Were we to introduce an interest rate rule, how would we judge the meaning of a rule that posits a rate far above or below the current rate?
+Should policymakers adjust the current rate to that suggested by the rule?
+Should we conclude that this deviation is normal variance and disregard the signal?
+Or should we assume that the parameters of the rule are misspecified and adjust them to fit the current rate?
+Given errors in our underlying data, coupled with normal variance, we might not know the correct course of action for a considerable time.
+Partly for these reasons, the prescriptions of formal interest rate rules are best viewed only as helpful adjuncts to policy, as indeed many proponents of policy rules have suggested.
+* * * In summary then, monetary policy based on risk management appears to be the most useful regime by which to conduct policy.

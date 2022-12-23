@@ -1,0 +1,114 @@
+I would like to thank Vice Chairman Rodney Hood and the National Credit Union Administration for the invitation to speak at the 2007 Risk Mitigation Summit.
+Given the continuing challenges in risk management facing banks and credit unions, this event is certainly topical.
+Having once been a chief risk officer at a commercial bank, I find it particularly interesting to address this group in my current role as supervisor and central banker.
+I hope my past private-sector experience adds a useful perspective on our current regulatory and supervisory policies.
+Today I would like to focus on the topic of enterprise risk management.
+I am pleased to see more and more sessions at conferences devoted to risk management, analyzing its different facets and exploring ways to tailor it to specific institutions and situations.
+Indeed, there is a growing understanding that sound risk management should be an integral part of running any type of business.
+A key theme I would like to highlight today is that all financial institutions should seek ways to strengthen risk management, but that the specific methods for improving risk management should depend on the size and level of complexity of the institution.
+In my remarks today I will offer some general remarks about enterprise risk management, or ERM, and then look at mortgage lending as a particular example.
+Of course, mortgage lending is but one area in which ERM has application--other current examples include information security, credit derivatives, and overall portfolio management.
+Based on some recent observations, mortgage lending certainly is an area in which we believe financial institutions and supervisors have learned some key lessons about risk management.
+These lessons demonstrate how sound risk management can also increase business efficiency and profitability.
+General Thoughts on Enterprise Risk ManagementThe financial services industry continues to evolve to meet the challenges posed by emerging technologies and business processes, new financial instruments, the growing scale and scope of financial institutions, and changing regulatory frameworks.
+A successful enterprise risk-management process can help an organization meet many of these challenges by providing a framework within which managers can explicitly consider how the organization's risk exposures are changing, determine the amount of risk they are willing to accept, and ensure that they have the appropriate risk mitigants and controls in place to limit risk to targeted levels.
+Of course, ERM is a fairly broad topic, one that can mean different things to different people.
+For our purposes here today, I will define ERM as a process that enables management to deal effectively with uncertainty and the associated risk and opportunity, enhancing the capacity to build stakeholder value.
+Borrowing from ERM literature, I would say that ERM includes: aligning the entity's risk appetite and strategies; enhancing the rigor of the entity's risk-response decisions; reducing the frequency and severity of operational surprises and losses; identifying and managing multiple and cross-enterprise risks; proactively seizing on the opportunities presented to the entity; and improving the effectiveness of the entity's capital deployment.
+Some of you are probably familiar with the ERM framework published more than two years ago by the Committee of Sponsoring Organizations of the Treadway Commission, or COSO.
+The COSO framework provides a useful way of looking at ERM and helps generate further discussion.
+In the COSO framework, ERM consists of eight interrelated components, which are derived from the way management runs an enterprise and integrated with the management process: (1) internal environment, (2) objective setting, (3) event identification, (4) risk assessment, (5) risk response, (6) control activities, (7) information and communication, and (8) monitoring.
+Each of these components is described in more detail in the COSO literature.
+Notably, the COSO framework states explicitly that although its components do not function identically across entities, its principles should apply to institutions of all sizes.
+Small and midsize entities, for example, may choose to apply the framework in a less formal and less structured way and scale it to their own needs--as long as quality is maintained.
+This explicitness about the universal applicability of principles underscores the message from financial institution supervisors that sound risk management is expected of every institution, and that it should reflect an institution's size and level of complexity.
+As most of you know, running a smaller or less complex institution presents different types of challenges and requires a risk-management framework appropriately tailored to the institution.
+For example, many smaller organizations face the challenge of ensuring independent review of processes and decisions because their officers and staff members often have multiple responsibilities, which can result in conflicts of interest.
+For smaller organizations, ERM can provide a framework to strategically assess how risks are changing.
+That is, risk should be considered as part of the annual budgeting and strategic planning processes.
+Very often most of the planning process focuses on "the most likely" outcome.
+Using a risk-management framework that considers other, less likely outcomes leads management and the board of directors to consider how the types of risks and the amount of risk are expected to change to implement the plan.
+While smaller organizations will not find it practical to try to quantify many of these changes, the direction of change in and of itself is very important in the planning process.
+For example, while a new product or sales initiative may be expected to increase profitability, if the level of risk is expected to rise significantly, management and the board should discuss whether the returns are sufficient to compensate for the higher risk exposures.
+If the risk assessment indicates that returns are not expected to compensate for the higher risk exposures, an institution may want to consider risk mitigation.
+This entails an understanding of the key risk drivers and a determination of what could be done to minimize their impact.
+For example, a new loan product may increase interest rate risk if the asset/liability rate sensitivity increases.
+An institution could consider restructuring the duration of its investment portfolio, selling loans to other investors, or initiating a campaign to attract deposits with a repricing structure closer to the loan product--all of which could reduce the interest rate risk.
+Institutions are also finding that technology and business process changes are a growing source of risk exposures--what we call operational risk.
+Operational risk data, which support the Basel II capital initiative, show that the second most prominent cause of losses are due to breakdowns in execution, delivery, and process management.
+Organizations who wish to mitigate these types of risk often use design review, quality management, or change control processes to identify potential sources of risk early in the design and implementation process.
+Quality control is generally less expensive to design into a new process than correcting an error or rebuilding the system after a problem has occurred.
+While the old saying of total quality control management that "quality is free" may not literally be true in all cases, most organizations have learned that designing quality into the process not only reduces development and operating costs, it also improves service quality and customer satisfaction.
+The examples I have just given reflect interest rate and operational risks.
+An enterprise-wide risk-management approach can help management consider these various types of risk jointly.
+That is, an organization should be aware of whether the drivers of various risk types tend to make those risks move up and down together, or whether they move independently.
+If the risks are correlated, then, in the aggregate, risks could rise above the risk appetite of management and the board, and they may have to consider changes in the business plan.
+For example, a decline in interest rates may increase interest-rate risk if it causes fixed-rate loans to be prepaid unexpectedly.
+Additionally, the interest rate drop may stimulate a surge in new loan originations and that could cause lending staff to make errors as it copes with the increased workload.
+On the other hand, breakdowns in loan underwriting standards due to the retirement of an experienced loan manager who is replaced by an unproven lender can occur throughout the interest rate cycle.
+I have purposely chosen to describe ERM activities that are part of other processes.
+I think this is the practical way for smaller organizations to implement ERM.
+Small organizations cannot afford to have dedicated staff and quantitative models of all forms of risk.
+By adding steps to existing management practices, management can lower implementation costs, but more importantly can increase attention on risk management by staff throughout the organization.
+That is, whether someone is designing a new branch office, shipping tapes to a backup site for storage, developing the layout for a newspaper ad, or training new employees, they will consciously think about risk as one of the elements of that business activity.
+Increased risk awareness by staff throughout the enterprise is integral to managing risk successfully.
+Having made some general points, I would now like to turn to the topic of mortgage lending to highlight the importance of ERM.
+While details of these recent observations pertain to mortgage lending, they can also be applied to risk management in general.
+Risk Management in Mortgage LendingEffectively managing the risk associated with mortgage lending involves much more than prudent underwriting.
+Experienced risk managers understand the need to carefully consider the risks should the housing market slow, interest rates change, or unemployment rise.
+These include the risks that borrowers will not have sufficient income in the future to manage substantial payment increases and that continued home price appreciation may not provide a sufficient equity cushion to minimize losses in foreclosure.
+In addition, an accumulation of portfolio concentrations could leave an institution exposed in a downturn.
+Lenders specializing in subprime loans, for example, have endured a string of bad news recently, including increasing loan delinquency and foreclosure rates and the shutdown of some lenders that could not operate profitably in a slower origination environment.
+In a broader sense, mortgage lending can present many types of risk for the enterprise as a whole, including credit, market, reputational, legal, and compliance risks.
+Therefore, while mortgage lending has been a very profitable business for many financial institutions recently, they need to understand the full set of risks associated with their mortgage lending business, including the consequences of adverse outcomes.
+For this reason, mortgage lending should be folded into the broader ERM process at any organization.
+Nontraditional Mortgage ProductsLast September, the federal banking agencies, including the NCUA, issued guidance on the risks associated with nontraditional mortgage lending.
+Supervisors are concerned that current risk-management practices may not fully address the entire set of risks inherent in nontraditional mortgages--risks that could be heightened by current market conditions.
+Nontraditional mortgage loans are those that allow borrowers to defer repayment of principal and, in some cases, interest.
+Over the past few years, there has been a large increase in nontraditional mortgage products, including interest-only (IO) loans, for which the borrower pays no loan principal for the first few years of the loan, and payment-option adjustable-rate mortgages (option ARMs), for which the borrower has flexible payment options--and which could result in negative amortization.
+These types of mortgages are estimated to have accounted for about one-third of all U.S. mortgage originations in 2006, compared with less than one-tenth just a few years earlier.
+Nontraditional mortgage products have been available for many years; however, they have historically been offered to higher-income borrowers.
+More recently, nontraditional mortgages have been offered to a wider spectrum of consumers, including consumers who may be less able to afford the jump in monthly payments common in these types of mortgages and may not fully recognize their embedded risks.
+Subprime borrowers are more likely to experience an unmanageable payment shock during the life of the loan, meaning that they may be more likely to default on the loan.
+Supervisors have also observed that lenders are increasingly combining nontraditional mortgage loans with "risk layering" practices--such as by not evaluating the borrower's ability to meet increasing monthly payments when amortization begins or when interest rates on adjustable rate mortgages rise due to indexing or at the end of a "teaser" rate period.
+We are also seeing more frequent use of limited or no documentation in evaluating an applicant's income and assets.
+Although some lenders may have used elements of nontraditional mortgage products successfully in the past, the recent easing of traditional underwriting controls and the sale of some types of nontraditional products to subprime borrowers may generate losses on these products greater than has been observed in the past.
+Additionally, information from other sources seems to indicate that more borrowers are purchasing real estate with no equity down payment by using simultaneous second liens.
+The greater prevalence of risk-layering practices and sales of nontraditional mortgage products to nonprime borrowers have occurred in the past few years as competition for borrowers and declining profit margins has prompted lenders to loosen their credit standards to maintain loan volume in a slowing environment.
+The industry trends I have just described, taken together, were what led the Federal Reserve, NCUA, and the other banking agencies to issue guidance on nontraditional mortgage products last September.
+The guidance emphasizes that an institution's risk-management processes should allow it to adequately identify, measure, monitor, and control the full set of risks associated with these products.
+It reminds lenders of the importance of assessing a borrower's ability to repay the loan, both now and when amortization begins and interest rates rise.
+Nontraditional mortgage products warrant a bank having strong risk-management standards as well as adequate capital and loan-loss reserves.
+Further, bankers should consider the impact of prepayment penalties for ARMs.
+Lenders should provide enough information so that borrowers clearly understand, before choosing a product or payment option, the terms of and risks associated with these loans, particularly the extent to which monthly payments may rise and negative amortization may increase the amount owed above the amount originally borrowed.
+Subprime Mortgage LendingThe agencies' guidance on nontraditional mortgage products did not specifically address mortgage lending to subprime borrowers--although, as noted, nontraditional mortgage products are sometimes offered to subprime borrowers.
+Both lenders and supervisors are aware of the benefits of subprime lending to homeowners, and both have an interest in ensuring that the market remains viable over the longer term.
+To ensure that viability, it is important to maintain sound underwriting standards and product terms as well as sufficient consumer protection practices.
+Therefore, subprime mortgage lending continues to be an area that supervisors monitor closely.
+While overall mortgage delinquency rates remain low by historical standards, they have been increasing in recent months, especially in the subprime sector.
+Performance deterioration is most notable in the more recent vintages.
+Many industry observers believe the poor performance of more recently originated subprime loans is due primarily to looser underwriting standards, including limited or no verification of borrower income and high loan-to-value transactions.
+Subprime lending has certainly created homeownership opportunities for borrowers with weaker or less certain credit histories.
+But because of the increased risk profile, lenders need to be especially diligent in maintaining prudent underwriting standards and in promoting manageable loan terms and sufficient consumer disclosure practices.
+Further, as part of an ERM process, as lenders design more complex products they need to identify ways to clearly communicate the product features and risks to their customers.
+Subprime mortgages typically carry higher interest rates than prime loans.
+It is not uncommon to find margins of 600 basis points or more on adjustable rate subprime loans after the expiration of a teaser rate.
+Not surprisingly, some borrowers are unable to keep up with their mortgage payments once these payments fully adjust.
+In some cases, if alternative financing cannot be found, borrowers may be forced to sell their home or enter foreclosure.
+And given prepayment penalties, home price appreciation slowing significantly and capital market investors becoming more conservative, some borrowers may be having more difficultly in refinancing to avoid foreclosure.
+Supervisors are discussing what can be done to ensure that these types of loans are being originated in a safe and sound manner and that consumers are being provided with clear and balanced information so that they can fully understand the terms and risks of these products.
+Subprime loan underwriting, when done prudently, should reflect all relevant credit factors, including the borrower's ability to service the debt.
+In the current environment, risk managers should review policies governing the use of loans with limited or no documentation and simultaneous-second mortgages.
+Lenders that do not account for tax and insurance burdens in assessing borrower qualifications should understand the associated risks.
+It may even be prudent to escrow tax and insurance payments to ensure that the collateral is adequately protected from physical casualty losses as well as tax liens, or the lender should inform borrowers what should be set aside to meet the periodic insurance and tax payments on their homes if these payments are not already included in their total monthly mortgage payment.
+ConclusionAll financial institutions need sound risk-management practices.
+An enterprise-wide approach is appropriate for setting objectives across the organization, instilling a culture attuned to risk, and ensuring that key activities and risks are being monitored regularly.
+Clearly, there is always an opportunity to improve upon enterprise risk-management strategies and strengthening the discipline to implement those strategies effectively.
+But vigilance is critical, too, since problems can sometimes quickly arise in a business line or unit that has presented no past difficulties.
+Accordingly, it is always helpful to evaluate the "what if" scenarios even for the most pristine of business units.
+But the manner in which risk-management challenges are addressed can--and should--vary across institutions, based on their size, complexity, and individual risk profile.
+In many cases, it simply does not make sense for small organizations to adopt the most sophisticated risk-management practices; however, that does not absolve such smaller institutions of their responsibility to improve risk management.
+Additionally, as supervisors, we want to ensure that institutions are not only identifying, measuring, and managing their risks but are also developing and maintaining appropriate corporate governance structures appropriate for their business activities and risk taking.
+Our hope is that the guidance we offer on these various topics is becoming more consistent with financial institutions' own risk-management practices.
+Today I have used the example of mortgage lending to stress the importance of ERM, but there are obviously many other areas to which ERM applies.
+We believe that the recently issued guidance on nontraditional mortgage products contains helpful reminders and recommendations for institutions using those products, ensuring that they recognize the full set of risks involved.

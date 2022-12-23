@@ -1,0 +1,43 @@
+As in previous years, the Reserve Bank has developed a conference program that is quite timely.
+Changes in technology have permitted the development in recent years of increasingly diverse financial instruments and intensely competitive market structures.
+The rapid evolution of products and markets has led many to conclude that market regulatory structures, many of which were established in the 1920s and 1930s, have become increasingly outdated.
+Some see new products and markets not covered by government regulation and fear the consequences of so-called "regulatory gaps."
+Others see old government regulations applied to new instruments and markets and fear the unintended consequences of what seems unnecessary and burdensome regulation.
+Nowhere have these tensions been more evident than in the ongoing debate over the appropriate government regulation of derivative contracts, a debate which has varied in intensity but has never fully subsided for at least ten years.
+Recent efforts by members of the Senate Agriculture Committee to clarify and rationalize the regulation of derivative contracts under the Commodity Exchange Act have once again placed these contentious issues on the front burner.
+In my remarks today I shall proffer a set of considerations that I find quite valuable as a guide to decisions about the need for government regulation of financial markets.
+I shall then review the history of government regulation of derivative contracts and markets in the United States and consider the current regulatory structure for those products and markets in light of these considerations.
+Market Regulation I would argue that the first imperative when evaluating market regulation is to enunciate clearly the public policy objectives that government regulation would be intended to promote.
+What market characteristics do policymakers seek to encourage?
+Efficiency?
+Fair and open access?
+What phenomena do we wish to discourage or eliminate?
+Fraud, manipulation, or other unfair practices?
+Systemic instability?
+Without explicit answers to these questions, government regulation is unlikely to be effective.
+More likely, it will prove unnecessary, burdensome, and perhaps even contrary to what more careful consideration would reveal to be the underlying objectives.
+A second imperative, once public policy objectives are clearly specified, is to evaluate whether government regulation is necessary for those purposes.
+In making such evaluations, it is critically important to recognize that no market is ever truly unregulated.
+The self-interest of market participants generates private market regulation.
+Thus, the real question is not whether a market should be regulated.
+Rather, the real question is whether government intervention strengthens or weakens private regulation.
+If incentives for private market regulation are weak or if market participants lack the capabilities to pursue their interests effectively, then the introduction of government regulation may improve regulation.
+But if private market regulation is effective, then government regulation is at best unnecessary.
+At worst, the introduction of government regulation may actually weaken the effectiveness of regulation if government regulation is itself ineffective or undermines incentives for private market regulation.
+We must be aware that government regulation unavoidably involves some element of moral hazard--if private market participants believe that government is protecting their interests, their own efforts to protect their interests will diminish to some degree.
+Whether government regulation is needed, and if so, what form of government regulation is optimal, depends critically on a market's characteristics.
+A "one-size-fits-all" approach to financial market regulation is almost never appropriate.
+The degree and type of government regulation needed, if any, depends on the types of instruments traded, the types of market participants, and the nature of the relationships among market participants.
+To cite just one example, a government regulatory framework designed to protect retail investors from fraud or insolvency of brokers is unlikely to be necessary--and is almost sure to be suboptimal--if applied to a market in which large institutions transact on a principal-to-principal basis.
+Recognizing that a one-size-fits-all approach is seldom appropriate, it may be useful to offer transactors a choice between seeking the benefits and accepting the burdens of government regulation, or forgoing those benefits and avoiding those burdens by transacting in financial markets that are only privately regulated.
+In such circumstances, the privately regulated markets in effect provide a market test of the net benefits of government regulation.
+Migration of activity from government-regulated to privately regulated markets sends a signal to government regulators that many transactors believe the costs of regulation exceed the benefits.
+When such migration occurs, government regulators should consider carefully whether less regulation or different regulation would provide a better cost-benefit tradeoff without compromising public policy objectives.
+Historical Development of U.S. Government Regulation of Derivative Markets Before evaluating the current regulation of derivatives in light of these considerations, it is quite useful to know something of the history of these instruments and their regulation.
+Derivative contracts (forward contracts and options) appear to have been utilized throughout American history.
+Indeed, it will probably come as a surprise even to this audience that 15 to 25 percent of trades on the New York Stock Exchange in its early years were time bargains, that is, forward contracts, rather than transactions for cash settlement (in those days, same-day settlement) or regular-way settlement (next-day settlement).
+In the case of commodities, forward contracts for corn, wheat, and other grains came into common use by 1850 in Chicago, where they were known as "to arrive" contracts.
+The first organized futures exchange in the United States, the Chicago Board of Trade, evolved through the progressive standardization of the terms of "to arrive" contracts, including lot sizes, grades of grain, and delivery periods.
+Trading apparently was centralized on the Board of Trade by 1859, and in 1865 it set out detailed rules for the trading of highly standardized contracts quite similar to the grain futures contracts traded today.
+The first recorded instance of federal government regulation of derivatives was the Anti-Gold Futures Act of 1864, which prohibited the trading of gold futures.
+The government had been unhappy that its fiat currency issues, the infamous greenbacks, were at that time trading at a substantial discount to gold.

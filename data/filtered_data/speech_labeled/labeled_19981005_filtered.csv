@@ -1,0 +1,101 @@
+Unnamed: 0,sentence,label,score
+0,"I focus on the change in the consensus forecast because, in my judgment, it is the revision in the outlook for 1999 in response to recent developments in the global economy and domestic financial markets that justified the recent easing of monetary policy.",LABEL_0,0.9983875751495361
+1,Then I will conclude with a discussion of the implications of the outlook for monetary policy.,LABEL_2,0.999829888343811
+2,"The key here is to explain the rapid change in the posture of monetary policy--from a stance of asymmetric toward tightening just a few months ago, to symmetric, and then to an easing.",LABEL_0,0.6749905943870544
+3,Let me emphasize that the views on the economic outlook and monetary policy I present this morning are my own.,LABEL_2,0.9995991587638855
+4,"The bottom line is that you forecast a benign slowdown that unwinds some of the tightness in labor markets, while sustaining growth and maintaining modest inflation.",LABEL_2,0.9860370755195618
+5,Your forecast also presumes a flexible monetary policy that responds to changing conditions and effectively promotes such an outcome.,LABEL_2,0.9992278814315796
+6,"Judging from the path of the Treasury bill rate, the Blue Chip forecast assumed no change in monetary policy through 1999.",LABEL_2,0.9996694326400757
+7,"So, the NABE forecast was slightly weaker, but just offset by its assumption of a policy easing, leaving the forecasts for growth over 1999 identical in both cases.",LABEL_2,0.9500864744186401
+8,"More likely, it reflects the fact that during this period, there have also been continuing upside surprises with respect to domestic demand.",LABEL_1,0.8714146018028259
+9,"As a result, the upward revisions to the forecast for domestic demand may have just offset downward revisions to the forecast for net exports.",LABEL_2,0.9974222183227539
+10,"More recently, it also appears to reflect your confidence in monetary policy, a theme that I will return to later.",LABEL_2,0.9998403787612915
+11,A soft landing is achieved if growth slows to trend just as the economy converges to potential output.,LABEL_2,0.979136049747467
+12,"In this case, growth has to slow to a below-trend rate until actual output again converges to potential, at which point growth returns to and remains at trend.",LABEL_2,0.9985238909721375
+13,"The characterization of the forecast as a reverse soft landing hinges on the interpretation that the unemployment rate is initially below NAIRU and that growth slows below trend going forward, allowing the transition back toward NAIRU.",LABEL_0,0.6910566091537476
+14,"While this is consistent with your estimates of NAIRU and trend growth, I was, nevertheless, surprised that your estimate of NAURU was as low as it was, 4.9%, and that your estimate of trend growth, 2.7%, was as high as it was.",LABEL_2,0.9990231990814209
+15,The qualitative features of the reverse soft landing scenario in your forecast are slowing growth and rising inflation.,LABEL_1,0.9938371777534485
+16,"There is a hint of stagflation in your forecast--below-trend growth and rising unemployment, on the one hand, and rising inflation on the other.",LABEL_1,0.9933648109436035
+17,"It reflects, I expect, on the inflation side, both the contribution of demand pressures in the labor market, as a consequence of the initial conditions, and dissipation or even reversal of the favorable supply shocks that have been restraining inflation.",LABEL_1,0.9844745397567749
+18,"A version that had slower growth and a sharper rise in the unemployment rate, but still well short of a recession, could be consistent, for example, with stable inflation, even beginning from initial conditions of very tight labor markets.",LABEL_0,0.9818395972251892
+19,I focus here on the contributions from net exports and private domestic demand.,LABEL_2,0.9930134415626526
+20,An external shock lowers net exports and slows GDP growth; the resulting slowdown in GDP growth then weakens domestic demand.,LABEL_2,0.9998049139976501
+21,"Even though the decline in net exports was much sharper than virtually anyone expected, subtracting more than 2 percentage points from growth, the economy's average growth did not differ much from the pace over the previous year.",LABEL_0,0.9346354007720947
+22,"The growth in the first half was, to be sure, unbalanced between the first and second quarters, but that was entirely due to the rise in inventory investment in the first quarter and its decline in the second.",LABEL_0,0.9940932393074036
+23,The strength of domestic demand and the subtraction via net exports were very similar in both quarters.,LABEL_2,0.5121808648109436
+24,The explanation for the stability of GDP growth was the surprising surge of private domestic demand that offset the sharper-than-expected decline in net exports.,LABEL_2,0.9986801743507385
+25,"Private domestic demand soared to an 8% annual rate in the first half, from the robust 4 ½% rate over the previous two years.",LABEL_2,0.9971634745597839
+26,This raises two questions: Why did private demand soar in the first half and why will the economy slow going forward?,LABEL_1,0.5100626349449158
+27,"To be sure, recent developments have reinforced the negative outlook for the external sector and net exports will be subtracting from GDP growth going forward.",LABEL_1,0.9759712815284729
+28,"But in the consensus forecast, net exports subtract less than half as much from GDP growth in the second half as in the first half and still less in 1999.",LABEL_2,0.9739149212837219
+29,"Hence, the slowdown scenario now depends critically on a slowing in domestic demand.",LABEL_0,0.9978039860725403
+30,"So while all eyes are focused on global turmoil and the spillover to U.S. net exports, I believe that you are correct to focus the case for slowdown ahead on diminished strength in private domestic demand.",LABEL_2,0.9996009469032288
+31,"There are three key developments that, in my view, justify a downward revision for the forecast for growth in 1999.",LABEL_0,0.9471217393875122
+32,"First, the further pressure on emerging market economies, especially Latin America, following the Russian default and devaluation merits a downward revision in the forecast for foreign growth and hence in U.S. net exports.",LABEL_0,0.9975395202636719
+33,"Second, the correction in equity prices points to a downward revision to consumer spending and to business fixed investment and residential construction as well.",LABEL_0,0.9986032843589783
+34,Phase one resulted in a powerful adverse shock to U.S. aggregate demand as a result of the decline in net exports induced by the combination of recessions and sharp depreciations in the region.,LABEL_0,0.9988803267478943
+35,"But the same global turmoil that undermined net exports also brought a shift in portfolio preferences toward dollar-denominated assets, resulting in lower interest rates and perhaps adding to the resilience of U.S. equity markets.",LABEL_0,0.9978812336921692
+36,"In addition, an important part of the decline in oil prices could be directly attributable to the regional turmoil, taking into account both the declines in income and the dramatic increase in the relative price of oil, priced in dollars, to this region.",LABEL_0,0.9991337656974792
+37,"The latter two developments buoyed U.S. private domestic demand, contributing at least in part to its strengthening during the first half and partially offsetting the restraint via net exports.",LABEL_0,0.9983177185058594
+38,"There has been a sharp correction of equity prices, in the United States and around the world, and rising risk spreads offset and, for the riskier borrowers, more than offset the effect of further declines in government bond rates.",LABEL_0,0.998454213142395
+39,So phase two has added to the projected decline in net exports ahead and broadened the impact of global turmoil on domestic demand by undermining the favorable set of financial conditions that had been so important in promoting strong growth over the last couple of years.,LABEL_2,0.784568190574646
+40,"Phase one failed to slow GDP growth, in part, because of offsets via lower interest rates and a lower price of oil.",LABEL_1,0.9855687022209167
+41,"They do not, I believe, fully explain the surge in domestic demand in the first half.",LABEL_0,0.9979497790336609
+42,Part of this surge may have reflected the lagged effects of the long period of rising equity prices and declining long-term rates.,LABEL_0,0.9098933339118958
+43,But part may simply have been an unexplained and fortuitous positive demand surprise.,LABEL_2,0.5540569424629211
+44,"In this case, the slowdown going forward will be reinforced to the extent these positive demand shocks dissipate.",LABEL_0,0.9976420998573303
+45,"Growth is going to slow, in part, because it was unexplainably high in the first half.",LABEL_2,0.9908128380775452
+46,It reminds me of the explanation of our forecast at LHM&A for a sharp decline in long-term interest rates in 1993.,LABEL_0,0.9942529797554016
+47,"The slowdown in 1999 will be the cumulative effect of this spontaneous slowing as the high-flying economy succumbs to the force of gravity and the induced slowing of the economy in response to weaker foreign growth, the recent decline in equity values, and the widening of risk spreads and generally reduced appetite for risk.",LABEL_2,0.6143348813056946
+48,A source of such discontinuity arises from possible devaluations in countries on a fixed or pegged exchange rate.,LABEL_2,0.5219935774803162
+49,"Whereas under floating rates, a gradual depreciation could take some pressure off an economy subject to an adverse shock, a forced devaluation in a country that can no longer defend its peg often reinforces rather than cushions the downward momentum in the economy in response to an adverse shock and can, therefore, be instrumental in abruptly moving an economy from slow growth to sharp recession.",LABEL_0,0.9895787835121155
+50,"They can be aggressive with the central tendency forecast and project a substantial slowing in growth, leaving us with about equal probabilities that growth will be faster or slower than the central tendency.",LABEL_2,0.9995914101600647
+51,"Both the central tendency and the perception of the probability distribution around that central tendency are important features of the ""outlook"" and are relevant to the setting of monetary policy.",LABEL_0,0.9511690139770508
+52,"Interestingly, as I have noted before, this is not a period over which there has been a slowdown in GDP growth.",LABEL_0,0.9768908619880676
+53,The margin squeeze reflects the effect of tight labor markets on wages and the deceleration in product prices over the last several quarters.,LABEL_2,0.9998263716697693
+54,One of the most dramatic developments over the last year has been a halving in the inflation rate for broad indices of domestically produced goods.,LABEL_0,0.6778725385665894
+55,"For example, the chain price measure for GDP has slowed from 2% over the four quarters ended in the second quarter of 1997 to just 1% over the four quarters ended in the second quarter of 1998.",LABEL_1,0.982029139995575
+56,A couple of tenths of this slowdown can be attributed to developments in food and especially energy prices.,LABEL_0,0.7718906402587891
+57,"A key factor, I believe, was the increasingly rapid decline in import prices.",LABEL_2,0.9929185509681702
+58,"Nevertheless, I believe that the effect of declining import prices might have been as large or even larger on the GDP price measure than on the CPI or PCE price indices that directly include imports.",LABEL_2,0.9142090082168579
+59,One of the most important sources of restraint on inflation in this episode has been the effect of declining import prices on the pricing leverage of domestic producers of competing goods.,LABEL_1,0.9133467674255371
+60,"Given the tightness of labor markets, it has been widely expected that profit margins would narrow as the mark-up of prices over unit labor costs declined.",LABEL_2,0.9702020883560181
+61,This was expected to result from a gradual acceleration of wages relative to prices and to be a precursor of higher price inflation.,LABEL_0,0.9589757919311523
+62,"The mark-up has indeed declined, but more from a deceleration of prices relative to wages.",LABEL_1,0.9862343072891235
+63,"Instead of pointing toward higher inflation, the decline in the mark-up is in fact further evidence of forces restraining inflation.",LABEL_1,0.9899986386299133
+64,"Going forward, slower growth is likely to bring a cyclical slowing in productivity, reinforcing the effect of narrower margins on profits.",LABEL_1,0.7605958580970764
+65,The Challenge Facing Monetary Policy Now I turn to the implications of the outlook for monetary policy.,LABEL_0,0.5811649560928345
+66,Two-sided risks The first challenge facing monetary policy is the degree of two-sided risk the economy faces.,LABEL_0,0.9964442849159241
+67,"The upside risk, the threat of higher inflation, arises from the initial conditions and from the history of growth exceeding expectations over the past two years.",LABEL_2,0.9997796416282654
+68,"This set of initial conditions is clearly not one that supports, much less compels an easing in monetary policy.",LABEL_2,0.9997066855430603
+69,"The downside risk became noteworthy following the crises among Asian developing economies and Japan slipping from stagnation into recession and, more recently was exacerbated by the further contagion among emerging market economies, and the decline in equity prices and increased risk spreads here at home.",LABEL_1,0.9994646906852722
+70,"By late September, this balance had shifted enough, in my view, to justify an easing of monetary policy.",LABEL_1,0.5156463384628296
+71,"Asymmetric risk and the ""maximin"" solution The adjustment to the outlook that justified the policy change can be thought of as some combination of a lower central tendency for growth next year and a widening of the risk associated with downside possibilities relative to the baseline forecast.",LABEL_0,0.9970355033874512
+72,"For example, if there is no change in policy, the worse case outcome would be a sharp slowing in growth to well below the trend rate.",LABEL_0,0.9877199530601501
+73,"Under an easing, the worse case outcome would be that the economy turned out stronger than expected, so the easing was unwarranted, and inflation increased more sharply than projected.",LABEL_0,0.9987183809280396
+74,"My judgment is that the most worrisome possibility has become the former, justifying the easing of monetary policy last week.",LABEL_0,0.994273841381073
+75,"During the period when the stance of monetary policy was asymmetric toward tightening, the focus was on whether or not a preemptive move toward restraint was justified in light of the progressive tightening of the labor market.",LABEL_1,0.9995618462562561
+76,"Because inflation continued to decline, even as labor markets became tighter, and because the turmoil in global markets held the possibility of some relief in U.S. labor markets, policy remained on hold, with the exception of the single 25-basis point tightening in March of 1997.",LABEL_0,0.9655492901802063
+77,"If labor markets initially are very tight, growth has been above trend, and there have been consistent surprises on the up side, there will be more caution in easing than if the economy were initially operating just at full employment and growing at trend.",LABEL_1,0.9993564486503601
+78,The Taylor Rule and balancing stabilization and inflation objectives I have talked on several occasions about the usefulness of the Taylor Rule as a starting point for thinking about monetary policy.,LABEL_2,0.4850364327430725
+79,"The Taylor Rule specifies how the federal funds rate should be adjusted over time in response to changing economic conditions, allowing attention to be paid to monetary policy's stabilization role in the context of the Federal Reserve's long-run price stability objective.",LABEL_1,0.9874305725097656
+80,"There are a variety of versions of this basic approach, depending on measures of utilization and inflation rates and depending on whether the adjustment is made in response to past and current movements in utilization and inflation rates or in response to forecasts of these variables.",LABEL_2,0.9998413324356079
+81,"I believe the current move can be justified in a forward-looking variant of the Taylor Rule, where today's policy depends on the forecast of future output gaps and inflation.",LABEL_2,0.9992325305938721
+82,"The policy is, therefore, well designed, in my judgment, to balance the stabilization and inflation objectives.",LABEL_2,0.9997996687889099
+83,"That is, a U.S. economy growing at its maximum sustainable rate, at its maximum sustainable utilization rate, and maintaining price stability would offer the very best support that we could possibly provide to the world economy.",LABEL_2,0.9993534684181213
+84,Our Congressional mandate is to achieve full employment and price stability in the United States.,LABEL_2,0.9967764019966125
+85,"It should be appreciated, however, that U.S. monetary policy has a far greater ability to shield the U.S. economy from global distress than to counter the powerful recessionary and deflationary forces in the world economy.",LABEL_1,0.8952858448028564
+86,"The stock market and monetary policy Just a short time ago, there was widespread concern that an overvalued stock market, an erosion of credit standards and failure to adequately reflect risk in asset prices were both contributing to the strength of the expansion and increasing the vulnerability of the economy.",LABEL_1,0.9971612691879272
+87,"The conventional wisdom for monetary policy, nevertheless, was not to assume that policymakers had a better ability to assess stock market valuations than market participants themselves.",LABEL_0,0.9990110397338867
+88,"The stock market, in this view, should be taken into account in monetary policy in the same way as myriad other considerations, only in so far as it affected the balance between supply and demand in the economy and hence projected macroeconomic performance.",LABEL_1,0.993439257144928
+89,"The simulative effect of soaring equity prices was one of the considerations that, in my judgment, supported allowing the real federal funds rate to rise, as inflation declined over recent quarters.",LABEL_2,0.9998288154602051
+90,"Now that stock prices have moved lower and there has been some reversal of the excessive erosion in risk premiums, it would be wildly inconsistent to argue that these market developments themselves are the basis for easier monetary policy.",LABEL_2,0.9998483657836914
+91,"Once again, the issue is the effect of recent market developments on the forecast for growth, utilization rates and inflation and whether any such revision is sufficient to justify policy action.",LABEL_1,0.9803457856178284
+92,Conclusion The U.S. economy continues to operate at high utilization rates and with low inflation.,LABEL_0,0.9773264527320862
+93,But the cumulative force of recent developments appears likely to yield a slowing in the pace of growth next year.,LABEL_2,0.9997902512550354
+94,"Fortunately, monetary policy is capable of responding quickly to changing conditions.",LABEL_1,0.9289408326148987
+95,"The role of monetary policy, in this episode, is to cushion this slowdown, provide insurance against downside risks, and promote the reverse soft landing you have been consistently forecasting.",LABEL_0,0.9979214072227478
+96,"Your forecast, in particular, and consensus forecasts, in general, appear to appreciate both the ability and willingness of monetary policy to adjust as necessary to changing developments.",LABEL_2,0.9997071623802185
+97,"This perception is, I believe, one reason why consensus forecasts have changed so little in the face of recent developments that appeared to encourage downward revisions to the forecast for growth.",LABEL_1,0.9487389922142029
+98,"MA's consensus panel projected that GDP growth would be 2.1% over 1999, almost identical to your forecast.",LABEL_2,0.9992891550064087
+99,"This seems to further confirm that some things, like the growth forecast for 1999, apparently never change.",LABEL_2,0.8963268995285034

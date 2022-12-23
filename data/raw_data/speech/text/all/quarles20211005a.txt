@@ -1,0 +1,71 @@
+Like most of you, I try to get some work doneâ€”but, also like most of you, out of an amalgam of security concerns and indolence, I often don't succeed.
+Something must improve the hours, but Kant is a little heavy, P.G.
+Wodehouse a little light, and T.S.
+Eliot looks like you're just showing off.
+So, over the last few weeks, I've been re-reading Joan Didion while making my way from point A to point B: Slouching Toward Bethlehem, The White Album, and Where I Was From.
+As it turns out, Joan Didion is a particularly apt author to be reading on the way to this conferenceâ€”not because the conference is being held in Las Vegas, although her four-page summation of this "most extreme and allegorical of American settlements" is a classic.
+But rather, because a nearly constant theme of her writing is change: how hard it is to recognize that things have changed; how hard it is to come to terms with it once recognized; how insistent people can be that surely, they will be OK. And given that introduction, I'm sure you have now guessed what I intend to talk to you about today: LIBOR, the benchmark formerly known as the London Interbank Offered Rate.
+LIBOR was the principal benchmark used to set interest rates for a vast number of commercial loans, mortgages, securities, derivatives, and other products.
+For a number of yearsâ€”certainly at least since July of 2017, and really for several years beforeâ€”it has been clear that LIBOR would end, but some believed it was not clear exactly when LIBOR would end.
+And, as a result, many market participants have continued to use LIBOR as if that end date would surely be in some indefinitely distant future, as if LIBOR would remain available forever.
+Earlier this year, however, things changed, and changed significantly.
+Two things happened which together make clear that LIBOR will no longer be available for any new contracts after the end of this year, just 86 days from now.
+First, the United Kingdom's Financial Conduct Authority (FCA), which regulates LIBOR, and ICE Benchmark Administration (IBA), which administers LIBOR, announced definitive end dates for LIBOR.1 No U.S. dollar LIBOR tenors will be available after June 30, 2023.2 So, now there was a definitive and immovable date fixed for the end of LIBOR.
+However, the second thing that happened made clear that long before that end date in 2023, LIBOR would not be available for any new contracts after the end of this year.
+Following the FCA and IBA announcements about the end of LIBOR, the Federal Reserve and other regulators published guidance making clear that we will focus closely on whether supervised institutions stop new use of LIBOR by the end of this yearâ€”86 days from now.
+If LIBOR will not be available for new contracts, what is the point of IBA continuing to provide USD LIBOR quotes until mid-2023?
+Those LIBOR quotes will allow many existing contracts to mature according to their terms, thus greatly reducing the costs and risks of this transition.
+Otherwise, many banks would have had to re-negotiate hundreds of thousands of loan contracts before December 31, an almost impossible task.
+But the whole process only works if no new LIBOR contracts are written while the legacy contracts are allowed to mature.
+So, those new LIBOR contracts will not be made.
+Change is difficult, but it is inescapable.
+What is LIBOR, and Why is it Going Away?
+LIBOR was intended to be a measure of the average interest rate at which large banks can borrow in wholesale funding markets for different periods of time, ranging from overnight to one month, three months, and beyond.
+LIBOR is an unsecured rate, which means that it measures interest rates for borrowings that are made without collateral and therefore include some credit risk.
+At first blush, it may seem peculiar that a borrowing rate for banks in London has been used so widely.
+Why, for example, are more than $1 trillion of residential mortgages in the United States tied to LIBOR?
+The answer is that, over time, LIBOR's pervasiveness became self-reinforcing.
+Lenders, borrowers, and debt issuers relied on LIBOR because, first, everyone else used LIBOR, and second, they could hedge their LIBOR exposures in liquid derivatives markets.
+Today, USD LIBOR is used in more than $200 trillion of financial contracts worldwide.
+Federal Reserve officials have described LIBOR's flaws on numerous occasions.3 The principal problem with LIBOR is that it was not what it purported to be.
+It claimed to be a measure of the cost of bank funding in the London money markets, but over time it became more of an arbitrary and sometimes self-interested announcement of what banks simply wished to charge for funds.
+That might not have become such a debacle had it been clear to everyone what the ground rules were, but the ground rules for LIBOR were anything but clear.
+As a result of subsequent changes to the process, LIBOR panel banks now provide evidence of actual transactions where possible.
+A fundamental problem, however, is that LIBOR has been unable to separate itself from its perception as a measure of bank funding costs, yet the market on which LIBOR is basedâ€”the unsecured, short-term bank funding marketâ€”dwindled after the 2008 financial crisis.
+This means that, for many LIBOR term rates, banks must estimate their likely cost of such funding rather than report the actual cost.
+Many LIBOR panel banks are uncomfortable estimating their funding costs in producing a benchmark perceived by many to measure actual funding costs.
+As a result, the great majority of the panel banks have determined that they will not continue participating in the process.
+This is why the FCA and IBA have announced definitive end dates for LIBOR.
+I should note here that regulators have warned about LIBOR-related risks for many years.
+Beginning in 2013, the U.S. Financial Stability Oversight Council and the international Financial Stability Board, which I currently chair, expressed concern that the decline in unsecured short-term funding by banks could pose serious structural risks for unsecured benchmarks such as LIBOR.4 To mitigate these risks and promote a smooth transition away from LIBOR, the Federal Reserve convened the Alternative Reference Rates Committee (ARRC) in November 2014.5 As I will describe further in a moment, the ARRC has worked to facilitate the transition from LIBOR to its recommended alternative, the Secured Overnight Financing Rate (SOFR).
+Supervisory Efforts In November 2020, the Federal Reserve, Office of the Comptroller of the Currency (OCC), and Federal Deposit Insurance Corporation (FDIC) sent a letter to the banking organizations we regulate noting that, after 2021, the use of LIBOR in new transactions would pose safety and soundness risks.6 Accordingly, we encouraged supervised institutions to stop new use of LIBOR as soon as is practicable and, in any event, by the end of this year.
+The letter also noted that new contracts entered into before December 31, 2021, should either use a reference rate other than LIBOR or have robust fallback language that includes a clearly defined alternative reference rate after LIBOR's discontinuation.
+Recently, a number of institutions have asked what would qualify as "new" use of LIBOR after 2021.
+We are working with other agencies to provide additional guidance about this issue.
+In my view, however, "new" use of LIBOR would include any agreement that creates additional LIBOR exposure for a supervised institution or extends the term of an existing LIBOR contract.
+Earlier this year, the Federal Reserve issued another supervisory letter that provided guidance concerning supervised institutions' LIBOR transition plans.7 As the end of LIBOR approaches, Federal Reserve examiners have intensified their focus on supervised institutions' transition planning.
+In general, institutions of all sizes have acknowledged year-end as the stop date for new LIBOR contracts and are operationally prepared to offer alternative rates.
+However, based on data from the second quarter of 2021, we estimate that large firms used alternative rates for less than 1 percent of floating rate corporate loans and 8 percent of derivatives.
+To be ready for year-end, lenders will have to pick up the pace, and our examiners expect to see supervised institutions accelerate their use of alternative rates.
+Transitioning to Alternative Rates A handful of firms have said that they may want more time to evaluate potential alternative rates.
+There is no more time, and banks will not find LIBOR available to use after year-end no matter how unhappy they may be with their options to replace it.
+I would note that the ARRC has been publishing tools to facilitate the use of SOFR for almost four years.8 SOFR is a broad measure of the cost of borrowing cash overnight, collateralized by Treasury securities.
+It rests on one of the deepest and most liquid markets in the world.
+It is calculated transparently by the Federal Reserve Bank of New York, engendering market confidence.
+And it can be used for all types of transactions.
+Notably, the ARRC recently recommended SOFR term rates, which will facilitate the transition from LIBOR to SOFR for market participants who wish to use a forward-looking rate.9 Given the availability of SOFR, including term SOFR, there will be no reason for a bank to use LIBOR after 2021 while trying to find a rate it likes better.
+This is especially true for capital markets products.
+As I described recently in remarks to the Financial Stability Oversight Council, it is critical that capital markets and derivatives markets transition to SOFR.
+Market participants have expressed nearly universal agreement that this is the right replacement rate for such products.10 The ARRC did not recommend any other rate for capital markets or derivatives, and market participants should not expect such rates to be widely available.
+Loans, however, are different from derivatives and capital markets products, and raise different issues.
+With respect to loans, the Federal Reserve, OCC, and FDIC issued a letter last year explaining that we have not endorsed a specific replacement rate.11 We have not changed that guidance.
+A bank may use SOFR for its loans, but it may also use any reference rate for its loans that the bank determines to be appropriate for its funding model and customer needs.
+But a bank will not find LIBOR available after year-end, even if it doesn't want to use SOFR for loans and hasn't chosen a different alternative reference rate.
+Reviewing banks' cessation of LIBOR use after year-end will be one of the highest priorities of the Fed's bank supervisors in the coming months.
+If market participants do use a rate other than SOFR, they should ensure that they understand how their chosen reference rate is constructed, that they are aware of any fragilities associated with that rate, andâ€”most importantlyâ€”that they use strong fallback provisions.
+To conclude, I emphasize that market participants should be ready to stop using LIBOR by the end of 2021.12 One-week and two-month USD LIBOR will end in only 12 weeks.
+The remaining USD LIBOR tenors will end in mid-2023, but the LIBOR quotes available from January 2022 until June 2023 will only be appropriate for legacy contracts.
+Use of these quotes for new contracts would create safety and soundness risks for counterparties and the financial system.
+We will supervise firms accordingly.
+Market participants should act now to accelerate their transition away from LIBOR.
+The reign of LIBOR will end imminently, and it will not come back.

@@ -1,0 +1,271 @@
+Two questions form the themes of my remarks: First, can the recent exceptional performance of the U.S. economy be explained by traditional macroeconometric models?
+Second, how should monetary policy respond to the greater uncertainty both about forecasts and about the structural relationships that have guided policy in the past?
+As I wrestle with these questions, let me also remind you that, as always, the views I express are my own.
+I am not speaking on behalf of either the Board of Governors or the Federal Open Market Committee (FOMC).
+Start with a Paradigm and End with a Theory Forecasting based on structural models, my preferred approach, is not the only way to go.
+Diversity in our profession, as in other professions, should be valued, not just tolerated.
+Atheoretical statistical approaches, such as VARs, provide a cheap alternative that, at least over short intervals, but not including the current quarter, yield forecasts as accurate as those obtained from significantly larger structural models.
+But let me offer some reasons why I value the traditional model-based approach to forecasting and policy analysis.
+First, model-based forecasting begins with a paradigm, a vision of how the economy works.
+I suppose the VAR paradigm is that everything depends on everything else, though, in practice, only a small number of variables can feasibly be included.
+But clients and FOMC members want to know why, not just what.
+VARs can cheaply tell us what.
+Model-based forecasts also provide a vision of why.
+Second, and closely related, a model-based forecast ends with a story.
+When I was in the private sector and was asked what I did for a living I often responded that I was a storyteller.
+My experience as a commercial forecaster taught me that clients did not want to be buried in computer output.
+They demanded a coherent story that tied the forecast together.
+A model-based forecast has the ability to essentially explain itself.
+Third, between the paradigm and the story, macroeconometric models both rely on theory and reflect the regularities found in the historical data.
+Models predict the impact of new shocks through "tried and true" regularities.
+Fourth, model-based forecasting allows a forecaster to learn from past mistakes and indeed use past mistakes to improve future forecasts.
+This is clearly one of the keys to good forecasting.
+It is important to try to identify why you were wrong and to establish what part or parts of the model were responsible for the greatest errors.
+Responding to mistakes certainly can be aided by statistical analysis, but there is often room for judgment--often reflecting qualitative information that is difficult to incorporate into the formal model.
+Fifth, atheoretical statistical approaches, as typically used, yield unconditional forecasts.
+Most commercial and government forecasters very much want a conditional forecast.
+Part of the explanation is the value of contingency analysis, bracketing a baseline forecast with more optimistic and more pessimistic forecasts and assessing the implications of major risks to the forecast.
+Despite my appreciation of structural models, I do not believe in mechanical model-based forecasting--estimating the model and letting it make the forecast without intervention of the forecaster.
+When Laurence H. Meyer & Associates won forecasting awards and I was asked my formula for success, I reported my recipe: one part science, one part judgment, and one part luck.
+The science was the model.
+Art refers to the role of judgment.
+And luck--well, that speaks for itself.
+The Paradigm Let me turn now to the paradigm.
+In macroeconomics, I suppose, saying "the" paradigm seems wholly out of place.
+So I mean the paradigm that is widely associated with traditional macroeconometric models, though there are, of course, some meaningful differences even within this class.
+I view the traditional model paradigm as an updated and eclectic version of the neoclassical synthesis.
+It is defined by three key principles.
+First, the models are Keynesian in their short-run properties.
+Specifically, they allow for sticky prices, and as a result output is demand-determined in the short run.
+Second, the models are classical in their long-run properties.
+Specifically output is supply-determined in the long run, inflation is principally a monetary phenomenon, real interest rates are determined by forces of productivity and thrift, and nominal interest rates vary with inflation.
+Third, the price-wage dynamics in the model, most often captured in the Phillips curve, provide the equilibrating mechanism that guides the transition from short run to long run.
+This sector essentially pins down just how sticky prices are and how long it takes for price flexibility to push the economy to a long-run equilibrium.
+This paradigm is eclectic and inclusive.
+It leaves room for the best of the macroeconomic insights of Keynes, classical economists, supply siders, monetarists, and real-business-cycle proponents.
+The neoclassical synthesis suggests separating the economy's experience into short-run cycles and long-run growth.
+In early expressions of this framework, the long-run or trend growth rate was generally viewed as relatively stable, so that short-run movements in output could easily be interpreted as movements in demand relative to long-run supply.
+However, the experience of the 1990s, reinforcing the lessons of the 1970s, suggests that the earlier view of demand-induced variation around a smooth long-term trend is overly simplistic.
+As a result, today we better appreciate the role of both short- and longer-run supply-side developments.
+In addition, a narrow definition of supply shocks that covers only relative price shocks--such as the oil price jumps in the 1970s--fails to do justice to the range of supply-side developments that have so affected output and inflation dynamics, particularly in the 1970s and 1990s.
+In each episode, powerful supply-side shocks included significant changes in our estimates of both the non-accelerating inflation rate of unemployment (NAIRU) and the productivity trend.
+And we are not likely to be satisfied again with a vision that begins from a presumed stable trend in output growth.
+Responding to Structural Change That is a nice lead-in to the next subject I want to introduce: the importance for both forecasters and policymakers of responding to evidence of structural change.
+Part of the explanation for the recent exceptional performance appears to be structural changes that have enhanced the performance potential of the economy.
+Specifically, there are signs of both a decline in the NAIRU and an increase in trend growth.
+These changes suggest that the economy can maintain stable inflation at a lower unemployment rate and, if not already beyond the point of full employment, can grow faster without a threat of overheating than had been the case for the previous two decades or more.
+The potential for structural change is a difficult problem for macroeconometric models, built on a base of a relatively long time series and therefore giving relatively little weight to the most recent observations in parameter estimation.
+Two errors can be made with respect to structural change.
+First, the model builder could fail to account in a timely way for actual structural change and therefore make poor forecasts.
+Second, the forecaster could quickly translate errors in the model into structural change when in fact no such change has occurred.
+The latter adjustment might nevertheless mop up the errors for a few quarters but would ultimately undermine the accuracy of forecasts going forward.
+But just how sure do we need to be before we integrate into our forecasts and into our policymaking new estimates of key parameters?
+We are taught classical econometric techniques for testing for structural change, and these set a high hurdle for recognizing structural breaks.
+But does it make sense for a forecaster or a policymaker to insist on having a 90 percent to 95 percent degree of confidence that a structural change has occurred before he or she reflects such a change in a forecast or policy decision?
+In testing for structural change, we also tend to emphasize regime changes where parameters change from one stable value to another.
+This seems particularly restrictive for some parameters--specifically the NAIRU and trend growth--that can be and should be expected to evolve over time.
+At the Fed, reflecting no doubt the demands of having to make policy in a world of incomplete information and the continuing questions about the estimates of the NAIRU and trend productivity, the staff has been continuously updating its estimates of both parameters.
+These revised estimates have been instrumental in conditioning the staff forecasts of both inflation and real economic activity and have clearly played an important role in the policy deliberations and actions.
+One technique that increasingly has been applied--inside and outside the Fed--is time-varying parameter estimation.
+Instead of beginning with a prior of a constant coefficient over a long period, the point of departure is the presumption that parameters change over time.
+The technique views errors from a particular equation as embodying both random noise and indications of structural change.
+It then allows for a continuous updating of key parameters to capture the evolving change in structure.
+I find this approach especially appealing for the estimation of parameters such as the NAIRU and trend growth.
+In both cases, there are grounds for expecting the parameter to evolve over time, but limited ability to model the sources of this evolution.
+We therefore try to extract the parameter from estimation of some structural equation, such as a Phillips curve in the case of the NAIRU or an equation for the demand for labor in the case of productivity.
+In doing so, it is constructive to use an estimation technique flexible enough to admit the possibility of gradual change in these parameters.
+New Parameters or a "New Economy"?
+A particularly important issue today is whether the evidence of structural change points to a change in paradigm--to a so-called new economy--or whether it can be adequately expressed as a change in the parameters within the traditional paradigm.
+This distinction goes to the very heart of the issue facing forecasters and policymakers today.
+I appreciate that the traditional paradigm provides less direction in forecasting and policy analysis when it admits time-varying parameters for the NAIRU and trend productivity growth.
+But if the data suggest evolution in these parameters over time, both forecasters and policymakers have to be alert to the importance of continually updating their estimates of these parameters and do the best they can within this more challenging environment.
+It is true, however, that the optimal strategy for monetary policy might be affected by the higher degree of uncertainty surrounding key parameters in the model.
+I will return to this theme later.
+But, from a modeling or even analytical perspective, what framework is offered to replace the traditional paradigm?
+I am not a proponent of the new economy school.
+I admit that I do not fully understand what new paradigm is being offered as the heir apparent to the old paradigm.
+In the extreme, it appears to hold that there are no limits--no level of capacity that, if exceeded, induces higher inflation and no trend rate of growth that, if consistently exceeded, implies an increase in production relative to capacity leading, over time, to excess demand and higher inflation.
+I have to admit the absence of such limits makes absolutely no sense to me.
+At any rate, I still believe that the traditional neoclassical synthesis is the best and most resilient framework for understanding macroeconomic developments.
+So my approach is to stick with the paradigm and to change the parameters.
+Many who are viewed as new economy proponents can perhaps be understood, within this paradigm, as believing in one or more of the following: the NAIRU is lower than the 5 percent to 5 ¼ percent estimate that I now use, trend productivity growth is higher than the 2 ½ percent rate I now feel comfortable with, and productivity growth is still rising.
+In addition, new economy proponents may be interpreted as favoring a policy that probes for the limits of how low the NAIRU and how high trend growth might be.
+In light of uncertainties about these parameters, this policy would encourage a less pre-emptive and more reactive approach to the threat of higher inflation.
+But if we are all operating within a well-defined paradigm, we can more effectively marshal the evidence from the data to support our individual judgments.
+Implications of the Paradigm for Inflation and Growth Today, the challenge of explaining recent economic performance leads me to focus my attention on the implications of the paradigm sketched above for economic growth and inflation.
+The growth framework embodied in this paradigm is generally the neoclassical growth model in which long-run growth is tied down by exogenous trends in population and multi-factor productivity.
+Capital deepening--that is, increases in capital relative to labor--can also have an influence on the growth of labor productivity.
+A change in the trend rate of growth, in this framework, would therefore reflect some combination of exogenous changes in population, multi-factor productivity trends, and endogenous capital deepening.
+In the current episode, the increase in the estimate of trend labor productivity from the 1.1 percent rate widely assumed coming into this expansion to what I expect has become the consensus estimate of 2 ½ percent today has three components.
+First, methodological changes--specifically revisions to measures of the price level and the recent accounting change to include software as a capital expenditure--have raised the measured trend rate of increase in labor productivity over a longer period.
+Together these revisions in methodology have contributed about 0.4 percentage point to the increase in the trend growth rate relative to the earlier 1.1 percent estimate.
+The second component is capital deepening, reflecting the high rate of net investment in this expansion and the resulting increase in the ratio of capital services to labor.
+The third component is a possible increase in the trend rate of growth in multi-factor productivity.
+Having asserted the primacy of monetary forces in determining inflation in the long run, some may wonder at my well-known commitment to the Phillips curve.
+You shouldn't!
+The Phillips curve, as I hope is well known, does not pin down the long-run inflation rate.
+In the vertical long-run Phillips curve specification, at least, any stable inflation rate is compatible with equilibrium in the labor and product markets.
+Instead, the Phillips curve specifies short-run inflation dynamics--how and why inflation moves from one path to another--and highlights the critical role of excess demand as a proximate source of rising inflation.
+We learned in the 1970s that excess demand is not always the driving force behind movements in inflation.
+Sometimes excess demand dominates near-term movements in inflation, and sometimes supply shocks overwhelm the effects of overall supply/demand balance in the labor and product markets.
+As a result, the paradigm now always incorporates supply shocks as a second proximate source of changes in inflation.
+I find it useful to distinguish two types of supply shocks: first, relative price shocks, such as increases in the price of oil or food, unrelated to the balance between supply and demand in the overall economy; and second, the effect of an unexpected increase in the productivity trend.
+We are more used to incorporating the former than the latter, but recent experience has, I believe, been a mixture of both.
+Modeling the Effect of a Productivity Shock One of the most fascinating and complex shocks to evaluate is a shift in the underlying productivity trend.
+It is difficult to determine when such a shift takes place, both because productivity has such a powerful cyclical component and because productivity has a fairly large noise component.
+In addition, when a shift does take place, sometimes its force diminishes over time.
+In other cases, we have very little basis for predicting its sustainability.
+Another complication is that some adjustments to the productivity trend reflect methodological changes--for example, improvements in the estimates of price indexes.
+These affect the estimate of productivity over a long period but do not translate into an acceleration in productivity growth in the current episode.
+Finally, there are a wide variety of repercussions from an increase in the productivity trend.
+Higher trend productivity, of course, means a higher average growth rate for real GDP.
+But it has profound effects on demand as well as supply.
+This is certainly one of the most important lessons of the current episode.
+A first inclination might be to assume that higher trend productivity translates into a more rapid advance in supply relative to demand, tilting the balance between supply and demand in the economy.
+In fact, a higher productivity trend also appears to produce perhaps as powerful a stimulus to demand.
+Several channels are at work here.
+First, the technological shock that underpins higher productivity typically carries with it enhanced profit opportunities, spurring investment.
+Second, the same profit opportunities and associated optimism can be expected to drive equity prices higher, both reducing the financing cost of new investment and spurring consumer spending via the wealth effect.
+Third, expectations of higher permanent income may contribute to higher consumer spending.
+On balance, in the short run, demand may increase as much as supply, or even more so.
+The point is that we cannot assume the higher trend productivity eliminates concern about overheating.
+Nevertheless, even if higher productivity has an equal impact on demand as on supply, it will still tend to damp inflationary pressures in the short run.
+This is again one of the most powerful lessons of the current episode.
+Let me explain in some detail how an unexpected increase in productivity growth operates as a temporary favorable supply shock in the traditional paradigm.
+I begin from a wage-price specification of the Phillips curve--that is, from an equation that explains the rate of growth of nominal compensation in terms of inflation and the gap between the unemployment rate and the NAIRU.
+Such a specification also should include trend growth in labor productivity as an explanatory variable.
+Such a specification is necessary to ensure that, in the long run, when unemployment on average equals the NAIRU, nominal compensation increases at a rate equal to the sum of inflation and the trend rate of increase in labor productivity.
+An increase in the productivity growth trend will have a temporary disinflationary effect if the specification of the wage-price sector incorporates an asymmetric response of wages and prices to the change in the productivity growth trend.
+Specifically, nominal compensation is assumed to respond more slowly than prices to a change in the trend rate of labor productivity.
+Of course, both wages and prices respond with a lag to an increase in the productivity trend because it takes time to sort out whether higher productivity is cyclical, just normal quarterly variability or a shift in the underlying trend.
+But the more sluggish adjustment of nominal wages relative to prices reflects longer nominal contracts for wages than prices; possible information asymmetries (faster learning about the change in trend by businesses than by workers); and perhaps the role of slowly changing wage norms governing wage bargaining.
+As a result, there is initially almost no effect on nominal compensation from a change in the trend rate of productivity growth.
+With nearly unchanged compensation and higher productivity, firms find their costs lower and their profits higher than expected.
+Competition then results in price declines, eroding the profits and resulting in lower inflation than would otherwise have occurred.
+The lower inflation in turn moderates nominal compensation gains; that is, the same real increases now require smaller nominal gains.
+The result is a virtuous cycle of lower inflation, lower nominal compensation, and lower inflation.
+However, productivity shocks--like relative price supply shocks--result only in temporary departures of inflation from the underlying rate justified by longer-run influences such as money growth and shorter-run cyclical influences such as utilization rates.
+Once the influence of productivity growth in the wage change equation converges to its effect in the price equation, the asymmetry that drives the disinflationary effect of an unexpected increase in the productivity trend dissipates, assuming that productivity growth stabilizes.
+Evolution of the Traditional Model I now want to discuss four developments of special importance in the evolution of macroeconometric model building, building on the models in place by the late 1960s: the modeling of inflation dynamics, the incorporation of international linkages, the role of policy reaction functions, and the modeling of expectations.
+The underlying core of the life-cycle model of consumption, neoclassical models of investment and labor demand, and inventory-theoretic money demand remain intact.
+The most important change was the transition from a Phillips curve that allowed a long-run trade-off between inflation and unemployment to the vertical, natural-rate specification.
+This was well entrenched by the mid-1970s and was accompanied by a more consistent treatment of inflation in the models, including more careful differentiation of nominal and real interest rates.
+In addition, by the mid 1970s the models moved to explicitly incorporate supply shocks, at least the relative-price type of shocks.
+The second development of special importance is the change in the international sector owing to the increased openness of the U.S. economy as well as the effect of the change in the exchange rate regime.
+Today, imports are a more important part of the short-run dynamics of the model, including a significant role as a stabilizer of shocks to domestic demand.
+But this openness also has subjected the U.S. economy to shocks from abroad and forced forecasters to pay increasing attention to international linkages and incorporate more details about them.
+The recent episode of troubles among Asian emerging economies was outside the boundaries of coverage in some models, and adjustment factoring of import and export equations was required to compensate.
+The experience suggests the importance of sufficiently broad measures of foreign economic activity and exchange rates in models, increasing the span of the world that forecasters have to consider in their forecasts for the United States.
+The shift to a flexible exchange rate regime and the increased mobility of capital also has sharpened the responsiveness of real exchange rates to real interest rate differentials across countries.
+Combined with the increased importance of imports and exports, the heightened responsiveness of real exchange rates has increased the importance of the exchange rate channel in the transmission of monetary policy.
+In the Board staff's model, that channel now accounts for about a third of the responsiveness of aggregate demand to changes in interest rates over a one- to three-year period.
+Nevertheless, the overall interest sensitivity of aggregate demand appears to be nearly unchanged, at least until the last couple of years, because the increased role of exchange rates has been offset largely by the decreased interest sensitivity of housing due to the elimination of Regulation Q and innovations in financing home purchases.
+In the past few years, however, the sensitivity of the economy to interest rates may have increased as a result of a more powerful interest-induced wealth effect.
+This development reflects the increase in the wealth-income ratio produced by the extraordinary rise in equity prices over the last several years.
+Finally, international developments clearly are helping to restrain U.S. inflation.
+No doubt the appreciation of the dollar from the spring of 1995 through mid-1998 has played a powerful role.
+So has the lack of conformity in the business cycles in Europe and Japan relative to the United States, an especially important factor because increased trade flows make capacity more of a global concept in some industries.
+I expect that our inflation performance would have been less exceptional if the cycles in Europe and Japan had precisely matched our own and if the dollar had remained stable over the past three years.
+A third evolution in structural models is the use of reaction functions to characterize monetary policy.
+At Laurence H. Meyer & Associates, we offered our clients a choice of monetary policy regime.
+They could treat a short-term interest rate, a measure of the money supply, or nonborrowed reserves as an exogenous variable (determined by discretionary policy) or switch on a policy reaction function (explicitly treating monetary policy actions as endogenous responses to economic developments).
+All the options have their uses, but in a period when there is serious doubt about the stability of money demand, policy reaction functions provide an alternative approach to anchoring the determination of short-term interest rates.
+Ironically, policy reaction functions appear to be used more in models at the Federal Reserve, where monetary policy is made, than in the private sector, where monetary policy must be forecast.
+Many forecasters prefer to rely on their interpretation of what various FOMC members say, or what one especially significant member of the FOMC says or does not say (and I am definitely not talking about myself), in setting the funds rate in the initial quarter.
+But after the first quarter or two, a policy reaction function provides a systematic way to relate monetary policy to the evolution of the forecast.
+A policy rule is also consistent with my answer when someone asks me, usually in jest, how the federal funds rate will change over the next several meetings.
+They are initially surprised that I would even answer such a question.
+But I do answer, and honestly.
+The answer is: It depends.
+Specifically, it depends on how utilization rates, growth, and inflation change over time and, at times, on changes in the forecast of these variables going forward.
+The last major change in modeling is the ongoing attempt to better incorporate the role of expectations and to more richly model the formation of expectations.
+Most traditional macro models continue to model expectations though distributed lags, an approach that captures in a rough way both adjustment costs and expectations formation.
+A backward-looking adaptive expectation framework remains the conventional practice, at least in large-scale commercial macro-econometric models.
+This is an area in which the recently introduced FRB-US model, the successor to the MPS model at the Board, has made significant innovations.
+The thrust of the new work is to separate macro-dynamics into adjustment-cost and expectation-formation components, with adjustment costs imposing a degree of inertia and expectations introducing a forward-looking element into the dynamics.
+The net result is a structure that integrates rational expectations into a sticky-price model.
+The model retains the neoclassical synthesis of the MPS model--short-run output dynamics based on sticky prices and long-run classical properties associated with price flexibility--and therefore produces multiplier results, in both the short and longer runs, that are very similar to those produced by the MPS model.
+The result is that the model produces, for the most part, what may be the better of two worlds--a modern form and traditional results.
+But the better-articulated role of expectations in the new model also allows a richer analysis of the response to those policy actions which might have immediate effects on expectations of key variables such as inflation and interest rates.
+Can the Traditional Paradigm Explain Recent Experience?
+When I talk about the challenge for monetary policy in the current environment, I often see a look of surprise on the faces in the audience.
+What challenge?
+The economy is performing exceptionally.
+The only challenge, I am often told, is to not screw it up.
+But to meet this daunting challenge we must confront two others: The first is to understand the source of the exceptional performance.
+The second is to position monetary policy in light of the answer to the first challenge.
+From the perspective of the traditional models, the current expansion carries two surprises: the strength of domestic demand, explainable in part by the unexpectedly sharp increase in equity prices, and even more impressive, the decline in inflation (this year confined to core measures) despite steadily rising labor utilization rates, to a level well below virtually anyone's estimate of the NAIRU.
+Many, though perhaps not all, the explanations for this exceptional performance fit well enough within the framework of traditional models through some combination of normal model error, exogenous shocks, and changes in parameters, the latter reflecting structural changes in the economy.
+A significant part of the surprise in domestic demand reflects the unexpectedly sharp run-up in equity prices.
+The stock market boom has significantly lowered the private saving rate and boosted consumer spending, contributed to the buoyancy of the housing market, and encouraged a more robust pace of business fixed investment by reducing the real cost of capital.
+Virtually all traditional models, I expect, have underpredicted the dramatic rise in stock prices.
+Interestingly, the revisions to estimated trend productivity growth (implying a higher sustainable rate of increase in earnings) have greatly reduced the over-valuation implicit in such models, at least through 1998.
+Still, here again we face the task of interpreting large and persistent errors in a structural equation.
+Does this pattern of errors suggest a persistent over-valuation in equity prices or is it an indication of a structural break?
+Specifically, are there grounds for believing that there has been a significant decline in the equity premium, justifying a higher equilibrium price-earnings ratio?
+Whether the higher equity prices are being driven by structural change (and therefore might be sustainable) or are driven by forces more subject to reversal, they may have a similar effect on aggregate demand and encourage a similar response by monetary policy.
+That is the point I want to emphasize.
+I will not (not only because I cannot) resolve the question of whether or not higher equity prices are fully justified by fundamentals.
+I have offered two stories to explain the economy's recent exceptional performance--specifically, the combination of robust growth and rising utilization rates and stable to declining inflation.
+The first I have called "temporary bliss."
+This story focuses on a coincidence of reinforcing relative price shocks that have restrained inflation and allowed the economy to move beyond sustainable limits for a while without inflationary consequences.
+The decline in energy prices over 1997 and 1998, the appreciation of the dollar from the spring of 1995 through mid-1998, and the sharp slowing in cost increases for health insurance are the major players in this story.
+I have called the second story "permanent bliss."
+It focuses on structural changes--specifically the decline in the NAIRU and the increase in trend productivity growth--that have enhanced the performance of the economy.
+When I first offered these explanations, I noted that neither one alone appeared to do justice to recent experience but that the weights attached to each were still important in designing the appropriate monetary policy response.
+I will return to this theme below.
+Since I first offered these alternative stories, it has become clearer to me that the increase in trend productivity growth has been the star of this episode.
+It also has become clearer to me that an unexpected improvement in the productivity trend is a development that fits into both the temporary- and permanent-bliss stories.
+If it persists, the higher trend productivity will have a profound effect on rising living standards.
+But a critical question--both for the forecast and for monetary policy--is what are the consequences of a permanent increase in productivity for inflation.
+Here I draw upon the model of inflation dynamics presented earlier.
+First, trend productivity has nothing to do with the rate of inflation in the long run.
+Inflation is a monetary phenomenon and will be pinned down--for better or worse--by the decisions made about monetary policy.
+Second, an unexpected increase in the productivity trend is, as I emphasized earlier, a very powerful favorable supply shock.
+The result is a significant and, though temporary, somewhat persistent disinflationary force on the economy.
+I don't see how we could possibly explain the recent episode without starting from this proposition.
+And as I noted earlier, this perspective is perfectly consistent with a carefully specified but traditional macro model--new parameters in the old paradigm.
+But the key message is that old rules still apply to the new limits.
+Overheating still eventually results if the growth of demand exceeds the growth of supply for long enough, driving the unemployment rate below the NAIRU.
+Excess demand in labor markets still ultimately puts upward pressure on nominal compensation.
+So where are we in this process?
+That depends on whether the updrift in trend productivity growth is ongoing or over.
+That is, to some degree, unknowable today, although we have some tangible evidence about future productivity (via capital deepening) from the current pace of net investment and the forecast for investment going forward.
+And it also depends on how low the NAIRU is today and whether it is still changing.
+But it is quite clear that the other source of supply shocks--the relative price shocks--have all dissipated or reversed, raising the risk of higher inflation going forward.
+In addition, it would take a rather large additional increment to productivity growth to prevent the diminishing effect from this source from causing some uptick in inflation.
+Implications for Monetary Policy So what does all this imply for the conduct of monetary policy?
+First, policymakers have to sort out the degree to which the story is temporary bliss versus permanent bliss.
+The answer has a critical bearing on the nature of the challenge facing monetary policy.
+Second, policymakers have to adjust their strategy to take into account the greater uncertainty about key parameters and the greater difficulty in forecasting in this environment.
+If the favorable inflation outcome of recent years results importantly from the temporary-bliss story, favorable supply shocks have allowed the economy to move beyond the point of sustainable capacity for a while without inflationary consequences.
+If this is correct, as the favorable supply shocks dissipate or reverse, it will not be possible to remain at prevailing utilization rates without inflationary consequences.
+Two choices will ultimately present themselves under this scenario.
+Either the economy will move to a path of higher inflation or policy will encourage a transition to a more sustainable--though less exceptional--state before the upturn in inflation takes hold or at least before it yields a significant rise in the inflation rate.
+If the permanent-bliss story is the greater reason for the favorable inflation outcome, then the role of monetary policy is dramatically different.
+In this case, policy should accommodate the new, enhanced performance characteristics of the economy and not constrain it on the basis of out-dated measures of capacity and speed limits.
+We can perhaps best interpret the new-economy argument as an acceptance of the permanent-bliss interpretation of recent experience and, as a result, offering more support than the temporary-bliss argument offers for an accommodating monetary policy.
+However, even here, monetary policy would have to be alert both to the effect of a higher productivity trend on demand as well as supply and to the implication of the model that an increase in trend productivity raises the economy's real equilibrium interest rate.
+Therefore, even under the permanent-bliss story, policymakers have to be alert in the short run to the possibility of overheating and, at over a longer run, to aligning the real federal funds rate with its higher equilibrium value.
+It seems inescapable that this episode has been characterized by both a variety of shocks and by important changes in key parameters.
+As a result, there is an unusual degree of uncertainty about the structure of the economy and the forecast going forward.
+Every year, for example, we forecast slowing growth and rising inflation.
+Then we spend the coming year trying to explain why we have achieved faster-than-expected growth and lower-than-expected inflation.
+The cumulative effect of this exercise is that it seems less attractive to base current policy on forecasts.
+The implication is that policy inevitably becomes more reactive as it becomes less pre-emptive.
+Some very interesting work at the Board has focused on the implications of uncertainty about the measurement of the output gap (the gap between actual and potential output).
+This uncertainty is, to an important degree, the result of the uncertainty about the estimate of the NAIRU, given that the NAIRU is critical in pinning down the level of potential output.
+But uncertainty about the rate of growth in potential output also has been an important factor in the mismeasurement of the output gap.
+Historically, estimates of the NAIRU, the output gap, and trend growth have been revised substantially over time, implying that policymakers often have made decisions based on an assessment of the output gap that later was judged to be seriously incorrect.
+How should policymakers respond to this problem?
+First, we should recognize, as I have emphasized earlier, that the NAIRU and trend growth can change, and have changed, over time, and we should be sensitive to the importance of updating our estimates of these parameters in response to incoming data on inflation, unemployment, and other variables.
+As I noted earlier, this is very much what we have been doing at the Fed.
+Second, to the extent that a greater uncertainty remains about the measurement of the output gap, it may be prudent to attenuate the aggressiveness with which real interest rates are adjusted in response to movements in the output gap.
+That does not mean that movements in the output gap should be ignored.
+In addition, such an attenuated response, in my view, makes sense only in a region around your best estimate of potential output (or the NAIRU).
+Once the unemployment rate falls far enough below your best estimate of the NAIRU, for example, it would be prudent to return to a more normal responsiveness of interest rates to further declines in the unemployment rate.
+In my judgment, we are already in a range in which such a normal response to further declines in the unemployment rate is warranted.
+Given the initial conditions of robust growth and high utilization rates, at least with respect to the labor market, and given the clear evidence that the previously favorable price shocks are dissipating or reversing, we cannot, in my view, afford to withdraw entirely from a forward-looking policy that is built on our best estimates of the structure of the economy and inflation dynamics.
+While one could interpret recent policy tightenings as a reversal of earlier easings, the fact is that any policy action has to be justified on the basis of how it contributes going forward to achieving the broad macro objectives assigned to monetary policy.
+Therefore, for my part, I view the last policy action as an example of still pre-emptive monetary policy, designed to mitigate the risk of higher inflation going forward, especially in light of the threat that robust growth would push already high utilization rates even higher.
+I continue to believe that the fundamental challenge for monetary policy is to facilitate a transition from the current exceptional but unsustainable state to a more sustainable, though still excellent, state.

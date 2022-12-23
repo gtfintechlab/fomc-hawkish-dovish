@@ -1,0 +1,67 @@
+Unnamed: 0,sentence,label,score
+0,"My colleagues and I have one overarching goal: to sustain the economic expansion, with a strong job market and stable prices, for the benefit of the American people.",LABEL_1,0.9980194568634033
+1,"At the FOMC meeting that concluded today, we maintained our policy interest rate but made some significant changes to our statement.",LABEL_2,0.9994035959243774
+2,"In light of increased uncertainties and muted inflation pressures, we now emphasize that the Committee will closely monitor the implications of incoming information for the economic outlook and will act as appropriate to sustain the expansion with a strong labor market and inflation near its 2 percent objective.",LABEL_0,0.9983417987823486
+3,"So far this year, the economy has performed reasonably well, with solid fundamentals supporting continued growth and strong employment.",LABEL_1,0.9882199764251709
+4,"Inflation has been running somewhat below our objective, but we have expected it to pick up, supported by solid growth and a strong job market.",LABEL_0,0.9931157231330872
+5,"Along with this favorable picture, we have been mindful of some ongoing crosscurrents, including trade developments and concerns about global growth.",LABEL_1,0.9917268753051758
+6,"Growth indicators from around the world have disappointed, on net, raising concerns about the strength of the June 19, 2019 global economy.",LABEL_0,0.899495542049408
+7,"Against this backdrop, inflation remains muted.",LABEL_0,0.9619642496109009
+8,"While the baseline outlook remains favorable, the question is whether these uncertainties will continue to weigh on the outlook and thus call for additional monetary policy accommodation.",LABEL_1,0.6214911341667175
+9,"Let me explain the basis for this judgment, starting with the outlook for jobs and growth.",LABEL_0,0.9662050604820251
+10,Participants see unemployment remaining low this year and next.,LABEL_2,0.9997296929359436
+11,"Committee participants’ growth projections from 2019 are little revised from March, with a central tendency of 2 percent to 2.2 percent, just above their estimates of longer-run normal growth.",LABEL_2,0.9985648989677429
+12,The growth projections for the year as a whole mask some important details about the composition of growth.,LABEL_2,0.9993765950202942
+13,"Annual growth will be boosted by the surprisingly strong first quarter, which had just been reported at the time of the May FOMC meeting.",LABEL_2,0.9998506307601929
+14,"The more reliable drivers of growth in the June 19, 2019 economy are spending on consumption and business investment.",LABEL_1,0.9975321292877197
+15,"In contrast, the limited evidence available at this time suggests that growth in business fixed income has slowed in the second quarter.1 Moreover, manufacturing production has posted declines so far this year.",LABEL_2,0.9997738003730774
+16,"After running close to our symmetric 2 percent objective for most of last year, inflation declined in the first quarter.",LABEL_0,0.9826011061668396
+17,"Participants broadly see inflation moving back up toward our 2 percent objective, but at a slower pace than had been expected.",LABEL_0,0.7926012873649597
+18,"The central tendency for 2019 core inflation, which omits volatile food and energy components, is between 1.7 and 1.8 percent.",LABEL_1,0.9098827242851257
+19,"Setting aside short-term fluctuations, Committee participants expressed concerns about the pace of inflation’s return to 2 percent.",LABEL_2,0.999398946762085
+20,"Wages are rising, as noted above, but not at a pace that would provide much upward impetus to inflation.",LABEL_1,0.9845784306526184
+21,"Moreover, weaker global growth may continue to hold inflation down around the world.",LABEL_2,0.8547884821891785
+22,"We are firmly committed to our symmetric 2 percent inflation objective, and we are well aware that inflation weakness that persists even in a healthy economy could precipitate a difficult-to-arrest downward drift in longer-run inflation expectations.",LABEL_0,0.9881465435028076
+23,"Because there are no definitive measures of inflation expectations, we must rely on imperfect proxies.",LABEL_0,0.9951011538505554
+24,"Market-based measures of inflation compensation have moved down since our May meeting, and some survey-based expectations measures are near the bottom of their historic ranges.",LABEL_2,0.9998109936714172
+25,Combining these 1 Chair Powell intended to say that growth in business fixed investment slowed in the second quarter.,LABEL_0,0.9970870614051819
+26,"June 19, 2019 factors with the risks to growth already noted, participants expressed concerns about a more Chair Powell’s Press Conference FINAL sustained shortfall of inflation.",LABEL_2,0.9196286797523499
+27,This added accommodation would support economic activity and inflation’s return to our objective.,LABEL_0,0.9873035550117493
+28,"It is important, however, that monetary policy not overreact to any individual data point or short-term swing in sentiment.",LABEL_0,0.996833860874176
+29,"So the Committee had, you know, our usual long discussion of global and domestic economic and financial conditions and then spent this morning talking about monetary policy.",LABEL_2,0.9998260140419006
+30,But we’re also looking at global growth.,LABEL_2,0.9997974038124084
+31,It’s really trade developments and concerns about global growth that are on our minds.,LABEL_2,0.4998472332954407
+32,"In the meantime, we have incoming data in the United States that’s been pretty good, particularly for the consumer: Consumer spending is solid supported by, you know, a healthy job market, high levels of employment, wages going up.",LABEL_2,0.9909921884536743
+33,"We do see, though, some areas that we’re looking at, such as, I mentioned, business fixed income.2 So—also, the prolonged shortfall in inflation and perhaps job growth—we don’t like to look at one job report.",LABEL_1,0.9991149306297302
+34,That’s the inflation question.,LABEL_2,0.8501038551330566
+35,So let me let me answer the inflation question first.,LABEL_2,0.7729665040969849
+36,"We saw that market-based measures of inflation expectations, breakevens, dropped.",LABEL_2,0.999797523021698
+37,"Not only that, the actual forecast for inflation for this year, among FOMC participants, dropped a couple of tenths.",LABEL_2,0.7135617733001709
+38,So that means a more prolonged shortfall of inflation.,LABEL_0,0.8933711647987366
+39,"Let me say, on inflation, it’s something I’ve been concerned about for quite a long time.",LABEL_0,0.9488715529441833
+40,"In a world where policy rates are going to be closer to the effective lower bound, then, just as a general matter, we need to be really strong on 2 percent inflation.",LABEL_1,0.9958723187446594
+41,"So I think, you know, we certainly don’t want to be seen as weak on inflation, and I don't believe we are.",LABEL_0,0.8821242451667786
+42,"The U.S. Treasury has responsibility for exchange rate policy, not the Fed, and we don’t comment, in that sense, on the level of the dollar.",LABEL_2,0.6526489853858948
+43,"We have the responsibility for maximum employment and stable prices, and we use our tools to achieve that.",LABEL_2,0.9995850920677185
+44,"In fact, central banks—or, rather, nations, when they get together, routinely adopt a communique that says we will target our domestic, economic, and financial conditions and not our exchange rate in using monetary policy, and that includes the United States, that includes the G-20 communique that we adopted 10 days ago.",LABEL_1,0.9978491067886353
+45,"So there—lower oil prices are contributing to lower investment, although they’re also leading to lower gas prices, which supports spending.",LABEL_2,0.9998400211334229
+46,"But you do see growth in services, so you—this pattern around the world of Chair Powell’s Press Conference FINAL weak manufacturing but growth in the far larger part of the services economy, which has led to low unemployment, good job creation, rising wages, that’s kind of the two big pieces of it that you see.",LABEL_0,0.867300808429718
+47,If you lay the crosscurrents on top of that—concerns about global growth and trade developments—you have the full picture.,LABEL_1,0.7749770879745483
+48,"Well, we have the tools we have, and we’re committed and sworn to use them to support economic activity.",LABEL_2,0.9964046478271484
+49,And they do support economic activity through a number of channels that are reasonably well understood—some more directly tied to interest rates than others.,LABEL_1,0.9979362487792969
+50,But we do generally believe that—that our interest rate policy can support demand and support business investment as well.,LABEL_2,0.9996681213378906
+51,"You know, we don’t—we react to anything in principle that could undermine our achievement of our dual-mandate goals—maximum employment, stable prices—is worthy of our attention and can call forth a policy response.",LABEL_2,0.8633738160133362
+52,"So, essentially, not too concerned about, you know, the central banks no longer being able to carry out monetary policy because of cryptocurrencies or digital currencies.",LABEL_2,0.9998213648796082
+53,We have—we’ve said that we wouldn’t look at raising the target rate for inflation.,LABEL_2,0.999257504940033
+54,Our statutory mandate is price stability.,LABEL_1,0.6959818005561829
+55,"And so we’re actually taking a less—we’re looking at less radical ideas, such as how to make the 2 percent inflation objective more credible.",LABEL_2,0.999739944934845
+56,"And they were—there, I think, people were quite struck by their intervention, which was really uniformly around how important maximum employment is June 19, 2019 and what it means in their communities.",LABEL_2,0.7384422421455383
+57,"What they have had is low unemployment, lots of social problems.",LABEL_1,0.9937989115715027
+58,I think you see disinflationary pressures around the world.,LABEL_2,0.9994828701019287
+59,You see central banks having a hard time getting inflation up to their—close to their objective.,LABEL_0,0.6909642815589905
+60,"We’ve done better than other large central banks that are not, you know, open economies, like the U.K., where you have big currency moves that move inflation around.",LABEL_2,0.9997078776359558
+61,"So—but it’s quite challenging to get inflation—it’s been—even with very high levels of resource utilization, inflation has been lingering and not getting back up to target in a sustained, symmetric kind of a way.",LABEL_0,0.998561441898346
+62,The unemployment rate is lower.,LABEL_0,0.9934695959091187
+63,"So the level of wages is very consistent with what it should be, in the sense that it’s approximately equal to inflation plus productivity increases on an hourly basis.",LABEL_2,0.9996160268783569
+64,"So what’s, I guess, a little surprising, though, is that you could reach these levels of unemployment late—you know, long into a cycle, let’s say, and not see even higher wages that are pushing up on inflation, because wages at this level, even though they’re growing at a healthy rate, at an appropriate rate, they’re not growing at a rate that would provide much upward thrust for inflation.",LABEL_0,0.9825397729873657
+65,You haven’t seen real signals that we’re at maximum employment.,LABEL_2,0.9712120294570923

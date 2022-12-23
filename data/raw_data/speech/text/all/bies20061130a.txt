@@ -1,0 +1,96 @@
+Thank you for the invitation to participate in this seminar.
+We at the Federal Reserve welcome all opportunities to discuss current regulatory proposals and to hear the banking industry's comments about them.
+Today I plan to provide an overview of developments in the United States relating to Basel II and the Market Risk Amendment, as well as offer some thoughts about cross-border implementation of the New Accord.
+The Role of Regulatory CapitalBanking is, and should be, a business in which banks take and manage risks.
+Bankers implicitly accept risk as a consequence of providing services to customers and also take explicit risk positions that offer profitable returns relative to their risk appetites.
+One of the most important jobs of bank supervisors is to ensure that banks maintain an adequate capital cushion against losses, especially during times of financial instability or stress.
+Minimum capital requirements are a major tool for ensuring an adequate cushion.
+When developing minimum capital requirements, supervisors should continue to promote approaches that minimize the negative consequences of risk taking by financial institutions, particularly those institutions that could affect global financial stability.
+That is what we are doing with the Basel II framework.
+The Federal Reserve's main reason for pursuing the advanced approaches of Basel II is the growing inadequacy of current Basel I regulatory capital rules for the large, internationally active banks that are offering ever more complex and sophisticated products and services.
+We need a more risk-sensitive capital framework for these particular banks, and Basel II is such a framework.
+In addition, Basel II promotes risk-measurement and risk-management enhancements and improves market discipline, while giving supervisors a more conceptually consistent and more transparent framework for evaluating systemic risk, particularly through credit cycles.
+Basel II should establish a more coherent relationship between regulatory measures of capital adequacy and day-to-day risk-focused supervision of banks, enabling examiners to better evaluate whether banks are holding prudent levels of capital given their risk profiles.
+For similar reasons, U.S. supervisors support the recent Basel/IOSCO revisions to the 1996 Market Risk Amendment (MRA).
+Since adoption of the MRA, banks' trading activities have become more sophisticated and have given rise to a wider range of risks that are not easily captured in their existing value-at-risk models.
+For example, more products related to credit risk, such as credit default swaps and tranches of collateralized debt obligations, are now included in the trading book.
+These products can create default risks that are not captured well in methodologies required by the current rule specifying a ten-day holding period and a 99 percent confidence interval--thereby creating potential arbitrage opportunities between the banking book and the trading book.
+Recent U.S. DevelopmentsAs most of you know, over two months ago the U.S. banking agencies issued a notice of proposed rulemaking (NPR) relating to Basel II.
+Concurrently, the agencies issued an NPR on revisions to the MRA.
+Notably, in the United States the Basel II NPR and the revised market-risk NPR may or may not necessarily apply to the same set of institutions.
+The proposed market risk NPR will continue to apply only to banks with significant trading activity, whether they are on Basel I as amended or moved to Basel II.
+The U.S. banking agencies are eagerly awaiting comments on both proposals and expect the dialogue with all interested parties to expand as we explore whether the proposals meet our stated objectives and how the proposals can be improved.
+Specifically, I want to emphasize that you should not wait until the end of the comment period to submit comments; our staffs are working diligently to review them even now so that we will be ready to proceed in the development of a final rule.
+Therefore, even if you might have additional comments later, it is still helpful to submit now any you may currently have.
+We especially appreciate very detailed comments.
+Furthermore, it would be especially helpful to us if in your comments you could differentiate between those that are relevant during the Basel II transition period versus those that relate to features of the proposed framework that are more permanent in nature.
+In addition to the written comments, the comment period has afforded us more frequent interaction with industry groups, such as the Institute of International Bankers, which has been very helpful and informative.
+For our part, the agencies hope to issue a set of proposed supervisory guidance relating to Basel II soon that should be helpful as banks move forward with implementation.
+We at the Fed hope that everyone who reviews our proposals relating to Basel II and the MRA revisions understands that they are intended to promote the stability of the U.S. financial system by ensuring the safety and soundness of the largest U.S. banks.
+Thus, as Chairman Bernanke has noted, the ability of Basel II to promote safety and soundness is the first criterion by which these regulatory capital proposals should be judged.
+A key aspect of Basel II implementation in the United States relates to scope of application.
+In the United States, Basel II is expected to apply to only a handful of large, complex organizations, which is the principal reason why the U.S. agencies are proposing only the advanced approaches (A-IRB for credit risk and AMA for operational risk).
+Perhaps the main difference between the implementation of Basel II in the United States and the implementation in most other countries is that the U.S. banking agencies plan to retain a revised form of the existing Basel I-based capital rules for the vast majority of U.S. banks; most other countries are replacing Basel I entirely and will apply Basel II to the entire banking system.
+Notably, the initial U.S. Basel II proposals, issued in an advance notice of proposed rulemaking (ANPR) in August 2003, suggested that only the advanced approaches be used in the United States; comments on the Basel II ANPR did not indicate any opposition to the agencies' proposed approaches.
+It should also be noted that, based on the latest information, apparently none of the large, complex organizations in other Basel-member countries plan to adopt the standardized approach for credit risk.
+Therefore, our proposal that large, complex U.S. banking organizations use the advanced approaches of Basel II seems generally consistent with approaches to be used by large, complex organizations in other countries.
+The U.S. agencies remain open to considering the full set of possibilities for Basel II, so the Basel II NPR specifically seeks comment on whether some form of the Basel II standardized approach for credit risk should be adopted in the United States.
+When deciding whether our large, internationally active banks should have access to a standardized approach, the agencies will need to consider a number of important issues: whether such an approach would accommodate the risks those banks take, now and in the future; whether it would provide adequate risk sensitivity; whether it would be useful to have a transition period in order to give some banks more time to prepare to use the advanced approaches, and whether other transition arrangements are available; whether taking the time needed to develop an appropriate U.S. version of the standardized approach would unduly delay the Basel II implementation process; and, finally, whether the marketplace would find such an option for those banks meaningful and acceptable.
+In developing U.S. proposals for Basel II implementation, the agencies did not think it would be appropriate to replace the existing Basel I capital rules for small, noncomplex banks in this country with the Basel II standardized rules.
+The agencies concluded, based in significant part on input from small community banking organizations, that the implementation costs of such an overhaul generally would exceed its regulatory benefit.
+Instead, the agencies intend to propose, through a notice of proposed rulemaking, a simpler, more modest set of revisions to our existing Basel I-based capital rules for smaller U.S. banks--revisions known as Basel IA.
+Basel IAAs noted, we anticipate that only one to two dozen institutions would move to the U.S. version of Basel II in the near term, meaning that the vast majority of U.S. institutions would continue to operate under Basel I-based rules.
+The U.S. Basel I framework has already been amended more than twenty-five times since its introduction, in response to changes in banking products and the financial services marketplace.
+In October 2005, the agencies issued an ANPR for Basel IA, which discussed possible changes to increase the risk sensitivity of the U.S. Basel I rules and to mitigate competitive distortions that might be created by introducing Basel II.
+We have reviewed comments on the ANPR and are working on a notice of proposed rulemaking, which we hope to have out very soon.
+In drafting all of these regulatory capital proposals, we continue to consider the balance between risk sensitivity and regulatory burden, since more risk-sensitive capital requirements generally imply greater burden.
+Thus, we are mindful that amendments to the Basel I rules should not be too complex or too burdensome for the large number of small- and mid-sized institutions to which the revised rules might apply.
+Indeed, a number of those commenting on the ANPR advocated leaving existing rules unchanged.
+As noted, the agencies are taking into account potential competitive effects that Basel II might create between those institutions that would adopt Basel II and those that would not.
+Indeed, we recognize that many of the thousands of depository institutions that would remain under the current capital rules may be concerned about the potential uncertainty surrounding Basel II.
+As part of our efforts to analyze and address these concerns, the Federal Reserve published a series of research papers focused on potential competitive effects in areas such as small business lending, mergers and acquisitions, and residential mortgage markets.
+The agencies have been taking into account the issues raised in those papers in drafting the Basel IA NPR.
+With regard to both the Basel II proposals and the proposed Basel I amendments, we understand the need for full transparency.
+For that reason, we expect the comment periods for the Basel II NPR and the NPR for the proposed Basel I amendments to have some overlap so that all interested parties may have adequate time to compare, contrast, and comment on both proposals.
+Accordingly, either of our proposals could change as a result of comments received or new information gathered.
+And as I stated earlier, we encourage you to submit your comments early rather than waiting until the end of the comment period.
+Implementing Basel II Across CountriesHaving covered the status of U.S. Basel II proposals, I now want to offer a few thoughts about the implementation of Basel II around the globe.
+As you know, the U.S. agencies participate with other national supervisors in the Basel Committee on Banking Supervision and in other groups to identify differences in implementation and discuss possible ways to harmonize rules and thereby reduce burden on cross-border banking organizations.
+At the recent Accord Implementation Group meeting, there was a very fruitful exchange of ideas and dialogue among the member nations, as well as the EU and Committee of European Banking Supervisors, on approaches that countries are considering to address capital adequacy beyond regulatory minimums.
+Of course, we recognize that the national discretion allowed under Basel II means that there will be adoption of different approaches to Basel II by various countries.
+We recognize that this may create challenges for banking organizations that operate in multiple jurisdictions and are working to try to minimize both the differences and the difficulties wherever possible.
+But it is good to remember that cross-border banking has always raised specific challenges, even before Basel II, and supervisors from various countries have worked hard to address and mitigate those difficulties.
+Let me assure all bankers here that the Federal Reserve is aware that the process of adopting national versions of Basel II has heightened concerns about home-host issues.
+We are committed to working with other international supervisors in resolving home-host issues.
+Indeed, the Federal Reserve and other U.S. agencies have, for many years, worked with international counterparts to limit the difficulty and burden that have arisen as foreign banks have entered U.S. markets and as U.S. banks have established operations in other jurisdictions.
+Throughout the Basel II process, we have been engaged in dialogue with our international counterparts through various avenues such as supervisory working colleges to share ideas and tackle specific issues as they arise.
+Some of these issues are very institution- and country-specific, and are therefore better addressed through individual conversations with an institution and their relevant supervisors.
+The Federal Reserve continues to be an active participant in supervisory working groups for all large U.S. and foreign banking organizations in the U.S. and we are encouraged by the level of cooperation and pragmatism coming out of these efforts.
+For example, supervisory planning efforts for U.S.-based banking organizations for the upcoming year are reviewed with foreign supervisory authorities to ensure that, regardless of Basel II timing issues, information pertaining to ongoing supervisory judgments of risk management practices is available.
+We have also been encouraged by the dialogue with our foreign colleagues regarding their desire to provide flexibility in transitional arrangements.
+I would add that we have benefited from the numerous meetings and exchanges we have had with groups such as yours to help us identify the most critical areas to examine for further convergence globally.
+We will be evaluating all of that input closely as a part of our rulemaking process.
+As always, we encourage bankers who have questions and concerns about home-host issues to communicate promptly with their regulators in all jurisdictions so that the issues can be addressed.
+Another key point, when talking about differences across countries, relates to findings from recent Basel II quantitative impact studies (QIS4 and QIS5).
+Interestingly, the two exercises identified a number of similar issues, some in areas in which institutions were not able to provide adequate data (especially for downturn scenarios).
+In the United States, QIS4 was conducted before the release of the Basel II NPR, while in Europe, QIS5 was conducted only after the passage of EU legislation implementing Basel II.
+Therefore, much of what was learned by U.S. supervisors in QIS4 is included in the NPR, such as the supervisory mapping function for downturn estimates of loss given default.
+European supervisors, on the other hand, did not have the benefit of information from QIS5 when they were drafting their rules.
+While I cannot speak for my European counterparts, no doubt some of the issues raised in QIS5 will be addressed during implementation in Europe.
+It is possible that differences in Basel II implementation may mean that the U.S. version of Basel II is in some aspects more conservative than other countries' versions.
+In other areas, the U.S. proposals may be less conservative.
+But, as I noted, national differences in capital regulation are not unique to the Basel II capital regime.
+Over the years, the U.S. agencies have consciously chosen to maintain a more conservative stance in some aspects of Basel I, as applied in the United States, compared with versions of Basel I adopted by other countries.
+For example, the U.S. banking agencies currently impose a supplemental leverage ratio, and risk-based capital is linked to our prompt-corrective-action framework.
+However, we do not believe that elements of conservatism in existing U.S. capital rules, relative to other countries' rules, have been a barrier to the financial success of our banks, nor have they constrained foreign banks from participating in our markets.
+On the contrary, we believe that capital strength and the resilience it demonstrates offer some competitive advantages and instill market confidence.
+That is a key reason that most of the world's largest banks hold capital in excess of minimum regulatory standards.
+Creditors and counterparties will always consider capitalization when assessing the risks associated with these banks.
+Indeed, many factors other than minimum regulatory capital requirements--including domestic and international tax policies, economies of scale and scope, risk-management skills, and the ability to innovate--also affect competition and profitability.
+On balance, the Federal Reserve believes that an appropriately conservative approach to capital adequacy serves the United States' interest in maintaining the safety, soundness, and resiliency of our banking system.
+However, we also recognize the impact that differences among countries can have and that it is worthwhile to minimize them whenever possible.
+As Chairman Bernanke noted earlier this fall, before issuing a final rule we intend to review all international differences to assess whether the benefits of rules specific to the United States outweigh the costs.
+Of course, that will include a review of whether U.S.-specific rules are having an adverse impact on the competitiveness of U.S. banks vis-à-vis foreign counterparts.
+ConclusionI believe that forums such as this one are very useful places to discuss actual and potential differences in capital requirements across countries.
+As supervisors, we must always strive to minimize these differences and reduce burden on bankers as they conduct business across national borders.
+However, bankers must also realize that national boundaries still matter, and that some differences in capital requirements across countries will remain.

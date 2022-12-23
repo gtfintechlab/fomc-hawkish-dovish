@@ -1,0 +1,47 @@
+Unnamed: 0,sentence,label,score
+0,"In recent months, economic activity picked up as the economy began to reopen.",LABEL_1,0.7246224284172058
+1,"The recovery in household spending also likely owes to federal stimulus payments and expanded unemployment benefits, which provided substantial and timely support to household incomes.",LABEL_0,0.9958246946334839
+2,"After precipitous drops in March and April, employment rose strongly in May and June as many people returned to work from temporary layoffs.",LABEL_1,0.9984670281410217
+3,"The unemployment rate declined in May and , 2020 June but, at 11.1 percent, remains far above its level before the outbreak and greater than the Chair Powell’s Press Conference FINAL peak during the Global Financial Crisis.",LABEL_0,0.9861600995063782
+4,The pandemic has also left a significant imprint on inflation.,LABEL_1,0.9973500967025757
+5,"For some goods, including food, supply constraints have led to notably higher prices, adding to the burden for those struggling with lost income.",LABEL_1,0.9990835189819336
+6,"More broadly, however, weaker demand, especially in sectors—such as travel and hospitality—that have been most affected by the pandemic, has held down consumer prices, and, overall, inflation is running well below our symmetric 2 percent objective.",LABEL_0,0.9958071708679199
+7,Along with the recent increases in economic activity have come new challenges.,LABEL_1,0.5471495985984802
+8,"Indeed, we have seen some signs in recent weeks that the increase in virus cases and the renewed measures to control it are starting to weigh on economic activity.",LABEL_0,0.9668461084365845
+9,"For example, some measures of consumer spending based on debit card and credit card use have moved down since late June, while recent labor market indicators point to a slowing in job growth, especially among smaller businesses.",LABEL_0,0.9993929862976074
+10,"The Federal Reserve’s response to this crisis has been guided by our mandate to promote maximum employment and stable prices for the American people, along with our responsibilities to promote the stability of the financial system.",LABEL_0,0.5556605458259583
+11,We have held our policy rate near zero since mid-March and have stated that we will keep it there until we are confident that the economy has weathered recent events and is on track to achieve our maximum-employment and price-stability goals.,LABEL_0,0.5613310933113098
+12,"To sustain smooth market functioning and foster effective transmission of monetary policy to broader financial conditions, we will continue to increase our holdings of Treasury and agency mortgage-backed securities at least at the current pace.",LABEL_0,0.9833301901817322
+13,"It will take a while to get back to the levels of economic activity and employment that prevailed at the beginning of the year, and it will take continued support from both monetary and fiscal policy to achieve that.",LABEL_0,0.99395751953125
+14,"Before taking your questions, I’ll provide an update on our review of our monetary policy framework.",LABEL_2,0.9998149275779724
+15,"As a reminder, we began this public review of our monetary policy strategy, tools, and communication practices—a first for the Federal Reserve—early last year.",LABEL_2,0.999786913394928
+16,"Our purpose has been to take a comprehensive look at how we can best meet our , 2020 maximum-employment and price-stability objectives in the years ahead, particularly in light of Chair Powell’s Press Conference FINAL the generally lower level of interest rates around the world.",LABEL_0,0.9941669702529907
+17,"As is evident in our current situation, the lower level of interest rates has reduced the scope for the Committee to support the economy by cutting interest rates.",LABEL_0,0.9955949187278748
+18,Our focus was on possible enhancements to our Statement on Longer-Run Goals and Monetary Policy Strategy.,LABEL_2,0.9998469352722168
+19,"This document states our goals, articulates our approach to monetary policy, and serves at the foundation—as the foundation for our policy actions.",LABEL_2,0.9998210072517395
+20,"We went from the lowest levels of unemployment we’d had in 50 years to the highest levels we’ve had in 90 years, and we did it in the space of two months.",LABEL_2,0.7249011993408203
+21,"So it’s a serious economic problem for the United States, but it’s—it’s got underlying causes that are not related to monetary policy or to our response to the pandemic.",LABEL_0,0.9769963622093201
+22,Our part of it is to—is to push as hard as we can on our employment mandate while keeping price stability.,LABEL_0,0.8773573040962219
+23,"And we’ve always said, though, that we understand, accept, and are fine with the fact that—that those purchases are also fostering a more accommodative stance of monetary policy, which would tend to support macroeconomic outcomes.",LABEL_1,0.5362643003463745
+24,We do feel that our current monetary policy stance is the appropriate one.,LABEL_0,0.951852560043335
+25,"So, as I mentioned, economic activity and employment picked up beginning in May and right through June and remained well below their levels because, I’d say, job gains have reversed about a third of the job losses from March and April, and consumer spending has reversed about a half of the drop.",LABEL_2,0.9988688826560974
+26,"Recent labor market indicators point to a slowing in job growth, particularly among smaller businesses.",LABEL_0,0.7141616344451904
+27,"We just don’t know yet, because we have to wait for—to see the, you know, the actual data on spending and employment come in, and—but this—this is what we’re seeing, and, of course, we’re monitoring it very carefully.",LABEL_0,0.9989408850669861
+28,"And now that Chair Powell’s Press Conference FINAL the—that the cases have spiked again—again, the early data, the high-frequency data suggest that there is a slower pace of growth, at least for now.",LABEL_2,0.9933984279632568
+29,"In terms of inflation, I don’t know.",LABEL_0,0.986113965511322
+30,"I mean, I—you know, I think, fundamentally, this is a disinflationary shock.",LABEL_2,0.9998284578323364
+31,"I know there—there is a lot of discussion about how this might lead to inflation over time, but, you know, we’re—we’re seeing disinflationary pressures around the world going into this.",LABEL_0,0.9976154565811157
+32,"Now we see a big shock to demand, and we see core inflation dropping to 1 percent.",LABEL_0,0.9992311000823975
+33,And I do think for quite some time we’re going to be struggling against disinflationary pressures rather than against inflationary pressures.,LABEL_0,0.9663394093513489
+34,We think that the economy will need highly accommodative monetary policy and the use of our tools for an extended period.,LABEL_0,0.9984508752822876
+35,"So, first, on the unemployment, you’re right.",LABEL_0,0.9985436201095581
+36,"While the aggregate unemployment rate was 3½ percent, every—every economy—every market in every economy has longer-run issues.",LABEL_2,0.9250778555870056
+37,And one of ours is just the disparate level of unemployment between—between Blacks and whites.,LABEL_2,0.9389791488647461
+38,"So even—but this was the lowest, , 2020 you know, Black unemployment rate in 50 years—or, actually, since we started keeping records, Chair Powell’s Press Conference FINAL which was less than 50 years ago.",LABEL_2,0.957193911075592
+39,"So we have started, though, in recent years to focus considerable time and attention on disparate levels of unemployment—for example, among—among different racial groups and demographic groups.",LABEL_0,0.8833045363426208
+40,We call them out in testimony and in speeches and in our Monetary Policy Report to Congress.,LABEL_2,0.9997768998146057
+41,In terms of—so we do—you will see that—you will see that discussed—the Black unemployment rate discussed all the time in what we do.,LABEL_2,0.9994814991950989
+42,And what we—it looks like we’re seeing a slowdown in the rate of growth.,LABEL_2,0.9956182241439819
+43,"In any case, there’s clearly a risk that we’re going to see a slowdown in the rate of growth in economic activity and in hiring.",LABEL_0,0.9881911277770996
+44,"And it can either be inflation or it could be an employment goal, as you pointed out.",LABEL_0,0.9992031455039978
+45,"I would also tell you, though, that, to—to a very large extent, the—the changes we’ll make to the Statement of [on] Longer-Run Goals and Monetary Policy Strategy are really codifying the way we’re already acting with our policies.",LABEL_2,0.9998019337654114

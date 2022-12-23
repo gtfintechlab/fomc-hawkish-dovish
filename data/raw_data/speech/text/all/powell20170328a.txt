@@ -1,0 +1,112 @@
+Thanks to Brian Cushing for inviting me here today.1 Gathered in this part of West Virginia, we are located in the Fifth Federal Reserve District, which stretches down from here to South Carolina and east to the Atlantic Ocean (figure 1).
+More than 100 years ago, the organizers of the Federal Reserve System divided the country into 12 of these Districts, each with its own Federal Reserve Bank.
+Together, the Board of Governors in Washington and the 12 Reserve Banks are the key elements of the Federal Reserve System.
+Today I will discuss how the Federal Reserve came to have this unique structure.
+The Fed's organization reflects a long-standing desire in American history to ensure that power over our nation's monetary policy and financial system is not concentrated in a few hands, whether in Washington or in high finance or in any single group or constituency.
+Rather, Americans have long desired that decisions about these matters be influenced by a diverse set of voices from all parts of the country and the economy.
+The structure of the Federal Reserve was designed to achieve this broad representation and promote a stronger financial system to build resiliency against the sort of periodic financial crises that had repeatedly damaged the country in the 19th and early 20th centuries.
+This structure was forged from compromise; the result of that compromise was a vitally needed central bank whose decisions take into account a broad range of perspectives.
+Before the Federal Reserve The question of how to structure our nation's financial system arose in the early years of the republic.
+In 1791, Congress created an institution known as the Bank of the United States, often considered a forerunner of the Federal Reserve.
+The Bank was created in part to assist the federal government in its financial transactions, a typical responsibility of central banks at that time.
+It was also designed to help America's financial system meet the needs of a growing economy--the same purpose behind the founding of the Federal Reserve more than 100 years later.
+The most famous proponent of the Bank was Alexander Hamilton, who has recently achieved the central banker's dream of being the subject of a hit Broadway musical (figure 2).
+Congress gave the Bank of the United States unique powers--its notes were accepted for making payments to the federal government and it was the only bank able to branch across state lines (figure 3).
+The Bank could affect the ebb and flow of credit around the country.2 People in different regions of the country came to have distinct views about the Bank.
+Borrowers in the western areas--in those times, the West meant places like Ohio--desired cheap and abundant loans but were also wary of lenders.
+These borrowers grew opposed to the power of the Bank in the credit market.
+Northern business interests favored the Bank's contribution to the country's industrial development, but at times disagreed with actions taken by the Bank to constrain credit.
+Southern agriculturalists viewed the Bank with suspicion but supported its occasional actions to constrain credit to non-agricultural businesses.3 The Bank's private ownership, intended to give it independence from government control, was a source of unpopularity.
+Ultimately, these disagreements undermined the Bank's political support.
+After 20 years, Congress chose not to renew the Bank's charter.
+A second Bank of the United States met a similar fate in 1836 when President Andrew Jackson vetoed a bill to extend its life (figure 4).
+These two short-lived experiments illustrate a theme in American history--of Americans from different regions holding distinct views about the structure and development of the financial system.
+People in the newer western parts of the country saw themselves as starved of access to credit and viewed higher interest rates in their areas as reflecting the scarcity of funds.
+Regional interest rate differentials persisted until around the time of World War I and helped shape the attitudes of Americans living in western areas toward the nation's financial system.4 These regional differences gave rise to a major political movement in the latter part of the 19th century, as western farm borrowers increasingly demanded a reform of the U.S. monetary system.
+Their chief complaints included the high interest rates they faced as well as the burdens placed on them by deflation that increased the real value of their debts.
+Indeed, the economy experienced 1 to 2 percent deflation annually in the years leading up to the 1890s.
+The country's currency was linked to gold, and deflation reflected the growing scarcity of gold relative to the amount of economic activity.
+The "free silver" movement grew in response to these economic forces.
+Its most famous advocate, William Jennings Bryan, the Democratic presidential nominee in 1896, sought an increase in the money supply--by the coining of silver in addition to gold--as a solution to reversing this deflation (figure 5).5 The Founding of the Fed By the beginning of the 20th century, the debate about monetary policy and the nation's financial system had been going on for over a century.
+Increasingly, the shortcomings of the existing system were causing too much harm to ignore.
+Like a drumbeat, the country experienced one serious financial crisis after another, with major crises in 1839, 1857, 1873, 1893, and finally in 1907.6 These panics paralyzed the financial system and led to deep and extended contractions in the economy.
+These episodes exposed the weakness of our 19th century financial system, which repeatedly failed to supply the money and credit needed to meet the economy's demands.
+The financial system came under severe stress when the demand for liquidity surged.7 A financial system strained in such a manner is like dry kindling in danger of being exposed to a spark.
+That spark could come from losses at a well-known bank, from a disappointing harvest, or from mere rumors.
+In response, depositors or other investors would seek the return of their funds, which would force financial institutions to sell assets quickly to generate the necessary cash (figure 6).
+That liquidation could lead banks to cut credit and force borrowers to repay debt sooner than expected.
+Simply put, the monetary system did not meet the country's needs.
+It was a system in crisis, boiling over repeatedly, harming the country.
+Central banks are designed in part to help the financial system meet occasional liquidity strains.
+When demands for liquidity rise, central banks can respond by increasing the supply of money and thus adding liquidity to the system.
+Central banks have a particularly important role in avoiding or mitigating extreme demands for liquidity during financial crises.
+They do this by making loans to solvent financial institutions so they can meet their liquidity demands and avoid forced sales of their assets.
+These ideas about central banks' lending role were developed over the course of the 19th century but not yet implemented in the United States, which at the time remained without a central bank.8 By the beginning of the 20th century, the United States was behind the game.
+The final catalyst leading to the creation of the Federal Reserve was the severe Panic of 1907, which caused inflation-adjusted gross national product to decline by 12 percent, more than two times the decline recorded during the Great Recession of 2007 to 2009.9 After the panic ended, there was a broad sense that reform was needed, although consensus on the exact nature of that reform was elusive.
+Some called for an institution similar in structure to the Bank of England at the time, with centralized power, owned and operated by the banking system.
+Some wanted control to be lodged with the federal government in Washington instead.
+Others proposed that power be distributed to regional bodies with no central or coordinating board.
+Still others resisted any sort of central bank.10 This debate reflected the many and diverse interests in the United States--farmers, laborers, businessmen, small-town bankers, big-city bankers, technocrats, populists, and more--that experienced different conditions across a large geographic expanse.
+The resulting institution was a compromise, created by the Federal Reserve Act in 1913.
+The Federal Reserve was not structured to be entirely private in its ownership and operation.
+It was also not structured to have a single headquarters in Washington or New York with branches across the country, a structure that was proposed but failed to attract enough political support.
+Instead, a more federated system was created, establishing the Federal Reserve Board in Washington and the 12 Reserve Banks located around the country.
+The Board was the part of the System intended to be most directly accountable to the public (figure 7).
+The Board is an independent agency within the federal government, and members of the Board--now called Governors--are appointed by the President and confirmed by the Senate.11 Governors serve 14 year terms that expire at 2-year intervals and are not linked to election cycles.
+The Federal Reserve Board is charged with general oversight of the Reserve Banks.
+The Reserve Banks combine both public and private elements in their makeup and organization (figure 8).
+Like the Board of Governors, the Reserve Banks operate with the public interest in mind.
+Commercial banks that are members of the Federal Reserve System are required to purchase stock in their District's Reserve Bank.12 These shares are nontransferable and yield only limited powers and benefits.
+Dividends are set by federal law.
+The commercial bank shareholders elect two-thirds of the directors that oversee the Reserve Banks; the Board in Washington appoints the remaining one-third.
+Only three bankers can serve on a Reserve Bank's board of directors, and only one of those can be from a large commercial bank in the District.
+The remaining six directors represent the interests of the public.
+The Federal Reserve System benefits enormously from the insights and support of the boards of directors of the Reserve Banks and their Branches.
+Directors include prominent private-sector leaders who represent a wide and growing diversity of backgrounds and views about the economy.13 The federated structure of the Federal Reserve System earned the endorsement of even the populist hero of the late 19th and early 20th centuries, William Jennings Bryan.
+The compromise created an institution that could address the shortcomings of the American financial system while assuring that control of the Federal Reserve would be shared widely.14 The structure was different from those of the first and second Banks of the United States, and from those of foreign central banks at the time.
+Congressman Carter Glass, who worked to win passage of the Federal Reserve Act in Congress, called the Federal Reserve's uniquely American design "an adventure in constructive finance" (figure 9).15 The Modern Federal Reserve In the System's early years, the decentralized structure gave the Reserve Banks considerable scope to make independent decisions that applied to their own Districts, which made it difficult to effect policy.
+For example, one Bank's purchases of securities could be offset by another Bank's sale, given that the market for securities was national in scope.
+As a result, the Reserve Banks created a committee to coordinate these "open market operations."
+But in these years, the Reserve Banks were not bound by that committee's decisions and could derail any attempt at coordinated action.
+This decentralization was thought by some to have undermined the Federal Reserve's response to the Great Depression.16 With that experience in mind, the 1935 Banking Act modified the distribution of power within the Federal Reserve System, giving the Board of Governors 7 of the 12 seats on the Federal Open Market Committee (FOMC) (figure 10).17 The other 5 seats are held by the Reserve Banks.
+The Federal Reserve Bank of New York has a permanent seat, and the other Reserve Banks share the remaining 4 seats on a rotating basis.18 While FOMC members are free to dissent from the majority decision about open market operations, the Reserve Banks are nevertheless required to adhere to that decision in conducting open market operations.
+The structure set out in 1935 has been essentially unchanged to this day and has served the country well.
+As intended by the framers, the federal nature of the system has ensured a diversity of views and promotes a healthy debate over policy.
+My strong view is that this institutionalized diversity of thinking is a strength of our System.
+In my experience, the best outcomes are reached when opposing viewpoints are clearly and strongly presented before decisions are made.
+Members of the Board of Governors and Presidents of the Reserve Banks arrive at their own independent viewpoints about the economy and the appropriate path for monetary policy.
+Congress has assigned the FOMC the task of achieving stable prices and maximum employment; however, policymakers may disagree on the best way to achieve those goals.19 The System's structure encourages exploration of a diverse range of views and promotes a healthy policy debate.20 In the modern Federal Reserve System, each Reserve Bank has an independent research department, with its own external publications.
+In addition, while the members of the Board tend to focus on developments in the nation as a whole, the Reserve Bank Presidents bring specialized information about their regional economies to the FOMC discussion.
+Before each FOMC meeting, Reserve Bank Presidents consult with their staff of economists as well as their boards of directors, business contacts in their Districts, and market experts to develop their independent views of appropriate monetary policy.
+The FOMC works to achieve a consensus policy by blending inputs from the members of the Board of Governors and from the Reserve Bank Presidents under the leadership of its Chair.
+By tradition, the Chair of the Board has been chosen as the Chair of the FOMC and has had a central role in setting the agenda for the FOMC and developing consensus among the Committee's members.
+In addition, the Chair is the most visible public face of the Federal Reserve System.
+The Fed is accountable to Congress and the public for its activities and decisions.
+Historically, the activities of central banks were shrouded in mystery.
+Montagu Norman, the famously secretive Governor of the Bank of England from 1920 to 1944, reportedly took as his personal motto, "Never explain, never excuse" (figure 11).21 In the modern era, all that has changed, as central banks have come to see transparency both as a requirement of democratic accountability and as a way of supporting the efficacy of their policies.
+Over recent decades the Fed has significantly augmented its public communications, as have other major central banks.
+The Chair testifies before Congress twice each year about the U.S. economy and the FOMC's monetary policy in pursuit of its statutory goals of stable prices and maximum employment (figure 12).22 The Federal Reserve Board prepares a Monetary Policy Report to accompany that testimony.23 The Chair also holds press conferences after four FOMC meetings each year.
+The FOMC releases statements after its meetings that explain the economic outlook and the rationale for its policy decision.
+Detailed minutes of the Committee's meetings are published three weeks later.24 Since 2007, FOMC participants have submitted quarterly macroeconomic projections that are published in the Summary of Economic Projections.25 In 2012, the FOMC issued a Statement on Longer-Run Goals and Monetary Policy Strategy, which is reaffirmed every January.
+This statement discusses the Committee's interpretation of its statutory goals of maximum employment and price stability; it indicates that the Committee judges inflation of 2 percent, as measured by the annual change in the price index for personal consumption expenditures, to be most consistent over the longer run with the Federal Reserve's statutory mandate.26 Transcripts of FOMC meetings are released to the public after a delay of about five years.
+Federal Reserve Board Governors and Reserve Bank Presidents contribute to the Federal Reserve's transparency with frequent public speeches and other communications.
+I believe that support for the Federal Reserve as a public institution is sustained by the public expression of our diverse views.27 These communications with Congress and the public are critical parts of the Federal Reserve's institutional accountability and transparency, and are essential complements to its independence.
+It is important that Federal Reserve officials regularly demonstrate that the Fed has been appropriately pursuing its mandated goals.
+Transparency can also make monetary policy more effective by helping to guide the public's expectations and clarify the Committee's policy intentions.
+Recent Changes in Federal Reserve System Governance In recent years, the governance of the Federal Reserve System has continued to evolve.
+The 2010 Dodd-Frank Wall Street Reform and Consumer Protection Act provided that directors representing financial institutions--the class A directors, of which there are three on each Reserve Bank board--may not participate in the appointment of Reserve Bank presidents and first vice presidents.
+The Federal Reserve Board has long had policies preventing Reserve Bank directors from participating in supervisory matters or in determining the appointment of any Reserve Bank officer whose primary duties involve supervisory matters.
+These directors continue to provide highly valuable information about developments in their markets, and take part fully in other roles with the other six directors.
+Another aspect of governance involves the better representation of women and minorities in the Federal Reserve System.
+Indeed, while I have focused my remarks on the history of geographical diversity in the Federal Reserve System, we also strive to have diversity in gender and race both at the Board and at the Reserve Banks.
+In recent years, the Reserve Banks' boards of directors have made significant progress along these lines.
+Women now account for 34 percent of the directors, up from 24 percent five years ago.
+In addition, minorities now account for 29 percent of directors, up from 19 percent five years ago.
+Conclusion The long history of political discourse in the United States helps explain the Federal Reserve's unique structure, in which the Board of Governors in Washington and the 12 regional Reserve Banks share power over monetary policy (as shown in figure 1).
+Throughout our history, Americans have questioned the structure and even, at times, the need for a central bank.
+Current discussions of Fed reforms echo these past debates.
+But it is important to understand that history in both advanced and emerging economies across the world has consistently demonstrated the need for a central bank, and both the existence and the structure of the Federal Reserve are products of that historical experience.
+Our structure is fundamentally a compromise, shaped by American history stretching back to the first Bank of the United States and, later, by the lessons of the Great Depression.
+It is designed to deliver the United States a vitally needed central bank in a country that has had a long-standing aversion to centralized power over monetary and financial affairs.
+It preserves diverse regional voices while ensuring that policy can be implemented through a cooperative consensus.
+The balance between national and regional interests is critical to the spirit of the original compromise that created the Federal Reserve, and to its democratic legitimacy.

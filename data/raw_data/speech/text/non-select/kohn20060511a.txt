@@ -1,0 +1,52 @@
+The productivity of the U.S. economy accelerated in the mid-1990s and productivity has grown at an even more rapid pace this decade, as new technologies and increasingly sophisticated capital equipment have made it possible to produce and deliver goods and services more efficiently and cost effectively.
+Technological advancements have made the payments system a very dynamic part of the U.S. economic infrastructure.
+The increasing availability and convenience of payment alternatives, along with generally lower costs, have affected how people choose to pay for their purchases.
+Payments that a few years ago were being made in paper form--by checks or in cash--are today being made electronically.
+Indeed, a recent Federal Reserve study found that the number of retail electronic payments in the United States--such as credit cards, debit cards, or automated clearinghouse (ACH) payments--exceeded check payments for the first time in 2003.
+On at least one network, debit card payments have recently surpassed credit card payments, reflecting the rapid growth in debit card use that has been evident for a number of years.
+Given this changing environment, the Federal Reserve is planning to repeat its triennial retail payments survey next year to help quantify recent trends.
+The check-processing system is also evolving rapidly.
+The changing character of the payments business is challenging long-held assumptions about the payments infrastructure, as well as business relationships in the payments industry.
+My remarks today, which reflect my own thoughts and not necessarily those of the Federal Reserve Board, will provide an overview of some of the recent changes in retail payments, the challenges of innovation, and the Federal Reserveâ€™s role in the retail payments system.
+Changes in the Retail Payments SystemFor many reasons, I believe the pace of change we have experienced in the retail payments system over this past decade will continue or even accelerate.
+Much of the needed electronic infrastructure is in place today, both in homes and at businesses.
+As new generations grow up in the PC age and as older generations become increasingly computer literate, people are becoming more comfortable with using electronic technology in their daily lives.
+At the same time, the emergence of interstate banking has removed institutional barriers to the development of national electronic debit systems.
+Innovation in payments systems has also become a global phenomenon, and successful innovations outside the United States will likely influence developments here.
+These and other factors will likely spur further changes in our payments system in the years to come.
+New technologies are at the heart of this evolution.
+Laws, regulations, and rules have also been modified to remove barriers to innovation and experimentation in the payments system.
+These factors are driving the changes we see today.
+Consumers and businesses are increasingly using debit and credit cards instead of paper checks and cash at the point of sale, and technology has allowed the payments industry to develop new payment instruments to meet new business needs.
+For example, over the past decade, Internet-based payment options, such as PayPal, have grown rapidly and facilitated commerce on the web.
+In addition, closed-network, prepaid payment alternatives, which use chip-based technology, have been successful in collecting tolls on the nationâ€™s highways.
+Likewise, the combination of new technologies and changes to the rules and regulations governing the ACH network has facilitated the use of this network for one-time, nonrecurring payments.
+In the past, the ACH was mainly used for recurring payments, such as payroll, mortgage, and utility payments.
+Today, consumer purchases at stores, over the telephone, or over the Internet can be completed using the ACH.
+Regulatory changes have also facilitated the use of the ACH to convert checks that consumers mail to businesses into electronic payments.
+These new uses of the ACH for one-time payments have driven continuing double-digit growth rates of ACH transaction volume.
+Legal and technological changes are also affecting how banks process checks.
+For example, the Check Clearing for the 21st Century Act, or Check 21, has facilitated the ability of banks to collect checks electronically.
+Depository institutions are using the authority granted under Check 21 to apply communications and imaging technologies to long-established check-collection processes.
+Ultimately, these changes will not only reduce check-processing and transportation costs but also diminish the importance of geography in check processing.
+However, banks seeking to implement a full end-to-end electronic check-processing environment must reengineer their back-office systems to integrate the more complex aspects of electronic check receipt into their core banking and risk-management systems.
+We are beginning to see evidence that depository institutions are starting this reengineering process.
+Generally, Check 21 volumes at the Reserve Banks are increasing rapidly, reflecting the efficiency gains that will inexorably lead to the electronic processing of almost all checks in the not-too-distant future.
+The greater use of electronic payments has not been uniform across all market segments.
+A closer look at payment trends reveals that consumers and businesses may have different perspectives on electronic payments.
+Businesses have been encouraging consumers to use electronic payment alternatives and have been the driving force behind the conversion of consumer checks into ACH payments.
+In turn, consumers, recognizing the convenience of electronic payments, have allowed their checks to be converted into ACH payments and have initiated an increasing number of their payments electronically.
+Businesses, on the other hand, have been more cautious about having their own checks converted into ACH payments or switching from paper to electronics.
+There are some obvious reasons for this behavior.
+First, businesses often have cash-management processes or legacy accounting systems in place that rely on paper checks.
+A payments conference hosted by the Federal Reserve in 2003 found that businesses face organizational and technical challenges in moving to electronics.
+For example, businesses may need to make significant investments in their back-office payment, billing, and accounting systems before they can use electronic payments more frequently.
+In addition, many businesses are reluctant, from a control perspective, to allow others to debit funds electronically from their accounts.
+If businesses can overcome these challenges, they should be able to make and receive a much larger portion of their payments electronically.
+At the same time, the financial incentives for businesses to make these changes will increase as the relative costs of electronic versus paper payments continue to shift in favor of electronic payments.
+Challenges of Payment System InnovationIn addition to low costs, successful innovations must satisfy at least three criteria: meet end-user needs, address network externalities, and provide sufficient controls over risks.
+To be successful, new payment instruments, and changes to existing instruments, must ultimately be more convenient and cost-effective for end users.
+Consumers and businesses are not likely to modify their payment behavior unless they are shown how they will benefit from a change.
+A Federal Reserve Board staff study conducted in 2002, â€œThe Future of Retail Electronic Payments Systems,â€ highlighted this observation.
+The study was based on interviews with payment system innovators, many of whom had experience during the years of the Internet boom.
+The interviews emphasized that providers of payment services cannot assume that an innovative service will generate significant demand simply because it provides new and creative technical capabilities.

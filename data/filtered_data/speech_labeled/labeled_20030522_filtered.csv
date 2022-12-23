@@ -1,0 +1,47 @@
+Unnamed: 0,sentence,label,score
+0,The unemployment rate fell from over 7-1/2 percent in the middle of 1992 to just under 4 percent by the end of 2000.,LABEL_2,0.9992196559906006
+1,"In Minnesota, the unemployment rate fell from 5.2 percent to 3.4 percent over the same period.",LABEL_2,0.9989639520645142
+2,"The stock market soared, and--remarkably enough--core inflation moderated.",LABEL_2,0.9991602897644043
+3,Much of this performance was fueled by an investment boom that also contributed importantly to rapid growth in labor productivity.,LABEL_0,0.9979574680328369
+4,"To be sure, some of the acceleration in productivity over that period was cyclical in nature; but more critical for our longer-run economic performance is that at least a portion of the pickup now appears sustainable.",LABEL_0,0.9941704869270325
+5,"Many businesses were cutting back sharply on capital investment--particularly in high-tech equipment--as demand and profits weakened and many companies, such as those in the telecommunications industry, found that they had overspent on equipment during the boom.",LABEL_0,0.9826677441596985
+6,"Consumer spending and residential investment were both relatively well maintained throughout 2001, even as firms cut employment and stock market losses eroded household wealth.",LABEL_0,0.9842371344566345
+7,"Despite only modest increases in nominal wages and salaries, households' real disposable income was supported by tax cuts and lower inflation.",LABEL_1,0.6230541467666626
+8,"In addition, low interest rates helped promote spending.",LABEL_2,0.874342143535614
+9,"Businesses seemed to have brought their inventories into better alignment with sales, and employment began to rise again, though the gains were too small to make a dent in the unemployment rate.",LABEL_2,0.8215663433074951
+10,"A particularly encouraging development, given the nature of the downturn, was that the contraction in business investment appeared to be slowing while household spending, still supported by low interest rates and gains in real disposable income, continued to trend up.",LABEL_0,0.8341149091720581
+11,"By the final quarter of 2002, real GDP growth had slowed to a pace of 1-1/2 percent, and heightened caution in the business sector showed through to renewed layoffs and a sharp cutback in inventory investment.",LABEL_0,0.9992159605026245
+12,"That brief review brings us to this year, which began with a few bright spots: Concerns about corporate governance were apparently receding, employment and industrial production moved up solidly in January, and the unemployment rate edged down a bit.",LABEL_2,0.9097843170166016
+13,"Oil prices rose to nearly $40 per barrel in early March, though civil strife in Venezuela undoubtedly played a role in the increase.",LABEL_1,0.998364269733429
+14,Oil prices fell sharply during the week that ended with coalition missile attacks on Baghdad.,LABEL_2,0.7628527283668518
+15,"The price of crude oil has returned to levels that prevailed at the end of last year, and both households and businesses should welcome the lower energy bills.",LABEL_0,0.963773787021637
+16,Other positive signs include further reductions in mortgage interest rates and the rebound in consumer confidence.,LABEL_1,0.9850258231163025
+17,"Though markets can respond instantly to positive news, business investment decisions adjust more slowly, and that distinction is evident in current production and employment data.",LABEL_2,0.9996440410614014
+18,"Businesses cut another 80,000 jobs in April, the jobless rate moved up to 6 percent, and new claims for unemployment insurance in recent weeks remain at levels associated with little net change in jobs.",LABEL_0,0.8449899554252625
+19,"(In Minnesota, the jobless rate moved up to 4.4 percent in March, and about 28,000 workers filed claims for unemployment compensation in April.)",LABEL_2,0.7367805242538452
+20,"Turning briefly to inflation, last week's report on the consumer price index showed, as expected, that consumer energy prices had begun to retreat noticeably last month, reversing about one-third of the run-up over the first three months of the year.",LABEL_2,0.8873511552810669
+21,"In April, prices of core goods and services--that is, consumer prices excluding food and energy--were unchanged for a second month.",LABEL_2,0.9992504715919495
+22,"On balance, these indicators suggest that the economy will probably remain soft in the near future and that inflation will remain low.",LABEL_0,0.9469203948974609
+23,"Nonetheless, I continue to believe that the pieces are in place for future robust growth.",LABEL_2,0.9899145364761353
+24,"For much of the period since mid-2001, large negative wealth effects from the falling stock market, the shakeout in the high-tech sector, and the slowdown in economic activity abroad have combined to restrain economic activity.",LABEL_0,0.9980341792106628
+25,"Looking forward, one must ask, what will lead to economic growth?",LABEL_2,0.9982321858406067
+26,The best way to start answering that question is to look at the fundamental forces shaping economic activity.,LABEL_2,0.9998170733451843
+27,"In that regard, a first consideration is that financial conditions should prove conducive to stronger economic growth over the next year or so.",LABEL_2,0.6209118366241455
+28,Monetary policy is very accommodative.,LABEL_0,0.9938933253288269
+29,"The nominal federal funds rate is currently 1-1/4 percent, a level that, using standard measures of core consumer price inflation, implies a real funds rate that is at or below zero, as compared with the real rate's long-run average of about 2-3/4 percent.",LABEL_0,0.8938320279121399
+30,"Business financing needs have been very limited recently, and demand for credit has been weak.",LABEL_0,0.9879081845283508
+31,"But the financial sector is well capitalized and under little stress, and lenders should be well positioned to fund a pickup in business demand for credit.",LABEL_2,0.6415966749191284
+32,"In addition, as I noted earlier, equity prices have moved up again.",LABEL_1,0.8427667617797852
+33,"Fiscal policy, like monetary policy, has been providing fundamental stimulus to economic growth over the past two years, through both tax cuts and higher outlays for defense.",LABEL_1,0.6942573189735413
+34,A third factor underpinning longer-run prospects for growth is the sustained strong uptrend in labor productivity.,LABEL_0,0.9984248876571655
+35,"Labor productivity rose 2 percent in 2001, a remarkable showing for a recession year, and it was up an additional 4 percent in 2002.",LABEL_1,0.8592391014099121
+36,"Productivity appears to have a strong underlying trend, which could support overall income growth even if the weakness in the labor market continues for a while longer.",LABEL_1,0.9911143183708191
+37,"In assessing how these factors will play out over time, I find it useful to consider separately how they translate into a pickup in demand among households and among businesses.",LABEL_2,0.9811018109321594
+38,"From the perspective of households, the combination of lower energy prices and tax cuts should help bolster real disposable income in the near term.",LABEL_1,0.9721450805664062
+39,"Low interest rates should allow consumers to continue to finance their purchases relatively cheaply, whether through home equity loans or through more standard instruments.",LABEL_0,0.9365395307540894
+40,"In the near term, lower oil prices should reduce the costs of production for many businesses and free funds for other uses.",LABEL_1,0.9768178462982178
+41,"Also, with interest rates low, the incentives for capital expenditure in the tax code in place until late 2004, and prices for high-tech goods still falling, the cost of capital should remain low.",LABEL_0,0.9332414865493774
+42,"Overall, though shifts in business attitudes are difficult to measure, I believe that markets reward businesses that outperform their competitors and that, as demand picks up, companies will respond to opportunities to incorporate technological advances in production, communication, and organization.",LABEL_2,0.9993067979812622
+43,Another question that is frequently asked is whether financial stress in the household sector might restrain growth.,LABEL_0,0.9986516833305359
+44,"To date, however, we have no evidence that the new disease has affected U.S. economic activity.",LABEL_2,0.9991788268089294
+45,"Nonetheless, continued slow growth abroad could have a damping effect on our recovery here.",LABEL_0,0.9962741136550903

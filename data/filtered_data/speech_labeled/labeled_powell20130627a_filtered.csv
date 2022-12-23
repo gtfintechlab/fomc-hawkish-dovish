@@ -1,0 +1,74 @@
+Unnamed: 0,sentence,label,score
+0,I will comment briefly on the outlook for the economy and then turn to monetary policy.1 Near-Term Outlook Our economy has grown at an average annual rate of only about 2 percent since the recovery began exactly four years ago.,LABEL_0,0.9780935049057007
+1,"That modest pace is notably weaker than the experience of past recoveries would have predicted, even accounting for the depth and duration of the Great Recession.2 Since 2009, the question has been when the recovery will decisively take hold and begin to deliver the higher levels of growth that are needed to put people back to work more quickly.",LABEL_0,0.9342860579490662
+2,"Against that background, the Federal Open Market Committee (FOMC) met last week, and, among other tasks, each of the 19 members of the Committee submitted individual economic projections for growth, unemployment, and inflation for 2013 through 2015.",LABEL_2,0.9997772574424744
+3,FOMC participants generally expect an acceleration of the recovery through 2013 and 2014 and continued strong growth in 2015.,LABEL_1,0.9710984826087952
+4,"I would point in particular to the housing sector, which in prior recoveries has been an important engine of growth.",LABEL_2,0.5477908849716187
+5,"For the first two years of the current recovery, housing contributed nothing to growth, as housing investment hovered at extremely low levels.",LABEL_0,0.7116483449935913
+6,"House prices declined sharply through most of 2011, wiping out about half of home equity and restraining consumer spending.",LABEL_0,0.9970299005508423
+7,House prices are up more than 10 percent over the past 12 months.,LABEL_1,0.8143470287322998
+8,But overall trends suggest to me that the housing recovery can continue for many years and become an important contributor to growth.,LABEL_0,0.9974973797798157
+9,Growth would be higher this year but for U.S. fiscal policy.,LABEL_0,0.9797406196594238
+10,The Congressional Budget Office (CBO) estimates that federal tax increases and spending cuts will slow the pace of real gross domestic product (GDP) growth about 1-1/2 percentage points this year.3 Tight fiscal policy may also be preventing faster reductions in unemployment.,LABEL_0,0.6473106145858765
+11,I have been surprised by how well consumer spending--and private domestic final demand more generally--have held up in the face of this pronounced fiscal drag.,LABEL_0,0.9975358247756958
+12,"In the first quarter of this year, consumer spending and private domestic final demand rose at an annual rate of just above 2-1/2 percent.",LABEL_1,0.9769506454467773
+13,More-recent indicators of household and business spending suggest that private demand is continuing to advance at a reasonable clip despite the fiscal tightening.,LABEL_1,0.9995689988136292
+14,"Let's turn to monetary policy, starting with the dual mandate, pursuant to which the Congress directs the Federal Reserve to conduct monetary policy so as to foster stable prices and full employment.",LABEL_1,0.6926358938217163
+15,"Dual Mandate--Inflation Inflation is currently running below the FOMC's 2 percent long-term objective for personal consumption expenditure (PCE) price inflation, and these readings have our attention.",LABEL_0,0.9935391545295715
+16,But inflation often fluctuates for transitory reasons.,LABEL_2,0.9997850060462952
+17,Other factors point to a gradual increase in inflation.,LABEL_1,0.9995416402816772
+18,"While some measures of longer-term inflation expectations have moved down, others remain more stable.",LABEL_2,0.9481961727142334
+19,Most FOMC participants anticipate that inflation will gradually move up to the FOMC's 2 percent target over coming years.,LABEL_2,0.8542150855064392
+20,"Continued low or falling inflation could, however, raise real concerns.",LABEL_0,0.9239591956138611
+21,Inflation can be too low as well as too high.,LABEL_2,0.9983736276626587
+22,"I have no doubt that the Committee will monitor this carefully and defend the inflation goal ""from below,"" if necessary.",LABEL_0,0.5092884302139282
+23,Dual Mandate--Full Employment The employment side of the dual mandate is a different story.,LABEL_2,0.9990761280059814
+24,"From payroll employment's peak in January 2008 to its trough in February 2010, the U.S. economy lost nearly 9 million jobs, while the unemployment rate rose from an average of about 4â€‘1/2 percent in 2007 to a high of 10 percent in October of 2009.",LABEL_0,0.9882996082305908
+25,Unemployment was 7.6 percent in May and so has come down about 2-1/2 percentage points from its peak.,LABEL_1,0.925544023513794
+26,"In addition, long-term unemployment remains very high--4.4 million Americans or about 37 percent of the unemployed have been out of work for six months or more.",LABEL_0,0.939969539642334
+27,"To summarize, although inflation is below target, it is expected by most observers to return over time to the Committee's 2 percent objective.",LABEL_0,0.9974864721298218
+28,The Committee will continue to carefully monitor inflation developments.,LABEL_2,0.9637259244918823
+29,But we are still far from full employment.,LABEL_2,0.9996504783630371
+30,The case for continued support for the economy from monetary policy is strong.,LABEL_0,0.9982919096946716
+31,"Implications for Monetary Policy The federal funds rate has been near zero since late 2008, and since then the FOMC has been providing accommodation through two relatively new policy tools.",LABEL_0,0.998468816280365
+32,"These tools are ""forward guidance"" about the future level of the federal funds rate, which is the interest rate charged on overnight loans between banks, and large-scale asset purchase programs (""asset purchases,"" or LSAPs).",LABEL_0,0.9969393014907837
+33,"The Committee indicated its intention to hold short-term rates near zero at least as long as unemployment remains above 6.5 percent, provided inflation one- to two-years ahead is projected to be no higher than 2.5 percent.4 And under the current flow-based LSAP program, adopted last year, we are purchasing $85 billion a month in long-term Treasury securities and agency mortgage-backed securities (MBS).",LABEL_2,0.9989609718322754
+34,"Although the level of purchases may vary depending on economic conditions, the program will continue until there is a substantial improvement in the outlook for the labor market, in a context of price stability.",LABEL_0,0.9977484345436096
+35,"I see the first tool, forward guidance about rates, as really an extension of traditional central bank rate-setting policy.",LABEL_0,0.9978012442588806
+36,"The Committee will continue to use interest rate policy, including forward guidance about short-term rates, as we return to full employment.",LABEL_2,0.9998431205749512
+37,"Provided inflation remains in check, the Committee will begin to assess whether to increase short-term rates when unemployment reaches 6.5 percent.",LABEL_2,0.8572482466697693
+38,"First, if inflation remains low, as expected, that would be a signal that there is still significant slack in the economy.",LABEL_1,0.969881534576416
+39,"Second, a variety of other information will shed further light on the health of the labor market, including the labor force participation rate, flows into and out of employment, and other measures of labor slack.",LABEL_0,0.9970213770866394
+40,"After the Committee first raises short-term rates, it will take a balanced, and in all likelihood gradual, approach consistent with its longer-run goals of full employment and inflation of 2 percent.",LABEL_2,0.9996055960655212
+41,Both forward guidance and asset purchases work by lowering longer-term interest rates and contributing to an easing of overall financial market conditions.,LABEL_1,0.9969974756240845
+42,Lower rates increase economic activity through a variety of channels.5 Businesses and households react to lower rates by investing and spending more.,LABEL_0,0.9591013193130493
+43,Lower rates also support the prices of housing and financial assets such as stocks and bonds.,LABEL_1,0.9969700574874878
+44,"Higher asset prices increase wealth and, with a lag, induce higher spending.",LABEL_0,0.9442717432975769
+45,"The second round of purchases that began in November 2010 also appears to have been successful in countering disinflationary pressures.6 Now that the financial crisis has receded and the economy is recovering at a moderate pace, are asset purchases still effective?",LABEL_1,0.9946984052658081
+46,"The Fed's workhorse macro model is FRB/US, which estimates a reduction of about 20 basis points in the unemployment rate after three years in the wake of $500 billion in purchases of longer-term securities.",LABEL_0,0.9648151993751526
+47,"There are reasons to think that this estimate may be too low; for example, FRB/US does not include any direct channel for LSAPs to boost house prices.",LABEL_1,0.42277806997299194
+48,"There are also reasons to think that the estimate might be too high, since some of the channels by which lower rates spur economic activity could be attenuated in current circumstances, for example, by lower credit availability for small businesses and less creditworthy households, or corporate and household risk aversion.",LABEL_2,0.9995762705802917
+49,My view is that the LSAPs continue to provide meaningful support for economic activity but perhaps less than what the FRB/US estimates suggest.,LABEL_0,0.9991770386695862
+50,"Beyond these model-predicted effects, it also seems likely that the economy continues to benefit from the knowledge that the Federal Reserve is committed to supporting growth as long as necessary.",LABEL_2,0.9108055233955383
+51,"With inflation in check, the most important potential risk, in my view, is that of financial instability.",LABEL_1,0.7727639675140381
+52,Monetary policy has helped to keep real interest rates low.,LABEL_1,0.9735134840011597
+53,"Experience suggests that low real rates, if maintained for a long time, can lead to asset price bubbles and eventually to financial instability.",LABEL_0,0.9893970489501953
+54,"But low rates are not solely or even primarily a result of the Federal Reserve's accommodative monetary policies; they are rooted in the market's expectations of low inflation and the weakness of the economic recovery, factors weighing on rates not just in the United States but throughout the advanced economies.7 Given low real rates and low inflation, expected nominal returns should be low across all asset classes.",LABEL_1,0.9963932633399963
+55,"Whether one looks at trailing or forward price-to-earnings ratios, equity risk premiums, or option prices, there is little basis for arguing that markets show excessive optimism about future returns.",LABEL_0,0.9990955591201782
+56,"But, as my Board colleague Jeremy Stein has observed, there have been signs of a ""reach for yield"" in the fixed-income markets for some time.8 Demand for higher-yielding fixed-income securities has outstripped new supply.",LABEL_2,0.9997385144233704
+57,"The result has been very low rates, declining spreads, increasing leverage, and pressure on non-price terms such as covenants.",LABEL_1,0.9987106323242188
+58,What about house prices?,LABEL_0,0.9902217388153076
+59,"At the peak of the bubble, house prices were more than 40 percent above their usual relationship to rents, according to one model that the Fed staff follows.",LABEL_2,0.9992427825927734
+60,"At their trough, house prices had fallen about 10 percent below fair valuation.",LABEL_1,0.7984445095062256
+61,"Given the price increases over the past year, they are--by the lights of this one model--moving back into the approximate neighborhood of fair valuation.",LABEL_0,0.9669568538665771
+62,The second concern is that the process of normalizing monetary policy and the balance sheet could itself be destabilizing or disruptive to the economy.,LABEL_2,0.6885562539100647
+63,"The unemployment and inflation thresholds I discussed earlier, as well as the communication around asset purchases, are all designed to improve public understanding of the Committee's intentions.",LABEL_1,0.8749482035636902
+64,"But communications are bound to be imperfect, and changes in the outlook can still lead to adjustments in asset prices.",LABEL_2,0.9972034692764282
+65,"The Path Ahead for Monetary Policy Last week, the Chairman provided greater clarity about the path of asset purchases.",LABEL_2,0.9997244477272034
+66,"At that time, the unemployment rate would likely be in the vicinity of 7 percent, with growth consistent with further improvements and inflation heading back toward our objective.",LABEL_1,0.6721715927124023
+67,"If unemployment reaches the 7 percent range, that would constitute a substantial improvement from the 8.1 percent unemployment rate that prevailed when the Committee announced the current program of asset purchases.",LABEL_2,0.9995346069335938
+68,"When the Committee met in September, the unemployment rate stood at 8.1 percent.",LABEL_0,0.5379827618598938
+69,"Today, just nine months later, the unemployment rate is 7.6 percent--a larger decline than most FOMC participants expected in September.",LABEL_2,0.8855838775634766
+70,"At the time of the September meeting, nonfarm payrolls were reported to have increased at a monthly rate of 97,000 over the prior six months.9 Today the trailing sixâ€‘month average payroll growth is 194,000.",LABEL_2,0.9133448004722595
+71,"Other labor market indicators also show moderate progress, including aggregate hours worked, initial unemployment insurance claims, the duration of unemployment, and the share of longâ€‘term unemployment.",LABEL_1,0.9432573318481445
+72,"If economic growth, unemployment, or inflation do not meet the Committee's expectations, or if financial conditions evolve in a way that is inconsistent with continued recovery, the Committee will respond.",LABEL_2,0.9940598011016846

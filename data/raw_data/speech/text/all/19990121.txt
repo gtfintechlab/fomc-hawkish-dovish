@@ -1,0 +1,130 @@
+This meeting reinforces the internationally recognized leadership role of the financial services industry in promoting Year 2000 preparedness.
+This morning I would like to discuss the global challenge presented by the Year 2000 problem and describe international efforts, particularly those of the Joint Year 2000 Council, to assist the worldwide financial services industry to be ready for the century date change.
+Of course, the obligation to fix the Year 2000 problem belongs ultimately to you in the private sector.
+Therefore, I will also discuss the important role the financial services industry can play to further mitigate risk, to develop sound contingency plans, and to serve as a catalyst in promoting best practices among your suppliers and customers.
+Global Challenge The impact of the Year 2000 date change on computer systems in the financial services industry presents a significant global challenge.
+The risks of some disruption to international trade and financial markets are not to be discounted completely, and the consequences of inaction are grave.
+The world economy functions through its financial services markets, and it is not a surprise, therefore, that the Year 2000 preparedness of the financial services industry is of great interest.
+Widespread and long-lasting disruptions, should they occur, could seriously impair commercial activities in countries where economies are already weakened.
+Moreover, and possibly the most onerous consequence, if market participants were to lose confidence, many countries, including the United States, may be faced with unusual liquidity demands.
+The good news is that we are not faced with inaction.
+I find that the seriousness of the Year 2000 problem is gaining increased national and international attention.
+Still, with less than a year left before the millennium change, it remains difficult to judge its global impact.
+Given the sheer number of computers and chip-based systems, and the manual nature of the fixes that have emerged to date, we are likely to experience some degree of disruption, which I believe most likely will prove to be mild and short-lived.
+I do not think that we will face global recession.
+Ultimately I believe the number and extent of computer system disruptions will not be used as the measure of our success in addressing the Year 2000 problem.
+Instead, our success will be measured by our ability, and the public's confidence in our ability, to conduct business operations effectively on January 3, 2000, and thereafter.
+Current State of International Year 2000 Efforts Some foreign governments and institutions started their Year 2000 program years ago, while others were initially reluctant to recognize that a problem even existed.
+This reluctance hindered efforts to take early action.
+In some areas, already limited resources were dedicated to other activities, such as the euro currency conversion or attempts to restructure weakened economies.
+Additionally, those countries that recognized the problem early and had sufficient resources assembled technical experts from whatever source was available.
+Recognizing these challenges, in April 1998, the Bank for International Settlements hosted a Year 2000 roundtable to raise international awareness.
+At the close of the conference, the sponsoring organizations, the Basle Supervisors Committee, the Committee on Payment and Settlement Systems, the International Association of Insurance Supervisors, and the International Organization of Securities Commissions, established the Joint Year 2000 Council.
+The Council was formed as a direct result of the recognition of the complexity of the global financial services industry and the need to communicate proactively with regulatory and supervisory authorities.
+The Group of Seven has welcomed and endorsed the establishment of the Council and has requested it to develop the necessary initiatives to raise the Year 2000 issue to the attention of senior financial regulators.
+As Chairman, I work with other members of the Council to ensure that a high level of attention is given to the challenge within the global financial supervisory community and to serve as a point of contact with national and international private sector initiatives.
+To that end, the Council operates with the participation of central banks, insurance and securities regulators, and banking supervisors.
+It is the first international body that brings together such a range of financial regulators.
+It is important to note that the Joint Year 2000 Council is not the "international Year 2000 enforcement agency."
+We do not have onsite examiners, nor are we meant to replace the efforts of national regulators.
+The Council established an External Consultative Committee, or ECC, to enhance the degree of information sharing between the public and private sectors.
+This committee includes representatives of internationally-oriented organizations including the Global 2000 Coordinating Group, the International Monetary Fund, the World Bank, and financial service providers, such as S.W.I.F.T., Euroclear and Cedel.
+The Council brings together an unprecedented number of regulators and supervisors and, with the input of the ECC, it has developed a common dialogue within the global regulatory community.
+To fulfill its mission, the Council has proposed and executed a number of initiatives.
+Our most important role may be to provide a forum to facilitate information sharing and cooperation among supervisors.
+To accomplish this, we have developed a global supervisory contact list of over 600 financial regulators, and initiated several mechanisms for communicating with them.
+Our most visible may be a series of bulletins, which come out monthly, on different themes and topics.
+Additionally, the Council has, and will continue to, support, co-sponsor and provide assistance in planning conferences and roundtables on the Year 2000 challenge.
+To date, we have conducted meetings for regulators from Europe, Asia-Pacific, North and South America and the Caribbean, and the Middle East.
+Tomorrow, the Council will sponsor a meeting for the African region in Pretoria.
+These conferences have provided an excellent means of bringing supervisors together to discuss common interests within specific geographic areas.
+When we first started, some supervisory authorities had not raised the Year 2000 problem to a very high level of attention.
+Much of this delay could be attributed to resource demands and the lack of a sufficient knowledge base on Year 2000 issues.
+To address this information shortfall, the Council determined that the supervisory community would benefit from written guidance papers that address key phases in the Year 2000 process and specific responsibilities of supervisors and regulators.
+These statements would serve to raise awareness and share best practices.
+To date we have issued four of these papers, on: 1) the independent assessment of financial institution preparedness, issued in June 1998, 2) the origin, scope, and seriousness of the problem and the potential impact on the financial services industry, 3) testing for Year 2000 readiness, and 4) suggested methods for information sharing among members of the financial services industry, its third party providers, and supervisory authorities.
+In an effort to encourage disclosure and transparency, the Council has also developed a program to collect and publish key Year 2000 information that will emphasize what initiatives are underway throughout the world.
+The Council has asked public sector organizations in more than 170 countries to provide information on national governments, central banks, financial market supervisors, operators of exchanges and payment settlement and trading systems, financial sector industry associations, and major utilities.
+The information is posted on our web-site on a country-by-country basis.
+What is the State of International Readiness?
+What is the state of "international readiness?"
+As you understand, it is difficult to measure accurately the level of international Year 2000 readiness, and certainly no one can predict with confidence exactly how the century date change will unfold internationally.
+There are three reasons for this difficulty.
+First, there is no single indicator that can be used to judge the overall Year 2000 readiness of any country, including the United States.
+Second, the state of readiness is a moving target.
+Judgements are usually based on anecdotal information obtained either first-hand through interviews or surveys or second-hand through other sources.
+The best information is subject to change.
+Finally, while it may be possible to reach conclusions about the Year 2000 readiness of individual industry sectors, it remains difficult to assess the interdependency of critical systems across industry sectors.
+In addition, the state of Year 2000 readiness of a country's public sector may not be an accurate indicator of the status of its private sector.
+With that said, let me briefly summarize my own observations on international Year 2000 readiness of the financial sector.
+I do not have information on every country, and cannot discuss them in great detail.
+I do believe that, as with the United States, in most countries the financial sector was probably somewhat ahead of other sectors in recognizing the Year 2000 problem, and is probably somewhat more advanced in remediation.
+I am optimistic that the western European banking sector, in general, will continue its hard work to be Year 2000 ready.
+I have spoken with a number of western European financial market participants about the Year 2000 issue, and each of them has stressed the commitment of his or her organization to do everything possible to limit any Year 2000-related disruption.
+Although the conversion of computer systems to accommodate the euro was a high priority for most western European banks, the European Commission indicated in a report last December that the financial sector was "exemplary" in its progress and the level of coordination taking place.
+The experience gained by the banks in testing with financial service counterparts for the euro conversion will, I hope, provide efficiencies for comparable Year 2000 testing.
+I understand that there is considerable progress in Japan's Year 2000 readiness.
+In April of last year, it was unclear whether the Japanese recognized Year 2000 as an industry-wide problem.
+In addition, it was difficult to determine whether the public or private sector had developed clear plans to ensure Year 2000 readiness.
+During the past few months, however, I have read reports from rating agencies indicating that Japanese banks seem to be making progress and that the results of their conversations with Japanese banks have been "somewhat encouraging."
+The Japanese regulators are scrutinizing their banks closely, and I understand that the Bank of Japan is conducting four industry-wide domestic tests between now and June of this year.
+In addition to this information about these markets, I can report that, through the regional meetings of regulators that I referred to above, we have now had contact with regulators from over 100 countries, and the degree of awareness among regulators is, I find, uniformly high.
+This is a good underpinning for them to ask the proper questions of the banks they oversee, and to assist those institutions in making progress.
+Finally, we should be interested in the preparations of the infrastructure providers that support the global financial system.
+Central banks, including the Federal Reserve, have met with S.W.I.F.T.
+and other international infrastructure providers such as CHIPS, Euroclear and Cedel Bank to discuss their plans and progress on internal readiness.
+S.W.I.F.T.
+cooperates closely with the National Bank of Belgium in communicating the status of that company's Year 2000 program.
+These various companies are heavily focused on the Year 2000 problem, are participating extensively in Year 2000 testing, and appear to be working quite cooperatively among themselves and with their customers to resolve this problem.
+In this regard, let me discuss briefly the linkage of international and domestic payment systems.
+We believe that the operational procedures that exist today among the Federal Reserve's domestic payment system, Fedwire, and international payment systems will probably act as firewalls to prevent the risk of contagion and limit financial exposure from international Year 2000 difficulties, if any should emerge.
+First, as you well know, the Year 2000 "bug" is not a virus that passes from one software program to another.
+The concern, rather, is whether a significant amount of erroneous payments could be transmitted electronically.
+There are procedures and checks in the handling of international payment orders that minimize the likelihood of financial loss from erroneous payments being made through these electronic systems.
+These checks include: 1) the monitoring of account status done by the Federal Reserve, by other payment mechanisms, notably CHIPS, and by internationally active commercial banks and 2) counterparty exposure limits imposed on and by each of these players.
+Finally, these infrastructure providers are in communication to discuss contingency plans.
+What Should We All Be Doing This Year?
+While the Council recognizes that, in many countries, the financial industry is ahead of other sectors in its Year 2000 preparations, uncertainties will remain with regard to the readiness of systems both internal and external to all organizations.
+It is the responsibility of every individual private sector firm to resolve its Year 2000 problems.
+Public sector policymakers and regulators have an important role to play in fostering appropriate actions by market participants and working to achieve the proper coordination between the various authorities involved, within the financial sector as well as at the national level.
+During these past eight months, we have identified four critical themes common to successful Year 2000 programs in both the private and public sectors.
+First, while much productive work has been carried out around the world to adapt systems that need to be remediated, we need to avoid complacency and continue to maintain a high degree of attention at the most senior level.
+Senior management and the boards of directors in the private sector must continue to allocate sufficient human and financial resources.
+Senior executives should be fully aware of their firm's dependence on third-party vendors, service providers, customers, counter parties, and public infrastructures and also of the subsequent risks these dependencies pose.
+The public sector should encourage financial market participants to continue to devote the maximum senior management attention and priority to this critical issue.
+Second, enhanced information sharing is critical to readiness efforts and to avoid unnecessary uncertainty in financial markets.
+In many countries, there is currently a lack of adequate information on Year 2000 readiness.
+This is of concern because it impedes efficient preparations by market participants and may exacerbate negative perceptions in the marketplace.
+Financial institutions should share information in order to strengthen confidence that the Year 2000 challenges are being met in all financial sectors worldwide.
+In some countries, regulators have mandated public disclosure, such as requiring regular report filings that are made public.
+Regulators can also play a constructive role in making sure that the Year 2000 information that they disseminate to the public is factually accurate, balanced and broadly disseminated.
+Third, comprehensive contingency strategies should be developed in order to minimize disruptions.
+It is important that individual firms review their current business continuity plans and evaluate them in light of possible problems arising from the Year 2000 transition.
+Regulators should develop and implement appropriate contingency plans in order to prepare for possible disturbances relating to the millennium transition.
+The Council plans to publish in the near future policy papers on contingency planning for individual financial institutions and for individual regulators.
+Government agencies should encourage telecommunication, utility, and other infrastructure service providers to share and coordinate contingency plans.
+Fourth, modifications resulting from system or regulatory changes that have the potential to disrupt Year 2000 programs should be limited.
+It is important that firms carefully manage the risks associated with making changes to their internal information systems in 1999 and early 2000.
+Firms should avoid introducing new IT applications that could generate changes to critical business applications that have been renovated, tested and certified.
+The Federal Reserve in October 1998 implemented an internal change management policy that restricts systems changes to those deemed absolutely critical.
+Similarly, legislatures and regulators should limit legal and regulatory changes that might require resources to be diverted from a financial organization's Year 2000 program.
+Before issuing a legal or regulatory change, regulators should consider whether or not the action could be delayed until after 2000.
+The Public's Obligations with Respect to Year 2000 Finally, all of us as members of the public have obligations with respect to Year 2000.
+The first is to maintain perspective and rely on common sense.
+As we get closer to the century date change, there will no doubt be more sensational coverage in the media.
+Our obligation, as always, is to be smart consumers of information and to listen to responsible, not alarmist, voices.
+Remember, as with anything that has a degree of uncertainty, there will always be those who predict the most dire outcomes.
+They have generally been wrong in the past, and I expect that they will be wrong again.
+Our second obligation is to maintain reasonable and responsible patterns of behavior.
+There are likely to be some disruptions from the century date change; nothing this complex can be perfectly faultless.
+However, we should remember that there have been serious disruptions to service in daily life before, from storms, temporary electrical outages, disruptions of telephone service, etc.
+In general, these prove to be annoying and inconvenient, but nothing more.
+Finally, we should all recognize that most systems are built to withstand reasonable service demands.
+If we stress them by changing normal usage patterns, we may experience delays, not because of Year 2000 problems, but rather due to capacity overload.
+Conclusion I believe that financial services industry has made great progress in addressing Year 2000 issues.
+I am cautiously optimistic that the United States and the global economy will weather the century date change without major disruptions to economic activity.
+During this next year you will not only need to do your best to continue to repair and test your own systems, but will also need to evaluate the risk of potential failures and the effect of these failures on your business.
+Further, financial institutions will need to test fallback procedures or work-around processes that mitigate the effect of such failures on their ability to continue to conduct business.
+If we accept the Year 2000 problem as a worldwide problem, then we must focus our attentions broadly.
+Whether the extent of your business resides only within one community or extends internationally, some portion of every firm's Year 2000 efforts must be coordinated and cooperative.
+This conference is an example of such coordination and cooperation.

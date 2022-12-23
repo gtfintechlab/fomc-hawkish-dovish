@@ -1,0 +1,162 @@
+As I look around this room, I'm reminded of your efforts and the variety of perspectives that you have brought, over the years, to the endeavor of financial regulation.
+I'm reminded of the contributions you have made to the richness of these debates and tasks.
+There has been a flurry of pronouncements lately regarding regulations, rules, and guidance, and today's meeting of the Exchequer Club seems like an opportune moment to pause and offer a perspective that lifts us above the many details.2 Newly adopted capital rules, and those newly proposed, in particular, have received the most attention, and I believe that these rules and proposed rules are a big step forward.
+There is no question but that a higher quantity and quality of bank capital will strengthen the banking system.
+Today, I want to discuss regulatory policies in the context of the growth and inevitable collapse of asset bubbles, with a focus on the role of credit.Regulatory policies, when well crafted, can lean against credit excesses that result in asset bubbles.
+In so doing, they can lean against vulnerabilities in the financial system that encourage the growth of excess credit.
+Well-crafted regulatory policies can also build resilience for banks after asset bubbles have burst.
+Many such regulatory policies are already in use, but there are others at the frontiers of regulation that haven't been widely employed.
+Significantly, both sets of regulatory policies--those that lean against excesses and those that build resilience--need to be understood in the context of a comprehensive system of prudential supervision for all financial institutions.
+In my remarks, first, I will briefly review how asset bubbles form, and I'll highlight certain features of asset bubbles so we can discern how regulatory policy might respond to them.
+Second, I'll assert that regulatory tools, including those related to capital, only work if part of a system of prudential supervision for all financial institutions.
+Third, I'll ask whether capital and other regulatory requirements have meaning without a prescriptive and individualized analysis of risk for individual financial institutions.
+In this regard, I'll suggest several other considerations that financial institutions and regulators should consider in the regulatory context.
+Asset Bubbles In order to think about regulatory policy from the perspective of leaning against excesses and vulnerabilities created by asset bubbles, or from the perspective of strengthening resilience to asset bubbles, we need to understand how financial institutions participate in the creation of bubbles.
+The story of asset bubbles, for me, is one in which there is usually explicit and purposeful financial institution involvement.
+It used to be believed that asset bubbles emerged spontaneously, or perhaps came from sunspots or other mysterious causes.
+Now we know more and we know better, and, while we may not be able to predict bubbles, we understand them to be a product of particular actions and choices by financial institutions and their regulators.
+Here is one way a bubble might start.
+And, to approximate current economic conditions, we'll assume an environment of interest rates that have been low, and continue to be low, for a long time.
+To start, retail investors may become dissatisfied with their low yields and begin to seek higher yields by purchasing some specific higher-yielding asset.
+If investors have access to credit, they might try to raise the return on their money by funding a greater portion of their purchases with debt.
+The asset purchased could serve to collateralize their loan.
+If many investors employ this strategy and they borrow to invest in the same asset, the price of that asset, and perhaps the prices of closely related assets as well, will increase noticeably faster than the historical trend.
+At the same time, increased demand for credit to finance these asset purchases could lead lenders to increase their reliance on less expensive, unstable short-term funding, such as uninsured deposits, commercial paper, or repo transactions, in order to fund the loans.
+Besides meeting customers' growing demands for credit, financial intermediaries may themselves decide to "reach for yield" and take on additional risk in a low interest-rate environment.
+Banks suffering compressed net interest margins because of low long-term interest rates, money market funds facing an earnings squeeze, insurance companies that had promised minimum rates of return on their products, and others may all begin to take on higher interest rate risk, market risk, liquidity risk, or credit risk in search of higher returns.
+If these conditions seem likely to continue, an initial rise in the asset's price leads to expectations of further increases, which adds to investor demand, spurring further borrowing and credit growth and increased household and financial sector leverage, which, in turn, could drive asset prices still higher.
+Rising asset prices, in turn, would increase the value of borrowers' collateral, allowing still further borrowing.
+For loans collateralized by an asset whose price is rising, lenders believe they can rely for repayment more on the appreciation of the asset and collateral and less on the borrower's repayment ability.
+Lenders relax their underwriting standards, such as minimum requirements for borrower down payments, credit scores and credit history, or required maximum debt-to-income ratios.
+To compete for loans to buy or to hold the appreciating asset, or financial assets related to it, financial institutions could also decrease the margins and haircuts that usually protect them from asset price declines.
+Financial institution decisions to relax underwriting and impose less-stringent margins and haircuts will further increase the pool of potential borrowers and their borrowing capacity, further increasing credit growth and supporting still higher asset prices, but, at the same time, will also increase lenders' credit risks and exposure--as secured creditors--to a decline in the asset's price.
+Ultimately, the asset becomes severely overvalued, with its price untethered from economic fundamentals.
+We would then have on our hands a full-blown, credit-fueled asset bubble.
+And, as we experienced in the financial crisis, when a bubble involving a widely-held asset bursts, the consequent plunge in asset prices can seriously impair the balance sheets of households and firms.
+Indeed, a dramatic decline in the price of a significant asset can reduce household wealth, spending, and aggregate demand.
+When such effects on wealth, credit availability, and aggregate demand are large enough, the real economy can suffer a significant recession.
+And, of course, lower employment and incomes further depress asset prices and borrowers' ability to repay loans, with further adverse effects on financial institutions and their ability to extend credit.
+At this point, some financial institutions may have become nearly insolvent.
+And this, coupled with their increased reliance on potentially unstable short-term funding, could make them more vulnerable to sudden losses of public confidence.
+Such a loss of confidence, in turn, makes it impossible for affected institutions to roll over existing debts or extend new credit, and may force deleveraging that requires selling illiquid assets quickly and cheaply in asset fire sales, resulting in further declines in asset prices.
+Such developments further threaten the solvency of financial institutions and intensify credit contraction, depriving households and businesses of financing.
+A loss of confidence that is institution-specific could spread, causing other institutions to experience their own heightened solvency risks, liquidity problems, and need to de-lever through asset sales.
+Something like what I've just described happened during and after the recent housing boom and bust.
+Home prices rose dramatically for a decade, and then plunged more than 30 percent, throwing the financial system into chaos, severely contracting credit, and triggering the most severe recession in modern memory.
+We are still living with the consequences.
+In short, there are common features to asset bubbles.
+All asset bubbles implicate different segments and participants in financial transactions--lenders, borrowers, and even participants that are connected by virtue of the benefits they derive from the appreciation in the value of the asset in question.
+The linkages transcend banks.
+Bubbles are characterized by increased leverage among the various types of lending institutions and by increased maturity transformation on and off the balance sheets of various lenders.
+Illiquid loans are funded increasingly by unstable short-term funding.
+At the same time, asset bubbles are accompanied by weakening underwriting standards, and less-stringent margins and smaller haircuts.
+And asset bubbles are characterized by many investors chasing the same asset, and so there is generally wide-spread participation in the growth and nurturing of the bubble.
+Perhaps our recent asset bubble was the result of a perfect storm, one that will not recur for decades.
+But it is my view that asset bubbles are a feature of our financial landscape; that what happened before could happen again; and that the growth and after-effects of asset bubbles reflect particular financial institution decisions and particular regulatory policy choices or lapses.
+In my view, their emergence is usually neither intentional nor accidental.
+Responding to Asset Price Bubbles The good news is that I believe that regulatory policy, when part of a system of effective prudential supervision, has the potential to address asset price bubbles and their consequences.
+Regulatory policies can lean against emerging asset bubbles and the vulnerabilities that attend them by restraining financial institutions from excessively extending credit.
+In addition, such policies can build resilience in the financial system, enhancing its ability to absorb and shrug off unexpected losses from any source, including sharp asset price declines.
+Of course, monetary policy also has the power to lean against the growth of asset bubbles.
+While there could be situations in which monetary policy might be needed to try to limit the growth of a bubble, in my opinion such use would represent a failure of regulatory policy, which represents a more tailored response than the flattening out of aggregate demand that would likely result from contractionary monetary policy.
+Regulatory Tools Some of the significant regulatory tools for addressing asset bubbles--both those in widespread use and those on the frontier of regulatory thought--are capital regulation, liquidity regulation, regulation of margins and haircuts in securities funding transactions, and restrictions on credit underwriting.
+Without plumbing the depths of each type of tool, I'll say a few words about each as it relates to the curbing of excess credit growth that fuels asset bubbles and to mitigating the effects of a bubble's collapse.
+Capital Regulation Capital regulation--in particular, the imposition of minimum capital requirements-- increases capital and thereby improves the ability of regulated financial institutions to absorb losses and maintain lending after a bubble has burst.
+More capital reduces the probability of institutions' failure, with the added benefit of reducing the chance of funding runs due to loss of confidence.
+But because higher required capital also generally increases the cost of funding assets--by increasing the role of capital in the funding mix--it also raises the possibility of reducing the supply of credit from regulated institutions, making credit more expensive.
+Thus, higher capital requirements, to some degree, also lean against excessive credit growth that can fuel asset bubbles.
+Relevant capital regulation tools include a higher amount and quality of capital, such as is required under Basel III; leverage ratios, particularly the supplementary leverage ratio, if regulators increase it; the Basel III countercyclical capital buffer, which is designed to build resilience and lean against credit-fueled asset bubbles in a countercyclical manner; and capital surcharges.
+Supervisory stress testing and capital planning are related regulatory capital-focused tools.
+They not only increase resilience, but, by including assumed asset bubbles in their scenarios, they can also focus attention on specific assets, causing banking firms to build capital against unexpected losses in those assets.
+By focusing management attention on the downside risk posed by certain assets, and by increasing the share of capital in the funding mix, they can also lean against bank lending that supports inflated asset values.
+In addition, higher "sector-specific" risk weights and capital charges, applied to specific assets such as mortgages, potentially could be a more targeted way of addressing particular asset bubbles; however, these more targeted capital tools require an early understanding of the particular asset class that may be involved in a potential bubble.
+Whether financial regulators would be capable of spotting such specific asset bubbles early, and then of acting in a timely enough way to address such bubbles is, in my view, unlikely.
+Liquidity Regulation A second class of policies that addresses asset bubbles and their consequences is liquidity regulation.
+An example is the new Basel III liquidity coverage ratio.
+As I discussed earlier, an aspect of credit-driven asset bubbles is financial institutions' increased reliance on unstable short-term wholesale funding, a reliance that makes them vulnerable to heightened rollover risk, sudden losses of confidence, and funding runs.
+Liquidity regulation increases the stock of cash or easily marketable securities available to institutions in the event of a funding run or margin call.
+Liquidity regulation also discourages use of unstable short-term wholesale funding of illiquid longer-term assets in the first place.
+Truly liquid assets, such as cash or Treasury securities, are low-yielding, and being required to hold them means lower earnings.
+Therefore, minimum liquidity requirements raise the cost, and so reduce the amount of, liquidity risk taking, reducing the chances of a liquidity crisis and asset fire sales.
+In that sense, minimum liquidity requirements also lean against building vulnerabilities that could accompany the growth of an asset bubble.
+Indeed, regulators might vary liquidity requirements in a countercyclical way, with greater liquidity required during the development of credit-fueled asset bubbles, in order to regulate the amount of allowable maturity transformation.
+Margins and Haircuts A third class of policies that could be helpful in addressing credit-fueled asset bubbles is margins and haircuts on securities financing transactions.
+Such transactions could include, for example, bilateral repurchase transactions in which a brokerâ€“dealer, in order to fund its holdings of some security, borrows short-term from a money market mutual fund, while pledging a security of greater value as collateral.
+The excess of the value of the security over the amount borrowed at the time of the transaction is the "haircut."
+Haircuts protect the cash lender, since, if the borrower cannot repay, or chooses not to because collateral values have fallen, the lender can take and sell the collateral to satisfy its loan.
+The larger the haircut is at the time of the transaction, the greater the lender's protection; that is, the greater the likelihood that that the value of the security, when sold, will exceed the amount owed plus interest.
+Presumably, lenders assess their borrowers' riskiness and calibrate the amount of the appropriate haircut.
+Regulators should require them to do this consistently and prudently across the credit cycle.
+Haircuts tend to be cyclical: falling in good times, which adds to the growth of credit, and rising in busts, which contracts credit.
+A regulator could mitigate the cyclical behavior of haircuts and its consequences by establishing minimum haircuts that apply in both good and bad times.
+Calibrating minimum haircuts to the risks and volatility expected during bad times would make lenders more secure, increasing their resilience to losses.
+It could also make it more expensive to fund the purchase of the securities, and so could limit the amount of borrowing that could be supported by an asset of given value; this, in turn, might limit credit-fueled increases in the asset's price.
+In other words, by requiring increased margin, the growth of credit can be slowed and resiliency can be strengthened.
+Regulators can also simply require margin requirements to be increased in good times.
+This would lean against the growth of bubbles even if regulators had not yet discerned the particular type of asset bubble growing.
+Underwriting Restrictions The final class of policies that I'll discuss involves underwriting restrictions that can directly address asset bubbles and their consequences.
+When assets like houses are largely financed with borrowed money, it is possible to use tighter underwriting requirements to lean against credit extension and growing leverage.
+This could be done, for example, through regulatory actions that raise lenders' minimum down payment requirements or reduce borrowers' maximum permissible debt-to-income ratios.
+Such measures can be taken either on a one-time basis or as part of an explicitly countercyclical regime that "switches on" during a building asset bubble.
+In particular, regulators might impose minimum down payment requirements for property loans or their functional equivalent--maximum loan-to-value ratios.
+Such policies could both build resilience in the financial system and lean against developing credit excesses.
+They would build resilience in two ways.
+First, other things the same, higher minimum down payment requirements reduce the probability of default on loans.
+And second, higher requirements also imply a lower loss given default.
+Both effects imply greater resilience for the bank or other entity that made the loan or has an interest in it.
+Even a structural one-time upward adjustment in minimum down payment requirements--to a prudent level, above industry norms in buoyant times--could have a countercyclical effect in building resilience.
+Such a requirement could also moderate lender adjustments in minimum down payment requirements over the credit cycle: Minimum requirements would fall less in boom times, implying lower future loan losses than otherwise, and so would increase less in reaction during busts.
+In addition, by leaning against excessive credit expansion, such a policy could lean against developing asset bubbles and growing financial vulnerabilities.
+In a dynamic variant of this policy, minimum down payments prescribed by regulators could be implemented and would automatically vary over the credit cycle, tightening in booms and relaxing in busts.
+Tighter minimum down payment requirements in good times would likely reduce defaults and build lender resilience to later losses due to asset price declines.
+At the same time, by actively leaning progressively harder against property-related credit expansion, they may restrain excessive credit growth and property price appreciation, and reduce the chances--and magnitude--of a sharp price bust.
+There has been some experience with this type of policy in Hong Kong, Korea, Malaysia, and Singapore.
+In Hong Kong, for example, tighter down payment rules reduce household leverage and the sensitivity of defaults to changes in property prices, and have been shown to slow property appreciation.
+Prudential Supervision for All Financial Institutions I don't mean to suggest that all asset bubbles can be addressed by merely implementing some set of regulatory policies.
+Indeed, how easy our jobs would then be!
+In practice, such policies work best if they are part of a system of prudential supervision for all financial institutions.
+Of course, in the U.S. economy, savers and borrowers are linked not only through intermediaries like banks, but also through nonbanks, such as money market mutual funds and hedge funds, and through the capital markets and securitization.
+Regulation can only build resilience in, and affect intermediation and lending by, the parts of the system that are, in fact, regulated.
+Regulatory policies that aim to increase the resilience of regulated institutions, and lean against asset bubbles by restraining the growth of lending by such institutions, can be circumvented when financial activities migrate into less regulated parts of the financial system, parts likely farther from the protections of deposit insurance and the lender of last resort.
+Consequently, credit extension and associated vulnerabilities can increase outside of the heavily regulated banking system.
+In our current system of financial regulation--one that is diffuse and without a single, central regulator --the antidote to such differences in regulatory approach is to put a premium on a high level of cooperation and coordination among relevant financial regulators.
+Comprehensive financial regulation is required, but comprehensive financial regulation is not the same as unified financial regulation.
+Looking around this audience today, I see evidence of the fragmented American financial regulatory system.
+For example, we have representatives of banks regulated by the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the Federal Reserve, many in tandem with state bank regulators; we have bank holding companies regulated by the Fed; we have broker-dealers regulated by the Securities and Exchange Commission, we have exchanges regulated by the Commodity Futures Trading Commission; we have consumer financial products regulated by the Consumer Financial Protection Bureau; and we have insurance companies regulated by the state insurance commissioners.
+I could go on.
+Needless to say, it's a complicated regulatory system.
+And such a fragmented structure itself demands unusual and extensive degrees of coordination and cooperation among financial regulators so as to maximize the potential for comprehensive and harmonized regulation.
+Without such coordination and cooperation, there will be regulatory gaps and overlaps.
+From this perspective, it made sense to create yet another regulatory body--the Financial Stability Oversight Council--which is dedicated to the goal of coordination.
+The FSOC calls for agency head and senior-level staff participation of relevant financial regulatory bodies, requires regular meetings and reports on emerging risks to financial stability, and designates systemically important financial institutions.
+Making Regulatory Tools Work to Manage Emerging Risk and Create Resiliency Indeed, the goal of coordination among regulators is to make the regulatory tools work across the entire financial system.
+This strikes me as an important goal and the ultimate challenge for policymakers.
+The challenge arises not only from the fact that the regulatory system is fragmented, but also from the fact that, in order to work--indeed, in order to instill trust in the resiliency of the financial system--regulations need to be complied with by financial system participants and enforced by supervisors.
+The recent attention being paid to capital regulation, in particular, shouldn't distract us from the broader context and importance of compliance with, and enforcement of, the various capital rules.
+From the perspective of the hammer, everything looks like a nail.
+Similarly, from the perspective of the financial regulator, everything might look like a problem of insufficient capital.
+Instead, capital might, in fact, be sufficient but appear insufficient because of circumvention of compliance, or because of absent or delayed enforcement.
+To make regulation--any financial regulation--work, there must be on-site opportunities for supervisors to look for risk factors that, if not addressed, can lead to failure.
+There must be strong governance that is practiced by smart management teams and overseen by informed and engaged boards of directors.
+Loan loss provisioning must be appropriate, and regulators need to enforce such appropriate provisioning, as well as assess the prudence of the institutions' underwriting standards.
+Examiners of any financial institution must be able to spot early risks and articulate to institutions' management and boards of directors why such risks are, in fact, risks.
+And the identification of risks should be true risks, and not just new business practices that examiners have never seen before.
+Addressing risks should not be tomorrow's problem; troubled financial institutions should not be "fixed" by permitting larger firms to buy them without commitments to address the risks presented by the combined firms.
+Finally, the public needs to have faith that regulation is meaningful.
+The public has an interest in a strong financial system, and this interest needs to be articulated when regulation is crafted, implemented, and enforced.
+Concluding Thoughts Even within the regulated sector, crafting appropriate financial regulation to address asset bubbles is challenging.
+In reality, it is hard to know in real time when asset prices have deviated sharply from fundamentals.
+Asset price increases often initially reflect improving fundamentals and may only subtly and gradually change into reflections of speculative excess.
+Prior to the peak of housing prices, interest rates were low, making mortgage payments affordable; real incomes were rising; population was growing; and household formation was high--all "fundamental" determinants of the demand for housing and house prices.
+At some point, however, house prices were driven less by these fundamentals and more by speculation and weak underwriting.
+Ultimately, this drove house prices to unsustainably high levels.
+Regulatory intervention was much too late.
+The U.S. regulatory system is fragmented, and, hence, it takes time to choose and implement policies and calibrate them appropriately.
+It takes time to cooperate, coordinate, and harmonize responses.
+But such is today's imperative.
+We must complete in a timely fashion the post-Basel III and Dodd-Frank requirements.
+It is particularly important to increase the amount, and improve the quality, of required minimum capital; to continue stress testing and capital planning; and to reduce overreliance on unstable short-term wholesale funding.
+These reforms will build resilience to whatever shocks may come, and will reduce the potential for asset bubbles and excessive credit growth, leverage, maturity transformation, reliance on unstable short-term wholesale funding, and, thus, the potential for future financial crises.
+Still, if regulators become fixated on the tools at the expense of compliance and enforcement, the tools themselves will be meaningless.
+Only when such tools--be they capital-focused, liquidity-focused, margin--and haircut-focused, or underwriting-focused--are fully embedded into a comprehensive system of prudential regulation will they reach their potential in mitigating the growth of asset bubbles and providing resiliency against the awful consequences attendant to their destruction.
+Thank you for your time today.

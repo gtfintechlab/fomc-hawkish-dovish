@@ -1,0 +1,82 @@
+Unnamed: 0,sentence,label,score
+0,"At the Federal Reserve, we are strongly committed to achieving the monetary policy goals that Congress has given us: maximum employment and price stability.",LABEL_1,0.9789794683456421
+1,Today my colleagues on the FOMC and I kept interest rates near zero and maintained our sizable asset purchases.,LABEL_0,0.994732141494751
+2,"These measures, along with our strong guidance on interest rates and our balance sheet, will ensure that monetary policy will continue to deliver powerful support to the economy until the recovery is complete.",LABEL_0,0.9977419376373291
+3,"A resurgence in recent months in COVID-19 cases, hospitalizations, and deaths is causing great hardship for millions of Americans and is weighing on economic activity and job creation.",LABEL_0,0.9930551648139954
+4,"Following a sharp rebound in economic activity last summer, the pace of the recovery has moderated in recent months, with the weakness concentrated in the sectors of the economy most adversely affected by the resurgence of the virus and by greater social distancing.",LABEL_0,0.9986875653266907
+5,"In contrast, the housing sector has more than fully recovered from the downturn, supported in part by low mortgage interest rates.",LABEL_0,0.999032735824585
+6,"The overall recovery in economic activity since last spring is due in part to federal stimulus payments and expanded unemployment benefits, which have provided essential support to many families and individuals.",LABEL_0,0.9991833567619324
+7,"Overall economic activity remains below its level before the pandemic, and the path ahead remains highly uncertain.",LABEL_0,0.9987571239471436
+8,"As with overall economic activity, the pace of improvement in the labor market has slowed in recent months.",LABEL_2,0.990013599395752
+9,"Employment fell by 140,000 in December, as continued gains in many industries were outweighed by significant losses in industries where the resurgence of the virus has weighed further on activity.",LABEL_0,0.9920177459716797
+10,"The unemployment rate remained elevated at 6.7 percent in December, and participation in the labor market is notably below pre-pandemic levels.",LABEL_0,0.9982684850692749
+11,The pandemic has also left a significant imprint on inflation.,LABEL_1,0.9973500967025757
+12,"Following large declines in the spring, consumer prices picked up over the summer but have leveled out more recently.",LABEL_2,0.9988338351249695
+13,"For those sectors that have been most adversely affected by the pandemic, prices remain particularly soft.",LABEL_2,0.5135034918785095
+14,"Overall, on a 12-month basis, inflation remains below our 2 percent longer-run objective.",LABEL_0,0.9939893484115601
+15,"Finally, monetary policy is playing a key role in supporting the recovery and will continue to do so.",LABEL_0,0.993035614490509
+16,"The Fed’s response to this crisis has been guided by our mandate to promote maximum employment and stable prices for the American people, along with our responsibilities to promote the stability of the financial system.",LABEL_1,0.5631232261657715
+17,"Today we unanimously reaffirmed our Statement on Longer-Run Goals and Monetary Policy Strategy, as we typically do each January.",LABEL_2,0.9997875094413757
+18,"As we say in that statement, we view maximum employment as a “broad-based and inclusive goal.” Our ability to achieve maximum employment in the years ahead depends importantly on having longer-term inflation expectations well anchored at 2 percent.",LABEL_1,0.9947167038917542
+19,"As the Committee reiterated in today’s policy statement, with inflation running persistently below 2 percent, we will aim to achieve inflation moderately above 2 percent for some time so that inflation averages 2 percent over time and longer-term inflation expectations remain well anchored at 2 percent.",LABEL_0,0.9986968636512756
+20,We expect to maintain an accommodative stance of monetary policy until these employment and inflation outcomes are achieved.,LABEL_0,0.9987303614616394
+21,"With regard to interest rates, we continue to expect it will be appropriate to maintain the current 0 to ¼ percent target range for the federal funds rate until labor market conditions have reached levels consistent with the Committee’s assessment of maximum employment and inflation has risen to 2 percent and is on track to moderately exceed 2 percent for some time.",LABEL_2,0.7780529260635376
+22,"In addition, we will continue to increase our holdings of Treasury securities by at least $80 billion per month and of agency mortgage-backed securities by at least $40 billion per month until substantial further progress has been made toward our maximum-employment and price-stability goals.",LABEL_0,0.9945729374885559
+23,"The economy is a long way from our employment and inflation goals, and it is likely to take some time for substantial further progress to be achieved.",LABEL_2,0.5727611184120178
+24,"Our forward guidance for the federal funds rate, along with our balance sheet guidance, will ensure that the stance of monetary policy remains highly accommodative as the recovery progresses.",LABEL_0,0.9977692365646362
+25,Our guidance is outcome based and ties the path of the federal funds rate and the balance sheet to progress toward reaching our employment and inflation goals.,LABEL_2,0.999760091304779
+26,"Overall, our interest rate and balance sheet tools are providing powerful support to the economy and will continue to do so.",LABEL_2,0.9924401044845581
+27,The shock that the—from the pandemic was unprecedented both in its nature and in its size and in the amount of unemployment that it created and in the shock to economic activity.,LABEL_0,0.9001469612121582
+28,Our role assigned by Congress is maximum employment and stable prices and also look after financial stability.,LABEL_1,0.9503713846206665
+29,"So, in a world where, almost a year later, we’re, we’re still 9 million jobs, at least—that’s one way of counting it; it can actually be counted much higher than that—short of maximum employment and people are out of the labor force who were in the labor force—the real unemployment rate is close to 10 percent if you include people that’ve left the labor force—it’s very much appropriate that monetary policy be highly accommodative to support maximum employment and price stability, which is getting inflation back to 2 percent and averaging 2 percent over time.",LABEL_0,0.9980971217155457
+30,"And, you know, the things that we look at are—we do look at asset prices.",LABEL_2,0.999832272529602
+31,"But—so I would just say that our—that there are many things that go in, as you know, to, to setting asset prices.",LABEL_2,0.9997703433036804
+32,"So if you look at what’s really been driving asset prices, really, in the last couple of months, it isn’t monetary policy.",LABEL_2,0.9990418553352356
+33,"So I, I know that monetary policy does play a role there, but that’s how we look at it.",LABEL_2,0.999815046787262
+34,"And I think, you know, I think that the connection between low interest rates and, and asset values is probably something that’s not as tight as people think, because a lot of—a lot of different factors are driving asset prices at any given time.",LABEL_2,0.9993471503257751
+35,"So, you know, that’s—as you know, that’s one of the very difficult questions in all of monetary policy.",LABEL_2,0.9997897744178772
+36,"And we don’t rule it out as a theoretical matter, but we, we clearly look to macroprudential tools, regulatory tools, supervisory tools, other kinds of tools rather than monetary policy in, in addressing financial stability issues.",LABEL_2,0.9998263716697693
+37,"It’s not—you know, the, the monetary policy we know strengthens economic activity and job creation through fairly well-understood channels.",LABEL_2,0.9989569187164307
+38,"So, on inflation, a couple of things—there are a couple of things that are worth mentioning.",LABEL_2,0.9996989965438843
+39,One is just that we know that we measure inflation on a trailing 12-month basis.,LABEL_2,0.999737560749054
+40,"And as we—as we lap the very low inflation readings of March and April of last year, we’ll see measured 12-month inflation move up a few tenths.",LABEL_1,0.9988289475440979
+41,"There’s also the possibility—indeed, it’s in some forecasts—that as the economy fully reopens, there’ll be a burst of spending, and—because people will be enthusiastic that the pandemic is over, potentially, and that that could also create some upward pressure on inflation.",LABEL_1,0.9991770386695862
+42,Expect us to wait and see and not react if we see small and what we would review—we would view as very likely to be transient effects on inflation.,LABEL_2,0.9997634291648865
+43,"I think if you—you know, it helps to look back at, at the inflation dynamics that the United States has had now for some decades and notice that there has been, you know, significant disinflationary pressure for some time, for a couple of decades.",LABEL_0,0.989615797996521
+44,Inflation has averaged less than 2 percent for a quarter of a century.,LABEL_2,0.8550559282302856
+45,"And the inflation dynamics, with the flat Phillips curve and low persistence of inflation, is very much intact.",LABEL_0,0.9496856927871704
+46,"We understand that inflation dynamics evolve constantly over time, but they don’t change rapidly.",LABEL_2,0.9997583031654358
+47,"So we think it’s very unlikely that anything we see now would result in, you know, troubling inflation.",LABEL_2,0.9997841715812683
+48,"Of course, if we did get sustained inflation at a level that was uncomfortable, we have tools for that.",LABEL_1,0.9731773734092712
+49,"It’s far harder to deal with, with too low inflation.",LABEL_0,0.7678744792938232
+50,"We know what to do with higher inflation, which is, you know, should the need arise, we, we would have those tools.",LABEL_1,0.9981939196586609
+51,"In terms of how much, you know, what we’ve said is we’d like to see—because inflation has been running persistently below 2 percent, we’d like to see it run moderately above 2 percent for some time.",LABEL_0,0.9964244961738586
+52,"And, again, we’ll seek inflation moderately above 2 percent for some time.",LABEL_0,0.9953267574310303
+53,"And we’ll, we’ll show what that means when we get inflation above 2 percent.",LABEL_2,0.9995684027671814
+54,"And that includes—you know, that includes us at the Fed, monetary policy.",LABEL_2,0.9997828602790833
+55,"I mean, remember, we’re, we’re focused on maximum employment, price stability, financial stability as I defined it—the broad financial sector.",LABEL_1,0.9812994599342346
+56,We think it’s providing significant support for economic activity and hiring.,LABEL_0,0.9905553460121155
+57,"We, you know, we, we adopted a new monetary policy framework of flexible average inflation targeting in August.",LABEL_1,0.944348931312561
+58,"So we now have, you know, strong guidance on, on rates and on asset purchases that’s providing very strong support for economic activity.",LABEL_1,0.7584418058395386
+59,We raised interest rates.,LABEL_1,0.9984443783760071
+60,"I, I would say that, again, we have been struggling with disinflationary forces for some time.",LABEL_0,0.99873286485672
+61,"If you look around the world—look in Western Europe, look at Japan—around the world, large economies have, have felt much more downward pressure on inflation, have fallen short of their inflation goals, for some time now.",LABEL_0,0.9975605010986328
+62,"Notwithstanding that, inflation dynamics in the United States have, have consisted of a flat Phillips curve and low persistence for, for a long time.",LABEL_0,0.8348371982574463
+63,"I’m more concerned about that than about the possibility, which exists, of higher inflation.",LABEL_2,0.9992502331733704
+64,"Frankly, we welcome slightly higher inflation, somewhat higher inflation.",LABEL_1,0.9969525337219238
+65,"The kind of troubling inflation that people like me grew up with seems, seems far away and unlikely in, in the both domestic and global context that we’ve been in for some time.",LABEL_1,0.9371674060821533
+66,Right across the board: much higher forecasts for 2021 growth.,LABEL_1,0.9729903340339661
+67,"We’re just going to look at bank—we’re going to look at the whole range of, of information, including economic activity, banking activity, the, the success in vaccination.",LABEL_2,0.9998440742492676
+68,"Some of the, the tightness in housing markets, we think—which has led to the, the significant price increases this year—we think is, is a passing phenomenon.",LABEL_1,0.8657318949699402
+69,There was a lot of pent-up demand.,LABEL_2,0.5363571643829346
+70,"So there’s just—there’s a—there’s a one-time shift in demand that we think will get satisfied—also, that will call forth supply.",LABEL_0,0.8368735313415527
+71,"And that will—that will, we think—we think that those price increases are unlikely to be sustained for, for all of those reasons.",LABEL_1,0.9882062077522278
+72,"And, you know, they’ve gotten a lot of support from fiscal policy and some from monetary policy.",LABEL_2,0.9997836947441101
+73,"I think if you look at either—look at employment gaps or unemployment gaps or wage gaps, wealth gaps, homeowning gaps, all of those persistent gaps that exist even controlling for many other factors, you will see that they’re, they’re persistent, they’re—and they’re very difficult to explain.",LABEL_2,0.9994927644729614
+74,"And so it’s—the reason we talk about inequality and, and racial inequality in particular, is that it goes to our job, which is to achieve maximum employment, which, which links up with, with—we want—we want the potential output of the United States to be as high as it can possibly be.",LABEL_0,0.9663951992988586
+75,"Principally, when we say that the maximum employment is a, a broad and inclusive goal, what we’re—what we’re saying there is, we’re not just going to look at the headline—and we never did, really, but—we’re not going to just look at the headline numbers.",LABEL_0,0.7272610068321228
+76,"And we’re not going to say that we’ve reached maximum employment, which is our statutory goal, until we’ve reached maximum employment.",LABEL_0,0.9979496598243713
+77,"The other thing, though, even conditional on that, when we saw the wave in the South and the West, the wave of cases this summer, I think, intuitively, having seen what happened in March and April, we expected there to be a significant hit to economic activity.",LABEL_0,0.9829262495040894
+78,"And, and it didn’t actually—it had a much smaller effect on economic activity than we expected.",LABEL_2,0.9997122883796692
+79,"You know, even purchasing manager index and sentiment indexes on, on areas of the economy that are not directly—really directly—exposed to the pandemic in their economic activity, they’re doing okay.",LABEL_2,0.9995865225791931
+80,That’s the single most important economic growth policy that we can have.,LABEL_2,0.9548777937889099

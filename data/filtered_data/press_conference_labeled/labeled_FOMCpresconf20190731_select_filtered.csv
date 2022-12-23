@@ -1,0 +1,58 @@
+Unnamed: 0,sentence,label,score
+0,"It is intended to insure against downside risks from weak global growth and trade policy uncertainty, to help offset the effects these factors are currently having on the economy, and to promote a faster return of inflation to our symmetric 2 percent objective.",LABEL_0,0.999018669128418
+1,"All of these objectives will support achievement of our overarching goal: to sustain the expansion, with a strong job market and inflation close to our objective, for the benefit of the American people.",LABEL_1,0.9705048203468323
+2,And I’ll discuss the thinking behind today’s interest rate reduction and then turn to the path forward.,LABEL_0,0.9970489144325256
+3,"As the year began, both the economy and monetary policy were in a good place.",LABEL_2,0.9934992790222168
+4,"The unemployment rate was below 4 percent, and inflation had been running near our 2 percent objective for nine months.",LABEL_2,0.9551897048950195
+5,Our interest rate target was at the low end of estimates of neutral.,LABEL_2,0.9997320771217346
+6,"Over the first half of the year, the economy grew at a healthy pace and job gains pushed unemployment to near a half-century low.",LABEL_1,0.9986146688461304
+7,This underscores for us the importance of sustaining the expansion so that the strong job market reaches more of those left behind.,LABEL_1,0.6105002760887146
+8,"Through the course of the year, weak global growth, trade policy uncertainty, and muted inflation have prompted the FOMC to adjust its assessment of the appropriate path of interest rates.",LABEL_0,0.9909402132034302
+9,"The median Committee participant’s assessments of the neutral rate of interest and the longer-run normal rate of unemployment have also declined this year, reinforcing the case for a somewhat lower path for our policy rate.",LABEL_0,0.9972041845321655
+10,These changes in the anticipated path of interest rates have eased financial conditions and have supported the economy.,LABEL_0,0.912795901298523
+11,"Job growth was strong in June and, looking through month-to-month fluctuations, the data point to continued strength.",LABEL_1,0.9988093376159668
+12,We expect job growth to be slower than last year but above what we believe is required to hold the unemployment rate steady.,LABEL_2,0.9140223264694214
+13,GDP growth in the second quarter came in close to expectations.,LABEL_2,0.9926879405975342
+14,"Foreign growth has disappointed, particularly in manufacturing and notably in the euro area and China.",LABEL_2,0.84531170129776
+15,The domestic inflation shortfall has continued.,LABEL_2,0.8893451690673828
+16,"Core inflation, which excludes food and energy prices and is a better gauge of future developments than is total inflation, has run at 1.6 percent over the past 12 months.",LABEL_0,0.9782015085220337
+17,We continue to expect that inflation will return over time to 2 percent.,LABEL_2,0.8692474365234375
+18,"But domestic inflation pressures remain muted, and global disinflationary pressures persist.",LABEL_2,0.9968085885047913
+19,"Wages are rising, but not at a pace that would put much upward pressure on inflation.",LABEL_0,0.9968081116676331
+20,"We are mindful that inflation’s return to 2 percent may be further delayed, and that continued below-target inflation could lead to a worrisome and difficult-to-reverse downward slide in longer-term expectations.",LABEL_2,0.9905321598052979
+21,"Over the year, however, incoming information on global growth, trade policy uncertainty, and muted inflation have led the Committee to gradually lower its assessments of the path of policy interest rate that would best support that outlook.",LABEL_0,0.9983150959014893
+22,"Today, we judge that those factors warrant the policy adjustment I described: “As the Committee contemplates the future path of the target range for the federal funds rate, it will continue to monitor the implications of incoming information for the economic outlook and will act as appropriate to sustain the expansion, with a strong labor market and inflation near its symmetric 2 percent objective.” Thank you.",LABEL_0,0.9989621639251709
+23,"In terms of the rest of your question, the Committee is really thinking of this as a way of adjusting policy to a somewhat more accommodative stance to further the three objectives that I mentioned: to insure against downside risks, to provide support to the economy, that those factors are—where factors are pushing down on economic growth, and then to support inflation.",LABEL_1,0.9606267809867859
+24,"What we’ve been monitoring since the beginning of Chair Powell’s Press Conference FINAL the year is, effectively, downside risks to that outlook from weakening global growth, and we see that everywhere: weak manufacturing, weak global growth now, particularly in the European Union and China.",LABEL_0,0.9825069308280945
+25,"In addition, we see trade policy developments, which at times have been disruptive and then have been less so, and also inflation running below target.",LABEL_0,0.9983766078948975
+26,"You know, I—I really think it does, and I think the evidence of my eyes tells me that our policy does support—it supports confidence, it supports economic activity, household and business confidence, and through channels that we understand.",LABEL_0,0.9844868779182434
+27,You see economic activity on a healthy basis.,LABEL_2,0.9911912083625793
+28,"I mean, I think we—of course, you know, what we do at every meeting, as I noted, is, we do a deep dive into U.S. economic activity and global activity and, certainly, carefully went through U.S. economic activity, which there has been some positive and some negative, but, overall, the U.S. economy has shown resilience during the intermeeting period.",LABEL_1,0.9979640245437622
+29,"But, again, the—the issue is more the downside risks and then the shortfall in inflation, and we’re trying to address those.",LABEL_2,0.9996474981307983
+30,"We’ll be monitoring the evolution of trade uncertainty, of global growth, and of low inflation.",LABEL_0,0.9936677813529968
+31,"So I gave three reasons for what we did, and that is to insure against downside risks to the outlook from weak global growth and trade tensions.",LABEL_0,0.5556014776229858
+32,But we also feel like weak global growth and trade tensions are having an effect on the U.S. economy.,LABEL_0,0.998985230922699
+33,"You see it July 31, 2019 now in the second quarter: You see weak investment, you see weak manufacturing—so support Chair Powell’s Press Conference FINAL demand there and also to support return of inflation to 2 percent.",LABEL_0,0.9981710910797119
+34,"And it is not—it’s not exactly the same as watching global growth, where you see growth weakening, you see central banks and governments responding with fiscal policy, and you see growth strengthening, and you see a business cycle.",LABEL_0,0.9989834427833557
+35,"You mentioned lower r*, trade slowdown—and I would actually add, lower natural rate of unemployment too has moved down, all of which July 31, 2019 kind of point to more accommodation.",LABEL_0,0.9970184564590454
+36,Growth in the first half of this year is about the same as it was in all of ’18 and actually a little better than our forecast for growth in 2019—at the end of 2019.,LABEL_0,0.9820712208747864
+37,"So I think, in a way, that’s monetary policy working.",LABEL_2,0.9920179843902588
+38,"So, you know, I can’t—all I can tell you is, we’ll be looking at weak global growth.",LABEL_2,0.9979339838027954
+39,"So we will see whether growth is picking up, whether it’s bottoming out.",LABEL_0,0.9973377585411072
+40,"I think we’ll continue to learn more, and on inflation we will.",LABEL_2,0.9956135749816895
+41,What you hear is that demand is weak for their products.,LABEL_2,0.9997336268424988
+42,"I think global—global growth started to slow down in the middle of last year, but that has gone on to a greater extent.",LABEL_0,0.9793310761451721
+43,"And that’s what we’re going to be looking—you know, we’ll Chair Powell’s Press Conference FINAL be looking at incoming data, at all of the—at the risks that I mentioned, and the performance of the U.S. economy, and at low inflation.",LABEL_0,0.9981362819671631
+44,Inflation is not troublingly high.,LABEL_1,0.6421160697937012
+45,"But, I would say, overall, we’re trying to sustain the expansion and keep, you know, close to our statutory goals, which are maximum employment and stable prices.",LABEL_2,0.7822133898735046
+46,"And, you know, just to touch on that again, this action is designed to insure against downside risks to the outlook from weak global growth and trade tensions, offset the negative effect that those factors are already having, and promote a faster return of inflation to 2 percent.",LABEL_1,0.9972172975540161
+47,We also don’t conduct monetary policy in order to prove our independence.,LABEL_0,0.9942725896835327
+48,"We conduct monetary policy in order to—to move as close as possible to our statutory goals, and that’s what we’re always going to do.",LABEL_2,0.9997923970222473
+49,"And I think all of that gives us the ability to use monetary policy for its purposes and rely on supervisory and regulatory tools to—you know, to keep the financial system resilient.",LABEL_2,0.9745017886161804
+50,"But the things we haven’t missed, I think they paint a mixed picture, but not one that should prevent us from taking monetary policy actions that we think are appropriate to support the economy.",LABEL_2,0.9994783997535706
+51,"So they’re—you know, they—they will be under the growth cap, our enforcement action, until the Board votes to lift it, and that’s not something we’re considering doing right now.",LABEL_2,0.9995173215866089
+52,"And, you know, we’ll lift the growth cap when we’re satisfied.",LABEL_2,0.4921385645866394
+53,So the monetary policy review is really for—it’s really there to look at the way we make policy in the longer run.,LABEL_2,0.9947840571403503
+54,"You know, you have—10 years after the crisis, you’re really living in a new normal for the economy and monetary policy, and it’s a really good time to step back and ask whether there are some things that we can do to improve our framework.",LABEL_2,0.9997590184211731
+55,"We do know that monetary policy works through communications and then actions that are consistent with those communications, and we think that the changes that we’ve made this year have really worked.",LABEL_2,0.9997559189796448
+56,"And, of course, we are concerned about—about low inflation.",LABEL_2,0.9997782111167908

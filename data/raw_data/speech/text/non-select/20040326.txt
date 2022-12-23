@@ -1,0 +1,82 @@
+I remember all of them from long ago.
+Peter and I joined the Board staff in September 1965, when Pat Hendershott and Bob Parry also joined.
+At least in terms of longevity, that was a pretty significant hiring month.
+I remember being on a panel with Dick at an academic conference in those days.
+He had not yet joined the Board, being an assistant professor at Ohio State.
+Being thoroughly a Michigan man now, I probably should not admit it, but I also met him, along with Dave Lindsey, when I interviewed for a job at Ohio State.
+The job interview didn't pan out, I think mainly on my side but perhaps on theirs too.
+I also knew Dale back then.
+He joined the Board shortly after I left, but I met him socially in the early 1970s.
+Frankly, I still remember one thing he said to me.
+When I mentioned that I used to be on the Board's staff, he said he knew--he had read some of my stuff.
+"Well," I said expectantly.
+"Oh, some of it's OK," he said.
+With his subsequent international exposure, Dale has gotten much more diplomatic over the years.
+All three principals have made great contributions to economic modeling at the Board.
+Peter started with optimal control techniques and distributed lags, and continued with rational expectations estimation procedures.
+Dick's work focused on money demand and monetary control techniques.
+Dale was instrumental in developing the Board's global model.
+All three have generally promoted research at the Board, helped younger scholars get established, sponsored working paper series, and fought for better computers and other support.
+As for the models themselves, the topic of the conference, I feel like Rip Van Winkle.
+In the very early days, 1965-70, I was here and indeed right in the middle of the producer side of the model work.
+Then I went off and did other things for twenty-seven years, returning in 1997 as a consumer of models.
+Things changed a lot in those twenty-seven years.
+Most of you are reasonably familiar with what the model looks like now.
+But apart from the real graybeards, the three principals and I, most of you were probably in grade school when this work actually started.
+Let me recall a few stories from the old days.
+The main motivator at the Board in those days was Frank de Leeuw.
+For all who knew Frank, he was one of the most "market undervalued" economists of all time.
+All the young people at the Fed then felt he walked on water.
+Frank formed a team of economists here--Tinsley, Hendershott, Al Tella, and me among others--and an academic team featuring the late Franco Modigliani from MIT and the late Albert Ando from Penn.
+Bob Rasche, now research director at the St. Louis Fed, and Harold Shapiro, later to be my university president at Michigan, were also junior professors at Penn and part of the team.
+Jerry Enzler, whom many of you remember fondly, as I do, was somewhere in transition, starting as a Penn graduate student and moving to the Board staff, where he too stayed many years.
+The model we put together in those days has been enshrined in publications and I won't describe it much.
+It probably had about the coverage of the present day FRBUS, and it had many of the then exotic channels of monetary policy.
+There was a consumption-wealth effect working through equity values and housing values, and both of those prices were endogenous.
+At one point, Franco got one of his graduate students, a lively kid named Larry Meyer, to do his thesis on this link.
+There was a foreign sector, but exchange rates were exogenous because we had pegged rates back then.
+There was also a credit-rationing channel based largely on the work of another Franco graduate student, Dwight Jaffee, who is now an authority on government-sponsored enterprises at Berkeley.
+What we didn't have in those days was forward-looking expectations behavior.
+In qualitative terms we all knew the difference between adaptive and rational expectations, but nobody knew how to estimate rational expectations equations.
+This is one area where technical work over the years has made a large difference, and I gather that several people in the room, especially Peter Tinsley, have been responsible.
+In more immediate terms, the aspect of the model that still recalls frustration was that whenever we ran dynamic full-model simulations, the simulations would blow up.
+I can't tell you how many hours Jerry Enzler and I spent feeding in our regression cards, and our simulation cards, to work on this issue.
+Yes, we fed in punch cards in those days.
+Nowadays when Board economists present the results of dynamic simulations in briefings, and the simulations look very reasonable, I think I am one of the few people in the room who is deeply impressed.
+Doctrinal historians will have fun with the naming of this model.
+Whenever Board people wrote about it, it was the Fed-MIT model, or perhaps the Fed-MIT-Penn model.
+When Ando wrote it became the MPS model--MIT-Penn-Social Science Research Council model.
+All the Social Science Research Council did was to give Ando a grant.
+And where was the Fed?
+We did do a lot of the early work on the model.
+A number of people have raised questions about monetary and fiscal policy itself in the 1960s--how could policy have been so misguided?
+First off, let me say that the modeling group was quite aware of the natural rate hypothesis then.
+We knew that an adaptive expectations Phillips Curve would explode if the lag coefficient was one--we just couldn't get its estimated value to be one.
+We had yet to apply Kalman filters or other split-sample techniques and were yet to realize the problems with the sum of the lagged coefficients test.
+But even apart from lag effects, as papers by Bill Poole (another Division of Research and Statistics staff member from those days), George de Menil (another Franco student), and Jerry Enzler show, our nonlinear Phillips Curves became very, very steep at low unemployment rates, implying that inflation would become uncontrollable at low unemployment rates.
+On the point Athanasios Orphanides raises about the value of the natural rate, we probably were wrong about that.
+I remember being stunned by a Bob Hall paper in the 1970s that placed the natural rate at about 5 percent.
+By the way, in the mid-1970s Franco began calling this rate NIRU, and later Jim Tobin, I think, switched it over to NAIRU.
+But the main problems with policy in those days were, um, with the policymakers.
+First off, presidential interference on discount rate policy got the discount rate set below the funds rate in 1965, a problem we never fixed until two years ago.
+I think this artificially low discount rate may have held down the funds rate, leading to the overly expansionary monetary policy amply documented by John Taylor.
+It was obvious to virtually all economists that the country needed a permanent budget shift as Vietnam spending increased, but what came out of that was a delayed temporary tax increase.
+Anything else would have made the war less popular, and by then the Vietnam War was pretty darn unpopular.
+Quite possibly, our intellectual understanding was not where it should have been in the late 1960s, but 90 percent of the policy problems were political, with the policymakers themselves.
+These days the Board staff makes a baseline forecast and grafts on FRBUS to get the results for alternative scenarios.
+We actually began to do these types of experiments once our model was put together in the late 1960s.
+I was dying to present the results to the Board, but never could get past Lyle Gramley, our sponsor but also our gatekeeper.
+He didn't trust the model enough when it was used as a pure forecasting device.
+Then, as I suppose now, we had the most trouble forecasting equipment investment--most of the other final demand sectors worked pretty well.
+The investment accelerator was also the reason our dynamic simulations ran off-track.
+When we would suspend the investment equation, things would work reasonably well.
+I have heard the modern day staff complain about estimating an accelerator effect for equipment and software and, believe me, I am sympathetic.
+Another place where the intervening years have made a real difference is the way in which the baseline forecast itself was put together.
+In our day it was totally anticipations data--leading indicators of this or that, for a quarter or two ahead at most.
+Today I hear Dave Stockton describe the baseline forecast in very model-oriented terms--this effect, that coefficient, and so forth.
+Nowadays the baseline forecast also runs out a few years, something the judgmental forecasters of earlier days would never have attempted, and it even has measures of forecast uncertainty.
+All of these are real improvements, far beyond what was done in the 1960s.
+For me, this work all came to an end in May 1970.
+At the time I felt we had brought the model as far as I thought we could bring it, at least for a while, and I really wanted to do some other kind of economics.
+Whether the external pastures were in fact greener I will never know--they just seemed greener at the time.
+So I left the Board staff, confident that I would never return either to the Board or to large-scale macro modeling.

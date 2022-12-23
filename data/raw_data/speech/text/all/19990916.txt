@@ -1,0 +1,33 @@
+I'm appearing here today in my role as head of the Federal Reserve's Year 2000 project.
+As you know, the Fed provides the crucial infrastructure that undergirds the nation's banking system.
+It distributes currency and coins and processes checks and electronic payments.
+It's vitally important to the nation that this infrastructure function smoothly through the rollover to the new century.
+We are confident it will.
+System Readiness By June 30, 100 percent of the Fed's mission-critical systems were certified as Y2K-ready.
+That is, they were fixed and are now in daily use.
+This includes all of the systems that support electronic funds transfer, book-entry securities transfer and check payments.
+Not only are we ready, but the major users of our most critical payments services - depository institutions serving millions of Americans - are ready too.
+They have tested their systems with our system, using the Year 2000 date.
+The results of these tests, involving more than 9,000 institutions, have assured us that the nation's banks will be able to send and receive funds through the Federal Reserve on January 1 and thereafter.
+Now, I don't want to imply that this effort has been easy.
+We estimate we have reviewed and certified 90 million lines of code.
+As a result of this tremendous amount of very good work, I am convinced that we are as ready for business on January 1, 2000, as we are for business tomorrow.
+Internationally, a test in June of 34 separate national and international payments systems in 19 countries showed a high level of readiness.
+More than 500 financial institutions successfully completed simulated Year 2000 transactions on the systems.
+Liquidity Issues In addition to fixing our computer hardware and software, we have taken a number of actions to ensure that both consumers and businesses have access to liquid funds during the rollover.
+As most of you know, the Fed increased its 1999 currency order to the Treasury Department's Bureau of Engraving and Printing to make sure we had enough cash in our vaults to meet any additional demand related to the date change.
+We have stressed that we see no need for the public to hold additional cash.
+We feel strongly the most sensible thing to do with your money is to leave it where it is, but our responsibility is to make sure the public knows that currency is readily available.
+And it is.
+We finished building up our currency inventory in August, and depository institutions are arranging to have a large amount of extra cash in their vaults as well.
+Separately, the Board has taken several steps to ensure bank and thrift customers continuous access to funding.
+First, we advised the industry to make the advance arrangements necessary to borrow at the discount window, and many already have done so.
+And we created an administrative structure to more easily serve the backup needs of credit unions.
+We also created a special liquidity facility to provide banks and thrift institutions access to funds at a predetermined price.
+This borrowing arrangement will be available starting October 1.
+Its creation sends a clear message: The Fed will be there to provide liquidity should banks need it.
+That, in turn, will enable banks to offer their customers a similar assurance.
+Earlier this month, the Federal Reserve Bank of New York announced several changes to its daily open-market procedures intended to ensure the smooth operation of financial markets around the century rollover.
+All of these actions have a common theme.
+They are meant to build confidence that the Fed is determined to play its traditional role as a provider of liquidity in uncertain times.
+Summary In sum, our systems are ready.

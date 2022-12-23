@@ -1,0 +1,256 @@
+As a forecaster, I had learned that neither my students nor my clients wanted to be buried in reams of computer output.
+They wanted me to tell a story that brought together in a coherent way the implications of the large number of economic indicators they saw as otherwise unconnected and therefore confusing.
+Since joining the Board, I have tried to continue this approach, focusing in particular on the forces behind the extraordinary macroeconomic performance over the past several years and their implications for the outlook and monetary policy.
+My story this morning has five chapters on how the economy and monetary policy have adjusted, and must continue to adjust, to the acceleration of productivity and to the oil and other relative-price price shocks that have been so important in shaping macroeconomic performance since the mid-1990s.
+In chapter 1, I identify the short-run effects of higher productivity growth--specifically, the effects on aggregate demand and on inflation--and assess the implications of these two effects for the conduct of monetary policy.
+In chapter 2, I note the favorable choice that confronts policymakers as the economy adjusts to an acceleration in productivity--the choice between temporarily lower unemployment, lower inflation, or some combination--and explain how the response of monetary policy determines this choice.
+That leads me directly to chapter 3 and my interpretation of recent monetary policy strategy.
+In chapter 4, I discuss a transition to a period of slower growth and possibly higher inflation, a transition that in all likelihood we will make at some point.
+I interpret this as part of the continuing adjustment to the acceleration in productivity growth and part of the convergence to sustainable utilization and inflation rates.
+In my final chapter, I turn to how the swings in oil prices have interacted with the acceleration in productivity to shape recent economic performance.
+The effect of both of these shocks on inflation could reverse, and the balance between them could then turn out to be a powerful influence on the performance of the economy.
+The story I am sharing with you this morning is mine.
+I am not speaking for the Federal Open Market Committee or the Board of Governors.
+In addition, there may be reasonable questions about whether this story should be classified as fiction or nonfiction.
+Only time will tell.
+But it is fair to say that the views presented here are not part of the conventional wisdom, in part because a consensus has not yet been reached about the short-run effects of an acceleration in productivity.
+It will take the benefit of historical perspective and additional data to achieve such a consensus.
+But policy has to be made in real time.
+It is in that spirit that I offer these observations.
+1.
+The Short-run Effects of an Acceleration in Productivity Growth We do not have many opportunities to learn about how the economy responds to major accelerations or decelerations in productivity.
+Figure 1 depicts the pattern in trend productivity growth from the 1960s to the first half of 2000.
+Trend productivity growth is an estimate of how productivity growth would evolve in the absence of cyclical swings in output and employment.
+As you can see in figure 1, trend productivity growth in the early 1970s slowed from a 3 percent rate over the previous decade to about a 1-1/2 percent pace and remained at this lower rate until the mid-1990s.
+At that point, productivity sharply accelerated.
+The figure undoubtedly overstates the abruptness of the decline in the early 1970s and the constancy of trend productivity on either side of this point and oversimplifies the pattern of acceleration since the mid-1990s.
+In figure 1 the pattern of acceleration is simply a straight line from the earlier period of low productivity growth to an upper-end estimate of trend productivity today.
+A more sophisticated estimate of the trend is given in figure A.1, in the appendix.
+But the important message in both figures is that there have been two dramatic and persistent changes in trend productivity growth during the postwar period--the deceleration in the early 1970s and the acceleration in the mid-1990s.
+Economists don't agree yet on how much productivity has accelerated.
+Estimates among private forecasters of trend productivity growth cluster in a range of 2-1/2 percent to 2-3/4 percent with the upper end in the neighborhood of 3 percent to 3-1/2 percent.
+The upper-end estimate would be consistent with an increase in potential output growth to about 4 percent to 4-1/2 percent, compared with potential output growth of about 2-1/2 percent prior to this acceleration.
+The principal sources of the recent acceleration in productivity appear to be the information technology revolution, the related more rapid decline in the relative price of computers and communication equipment, and the resulting surge in capital spending that has raised the growth of capital services relative to that of labor.
+Because we have little experience with major and persistent decelerations or accelerations in trend productivity, economists have not arrived at any consensus on how the economy responds to them.
+In the case of a sustained increase in productivity growth, it is obvious that the long-run effects include a higher sustainable rate of growth in output.
+Economic theory also suggests that, all else equal, the equilibrium real interest rate will increase.
+But there is less agreement about the shorter-run effects of an acceleration in productivity.
+The events of the past few years have provided an opportunity to learn more about them.
+This experience, in my view, points to two key short-run macroeconomic consequences of an acceleration in productivity: the demand effect and the direct disinflationary effect.
+I should note that both of these effects remain as open, empirical questions.1 Although these influences may be temporary, they can dominate the economic outlook for a number of years following an acceleration in productivity.
+While the persistent effect of acceleration in productivity is a higher rate of sustainable growth, the short-run effects appear to have added a temporary bonus that, in my view, has contributed importantly to the truly exceptional performance over the last several years.
+Specifically, they added to the increase in growth in real activity and were the source of simultaneous declines in unemployment and core inflation during much of this period.
+These developments have created a powerful set of crosscurrents that challenge monetary policymakers.
+The demand effect refers to the stimulus to aggregate demand from the forces that underlie the acceleration in productivity.
+The information technology revolution, for example, has set off an investment boom.
+The boom was triggered by the profitable opportunities associated with exploiting the new technologies, by the associated declines in the relative prices of high-tech equipment, and by the decline in the cost of financing high-tech investments as a result of higher equity prices.
+The information technology revolution also set off a consumption boom triggered by the wealth effect associated with higher equity prices and by a projected higher path of labor income.
+Recent experience suggests that this surge in demand may, at least for a while, overwhelm the increase in potential output growth, resulting in a steady decline in the unemployment rate.
+At the same time, an acceleration in productivity also appears to have a direct disinflationary effect.
+This arises, in my view, because of an asymmetry in the response of wages and prices to the acceleration in productivity, perhaps because salaries and wages are typically adjusted only once a year or, perhaps because of wage norms that cause employees to expect compensation growth similar to the experience over previous years.
+Whatever the reason, nominal wages initially do not appear to respond very much to the acceleration in productivity.
+As a result, the higher productivity lowers the cost of production.
+This has the immediate effect of raising profits, but competition soon puts downward pressure on prices, lowering inflation.
+The lower inflation, in turn, restrains nominal wage demands, contributing for a time to a virtuous cycle of lower wage change and price inflation.
+In the appendix, I present a simple model that incorporates this asymmetric response.
+The demand and direct disinflationary effects have conflicting implications for inflation.
+The above-trend growth associated with the demand effect lowers the unemployment rate, and the tighter labor market puts upward pressure on inflation.
+The direct disinflationary effect, on the other hand, lowers inflation for any given unemployment rate.
+The net effect could be steady, rising, or falling inflation--depending on whether productivity continues to accelerate and on how low the unemployment rate is driven in the process.
+And, of course, the appropriate course of monetary policy depends on the balance between these two effects.2 The interaction of these two short-run effects can also be explained in terms of the relationship between the unemployment rate and the nonaccelerating inflation rate of unemployment (NAIRU).
+The NAIRU is the unemployment rate consistent with steady inflation.
+In computing the NAIRU, the customary practice is to abstract from shocks that directly affect inflation over and above the influence of demand pressure--for example, accelerations or decelerations in trend productivity and swings in the relative price of oil are not taken into consideration.
+In fact, if there were no shocks, the direction of inflation ultimately would be uniquely determined by the relationship between the unemployment rate and the NAIRU.
+The NAIRU constructed in this way is best thought of as being a long-run value that is relevant once the economy has fully adjusted to any shocks or in the absence of such shocks.
+But, of course, additional shocks almost always directly affect inflation, most often on the supply side of the economy.
+One, therefore, must take into account both the demand pressures captured by the relationship between the unemployment rate and the NAIRU and supply shocks.
+Alternatively, one could derive an alternative measure of the NAIRU that took into account the supply shocks.
+By its nature, such an adjusted NAIRU would be more of a short-run concept.
+Because an acceleration in productivity initially lowers inflation for any given unemployment rate, it also lowers the unemployment rate consistent with steady inflation in the near term.
+That is, the direct disinflationary effect lowers the short-run NAIRU relative to its long-run value.
+Whether or not inflation will rise or fall in the immediate aftermath of an acceleration in productivity cannot be judged therefore by comparing the actual unemployment rate to the estimate of the long-run NAIRU.
+The relevant comparison is between the current unemployment rate and an estimate of the short-run NAIRU that takes into account the disinflationary effect of the productivity shock.
+My preference is to estimate a short-run NAIRU that directly takes into account the disinflationary effect of an acceleration in productivity because the effects of an acceleration in productivity on inflation may persist long enough that the adjusted NAIRU might be useful in policy decisions.
+On the other hand, I would leave out of such an estimation the effect of swings in oil prices, for example, because their effect on inflation dissipates more quickly.
+The demand and direct disinflationary effects are both temporary, but the period over which each has its influence depends on different considerations.
+The persistence of the demand effect depends on how long it takes for business capital stocks to adjust to higher expected profitability, for consumer durables to adjust to higher wealth and higher projected future income, and for market interest rates to close the gap relative to the higher equilibrium real interest rate.
+The direct disinflationary effect of an acceleration in productivity is, in my view, temporary because it likely arises from the lag in the adjustment of nominal wages to the productivity acceleration.
+It dissipates gradually once productivity growth stabilizes and nominal wages catch up to the productivity acceleration.
+How rapidly this effect dissipates depends on how quickly productivity growth stabilizes and how rapidly nominal wage gains adjust to the higher productivity growth.
+A similar sluggish adjustment of nominal wages to productivity developments following the productivity slowdown in the early 1970s may have contributed to the sharp increase in inflation thereafter.3 Let me try to make a rough estimate of the direct disinflationary effect of the acceleration in productivity and the associated decline in the short-run NAIRU.
+The first step is to estimate the acceleration in trend productivity.
+If productivity has increased from 1-1/2 percent during the period from the early 1970s to the mid-1990s to the upper end of the estimate today--say 3-1/2 percent--then the total acceleration in productivity would be 2 percentage points.
+If nominal wages do not immediately respond, the growth in labor costs will fall by precisely the same amount as the increase in the growth of labor productivity.
+In this case, the direct disinflationary effect simply equals the acceleration in productivity.
+However, the magnitude of the direct effect will diminish over time as wage growth catches up to the faster productivity growth, unless of course productivity continues to accelerate, as has been the case over the last several years.
+Because wages have likely already partially adjusted to the cumulative increase in productivity growth during the last several years, the portion of the acceleration still putting downward pressure on inflation may be somewhat less than 2 percentage points.
+A simple way of judging the magnitude of the direct disinflationary effect is to calculate the difference between the current estimate of trend productivity and a moving average of this trend.
+The length of the moving average should be an estimate of the time it takes for nominal wages to fully respond to higher productivity growth.
+In figure 2, I plot a measure of the direct disinflationary effect using a forty-quarter moving average of trend productivity.
+A ten-year moving average probably provides an upper end of the estimate of the direct disinflationary effect.
+As you can see, this upper-end estimate is that the cumulative productivity acceleration is lowering inflation today by 1-1/2 percentage points, for any given unemployment rate.
+Note that when this effect is positive, as it has been since the mid-1990s, it is a disinflationary effect and when it is negative--as it was following the decline in trend productivity growth after the early 1970s--it is an inflationary effect.
+The power and persistence of the direct disinflationary effect depends on both the pattern of the productivity acceleration and the speed of the adjustment process--specifically how fast wages respond directly to the productivity acceleration.
+If the adjustment is very drawn out as shown in figure 2, then the direct disinflationary effect would have been quite large and this effect would continue to be important for some time, even once productivity growth stabilizes.
+But if the adjustment were more rapid, the disinflationary effects of the acceleration in productivity would have been less powerful and would dissipate more rapidly once productivity growth stabilizes.
+As you can imagine, with so few observations, the data do not speak loudly about the speed or length of this adjustment process.
+As a consequence of this uncertainty about the speed of adjustment, I use a range of estimates--a ten-year moving average to capture the case of very sluggish adjustment and a three-year moving average to illustrate a more rapid adjustment.
+I view this as plausible range, but as I noted, it is difficult to identify the precise speed of adjustment within this range.
+These alternative moving averages translate into a range of 1/2 to 1-1/2 percentage points for the direct disinflationary effect of the acceleration in productivity growth.
+I use this range of estimates to calibrate the range for the decline in the short-run NAIRU in figure 3.
+In figure 3, I have assumed that the long-run NAIRU is 5-1/2 percent and that the long-run NAIRU has varied over the period from 1960 until today only in response to the effect of demographic changes on the average unemployment rate.4 As I explain in somewhat more detail in the appendix, I estimate the short-run NAIRU by subtracting the direct disinflationary effect of changes in trend productivity from the estimate of the long-run NAIRU.
+This yields what I believe is a plausible range for the short-run NAIRU today of 4 percent to 5 percent.
+This has the convenient property that the bottom end of the range is consistent with the prevailing unemployment rate and would support the view that we might be approaching a type of soft landing--a convergence of growth to trend at a point when the unemployment rate is already at the short-run NAIRU.
+In this case, there would not be any immediate upward pressure on core inflation.
+The range also has the property that its mid-point value of the short-run is above the prevailing unemployment rate, implying some upward pressure on core inflation over the near term.
+2.
+The Favorable Policy Choice as the Economy Adjusts to an Acceleration in Productivity Policymakers face a choice when confronted with an acceleration in productivity--a choice among very favorable outcomes.
+They can take the benefits of an acceleration in productivity in temporarily higher output (that is, a temporarily lower unemployment rate) or in lower inflation or in some combination of temporarily lower unemployment and lower inflation.
+There is no "right" choice here.
+It depends on policymakers' preferences, as well as on where inflation is relative to policymakers' long-run inflation goal at the outset of the acceleration in productivity.
+The outcome also likely will depend on how quickly policymakers realize that productivity has accelerated and learn how the economy responds to this development.
+The response of monetary policy to the acceleration in productivity determines this choice.
+How have the benefits of the acceleration in productivity been taken in this episode?
+To assess the outcome, it is most useful to look at the pattern of core measures of consumer price inflation--specifically measures of inflation based on the core PCE and the core CPI--during this period.
+I interpret the evidence as suggesting that we have taken a large part of the benefits of the acceleration in productivity in temporarily higher output and a smaller portion in the form of lower inflation.
+But let me emphasize again that the outcome of this choice is not simply a reflection of policymakers preferences, but also of how quickly the policymakers came to understand the size of the productivity acceleration and how it was affecting the choices they face.
+3.
+The Monetary Policy Response: The Two-step There is considerable uncertainty today about the NAIRU.
+This uncertainty is usually expressed without regard to the distinction between the short-run and long-run values of the NAIRU.
+While there is, to be sure, uncertainty about the long-run NAIRU, I expect much of the uncertainty today has followed from the effect of an acceleration of productivity on the short-run NAIRU.
+At the risk of some oversimplification, recent monetary policy could be viewed as part of a two-step strategy that takes into account the uncertainty about the NAIRU.
+The first step is to slow the growth in real output to trend to stabilize the unemployment rate at the lower end of the range of estimates of the short-run NAIRU.
+Thereafter comes step two, which is to apply a more reactive and less pre-emptive monetary policy.
+That is, policy is then focused on testing whether or not the prevailing unemployment rate is sustainable with steady inflation.
+If not, then monetary policy would respond to higher inflation by raising real interest rates.
+The difficulty of implementing this strategy is increased by the possibility that the short-run NAIRU is a moving target.
+That is, even if the unemployment rate today is consistent with the short-run NAIRU, the short-run NAIRU may have to rise over time as it converges toward the long-run NAIRU, at least once productivity growth stabilizes (or increases in productivity growth slow by a sufficient amount).
+4.
+A Transition to Below-Trend Growth and Rising Inflation?
+From the end of 1995 until mid-2000, growth had been above trend and, as a result, the unemployment rate had been declining.
+For much of the period, core inflation was declining.
+I believe the economy will ultimately be confronted by a transition and that we may already be in this transition, specifically to slower growth and perhaps also higher core inflation.
+The consensus private-sector forecast is for the growth in real GDP to slip below trend in the third quarter, then post a modest rebound in the fourth quarter, and continue in 2001 at a pace that will keep the unemployment rate nearly steady.
+The consensus forecast also appears to be consistent with relatively stable core inflation, implying that the prevailing unemployment rate may be sustainable and that monetary policy may have succeeded in achieving a soft landing.
+I hope this will be the case.
+If so, monetary policy would have achieved a soft landing for the second time in the same expansion--a truly extraordinary feat.
+Even if growth in real GDP remains at or modestly below trend for a period, there are, in my view, two potential sources of upward pressure on inflation over the next few years.
+The first is the possibility that the unemployment rate today is below the short-run NAIRU.
+The central tendency for my estimate of the short-run NAIRU, for example, is above the prevailing unemployment rate, suggesting the potential for some upward creep on core inflation.
+The second source of higher inflation would be the gradual convergence of the short-run NAIRU to the long-run NAIRU should productivity growth stabilize and the direct disinflationary effect wane.
+Unless the actual unemployment rate rises as this convergence progresses, the rise in the short-run NAIRU would result in further upward pressure in inflation.
+An important uncertainty in the forecast is the sustainability of the current rate of trend productivity growth.
+For example, in the near term, the robust pace of capital spending could yield still higher productivity growth--through further increases in the ratio of capital services to labor, one of the principal sources of higher productivity growth.
+Over a still longer period--and this may be several years to a decade or longer--it is quite possible that productivity growth, after reaching a peak, will then diminish.
+If the acceleration in productivity reflects the bunching of technological innovations, the completion of their spread will signal that productivity has moved to its new, higher level and the growth in productivity may then diminish to a rate more consistent with its long-run historical average.
+Such a deceleration in productivity would bring with it the reverse of the favorable conditions that initially accompanied the acceleration in productivity--a choice between a higher unemployment rate and higher inflation and likely a combination of the two.
+Even if productivity growth stabilizes at its current rate, we are, in my view, facing a transition.
+This, of course, presumes that my story about the short-run effects of an acceleration in productivity is on the mark.
+Initially, we faced a choice between temporarily lower unemployment and lower inflation, and experienced a combination of above-trend growth, a declining unemployment rate, and falling core inflation.
+The choices may now become less favorable--specifically some combination of slower growth and perhaps higher inflation.
+Of course, because of the acceleration in productivity, such a slowdown may still leave the growth rate of real GDP well above the average that prevailed over the two or more decades preceding the acceleration.
+If growth turns out to be close to trend for a while, the unemployment rate will stabilize at its prevailing value and core inflation will rise to the extent that the unemployment rate is below the short-run NAIRU.
+Inflation will rise further over time to the degree that the NAIRU moves toward its long-run value.
+The most benign outcome in this case might be a period of below-trend growth that would gradually reestablish a sustainable unemployment rate accompanied by a more modest increase in inflation.
+Given the uncertainty about this analysis--especially about the values of the short-run and long-run NAIRU--it is difficult to design a pre-emptive policy aimed at foreclosing the risk of higher inflation.
+Monetary policy will, however, need to watch for signs of an upward creep in inflation that would be part of the transition that I have been discussing.
+It is important to recognize, however, that there are options between a preemptive response based on the relationship between the unemployment rate and the NAIRU and a totally reactive approach of responding only to higher inflation itself.
+For example, increases in unit labor costs or decreases in profit margins can be precursors of inflation.
+So it is important to monitor such developments.
+5.
+The Interaction of Oil Price Swings and the Productivity Acceleration During the past several years, inflation performance has also been importantly affected by a series of relative price shocks--particularly swings in oil prices and in non-oil import prices.
+These shocks have interacted with the disinflationary effect of the acceleration in productivity.
+For example, in 1997 and 1998, the decline in both oil prices and non-oil import prices significantly reinforced the direct disinflationary effect of the acceleration in productivity, contributing to a decline in overall CPI inflation to just 1.6 percent in 1998.
+During most of this period, the unemployment rate, though falling, may have remained above the short-run NAIRU--as depicted in figure 3--because the short-run NAIRU was declining as a result of the acceleration in productivity.
+Beginning in 1999, the direct effect of the rebound in oil prices increased overall inflation, and over the past year, the secondary effects of the rise in oil prices may have boosted core inflation, perhaps reinforcing the effect of an unemployment rate now below the short-run NAIRU.
+The full effect of the recent rise in oil prices may still be feeding through to the prices of a broader range of goods and services, contributing to a near-term risk of higher inflation--even more so, of course, if oil prices move higher.
+Going forward, the interaction of these two effects is likely to remain important in shaping the inflation outcome.
+There is, in my view, a reasonable prospect that each of these two effects will reverse their contributions to inflation over the next couple of years and that balance between them will be important in determining the pattern of core and overall inflation rates.
+I noted above that we might be nearing or possibly already be in a transition that might include a period of upward pressure on core inflation.
+If the expectations in futures prices for oil prove correct, however, we may soon be treated to an extended period of decline in oil prices.
+To be sure, there is enormous uncertainty surrounding such a forecast.
+In addition, the near-term risks through the winter appear asymmetric on the upside.
+But, thereafter, the fundamentals--some moderation in the robust pace of global growth and increased investment in oil-producing capacity--point to a gradual but potentially extended decline in the price of oil.
+A projected drop in oil prices likely underpins the consensus forecast of a decline in overall inflation next year.
+Going forward, the secondary effects of lower oil prices would help to mitigate the rise in core inflation associated with prevailing and emerging demand pressures.
+Ultimately, we would still have to deal with the persistent demand pressures on core inflation if the prevailing unemployment rate is below the short-run NAIRU and if the short-run NAIRU begins to converge toward its long-run value.
+But such a reversal in oil prices would buy some time in addressing this risk.
+As a result of this balance of forces, we could still achieve a quite benign outcome even if it isn't the soft landing that many anticipate.
+No doubt there will be surprises along the way.
+But the interaction between the continuing adjustment to the acceleration in productivity and further swings in oil prices will likely play an important role in shaping the macroeconomic outcomes and the challenges facing monetary policy over the next couple of years.
+Appendix: Productivity and the NAIRU The model developed in this appendix supports both the analysis in the paper and the estimates of the magnitude of the disinflationary effect of an acceleration in productivity and of the short-run NAIRU.
+The model is based on a 1984 Board staff paper by Steve Braun.
+This paper examined the effect of the productivity deceleration in the early 1970s on inflation afterward.
+The insights developed by Braun were integrated into the modeling of inflation dynamics in the Board's large-scale quarterly econometric model.
+To focus on the implications of the productivity acceleration, I have not incorporated relative price shocks into the model, though it would be straightforward to do so.
+Equations 1 to 3 set out a simple model of inflation dynamics that assumes that productivity affects wages and prices symmetrically.
+In this case, an acceleration in productivity has no effect on the relationship between inflation and the unemployment rate.
+w = a + q - b U + pe p = w - q p = a - b U + pe w = rate of increase in nominal labor compensation p = inflation pe = expected inflation q = trend productivity growth q*= moving average of trend productivity growth U = unemployment rate Equation 1 is a wage-price specification of the Phillips curve.
+The rate of increase in nominal labor compensation (w) depends on the rate of unemployment (U) and expected inflation (pe).
+The price level is set as a markup over standardized productivity (the level of productivity adjusted for cyclical effects).
+Equation 2 is growth rate version of the markup equation, assuming a constant markup; the inflation rate (p) equals the rate of growth in labor compensation less the trend growth rate of productivity (q).
+This two-equation model of wage-price dynamics can be solved for the inflation rate by substituting equation 1 into equation 2, yielding the price-price specification of the Phillips curve, equation 3.
+Here, inflation depends on the unemployment rate and expected inflation.
+Because the productivity term, q, enters symmetrically in equations 1 and 2, it does not appear in equation 3.
+That is, the inflation rate in this model is unaffected by the growth rate of productivity or any change in the growth rate.
+Equation 3 can be solved for the value of the NAIRU (U*), by setting p = pe and solving for U.
+The resulting expression, given in equation 4, is the level of the unemployment rate consistent with any steady rate of inflation, once inflation expectations have converged to this steady rate.
+In this specification, there is no distinction between short-run and long-run NAIRUs.
+Equation 1' presents the key modification of this simple model that caused an acceleration in productivity to have an effect on inflation.
+In equation 1', the rate of increase in labor compensation now depends on a moving average of the trend rate of growth in labor productivity (q*) rather than on trend productivity growth itself.
+The key assumption here is that a change in trend productivity growth affects wage change more slowly than price change--that is, productivity acceleration has an asymmetric effect on wages and prices.
+This is modeled by assuming that wage change depends on q*, while the inflation equation (based on the markup equation) depends on q.
+(1') w = a + q* - b U + pe The implications of this modification in the model can best be seen by substitution of 1' into 2 and solving for the revised specification of the price-price Phillips curve, equation 3'.
+The inflation rate now depends on the difference between the level of trend growth and its moving average, q - q*.
+Whenever trend productivity growth increases, q is greater than q* for a while, and inflation is reduced.
+Once productivity growth stabilizes, q* ultimately converges to q.
+(3') p = a - [q - q*] - b U + pe p = inflation pe = expected inflation q = trend productivity growth q* = moving average of trend productivity growth U = unemployment rate The value of the NAIRU is usually derived by assuming that p = pe (as we did in deriving equation 4) and by setting all shock terms to zero.
+In this case that means, setting q = q*.
+We will refer to this specification of NAIRU as its long-run value when the economy has fully adjusted to any shocks or when there are no shocks.
+The long-run NAIRU in this case is exactly the same as in the simple model, derived in equation 4.
+It is also useful to derive a short-run or effective NAIRU, allowing for the effect of an acceleration of productivity on the level of the unemployment rate consistent with steady inflation.
+The expression for the short-run NAIRU (U**) is derived in equation 4'.
+If there is an acceleration in productivity, q will exceed q* for a while, and the short-run NAIRU will fall below the long-run NAIRU.
+That is, the disinflationary effect of an acceleration in productivity allows the economy to operate at higher utilization rates (a lower unemployment rate) before encountering upward pressure on the inflation rate.
+(4') U** = U* - (1/b) [q - q*] U** = short-run or effective NAIRU However, once productivity growth stabilizes at a higher level, q* will eventually catch up to q, and the disinflationary effect will gradually diminish and then completely disappear.
+During the period of adjustment of q* to q, the short-run NAIRU will rise and ultimately converge to the long-run NAIRU.
+During this transition, inflation pressure will build if the unemployment rate remains unchanged.
+In the charts presented in the paper, I put some rough quantitative dimensions on the short-run effect on inflation of an acceleration in productivity.
+To do so, we simply have to calculate the q - q* term.
+Three steps are required here.
+First, we need an estimate of q, trend productivity growth.
+Second, we need to specify the period over which the moving average of q, q*, is to be calculated.
+Finally, we need to determine the value of the coefficient that measures the effect of the q - q* term on the short-run NAIRU.
+There is a broad consensus that trend productivity growth was about 3 percent in the 1960s through the early 1970s and then about 1-1/2 percent until the mid-1990s.
+As of yet, there is not a consensus about either the magnitude or the time pattern of the acceleration in productivity.
+The upper end of the range of estimates for trend productivity today is between 3 percent and 3-1/2 percent.
+I used 3-1/2 percent as the estimate of q today in deriving the estimate of the disinflationary effect of productivity and the range for the short-run NAIRU.
+This decision obviously maximizes the potential importance of the acceleration of productivity in explaining the relationship between inflation and unemployment in this episode.
+Although the "curve" plotted in figure 1 is a fairly simple representation of the historical trends in labor productivity growth, it is similar to estimates produced using more sophisticated statistical techniques.
+For example, as shown in the graph of actual and trend labor productivity in figure A.1, a trend measure derived in a production accounting framework (the thick dark line) closely follows the curve shown in figure 3, reproduced here as the dashed line.
+This production-based measure of trend labor productivity has three components--capital deepening (derived from Bureau of Labor Statistics (BLS) data on actual capital services, normalized by the FRB/US estimate of trend labor hours); the BLS estimate of changes in labor quality; and trend growth in multifactor productivity (MFP).
+The latter component is computed using a Hodrick-Prescott filter to extract the trend in actual MFP growth.
+The next step is to determine the period over which the moving average q* should be computed--that is, the period it takes for q* to converge to q once q stabilizes.
+There is no economic theory to guide us in selecting the length of this period.
+All we can do is to seek alternative periods and try to determine which yields the best predictive performance in explaining inflation.
+As you might suspect, it is difficult to pin down the precise period; this likely reflects the relatively limited experience with accelerations (or decelerations) in productivity growth and thus the paucity of data from which to make this estimate.
+I compute the two alternative estimates of q*, assuming twelve-quarter and forty-quarter moving averages, both of which appear to do equally well in wage equations.
+We now have two estimates for the q - q* term in equation 3'.
+There are some factors that likely damp this effect and some that actually magnify it.
+A damping factor is the likelihood that firms respond to the acceleration in productivity by increasing their markup, absorbing some of the benefits in higher profits and passing on only a portion of the acceleration in lower inflation.
+We can capture this by assuming that m is the proportion absorbed in higher profits, so only (1 - m) is passed on in lower inflation.
+Magnifying the disinflationary effect are the dynamics working from the initial effect on inflation to expected inflation and back to inflation--in effect, the virtuous wage-price cycle that is initiated by the direct disinflationary effect.
+One final step is required to estimate the effect of the q - q* term on the short-run NAIRU.
+We have to estimate the coefficient on the q - q* term in equation 4'.
+Taking into account the effect of the change in the markup, this term is (1-m)/b, and I have assumed that it is equal to unity, a result roughly consistent with estimates of the parameter on the acceleration term in equations corresponding to this model.
+This yields a range for the short-run NAIRU of 4 percent to 5 percent in figure 2.
+I then used the mid-point, 4-1/2 percent as a point estimate of the short-run NAIRU in figure 3.
+Reference Braun, Steven.
+"Productivity and the NIIRU (and other Phillips Curve Issues)."
+National Income Section, Working Paper 34.
+Board of Governors of the Federal Reserve System, June 1984.
+Footnotes 1 Reflecting the absence of a consensus about the short-run effects of an acceleration in productivity, most macroeconomic models do not fully incorporate either of these effects.
+The model used for policy analysis at the Board, the FRB-US model, however, explicitly incorporates both of them.
+2 There are other complications.
+For example, the acceleration in productivity has contributed to the swing from deficit to surplus in the federal budget and appears to have encouraged an appreciation of the dollar.
+These effects in turn influenced the overall response of demand and inflation to the acceleration in productivity.

@@ -1,0 +1,150 @@
+I am delighted to be with you today to offer some remarks about financial markets and about how financial innovation and business practices are affecting the supervision and regulation of banks.
+As a result of the "opportunities" many of you and your colleagues have provided, we have learned much in recent years about risk management practices and about market dynamics during periods of stress.
+Today I would like to discuss three elements of risk management in banks, and more broadly, in financial services.
+These topics might be of interest to you because, I believe, many of you play an important role in the risk measurement, management and mitigation activities in your firms.
+In addition, as barriers between financial firms dissolve, either because of market action or, as now seems likely, legislative mandate, we should all learn the risk management techniques that are current in other segments of the financial services market.
+Bankers can and will learn from securities dealers and traders and vice versa.
+The topics that I would like to cover are lessons from last year's turmoil, approaches banks take in measuring market and credit risk, and proposed changes in regulatory oversight.
+Lessons from Last Year's Turmoil I would like to begin this afternoon by reviewing some of the central findings of a study issued this month by the Bank for International Settlements dealing with market events in the autumn of last year and then turn to bank supervisory matters.
+These findings offer important lessons for all of us who are interested in maintaining efficient financial markets that are undisturbed by systemic risks.
+I would note that the full report, entitled A Review of Financial Market Events in Autumn 1998, is available on the BIS website, www.bis.org.
+A central point in the paper is that banks and many other market participants are leveraged institutions.
+As a consequence, they are vulnerable when things go wrong.
+And so are their creditors, and then their creditors, too.
+This use of leverage allows financial institutions to employ capital in the most efficient and effective ways so as to provide maximum benefits to our society.
+When it comes to banks in particular, the key question is to what degree they should be leveraged, and that, in turn, depends largely on how they manage risk.
+Risk management practices used by both banking and nonbank organizations have improved significantly in recent years.
+Nevertheless, some of these new, innovative techniques, or at least their application in many firms, were an element of some of the problems we saw last year.
+In particular, "relative value arbitrage" techniques--in which approximately offsetting positions are taken in similar, but not identical, financial instruments--played an important role.
+Had the instruments been identical and simply traded in different markets, the technique would have been one of classic arbitrage and virtually risk-free.
+In fact, these positions were not.
+They were taken--and taken on an increasingly large scale--because risk managers were confident that they could measure risks to their satisfaction using improved techniques and historical data sources.
+They were taken with the view that different prices for similar instruments would eventually converge, providing the holder with a profit.
+For a long period of time, the practice worked remarkably well.
+Another important factor was "proxy hedging," in which traders took positions in larger, more liquid markets to offset exposures in more thinly traded markets.
+Hedging Russian securities with Hungarian or even Brazilian debt was an example.
+This risk management practice enabled traders to conduct more transactions than otherwise possible, but by its nature, it also tightened links across markets and altered price dynamics.
+The consequences, of course, are widely known.
+On the heels of earlier problems in Thailand, Indonesia, and other Asian countries, Russia's default in August of last year caused investors worldwide to reassess risks and their views about conditions in emerging markets.
+A so-called "flight to quality" ensued, leaving still more turmoil in its wake.
+What can we learn, then, from this experience in terms of risk management practices and in supervising and regulating banks?
+For one, the world's a dangerous place.
+That's hardly news.
+In terms of financial markets, though, the experience illustrated quite vividly how closely linked world markets are today and the types of issues market participants and policy makers need to consider.
+Problems in Russia left their imprint on countries seemingly far removed, including Brazil.
+They also brought significant changes at a highly regarded U.S. firm that was managed, in part, by leading financial market theorists and practitioners.
+It was a humbling and enlightening experience for us all.
+It should cause all of us to reassess our practices and our views about the underlying nature of market risks.
+As the BIS report makes clear, there are also more detailed lessons to learn.
+The report discusses nine lessons; I will pick three: First, the inadequate assessment of counterparty risk, a task fundamental to lending and investment decisions, was in many ways at the core of the problem.
+Key market participants were allowed to grow through greater leverage and alter market terms in crucial ways, largely unchecked by traditional disciplines.
+Commercial banks, for whom judging credit risk is their life blood, were as guilty as any other institutions.
+Traditional practices of creditors of covering their exposures by requiring collateral that was marked-to-market proved insufficient as market values fell, creating a circular and expanding effect.
+Second, market participants shared an insufficient recognition of the role of market liquidity in risk management.
+An important point here is the link between credit and market risk, and the fact that market prices can change sharply when key market participants pull out.
+In the proverbial "race for the door," nearly everyone gets trampled.
+The last point I will note relates to the over-reliance by practitioners on quantitative tools.
+Sophisticated measurement techniques can help greatly in providing insights about the dimensions of risk and sources of possible problems.
+But, like chains, models are only as strong as their weakest links.
+Every model has assumptions that must be tested, and its limitations must be understood.
+During periods of market stress nearly "all bets are off".
+Business practices change, otherwise stable and expected correlations in market rates and prices disappear, and sometimes panic ensues.
+Well thought out and designed contingency plans and scenario analysis tailored to specific strategies and portfolios are necessary to prepare for these events and to evaluate an institution's risks.
+That point was brought home last year.
+Measuring Market and Credit Risk in Banks Fortunately, progress is being made as banking organizations--typically the largest U.S. and foreign institutions--find better ways to quantify their risks.
+With market risk--the "easy" one--the Federal Reserve and other regulators built on industry practices for measuring a bank's "value at risk" when implementing a new regulatory capital standard for the banking system last year.
+Basing capital requirements on a bank's internal calculations of its largest expected daily trading loss at a 99 percent confidence level was an important step, we thought.
+It produced a standard far more sensitive to changing levels of risk than was the earlier approach.
+It provided a reasonably consistent standard among banks and also was compatible with current management practice of the world's more progressive banks.
+Last year's events have not changed our view about the merits of this approach.
+In creating the standard, though, we tried to recognize the measure's limitations and to incorporate sufficient buffers.
+Everyone recognized the possibility of large, statistically improbable losses, and that the measures commonly used underestimated the likelihood of those events.
+(We just didn't realize that such extreme outcomes would occur so soon.)
+So we required an assumed 10-day holding period, rather than the conventional single day, in order to account for illiquid markets, and we multiplied the capital that would result from that adjustment by three.
+We also added a charge for "specific risk" to address issuer defaults and other matters.
+And finally, we required a management process that included crucial checks and balances and further work by banks toward stress testing, including testing involving scenario analysis.
+These were the "qualitative" aspects of the standard.
+Results of stress tests, for example, were to be consider subjectively by management in evaluating a bank's market risks and overall capital adequacy.
+At the time, many of these elements were criticized as excessive, producing much too large capital requirements.
+The jury on that point may still be out, but at least the standard performed well last year.
+None of the U.S. and foreign banks last year that were subject to this internal models approach incurred losses exceeding its capital requirements for market risk, although a few came relatively close.
+On the other hand, some banks had trading losses that occasionally exceeded their daily value-at-risk calculations during the volatile fourth quarter.
+My point is not that we were so smart in constructing the standard, but rather that we all still have much to learn.
+Risk measurement practices are advancing, and they need to.
+With credit risk, we are all feeling our way, again with the assistance of many large banks.
+Supervisors report that these institutions are making progress in measuring credit risk and are devoting increased attention and resources to the task.
+In my view, continued progress in this area is fundamentally important on many fronts.
+Continually declining costs in collecting, storing, and analyzing historical loss data; innovative ways to identify default risks, including the use of equity prices; and greater efforts by banks to build greater risk differentiation into their internal credit rating processes have been of great help.
+As a result, banks are developing better tools to price credit risk, and they are providing clearer, more accurate signals and incentives to personnel engaged in managing and controlling the risk.
+Through the Basel Committee on Banking Supervision, the Federal Reserve and other U.S. and foreign bank supervisory agencies are working actively to design a more accurate, risk sensitive capital standard for credit risk than the one we have now.
+Full credit risk modeling seems currently beyond our reach, since industry practices have not sufficiently evolved.
+The Basel Committee expects, though, next year to propose an approach built on internal credit risk ratings of banks.
+Such a new standard would be a major step for bank supervision and regulation and will also have major implications for banks around the world.
+It is also a necessary step, we believe, if we are to keep pace with market practices and address developments that undermine current standards.
+Let me emphasize that the new credit risk approaches being contemplated will be applicable only to the larger, more sophisticated and complicated organizations.
+The vast majority of banks need not have their capital requirements modified in significant ways as we move away from a one-size-fits-all structure.
+In order to spur industry efforts in measuring risk, the Federal Reserve this past summer issued a new supervisory policy directing examiners to review the internal credit risk rating systems of large banks.
+That statement emphasized the need for banking organizations to ensure their capital was not only adequate in meeting regulatory standards, but also that it was sufficient to support all underlying risks.
+We issued the guidance recognizing the need to make clear progress in developing new capital standards and also with the view that the industry has important steps to take.
+Our earlier discussions with major institutions about their own processes for judging their capital adequacy supported that view.
+Too often they rely on the regulatory measure, itself, and on those calculations for their peers.
+The role of internal measures of economic risks in evaluating the level of firm-wide capital seemed generally weak and unclear.
+The need for a stronger connection between economic risks and capital is particularly great at institutions actively involved in complex securitizations and in other complex transfers of risk.
+We do not expect immediate results for most organizations, but we want to see clear and steady progress made by them.
+The Other "Pillars" Regulatory capital standards are important, but they are only part of a complete oversight process.
+To that point, the Basel Committee is building its approach on three so-called pillars: capital standards, supervision, and market discipline.
+Each pillar is important and connected with one another.
+Given the pace of transactions and the complexity of banking products, the Federal Reserve and other authorities need to rely increasingly on internal risk measures, information systems, and internal controls of banks.
+As I mentioned above, strong, more risk-sensitive capital requirements built on a bank's internal model must also be reviewed periodically for their rigor and effectiveness.
+With the varying and somewhat subjective nature of internal measures, the matter of consistency among banks becomes important, both to banks and their supervisors.
+Additional public disclosures by banks and market discipline can help in that respect.
+Bank Supervision.
+In supervising banks, U.S. regulators have recognized the need for an on-going, more risk-focused approach, particularly for large, complex, and internationally active banks.
+We constantly need to stay abreast of the nature of their activities and of their management and control processes.
+For these institutions, point-in-time examinations no longer suffice, and they have not sufficed for some time.
+We need assurance that these institutions will handle routine and non-routine transactions properly long after examiners leave the bank.
+We also need to tailor our on-site reviews to the circumstances and activities at each institution, so that our time is well spent understanding the bank's management process and identifying weaknesses in key systems and controls.
+Nevertheless, the process still entails a certain amount of transaction testing.
+To accommodate this process, the Federal Reserve has established a separate supervisory program for large, complex banking organizations, or LCBOs.
+We believe theses institutions require more specialized, ongoing oversight because of the size and dynamic nature of their activities.
+The program is more, though, than simply enhanced supervision of individual institutions.
+It involves a broader understanding of the potential systemic risk represented by this group of institutions.
+Currently, there are about thirty institutions in the group, although the figure can change.
+They are typically both major competitors and counterparties of one another and, combined, account for a substantial share of the systemic risk inherent in the U.S. banking system.
+Management of this process revolves around a supervisory officer, designated as a "Central Point of Contact," and a team of experienced staff members with skills suited to the business activities and risk profile of each institution.
+In large part, they will focus on internal management information systems and procedures for identifying and controlling risk.
+They will need to understand the risk management process as each institution implements it--by major business line, by type of risk, and so forth--in reaching overall judgments about corporate-wide risks.
+We believe this approach will best help supervisors keep abreast of risks and events and that it will also help us identify and strengthen weak areas within banks.
+The principal risk in banking relates, of course, to credit risk arising from lending.
+For most of this decade loan portfolios and bank earnings have been strong, helped largely by persistently strong economic growth.
+That performance has strengthened the industry's financial statements and substantially improved its image with investors.
+As time has passed, however, it also may have allowed banks to let underwriting standards slip in the face of competitive pressures and the view that times will remain good.
+We know from history that they won't.
+Indeed, recent industry figures suggest the condition of loan portfolios may be declining as delinquencies build from admittedly low levels.
+Through supervisory actions and guidance, we try to maintain prudent standards throughout the business cycle.
+Market Discipline.
+Market discipline has, in my view, two key purposes.
+The first is to link banks' funding costs--both debt and equity--more closely to their risk-taking.
+This linkage has been more or less weakened by the safety net.
+Of course, a significant and growing proportion of the liabilities of large banks is in an uninsured or not fully insured form, so that linkage can be reestablished.
+The cost of these funds, as well as the banks' cost of equity capital, would clearly be affected by more disclosure of the risks in their portfolios.
+While banks already disclose considerable information, the balance between quantity and quality can be improved.
+Doing so should reduce the need for supervisors to intrude and should also affect a bank's willingness to take risks, as its funding costs change.
+The second purpose of market discipline is to provide a supplementary source of information to the examination process.
+I have been impressed during my service on the Board as to the wide range of intelligence that our examination process now creates.
+But as banking organizations become more complex we are going to need all the help we can get, especially if we wish to avoid killing the goose that laid the golden egg through more intrusive supervision.
+Market discipline has some risks.
+It cannot be turned off once begun and could present its own problems during periods of generalized stress by creating additional pressures that authorities would prefer to avoid.
+In short, it can be a mixed blessing.
+As policymakers, we need to balance the risk it presents with the benefits it can provide in curbing excessive risk taking and preventing problems altogether.
+Conclusion In closing, we have seen important gains in risk management throughout this decade and substantial innovation in financial markets and products.
+These changes bode well, I believe, for distributing risks more efficiently and producing further gains in economic growth in the years to come.
+They may also, though, produce greater market volatility, as more sophisticated techniques for valuing financial assets identify the winners and losers with greater speed.
+We also learned that some of these techniques, until refined with experience, might also mislead their users.
+All of this presents continued challenges for central banks and financial supervisors.
+The best approach, I believe, is to move with the industry and conform oversight functions more closely to business practice.
+Supervisors can do much in this way to promote sound risk management around the globe and to provide banks with stronger incentives to manage and control their risks.
+It will require functional regulators to work together and with market participants, too.
+It will also require regulators to rely more on market discipline and to ensure that investors and others have meaningful information about the level and nature of financial risk.
+By providing leadership in reaching agreements about useful disclosures, we also can help there.
+Heavier supervision and regulation of banks and other financial firms is not a solution, despite the size of some institutions today and their potential for contributing to systemic risk.

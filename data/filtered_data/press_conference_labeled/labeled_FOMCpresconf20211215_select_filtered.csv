@@ -1,0 +1,107 @@
+Unnamed: 0,sentence,label,score
+0,"At the Federal Reserve, we are strongly committed to achieving the monetary policy goals that Congress has given us: maximum employment and price stability.",LABEL_1,0.9789793491363525
+1,"Today, in support of these goals, the Federal Open Market Committee kept interest rates near zero and updated its assessment of the progress that the economy has made toward the criteria specified in the Committee’s forward guidance for interest rates.",LABEL_0,0.866989016532898
+2,"In addition, in light of the strengthening labor market and elevated inflation pressures, we decided to speed up the reductions in our asset purchases.",LABEL_1,0.9882832169532776
+3,"As I will explain, economic developments and changes in the outlook warrant this evolution of monetary policy, which will continue to provide appropriate support for the economy.",LABEL_2,0.9947400689125061
+4,"Economic activity is on track to expand at a robust pace this year, reflecting progress on vaccinations and the reopening of the economy.",LABEL_1,0.9970725774765015
+5,"Aggregate demand remains very strong, buoyed by fiscal and monetary policy support and the healthy financial positions of households and businesses.",LABEL_0,0.9970710277557373
+6,"Notwithstanding the effects of the virus and supply constraints, FOMC participants continue to foresee rapid growth.",LABEL_1,0.992173433303833
+7,"As shown in our Summary of Economic Projections (SEP), the median projection for real GDP growth stands at 5.5 percent this year and 4 percent next year.",LABEL_1,0.7230089902877808
+8,"Amid improving labor market conditions and very strong demand for workers, the economy has been making rapid progress toward maximum employment.",LABEL_1,0.9801738262176514
+9,"The unemployment rate has declined substantially—falling 6/10 of a percentage point since our last December 15, 2021 meeting and reaching 4.2 percent in November.",LABEL_0,0.9713256359100342
+10,"The recent improvements in labor market Chair Powell’s Press Conference FINAL conditions have narrowed the differences in employment across groups, especially for workers at the lower end of the wage distribution, as well as for African Americans and Hispanics.",LABEL_0,0.935609757900238
+11,"Looking ahead, FOMC participants project the labor market to continue to improve, with the median projection for the unemployment rate declining to 3.5 percent by the end of the year.",LABEL_1,0.9642300009727478
+12,"Compared with the projections made in September, participants have revised their unemployment rate projections noticeably lower for this year and next.",LABEL_0,0.9317992925643921
+13,Supply and demand imbalances related to the pandemic and [to] the reopening of the economy have continued to contribute to elevated levels of inflation.,LABEL_1,0.9914135932922363
+14,"In particular, bottlenecks and supply constraints are limiting how quickly production can respond to higher demand in the near term.",LABEL_1,0.9951268434524536
+15,"As a result, overall inflation is running well above our 2 percent longer-run goal and will likely continue to do so well into next year.",LABEL_1,0.9967071413993835
+16,"While the drivers of higher inflation have been predominantly connected to the dislocations caused by the pandemic, price increases have now spread to a broader range of goods and services.",LABEL_1,0.9993140697479248
+17,"Wages have also risen briskly, but, thus far, wage growth has not been a major contributor to the elevated levels of inflation.",LABEL_1,0.9750739336013794
+18,"We are attentive to the risks that persistent real wage growth in excess of productivity [growth] could put December 15, 2021 upward pressure on inflation.",LABEL_1,0.9996010661125183
+19,"Like most forecasters, we continue to expect inflation to decline to Chair Powell’s Press Conference FINAL levels closer to our 2 percent longer-run goal by the end of next year.",LABEL_2,0.5190165042877197
+20,The median inflation projection of FOMC participants falls from 5.3 percent this year to 2.6 percent next year; this trajectory is notably higher than projected in September.,LABEL_1,0.9729698300361633
+21,"We understand that high inflation imposes significant hardship, especially on those least able to meet the higher costs of essentials like food, housing, and transportation.",LABEL_1,0.9991661310195923
+22,We are committed to our price-stability goal.,LABEL_2,0.9249149560928345
+23,We will use our tools both to support the economy and a strong labor market and to prevent higher inflation from becoming entrenched.,LABEL_1,0.9996505975723267
+24,The Fed’s monetary policy actions have been guided by our mandate to promote maximum employment and stable prices for the American people.,LABEL_1,0.5831595659255981
+25,"With inflation having exceeded 2 percent for some time, the Committee expects it will be appropriate to maintain this target range until labor market conditions have reached levels consistent with the Committee’s assessments of maximum employment.",LABEL_0,0.738637387752533
+26,"We are phasing out our purchases more rapidly because, with elevated inflation pressures and a rapidly strengthening labor market, the economy no longer needs increasing amounts of policy support.",LABEL_1,0.9971649050712585
+27,We at the Fed will do everything we can to complete the recovery in employment and achieve our price-stability goal.,LABEL_1,0.9861565828323364
+28,"So maximum employment, if you look at our Statement on Longer-Run Goals and Monetary Policy Strategy, maximum employment is something that we look at a broad range of indicators.",LABEL_2,0.9982953667640686
+29,"And those would include, of course, things like the unemployment rate, the labor force participation rate, job openings, wages, flows in and out of the labor force in various parts of the labor force.",LABEL_2,0.9997414946556091
+30,"The Committee will make a judgment that we’ve achieved labor market conditions consistent with maximum employment when it makes that—it is, admittedly, a judgment call because it’s a range of factors.",LABEL_2,0.9549177885055542
+31,"Unlike inflation, where we have one number that sort of dominates, it’s a broad range of things.",LABEL_2,0.9998206496238708
+32,"So, as I mentioned in my opening remarks, in my view, we are making rapid progress toward maximum employment.",LABEL_1,0.5689699053764343
+33,"And the economy is so much stronger now, so much closer to full employment.",LABEL_1,0.9981406927108765
+34,"Inflation is running well above target, and growth is well above potential.",LABEL_1,0.9990586638450623
+35,"And the maximum level of employment that’s consistent with price stability evolves over time within a—within a business cycle and over a longer period, in part reflecting [the] evolution of the factors that affect labor supply, including those related to the pandemic.",LABEL_2,0.9997839331626892
+36,"So I would say: Look, we’re, we’re at 4.2 percent now and it’s been—the unemployment rate has been dropping very quickly.",LABEL_0,0.6229986548423767
+37,"The way in which—The important metric that has been disappointing really has been labor force participation, of course, where we had widely thought—I had certainly thought—that, last fall, as unemployment insurance ran off, as vaccinations increased, [and] as schools reopened, that we would see a significant surge, if you will, or at least a surge, in labor force participation.",LABEL_0,0.6890662908554077
+38,"And, in fact, that’s, that’s been the pattern in past cycles—that labor force participation has tended to recover in the wake of a strong recovery in unemployment, which is what we’re getting right now.",LABEL_0,0.9825142025947571
+39,And inflation is well above target.,LABEL_1,0.9995405673980713
+40,"And, yes, there is a—there’s a provision, it used to be called the “balanced approach” provision, that says, in effect, that in situations in which the pursuit of the maximum-employment goal and [the pursuit of] the December 15, 2021 price-stability goal are not complementary, we have to take account of the distance from the goal Chair Powell’s Press Conference FINAL and the—and the speed at which we’re approaching it.",LABEL_2,0.9360764622688293
+41,"It, it is a provision that would enable us to, in this case, because of high inflation, move before achieving maximum employment.",LABEL_1,0.9791848659515381
+42,"Now, we’re—as I said, we’re making rapid progress toward maximum employment in my—in my thinking, in my opinion.",LABEL_0,0.9933918118476868
+43,"And that will depend, you know, on how much it suppresses demand as opposed to suppressing supply.",LABEL_0,0.6370731592178345
+44,"It is not clear how big the effects would be on either inflation or growth or hiring on top of what’s already going on, which is quite a strong, you know, wave of Delta that’s hitting large parts of the country across the northern United States and all the way to the eastern seaboard and now coming down.",LABEL_0,0.9934539794921875
+45,"Yes, look, I think—if you look at the state of the economy and the amount—the strength of demand, the strength of just overall demand, and the strength of demand for labor, look at inflation, look at wages.",LABEL_1,0.984453022480011
+46,"Certainly, we had five months of declining month on month—monthly readings of inflation, but we didn’t see much in the way of progress on labor supply or on other supply-side issues.",LABEL_2,0.9989047050476074
+47,"Then in September, I’d say after Labor Day, we started to see—it started to become clear that this was both larger in its effect on inflation and more persistent.",LABEL_1,0.9991602897644043
+48,"So coming to your real question, we got the ECI reading on the eve of the November meeting—it was the Friday before the November meeting—and it was very high, 5.7 percent reading for the employment compensation index for the third quarter, not annualized, for the third quarter, just before the meeting.",LABEL_1,0.9982790946960449
+49,"And I thought for a second there whether we—whether we should increase our taper, [We] decided to go ahead with what we had—what we had “socialized.” Then, right after that, we got the next Friday after the meeting, two days after the meeting, we got a very strong employment report and, you know, revisions to prior readings and, and no increase in labor supply.",LABEL_1,0.6457371711730957
+50,It was essentially higher inflation and faster—turns out much faster progress in the labor market.,LABEL_1,0.7639287114143372
+51,"Really, what’s happening is the unemployment rate is catching up—seems to be catching up—with a lot of the other readings of a tight labor market, 6/10 [decline] over one cycle.",LABEL_1,0.9803496599197388
+52,"It’s, it’s—so far, we don’t see—wages are not a big part of the high-inflation story that we’re seeing.",LABEL_2,0.5099872946739197
+53,"But Chair Powell’s Press Conference FINAL what, what that leaves behind is the other things that can lead to persistent inflation.",LABEL_1,0.9926878213882446
+54,"In particular—we don’t see this yet, but if you had something where wages were persistently—[increases in] real wages were persistently above productivity growth, that puts upward pressure on, on firms, and they raise prices.",LABEL_1,0.9993497729301453
+55,"Unlike the things that are causing the inflation now, this is economically sensitive—and so would be expected to move up.",LABEL_1,0.9950793981552124
+56,"And so the median—what you’re talking about, the three rate increases, Chair Powell’s Press Conference FINAL that’s the median of the Committee—the median of the Committee is also that growth will be 4 percent and then unemployment will be 3½ percent by the end of the year.",LABEL_1,0.5663700699806213
+57,"But we’d have to—you know, we look at our two goals, maximum employment and price stability, and we make policy based on them, and not with respect to what we wrote down in a prior SEP. MICHELLE SMITH.",LABEL_2,0.9997327923774719
+58,So let me start by saying that the inflation that we got was not at all the inflation we were looking for or talking about in the framework.,LABEL_2,0.7956179976463318
+59,"It was to do with, you know, strong monetary policy and fiscal stimulus into an economy that was recovering rapidly, and in which there were these supply-side barriers which effectively led to, you know, in certain parts of the economy, what you might call a vertical supply curve.",LABEL_1,0.9968938827514648
+60,"So, you know, automobile purchases are very interest rate-sensitive, and you would think demand would drive up the quantity of cars, But it can’t, because they don’t have semiconductors.",LABEL_2,0.9972080588340759
+61,"So, so that—it was a very different kind of inflation.",LABEL_2,0.9995806813240051
+62,This is not the inflation we were looking for under our framework at all.,LABEL_2,0.5634603500366211
+63,"But coming to maximum employment, which is really your question.",LABEL_2,0.7479662895202637
+64,"So I think you look at, you know, prices and quantities.",LABEL_2,0.9998282194137573
+65,"When you—if you want to look at maximum employment, you look at prices and quantities, and the main price you look at is wages.",LABEL_2,0.9993614554405212
+66,"You can get to 20, if you wanted to, easily, but labor force participation, the unemployment rate, different age groups of—you know, prime-age labor force participation, in particular, gets a lot of focus, the JOLTS data get a lot of focus.",LABEL_2,0.9997308850288391
+67,"So on wages, that’s the price indicator we look at to tell us, along with all the other data, whether we’re—whether we have labor market conditions that are consistent with maximum December 15, 2021 employment.",LABEL_2,0.9950152039527893
+68,"Probably not, you know, so you have to make an assessment that what’s max—what is the level of maximum employment that is consistent with price stability in real time is, is one way to think about it.",LABEL_2,0.9957671165466309
+69,"I, I think—well, whether or not we—whether or not we say “we’re at conditions—labor market conditions consistent with, with maximum employment” next year, we would all be open and I think expect, over time, that the level of maximum employment that’s consistent with price stability would increase further over time—for example, through increasing participation.",LABEL_0,0.7095992565155029
+70,"But, again, with inflation as high as it is, we have to make policy in real time.",LABEL_1,0.9995689988136292
+71,"People buy—they have a mortgage, you know, with leverage, and the house price increases, the equity they have in their home might have doubled.",LABEL_2,0.5641526579856873
+72,"You know, usually, in every other expansion, it’s that there aren’t enough jobs and people can’t find jobs and, you know, we’re stimulating demand and trying to get demand to come up.",LABEL_1,0.9820255041122437
+73,"But, again, ultimately, we have the tools that we have, which are essentially to stimulate demand and also to control inflation.",LABEL_1,0.9764127731323242
+74,"I mean, really, it might be—one of the two big threats to getting back to maximum employment is actually high inflation, because, to get back to where we were, the evidence grows that it’s going to take some time.",LABEL_1,0.9957022070884705
+75,"And to have that happen, we need to make sure that we maintain price stability.",LABEL_1,0.999030590057373
+76,"I don’t know, Edward, whether you’re talking about more shopping online versus shopping in the store, but consumer demand is very strong, incomes are very strong, you know, because people are going back to work and they’re getting wage increases.",LABEL_1,0.9960558414459229
+77,"Admittedly, some of the wage increases is being eaten away by inflation.",LABEL_1,0.9717255234718323
+78,"But, nonetheless, incomes, overall, are going up really significantly because of increased employment and spending is—has been strong.",LABEL_1,0.9989153146743774
+79,"So, actually, I’m looking at the SEP here, and the median forecasts for core and headline inflation did move up by 4/10 each.",LABEL_1,0.9669303297996521
+80,"If you look at where Blue Chip forecasts are—which is, you know, a group of well-resourced, large forecasting operations with a December 15, 2021 long track record—they’ll show inflation coming back down significantly toward the back-end Chair Powell’s Press Conference FINAL of next year.",LABEL_1,0.7242506742477417
+81,"There’s a real risk now, we believe, I believe, that inflation may be more persistent and that may be putting inflation expectations under pressure, and that the risk of higher inflation becoming entrenched has increased.",LABEL_1,0.9995260238647461
+82,"We need to see how the inflation data and the—all the data evolve in coming months, but we are prepared to, you know, to use our tools to make sure that higher inflation doesn’t get entrenched.",LABEL_2,0.999462902545929
+83,"For one reason, as I—as I just mentioned, it’s one of the two big threats, the other being the pandemic itself, to getting back to maximum employment.",LABEL_1,0.9992092251777649
+84,"And I think if you look at how we got here, I do think we’ve, we’ve been adapting to the incoming data, really all the way along, and, you know, noticing and calling out that, that the—both the effects and the persistence of inflation of bottlenecks and labor shortages and things like that.",LABEL_0,0.9969226717948914
+85,"And now we’re in a position where we’re ending our taper within the next—well, by March, in two meetings, and we’ll be in a position to raise interest rates as and when we think it’s appropriate.",LABEL_1,0.9956686496734619
+86,I think that the data that we got toward the end of the fall was a—was a really strong signal that inflation is more persistent and higher—and that the risk of it remaining higher for longer has grown.,LABEL_1,0.9869470596313477
+87,"So I wouldn’t look at it that we’re “behind the curve.” I would look at it that we’re actually in position now to take the steps that we’ll need to take, you know, in a thoughtful manner to address all of the issues, including that of, of too-high inflation.",LABEL_1,0.9995551705360413
+88,"So our interest rate—I mean, they are separate tools.",LABEL_1,0.9980427026748657
+89,"So the—you know, the, the asset purchases are a separate tool from interest rates.",LABEL_2,0.9998262524604797
+90,Whereas raising interest rates starts to remove accommodation from what is a highly accommodative stance.,LABEL_2,0.9997072815895081
+91,"I don’t think that, that—the last cycle, there was quite a long separation before interest rates.",LABEL_1,0.9992724061012268
+92,"We’re in a very, very different place with high inflation, strong growth, a really strong economy.",LABEL_2,0.9998165965080261
+93,"You know, that—as I mentioned, the SEP medians are for 4 percent growth next year, 3½ percent—3½ percent unemployment at the end of the year, and the, the—you know, headline inflation of 2.6 percent next year, core at 2.7.",LABEL_1,0.9990835189819336
+94,"So this is a strong economy, one in which it’s appropriate for, for interest rate hikes.",LABEL_2,0.9951850771903992
+95,"So we had 3½ percent unemployment for a period, and we had inflation that was just barely getting to 2 percent.",LABEL_1,0.9995630383491516
+96,"And I—you know, I think, in that setting, our thinking was, we can afford to wait to raise rates until we see actual inflation rather than [acting] preemptive[ly] because, you know, no one had seen what 3½ percent unemployment would look like—with high labor force participation, by the way.",LABEL_0,0.7405966520309448
+97,"And we didn’t December 15, 2021 know what the inflationary implications were.",LABEL_0,0.8090401291847229
+98,It turned out there was barely 2 percent Chair Powell’s Press Conference FINAL inflation—and no sense that it was gaining momentum and that kind of thing.,LABEL_2,0.9996808767318726
+99,"You know, that’s a situation where you had a very, very high level of employment and low inflation.",LABEL_2,0.9992384910583496
+100,"Or, you know, it has been the opposite, where we have very high inflation and we’ve had it since the labor market was in terrible shape.",LABEL_2,0.6108279824256897
+101,"It had nothing—so far, this inflation has really nothing to do with tightness in the labor market.",LABEL_0,0.9656916260719299
+102,"It does have to do with, with strong demand, and strong demand was supported by the Fed, it was supported by Congress.",LABEL_2,0.9994378685951233
+103,"And what’s coming out now is, is, you know, really strong growth, really strong demand, high incomes, and all that kind of thing.",LABEL_0,0.9953354001045227
+104,"So, in a way, it’s not surprising that there’s a lot of demand for, for U.S. sovereigns in a world—you know, in a risk-free world where, where there’s so much—they’re yielding so much more than bunds are, than JGBs.",LABEL_1,0.9989174604415894
+105,"You know, I mean, we’re really focused on broader financial conditions, [and] we’re focused on maximum employment and price stability.",LABEL_0,0.8557168841362

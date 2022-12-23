@@ -1,0 +1,239 @@
+Indeed, the world is ruled by little else.
+Practical men, who believe themselves to be quite exempt from any intellectual influences, are usually the slaves of some defunct economist.
+Madmen in authority, who hear voices in the air, are distilling their frenzy from some academic scribbler of a few years back.
+I am sure that the power of vested interests is vastly exaggerated compared with the gradual encroachment of ideas.
+But, soon or late, it is ideas, not vested interests, which are dangerous for good or evil.
+J.M.
+Keynes, 1936.
+Nearly seventy years ago, Keynes ended his General Theory of Employment, Interest, and Money with this statement.
+The analytical framework that Keynes provided in the General Theory has been fundamental to the development of postwar macroeconomics, and many of the specific issues he raised are still highly relevant today.
+But of all the ideas expressed in the General Theory, arguably the most hotly debated words are those quoted above.
+Do ideas really dominate vested interests in the long run?
+What are the roles of analysis and vested interests in actual policymaking?
+Nowhere do these questions come up more frequently than for benefit-cost analysis.
+Benefit-cost analysis is a formal approach to decisionmaking, particularly public policy decisionmaking.
+One arrays the benefits of a policy change against the costs, with everything valued in a common metric, and makes a decision about the change based on the net difference.
+One problem is that, with some programs, gaps in scientific knowledge, or data requirements make using benefit-cost analysis in real world decisionmaking difficult or impossible.
+And even if benefit-cost analysis can be done and can be useful, many argue that political power and vested interests will always trump rational analysis.
+In this paper, I discuss both these normative and positive questions.
+On the normative side, how expansive should advocates of benefit-cost analysis be?
+Are there programs for which benefit-cost analysis can never be expected to contribute much, or for which it should not be used?
+On the positive side, for those programs that would profit from benefit-cost analysis, to what extent is it in fact used?
+How influential is it in determining outcomes?
+Are there program structures that can improve policy outcomes?
+After discussing these points in general, I will illustrate some of them with a few examples from the real world and I will try to draw some general lessons from these examples.
+Normative and Positive Considerations Benefit-cost analysis provides a flexible and comprehensive framework for arraying information about a program.
+The benefits and costs of a particular policy measure can be listed and valued, eliminating all double counting.
+Scholars have been debating the exact techniques for making these assessments since the 1950s, and at this point they have some general agreement on how to treat many of the difficult analytical issues.
+There is not an exact consensus, but I leave it to other papers in your symposium to discuss these technical points.
+They also generally agree on when benefit-cost analysis can be more or less helpful in actual policy decisions.
+It can be quite helpful when relevant markets exist, when market or nonmarket techniques for valuing inputs and outputs have been developed, when scientific uncertainties are limited, and when time periods are not inordinately long.
+Should any of these conditions not be present, one still has ways of proceeding; but the methodology becomes more speculative, and the uncertainty band grows.
+One can still factor uncertainty into the analysis by providing probability distributions of net benefits from some policy change, but the resulting probability distributions are likely to be very wide.
+This uncertainty makes it difficult for analysts to give programmatic recommendations with any degree of confidence, and difficult to compete with special interests that have very clear ideas of their valuations of programmatic outcomes.
+As a result, benefit-cost analysis is more or less useful in providing a framework for policy decisions, depending on the underlying properties of these decisions.
+If markets and valuation methods are clear and time periods are relatively limited, as with river and harbor projects, subsidy measures, tax or tariff changes, benefit-cost analysis is usually able to frame public decisions pretty clearly.
+But for programs involving research, climate change, or other types of extreme scientific uncertainty, decisions are framed much less clearly.
+Even in these areas, benefit-cost analysis has value, as I will try to illustrate, but one must be very careful to ensure that the results of the analysis are not misused.
+These normative considerations limit the potential value of benefit-cost analysis for some public policy decisions.
+But even apart from limitations on the potential value, the actual value of benefit-cost analysis could be limited if, for example, the analysis is routinely overridden by political forces.
+Many observers think this is the case, but as Keynes argued, ideas and analysis can matter as well, often in ways more impressive than at first glance.
+Down in the trenches, government staffers often use benefit-cost analysis to help illuminate, and even make, many key public policy decisions.
+In other cases, rules of the road, often taken right out of benefit-cost textbooks, importantly constrain public actions.
+And in still other instances, benefit-cost rules have the potential for being used in a more important way.
+The normative and positive conditions can also intersect.
+On one side, with a set of decisions for which benefit-cost analysis has little potential use, structures that force its use could be harmful.
+In particular, they could stress the quantitative aspects of some program more than the possibly greater, but more difficult to value, qualitative aspects.
+On the other side, in areas for which benefit-cost analysis could be of use, instituting decisionmaking structures that promoted such analyses would make sense.
+Addressing all of these questions requires a complete characterization of the public policy process, a very tall order.
+I will not attempt that, but I will try to indicate the range of likely outcomes through a series of examples.
+The examples, many of which are taken from personal experience, are chosen strategically to illustrate some general principles.
+The examples and principles give a mixed message regarding benefit-cost analysis.
+In some areas, benefit-cost analysis could be used more intensively, and I suggest some decisionmaking structures to promote it.
+But in other areas, present regulations force more reliance on benefit-cost analysis than is useful or desirable.
+Here some relaxation may be in order.
+Rivers, Dams, and Harbors The classical objects for benefit-cost analysis are physical investment projects.
+The government or some private body wants to build a physical structure, such as a dam or a harbor, or to dredge a river.
+Initial capital costs are weighed against project benefits, usually involving some sort of increased business activity.
+Often such projects involve long-term environmental costs, perhaps the result of endangering a rare biological species.
+But in general if the scientific and time discounting uncertainties are not major, a reasonably accurate net benefits tally can be made.
+Project evaluations of this sort have been done since the 1950s, and several case studies have been recorded.
+An interesting study from the 1970s was the Tellico Dam on the Little Tennessee River, the first physical investment project that involved the Endangered Species Act (ESA).
+The Tennessee Valley Authority (TVA) evaluated its own project, a situation that raises an issue akin to a conflict of interest: The evaluator was asked to evaluate a program that the agency was advocating, leading to suspicions that the evaluation would be biased.
+The initial TVA evaluation foresaw positive net benefits for the Tellico Dam, and TVA actually started construction.
+But the dam would have involved the flooding of a fast-flowing stream, which would have killed off the snail darter, a small minnow that was then thought to live only in this stretch of the Little Tennessee.
+In the midst of construction, an appeal was made to the Endangered Species Committee (ESC), which was set up under the ESA to prevent the completion of the dam.
+The ESC reanalyzed the TVA data, found many inconsistencies in the analysis, and recomputed the net benefits of the dam.
+ESC found these recomputed net benefits to be negative and held up construction, hence appearing to save the snail darter.
+But powerful Tennessee legislators overrode the ESC, and the dam was completed.
+Although the closing of the dam looked at the time to be a death warrant for the snail darter, other darters were found elsewhere in Tennessee, and the species lives to this day.
+But the story can still be unpleasant for advocates of benefit-cost analysis--the conditions were right for doing such an analysis, the analysis was done and reworked in response to criticism, it led to clear conclusions, and a decision was made.
+But this decision was then overridden at a political level.
+A recently publicized example, raising many of the same issues, may lead to a different conclusion about the positive significance of benefit-cost analysis.
+This case involves dredging the Delaware River to increase large tonnage shipping in the lower Delaware.
+Again, the agency advocating construction, the Army Corps of Engineers (ACE), did the analysis, though this time the General Accounting Office (GAO) was asked to comment on the ACE analysis.
+ACE found positive net benefits for dredging, but GAO raised a number of technical issues, most of them not contested by ACE, that generally lowered the net benefits tally.
+This time the political forces were evenly divided--basically, politicians in Pennsylvania favored dredging, and politicians in New Jersey opposed it.
+Unlike the TVA project, the environmental issues were not so stark: Although in any large project like this environmental degradation is inevitable, in this case no endangered species appeared to be at risk.
+There was, however, another strong force questioning the ACE analysis.
+The Office of Management and Budget (OMB) wanted to cut government spending wherever possible, including that done by the ACE, and it found benefit-cost analysis a useful framework for making this decision.
+The future of the dredging project is at this point in doubt.
+ACE is doing a reanalysis, which according to predictions implied in the GAO report, should show only marginal, perhaps not even positive, net benefits.
+What will happen afterwards is not clear, but benefit-cost analysis may yet provide the framework through which this type of spending can be better judged.
+Loan Guarantees Another relatively clear example of the use of benefit-cost analysis involves loan guarantee programs.
+In recent years, the Congress has reacted to industry difficulties in steel, oil and gas, and airlines (post September 11, 2001) by passing loan guarantee programs.
+The programs lay down some conditions, allocate funds for the guarantees, and empower a board to approve or reject particular loan guarantee applications.
+The Chairman of the Federal Reserve Board or his designee has been made chair of most of these loan boards.
+Apparently winning the title of designated designee, I am now chairing my third loan guarantee board.
+I will neither defend nor oppose the wisdom of the Congress in reacting to industrial problems with loan guarantees.
+One can make a strong argument for leaving the allocation of capital to the free market.
+Or one can argue that certain industries may be experiencing temporary blockages in credit, blockages that could be overcome with governmental loan guarantees.
+Whatever the case, the guaranteed loans carry a contractual obligation for repayment, and the loan guarantee board decides on guarantee applications, with the ability to review applications on an impartial and nonpolitical basis.
+The loan guarantee boards try to identify loan projects with prospects that are neither too positive nor too negative.
+The projects must have a low enough probability of repayment that private lenders would not fund them, but also a high enough probability of repayment that the taxpayer's interest can be adequately protected.
+Taxpayers can be compensated in several ways.
+Firms receiving loan guarantees can be asked to find private lending partners to take on some of the risk--that is, the guarantees can insure only part of the total loan.
+Firms receiving loan guarantees can give the government fees or put up collateral to cover the government's share of the loan.
+Or firms receiving loan guarantees can give the government stock warrants, under which the government would have the option to buy a specified number of shares of the firms' stock at a specified price over a specified time.
+The government is legally prevented from actually voting this stock, and stock bought under these warrants is typically soon resold, giving the government a financial interest, but not a management interest, in the firm getting the loan guarantee.
+Finding appropriate loans is where benefit-cost analysis comes into play.
+For each loan guarantee application, the board staff and its consultants work out year-by-year models of repayment probabilities, along with calculations of the value of fees, collateral, and stock warrants (using a standard option pricing formula).
+These calculations are combined into a net credit subsidy for a loan, effectively the net present value of the loan guarantee.
+The loan guarantee board is in effect doing a benefit-cost analysis for each application.
+For the most part, these analyses do not entail difficult theoretical problems: They do contain some uncertainty about revenues and costs, but not major scientific uncertainty, and the time horizons for the loans are relatively short.
+The net present value of a loan transaction should presumably be positive before a private lender would make the loan.
+Generally the government receives very few loan guarantee applications with highly positive net benefits, presumably because applicants are deterred by the taxpayer compensation provisions and find private credit markets more hospitable.
+On the other side, the board would likely reject applications with highly negative net benefits, on the grounds that the interests of taxpayers would not be adequately protected.
+But in the middle range, where the net benefits of the loan guarantee application are only slightly negative, approving the loan guarantee application may be appropriate.
+In this range, the application appears to meet the statute's intent of funding projects that might get private money were it not for the alleged blockage of credit markets.
+Leaving aside the ultimate wisdom of interfering in private credit markets in this manner, these programs seem to represent triumphs of benefit-cost analysis.
+Benefit-cost analysis can be, and was, used to estimate the effects of the guarantee.
+Decisions have been based on benefit-cost outcomes to a significant degree, and at least so far not one of these decisions has been overturned politically.
+Clean Air But things look different for another program, one with perhaps the largest amount of benefits and costs at stake--the reduction of air pollution.
+Since 1981, federal regulatory agencies have been required to conduct economic analyses for clean air regulations with expected annual costs in excess of $100 million.
+The Clean Air Act, originally passed in 1970, appears to be the most significant of the laws falling under this requirement.
+The Environmental Protection Agency (EPA) has been charged with estimating benefits and costs, again a case in which the evaluator is evaluating the agency's own program.
+EPA estimated the direct costs of its own measures to reduce air pollution over 1970-90 to be $689 billion and the benefits to be $29.3 trillion.
+Economists have raised their eyebrows at both numbers, in particular the latter because it is larger than the aggregate value of U.S. household net worth.
+Superficially environmental legislation may appear to be a triumph for benefit-cost analysis, but the reality is considerably less impressive.
+For one thing, especially on the benefits side, many profound scientific uncertainties exist about the health effects of particulate matter on different individuals, in different regions of the country, and at different levels of exposure.
+These uncertainties lead to large ranges of statistical uncertainty about the overall net benefits tally and give scope for determined advocates of such legislation to influence results.
+The uncertainties do not seem significant enough to invalidate the use of benefit-cost analysis in evaluating these programs, as they might be for some other programs, but they are significant enough that the analyses must be used with great care.
+Also their results must be scrutinized given that the evaluator and the program advocate are the same agency.
+Past EPA analyses of the benefits and costs of cleaner air have been criticized on many grounds.
+Costs were said to have been understated because indirect costs and general equilibrium effects were ignored.
+Benefits are said to have been overstated because they were based on death probabilities and life valuations for middle-aged individuals, when those most at risk from air pollution are older persons with presumably lower valuations of their remaining lifetimes.
+Extrapolating benefits to very low dosage levels (as the air gets cleaner and cleaner), involves serious difficulties simply because of scientific uncertainty.
+But the biggest problem with these analyses is that they were typically not incremental.
+One would expect a series of outcomes for air pollution projects.
+The first ones might be expected to include the relatively small costs of eliminating the obvious and serious sources of pollution.
+But as we move across the spectrum, pollution effects might lessen, marginal costs of abatement might rise, and marginal benefits of further improvements in air quality might fall.
+Whether or not such is the case, a standard requirement of proper benefit-cost methodology is to make the analysis incremental--to look not at the total benefits and costs of all pollution-reduction measures since their inception but at the marginal benefits and costs of particular changes in pollution-reduction standards.
+Recent EPA benefit-cost analyses have not asked these marginal questions.
+The controversy came to a head with the 1997 amendments to the Clean Air Act, called the National Ambient Air Quality Standards (NAAQS) for ambient ozone and particulate matter.
+The EPA's analysis was heavily criticized for not focusing on the particular marginal changes under consideration, for ignoring indirect costs, and for overlooking the various extrapolation difficulties mentioned above.
+Economic analysis in general was widely used and highly effective in the Clinton Administration, but the EPA appeared to be a glaring exception.
+EPA eliminated its policy analysis office, and the agency head often gave speeches that were critical of benefit-cost analysis.
+Economists at the Council of Economic Advisers and the Treasury Department criticized the EPA study of NAAQS and its results, but they could only register dissent, not stop the standards from going into effect.
+Hence the NAAQS standards represent significantly less of a triumph for benefit-cost analysis than might be apparent.
+Big Science Benefit-cost analysis can also be useful in analyzing big science projects.
+Even though the benefits are very difficult to estimate because of scientific uncertainty, benefit-cost analysis can be adapted to provide useful input to policy decisions.
+One such project was the superconducting super collider (SSC) in the 1980s.
+The purpose of the SSC was to probe the structure of matter at very high energy levels.
+The SSC would have contained two proton beams, each with an energy level of twenty trillion volts, more than twenty times greater than for existing facilities.
+When these proton beams intersect in chambers, some protons from each beam will collide, causing interactions among their constituent particles.
+To accomplish this interaction with sufficient power, a series of racetrack-shaped rings, fifty-three miles in circumference, needed to be constructed.
+In such research projects, benefit-cost analysis comes in mainly on the cost side.
+On the benefits side, even scientists have great difficulty determining what might be learned from the project and the incremental value of this knowledge.
+Hence decisionmakers, even if they were to try to use benefit-cost analysis, are forced to focus on costs, comparing costs in quantitative terms with a very qualitative notion of project benefits.
+Usually this analysis is done by comparing the qualitative benefits and the quantitative costs of alternative projects, reducing those to some common denominator such as presumed scientific benefits per dollar.
+A decision was made to go ahead with the SSC in 1990, with the project to be located in Texas.
+The United States had alternatives: It could have joined a European consortium to build a collider, or it could have built a cheaper and less powerful one.
+Initially, the overall project was expected to cost somewhere between $3 billion and $4 billion, with annual spending to be about $600 million.
+Even at this level, spending would have accounted for about 15 percent of the annual federal research budget for the physical sciences.
+But as often happens for such projects, the estimated construction costs escalated rapidly.
+Within a few years they were at least three times the initial estimate, and spending for the SSC would have used up about half the annual federal research budget.
+In areas like research, uncertainties are so great that putting too many eggs in one basket is unwise, and this project would have put a lot of SSC eggs in the scientific research basket.
+Also, by this time overall budget deficit problems had become serious, and the Congress was subject to tight limits on the growth of discretionary government spending.
+This political consideration eventually made the SSC just too costly, and the project was terminated.
+The Energy Department is still looking into some of the cheaper alternatives, such as the European consortium.
+Given the difficulty in valuing benefits for big science projects, evaluations of such projects are not true benefit-cost analyses.
+At the same time, even the focus solely on costs could represent a triumph for benefit-cost analysis.
+In the case of the SSC, careful cost estimates were prepared and periodically updated, and the Congress was more or less continually informed about what the SSC would cost and how it might lead to reductions in spending for other worthwhile scientific projects.
+In the end, this attention to project costs proved the deciding factor in abandoning the effort.
+Assessment These are four cases out of perhaps hundreds or even thousands in which governmental decisionmaking has involved benefit-cost analysis.
+They are not intended to represent a complete population sample but only to illustrate certain types of outcomes.
+In each case, benefit-cost analysis was used, and it often had some effect.
+In some cases, the benefit-cost analysis seemed to be well done; in other cases, it was not.
+One can draw several lessons from the examples: Beware of limitations.
+One likes to think that benefit-cost analysis, as a flexible and comprehensive framework for considering program information, should be used for almost any public decision.
+But that posture may be too aggressive, even for advocates of the technique.
+Some programs raise such fundamental concerns or operate over such a long time, often centuries, that benefit-cost analysis may not limit decisionmaking uncertainties very much.
+Enforcing its use in such cases may just lead to a superficial or phony benefit-cost analysis and give the whole enterprise a bad name.
+To make sure that the analysis is sound and not turned to political ends, it might be required only for the particular types of decisions for which it could have great value.
+The matter is delicate because, used appropriately, benefit-cost analysis can help in a wide variety of cases.
+But in the end, protecting benefit-cost analysis from possible misuse may be more important.
+Independent evaluations are crucial.
+Almost every time the agency advocating the program does the evaluation, there is trouble.
+Whether it was TVA evaluating the Tellico Dam, the ACE evaluating a dredging project, or EPA evaluating air pollution standards, outside analysts found many problems and many biases in the evaluations.
+Just as corporations should be subject to the scrutiny of outside auditors, government agencies should be subject to the scrutiny of outside evaluators.
+The best solution would be to use an independent group, such as the National Academy of Sciences, the GAO, or the Congressional Budget Office, to do the evaluation.
+A weaker solution might be to require all agency evaluations to be independently reviewed by outsiders before they could go forward.
+There are too many uncertainties, too many areas in which judgment is necessary, and too much at stake to trust the agencies running the programs to do their own evaluations.
+Independent decisionmaking structures are desirable.
+Public policy decisionmaking can often be improved by empowering semi-independent boards to make decisions.
+The decisions obviously must be the sort that are amenable to benefit-cost analysis.
+Without sacrificing any democratic objectives, the Congress can give these boards reasonably tight instructions on how to proceed, the criteria to use, and so forth.
+But empowering an independent board to make decisions on particular applications insulates these decisions from the most intense political heat.
+In the end, the Congress can always override the board, as it did with the Tellico Dam, but a measure of protection remains, one that has been helpful with the loan guarantee boards.
+One can, of course, always ask why the Congress should want to set up an independent board.
+Often the Congress may not really want to involve itself in decisions about particular applications.
+The Congress might confine itself to making overall programmatic decisions, telling the board what criteria to use and what objectives to maximize.
+Among other things, this approach lessens the possibility that the board, and indeed the Congress itself, will be subject to political pressure from lobbyists.
+An obvious risk is that democracy will be sacrificed in delegating too many decisions to boards, but a counter-risk is that not delegating opens up decision processes to special interests.
+The evaluation methodology is helpful.
+Many particular issues within benefit-cost analysis have been around for decades--how to discount future revenues and costs, how to deal with expectations, how to treat risk, and so forth.
+Scholars have debated these issues to the point at which a reasonable consensus exists on how to handle them.
+This methodological tradition gives agencies something to go on when they actually produce benefit-cost analyses.
+Moreover, the tradition of outside conferences and reports exposes the analyses to independent criticism, which can again be based on standard principles.
+Both the methodology and the critical tradition were helpful in improving the analysis of the rivers and harbors projects and at least in questioning the air pollution restrictions, though not always successful in altering the final project decisions.
+The budget process helps.
+The federal budget process is one of the most criticized governmental processes around, with observers routinely pointing to projects that should have been, but were not, screened out.
+But the federal spending and budget process seem to help benefit-cost analyses of projects.
+The budget imposes discipline, if imperfectly.
+When projects threaten to become too costly, as the SSC did and dredging the Delaware River may be, OMB and other budget cutters can be expected to join the fray and often support the results of the benefit-cost analyses.
+Indeed, the relationship can be symbiotic.
+OMB needs benefit-cost analysis to weed out projects (otherwise they would be acting in a peremptory manner).
+Benefit-cost analysts often welcome the sheer political heft of OMB.
+Those opposing the dredging of the Delaware River will find stopping the project easier with the help of OMB than without it--just as stopping the SSC was easier once costs started escalating rapidly in an era of increasingly tight budgets.
+And conversely, limiting possible excesses in pollution-reduction programs is difficult because the costs are not on-budget and are not deducted from the appropriations of any committee; they are just out there and borne by the private sector.
+Stopping existing programs is not impossible.
+Although stopping projects already begun seems difficult, in fact it can happen.
+After an initial decision to go ahead, the SSC was stopped, once the costs escalated so much that they could not be hidden even in the massive federal budget.
+The Tellico Dam was almost stopped once the precarious status of the snail darter was discovered.
+Benefit-cost analyses of projects can be done at any point, and there is precedent for stopping programs in midstream.
+Advocates fighting a program should not give up once the first spadeful of dirt has been dug.
+Benefit-cost analysis can also be used to improve the workings of programs.
+Although my discussion of the air pollution reduction program did not stress it, benefit-cost analysis-- really a focus on economic efficiency in general--has improved the economic efficiency of pollution-control programs.
+One example is the emissions-trading scheme operated by EPA.
+Emissions trading allows producers that would find reducing emissions very costly to buy pollution rights from others.
+Both producers benefit while the given amount of pollution reduction is achieved.
+Whatever the gross benefits of reducing air pollution, a topic that may never be resolved to everyone's satisfaction, there is broad agreement that issuing emissions-trading permits is the way to keep compliance costs as low as possible.
+EPA has operated a successful emissions-trading program for a decade.
+Conclusions On reading about various scandals and outrages in the newspaper, one could easily be cynical about public policymaking and skeptical that the use of benefit-cost analysis makes much difference.
+Certainly a great amount of this cynicism and skepticism is warranted, and surely Keynes overestimated the power of ideas as opposed to the power of vested interests.
+At the same time, this brief discussion of the way benefit-cost analysis is actually used in public decisionmaking tried to highlight some promising tendencies.
+Structures requiring the use of benefit-cost analysis are built into the public decisionmaking apparatus in various ways, permitting benefit-cost analysis often to be of critical importance.
+But to achieve maximum potential, more is required.
+First, we must make sure that regulations have not overused benefit-cost analysis and extended it into areas where the scientific, time, or measurement difficulties are simply too great for proper analysis.
+We must split the evaluation of projects from the agency promoting the projects and avoid an obvious invitation for distortion.
+We should work out ways to shield project decisions from the intense heat of power politics when benefit-cost analysis can be done with reasonable precision.
+With these and other changes, the promising tendencies of benefit-cost analysis can provide a basis for improved public decisionmaking.
+Source Notes For rivers and harbors projects, I became aware of the Tellico Dam project from my students at the University of Michigan.
+I discussed the project in greater detail in my textbook, A Guide to Benefit-Cost Analysis, chapter 8, Waveland Press, first issued in 1990 and reissued in 1998.
+The chapter gives additional sources.
+Material on the Delaware River dredging project comes mainly from a GAO Report, Delaware River Deepening Project, GAO 02-604, June 2002.
+The airline loan guarantee board information comes from personal experience.
+Material on the Clean Air Act is taken from Jeffrey A. Frankel and Peter R. Orszag (eds.
+), American Economic Policy in the 1990s, chapter 9, MIT Press.
+The chapter gives several additional sources, but one very useful article is Randall Lutter and Richard B. Belzer, "EPA Pats Itself on the Back," Regulation volume 23, no.

@@ -1,0 +1,81 @@
+Unnamed: 0,sentence,label,score
+0,"Of course, he’s best known for leading the fight to tame the double-digit inflation that he inherited as Chair, thus laying the foundation for the prosperity and price stability we enjoy today.",LABEL_1,0.9538102746009827
+1,"As always, we base our decisions on judgment of how best to achieve the goals Congress has given us: maximum employment and price stability.",LABEL_2,0.7388972640037537
+2,"With our decisions through the course of the past year, we believe that monetary policy is well positioned to serve the American people by supporting continued economic growth, a strong job market, and inflation near our symmetric 2 percent goal.",LABEL_2,0.505359947681427
+3,"Household spending has been strong, supported by a healthy job market, rising incomes, and solid consumer confidence.",LABEL_1,0.9988682270050049
+4,"As has been the case for some time, sluggish growth December 11, 2019 abroad and trade developments have been weighing on those sectors.",LABEL_0,0.9856768846511841
+5,"And with a strong household sector and supportive monetary and financial conditions, we expect moderate growth to continue.",LABEL_0,0.9613110423088074
+6,"As seen from FOMC participants’ most recent projections, the median expectation for real GDP growth slows slightly over the next few years but remains near 2 percent.",LABEL_2,0.990236222743988
+7,"The unemployment rate has been near half-century lows for well more than a year, and the pace of job gains remains solid.",LABEL_1,0.8125091791152954
+8,Employment gains have been broad based across all racial and ethnic groups and all levels of education.,LABEL_1,0.8754162788391113
+9,These developments underscore for us the importance of sustaining the expansion so that the strong job market reaches more of those left behind.,LABEL_0,0.9544113874435425
+10,We expect the job market to remain strong.,LABEL_1,0.6861233711242676
+11,The median of participants’ projections for the unemployment rate remains below 4 percent over the next several years.,LABEL_2,0.9923807978630066
+12,Inflation continues to run below our symmetric 2 percent objective.,LABEL_0,0.9876574277877808
+13,"Over the 12 months through October, total PCE inflation was 1.3 percent, and core inflation—which excludes volatile food and energy prices and is a better indicator of future inflation—was 1.6 percent.",LABEL_2,0.6371033787727356
+14,"While low and stable inflation is certainly a good thing, inflation that runs persistently below our objective can lead to an unhealthy dynamic in which longer-term inflation expectations drift down, pulling actual inflation even lower.",LABEL_0,0.9947235584259033
+15,"In turn, interest rates would be lower as well and closer to their effective lower bound.",LABEL_0,0.9725960493087769
+16,"As a result, the scope for interest rate reductions to support the economy in a future downturn would be diminished, resulting in worse economic outcomes December 11, 2019 for American families and businesses.",LABEL_1,0.9598342776298523
+17,"Against the backdrop of a strong economy and supportive Chair Powell’s Press Conference FINAL monetary policy, we expect inflation will rise to 2 percent.",LABEL_1,0.9920862317085266
+18,We’re strongly committed to achieving our symmetric 2 percent inflation goal.,LABEL_2,0.6751741170883179
+19,"Over the course of the past year, our views about the path of interest rates that would best achieve our employment and inflation objectives changed significantly, as the economy faced some important challenges from weaker global growth and trade developments.",LABEL_0,0.8188825845718384
+20,"As the year progressed, we adjusted the stance of monetary policy to cushion the economy from these developments and to provide some insurance against the associated risks.",LABEL_1,0.9232383370399475
+21,"In addition, inflation pressures were unexpectedly muted, strengthening the case for a more supportive stance of policy.",LABEL_0,0.9955790638923645
+22,"The medians of participants’ projections for economic growth, the unemployment rate, and inflation are little changed from a year ago, aside from a lower inflation projection for 2019.",LABEL_2,0.9994155168533325
+23,"Of course, that is the function of monetary policy—to adjust interest rates to promote employment and price stability in response to forces acting on the economy.",LABEL_2,0.9685964584350586
+24,"We believe that the current stance of monetary policy will support sustained growth, a strong labor market, and inflation near our symmetric 2 percent objective.",LABEL_2,0.9432878494262695
+25,"As long as incoming information about the economy remains broadly consistent with this outlook, the current stance of monetary policy likely will remain appropriate.",LABEL_2,0.9984930753707886
+26,"Finally, I wanted to note that we’ve been purchasing Treasury bills and conducting repurchase operations, consistent with the plan we announced in December.1 These technical operations are aimed at maintaining an ample level of reserves and addressing money market pressures that could adversely affect the implementation of monetary policy.",LABEL_1,0.9080576300621033
+27,"Well, that’s—what’s happening there is the fact that the relationship between resource utilization, or unemployment, and inflation has just gotten weaker and weaker over the years.",LABEL_2,0.9737652540206909
+28,"If you go back 50 years, you would have seen that, when there was—when labor markets were tight and unemployment was low, inflation moved right up.",LABEL_1,0.9555438756942749
+29,"And then as the Fed got control of inflation, the connection got weaker and weaker and weaker, to the point where there’s still a connection, but it’s—it’s a very faint one.",LABEL_2,0.9993517994880676
+30,"And we believe that policy is somewhat Chair Powell’s Press Conference FINAL accommodative, and we think that that’s the appropriate place for policy to be in order to drive up inflation.",LABEL_0,0.8341543078422546
+31,"I mean, we—the—again, the relationship between slack in the economy and inflation is weak, has been weak.",LABEL_2,0.9998069405555725
+32,"The same thing is true, but much less true, of inflation, the relationship between—in a way, the wage Phillips curve has a higher coefficient than the price Phillips curve does.",LABEL_2,0.9998082518577576
+33,"What’s different is, you have a very different—you have very different structural characteristics in the economy, particularly around inflation.",LABEL_2,0.9997770190238953
+34,"So now, as you can see, inflation is barely moving up, notwithstanding that unemployment is at 50-year lows and expected to remain there.",LABEL_0,0.617736279964447
+35,"And, by the way, this is—it’s a good thing that, you know, we think we can—I think we’ve learned that unemployment can remain at quite low levels for an extended period of time without unwanted upward pressure on inflation.",LABEL_0,0.7447719573974609
+36,"In fact, we need some upward pressure on inflation to get back to 2 percent.",LABEL_0,0.9967036843299866
+37,"And the purpose of all this, let’s remember, is to assure that our monetary policy decisions will be transmitted to the federal funds rate, which in turn affects other short-term rates.",LABEL_2,0.9996774196624756
+38,"And in order to move rates up, I would want to see inflation that’s persistent and that’s significant—a significant move-up in inflation that’s also persistent before raising rates to address inflation concerns.",LABEL_1,0.9990678429603577
+39,It happens to be my view that that’s what it would take to want to move interest rates up in order to deal with inflation.,LABEL_1,0.9995467066764832
+40,"I think what you’re seeing is, you’ve got a full year of the median being flat, which is, we think, accommodative, modestly accommodative, and inflation not moving up very much, as we’ve discussed.",LABEL_0,0.9530664682388306
+41,"And that underscores, I think, the challenge of getting inflation to move up.",LABEL_2,0.6565328240394592
+42,"The Committee has wanted inflation to be at 2 percent, squarely at 2 percent, for—ever since I arrived in 2012.",LABEL_0,0.941408097743988
+43,"And it hasn’t happened, and it’s just—it’s because there are disinflationary forces around the world, and they’ve been stronger than, I think, people understood them to be.",LABEL_0,0.9858933687210083
+44,"I will also say to you that a number of people wrote down, and you can’t see this at this level of detail, but—today—but a number of people did write down overshoots of inflation as appropriate—under appropriate policy.",LABEL_1,0.9351344704627991
+45,"Well, it’s just that there is still, empirically, by many, many different—by the work of many different analysts, there is a relationship between resource utilization, by which I mean unemployment, and inflation.",LABEL_0,0.8517174124717712
+46,That means that we can run at low levels of unemployment and have a historically good—in some dimensions—labor market without having to worry about inflation.,LABEL_2,0.46029412746429443
+47,"It also means, though, that it’s not easy to move inflation up.",LABEL_1,0.9399868249893188
+48,It’s been very challenging to get inflation to be at target.,LABEL_2,0.8474234938621521
+49,"And I would also point out that this year, which has been a good year for the economy, inflation—core inflation is actually running at 1.6 percent, whereas it ran close to 2 percent most of last year.",LABEL_0,0.9926179051399231
+50,"And so the—the changes that we’re looking at to the framework are—I think they take all of that on board, and—but they’re—what they’re—what they are designed to do is to strengthen the credibility of that—of that inflation target, but only if followed by policy.",LABEL_2,0.9343228936195374
+51,"Ultimately, it will take time to establish—to move inflation expectations up from where they are, which appears to be a bit below 2 percent, will not happen overnight.",LABEL_0,0.9584786295890808
+52,"You know, the Fed has great inflation credibility, but inflation expectations are anchored at about their 25-year average, which is a few ticks below 2 percent.",LABEL_2,0.999566376209259
+53,"And you’re right, though, that we’ve talked here a lot about inflation.",LABEL_2,0.997829020023346
+54,"And I think that the—I think, more broadly, over a period of years—many years—we’ve been learning that the natural rate of unemployment is lower.",LABEL_1,0.9697974324226379
+55,"It’s just been—it’s in estimates not just at the Fed, but among—broadly among economists—labor economists have seen that the connection—that we can sustain much lower levels of unemployment than had been thought.",LABEL_0,0.8815481662750244
+56,"And, as I mentioned, that’s a good thing because that means we—we don’t have to worry so much about inflation.",LABEL_0,0.782602071762085
+57,"I—you know, the Fed Listens events are about inflation to a much lesser extent than they are about maximum employment.",LABEL_2,0.9774177670478821
+58,"If you’ve—if you’ve listened to or attended any of those, the discussion—we always focus on inflation as well, but the discussion is really around what’s happening in low- and moderate-income communities and among small businesses.",LABEL_2,0.9996923208236694
+59,But it was help to get—helpful to get it in the context of a monetary policy review.,LABEL_2,0.9818972945213318
+60,And I think that the fact that these communities have so much—such high levels of unemployment and low levels of labor force participation tells you that there is slack out there.,LABEL_2,0.9994205236434937
+61,"And I think that does also inform our understanding of what we mean by “maximum employment.” And it’s been a very positive—I would say that the Fed Listens events have been—have been extraordinarily positive, and they’re certainly something we’ll repeat.",LABEL_0,0.9871305823326111
+62,"You know, I—I think we have kind of internalized—and this isn’t—this isn’t news for today, this is something we’ve been saying for, you know, for several years—you’ve seen us moving down our estimates of the—of maximum employment.",LABEL_2,0.9988501071929932
+63,"In fact, it’s already—it’s already understood, I think, that—that there’s more—even though we’re at 3½ percent unemployment, there’s actually more slack out there, in a sense.",LABEL_0,0.9961850047111511
+64,"And—and the risks of, you know, using accommodative monetary policy, our tool, to explore that are relatively low.",LABEL_0,0.9975829124450684
+65,"Well, we did, actually—if you look at the statement, you’ll notice that we—we did call out global developments and muted inflation pressures later in the statement.",LABEL_0,0.9960507750511169
+66,"We had an economy growing at 3 percent, we had inflation at 2 percent, and we had a trillion and a half dollars’ worth of stimulus arriving, and the federal funds rate was 1.4 percent.",LABEL_0,0.9971951246261597
+67,"Just look at the IMF’s forecasts of growth from, you know, the spring of 2018 and compare them to now.",LABEL_0,0.9868409633636475
+68,"Monetary policy is not the right tool to react in the very short term to volatility and, you know, things that can change back and forth and back and forth as this has December 11, 2019 happened, as is probably typical of a—of a large complex negotiation.",LABEL_2,0.9997755885124207
+69,"And what it is is, it’s an expression of the thinking about individual Committee members about appropriate monetary policy and the path of the economy.",LABEL_2,0.9996367692947388
+70,"At this meeting, we talked about the way monetary policy affects different groups in the economy.",LABEL_2,0.999805748462677
+71,"And those things—many of those things would wind up as changes, if you will, modifications to the “Statement of Longer-Run Goals and Monetary Policy Strategy.” I think that process will take until the middle December 11, 2019 of the year where—but we want to approach it very thoroughly and very carefully.",LABEL_2,0.9998584985733032
+72,You know—and if you define going anywhere as a 4 percent inflation target—let me talk about the 4 percent inflation target.,LABEL_2,0.9997455477714539
+73,We want to—we want to have this be a successful exercise where we meaningfully improve our monetary policy framework.,LABEL_2,0.9584245681762695
+74,"For instance, one would be that productivity has just been low.",LABEL_2,0.9994294047355652
+75,So wages should go up to cover inflation and productivity.,LABEL_0,0.9807136654853821
+76,"Productivity has been low, and that—that is very likely to be holding back wages.",LABEL_1,0.9995110034942627
+77,"And, again, at the end of the day, that probably has most to do with productivity.",LABEL_0,0.9896949529647827
+78,"And now, unemployment has been in the threes for a year and a half, and we still see wage inflation, as you mentioned.",LABEL_2,0.9997281432151794
+79,"The level of wage inflation has actually moved down, although, there may be compositional effects in that number that may—that may be, to some extent, about younger workers coming in at lower wages that—than retiring workers.",LABEL_1,0.9921936988830566

@@ -1,0 +1,148 @@
+They are supposed to look past any superficial good news and try to discern longer-run problems--perhaps inflation heating up, perhaps something else.
+For a central banker, every silver lining has a cloud.
+The present time provides a good illustration.
+We are just completing the forecasting season, at which time various economists make their projections.
+The Blue Chip survey of leading business forecasters predicts that the growth of real gross domestic product will average 3.5 percent over the next two years and that unemployment rates will decline slightly.
+Unemployment rates are near their normal, or equilibrium, level, yet these forecasters still look for basic stability in core inflation rates.
+According to the Blue Chip survey, investment should grow at healthy rates, and productivity growth should remain strong.
+In these forecasts, the Federal Reserve is expected to keep raising short-term interest rates toward their equilibrium level.
+It all seems pretty healthy--what is there to worry about?
+Well, unfortunately, there could be something to worry about, and that is what I want to talk about today.
+It is the nation's low national saving rate, basically the share of our output that is devoted to building up the country.
+This share can be defined either as the share of output not consumed either by households or government, or as the share of output devoted to capital investment less the share represented by borrowing from foreigners.
+The last clause is important--high investment is a good thing, but if much of this investment is financed by borrowing from foreigners rather than by our own saving, there could be trouble spots down the road.
+Whether there will be such trouble spots, I don't know.
+That is another issue I'd like to discuss.
+National Saving As important as I think it is, national saving has always been relegated to the B list of economic measures.
+When economic data are released, there is always a great deal of attention to overall output, unemployment, inflation, interest rates, and budget and trade deficits.
+National saving rates have a lot to do with shaping each of these variables, but one searches in vain for mention of such rates.
+Today I am going to elevate national saving rates to center stage.
+I begin with a simple identity, taken from the national income accounts: NS = S - BD = I - B The left side of this identity covers the sources of national saving (NS), which are private saving in the economy (S) less budget deficits (BD).
+Budget deficits are subtracted because budget deficits imply that private saving is in part going to pay for the deficits of the government and not going into private investment.
+The more interesting part of the equation involves the uses of national saving, given on the right side of the identity.
+In an economy closed to international trade and capital flows, the long-time staple of undergraduate macroeconomics classes, national saving equals just domestic investment (I), which is spending on new capital equipment.
+This is the spending that raises productivity and output in the long run, and for that reason it is of special interest.
+But since economies are now open to international trade and capital flows, the identity must also account for the portion of national saving lent abroad or the portion of investment financed by borrowing from abroad (B).
+This is done by deducting B, essentially the nation's current account deficit (through another accounting identity of which I will spare you discussion).
+One value of writing out the national saving identity is to bring out an important short-run, long-run dichotomy.
+In the short-run, international borrowing can go up or down depending on cyclical movements, exchange rates, and a host of other factors.
+Very few countries do without any international borrowing or lending in a particular year.
+But over a longer period of time international borrowing kept close to zero stabilizes a country's ratio of international obligations to its gross domestic product (GDP).1 When this liability ratio is stable, a nation's saving is implicitly financing most of its domestic investment.
+Persistent borrowing, keeping investment above saving, may be possible, but it is not common, and in any case it automatically implies a buildup of international liabilities relative to its national output.
+If a nation wants to have its investment and not pay increasing shares of income in interest or dividends, it has to finance this investment by its own national saving.
+Or, turning the equation around, high national saving will raise future living standards whether it finances investment directly or reduces international borrowing.
+A further value in writing out the identity is to tie all this to budget and current account deficits, which are the focus of much popular discussion.
+In a word, both deficits are subtraction items.
+Budget deficits reduce national saving by, as I said earlier, siphoning off some private saving to pay for government deficits.
+Current account deficits can be associated with low national saving if a nation borrows to finance its investment.
+Some economists talk about a "twin deficit" scenario in which budget deficits lead to current account deficits of exactly the same size.
+There are macroeconomic scenarios that can lead to that result, and these, according to the equation, imply that investment and private saving move together or are fixed.
+But it is also possible to imagine many scenarios in which budget and current account deficits move independently.
+These deficits are certainly linked through their impact on national saving, but they are not twins.
+Finally, the numbers.
+National saving rates can be given in two ways, either by comparing gross national saving with gross domestic product, or by subtracting depreciation from both sides and comparing net national saving with net domestic product.
+It turns out not to matter for this discussion--by either definition, national saving rates are at a post-World War II low.
+The numbers since the mid-1960s are shown in figure 1.
+As suggested in the preceding discussion, when national saving rates are this low, the nation suffers from some combination of low investment and high borrowing.
+The former is bad from the standpoint of future productivity, the latter is likely not sustainable.
+Neither situation is desirable.
+Sources Side National saving has dropped because private saving rates have dropped, especially those for households.2 Moreover, in recent years federal budget deficits have shot up.
+From a national saving point of view, the rise in deficits would not be particularly alarming if private saving rates were high, nor would the decline in private saving rates be particularly alarming if the budget were in surplus.
+But the combination of low private saving rates and deficits can lead to problems.
+While there are ways to influence private saving rates by policy measures, changes in national saving for the most part follow changes in fiscal policy.3 Figure 2 shows the historical path for fiscal policy, specifically the federal deficit (in effect consigning state and local governments to the private sector).
+The dotted line shows the primary deficit, which is the total federal deficit less interest payments, as a share of GDP.
+To stabilize the ratio of the stock of federal debt to GDP, this primary deficit should be kept close to zero.4 The solid line gives just this federal debt to GDP ratio.
+When viewed in a historical context the federal deficit picture does not look particularly troubling.
+The primary deficit ratio has cycled around zero, and the debt-GDP ratio has cycled between 25 and 50 percent.
+The debt-GDP ratio had a long downswing in the 1960s and early 1970s, followed by a long upswing in the 1980s.
+The United States ran fairly large primary surpluses in the 1990s, enough so to inspire talk of paying off the entire outstanding federal debt.
+But that brief period of good fortune has passed; primary deficits are back, and the debt-GDP ratio is rising again.
+For the intermediate future, the picture worsens somewhat.
+Recently, the Congressional Budget Office (CBO) made projections for the next decade.
+One of their scenarios took the so-called baseline budget, added in likely military spending for Iraq and Afghanistan, extended the recently enacted tax cuts, and adjusted the alternative minimum tax for inflation.5 Under these assumptions, the recent turn for the worse is likely to be reversed only slowly.
+The primary deficit averages around 2 percent of GDP for the next few years before gradually shrinking, and the debt-GDP ratio climbs back to about 45 percent by 2015.
+But these projections include only relatively certain budget obligations, and one can be forgiven for fearing that the actual numbers will turn out to be worse than the CBO projections, as they often do through no fault of the CBO.
+Hence, the medium-term projections do not give much reason for thinking that the downward pressure on overall national saving rates will be quickly reversed.
+If the medium term looks uncertain, the far future looks much worse.
+As is well known, the population of the United States is aging, and in a few decades a much larger share of the population will be in its retirement years, drawing on both Social Security and Medicare.
+The share of output devoted to these two programs will rise rapidly, putting even further downward pressure on national saving rates.
+The trends, especially for Medicare, are so alarming that these two programs alone could, in the space of little more than a decade, account for about half of federal spending.
+Changes have to be made in these large entitlement programs to avoid a real fiscal disaster.
+Of course changes can be made.
+While there are as yet not a great number of feasible ideas for significantly reducing the cost of Medicare, there are a number of proposals to reform Social Security.
+The President is touting a proposal, and ten years ago as chair of another Presidential advisory council on Social Security, I devised a proposal of my own.6 This is not the place to get into a full discussion of Social Security reform proposals, but one aspect of Social Security reform is important.
+Given the low national saving rates, and the fact that many American households do not save enough to avoid a big cut in their standard of living in retirement, it would seem desirable to have Social Security reforms that also raise national saving.
+One obvious and immediate way to do that would be to raise payroll taxes; another obvious, and perhaps less painful, way to do that would be to have individual accounts on top of Social Security.
+If these "add-on" individual accounts were to be mandated, as I proposed, those households who already save amply could reduce their other individual accounts while those who do no private saving for retirement would be forced to do more.
+Hence national saving would be increased, and increased for just those households who presently do little saving.
+Other types of Social Security reform seem less promising from a national saving point of view.
+If, for example, the individual accounts were to be "carved out" of present payroll tax payments, as President Bush has recently proposed, household saving would go up but government saving, in the first instance, would go down by the same amount, meaning that the initial impact on overall national saving would be nil.
+But carve-out individual accounts might eventually reduce saving because households getting individual accounts who are already saving for retirement might cut back on their pre-existing saving.
+Hence carve-out individual accounts seem more likely to reduce than increase national saving.
+This is not the only criterion for judging between add-on and carve-out individual accounts, but I think it is an important one.
+There may also be some way to compromise between mandatory add-on individual accounts that raise national saving but could be a tough sell politically, and carve-out individual accounts that are not likely to raise national saving.
+Some have suggested raising employee pension contribution rates by automatic default options for employer defined-contribution account.
+Under such a plan employees would be automatically enrolled in the employer's plan and would have to "opt out" to reject participation.
+Moreover, firms could be forced to carry employer defined-contribution accounts, as is done in Ireland.
+Other measures that might raise national saving are tax incentives to increase private saving, such as Individual Retirement Accounts (IRAs).
+These essentially reduce or eliminate the taxation of interest income and hence provide a price inducement for households to save more.
+While such measures are often advertised as ways to increase saving, one must be very careful.
+On one side, many households can easily claim the tax advantages by diverting existing assets into IRAs and not saving any more.
+On the other side, IRAs entail a federal revenue loss and a rise in deficits.
+Since national saving is defined as private saving less deficits, the larger deficits can actually make national saving decline in response to a measure that purports to increase national saving.
+If the private saving effect were large enough and the revenue loss small, it is also possible that IRAs would have the anticipated effect of increasing national saving.
+One cannot give a purely theoretical answer to the question--it depends on how the numbers come out.7 For years the economics profession has been engaged in a strenuous debate about these numbers, but it should be noted that overall household and national saving rates have declined significantly since IRA-type provisions were first introduced to the tax code.
+Even the mortgage interest deduction can enter in to the question.
+Through this deduction, households can borrow, add to their mortgage, reduce their taxes, and invest the proceeds in IRAs.
+Hence the mere presence of the mortgage interest deduction means that IRA-type measures, or consumption tax measures, that purport to increase private saving will, in fact, not increase private saving and could reduce national saving.
+That is why consumption-tax reform measures that omit treatment of the mortgage interest deduction are unlikely to promote national saving.
+Uses Side We have seen that national saving is likely to continue to be low, the result of a combination of low personal saving in the presence of possibly persisting budget deficits.
+As was mentioned, this sets up a difficult quandary--either investment will have to decrease, lowering future productivity, or international borrowing will have to continue at high levels, raising international liability ratios.
+The real question is whether the large-scale borrowing is sustainable.
+The historical record for the United States, presented in a form similar to that for budget deficits, is shown in figure 3.
+Again, the dotted line is the primary deficit ratio, which in the case of international accounts is just the trade deficit.
+The solid line is the ratio of net international liabilities to domestic GDP, a measure of the nation's ability to afford its liabilities.
+As recently as 1985, net U.S. liabilities to foreigners were zero.
+But since 1990 the United States has embarked on a long-term period of high trade deficits, and now the international liability rate is close to 25 percent of GDP and rising sharply.
+International wealth portfolios are getting increasingly heavy in dollar-denominated assets.
+How long can this process continue?
+We can first examine the international record.
+The international deficit that determines the growth or decline in a country's international liability ratio is the trade deficit, and there are few cases of countries running large-scale trade deficits for more than four or five years.
+By this standard, the U.S. borrowing spurt should have ended a long time ago.
+In line with this record, many authors have been predicting for some time that the combination of interest rates, income, prices, and exchange rates would adjust to end the U.S. trade deficits.8 But the deficits have not ended, and international economists are searching for reasons to explain the situation.
+Perhaps the simplest explanation is that the current situation meets the apparent needs of many countries.
+Under this view, which has been labeled the "co-dependency" view, the United States is permitted to overconsume through the combination of its inability to cut budget deficits and its unwillingness to save much privately.
+Other countries are permitted to support their export industries by keeping the dollar strong and their own currencies weak.9 These countries in effect create reserves by buying and holding stocks of U.S. Treasury debt.
+These international open-market purchases keep the dollar strong, the home currencies weak, and export industries competitive.
+Were countries trying to keep their own currencies strong, they would run out of the foreign assets to sell to support their own currency.
+But in keeping the dollar strong, all central banks have to do is to create reserves, and central banks can create reserves.
+Another possibility is that other countries, in Europe and much of Asia, have populations that are aging more rapidly than those in the United States.
+They may want to build up a stock of assets to prepare for their own retirement spending crises.
+Largely because of the productivity revolution here, these countries have been able to get better returns on their assets in this country than in their own, and they have been putting great quantities of saving in world capital markets, perhaps explaining the present low level of world long-term real interest rates.
+As a result, foreigners may be quite willing to accumulate dollar-denominated assets, and may appreciate the low U.S. national saving rate.
+A third possibility is that the so-called "home bias" in international saving-investment choices is gradually eroding.10 In this view, globalization has generally reduced the barriers to international asset diversification, and we are witnessing a rebalancing of wealth portfolios which, in the transition, can lead to persisting current account deficits or surpluses.
+It is very difficult to tell which of these explanations, or some combination of them, is on the mark and whether there are unknown fourth or fifth explanations.
+In each case there is an international self-interest argument to explain the situation, and it is difficult to assess the durability of this self-interest.
+The co-dependency view could have a natural stopping point when foreign central banks begin to worry about their heavy asset concentration in dollar-denomination assets and diversify their stock.
+The world-saving view could have a natural stopping point when the populations of the accumulating countries begin to retire, run down their assets, and sell their dollar-denominated assets to support the consumption of retirees.
+The disappearing-home-bias view could have a natural stopping point when wealth portfolios are rebalanced.
+This is all new and unexplored territory.
+But determining what explanation may be correct and stable may also be somewhat beside the point.
+However stable the underlying phenomena, it is much more stable for the United States to increase its own national saving and finance its own investment.
+This approach would support investment in the short run and make this investment more profitable in the long run, because the returns on capital would not be sent abroad.
+Other countries may still invest their saving here, but the United States would have a higher base of its self-financed investment.
+This situation would seem to be far and away the preferred course from a risk-management standpoint.
+Under such an approach, which I will term co-independence, the United States would gradually cut its budget deficit.
+Doing so would reduce aggregate demand and hence require other changes to preserve full employment.
+One such change would be that currency rates might shift in the direction of increasing U.S. net exports.
+To the extent that stimulation of net exports did not offset the fiscal actions fully, there is always monetary accommodation.
+One of the key mandates of the Federal Reserve is to preserve sustainable employment levels, and the Fed certainly could do that.
+In this strategy, other countries would have two requirements.
+To the extent that currency rates might need to adjust to restore international balance, foreign central banks should permit normal market readjustments.
+And to the extent that foreign net exports might decline as the United States cut its own trade deficits, foreign countries may need to stimulate their own economies, which they could do with some combination of monetary and fiscal policy.
+The result would be to preserve full employment around the world but with reduced capital account imbalances.
+Conclusion The message here could be worrisome but is really designed to provoke action.
+In the short run, output growth is healthy and inflation rates are stable.
+Investment shares are reasonable, but that is largely because the United States is borrowing such a huge amount from world capital markets.
+The key question is whether this borrowing is sustainable.
+However sustainable it is, the United States would seem well-advised to minimize risks by raising its own national saving to finance its own investment.

@@ -1,0 +1,33 @@
+Unnamed: 0,sentence,label,score
+0,"First, the Fed was not alone in underestimating the strength of inflation that revealed itself in late 2021.",LABEL_1,0.9899195432662964
+1,Let me start by reminding everyone of two immutable facts about setting monetary policy in the United States.,LABEL_2,0.9998252987861633
+2,"First, we have a dual mandate from the Congress: maximum employment and price stability.",LABEL_1,0.9973254203796387
+3,"We said that we would ""aim to achieve inflation moderately above 2 percent for some time"" to ensure that it averages 2 percent over time and that inflation expectations stay anchored.",LABEL_0,0.9965895414352417
+4,"My projection had inflation above 2 percent for 2021 and 2022, with unemployment close to my long-run estimate by the second half of 2022.",LABEL_2,0.9932303428649902
+5,"In April 2021, I said the economy was ""ready to rip,"" and it did.1 I chose to look at the unemployment rate and job creation as the labor market indicators I would use to assess whether we had made ""substantial further progress.""",LABEL_2,0.9943715333938599
+6,My projection was also based on the belief that the jump in inflation that occurred in March 2021 would be more persistent than many expected.,LABEL_1,0.999190628528595
+7,"With regard to future inflation, 13 participants projected inflation in 2022 would be at or below our 2 percent target.",LABEL_2,0.9988561868667603
+8,"In the March 2021 SEP, no Committee member expected inflation to be over 3 percent for 2021.",LABEL_2,0.9996317625045776
+9,"As I argued in a speech last December, this view was consistent with private-sector economic forecasts.2 When inflation broke loose in March 2021, even though I had expected it to run above 2 percent in 2021 and 2022, I never thought it would reach the very high levels we have seen in recent months.",LABEL_1,0.9988071918487549
+10,"All the suspected drivers of this surge in inflation appeared to be temporary: the one-time stimulus from fiscal policy, supply chain shocks that previous experience indicated would ease soon, and a surge in demand for goods.",LABEL_1,0.9991374015808105
+11,"In addition, we had very accommodative monetary policy that I believed would end in 2022.",LABEL_0,0.994635283946991
+12,"Over the summer of 2021, the labor market and other data related to economic activity came in as I expected, and so I argued publicly that we were rapidly approaching ""substantial further progress"" on the employment leg of our mandate.",LABEL_1,0.9962967038154602
+13,"Also, unlike the March SEP, every Committee participant now expected inflation to be over 3 percent in 2021 and just five believed inflation would be at 2 percent or below in 2022.",LABEL_2,0.7861068844795227
+14,"In addition, the vast majority of participants now saw risks associated with inflation weighted to the upside.",LABEL_1,0.9994396567344666
+15,"Numerous participants said that new data indicated that tapering should begin sooner than anticipated.3 Thus, in June, after observing high inflation for only three months, the Committee was moving in a hawkish direction and was considering tapering sooner and pulling liftoff forward.",LABEL_1,0.9992905855178833
+16,"At the July FOMC meeting, the minutes show that most participants believed that ""substantial further progress"" had been made on inflation but not employment.4 Tapering was not viewed as imminent by most participants.",LABEL_1,0.9977600574493408
+17,"I considered this a punch in the gut and relevant to a decision on when to start tapering.6 Nevertheless, the September FOMC statement noted that the economy had made progress toward the Committee's goals and that, if progress continued, it would soon be time to taper.7 Up until October, monthly core personal consumption expenditures (PCE) inflation was actually slowing.",LABEL_2,0.9460741877555847
+18,"So, up until the first week of October 2021, the story of high inflation being temporary was holding up, and the labor market improvements had slowed but were continuing.",LABEL_0,0.9823465347290039
+19,"Based on the incoming data, the FOMC announced the start of tapering at its early November meeting.8 It was the October and November consumer price index (CPI) reports that showed that the deceleration of inflation from April to September was short lived and year-over-year inflation had topped 6 percent.",LABEL_2,0.9994170665740967
+20,It became clear that the high inflation realizations were not as temporary as originally thought.,LABEL_1,0.999119222164154
+21,It was at this pointâ€”with a clearer picture of inflation and revised labor market data in handâ€”that the FOMC pivoted.,LABEL_1,0.9993377327919006
+22,"These forecasts and forward guidance had a significant effect on raising market interest rates, even though we did nothing with our primary policy tool, the federal funds rate, in December 2021.",LABEL_2,0.8574513792991638
+23,"In terms of missing on inflation, policymakers' projections looked very much like most of the public's.",LABEL_1,0.5144779682159424
+24,"For example, as shown in table 1, the median SEP forecast for 2021 Q4/Q4 PCE inflation was very similar to the consensus from the Blue Chip, which is a compilation of private sector forecasts.",LABEL_2,0.9997718930244446
+25,"In short, nearly everyone was behind the curve when it came to forecasting the magnitude and persistence of inflation.",LABEL_2,0.9997641444206238
+26,"Second, as I mentioned, you cannot answer this question without taking a stand on the employment leg of our mandate.",LABEL_2,0.9992648959159851
+27,Many of our critics tend to focus only on the inflation aspect of our mandate and ignore the employment leg of our mandate.,LABEL_2,0.983984112739563
+28,Two consecutive weak job reports didn't square with a rapidly falling unemployment rate.,LABEL_0,0.8740789294242859
+29,"As shown in table 2, revisions to changes in payroll employment since late last summer have been quite substantial.",LABEL_2,0.6599903702735901
+30,"From the original reports to the current estimate, the change in payroll employment has been revised up nearly 1.5 million.",LABEL_2,0.9993517994880676
+31,"But no one knew, and that's the nature of making monetary policy in real time.",LABEL_1,0.9628199338912964

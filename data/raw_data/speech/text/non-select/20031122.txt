@@ -1,0 +1,117 @@
+You've asked me to provide some thoughts on financial modernization and functional regulation, and to discuss more specifically how these issues may, from the perspective of the Federal Reserve Board, relate to insurance.
+I'd like to discuss first the importance of cooperation between the Federal Reserve System and state insurance supervisors.
+Then I'll describe some of the lessons we at the Fed have learned as participants in the dual banking system.
+I hope that hearing about our experiences will be useful as you consider initiatives to enhance the state insurance supervisory system.
+My comments today are my own and do not necessarily represent the views of my fellow Board or Federal Open Market Committee members.
+Cooperation between the Federal Reserve and the state insurance supervisors The McCarran-Ferguson Act has long kept supervision of insurance within the exclusive domain of the states.
+For most of the past century, we--that is, the Federal Reserve and state insurance professionals--have traveled in completely different circles for practical reasons as well.
+The Federal Reserve has had very little to do with insurance issues because the banks and bank holding companies for which we are responsible have had little involvement in insurance.
+In fact, the federal legislation that charges the Federal Reserve with supervising bank holding companies--the Bank Holding Company Act of 1956--was enacted in large part to prevent the affiliation of one of the largest banks in this country with a large insurance underwriter.
+Congress went on to strengthen the separation of banking and insurance in 1982 with an amendment to that act generally prohibiting bank holding companies from engaging in insurance agency activities.
+At that point the insurance underwriting and sales activities of banking organizations were constrained to four limited categories: Banking organizations were permitted to underwrite and sell credit-related insurance; some state-chartered banks could engage in insurance sales under state law that either granted explicit permission or contained implicit authority for these activities; national banks could engage in insurance sales from small towns; and a limited number of bank holding companies were grandfathered and thus were allowed to continue insurance activities that they had started prior to enactment of the 1982 amendment.
+The historic statutory separation of banking and insurance was altered in 1999 when the Congress enacted the Gramm-Leach-Bliley Act (GLB Act) and allowed well-managed and well-capitalized banks to affiliate with insurance underwriters and insurance agencies.
+That brings the Federal Reserve and state insurance professionals into the same circle.
+To date, about 630 bank holding companies have chosen to become financial holding companies, the vehicle under the GLB Act through which bank, insurance, and securities affiliations may take place.
+Of those, about 165 (more than 25 percent) use the new GLB Act authority to engage in insurance agency activities while only 26 (fewer than 5 percent) are engaged in underwriting insurance that is unrelated to credit.
+All of these companies must comply with state laws governing the sales and underwriting of insurance.
+The significant interest by banking organizations in selling insurance makes sense.
+The banking system is still dominated, in number, by small banking organizations.
+More than 90 percent of the banks in this country have total assets of less than $500 million each.
+Banks of all sizes have quite large branch networks--as of the end of last year there were almost 67,500 branches of the more than 7,800 commercial banks in this country.
+Entering the insurance market as an agent, not as an underwriter, fits naturally with the nature of banking as an industry dominated by smaller providers.
+More broadly, banking organizations have developed good networks and systems for delivering financial products to consumers--a business model that does not always require manufacture of the product.
+Insurance is increasingly viewed not just as a product that stands on its own, but as an important item on a menu of financial vehicles that help consumers create a portfolio of financial assets, manage their financial risks, and plan for their financial security.
+Many consumers prefer to make their financial decisions and purchase financial planning products at a single location that offers a full package of financial services.
+Thus, banking organizations are a natural alternative delivery system for insurance underwriters looking to expand their customer base.
+The affiliation of banks and insurance underwriters has been more modest.
+One large banking organization has affiliated with a large insurance underwriter, and one large insurance underwriter has acquired a small bank.
+In addition, several foreign banks with insurance operations abroad have begun to offer both insurance and banking products in the United States.
+Before the GLB Act, these foreign banking organizations were required to choose between operating as a bank in the United States or engaging in insurance activities in the United States; they generally could not do both.
+Whether the affiliation of insurance underwriters and banking organizations will become more common is unclear.
+Insurance underwriting involves a much larger commitment of resources than insurance sales and, apart from underwriting credit insurance, seems so far to have little synergy with banking.
+Banks and insurance companies so far seem not to have determined whether it makes business sense to mesh the manufacturing and distribution of insurance with the manufacturing and distribution of more traditional banking products.
+The experimentation has begun in ways you would expect.
+For example, insurance companies have long thought that the trust and fiduciary powers of banks would offer them an opportunity to manage insurance payouts and other assets of large estates.
+And a few banking organizations are experimenting with manufacturing the insurance products they deliver.
+These trial runs need time to work themselves out.
+What is important is that federal law no longer prevents the marketplace from evolving and the industry from experimenting.
+The result can only be beneficial to consumers.
+With these developments have come new supervisory challenges.
+As I mentioned earlier, we at the Federal Reserve have little expertise in supervising insurance companies.
+While some types of risks are common to both banking organizations and insurance companies, the products, business practices, and historical framework of the insurance industry are unique and outside our experience.
+Similarly, the risks and operations of banks and bank holding companies, which are in our area of expertise, are quite different from those typically seen in the domain of insurance supervisors.
+The obvious supervisory approach suggested by these different risks and regulatory schemes is cooperative functional regulation that matches supervisory expertise with the risks encountered by the regulated entity.
+This cooperation and a functional regulatory scheme are required by the GLB Act.
+But they also make good supervisory and business sense.
+It is crucial that supervisors talk to each other in order to understand the risks posed by functionally regulated entities, one to the other.
+It is also important that supervisors not overburden organizations with duplicative and conflicting regulation that destroys the very cost savings and consumer benefits of affiliation.
+Consequently, we do not examine insurance underwriters or the insurance agency business of bank holding companies.
+Instead, we defer to the appropriate state insurance authorities.
+We also rely on reports and other information that insurance companies provide to state insurance authorities to understand the activities and financial strength of the insurance company, rather than imposing our own reporting requirements on insurance companies.
+Importantly, we have established very successful partnerships with the National Association of Insurance Commissioners (NAIC) and with many state insurance supervisors to enhance our mutual understanding of our supervisory frameworks and to facilitate the sharing of supervisory information and consumer complaints.
+To date, we have information-sharing agreements with nearly all of the states and the District of Columbia.
+While not all of these agreements have been spurred by an important affiliation that requires information sharing, the process of establishing these agreements has introduced us to the appropriate authorities in these states and begun a relationship that will improve our supervisory cooperation and effectiveness if difficulties develop down the road.
+It is important to have open lines of communication among supervisors and a framework and relationship with the states that prepare us to respond to developments as needed.
+We are also working with the NAIC and the state insurance supervisors to compare supervisory approaches for identifying and resolving troubled organizations.
+Banks and insurance companies must comply with very different minimum capital requirements--requirements that are tailored to their businesses.
+It is important that in circumstances in which affiliated banks and insurance companies are experiencing financial stress, the bank and insurance supervisors be able to work cooperatively to resolve that stress without taking steps that help one regulated institution at the expense of the other.
+We think that efforts to understand each other's supervisory tools and processes for identifying and resolving troubled institutions will allow functional regulators to work more effectively and cooperatively to find an early and effective solution to troubled institutions.
+To improve our own understanding of the issues developing in the insurance industry, we have also established resource centers at the Board and at the Federal Reserve Bank of Boston to monitor developments in the insurance industry.
+We particularly value the fruitful relationships that we have had with organizations such as the NAIC, which has welcomed our input and worked to help educate us on important insurance issues, and with various state insurance supervisors, who have fostered cross-training opportunities for us.
+State regulation of multi-state entities When Senator Neil Breslin, chairman of NCOIL's State-Federal Relations Committee, testified earlier this month before the House Financial Services Committee, he identified several initiatives that the states are taking to address issues involving modernization of state insurance regulation.
+NCOIL is to be commended for initiating these efforts.
+While there are many structural differences between the banking and insurance industries, I would like to share with you the experience of the banking supervisors in maintaining a viable state banking supervision option in an increasingly interstate banking environment.
+Until the early 1980s, banks were prohibited by a combination of federal and state law from establishing branches, or even bank affiliates, across state lines.
+In the mid-1980s, several states began to experiment with interstate compacts that allowed banks to affiliate with banks in other states.
+By 1994, there was consensus that interstate banking was important enough to both banks and consumers that Congress repealed the federal prohibition on interstate affiliations and established a framework for interstate branching.
+At the same time, Congress greatly limited the ability of states to restrict interstate entry by out-of-state banks.
+As a result, the banking industry has flourished and customers have benefited.
+Banks can now provide products and services seamlessly to customers nationally, including customers that have wide geographic operations and customers that move geographically.
+And customers have gained the convenience afforded by banks that have a wide footprint of branches.
+At the same time, interstate expansion has posed challenges for us as supervisors.
+Although the Federal Reserve is not limited geographically, we partner in our supervisory efforts with state authorities that are constrained by state lines.
+Interstate expansion in a supervisory framework tied to state boundaries means that state-chartered banks that operate on an interstate basis face the possibility of regulation by their chartering state as well as by each state in which the bank establishes a branch office, plus an overarching federal supervisor.
+In addition to the potential for conflict and burdensome duplication that having multiple supervisors presents, state banks operating on a multistate basis must compete with nationally chartered banks that are supervised on a national basis by a single regulator.
+To meet this challenge, we have worked with the state supervisors to develop a more uniform and seamless approach to supervision.
+Under the auspices of the Conference of State Bank Supervisors, the various state banking supervisors have developed a protocol for cooperation in examining and collecting information from multistate banks.
+This protocol deals with examinations of two types.
+Responsibility for safety and soundness examinations rests with the chartering or "home" state for the bank.
+However, the protocol recognizes that the states into which a bank has branched--the so-called host states--also have a legitimate interest in monitoring the safety and soundness of banks that operate within their borders.
+Thus, it allows host states to conduct safety and soundness examinations of out-of-state banks that branch into the state.
+It contemplates however that the host state will conduct safety and soundness examinations only in emergency situations or as part of the examination conducted by the home-state supervisor.
+The protocol relies on robust information sharing and coordination between state supervisors and the federal banking agencies to take the place of these examinations.
+Responsibility for compliance with applicable consumer protection laws is divided among state supervisors, with each state supervisor responsible for monitoring compliance with local law by local offices.
+Examination for compliance with federal consumer laws in some instances is left to the federal banking agencies and in others is shared with state bank supervisors.
+In addition to building on the strength of our system of state bank supervisors, we realized that supervising large interstate operations requires different and significantly more sophisticated techniques than we employ for our smaller local banks.
+For example, our bank examination practices for many years focused on the review of a sizable number of individual loan files at each bank.
+This is an amazingly intrusive and time-consuming process.
+And it became increasingly obvious that as institutions grew in size, the technique was not practical on a large scale.
+Over time, we have had to develop more-sophisticated sampling techniques as well as methods for identifying and focusing our examinations on areas of greatest risk to the banking organization.
+We continue to review the policies and efforts that each bank employs to identify the risks it faces, to set and implement standards to address those risks, and to monitor the effectiveness of its risk-management practices.
+This approach involves the examination of policies and procedures and the review of statistics on loan default experiences for entire portfolios rather than large numbers of individual transactions.
+We are in the process of developing a more-sophisticated approach to capital as well.
+The current "Basel" capital standard was developed in 1988 through negotiations conducted by bank supervisory authorities under the auspices of the Bank for International Settlement in Basel, Switzerland.
+Current efforts to replace this capital accord with a new version (called Basel II) take a decidedly more risk-focused approach to measuring risk.
+The proposed approach would build on techniques used by the largest banks worldwide and should produce results that are much more consistent than the existing standard with market perceptions of risk.
+It would separate risks into their component parts and should give supervisors important new tools for evaluating not only the level of risk, but also the performance and responsiveness of bank management.
+Although the proposed standard will be a challenge to implement and enforce, it will also provide important and necessary incentives to managers of our largest institutions to adopt more-sophisticated practices for measuring and managing risk.
+We have also developed more risk-focused techniques for reviewing compliance with applicable consumer and other laws.
+At the same time, we--like the state insurance commissioners--have established consumer complaint divisions in each of the federal banking agencies to monitor and investigate individual consumer complaints.
+To be sure, our system of risk-focused supervision of banking organizations relies heavily on cooperation among multiple state and Federal supervisors, and it is not perfect.
+But it is working, and we think working effectively.
+State-chartered banks remain competitive and strong, and the asset share of state-chartered banks has remained relatively constant.
+While the banking industry's continued consolidation is widely recognized and the total number of U.S. commercial banks continues to decline, less evident is the consistent chartering of new banks--roughly one new charter for every three consolidations.
+Seventy-five percent of these newly chartered banks are state banks.
+The state charter is apparently no less attractive than before banks gained new powers to expand nationwide.
+Certainly, we could not have postponed interstate banking until we had devised the perfect system for supervising it.
+The marketplace was moving, and we had to adjust our role to take account of that.
+The system we have developed in the banking arena is an evolutionary one, and one we will continue to work to improve.
+I know that you have been working hard at similar efforts in the insurance industry.
+I understand that here in Sante Fe, you have a number of important efforts underway, including proposals involving model laws that would govern Market Conduct Surveillance and Property and Casualty Insurance regulation.
+The institutions we supervise face the same challenges: competition on a growing number of fronts from unregulated entities, and consumers who are more sophisticated about choosing financial products.
+Regulated institutions must be allowed to respond to changes in the marketplace or they will not survive.
+Less-regulated institutions will prevail and in the process diminish the very protections that the regulations sought to preserve.
+At the same time, of course, we cannot forget that we are required by law to supervise the entities under our jurisdictions, to protect the public, and to preserve the strength of the financial system.
+To conclude, I will offer one final thought on the important subject of financial regulation and legislation.
+While we as regulators and legislators have the responsibility for setting and maintaining standards of safety and soundness for the benefit of consumers, we cannot ignore the power of market forces to cause the continual development of consumer financial products.
+Improvements in technology and consumer techno-literacy have prompted dramatic changes in all financial industries.

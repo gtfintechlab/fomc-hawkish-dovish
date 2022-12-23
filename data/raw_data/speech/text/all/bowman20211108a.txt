@@ -1,0 +1,77 @@
+It is a pleasure to join you today.
+Thank you for the invitation.
+Developments in the housing and mortgage markets have a major effect on the economy and the financial system, so the Federal Reserve Board monitors these markets closely.
+I am happy to share some of my observations about these markets and to learn from your knowledge and experiences as well.1 I know I am speaking to an audience with considerable expertise in these areas, and so you know already that 2020 and 2021 have been interesting times, to say the least, in housing and mortgage markets.
+I will focus my comments today on three areas: the strong increase in home prices in the past year and a half, the wind-down of forbearance programs enacted after the advent of COVID-19, and what we learned about the financial stability risks associated with nonbank mortgage companies during the pandemic.
+As I hope will become apparent during these remarks, these three topics may seem unrelated but they are actually connected.
+I will start with some comments on home prices.
+Home prices had been rising at a moderate rate since 2012, but since mid-2020, their growth has accelerated significantly.
+In total, home prices in September were 21 percent higher than in June 2020.
+Home price increases are also widespread.
+In September, about 90 percent of American cities had experienced rising home prices over the past three months, and the home price increases were substantial in most of these cities.2 These sharp increases raise the concern that housing is overvalued and that home prices may decline.
+Historically, large home price increases are somewhat less concerning if they are supported by economic fundamentals rather than speculation.
+Fundamentals certainly seem to be a large part of the story behind the increases we've seen since the middle of last year.
+The demand for housing has risen for several reasons.
+Interest rates are low, families have accumulated savings, and income growth in the past 18 months has been quite strong.
+Families are also reconsidering where, and in what kind of home, they want to live.
+Purchases of second homes, for example, have been somewhat high in the past 18 months.
+Meanwhile, the supply of new homes has been held back by shortages of materials, labor, and developed lots.
+Another reason to be less concerned about the recent escalation in home prices is that we do not see much of the decline in underwriting standards that fueled the home price bubble in the mid-2000s.
+Mortgage underwriting standards have remained conservative relative to the mid-2000s, in part because of the mortgage policy reforms that were put in place in the aftermath of the housing crisis.
+Investor activity is subdued relative to that time as well.
+Nonetheless, home prices do decline from time to time.
+In inflation-adjusted terms, U.S. home prices fell from 1979 to 1982 and from 1989 to 1993, although by much less than from 2006 to 2012.3 Although the declines in national home prices were modest in some of these episodes, some areas of the country experienced sharp declines.
+As we all know, home price declines cause problems and strain throughout the economy.
+To give just one example, families and small business owners borrow against their homes to fund big-ticket purchases and business expansions, and house price declines make it harder to use homes as loan collateral.
+This effect can be amplified if a credit crunch occurs, in which lenders react to the decline in house prices by pulling back on their lending.
+With banks and the broader financial system currently quite robust, such a credit crunch seems unlikely.
+Nonetheless, I know how painful these declines can be, especially in certain markets.
+For example, from my experience living in rural Kansas, I understand how smaller communities with a less diversified housing and employment base can take a long time to recover from a fall in home prices.
+I wonder also about communities with a sizable share of second-home owners.
+So I will continue to watch the incoming data closely.
+Falling home prices would certainly be very dramatic, but continued outsized increases could also be problematic.
+First, high home prices make it more difficult for low- to moderate-income households to become homeowners, as larger down payments and other financing requirements effectively lock these households out of the housing market.
+Second, and related to one of the Federal Reserve's monetary policy goals, rising home prices and rents raise the cost of housing.
+Because housing costs are a large share of living expenses for most people, these increases are adding to current inflationary pressures in the economy.
+Indeed, we are already seeing sizable increases in rent and owners' equivalent rent in many parts of the country.
+In addition, there are signs of underlying supply and demand imbalances that will contribute to increases in housing costs and inflation.
+Early in the pandemic, the strength in home prices was thought to be driven by the decline in mortgage rates.
+But it has become increasingly clear that the low supply of homes, in combination with a strong demand for housing, is an important part of the story.
+Before this past year, the pace of construction of new homes was below its long-run average for more than a decade.
+The supply chain bottlenecks that I mentioned earlier are slowing down construction further.
+These issues affect the rental market too: The multifamily rental market is at historic levels of tightness, with over 95 percent occupancy in major markets.4 I anticipate that these housing supply issues are unlikely to reverse materially in the short term, which suggests that we are likely to see higher inflation from housing for a while.
+I am also watching carefully what happens as borrowers reach the end of the forbearance on mortgage payments.
+As of October, 1.2 million borrowers were still in forbearance, down from a peak of 4.7 million in June 2020.
+Of these remaining borrowers, 850,000 will reach the end of their forbearance period by the end of January 2022.
+Meanwhile, the temporary limitations on foreclosures put in place by the Consumer Financial Protection Bureau will expire at the end of the year.5 Forbearance has been an important support for workers dislocated by the pandemic and for their families.
+Transitioning the remaining borrowers from forbearance to a mortgage modification or other resolution may be a heavy lift for some servicers.
+Each transition requires getting in contact with the borrower, discussing options, and figuring out which resolution makes the most sense for each borrower.
+This is time-consuming and detailed work.
+It is also crucially important.
+Obviously, we want to ensure that borrowers who are struggling financially receive the help that they need, and I want to acknowledge that many of these borrowers are from communities that have traditionally been underserved by the mortgage market.
+In addition, if servicers handle loan modifications poorly and on a large scale, the macroeconomy and financial stability can be affected as well.
+In the aftermath of the last financial crisis, the flood of foreclosures led to downward pressure on home prices.
+The same dynamic has not unfolded during the pandemic.
+Forbearance, foreclosure moratoriums, and fiscal support have kept distressed borrowers in their homes.6 Fed supervisory staff are communicating with significant supervised institutions to ensure that they are preparing for the increased operational risks.
+If the transition out of forbearance is handled smoothly, I am cautiously optimistic that it will not have a material effect on the larger economy.
+The share of mortgages in distressâ€”defined as those in forbearance or seriously delinquentâ€”was about 4.5 percent in October 2021, about half the share of mortgages that were seriously delinquent in 2010.7 In addition, many of the mortgages in distress now are insured by the Federal Housing Administration or the Department of Veterans Affairs, and these agencies can require that certain mortgage modification protocols are followed.
+Outside of these mortgages, the share of borrowers who are not making mortgage payments has returned to pre-pandemic levels.
+Nonetheless, we are aware of the risks and will monitor this situation closely.
+Mortgage servicing, however, has increasingly moved from Fed supervised banks and into nonbank mortgage companies that are supervised by state regulators.
+In a speech late last year, I focused on some of the possible financial stability risks associated with nonbank mortgage servicers.8 I would like to update you on my thinking about this issue today.
+When widespread forbearance was introduced last year, concerns were raised that it would impose strains on nonbank servicers.
+That is because when a borrower does not make a mortgage payment, the servicer is required to make the payment on the borrower's behalf.
+Servicers are eventually reimbursed for these advances, but they are required to finance the unpaid amounts.
+And unlike banks, nonbanks cannot turn to the Federal Reserve System or the Federal Home Loan Banks when they need liquidity.
+As it turned out, nonbank mortgage servicers had cash to meet their operational needs.
+Mortgage refinancing surged because of the drop in long-term interest rates, and nonbank servicers used the proceeds from these refinacings to fund the advances associated with forbearance.
+However, if home prices had fallen, instead of rising so sharply, many borrowers might have faced obstacles to refinancing because their homes had fallen in value, and so nonbank servicers would not have had revenue from refinancing to put toward paying advances.
+Some nonbank servicers might obtain funds by borrowing against their mortgage servicing rights (MSRs).
+MSRs are a significant asset for nonbanks.
+In total, nonbanks hold about four times as much in MSRs as they do in cash.9 But MSRs decline in value when home prices fall, and so this borrowing might also have been less available as a funding source in those circumstances.
+The Financial Stability Oversight Council raised concerns about the financial resilience of nonbank mortgage companies in its 2020 annual report and recommended that state and federal regulators coordinate closely to collect data, identify risks, and strengthen oversight of nonbank mortgage companies.10 I think this is appropriate.
+The ideal mortgage finance system must have a place for institutions of many different types and sizesâ€”both bank and nonbankâ€”that are able to serve the varying needs of different customers.
+For this system to be sustainable, though, I think like activities should be treated in a like manner, and I am concerned about some of the differences in the prudential oversight of banks and nonbanks in the mortgage market.
+To return to my theme at the beginning: These are interesting times for housing and mortgage markets.
+And in such times, I think we can all agree that it's wise to closely monitor developments and be prepared for whatever the future may bring.
+Fortunately, that is exactly what Women in Housing and Finance is all about.

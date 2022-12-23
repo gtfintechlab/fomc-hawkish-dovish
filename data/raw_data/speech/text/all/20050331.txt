@@ -1,0 +1,146 @@
+Thank you for inviting me to speak at your annual meeting.
+I know that regulatory issues are an important part of the Financial Services Roundtable's agenda this year.
+Today, I want to touch on three regulatory issues that are currently high on the list of both bankers and supervisors: new disclosures under the Home Mortgage Disclosure Act (HMDA), Bank Secrecy Act compliance and Basel II implementation.
+HMDA Price Data Disclosure The importance of effective risk management is brought into sharp focus by the imminent public release of home mortgage price data by lenders such as your organizations.
+Lenders covered by HMDA will have to make additional information about their home loans, including, for the first time, price information, available to the public as early as today.
+I recognize that many of you are concerned about the potential legal and reputational risks that accompany the disclosure of price data.
+Over the next few minutes, I want to put those risks in context by reviewing with you why the Federal Reserve decided in 2002 to require disclosure of price data on higher-priced loans and how lenders, government agencies, and the broader public should think about and use the data.
+The requirement to disclose price data grew out of the objectives that motivated Congress' initial adoption of HMDA.
+In enacting HMDA in 1975, Congress sought to make mortgage markets work more efficiently and strengthen compliance with anti-discrimination laws.
+Congress believed those objectives would be served by requiring depository institutions to disclose mortgage loan information publicly, not just on an aggregate basis, but institution by institution and application by application.
+Congress later came to believe that the law's objectives would be better-served by requiring disclosure by non-depository lenders, not just depository institutions.
+Thus, HMDA now covers more than 80 percent of all home lending.
+Since Congress last added major data disclosure requirements under HMDA in 1989, mortgage markets have changed dramatically as information and technology have improved, permitting more-efficient and more-accurate risk assessment and management.
+These developments have made it feasible for institutions to lend to higher-risk borrowers, albeit at prices commensurate with the higher risk.
+Many borrowers receiving higher-priced loans would in the past have been denied credit.
+The growth of lending to higher-risk borrowers, known as subprime borrowers, is generally a positive development.
+It has expanded access to credit, helping to increase homeownership and opportunities for consumers to tap the equity in their homes.
+However, the growth of the subprime market has also raised public policy concerns.
+Among the concerns are whether consumers who obtain higher-priced loans are sufficiently informed about their options to make the market work as efficiently as it could and to protect themselves from unfair or deceptive lending practices.
+Those concerns have played into ongoing debates about the adequacy and efficacy of proposed or existing disclosures and limitations on mortgage lending intended to protect consumers from abuse.
+In addition, the wider range of prices available in the marketplace has raised concerns about whether price variations reflect, even in part, unlawful discrimination rather than legitimate risk- and cost-related factors.
+In response to these concerns, the Federal Reserve updated the regulation that implements HMDA, effective last year.
+For the first time, the regulation requires lenders to publicly disclose information about the prices of some of the home mortgage loans they originate.
+The requirement to disclose price data is limited to higher-priced loans, where concerns about market efficiency and consumer protection that I just described are greatest, and excludes the vast majority of prime loans, where limited variation in prices helps to allay such concerns.
+Price disclosure, while understandably a source of anxiety for some lenders, provides an opportunity to advance market efficiency and compliance with consumer protection and anti-discrimination laws.
+The price data, in combination with other data disclosed under HMDA, can be used as a screen that identifies aspects of the higher-priced end of the mortgage market that warrant a closer look.
+For example, the price data can be used by lenders, government agencies, and the public to identify institutions, product types, applicant types, and geographic markets where price differences among racial or other groups are sufficiently large to warrant further investigation.
+Although these potential uses of the data have received the most attention, other uses are possible.
+The price data might be used by lenders to identify markets with relatively large numbers of higher-priced loans, where entry may bring opportunities to lenders and increase options available to consumers.
+Also, the data may help community organizations and public agencies decide where to invest in consumer education and community development.
+To realize the potential benefits of the price data, we must acknowledge and take into account the data's inherent limitations, which reflect in part concerns about the substantial costs of mandatory data reporting, which policymakers must weigh against public policy benefits.
+One of the most important limitations of the HMDA data set is that it does not include data about many of the legitimate factors lenders use to determine prices in the mortgage market, including key credit-risk factors.
+Credit-risk factors absent from the HMDA data set include loan-to-value ratio, consumer debt-to-income ratio, and a consumer's experience with credit.
+Thus, price disparities by race or ethnicity, if revealed in the HMDA data, will not alone prove unlawful discrimination.
+Such disparities will, however, indicate a need for closer scrutiny--a look at these other variables.
+If the HMDA data set's inherent limitations are not acknowledged and understood, conclusions purportedly drawn from these data alone run a risk of being unsound.
+Unsound conclusions, in turn, may reduce the data set's effectiveness in promoting HMDA's objectives of improving market efficiency and legal compliance.
+For example, the unwarranted tarnishing of a lender's reputation could reduce the willingness of that lender or another to remain in, or enter, certain higher-priced segments of the market.
+That discouragement, in turn, could potentially reduce competition in those segments and curtail the availability of credit to higher-risk borrowers.
+But those concerns, however real, must be viewed in the light of the valuable contribution the data will make to enforcement of anti-discrimination laws.
+The Federal Reserve, for its part, will conduct a statistical analysis of the HMDA data of each institution that reports HMDA data.
+Following past practice, the Fed will share the analyses with the responsible federal agencies.
+The analyses will not draw definitive conclusions about the fairness or lawfulness of a lender's practices, because, as I have said, the HMDA data do not permit such conclusions.
+These analyses will be screens, albeit relatively sophisticated screens, to help agencies decide which institutions merit a closer look.
+The Federal Reserve recognizes both the opportunities and risks the new price data will bring.
+It is keenly interested in promoting a clear-eyed use of the data that advances, rather than undermines, the statute's objectives.
+To that end, the Federal Reserve will take opportunities such as this one throughout the year to publicly discuss the HMDA data--both what the data can tell us, and what they cannot.
+In addition, we plan to publish an article in the Federal Reserve Bulletin discussing and interpreting the data.
+The article will be published at the same time that the Federal Financial Institutions Examination Council (FFIEC) publishes summary tables of the HMDA data, in late summer or early fall.
+An institution that might soon--as early as today--have to disclose its own price data, should already have analyzed its data and be prepared to respond to comments from others interpreting its data.
+First, an institution should take the steps necessary to reach a high degree of confidence that its data are accurate.
+After that, an institution may want to determine how its data will appear to the public in the disclosure tables the FFIEC will release by the early fall; the precise formats of those tables were published in December.
+A lender may also want to determine if the HMDA data reflect price disparities that are not adequately explained by other information in the HMDA data set--such as income, loan size, and lien status--and, if so, to analyze those disparities in light of price variables known to the lender.
+The analysis could include a review of pricing discretion provided to loan officers.
+It also could include, where applicable, a review of the pricing patterns of mortgage brokers through which the lender has originated loans.
+Should a lender discover risks in its HMDA data, it goes without saying that the lender should manage those risks.
+As with other risks, those related to the HMDA disclosures should be managed with an eye to the entire enterprise, including the bank and the non-depository affiliates.
+Compliance with the Bank Secrecy Act Since the USA Patriot Act of 2001 significantly amended the Bank Secrecy Act, compliance in this area has been a major concern for the banking industry.
+In large part, bankers' concerns center on the increased burden of complying with the additional requirements, the apparent lack of consistency in oversight and supervision, and law enforcement issues.
+The Federal Reserve recognizes that banking organizations have devoted significant resources to helping the government identify and prosecute those who are involved with the funding of terrorist activities, money laundering, and other crimes.
+But some recent events are affecting bankers' perceptions about their role in this critical area, and have raised serious questions about what bank regulators and other government authorities--most notably law enforcement agencies--expect of bankers.
+Today, I want to provide some background information and describe what the Federal Reserve is doing, in coordination with the Justice and Treasury departments, to clarify expectations and dispel misconceptions about compliance with the Bank Secrecy Act.
+But first I want to emphasize an important point about the Bank Secrecy Act: Compliance with the act and the significant benefits that result from that compliance are achieved through a partnership among banks, supervisors, and law enforcement authorities.
+The law requires reports and recordkeeping that are useful to all these entities.
+Further, the law capitalizes on the role of banks in payment systems.
+As collectors of financial information, banks are in a good position to identify questionable or suspicious payments or activities.
+For the past decade, the key obligation of banks within this partnership has been the filing of Suspicious Activity Reports, or SARs, in accordance with regulations issued by the Treasury Department and all of the federal banking and thrift regulators.
+The agencies' rules implementing the Bank Secrecy Act require banking organizations to file SARs to alert law enforcement authorities and federal bank supervisors about a known or suspected violation of law, or about any suspicious activity being conducted at, by, or through a bank, thrift, or credit union.
+By filing SARs, banking organizations put critical information into the hands of the proper law enforcement authorities in a timely and effective manner.
+Since the SAR system was started in 1996, banking organizations have filed more than 1.7 million SARs.
+That is an enormous amount of cooperation and information sharing.
+However, recent criminal investigations and prosecutions based on Bank Secrecy Act and SAR reporting violations have attracted significant industry attention.
+Most importantly, these cases have generated complaints from the financial industry about the increased burden of Bank Secrecy Act compliance, as well as the uncertainty of future requirements--particularly for the filing of SARs.
+Believing that regulators and law enforcement authorities have set a zero-tolerance level for SAR-filing deficiencies, banking organizations are concerned that in certain situations failing to file a SAR could result in a criminal prosecution.
+Bankers are telling us that regulatory criticism and criminal prosecutions based on SAR-filing deficiencies can produce collateral consequences.
+For example, banks are tending to avoid customers, such as money transmitters and check cashers, who present perceived heightened risks.
+Implicitly, banks are making the decision that the revenues garnered from such customers do not cover the necessary costs of compliance while providing an acceptable return on legal and reputational risks.
+Yet the closing of accounts for these types of businesses runs the risk of effectively denying banking services to many categories of legitimate customers.
+Banking organizations have also begun to file "defensive" SARs in an effort to avoid any criticism of their judgment about whether some activity is illegal or suspicious, and to avoid sanctions for failing to file particular SARs.
+The Treasury Department's Financial Crimes Enforcement Network (FinCEN) has reported that these defensive filings threaten to clutter the SAR database with information that cannot be properly analyzed due to the volume.
+Bank regulators and FinCEN recognize that no process for fraud or money-laundering detection and control can reasonably be expected to perfectly detect every transaction.
+But, financial institutions are expected to have a sound anti-money-laundering compliance program.
+This must include well-defined processes to identify suspicious activities, and those processes should be tailored to the risk and complexity of each business line.
+Banks should provide sufficient training to line staff, compliance officers, internal auditors, and legal staff to keep employees on the alert for suspicious activities.
+Further, when questionable activity is detected, the bank must respond promptly and effectively, and work with appropriate law enforcement authorities and bank regulators.
+I am sure that you are aware by now of the interagency efforts to develop and issue new, enhanced Bank Secrecy Act examination guidelines and procedures within the next few months.
+The Federal Reserve and the other federal banking supervisors, with the active participation of FinCEN, are drafting these more-detailed uniform examination guidelines and procedures.
+Supervisors, on a pilot basis, have been using the new guidelines at financial institutions.
+Once the procedures are completed, we will work hard to educate our examination forces and the industry about the new guidelines and procedures.
+These efforts are intended to better ensure consistency in the Bank Secrecy Act and anti-money-laundering supervision programs of the bank regulators and FinCEN--the entity within the U.S. Treasury that is statutorily responsible for the implementing the Bank Secrecy Act.
+In addition, the Federal Reserve and the other federal bank supervisory agencies recently signed a Memorandum of Understanding with FinCEN to share critical information about banking organizations' compliance with the Bank Secrecy Act.
+By providing pertinent Bank Secrecy Act information to FinCEN, which is adding additional staff to fulfill its responsibilities, the Federal Reserve and the other regulators can now better coordinate their supervision and enforcement efforts, thus further reducing the potential for unwarranted compliance burdens.
+FinCEN is also committed to providing both bankers and regulators information about emerging money-laundering schemes and guidance for continually improving Bank Secrecy Act compliance.
+The Federal Reserve is also working with senior Justice and Treasury officials to ensure they understand the efforts of banks and the regulators to ensure compliance with the Bank Secrecy Act.
+We want awareness of these compliance efforts to be consistent throughout the criminal justice system so that the industry and its regulators can continue building partnerships with law enforcement authorities.
+I would now like to move on to a discussion of Basel II implementation.
+Basel II Implementation and Current Framework Amendments Basel II represents a fundamental change in how bank capital is determined for regulatory purposes.
+The advanced approaches require banking organizations to make significant investments to improve risk-management and measurement processes so that minimum regulatory capital better reflects each institution's unique business mix, risk appetite, and control structure.
+In moving forward with Basel II in the United States, the U.S. banking and thrift regulatory agencies acknowledge that a certain amount of burden will be placed on institutions moving to the new framework--but we firmly believe that the costs of doing so will be well worth it for all parties.
+However, successful implementation of Basel II in the United States will require that supervisors and bankers maintain a productive dialogue, given that both sides must complete a substantial amount of work between now and adoption in January 2008.
+Right now, the U.S. banking and thrift agencies are engaged in a concerted effort to deliver by mid-2005 their latest proposals for U.S. implementation of Basel II, which include a notice of proposed rulemaking (NPR) and release of additional draft supervisory guidance.
+These come on the heels of a recent statement outlining the agencies' expectations for the Basel II qualification process.
+From now until the final rule is issued--we hope by mid-2006--whatever the agencies propose will be open for comment and subject to change.
+Past comments from the industry have had a substantial impact on the framework's evolution.
+In fact, we are reaching the end of a very long process that has included multiple comment periods.
+For example, global regulators heard and accepted the industry's call for addressing only unexpected loss in the framework.
+The ongoing work with so-called "double-default" is another area in which regulators have listened to industry concerns and are working to respond.
+As most of you are aware, there are still a few difficult issues that need to be sorted out, such as estimating loss given default during periods of economic downturn and finalizing the double default proposal.
+We have been quite open about these issues and are continually engaging the industry in trying to find solutions.
+And if we are presented with compelling evidence that a certain approach is flawed or inadequate, we will certainly consider making adjustments.
+Substantial work remains to be accomplished before Basel II can "go live."
+As you are aware, several areas in particular will require special efforts.
+Data collection and validation are examples.
+While supervisors are working diligently to provide guidance on what is expected for data warehouses and validation methods, financial institutions are responsible for collecting the data they will need for the advanced approaches.
+Similarly, validation starts with institutions' own independent checks on the adequacy of risk management and internal control processes.
+Accordingly, those institutions considering adoption of the advanced approaches at the earliest possible date should now be defining the details of their own implementation plans, including a self-assessment, gap analysis and a remediation plan.
+The recently issued interagency statement on qualification describes some steps that banking organizations should follow if they wish to be positioned to adopt the final rules at the earliest possible implementation date.
+The focus on enhanced risk management in Basel II means that banking organizations should not view Basel II preparations with a checklist mentality.
+Rather, they should be moving ahead on many fronts, looking at how to make the fundamental changes needed for better risk identification, measurement, management, and control.
+By doing so, banking organizations can position themselves to succeed in implementing the accord on a timely basis.
+We do, however, recognize that a certain time constraint exists for institutions wishing to implement the new framework: On the one hand, those institutions are encouraged to start preparations as soon as possible; on the other hand, we leave open the possibility that elements of the framework are subject to change.
+I will not try to pretend that this is a trivial matter.
+As a former banker, I sympathize with the challenges you face in deciding on investments and upgrades to your systems and personnel.
+When it comes to Basel II, we recognize that certain details relating to systems and processes will depend on what the final U.S. rule and guidance contain.
+Accordingly, we are available to discuss your implementation efforts at any time and we desire to hear specifics about which elements of the proposal, from your perspective, will demand the greatest investments or appear to generate the greatest uncertainty.
+Using that information, the agencies can then understand where to target resources to assist institutions during the transition to Basel II.
+We certainly hope that many upgrades made for Basel II are those that would have been made anyway.
+I would like to say a few words directly to the potential "opt-in" institutions.
+An institution that does not meet the mandatory criteria in the Framework will be under no obligation to adopt Basel II.
+As noted, Basel II is an extensive undertaking; thus for a potential opt-in institution, the choice of moving to Basel II resides with the institution itself.
+Firms should decide for their own reasons whether to attempt to qualify for Basel II at the earliest possible date, to qualify at a later date, or to remain within the existing capital framework.
+The agencies will continue to provide as much information as possible to assist potential opt-in institutions in making their decisions.
+For example, the fourth Quantitative Impact Study, or QIS-4, and the Loss Data Collection Exercise, or LDCE, should help institutions make decisions about their Basel II preparations--including the decision by non-mandatory institutions as to whether they should opt-in, and if so, when.
+Furthermore, our supervisory teams continue to stand ready to discuss Basel II-related issues with all banking organizations and answer any questions that arise; this includes discussing preparatory steps those institutions may be taking for Basel II.
+The federal banking and thrift agencies acknowledge the substantial work involved for institutions looking to adopt Basel II in the United States and are committed to ensuring that Basel II is implemented in a fair and equitable manner.
+As indicated, the agencies remain unequivocally committed to fulfill all procedural requirements in working toward a final Framework-based rule.
+In addition, the agencies remain committed to offering equal information to all parties with an interest in Basel II, which of course includes proposed mandatory institutions and potential opt-in institutions.
+In this regard, the agencies have provided a substantial amount of public information relating to the proposed adoption of the Framework-based rule--including the aforementioned release on the proposed U.S. Basel II qualification process.
+We have also met individually with a wide range of institutions to discuss the proposals and institutions' preparatory work, and have offered access to several Basel II-related activities (such as QIS-4 and LDCE exercises) to any institution wishing to participate.
+Let me state quite clearly that we value the participation of all institutions in these efforts and welcome the continued dialogue.
+U.S. regulators--especially those among us who spent the greater part of our careers as bankers--are very sensitive to the competitive implications of having two sets of rules for the banking industry.
+Regulators recognize that Basel I can be enhanced and that the Basel II standardized approach is not well suited to the needs of the vast majority of our domestic-focused community banking organizations.
+Accordingly, to enhance risk sensitivity without increasing regulatory burden, staffs of the agencies are drafting an advance notice of proposed rulemaking suggesting possible targeted adjustments to our existing regulatory capital rules.
+This advance notice will be published close to the publication of the Basel II notice of proposed rulemaking so that the industry and others can view the proposals side-by-side.
+We expect that the comments we receive on each of the proposals will help us refine the proposals and identify competitive issues between the alternatives.
+In closing, I would like to underscore our commitment to maintain an ongoing dialogue with all members of the banking industry--regardless of their potential Basel II status--and to continue providing equal information to all parties interested in Basel II implementation.

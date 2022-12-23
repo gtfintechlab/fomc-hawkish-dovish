@@ -1,0 +1,60 @@
+In the late 1980s, as the Congress struggled unsuccessfully to reach agreement on a plan for managing interstate banking, the banking regulators of the Group of Ten (G-10) countries were able to develop a common set of rules for bank capital.
+What is referred to now as Basel I established a competitive balance among the banking systems of the major industrialized countries.
+It made the international competitive climate considerably more fair, and it greatly improved bank safety and soundness worldwide.
+Let me elaborate briefly on the advances embodied in Basel I before I discuss the limitations that have become more evident in the years since it was implemented.
+In the mid-1980s, it was a major step forward to acknowledge, for example, that residential mortgage lending carried substantially less credit risk than did automobile lending and that certain state and municipal bond issues carried less of a credit risk than home mortgage loans.
+As a result, when Basel I allowed for loans and investments to be grouped into four "buckets" with risk weightings of 0 percent, 20 percent, 50 percent, and 100 percent, respectively, banks were allowed for the first time to allocate and maintain capital in a manner somewhat consistent with the risk profile of the asset side of their balance sheets.
+Also, overwhelmingly, banks of all sizes in the United States now had risk capital ratios significantly in excess of their leverage capital ratios.
+Though the risk buckets were limited and did not fully reflect the range of risk sensitivities in the 100 percent bucket, their implementation represented a significant improvement.
+The banking industry has changed in many ways, however, since Basel I was implemented in 1988.
+Two specific areas of change--the expanded use of securitization and derivatives in secondary markets and vastly improved risk-management systems--have significant implications for Basel I.
+The use of secondary markets and the sophistication of risk-management systems correlate significantly with bank size.
+While second tier banks and community size banks have also increased their access to secondary markets and have made great strides in managing their risk exposures, the changes implemented by these banks have not threatened the relevance of Basel I.
+However, the same cannot be said about the nation's largest international banks.
+The largest institutions use the secondary markets for securitizing loans of all types and for a variety of other liquidity and investment needs.
+The largest institutions also use enhanced technology resources and risk-management tools to more carefully and specifically measure risks of all types.
+For banks that operate on a global scale in virtually all financial markets, Basel I has become outdated.
+The current capital regime has not kept pace with either the complex nature of the operations of the largest banks or the substantial changes in both the concepts and technology of risk management.
+The current capital rules at these banks have been further undermined by arbitrage between regulatory and market measures of risk mainly through the use of derivatives and securitizations in the secondary markets.
+Given these developments, the G-10 bank supervisors have been designing a much more risk-sensitive regulatory framework that takes into account the evolution of the art of risk management.
+The latest version of the proposal (Basel II) will be published by the Basel supervisors committee in a few weeks and an advance notice of proposed rulemaking by the U.S. supervisors is due by midsummer at the latest.
+An effective date of 2007 is now contemplated.
+The details of Basel II were described by my colleague, Roger Ferguson, Vice Chairman of the Federal Reserve Board, in a presentation to a congressional committee in February.
+I have some copies with me today and can make others available.
+Today, I thought it might be useful to provide a U.S. supervisors' view of how Basel II should be applied in this country and to address some of the concerns we have heard about the scope of application.
+Given the needs of countries with a far different banking and regulatory structure than ours, Basel II contains three alternative approaches, which are described in the Vice Chairman's testimony.
+Supervisors in this country have for some time contemplated that only the most risk-sensitive approaches, the Advanced Internal Ratings Based (A-IRB) option for credit risk and the Advanced Measurement approach (AMA) for operational risk, would be applied in the United States.
+These advanced approaches would be required for only our largest and most complex, internationally active banking organizations--about ten U. S. banks.
+However, any other bank that meets the qualifying internal infrastructure standards for risk measurement and management could choose to apply these versions of Basel II.
+We anticipate another ten or so large banks may opt to do so voluntarily because of the greater risk sensitivity it affords.
+These banks may also make this choice for prestige or competitive reasons, as counterparties look for indications of technical risk measurement skills at the large banking entities with which they deal.
+U.S. authorities have agreed to implement only the most advanced Basel II options and to limit the number of required participants.
+First and foremost, the decision reflects a balancing of costs and benefits.
+Any change is expensive, and the advanced approaches are very costly to implement.
+The overwhelming majority of banks in this country are well capitalized and well managed under the current modified Basel I, and smaller banks are forced by markets to hold capital considerably above the well-capitalized level, so the cost-benefit ratio of requiring more of our banks to adopt some version of Basel II is tilted, for most banks, very strongly against the desirability of change.
+When we then add to the equation the fact that it is primarily the megabanks whose operations seem inconsistent with the current capital regime, the decision to limit the scope of application appeared even more clear-cut.
+Moreover, with our concern about shortfalls of the current regime focused on the complex, large, internationally active banks--and the desirability, on grounds of safety and soundness and macroeconomic stability, to see the best practice risk-management techniques applied to these entities--the decision to deploy only the most sophisticated version of Basel II also seemed obvious to us.
+You may also recall that an important objective of both Basel I and Basel II is to create cross-border competitive equality, reducing in our minds the necessity of requiring Basel rules to be applied to smaller banks that do not compete in international markets.
+Although U.S. regulators have for some time signaled that Basel II would apply only to the largest banks, questions have been raised about the implication for those banks that are not A-IRB candidates.
+Let me share with you our evaluation of what the implications may be for banks that will not be required to adopt Basel II and that opt to remain under Basel I.
+No bright line marks the separation between the groups of institutions that we refer to as large, complex, internationally active banks (those that would be required to follow the advanced Basel II), other large, complex banks (some of which we think are likely to be opt-in banks), large regional banks, and community banks.
+Some of the banks in the large regional group--let's say those between the 25th and 100th largest--have voiced the concern that even though they are well capitalized and well managed, they will be forced by market pressures, and especially by the rating agencies, to bear the high costs of moving to Basel II.
+The risk-management practices embedded in Basel II did not, of course, originate with the Basel committee or with any of the G-10 bank regulators.
+Rather, to a significant extent, they represent the best practices of risk-management approaches developed in the marketplace.
+These practices are now being used by some banks in the tier just below the largest organizations.
+Improved risk-management technology, supplemented by the adoption of Basel II advanced approaches at the largest banks, will accelerate the advance in risk-management sophistication that counterparties will increasingly expect to see at their banks.
+This market-driven change would have occurred without Basel II--in fact, it is already in progress--but Basel II will surely speed things up.
+In the near term, however, the cost-benefit ratio I referred to must be considered, and we believe that the benefits for most regional banks do not yet exceed the costs.
+It is our understanding that this is also the view of the rating agencies.
+The cost-benefit calculus may well change in the future, but, in the years immediately ahead, I do not believe that regional banks will be required by the market to adopt the more advanced approaches.
+We are also aware of concerns that the current competitive balance between Basel I banks and Basel II banks might be upset in certain loan markets.
+The specific worry of the Basel I banks is that the advanced approaches will yield lower capital charges for residential mortgage, retail, and small business loans.
+These arguments, it seems to me, require some careful thought.
+My own experience as a banker is that loan pricing and profitability--and that must be what the issue is about--are influenced little by regulatory capital levels.
+Rather, rate setting on credits is determined by a complex web of factors, including local market competition from banks and other lenders, the cost of funds, the specifics of the bank-customer relationship, and internal capital allocation practices.
+For many types of retail loans, but particularly residential real estate loans, secondary market pricing has the strongest influence on rate setting.
+When capital is considered, it is the internal allocation decisions--what the Basel proposal refers to as economic capital--that is relevant, particularly because, as I noted earlier, U.S. banks operate so far above regulatory minimums and can easily change their own regulatory requirements by loan sales and securitizations.
+On the subject of Basel II, let me, in conclusion, make a few summary observations.
+First, if you accept the fact that Basel I had a significant effect on international competitiveness and economic stability, then it stands to reason that an update is necessary to make that accord reflect changes in markets and risk-management techniques.
+Second, the U.S. banking industry represents banks of varying size and complexity; it would be as inappropriate to require our smallest banks to adopt techniques designed for megabanks as it would to limit the largest banks on the basis of the capacity and capability of the smallest.
+Third, certain basic fundamentals regarding capital measurement and capital adequacy will not change.

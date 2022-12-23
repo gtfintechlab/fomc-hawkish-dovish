@@ -1,0 +1,139 @@
+I am pleased that these two organizations support an agenda that recognizes the critical role risk management now plays in successful implementation of business strategies.
+Today, I would like to talk about some of the components of successful risk management, and also describe how risk management can support more effective implementation of business strategies.
+The Evolution of Enterprise-wide Market Risk Management Successful bankers have always practiced effective risk management, but only over the last twenty-five years has risk management evolved into a discipline in its own right.
+If we look at the three major types of risk in financial institutions--market, credit, and operations--we can trace the progression of risk-management techniques in each, with market risk leading the way.
+When Regulation Q was lifted in 1978, the Federal Reserve no longer established the rate paid on non-demand deposit accounts.
+Bankers were then able to set the rate of interest paid on core deposits based on their own competitive conditions.
+The following year, the Federal Reserve began to aggressively fight the seriously high rate of inflation that was occurring.
+As a result, short-term interest rates rose to unusually high levels.
+Bankers who were used to taking fixed-rate deposits under Reg Q and making fixed-rate term loans, found the cost of their deposits rising with the market.
+Financial institutions found that, to meet market interest rates, they were paying higher rates of interest on deposits than they were receiving on loans.
+As a banker in 1980, I went through that period when the popular new six-month CDs that were booked in March at annualized interest rates of around 15 percent, were funding loans at a negative carry when the prime rate fell to 11 percent by August.
+The roller coaster continued when lower CD rates in the second half of 1980 were funding loans at a prime rate of over 20 percent by January 1981.
+One of the first challenges bankers faced in this environment was that no one had the information systems needed to manage the entire balance sheet rate sensitivity.
+Not only were asset/liability models nonexistent, but data on loan and deposit maturities and repricing were also not available from standard loan and deposit computer application systems.
+So in the early 1980s, asset/liability models were developed, taking advantage of the newly emerging technology of computers and software.
+Further, the management committees responsible for interest rate risk changed.
+Instead of committees which included only management from the funding desk and investment portfolio management, a new group was created--the Asset/Liability Committee.
+This committee included not only the old finance committee members and new ALCO staff but, most important, it added business-line managers responsible for major corporate and retail banking activities.
+For the first time, pricing loans and deposits moved from the silo of business line management into recognition that the enterprise as a whole had to coordinate balance sheet usage in order to maintain the net interest margin around a targeted level.
+In those days, net interest income was about 80 percent of bank revenue, and so its consistent growth was important to meeting earnings targets.
+Today when one listens to the discussion at ALCO meetings, you can hear managers from different business lines discuss priorities for loan growth use of the balance sheet and markets where competitive tactics call for relatively higher rates to be paid on deposits.
+Even CEOs now understand mortgage prepayment risk and can talk knowledgably to investors about the sensitivity of net interest income to changing interest rates.
+While this enterprise-wide approach to market risk evolved at varying paces in different depository institutions, by the latter part of the 1980s all of the basic elements were in place.
+In the 1990s, the process had matured and is now widely recognized as a critical element in both management and board governance processes.
+What has helped this discipline emerge is not only more sophisticated asset/liability models, but also the rapid innovation in financial instruments.
+As institutions focused their attention on problem areas, new methods and financial instruments were created to mitigate the risks.
+When the savings and loan institutions failed in the 1980s, partly as a result of deposit costs above the rates received on term loans, the industry turned to new securitization techniques to pool mortgages and remove the interest rate risk from balance sheets.
+Slower deposit growth in the 1990s, due to the rapid growth of mutual and money market funds, supported the attractiveness of securitizing other assets, and soon loans--credit cards, auto loans, home equity loans, etc.--were securitized without the benefit of government-sponsored agencies.
+But interest rate risk remains a critical issue in executing successful business-line strategies.
+As intermediaries, customers always want to go long and short in direct opposition to the interest of the banking enterprise as a whole.
+Borrowers want to lock in longer-term fixed-rate loans when they perceive rates are at their lows, and they want to hold longer-term fixed-rate CDs when they think interest rates have peaked.
+Again, innovations have dramatically changed the way institutions mitigate and manage interest rate risk.
+Interest rate derivatives, structured investment securities, and callable debt have allowed financial institutions to better meet customer demands while managing the liquidity and interest rate risk exposures those relationships entail.
+Interest rate risk management is thus a great example of how an enterprise-wide approach can customize products to better serve customers, set prices to reflect risk exposures and attain profit targets, and ensure that corporate earnings contributions are met.
+Enterprise-wide market-risk management therefore is a value-added activity, which has become widely accepted as a critical element of the governance and strategic processes at financial institutions.
+The evolution of a portfolio approach to loan credit risk management followed a path similar to asset/liability management that began in the late 1980s in the aftermath of serious credit-quality deterioration.
+Models and data bases have since become more sophisticated, and loan review committees have evolved into committees that look at portfolio risk.
+As a result, loans are priced to better reflect their varying levels of risk, loans are syndicated and securitized to mitigate lenders' risk, and credit derivatives have been created to limit credit risk exposures that are retained.
+Operations risk is the risk that has most recently risen to management and regulatory attention--not because it has previously been unimportant, but because it has been so difficult to measure.
+At this time, we are still in the early stages of measuring this risk, and the challenges in gathering the relevant data and developing the models are still great.
+Proposals recently issued by the Basel Committee on Banking Supervision that would require internationally active banks to maintain regulatory capital for operational risk has spurred industry efforts to quantify the risk.
+Through such efforts, I expect we will see significant progress here, too, as additional resources are brought to the task.
+In the process, the industry will have made great progress in addressing each of what are arguably the three greatest risk to banks--market, credit, and operational risk--and they will have done so quantitatively and systematically through an integrated-risk, enterprise-wide framework.
+Strategic Planning The example I just presented of how effective Asset/Liability Management Committees and processes can support business-line strategies as well as governance, is intended to illustrate that effective enterprise-wide risk-management processes are not built just to "comply" with banking regulations or Sarbanes-Oxley requirements.
+Rather, these processes can add value when they become an integral part of both strategic and tactical business-decision processes.
+Corporate strategies often focus on the "most likely" future scenario and the benefits of a strategic initiative.
+A sound governance, risk management, and internal control environment starts by stretching the strategic planning exercise to consider alternative outcomes.
+That is, while the strategy is being developed, management and the board should consider a number of questions: What are the major risks this plan exposes the company to?
+How much risk exposure are we willing to accept?
+What are the mitigating controls that need to be in place to effectively limit these risks?
+How will we know if these controls are working effectively?
+In other words, by considering risks as part of the planning process, controls can be built into the process design, the costs of errors and rework in the initial rollout can be reduced, and the ongoing initiative can be more successful because monitoring processes can signal when activities and results are missing their intended goals, so that corrective actions can be initiated more promptly.
+We all are aware of companies in various industries that have successfully presented their strategic vision to investors but later stumble because the execution of that strategy did not meet expectations.
+While shortfalls can occur for many reasons, one of the more common causes is that the strategy itself was focused too much on market and financial results, without adequate attention to the infrastructure necessary to support and sustain the implementation.
+Over the years, corporate managers have learned that focusing on better process management and quality can enhance financial returns and customer satisfaction.
+They have learned that correcting errors, downtime in critical systems, and relying on undertrained staff all create higher costs and lost revenue opportunities.
+I challenge you to consider the corporate governance structure appropriate to your bank's unique business strategy and scale as an important investment, and to consider returns on that investment in terms of the avoidance of the costs of poor internal controls and customer dissatisfaction.
+As you know, once an organization gets lax in its approach to internal controls, problems tend to follow.
+Many of you can recall the time and attention management devoted to section 112 of the Federal Deposit Insurance Corporation Improvement Act (FDICIA 112) when management reports and auditor attestations were first required in the early 1990s.
+Then the process became routine, stale to the changes in the way the business was being run, delegated to lower levels of management, and even assigned solely to the internal audit staff.
+When line management at all levels is not engaged in regular assessments of changing risk exposures and evaluations of the effectiveness of mitigating controls, breaks in internal controls are more likely to occur.
+Unfortunately, some banks that have allowed FDICIA 112 internal control processes to be looked at as a compliance burden are now having to readjust the culture of their organizations to comply with the similar provisions of Sarbanes-Oxley 404 and the new Public Company Accounting Oversight Board Standard 2.
+Trying to change the culture again is taking an exceptional amount of senior management and director time--time that is taken away from building the business.
+The challenge, therefore, is to ensure that risk management and internal control cultures are maintained at the appropriate priority level in your organization, and consistency will help you deal with the risks that you will face in the coming years.
+Enterprise-wide Risk Management Enterprise-wide risk management looks within and across business lines and activities of the organization as a whole to consider how one area of the firm may affect the risks of other business lines and the enterprise as a whole.
+This approach is in marked contrast with the silo approach to risk management, which considers the risks of activities or business lines in isolation, without considering how those risks interrelate and affect other business lines.
+While individual business lines or activities should continue to enhance their own risk-management practices, as organizations gain in complexity it is important to provide the critical oversight that can come only from an enterprise-wide risk-management approach.
+Why is an enterprise-wide compliance program so important?
+Board members of various financial services companies involved in recent scandals have made similar public comments that identified as one of the causes of their firm's compliance breakdowns, the bifurcation of compliance responsibilities within the firm.
+That is, no one had the 25,000-foot view of what was happening across the organization, and this led to internal control shortcomings that were not identified and to opportunities for employees to take unfair advantage of other market participants.
+Moreover, the compliance with business-line risk-management and internal control policies did not have the status and perceived importance it should have had.
+One best practice is that exceptions approved within the business line should become transparent to the enterprise's risk-management staff, executive management, and board of directors.
+That is, regular reviews of exception approvals by type and frequency can provide insight into the effectiveness of policies and mitigating controls.
+Likewise, there should be a process for reporting control failures.
+This addition helps to ensure that the board, the group that is ultimately responsible for risk management, can assess the quality and robustness of risk management across the organization.
+Viewing risk management across the organization's different functions minimizes the possibility of overlooking legal and reputational risks.
+A silo view of risk management may allow gaps in control to persist, with no one assuming responsibility for a risk, or may allow conflicting internal controls to develop.
+One of the common themes running through many of the well-known breakdowns in internal controls over the last two years is lack of attention to conflicts of interest.
+Rewarding officers for booking business without regard for violations of internal controls in other functional areas has created significant reputational, regulatory, and legal risk for some organizations.
+An enterprise-wide approach to risk management does not replace, but rather builds on the practices of individual business lines.
+Indeed, it is very important to retain business-line functions because they are staffed by individuals who understand the activities being conducted and know where control breakdowns have occurred in the past.
+For example, the risk-management function for consumer credit requires staff with detailed understanding of the changes in risk models, marketing campaigns, lending officer training, collections effectiveness, etc.
+The enterprise-wide approach supplements this business-line-specific view with a big-picture approach at the corporate level that encompasses and has access to all lines of business and operational areas.
+It aggregates the various business-line reviews in assessing the robustness and adequacy of enterprise-wide risk management, and it ensures that significant issues are brought to the attention of senior global compliance officers as appropriate.
+Several elements are essential to the successful implementation of enterprise-wide risk management.
+One is clearly articulated risk-management goals that provide a foundation for the enterprise-wide risk-management program and for related training and communication.
+A second is a common risk language, which is critical because it enables individuals throughout the organization to conduct meaningful cross-functional discussions about risk.
+A third element essential to the implementation of successful enterprise-wide risk management is that individuals clearly understand their roles in the risk-assessment and risk-management framework.
+In today's environment, I urge all organizations to consider embracing this discipline.
+Indeed, the Federal Reserve is currently considering how to better integrate enterprise-wide risk management into its management processes.
+Introduction of New Activities An enterprise-wide risk-management program should also be dynamic, constantly assessing changing risks when new business lines or activities are added or existing activities are altered.
+Continuing reassessment of risks and controls and communication with the business lines is necessary to avoid an internal control environment that is operating on autopilot and does not proactively respond to change in the organization.
+Many of the organizations that have seen their reputations tarnished in the past few years have simply neglected to consider emerging conflicts of interest when adding new products and lines of business.
+It is important to make sure that appropriate firewalls and mitigating controls are in place before the product or activity begins.
+The enterprise-wide compliance function should look at what is being reported to the board, the audit committee, and senior management about new or changed processes, procedures, and controls.
+In evaluating risks, managers need to consider both current and planned or anticipated operational and market changes and identify the risks arising from those changes.
+Once risks have been identified comprehensively and their potential impact on the organization evaluated, management must determine the effectiveness of existing controls and develop and implement additional appropriate mitigating controls where needed.
+The robustness and effectiveness of these controls must be evaluated independently, soon after the control structure is established, so that any shortcomings can be identified promptly and corrected.
+Risk assessments initiated early in the planning process can give the firm time to implement mitigating controls and conduct a validation of the quality of those controls before launching the product.
+Strong internal controls and governance require that these assessments be done by an independent group.
+One of the weaknesses that we have seen is that management delegates both the development and the assessment of the internal control structure to the same risk-management, internal audit, compliance, or legal division.
+Instead, it is important to emphasize that line management has the responsibility for identifying risks and ensuring that the mitigating controls are effective, and that the assessments should be done by a group independent of that line organization.
+The Role of the New-Product Approval Process Enterprise-wide risk management is an important part of the new-product approval process, along with other relevant parties, including credit risk, market risk, operations, accounting, legal, audit, and senior line management.
+New products include products or services being offered to, or activities being conducted for the first time in, a new market or to a new category of customers or counterparties.
+For example, a product traditionally marketed to middle-income customers that is being rolled out to low- or moderate-income customers generally should be reviewed as a new product.
+In addition, significant modifications to products, services, and activities or their pricing warrant review as a new product.
+Even small changes in the terms of products or the scope of services or activities can greatly alter their risk profiles and justify review as a new product.
+When in doubt about whether a product, service, or activity warrants review as a new product, financial firms should err on the side of conservatism and route the proposal through the new-product approval process.
+Cutting short a new-product review because of a rush to deliver a new product to market, or because of performance pressures, increases the potential for serious risk exposures and losses.
+Let me describe the evolution of two traditional products that came to regulators' attention because the changing risk exposures in the products were not supported by appropriate changes in the internal control and risk-management infrastructure.
+The first is credit cards, which have long been a profitable service offered by many financial institutions.
+In the last several years, however, credit cards have been marketed to higher-credit-risk customers who traditionally would not have qualified for this product.
+To compensate for higher risks, the revenue stream from these subprime credit cards is very different from those of traditional credit cards.
+Despite the differences in risk profiles and revenue streams, targeted reviews of subprime credit card lending by regulators determined that internal controls and risk-management information had not been adapted to monitor these new products at some institutions.
+Because so much of the revenue from these products takes the form of up-front, monthly, and late fees, rapid growth in the number of accounts leads to billing of fees ahead of charge-offs that occur later in the customer relationship.
+Some banks were recording fee income as revenue when it was billed, and they had no information system to determine what share of those fees would eventually be collected.
+As the number of accounts was growing, the write-off of uncollectible fees was not transparent in the aggregate fee income that was being recorded.
+Once organizations tracked write-offs of uncollectible fees and tied them with credit scores of customers and aging of accounts, a portion of fees billed was reserved against losses.
+Further, the rapid growth of credit card balances outstanding also masked the deteriorating credit quality of some portfolios.
+When these organizations began to track charge-offs by age of account, six-month charge-off rates of subprime portfolios were found to exceed those of prime credit cards by factors of several fold.
+When management and boards looked at this new information, they saw a very different picture of the profitability of this product.
+Some banks realized that as soon as growth of accounts slowed, the front-ending of income would be overcome by the back- ending of charge-offs.
+They realized that the product as structured was in fact reducing shareholder value, and took appropriate actions.
+The second product evolution I want to use as an example of risk management is "bounced check protection."
+Bankers have always honored the occasional check written by a good customer that was presented with insufficient funds.
+But in the last couple of years, vendors have been marketing programs to grow fee income by promoting the availability of this balance-protection service.
+Consumers do benefit when banks cover checks, since they do not incur returned- check charges from the merchant to whom they wrote the check, not to mention the embarrassment of bouncing a check.
+But again, some bankers did not stop to consider how this new service was changing the risk profile of the service and effectively assess the risk and reward.
+Here is where an enterprise-wide approach to product introduction can help.
+When checks are covered for customers, the bank is effectively taking on the risk that those customers may never bring their accounts current.
+Like revenue from subprime credit cards, if the fees for overdrafts are booked as income when billed to the account, it may be some time before the overdraft becomes large enough to call attention to the need for a charge-off.
+If credit risk officers were involved in the review of this new product, they may be more likely to realize that information systems should be in place to track the frequent users of this service and write a policy that called for timely recognition of charge-offs.
+In fact, it could identify customers in temporary financial duress who might be candidates for loan products, in which case the bank could retain good long-term customers and appropriately structure the loan to reflect the risk, and the customers could obtain the needed credit at an all-in cost below what they would incur by using their checking accounts inappropriately.
+The Federal Reserve, along with the other regulators, has out for comment some guidance on this product, and I do not want to prejudge the results of that review.
+So, in the meantime I turn your attention to guidelines prepared by the American Bankers Association, which provide some useful information.
+Conclusion What I have tried to do this morning is to challenge all of you to think about how you can work together to improve the execution of your banks' strategic plans.
+Consumer banking managers should realize that they can look to an effective enterprise-wide risk-management process as a way to better understand the risk exposure in their products and customer groups.
+It can help identify the important mitigating controls that should be in place to keep risk exposures at the level necessary to achieve profitability targets.
+And by working with managers who spend their time thinking about different types of risks, consumer bankers can reduce unintended customer service errors, compliance breakdowns, and difficult product rollouts.

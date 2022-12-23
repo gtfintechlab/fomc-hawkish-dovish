@@ -1,0 +1,104 @@
+Unnamed: 0,sentence,label,score
+0,"At the Federal Reserve, we are strongly committed to achieving the monetary policy goals that Congress has given us: maximum employment and price stability.",LABEL_1,0.9789794683456421
+1,"Today, in support of these goals, the Federal Open Market Committee kept its policy interest rate near zero and stated its expectation that an increase in this rate would soon be appropriate.",LABEL_1,0.9958733916282654
+2,"As I will explain, against a backdrop of elevated inflation and a strong labor market, our policy has been adapting to the evolving economic environment, and it will continue to do so.",LABEL_1,0.9987139701843262
+3,"Economic activity expanded at a robust pace last year, reflecting progress on vaccinations and the reopening of the economy, fiscal and monetary policy support, and the healthy financial positions of households and businesses.",LABEL_0,0.6071452498435974
+4,The recent sharp rise in COVID cases associated with the Omicron variant will surely weigh on economic growth this quarter.,LABEL_0,0.923393726348877
+5,"If the wave passes quickly, the economic effects should as well, and we would see a return to strong growth.",LABEL_1,0.8904086947441101
+6,"Over the past year, payroll employment has risen by 6.4 million jobs.",LABEL_1,0.9828281402587891
+7,"The unemployment rate has declined sharply, falling 2 percentage points over the past six months to reach 3.9 percent in December.",LABEL_0,0.9827412962913513
+8,Labor demand remains historically strong.,LABEL_0,0.9981606602668762
+9,"Over time, there are good reasons to expect some further improvements in participation and employment.",LABEL_0,0.996826171875
+10,Inflation remains well above our longer-run goal of 2 percent.,LABEL_1,0.9830610156059265
+11,Supply and demand imbalances related to the pandemic and [to] the reopening of the economy have continued to contribute to elevated levels of inflation.,LABEL_1,0.9914135932922363
+12,"In particular, bottlenecks and supply constraints are limiting how quickly production can respond to higher demand in the near term.",LABEL_1,0.9951267242431641
+13,"While the drivers of higher inflation have been predominantly connected to the dislocations caused by the pandemic, price increases have now spread to a broader range of goods and services.",LABEL_1,0.9993140697479248
+14,"Wages have also risen briskly, and we are attentive to the risks that persistent real wage growth in excess of productivity [growth] could put upward pressure on inflation.",LABEL_1,0.9995811581611633
+15,"Like most forecasters, we continue to expect inflation to decline over the course of the year.",LABEL_0,0.9690065383911133
+16,"We understand that high inflation imposes significant hardship, especially on those least able to meet the higher costs of essentials like food, housing, and transportation.",LABEL_1,0.9991661310195923
+17,"In addition, we believe that the best thing we can do to support continued labor market gains is to promote a long expansion, and that will require price stability.",LABEL_1,0.9886325001716614
+18,We are committed to our price-stability goal.,LABEL_2,0.9249146580696106
+19,We will use our tools both to support the economy and a strong labor market and to prevent higher inflation from becoming entrenched.,LABEL_1,0.9996505975723267
+20,The Fed’s monetary policy actions have been guided by our mandate to promote maximum employment and stable prices for the American people.,LABEL_1,0.5831580758094788
+21,"In light of the remarkable progress we’ve seen in the labor market and inflation that is well above our 2 percent longer-run goal, the economy no longer needs sustained high levels of monetary policy support.",LABEL_2,0.9552021026611328
+22,"Making appropriate monetary policy in this environment requires humility, recognizing that the economy evolves in unexpected ways.",LABEL_2,0.9997350573539734
+23,"With this in mind, we will remain attentive to risks, including the risk that high inflation is more persistent than expected, and are prepared to respond as appropriate to achieve our goals.",LABEL_1,0.9996196031570435
+24,"[In] these high-level principles, [we] clarify that the federal funds rate is our primary means of adjusting monetary policy and that reducing our balance sheet will occur after the process of raising interest rates has begun.",LABEL_1,0.6308382153511047
+25,Our decisions to reduce our balance sheet will be guided by our maximum-employment and price-stability goals.,LABEL_1,0.5486302971839905
+26,We at the Federal Reserve will do everything we can to achieve our maximum-employment and price-stability goals.,LABEL_1,0.7430010437965393
+27,"Inflation is running well above our 2 percent target, much higher than it was at that time.",LABEL_1,0.9982193112373352
+28,And I would say that most FOMC participants agree that labor market conditions are consistent with maximum employment in the sense of the highest level of employment that is consistent with price stability.,LABEL_1,0.976769208908081
+29,"The other thing is, maximum employment will, will evolve over time and through the course of the business cycle.",LABEL_2,0.9996708631515503
+30,Max—the level of maximum—of employment that’s consistent with stable prices may increase.,LABEL_0,0.9613341093063354
+31,I think there’s quite a bit of room to raise interest rates without threatening the labor market.,LABEL_1,0.998761773109436
+32,"I also would point out that there are—there are other forces at work this year, which should also help bring down inflation, we hope, including improvement on the supply side, which will ultimately come.",LABEL_1,0.8159459233283997
+33,"And also, fiscal policy is going to be less supportive of, of growth this year—not of the level of economic activity, but the fiscal impulse to growth will be significantly lower.",LABEL_0,0.9870151281356812
+34,So there are multiple forces—which should be working over the course of the year for inflation to come down.,LABEL_0,0.9983389377593994
+35,"We do realize that the timing and pace of that are, are highly uncertain and that inflation has persisted longer than we—than we thought.",LABEL_1,0.9715160727500916
+36,"And, of course, we’re prepared to use our tools to assure that higher inflation does not become entrenched.",LABEL_1,0.9980738162994385
+37,"And the economy’s much stronger, and inflation is much higher.",LABEL_1,0.999451220035553
+38,"And, and—but I would point you to principle number one, which is “the Committee views changes in the target range for the federal funds rate as its primary means of adjusting the stance of monetary policy.” So we do want the federal funds rate—we, we want to operationalize that [as the primary means].",LABEL_1,0.9994939565658569
+39,"And then we’ll look to have that just running in the background and have—and have the interest rates, again, be the active tool of monetary policy.",LABEL_2,0.9997517466545105
+40,"So, as you know, the ultimate focus that we have is on the real economy: maximum employment and price stability.",LABEL_2,0.9996384382247925
+41,And monetary policy works significantly through expectations.,LABEL_1,0.9955845475196838
+42,"I think the path is highly uncertain and that we’re committed to using our tools to make sure that inflation, high inflation that we’re seeing, does not become entrenched.",LABEL_2,0.9998019337654114
+43,"So a number of factors would be—it’s not just monetary policy—a number of factors are supporting a decline in inflation, as I mentioned.",LABEL_1,0.9994497895240784
+44,Fiscal policy will be—will provide significantly less of an impulse to growth.,LABEL_0,0.9720247983932495
+45,"So that, too, should—should lower the supply-side barriers, which are a big part of the story of why inflation is high.",LABEL_2,0.9803783297538757
+46,"In addition, monetary policy will be becoming significantly less accommodative.",LABEL_1,0.9991395473480225
+47,"There’s a case that, for whatever reason, the economy slows more and inflation slows more than expected; we’ll react to that.",LABEL_0,0.7863211631774902
+48,"If, instead, we see inflation at a higher level or a more persistent level, then we’ll react to that.",LABEL_0,0.9987442493438721
+49,"And then after [that], they were a macroeconomic tool to support demand.",LABEL_1,0.9993426203727722
+50,We’ve identified the end state as—in amounts needed to implement monetary policy efficiently [and] effectively in the ample-reserves regime.,LABEL_2,0.9888456463813782
+51,"So I—you know, the one risk is that inflation risks are still to the upside in the views of most FOMC participants and, certainly, in my view as well.",LABEL_2,0.9957984089851379
+52,"There’s a risk that, that the high inflation we’re seeing will be prolonged, and there’s a risk that it will move even higher.",LABEL_1,0.9994200468063354
+53,And that’s—we have to be in a position with our monetary policy to address all of the plausible outcomes.,LABEL_1,0.9993392825126648
+54,"We, we have an expectation about the way the economy is going to be evolved, but we’ve got to be in a position to, to address different outcomes, including the one where inflation remains higher.",LABEL_2,0.9991297125816345
+55,"That’s going to require price stability, and that’s going to require the Fed to tighten interest rate policy and do our part in getting inflation back down to our 2 percent goal.",LABEL_1,0.9992536902427673
+56,"And COVID can continue to evolve, and it’s just—we have to accept that it’s not over, and the risks to it can slow down growth.",LABEL_1,0.9996557235717773
+57,And that would be—that’s sort of a downside risk from a growth standpoint.,LABEL_2,0.6934584379196167
+58,"So I’d say, you know, since, since the December meeting, I would say that the inflation situation is about the same but probably slightly worse.",LABEL_0,0.9910253286361694
+59,I’d be inclined to raise my own estimate of 2022 core PCE inflation—let’s just go with that—by a few tenths today.,LABEL_1,0.9976166486740112
+60,"And I think to the extent the situation deteriorates further, our policy will have to address that, if it deteriorates meaningfully further, either in the time dimension or in the size of the inflation dimension.",LABEL_1,0.9973270893096924
+61,Another part of it is that fiscal policy provided an impulse to growth over the last two years.,LABEL_1,0.9991136193275452
+62,"And that, I think, does raise, raise the risk that high inflation will be more persistent.",LABEL_0,0.996008038520813
+63,"And I, you know, we—our objective is to get inflation back down to 2 percent.",LABEL_1,0.9995265007019043
+64,"If you look back to where we were in 2015, ’16, ’17, ’18 when we were raising rates, inflation was very close to 2 percent, even below 2 percent.",LABEL_1,0.9883939027786255
+65,"Unemployment was, was not at our estimates of the natural rate.",LABEL_2,0.8911381959915161
+66,"And growth was, you know, in the 2 to 3 percent range.",LABEL_2,0.6470566391944885
+67,"Right now, we have inflation running substantially above 2 percent and, and, you know, more persistently than we would like.",LABEL_2,0.999609649181366
+68,"We have growth—even in forecasts, even in the somewhat reduced forecast for 2022—we still see growth higher than, substantially higher than what we estimate to be the potential growth rate.",LABEL_1,0.9992730021476746
+69,"I think the—you know, in a way, the least tight aspect of it is, is looking at the unemployment rate, which is still below our median estimate of, of [the unemployment rate consistent with] maximum employment.",LABEL_1,0.9788936972618103
+70,"And so inflation right away, right away forces people like that to make very difficult decisions.",LABEL_0,0.9978723526000977
+71,"I don’t—I’m not aware of, you know, inflation literally falling more on, on different socioeconomic groups.",LABEL_1,0.626828134059906
+72,"I mean, for people who are economically well off, inflation isn’t good.",LABEL_2,0.9997901320457458
+73,"High inflation is, is bad, but they’re going to be able to continue to eat and keep their homes and drive their cars and things like that.",LABEL_1,0.9799273014068604
+74,"And, you know, we, we have to control inflation for the benefit of all Americans.",LABEL_1,0.979588508605957
+75,"But part of—part of it is just that it’s particularly hard on people with fixed incomes and low incomes who spent most of their—of their income on necessities, which are—which are experiencing high inflation now.",LABEL_1,0.9950533509254456
+76,"We—our policy needs to be positioned to address the full range of plausible outcomes, as I said, and particularly the possibility that inflation will continue to run higher, more persistently than we’d expected.",LABEL_1,0.998666524887085
+77,"But in—as we work our way through this, meeting by meeting, we are aware that this is a very different, different expansion, as I’ve said a couple times, with higher inflation, higher growth, a much stronger economy.",LABEL_1,0.9993684887886047
+78,"There’s no—there’s nothing in our framework about having inflation run below 2 percent so that we would do that, try to achieve that outcome.",LABEL_1,0.9982529282569885
+79,"So the answer to that is, is “no.” What we’re trying to do is get inflation, keep inflation expectations well anchored at 2 percent.",LABEL_2,0.9640917778015137
+80,And we do that in the service of having inflation—we get to that goal by having inflation average 2 percent over time.,LABEL_1,0.5888689756393433
+81,"And if inflation doesn’t average 2 percent over time, then it’s not clear why inflation expectations would be anchored at 2 percent.",LABEL_2,0.9864653944969177
+82,And you have growth this year at—forecast to be well above—well above potential.,LABEL_2,0.999841570854187
+83,"I mean, people who are forecasting growth think potential growth is around 2 [percent].",LABEL_1,0.9968652129173279
+84,"Most forecasts [of actual growth] are significantly above that for 2022, and that’s even with, with policy becoming substantially less accommodative.",LABEL_2,0.9933156371116638
+85,"We’re—ideally, what we’re trying to achieve is inflation getting back down to 2 percent.",LABEL_1,0.953280508518219
+86,"Again, I would say that it isn’t just monetary policy that’s helping inflation get down.",LABEL_1,0.9687743186950684
+87,So—but monetary policy will do our job.,LABEL_1,0.872053325176239
+88,It is our job to get inflation down to 2 percent.,LABEL_2,0.9997928738594055
+89,"But I—but I don’t really think they are here, though, because I think a really significant threat to further strengthening in the labor market in the form of higher participation over time is high inflation.",LABEL_2,0.6379514932632446
+90,"And also, high inflation is taking away the benefits of some of these larger wage increases that we’re seeing now.",LABEL_1,0.996444046497345
+91,"State dependency was particularly around the thought that if we—if we saw a very strong labor market, we would wait to see actual inflation—actual inflation before we tightened.",LABEL_1,0.999204695224762
+92,"And so that was a very state-dependent thought because, for a long time, we’d been tightening on the expectation of high inflation, which never appeared.",LABEL_0,0.7803605794906616
+93,"And then, you know, you have—economic activity drops by a shocking amount in one—so there was a real risk of lasting damage.",LABEL_0,0.8498715758323669
+94,"And we’re managing the, the relatively high-class problems that come with that, which are high inflation and a labor shortage.",LABEL_2,0.991529107093811
+95,Many flat—many factors influence longer-term interest rates.,LABEL_1,0.999427080154419
+96,This is going to be a year in which we move steadily away from the very highly accommodative monetary policy that we put in place to deal with the—with the economic effects of the pandemic.,LABEL_2,0.9997110962867737
+97,Inflation is higher.,LABEL_0,0.9315518140792847
+98,"And growth is above trend, even this year, let alone last year.",LABEL_1,0.9982372522354126
+99,So all of those things are going to go into our thinking as we make—as we make monetary policy.,LABEL_1,0.9903013706207275
+100,"But you mentioned, really, [the behavior of] asset prices is one of the four.",LABEL_2,0.9998107552528381
+101,"So asset prices are somewhat elevated, and they reflect a high risk appetite and that sort of thing.",LABEL_2,0.9998383522033691
+102,"I don’t really think asset prices themselves represent a significant threat to financial stability, and that’s because households are in good shape financially than they have been.",LABEL_1,0.9977335929870605

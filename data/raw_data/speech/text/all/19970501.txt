@@ -1,0 +1,140 @@
+Its proceedings have chronicled a remarkable and ongoing transformation of the U.S. financial services industry.
+At the time of the first gathering in 1963, our financial system was highly segmented, with commercial banks, savings and loans, investment banks, insurance companies, and finance companies providing distinctly separate products.
+Statutes and regulations greatly restricted competition between banks and nonbanks, and among banks themselves.
+Today, the marketplace for financial services is intensely competitive, innovative, and global.
+Banks and nonbanks, domestic and foreign, now compete aggressively across a broad range of on- and off-balance-sheet financial activities.
+It is noteworthy that, for the most part, this transformation has not been propelled by sweeping legislative reforms.
+Rather, the primary driving forces have been advances in computing, telecommunications, and theoretical finance that, taken together, have eroded economic and regulatory barriers to competition, de facto.
+Technology has fundamentally reshaped how financial products are created and how these products are delivered, received, and employed by end-users.
+In my remarks this morning, I plan to discuss two aspects of this process of technological change.
+First is the recurring theme of financial products being unbundled into their component parts, including the unbundling of credit, market, and other risks.
+These developments have worked to enhance the competitiveness and efficiency of the financial system and, at the same time, to provide financial institutions and their customers with better tools for managing risks.
+A byproduct is that our largest and most complex financial organizations increasingly are measuring and managing risk on a centralized basis.
+This trend seems irreversible, and in my view provides a compelling reason for maintaining some type of umbrella supervision over banking organizations, especially as we contemplate repeal of Glass-Steagall and other restrictions on the activities of banking organizations.
+The second theme I want to explore is the large element of uncertainty underlying technological progress.
+Reflecting this uncertainty, it is inherently very difficult to predict the extent to which government policies may distort the private sector's incentives to innovate.
+This argues for supervisory and regulatory policies that are more "incentive-compatible," in the sense that they are reinforced by market discipline and the profit-maximizing incentives of bank owners and managers.
+To the extent this can be achieved, and I believe we have taken some innovative steps in this direction, supervisory and regulatory policies will be both less burdensome and more effective.
+Unbundling of Financial Services The unbundling of financial products is now extensive throughout our financial system.
+Perhaps the most obvious example is the ever-expanding array of financial derivatives available to help firms manage interest rate risk, other market risks, and, increasingly, credit risks.
+Derivatives are now used routinely to separate the total risk of more generic products into component parts associated with various risk factors.
+These components frequently are repackaged into synthetic products having risk profiles that mimic financial instruments in other markets.
+The synthetic products can then be resold to those investors most willing and able to bear the associated risks.
+Another far-reaching innovation is the technology of securitization--a form of derivative--which has encouraged unbundling of the production processes for many credit services.
+Securitization permits separate financial institutions to originate, service, fund, and assume the credit or market risks of a portfolio of loans or other assets.
+Thus, a financial institution may specialize in those activities where it has particular expertise or other comparative advantages.
+For example, to reduce the costs of originating and securitizing certain types of household loans, the underwriting processes used by some financial institutions rely on highly automated credit-scoring models developed by third-party vendors.
+These models, in turn, typically are linked to huge databases on borrower characteristics maintained independently by national credit bureaus.
+Numerous types of assets are now routinely securitized, including residential mortgages, commercial mortgages, auto loans, and credit card loans.
+In addition, medium- and large-size businesses, including some that are below investment-grade, regularly access the commercial paper market by securitizing their trade accounts or other assets.
+Recently, securitization and credit-scoring are beginning to be applied to small business lending.
+These and other developments facilitating the unbundling of financial products have surely improved the efficiency of our financial markets.
+One benefit is greater economic specialization, as banks and other financial institutions are able to create market niches, for example, in cash management, investment management, or the origination or servicing of certain loans.
+Moreover, by lowering the costs of hedging and financial arbitrage, derivatives and securitization work to enhance market liquidity and reduce both absolute risk premiums and disparities in risk premiums across financial instruments and geographic regions.
+Unbundling also has lowered economic barriers to competition, affording households and businesses a greater choice of potential providers for financial products.
+The ability to unbundle permits potential competitors to target highly specific product- or market-attributes, for which existing providers are earning excessive "rents."
+Through credit-scoring and direct-mail marketing, for instance, a financial institution can identify and recruit potentially profitable credit card customers over a wide geographic area, without incurring the costs associated with a large branch network.
+According to our Survey of Consumer Finances, for example, 84 percent of general purpose credit cards held by U.S. households in 1995 were issued by financial institutions from which the card holder received no other financial service.
+In addition, unbundling has helped erode legal barriers to competition, by enabling one or more attributes of a product to be modified in order to exploit statutory or regulatory "loopholes."
+A classic example, of course, is the introduction of money market mutual funds, which ultimately forced the removal of Regulation Q interest rate ceilings on deposit accounts.
+It is important to recognize that these developments would not have been possible without complementary advances in technology across several disciplines.
+First, innovations in finance theory, such as the principle of financial arbitrage and models for pricing contingent claims, provided a conceptual framework for understanding and modeling financial risks.
+Second, advances in computer and communications technologies have made these conceptual innovations economically feasible, by lowering the costs associated with information processing and with the transmission of large volumes of data over long distances.
+Besides promoting competition and improved products and production efficiencies, these same technological advances have spawned a sea-change in the risk management practices of financial institutions.
+The largest and most sophisticated banking organizations increasingly have centralized their risk management at the parent level--cutting across legal entities and financial instruments.
+This new management paradigm is grounded in the same conceptual techniques employed by financial engineers to unbundle the total risk of an individual asset.
+Such techniques rely on the financial engineer's ability to model the relationship between an individual asset's economic value and a number of separate risk factors.
+Carrying this process further, the relationship between these risk factors and the value of an overall portfolio can be obtained by summing the relationships for the individual underlying assets.
+With the processing power of modern computers, it is now possible to estimate the joint probability distribution of many risk factors and, given this distribution, to simulate the probability distributions of losses for large, complex portfolios.
+Over the past decade or so, the largest banking organizations have invested substantial sums to hire the staff and to create the software, databases, and related management information systems to carry out such computations.
+Most of you are aware of the application of this technology in VAR, or "value-at-risk," models, which are used to estimate loss distributions for trading portfolios.
+More recently, many large banking organizations have begun using similar technologies to measure the credit risk in their loan portfolios.
+In both applications, the measurements of overall portfolio risk are used to determine the prices for loans and other products needed to achieve hurdle rates-of-return on shareholder equity, to assess the adequacy of an organization's overall equity capital, as well as for other management purposes.
+These efforts to develop more centralized risk management systems are being driven by normal competitive pressures to maximize synergies within financial organizations, such as joint-production and cross-selling opportunities involving multiple subsidiaries.
+This, in turn, is the logical outcome of the organization's desire to produce and market its products most efficiently and to achieve the highest risk-adjusted returns for shareholders.
+Such synergies cannot occur if the parent is merely a passive portfolio investor in its subsidiaries.
+Reflecting this economic reality, virtually all large bank holding companies are now operated and managed as integrated units.
+The trend toward centralized risk management raises some fundamental policy issues for how we should regulate and supervise large, complex banking organizations.
+Chief among these, this trend raises serious doubts regarding suggestions that we rely solely on decentralized "functional regulation" as we move to expand further the permissible activities of banking organizations.
+The traditional view of the functional approach to regulating a banking organization would involve a bank regulator supervising the insured bank, the SEC supervising any broker/dealer subsidiary, a state insurance department supervising any insurance subsidiary, and so on.
+Each functional regulator would look only at the risk management practices of the regulated entity under its supervision; unregulated subsidiaries, including the parent, would be unsupervised.
+Before technology advanced to a point where substantial oversight and control of large banking organizations could be consolidated at the parent level, functional regulation conformed with practical limitations on the abilities of managers to coordinate resources, and evaluate risks, for the organizations as a whole.
+In essence, a decentralized approach to regulation followed from the decentralized financial decisionmaking process of its day.
+To borrow a concept from architecture: form followed function.
+In today's world, however, the "form," decentralized regulation, no longer follows the "function," centralized risk management.
+Almost by definition, the synergies upon which centralized management is predicated imply that neither a subsidiary's economic condition on a going-concern basis nor its exposure to potential risks can be evaluated independently of the condition and management policies of the consolidated organization.
+Regulation must fit the architecture of what is being regulated.
+To give one example, it is common for complex banking organizations to manage the relationships with large customers centrally, even though the underlying cash management, credit, or capital markets services provided to the customer may transcend several subsidiaries.
+Under this framework, the way the organization's internal transfer pricing system allocates costs, revenues, and risks to a specific regulated entity may be somewhat arbitrary, or even misleading.
+Yet, a functional regulator--looking only at the entity under its supervision--generally would have insufficient information to validate the reasonableness of these allocations.
+A purely decentralized regulatory approach would also greatly diminish our ability to evaluate and contain potential systemic disruptions in the financial system, since no regulator would be responsible for monitoring the consolidated banking organization.
+We should remember that one of the primary motivations of a society having a central bank and a safety net is precisely to limit systemic risk.
+Partly in recognition of the fact that financial organizations are managed on a consolidated basis, financial markets generally view them as single economic entities.
+Thus, troubles in the nongovernment-regulated portion of a bank holding company cannot be expected to leave the government-regulated subsidiaries unscathed.
+In a worst case scenario, problems in one part of an organization could precipitate a run at a healthy affiliate bank and could even generate spillover effects onto nonaffiliated banks.
+It is worth noting that recent deposit insurance and depositor preference legislation may increase these concerns, by exposing uninsured creditors of banks to a greater risk of loss than in the past.
+While these new initiatives have the significant benefit of strengthening market discipline, they may also induce some additional systemic risks, even for healthy banks, in periods characterized by heightened levels of economic uncertainty.
+We don't have much experience, yet, in operating under these new ground rules.
+For all of these reasons, I believe we must continue to have some type of umbrella supervision for banking organizations, especially for the largest and most complex organizations that pose the greatest systemic risk concerns.
+In my judgment, therefore, the critical challenge is to develop approaches to implementing umbrella supervision that are effective in limiting systemic risk without distorting economic incentives or being unduly burdensome to banking organizations.
+Innovation, Uncertainty, and Bank Supervision If history is our guide, market innovations--with or without supporting legislation--will continue to stimulate financial modernization.
+As this process unfolds, we can expect banking organizations to undertake an increasing number of financial activities.
+Under these circumstances, policymakers face a very difficult tradeoff: namely, balancing the need for financial stability and umbrella supervision, on the one hand, against our desire to avoid extending bank-like regulation and the safety net over these new activities.
+In addressing this tradeoff, policymakers also have an obligation to consider the potential effects of their policies, unintended as well as intended, on the process of financial innovation.
+Technological progress has been a critical element in rising living standards.
+This is not surprising, because the creation and diffusion of innovations have represented voluntary decisions by individuals and firms acting in their own self-interests.
+Government policies always pose some risk of misdirecting or distorting this process by interfering with normal competitive market mechanisms.
+This concern is particularly relevant to the financial sector, whose innovations seem to be especially attuned to the risk-return incentives created by the safety net and regulatory policies.
+Designing government policies that minimize the potentially disruptive effects on private incentives to innovate is complicated by how little we really understand the process of innovation and technological change.
+Forecasting the direction or pace of technological change has proved to be especially precarious over the generations, even for relatively mature industries.
+While uncertainty is inherent in any creative process, Nathan Rosenberg of Stanford suggests that even after an innovation's technical feasibility has been clearly established, its ultimate effect on society is often highly unpredictable.
+He notes at least two sources of this uncertainty.
+First, the range of applications for a new technology may not be immediately apparent.
+For instance, Alexander Graham Bell initially viewed the telephone as solely a business instrument--merely an enhancement of the telegraph--for use in transmitting very specific messages, such as the terms of a contract.
+Indeed, he offered to sell his telephone patent to Western Union for only $100,000, but was turned down.
+Similarly, Guglielmo Marconi initially overlooked the radio's value as a public broadcast medium, instead believing its principal application would be in the transmission of point-to-point messages, such as ship-to-ship, where communication by wire was infeasible.
+A second source of technological uncertainty reflects the possibility that an innovation's full potential may be realizable only after extensive improvements, or after complementary innovations in other fields of science.
+According to Charles Townes, a Nobel Prize winner for his work on the laser, the attorneys for Bell Labs initially refused, in the 1960s, to patent the laser because they believed it had no applications in the field of telecommunications.
+Only in the 1980s, after extensive improvements in fiber optics technology, did the laser's importance for telecommunications become apparent.
+It's not hard to find examples of such uncertainties within the financial services industry.
+The evolution of the OTC derivatives market over the past decade has been nothing less than spectacular.
+But as the theoretical underpinnings of financial arbitrage were being published by Modigliani and Miller in the late 1950s, few observers could have predicted how their insights would eventually revolutionize global financial markets.
+This is because, in addition to their insights, at least two complementary innovations had to fall into place.
+The first was further conceptual advances in contingent claims theory, such as the Black-Scholes option pricing model.
+The second was several generations of advances in computer and communications technologies that were necessary to make these concepts computationally practicable.
+Given the high degree of uncertainty inherent in the development of new products and processes, policymakers should be cautious when attempting to anticipate the future path of innovation, or the effects new regulations may have on innovation.
+There are several aspects to this interaction between government policies and market innovation.
+First, banking organizations may develop new products or innovations to exploit regulatory "loopholes," or they may decline to develop new products whose likely regulatory treatments are viewed as burdensome or unclear.
+Another unintended consequence is that a policy action may establish an inappropriate unofficial government standard for how certain activities should be conducted.
+In contrast to government standards, which can be extremely difficult to change, when the private sector adopts a standard that subsequently becomes outmoded, market forces generally can be expected to remedy the situation.
+The history of retail electronic payments provides a useful illustration.
+In the 1970s, when many were heralding the advent of a "cashless society," the Federal Reserve and the Treasury played an important role in developing and promoting what was seen as a key component of this vision--the automated clearinghouse system.
+Now, twenty years later, we know that while the ACH has been successful in some areas, it has failed to replace a substantial portion of the daily flow of paper checks in the economy.
+This experience leads me to conclude that the experimentation with innovative electronic payment methods that we are seeing today in the private sector is likely to have a much better chance of meeting the needs of consumers and businesses than did the government-led initiatives two decades ago.
+Within the context of banking regulation, concerns about setting a potentially inappropriate regulatory standard were an important factor in the decision by the banking agencies several years ago not to incorporate interest rate risk and asset concentration risk into the formal risk-based capital standards.
+In the end, we became convinced that the technologies for measuring and managing interest rate risk and concentration risk were evolving so rapidly that any regulatory standard would quickly become outmoded or, worse, inhibit private market innovations.
+Largely for these reasons, ultimately we chose to address the relationship between these risks and capital adequacy through the supervisory process.
+I believe that in many cases, policymakers can reduce potential distortions by structuring policies to be more "incentive-compatible"-- that is, by working with, rather than around, the profit-maximizing goals of investors and firm managers.
+In light of the underlying uncertainties illustrated in my earlier examples, I readily acknowledge this is often easier said than done.
+Nevertheless, I believe some useful guiding principles can be formulated.
+The first guiding principle is that, where possible, we should attempt to strengthen market discipline, without compromising financial stability.
+As financial transactions become increasingly rapid and complex, I believe we have no choice but to harness market forces, as best we can, to reinforce our supervisory objectives.
+The appeal of market-led discipline lies not only in its cost-effectiveness and flexibility, but also in its limited intrusiveness and its greater adaptability to changing financial environments.
+Measures to enhance market discipline involve providing private investors the incentives and the means to reward good bank performance and penalize poor performance.
+Expanded risk management disclosures by financial institutions is a significant step in this direction.
+In addition, Congress has undertaken important initiatives, including a national depositor preference statute and the least-cost resolution and prompt corrective action provisions of the FDIC Improvement Act.
+Of course, the value of these initiatives will depend on the credibility of regulators in implementing the legislative mandates consistently over time.
+A second guiding principle is that, to the extent possible, our regulatory policies should attempt to simulate what would be the private market's response in the absence of the safety net.
+Such a principle suggests that supervisory and regulatory policies, like market responses, should be capable of evolving over time, along with changes in institutional practices and financial technologies.
+Almost certainly, such a principle implies that we avoid locking ourselves into formulaic, one-size-fits-all approaches to measuring and affecting bank safety and soundness.
+For example, as a bank's internal systems for measuring and managing market, credit, and operating risks improve with advances in technology and finance, our supervisory policies should become more tailored to that bank's specific needs and internal management processes.
+Recently, we have taken several steps that attempt to operationalize this concept, including the introduction of an internal models approach to assessing capital for market risks in large banks' trading accounts.
+Also, as I am sure most of you are aware, the Board is currently pilot-testing with the New York Clearing House Association an alternative capital allocation procedure for market risk, called the "pre-commitment" approach.
+The pre-commitment approach would permit capital requirements for market risk to reflect not only the estimates of risk derived from a bank's internal market-risk model, but also other features of the bank's trading risk management system that help limit its overall risk exposure--such as the effectiveness of its internal controls and other risk-management tools.
+Conclusions Over the last three decades, the folly of attempting to legislate or regulate against the primal forces of the market is one of the most fundamental lessons learned by banking regulators.
+If those market forces are driving financial firms toward centralized decisionmaking regarding risk, pricing, and other operational issues, it will be difficult, at best, to implement a decentralized approach to prudential regulation, however attractive its apparent simplicity.
+Similarly, in the face of continual market-driven innovations in banks' risk measurement and management systems, regulatory approaches based on rigid, one-size-fits-all rules are likely to become quickly outdated, ineffectual, and, worse, potentially counterproductive.
+Incentive-compatible regulation, flexibly constructed and applied, is the logical alternative to an increasingly complex system of rigid rules and regulations that inevitably have unintended consequences, including possible deleterious effects on the innovation process.
+While I have discussed some examples of incentive-compatible regulation that appear to be working, we have a very long way to go.
+For example, banking regulators have yet to reach a consensus on some of the most basic questions associated with prudential supervision--questions such as what is an appropriate conceptual basis for assessing a financial institution's overall risk exposure, how should such risk exposures be measured, and if we use internal management models for such measurements, how can these models be validated?
+The revolution in risk measurement techniques makes the answers to these questions approachable but not without significant effort on the part of the regulators and the financial industry itself.

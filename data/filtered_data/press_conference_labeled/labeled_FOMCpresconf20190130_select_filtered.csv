@@ -1,0 +1,40 @@
+Unnamed: 0,sentence,label,score
+0,"I will start with a recap of our discussions, including our assessment of the outlook for the economy and the judgments we made about our interest rate policy and our balance sheet.",LABEL_2,0.9998014569282532
+1,"My colleagues and I have one overarching goal: to sustain the economic expansion, with a strong job market and stable prices, for the benefit of the American people.",LABEL_1,0.9980194568634033
+2,"The U.S. economy is in a good place, and we will continue to use our monetary policy tools to help keep it there.",LABEL_1,0.9895045757293701
+3,"The jobs picture continues to be strong, with the unemployment rate near historic lows and with stronger wage gains.",LABEL_1,0.9970455765724182
+4,Inflation remains near our 2 percent goal.,LABEL_2,0.8659185171127319
+5,"Growth has slowed in some major foreign economies, particularly in China and Europe.",LABEL_0,0.6706243753433228
+6,Financial conditions tightened considerably late in 2018 and remain less supportive of growth than they were earlier in 2018.,LABEL_0,0.9948334693908691
+7,"At our December meeting, we noted the solid outlook for steady growth, vigorous job creation, and price stability.",LABEL_1,0.9925053715705872
+8,"In particular, our statement today says, “In light of global economic and financial developments and muted inflation pressures, the Committee will be patient as it determines what future adjustments to the target range for the federal funds rate may be appropriate.” This change was not driven by a major shift in the baseline outlook for the economy.",LABEL_2,0.9940494298934937
+9,"Like many forecasters, we still see “sustained expansion of economic activity, strong labor market conditions, and inflation near .",LABEL_1,0.9032429456710815
+10,"The traditional case for rate increases is to protect the economy from risks that arise when rates are too low for too long, particularly the risk of too-high inflation.",LABEL_1,0.9987794756889343
+11,"Inflation readings have been muted, and the recent drop in oil prices is likely to push headline inflation lower still in coming months.",LABEL_0,0.9758321046829224
+12,"Further, as we noted in our postmeeting statement, while survey-based measures of inflation expectations have been stable, financial market measures of inflation compensation have moved lower.",LABEL_0,0.9987008571624756
+13,"Today we made some important progress in clarifying the path forward, as summarized in the Statement Regarding Monetary Policy Implementation and Balance Sheet Normalization that we released with today’s FOMC statement.",LABEL_2,0.9905501008033752
+14,The Committee made the fundamental decision today to continue indefinitely using our current operating procedure for implementing monetary policy.,LABEL_2,0.999728262424469
+15,"The decision to retain our current operating procedure means that, after allowing for currency in circulation, the ultimate size of our balance sheet will be driven principally by financial institutions’ demand for reserves, plus a buffer so that fluctuations in reserve demand do not require us to make frequent sizable market interventions.",LABEL_2,0.9997332692146301
+16,"Estimates of the level of reserve demand are quite uncertain, but we know that this demand in the post-crisis environment is far larger than before.",LABEL_2,0.9994159936904907
+17,"Moreover, based on surveys and market intelligence, current estimates of reserve demand are considerably higher than estimates of a year or so ago.",LABEL_0,0.9674084782600403
+18,"The statement makes three points: First, as we’ve long emphasized, the federal funds rate is our active monetary policy tool.",LABEL_1,0.9970530271530151
+19,"We had an extensive discussion of the baseline and also of the risks to the baseline, and the risks are, of course, the fact that financial conditions have tightened, that global growth has slowed, as well as some, let’s say, government-related risks like Brexit and trade discussions, and also the effects and ultimate disposition of the shutdown.",LABEL_2,0.9992870688438416
+20,"I would say that we’ll be looking at a full range of data, and that will include inflation data.",LABEL_0,0.497849702835083
+21,It will include all data relevant to our dual mandate of stable prices and maximum employment.,LABEL_2,0.9998384714126587
+22,"Remember that our inflation objective is a symmetric one, meaning that we are—we’re always trying to get to 2 percent, and we don’t look at—we look at inflation equally on both sides.",LABEL_2,0.999711811542511
+23,"We’ll be looking at everything, but I do think that, you know, muted inflation pressures—you know, you would want—I would want to see a need for further rate increases, and, for me, a big part of that would be inflation.",LABEL_2,0.9959373474121094
+24,"But so the Committee is—what we’re looking to do is create a whole plan that will bring us to our goal, our longer-run goal, which is a balance sheet no larger than it needs to be for us to efficiently conduct—efficiently and effectively conduct monetary policy, but to do so in a way that doesn’t put our goals at risk or result in unnecessary market turmoil.",LABEL_1,0.9968987703323364
+25,"First, the narrative of slowing global growth continues, if you will.",LABEL_2,0.9900834560394287
+26,"You know, it’s interest rates, it’s risk spreads, it’s currency, it’s the stock market, it’s credit availability, it’s many, many factors.",LABEL_0,0.9972911477088928
+27,"But we would use it after using our conventional tools, which would be the interest rate and forward guidance about the interest rate.",LABEL_2,0.9996137022972107
+28,"I mean, part of the story of 2017, for example, was that European growth kept coming in stronger and stronger, and that meant the euro was strong, and that supported our exports.",LABEL_2,0.9998326301574707
+29,"So, ultimately, I think we benefit from having strong growth abroad, although you point to an interesting case.",LABEL_0,0.9988470077514648
+30,I don’t know that demand for reserves has risen over the past years.,LABEL_2,0.9949787259101868
+31,I think our understanding of demand for reserves—remember that the banks have more reserves than they need.,LABEL_2,0.9985104203224182
+32,So that implies you’d want to be a bit above what that equilibrium demand for reserves is.,LABEL_0,0.4911311864852905
+33,"So if you think that the level of demand for reserves is here [gesturing with hands together, in the middle], all you can say is, it’s probably somewhere in this range [gesturing with hands apart, equidistant from the middle].",LABEL_2,0.5955813527107239
+34,"I would say that, you know, our mandate is maximum employment and stable prices, and that’s about, you know, hard, real-side economic data.",LABEL_2,0.9996161460876465
+35,"We—as I mentioned earlier, we—our tool, you know, our interest rate tool operates on the economy through financial conditions.",LABEL_2,0.9979602098464966
+36,"So if you lower interest rates and they stay low, every borrower in the country ultimately has a lower interest rate.",LABEL_2,0.9997667670249939
+37,"But, again, the entire focus we have is on maximum employment and stable prices, not on any particular financial market or financial conditions generally.",LABEL_1,0.9153519868850708
+38,"And we put that out there very publicly and in the hope that it would be priced in and understood, and that then we could put the balance sheet on the side and have interest rates be the active tool of policy.",LABEL_2,0.9860894680023193

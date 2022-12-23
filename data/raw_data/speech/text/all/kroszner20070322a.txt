@@ -1,0 +1,49 @@
+The time certainly is ripe for an open dialogue among market participants, risk-management professionals, and policymakers.
+Credit markets have been evolving very rapidly in recent years.
+New instruments for transferring credit risk have been introduced and loan markets have become more liquid.
+Asset managers have become an important force in a wider range of credit markets.
+Taken together, these changes have transformed the process through which credit demands are met and credit risks are allocated and managed.
+As I will discuss, I believe these developments generally have enhanced the efficiency and the stability of the credit markets and the broader financial system by making credit markets more transparent and liquid, by creating new instruments for unbundling and managing credit risks, and by dispersing credit risks more broadly.
+Interestingly, this is not the first time that we have witnessed innovations in derivatives markets that have led to these types of benefits.
+Later, I will very briefly draw some parallels between recent developments in credit derivatives and the development of agricultural futures in the mid-nineteenth century.
+For all their benefits, these developments have posed some significant challenges to market participants.
+The complexity of some instruments creates difficulties with respect to valuation, risk measurement, and risk management.
+Also, the trading of certain instruments has at times run well ahead of developments in the infrastructure necessary for clearing and settling those trades.
+Although impressive progress is being made toward addressing these challenges, I believe they need continuing attention from market participants and policymakers.
+Recent DevelopmentsThe evolution of the credit markets has been spurred by the astonishing growth of new credit instruments, particularly credit derivatives.
+The notional amount of credit derivatives outstanding has doubled each year for the past five years; it totaled $20 trillion at the end of June 2006, according to statistics compiled by the Bank for International Settlements (BIS).
+The bulk of credit derivatives outstanding consist of single-name credit default swaps, or single-name CDS, which reference the obligations of a single obligor.1 Derivatives are sometimes faulted for their complexity, but that charge cannot be leveled against single-name CDS: The risk of a single-name CDS is essentially that of simply buying or selling short a bond.
+Single-name CDS make up 70 percent of all credit derivatives, according to the BIS.
+The bulk of CDS trading is in the investment-grade segment of the corporate credit market, although CDS trading involving high-yield names has been expanding quickly.
+Most recently, CDS that reference asset-backed securities have been a high-growth part of the market.
+Single-name CDS can be used as building blocks to construct credit derivatives referencing portfolios of issuers.
+These so-called multiname CDS make up the remaining 30 percent of credit derivatives, according to the BIS.
+Some multiname CDS are quite straightforward, such as an index of actively-traded names in a particular market segment.
+Some, however, are indeed quite complex; they include certain structured credit derivatives that unbundle the risk of a portfolio of names into tranches with different seniorities and dramatically different risks.
+Credit derivative indexes are currently the fastest-growing and most liquid area of the credit markets.
+They were created first in the most actively traded market segments: investment-grade and high-yield names in both North America and Europe.
+Recently, newer indexes have been created in other market segments, including securities backed by commercial mortgages, subprime residential mortgages, and European leveraged loans.2 Among the more complex credit derivatives, the credit index tranches stand out as an important development.
+A credit index tranche exposes an investor to a particular slice of the losses due to defaults among names in one of the credit derivative indexes.
+The so-called equity tranche bears a disproportionate share of the total credit risk of the underlying index.
+For example, an equity tranche might be exposed to the first 3 percent of losses.
+Other tranches would cover the remaining percentiles of loss, and the sum of all tranches reproduces the exposure of the entire index.
+As I will discuss in a few minutes, one factor behind the complexity of credit index tranches is that the loss exposure depends not only on the level of defaults but also on the correlation of defaults across issuers.
+Another instrument in the credit markets, similar to a credit index tranche, is the collateralized debt obligation, or CDO.
+A CDO pools a portfolio of fixed-income assets into a tranched liability structure that is familiar from other securitization markets.
+For example, banks have long used a similar liability structure to fund their credit card loans to consumers.
+The most common types of collateral for CDOs are asset-backed and corporate securities and syndicated loans.
+CDOs backed by loans are referred to as collateralized loan obligations, or CLOs.
+The growth of CLOs has certainly had an effect on the market for syndicated loans.
+Of course, syndicated loans are not a new instrument.
+They have been around since the 1970s.
+But recently, the secondary-market liquidity of syndicated loans has improved dramatically, in part because of the demand for loans by CLOs.
+This improved liquidity has transformed loans from buy-and-hold investments into traded assets.
+Market participants are now working to standardize documentation for trading credit default swaps referencing loans.
+These so-called loan CDS have already started to trade in small amounts.
+The development of these new instruments and markets has been facilitated by nonbank institutional investors and has in turn helped such investors expand their participation in credit markets.
+Data on participation by nonbank institutional investors are difficult to come by, but such data are available for the syndicated loan markets.3 Historically, loan syndications, which include both loan commitments and term loans, were predominantly funded by banks.
+But in the period from 2001 through 2006, when the amount of term loans to U.S. nonfinancial corporations rose from $100 billion to more than $350 billion, the nonbank share of such lending rose from less than one-half to roughly two-thirds.
+The institutional investors in these loans include mutual funds, insurance companies, pension funds, and hedge funds.
+In the mid-1990s, mutual funds were the most important type of institutional investor in these markets.
+More recently, identifying the ultimate sources of institutional demand has become more difficult.
+For example, from 2001 through 2006, about two-thirds of institutional term loans were purchased as collateral for the issuance of CLOs.

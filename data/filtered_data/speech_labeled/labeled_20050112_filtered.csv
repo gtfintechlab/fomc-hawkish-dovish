@@ -1,0 +1,96 @@
+Unnamed: 0,sentence,label,score
+0,"The 1990s will be remembered not only for this remarkably long period of prosperity but also for the excitement of the ""new economy"" and, less happily, for the sharp decline in equity prices that marked its end.",LABEL_2,0.9993461966514587
+1,"This market correction was most dramatic in sectors of the economy associated with new technologies, the very sectors that had experienced the most pronounced run-up in equity prices.",LABEL_2,0.9839559197425842
+2,The quick occurrence of a recession following soon after this significant asset-price correction prompted some observers to suggest that the boom-bust cycle in asset valuations was the proximate trigger of the economic downturn But a number of aspects of that argument have not yet been fully examined.,LABEL_1,0.44404637813568115
+3,"In particular, I will focus on the role that asset prices may have played in expansions and recessions.1 Before going any further, however, I should emphasize that the views I will express today are my own and are not necessarily shared by my colleagues in the Federal Reserve System.",LABEL_2,0.9998239874839783
+4,What Happens during Asset-Price Run-Ups?,LABEL_2,0.9992759823799133
+5,Asset prices serve multiple roles in a modern economy.,LABEL_2,0.9997962117195129
+6,Consumers who hold assets become richer during an asset-price advance.,LABEL_1,0.9847341775894165
+7,This so-called wealth effect--always a key determinant of consumption--can be quite important during significant asset-price run-ups as consumers spend out of their capital gains.,LABEL_1,0.9827495813369751
+8,"2 Similarly, asset prices also affect business balance sheets.",LABEL_2,0.9997857213020325
+9,Rising prices for assets raise the net worth of companies that own the assets.,LABEL_1,0.9777031540870667
+10,"In the event of a default and foreclosure on a secured debt, collateral that caries a high price provides the lender with a high recovery rate, which makes lending less risky.",LABEL_2,0.8510167002677917
+11,"During an asset-price boom, the creditworthiness of borrowers rises, the interest rates at which they borrow decline because of lower risk spreads, and business investment increases as firms take advantage of the relatively lower interest rates they face.",LABEL_1,0.8743689060211182
+12,"A consequence of the positive influence of asset prices on investment is that if prospects for profitability as reflected in asset prices in one sector of the economy are advancing relative to asset prices in all other sectors, investment in that sector will outpace investment in the rest of the economy, all else equal.",LABEL_2,0.9968461394309998
+13,"In particular, if asset prices do not accurately reflect the productive potential of the underlying asset, investment will be channeled to the wrong sectors.",LABEL_2,0.9985753297805786
+14,"However, an asset-price boom in a specific sector might simply reflect investor expectations of higher productivity rather than a bubble, a term I will define in a few moments.",LABEL_0,0.9681475162506104
+15,One example of a sector-specific jump in asset prices and an associated investment increase is the case of the U.S. technology sector in the late 1990s.,LABEL_2,0.9996157884597778
+16,"Over the five years from the end of 1994 to the end of 1999, prices of nontech stocks tripled while those of tech stocks more than quintupled.3 Correspondingly, the average level of real investment in computers and other high-tech capital goods was more than 100 percent higher over the 1995-99 period than its level during 1994, while spending on other types of fixed capital was only about 15 percent higher than in 1994.",LABEL_2,0.999483585357666
+17,"Asset-Price Busts By definition, an asset-price bust is preceded by an asset-price boom.",LABEL_2,0.9978299736976624
+18,"If a run-up reflects a bubble, the ensuing price bust could obviously be viewed as its bursting.",LABEL_1,0.8204542994499207
+19,"Alternatively, asset prices may have been driven up by expectations of a productivity boom, which would lead to improved earnings.",LABEL_0,0.9939268231391907
+20,"In that case, if the expected productivity boom does not subsequently materialize, asset prices will fall.",LABEL_0,0.911607027053833
+21,"Nonetheless, this case may be indistinguishable from such an experience: Among other common elements, one could also see an investment overhang in the sector that saw its asset prices rise and subsequently fall.",LABEL_2,0.9842813611030579
+22,Recessions are almost always accompanied by asset-price declines.,LABEL_2,0.9954833984375
+23,"But such declines sometimes appear to be the source of adverse surprises, and asset-price busts may subsequently have disproportionately adverse consequences.",LABEL_2,0.6436355113983154
+24,Falling asset prices create a negative wealth effect and restrain consumption.,LABEL_0,0.9978373646736145
+25,"When asset prices fall substantially, lenders may also find themselves holding substantial amounts of nonperforming loans that are backed by what may have become, in some cases, worthless collateral.",LABEL_2,0.7854663729667664
+26,"For this reason, recessions that are preceded by asset-price booms and busts may also be associated with problems in the banking industry.",LABEL_2,0.9996980428695679
+27,Concerns about the severity of downturns that follow significant asset-price collapses suggest that the identification and analysis of boom-bust asset-price cycles could be useful for policy.,LABEL_2,0.9997144341468811
+28,"For that reason, I would next like to briefly review some of the issues associated with detecting asset-price bubbles.",LABEL_2,0.9997696280479431
+29,"Detecting Bubbles The word bubble is sometimes employed to describe any quick and large increase in asset prices, but a more precise definition would associate bubbles with only those increases in asset prices that are not due to economic fundamentals.",LABEL_2,0.9879618287086487
+30,"4 Under such a definition, a bubble is present when investors buy assets at prices above their fundamental values in the expectation of being able to sell them at even higher prices in the future.5 To be sure, such departures from fundamentals may start small, but over time they could grow explosively.",LABEL_2,0.9937671422958374
+31,The fundamental price of an asset typically is defined in terms of the discounted present value of the income stream or equivalent services that the asset is expected to provide over time.,LABEL_1,0.9952821135520935
+32,"For stock prices, for example, this is the present discounted value of dividends; for real estate, it is the discounted value of the rents or services that are expected to accrue to the owner over time.",LABEL_2,0.9997510313987732
+33,An immediate difficulty is that the theoretical notion of the fundamental price does not have an easily measured empirical counterpart.,LABEL_2,0.9996384382247925
+34,"Current statistical methods are simply not up to the task of ""detecting"" asset-price bubbles, especially not in real time, when it matters most.8 ""Detecting"" a bubble appears to require judgment based on scant evidence.",LABEL_2,0.9998403787612915
+35,"The issue of detecting bubbles notwithstanding, it is of interest to know whether recessions related to sizeable asset-price busts differ from other recessions in some way that might be important for policy considerations.",LABEL_2,0.9997319579124451
+36,Are Recessions That Are Related to Asset-Price Busts Different?,LABEL_2,0.9996277093887329
+37,"Two of the longest periods of economic weakness observed in the industrialized world during the twentieth century are often identified with the asset-price busts that preceded them: the Great Depression in the United States and the ""lost decade"" of the 1990s in Japan.",LABEL_2,0.9994643330574036
+38,"In each case, rapidly falling asset prices, exacerbated by banking problems, marked the beginning of painfully long periods of economic malaise.",LABEL_2,0.9368712306022644
+39,"In part because of these two experiences, it is sometimes suggested that asset-price booms more generally lead to imbalances in the economy, and that asset-price busts and the correction of these imbalances lead to recessions that are longer, deeper, and associated with a greater fall in output and investment than other recessions.",LABEL_0,0.9709843993186951
+40,"Additionally, can one make any other generalizations concerning recessions that follow asset-price booms and busts and how they differ from other recessions?",LABEL_2,0.9712335467338562
+41,"Figure 1 presents a bird's-eye view of the evolution of asset prices and the economy from 1970 to 2003 for three of these economies, the United States, the United Kingdom, and Japan.9 For each country, the top panel of the figure shows the evolution of an aggregate inflation-adjusted index of asset prices--which consists of an average of stock prices and residential and commercial real estate prices.",LABEL_2,0.9985182881355286
+42,"11 Return to text The relationship of asset prices to the economy near turning points shows varying patterns (figure 1, top and bottom panels).",LABEL_2,0.9998021721839905
+43,"In some episodes, asset-price declines do not appear to have preceded the recession.",LABEL_2,0.9998119473457336
+44,"During some recessions, asset prices appear to have simply moved sideways, not registering substantial declines at all.",LABEL_2,0.9996277093887329
+45,"But in other episodes, significant asset-price booms and subsequent declines do appear before the onset of a recession and continue during the downturn.",LABEL_2,0.9998229146003723
+46,"For the United States, for example, the figure highlights the long run-up and subsequent fall in asset prices before the 2001 recession.",LABEL_2,0.9994912147521973
+47,"For the United Kingdom, one may notice the asset-price boom-bust cycle of the early 1970s followed by the painful recession beginning in 1974.",LABEL_2,0.9998281002044678
+48,"Indeed, these three episodes stand out as perhaps the clearest suggestions of an asset-price boom-bust cycle significantly influencing or possibly triggering a subsequent recession and recovery.",LABEL_2,0.9995819926261902
+49,"To be sure, such a comparison rests on (1) our identification of these three episodes as the ones that appear to have been preceded by significant asset-price booms and busts and (2) separating these recessions from the rest.",LABEL_2,0.9912831783294678
+50,"12 We have compared the average path of asset prices around the onset of the recession in these three episodes to the average path of asset prices in the other episodes in our sample (figure 2, top panel).",LABEL_2,0.9998370409011841
+51,"The dotted curve shows the average of the three asset-price related episodes, and the solid curve shows the average of the remaining twenty-two recession episodes in the sample.",LABEL_2,0.9997486472129822
+52,"13 This comparison suggests that in recessions related to asset-price busts, asset prices fall before the recession more, on average, than they do in other episodes.",LABEL_2,0.9998382329940796
+53,"Consider, for example, the average paths of estimated output gaps during asset-price busts relative to the remaining recessions (figure 2, middle panel).",LABEL_2,0.9971742630004883
+54,"The data are centered as they were for asset prices, but the output gap is normalized to equal zero in the first quarter of a recession.",LABEL_2,0.9994063377380371
+55,"As one would expect, the output gap for both groups of episodes on average falls after recessions start, but it falls less for the asset-price-bust episodes.",LABEL_2,0.9996084570884705
+56,"Finally, looking at investment (figure 2, bottom panel), the data also suggest that, on average at least, investment, like the output gap, was not affected more adversely in the three asset-price-bust episodes.",LABEL_2,0.9969384670257568
+57,"But the comparisons of the averages provided in figure 2 could obscure valuable insights that might be obtained by looking at each of our three asset-price-bust episodes individually, as I do next.",LABEL_2,0.9998095631599426
+58,Three Asset-Price-Bust Episodes Let us first examine the U.K. recession of 1974.,LABEL_2,0.9995935559272766
+59,"The large fall in average asset prices (figure 3, top panel) followed the 1973-74 oil crisis, which is also associated with somewhat smaller asset-price declines in numerous other nations.",LABEL_2,0.9932618737220764
+60,We take a closer look at the components of the aggregate asset-price index and compare their evolution around this U.K. cyclical peak to their average evolution during all recessions excluding our three asset-price-bust episodes (figure 4).,LABEL_2,0.8150907158851624
+61,Equity prices registered a remarkably sharp decline in this episode.,LABEL_2,0.999852180480957
+62,But arguably a more distinctive characteristic of this asset-price boom-bust episode is the swing in real estate prices.,LABEL_0,0.9664015769958496
+63,"Residential real estate prices, and especially commercial real estate prices (figure 4, bottom panels), also registered rather dramatic declines in this episode.",LABEL_2,0.9996110796928406
+64,It may thus be surprising that this recession does not appear to have been deeper than the average of recessions excluding the three asset-price-bust episodes.,LABEL_0,0.9943547248840332
+65,"The output gap (figure 5) fell along with asset prices before the recession, but the decline was from an unsustainably overheated level.",LABEL_2,0.9614408612251282
+66,"Despite this episode being associated with rather severe declines in equity and commercial real estate prices, no evidence of an investment overhang appears in this comparison.",LABEL_1,0.9963053464889526
+67,"The Japanese economy saw rapidly increasing equity and real estate prices during the 1980s (figure 6), a remarkably long period of stability and prosperity.",LABEL_2,0.8524367809295654
+68,"These run-ups in asset prices were accompanied by a rapid expansion of bank credit, which was especially important for financing real estate purchases.",LABEL_2,0.9692853093147278
+69,But asset prices collapsed at the turn of the decade.,LABEL_1,0.9912174940109253
+70,"The asset-price collapse hit the Japanese banking system hard, eroding bank capital.",LABEL_0,0.962450385093689
+71,"An economic crisis in Southeast Asia, coupled with a previously planned increase in consumption taxes, resulted in a larger-than-anticipated drag on domestic demand and set the stage for the recession that started in 1997.",LABEL_0,0.9928719401359558
+72,"Following a brief recovery, monetary policy was tightened in 2000, and the third recession in a decade followed soon after.",LABEL_0,0.9930960536003113
+73,The Japanese experience offers a reminder of the importance of monitoring the health of the financial system and the need to be especially wary of signs of fragility following a period of sharp asset-price declines.,LABEL_1,0.5019848942756653
+74,It also serves to highlight how the behavior of the banking system during the asset-price run-up may influence subsequent outcomes.,LABEL_0,0.8553668260574341
+75,"Lastly, it points to the potentially crucial role played by fiscal and monetary policies in recoveries following asset-price-bust recessions.",LABEL_2,0.9995520710945129
+76,The evolution of disaggregated asset prices (figure 10) shows that the unusually large changes surrounding the 2001 recession reflected the movement of equity prices alone.,LABEL_2,0.999397873878479
+77,"Relative to the average episode, commercial real estate prices neither fell much during the recession nor rose a lot during the expansion.",LABEL_2,0.9997119307518005
+78,"And instead of declining during the recession, residential real estate prices continued their upward trend.",LABEL_2,0.9997864365577698
+79,The behavior of real economic activity around the recent cyclical peak (figure 11) suggests a second interesting comparison.,LABEL_1,0.9801521897315979
+80,"Relative to other recessions, this recession was shallow and did not appear to impart an unusual drag on investment, despite the sharp asset-price correction.",LABEL_2,0.9997058510780334
+81,Return to text Return to text Return to text Why was the 2001 recession relatively short and shallow even though the preceding swing in asset prices was so severe?,LABEL_0,0.7504633665084839
+82,This approach paid off handsomely when the asset-price break occurred.,LABEL_2,0.9987913966178894
+83,This comparison points to a useful policy lesson: A healthy financial sector and strong prudential regulation during an asset-price boom offer valuable insurance in case the boom turns to bust with an asset-price break.,LABEL_2,0.9996553659439087
+84,Both fiscal and monetary policy were eased quickly and effectively in this episode.,LABEL_1,0.8924733996391296
+85,The Federal Reserve cut the federal funds rate rapidly to create monetary accommodation and maintained conditions of substantial monetary policy ease for a considerable period well into the expansion.,LABEL_0,0.8619333505630493
+86,"As well, the Administration and the Congress took quick steps early in the recession to provide fiscal stimulus that helped to prop up aggregate demand.",LABEL_0,0.9981902241706848
+87,"And on the monetary side, the successful completion of the last stage on the long path to price stability during the 1990s allowed substantial easing in response to the downturn.",LABEL_0,0.9895260334014893
+88,"As policymakers stressed repeatedly, the prevalence of low- and well-anchored inflation expectations ultimately facilitates pursuit of such countercyclical policy.",LABEL_0,0.9142084121704102
+89,"By pursuing fiscal prudence and price stability during booms, policymakers greatly enhance their ability to take swift, effective countercyclical action when it is needed most.",LABEL_1,0.996936559677124
+90,"First, as already understood, detecting asset-price overvaluations and undervaluations is controversial in hindsight and arguably impossible in real time.",LABEL_1,0.9557592272758484
+91,"As a result, although asset-price booms and busts are often linked to recessions, a clear-cut policy response to suspected waves of exuberance cannot be suggested.",LABEL_2,0.9986592531204224
+92,"Second, sweeping generalizations regarding asset-price-bust recessions and subsequent recoveries are not easily made.",LABEL_2,0.9603566527366638
+93,"Third, to the extent that comparisons across recessions are informative, asset-price-bust recessions do not appear to be necessarily more costly than other recession episodes.",LABEL_2,0.9997490048408508
+94,"Specifically, at a macroeconomic level, recessions that follow swings in asset prices are not necessarily longer, deeper, and associated with a greater fall in output and investment than other recessions.",LABEL_2,0.999107301235199

@@ -1,0 +1,102 @@
+After a brief overview of the current state of the nation's community banks, I will discuss three issues that Federal Reserve supervisors are thinking a lot about and that I know are of great interest to community bankers: credit risk, particularly in real estate; compliance with the Bank Secrecy Act; and, potential revisions to the current minimum regulatory capital requirements for community banks.
+State of the Industry When I look at the U.S. banking system today, I see two divergent trends.
+On the one hand, the majority of banking assets are increasingly concentrated in a small number of large complex banking organizations that operate across wide geographic regions and diverse business lines.
+On the other hand, thousands of smaller institutions still focus on local communities or regions, providing invaluable services and promoting healthy competition across the nation.
+In fact, despite the much-touted consolidation in the banking industry and the high levels of competition in many markets, there are more than 8,000 banks in this country, and close to 90 percent of those institutions have less than $1 billion in assets.
+Entrepreneurs still seem to see prospects in the sector.
+Over the past five years, two new de novo charters have been approved for every five bank mergers.
+This tradition of locally oriented banks makes this country unusual among developed nations and, I believe, contributes significantly to our financial diversity and economic resilience.
+Small banks also continue to provide valuable sources of funding for small businesses within their local communities.
+If you look at their balance sheets and income statements, you will see that community banks are thriving.
+Capital, earnings, and asset quality are improving for banks of all sizes, but particularly for community banks.
+In 2004, nonperforming assets, net charge-offs, and loan-loss provisions for community banks were at long-term lows.
+High returns on equity--just less than 12 percent for community banks--and a steady flow of new bank charter applications and approvals suggest that banking has been and remains a profitable industry.
+The continuing strength of the financial sector is also visible in supervisory ratings.
+At year-end 2004, less than 1 percent of community banks nationwide were rated below the threshold for problem institutions.
+Meanwhile, with the adoption of risk-focused supervision, supervisory attention is more focused on risk management and internal control weaknesses.
+In other words, examiners today are much more likely to identify problems early and work with bankers to address the issues before the problems have been manifested in poor financial performance.
+In the late 1980s and early 1990s, a bank that had been downgraded to a CAMELS composite 3 may already have had embedded asset-quality problems that were as likely to get worse as better and that required the injection of additional capital or other appropriate action to resolve.
+That is a marked contrast to the situation today, in which most of our problem banks stay in business and restore themselves to a satisfactory condition.
+So far, I've painted a fairly rosy picture of the conditions in the banking industry today.
+But banking regulators are paid to worry.
+Credit Risk One of the things that we bank regulators worry about is credit risk, which has historically been the leading cause of bank failures.
+Of course, credit performance has been very strong lately and banks of all sizes survived the recent recession with only a slight decline in credit quality.
+So far this year, commercial-loan demand has rebounded and consumer lending, particularly mortgage financing, has been brisk.
+But banking supervisors are always worried that, in good times of rising loan growth and competition among bankers, more-aggressive underwriting may set the stage for future deterioration in credit quality.
+In the residential-mortgage segment in particular, some market analysts have begun to express concern about rising levels of consumer debt; the growing popularity of adjustable-rate mortgages and "affordability products"; growth in the subprime sector; and certain questionable risk-management practices in home equity lines of credit, or HELOCs.
+According to the National Association of Realtors, second homes and purchases of residential real estate for investment purposes together accounted for almost 40 percent of all home purchases last year.
+Given the vast growth in residential housing markets and the apparent slippage in underwriting standards in certain sectors, it is entirely appropriate for banking supervisors to seek to ensure that banks are employing proper risk-management practices.
+To remind bankers of those sound practices, last month the federal banking agencies released guidance on credit-risk management for financial institutions' HELOC activities.
+The recent growth in HELOCs has been remarkable: At the end of 2004, outstanding drawn HELOCs at all insured commercial banks totaled $398 billion, a 40 percent increase over 2003.
+Meanwhile, the agencies have observed some easing of underwriting standards, with lenders competing to attract home equity lending business.
+Lenders are sometimes offering interest-only loans, high loan-to-value ratios, and limited requirements for documentation of a borrower's assets and income.
+They are also relying more on automated valuation models and entering into more transactions with loan brokers and other third parties.
+Given this easing of standards, there is concern that banks' home equity loan portfolios may be vulnerable to a rise in interest rates and a decline in home values.
+In other words, there is a concern that not all banks fully recognize the embedded risks in some of their portfolios.
+But supervisors believe that, like most other lending activity, home equity lending can be conducted in a safe and sound manner with appropriate risk-management systems.
+Credit risk involving commercial real estate is another area of regulatory attention.
+While the sector is generally stable or improving, banking supervisors are carefully monitoring rising commercial real estate concentrations at some banking organizations, particularly regional and community banks.
+Smaller banks as a group have shown the strongest appetite for commercial real estate loans, and some claim that commercial real estate lending remains one of the few areas in which small banks can effectively compete with their larger competitors.
+So far, underwriting standards are high by historic standards, and much higher than in the period preceding the crises of the late 1980s and early 1990s.
+Still, there have been signs recently that standards may be under some downward pressure as a result of strong competition and tight spreads.
+At a recent Risk Management Association roundtable, several bank appraisers conceded that they are pressured to make deals on the assumption that exceptionally strong performance will continue indefinitely.
+Supervisors are monitoring to see whether risk-management practices and capital levels are keeping pace with loan growth at individual banking organizations.
+I want to touch on one final topic related to credit risk.
+In March, the federal regulators issued for public comment a proposal to change the supervisory framework for the classification of problem loans.
+The current system dates back to 1938 and has undergone only minor revisions reflecting evolutionary changes in banking practices.
+The proposal would replace the current classified commercial loan categories--"special mention," "substandard," and "doubtful"--with a framework consisting of two parts: a borrower evaluation (to assess the risk of the borrower defaulting on its obligations) and a facility rating (to measure the severity of the loss the bank would likely incur in the event of default).
+In comparison with the old system, we believe that the proposed new system is more compatible with financial institutions' allowance for loan and lease loss methodologies and rating-assessment processes.
+The new system leverages off of many determinations and estimates banks already must make to comply with generally accepted accounting principles (GAAP), which means that banks should benefit from a more-efficient assessment process and improved clarity.
+We also believe the new system would increase consistency among the agencies in assessing the credit risk in a bank's commercial loan portfolio.
+Although the proposal went out for public comment only recently, one comment we have heard so far is that this represents an effort to implement Basel II in disguise, or, similarly, that it imposes too much of a burden on financial institutions.
+It's useful to remember that the loan-classification system applies to only a relatively small portion of a bank's portfolio.
+What we are proposing is good risk management and an improved system that, if implemented properly, can produce more consistency both between bank and supervisory practices and with expectations of accounting standards.
+In addition, if this framework is implemented, we intend to allow an extended transition period to minimize the potential burden and cost of changing to a new system.
+The comment period ends on June 30, and we will review the public comments carefully.
+Bank Secrecy Act Another issue of importance to bankers is the Bank Secrecy Act.
+We in Washington fully appreciate that a few high-profile companies have drawn considerable public attention to the issue of compliance with this act and that expectations for compliance are not limited to very large institutions.
+You too are bearing the burden of new statutes and regulations and the costs of implementing effective compliance programs.
+But we must recognize and accept that the environment changed on September 11, 2001.
+At the same time, I want to assure you that the approach taken by the Fed and the other federal banking agencies is not one of zero tolerance and that supervisors do not issue enforcement actions against banking organizations because they have failed to file a single suspicious activity report.
+On the contrary, we continue to expect examiners to use their best judgment and to look for systematic weaknesses in programs, policies, procedures, and internal controls.
+Interagency efforts are now underway to develop and issue a new, uniform Bank Secrecy Act/Anti-Money Laundering Examination Manual.
+The targeted release date is June 30.
+The Federal Reserve and the other federal banking supervisors, with the active participation of FinCEN--the entity within the U.S. Treasury that is statutorily responsible for the implementation of the Bank Secrecy Act, are now drafting the new compliance guidance and examination procedures.
+As part of the rollout of the new BSA/AML Examination Manual, nationwide conference calls and regional outreach meetings will be held for bankers interested in understanding the procedures.
+Bankers are encouraged to participate in these voluntary sessions.
+We are also putting a great deal of effort into examiner training to promote consistency.
+In addition, the Federal Reserve and the other federal bank supervisory agencies signed a memorandum of understanding with FinCEN last year to share critical information about banking organizations' compliance with the law.
+By providing pertinent Bank Secrecy Act information to FinCEN, which is adding staff to fulfill its responsibilities, the Federal Reserve and the other regulators can now better coordinate their supervision with FinCEN, thus further reducing the potential for unwarranted compliance burdens on the industry.
+The bottom line is that any bank of any size should always be on guard for suspicious activities, and whenever they know, suspect, or have reason to suspect a violation of law, they should file suspicious activity reports according to Federal Reserve and FinCEN regulations.
+Bankers have to do enough due diligence to know when a transaction is suspicious--for instance, if it has no business purpose or if it seems structured to get around Bank Secrecy Act regulations.
+On a related matter, in April the agencies issued guidance on money-services businesses, or MSBs, and how to handle them.
+The concern among bankers, which may result in part from misconceptions about the requirements of the Bank Secrecy Act, was that they were being held responsible for monitoring the activities of their customers.
+We hope that our guidance will reassure financial institutions that it is not our view that all money services firms present an unacceptably high risk of money laundering or other illegal activities, that we are not instructing banks to close MSB accounts, and that we do not expect the banks to regulate MSBs.
+Basel I Amendments Finally, as I'm sure you are aware, bank regulators have been working at the international level over the past several years to revise the Basel Accord, the risk-based capital framework.
+Capital adequacy is a perennial concern of bank supervisors.
+The proposed revisions, especially the advanced approaches of Basel II, represent a sea change in how banks determine their minimum level of required capital for regulatory purposes.
+The advanced approaches are intended to better align regulatory capital with inherent risks and banks' internal economic capital and will encourage large complex organizations to strengthen risk-measurement and -management systems.
+Of course, the more advanced approaches of Basel II are clearly designed for large complex banks and will not be required for community banks or even for most regional banking organizations.
+U.S. regulators are very sensitive to the possible competitive implications of having two sets of rules for the banking industry.
+Some community bankers in particular have expressed concerns about the competitive impact of the Basel II capital accord on non-Basel II banks, particularly for residential mortgages and retail and small-business loans.
+In response, the Federal Reserve has conducted a number of studies on whether Basel II will create significant market distortions for the vast majority of banking organizations that remain on Basel I.
+These studies have suggested that competitive impacts will be mild for some business lines, while for others, such as some types of small-business loans, it does appear that unintended competitive advantages and disadvantages might be created--depending in part on how Basel II ultimately is implemented in the United States.
+Where these concerns appear valid, we and the other federal banking agencies will propose remedies in the form of revisions to the current Basel I-based capital rules.
+It is our current intention to issue a proposal to revise the Basel I-based capital rules at close to the same time that we issue the proposed rulemaking for Basel II.
+We would like to allow the banking community to compare and comment on both proposals, for the very reason that we are sensitive to the potential for competitive distortions.
+Moreover, as in the past, if competitive or other issues later arise that we cannot now adequately foresee, the Federal Reserve will make appropriate adjustments to the rules.
+I want to make clear that I see no reason to replace the Basel I-based regulatory framework for the vast majority of banks here in the United States with a complex framework similar to advanced Basel II.
+The Basel I-based framework has evolved modestly over time in response to market developments and to address safety and soundness-related issues.
+With occasional continued modifications, the current risk-based capital regime should remain appropriate for most U.S. banking organizations for many years to come.
+It is also important for you to know that, as supervisors, we will not look upon institutions as having deficient risk-management systems simply because they choose to stay under the Basel I capital framework.
+As supervisors, our focus will continue to be on ensuring that risk-management processes are appropriate for operations of each institution and that those risk systems operate effectively.
+Thus, we expect that non-Basel II banks can continue to have CAMELS 1 and 2 ratings as long as they operate in a safe and sound manner.
+Note that Basel I and Basel II are not the only capital regulations under which U.S. institutions will operate.
+More than a decade ago, the Congress, as part of the Federal Deposit Insurance Corporation Improvement Act's prompt-corrective-action (PCA) regime, defined a critically undercapitalized insured depository institution by reference to a minimum tangible-equity-to-asset requirement--a leverage ratio.
+The agencies have also used leverage ratios to define other PCA capital categories because experience has suggested that there is no substitute for an adequate equity-to-asset ratio, especially for entities that face the moral hazard that accompanies the federal safety net.
+The Federal Deposit Insurance Corporation, which is responsible to the Congress for the management of the critical deposit-insurance portion of the safety net, has underlined the importance of that minimum leverage ratio and PCA as part of a prudent supervisory regime.
+The Federal Reserve concurs with the FDIC's view.
+As I have mentioned, we need the risk-measurement and risk-management infrastructure and the risk sensitivity of Basel II; but we also need the supplementary assurance of a minimum equity base.
+Meanwhile, even if supervisors did not call for a minimum leverage ratio, I firmly believe that bankers, investors, and rating agencies would demand it.
+This leverage ratio would be the same under the amended Basel I framework as it would be under the Basel II framework.
+Conclusion In conclusion, I would like to say again that we at the Federal Reserve believe that small banking organizations provide a valuable service to our financial markets and our economy.

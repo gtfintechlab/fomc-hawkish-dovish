@@ -1,0 +1,9 @@
+Unnamed: 0,sentence,label,score
+0,"I will focus my remarks today on the use of explicit forward guidance as a tool for monetary policy.1 Before I start, let me briefly discuss near-term monetary policy.",LABEL_2,0.9998388290405273
+1,"Inflation is much too high, and I strongly believe that bringing inflation back to our target is a necessary condition for meeting the goals mandated by Congress of price stability and maximum employment on a sustainable basis.",LABEL_1,0.9994626641273499
+2,"At this point, for me, it comes down to what the incoming data and other economic information will tell us about the outlook for inflation.",LABEL_2,0.9997860789299011
+3,"If we do not see signs that inflation is moving down, my view continues to be that sizable increases in the target range for the federal funds rate should remain on the table.",LABEL_1,0.9993715882301331
+4,"However, if inflation starts to decline, I believe a slower pace of rate increases would be appropriate.",LABEL_1,0.9986169338226318
+5,"To bring inflation down in a consistent and lasting way, the federal funds rate will need to move up to a restrictive level and remain there for some time.",LABEL_1,0.9994562268257141
+6,"However, it is not yet clear how high we will need to raise the federal funds rate and how much time will pass before we begin to see inflation moving back down in a consistent and lasting way.",LABEL_1,0.9995017051696777
+7,"My general point is that inflation is much too high, and the outlook for inflation remains significantly uncertain.",LABEL_1,0.9982709884643555

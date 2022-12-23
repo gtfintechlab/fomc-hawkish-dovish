@@ -1,0 +1,73 @@
+Larry Uhlick asked me to focus my comments on international aspects of the evolving new capital accord, Basel II, and I am happy to comply.
+I should say at the beginning that the views I will express today are not necessarily those of my colleagues at the Board of Governors of the Federal Reserve System.1 The implementation of Basel II will raise many practical issues, of course, but I thought it might be most interesting for this audience if I focused on two areas important for internationally active banks: (1) home-host supervisory cooperation, and (2) the proposed bifurcated application of Basel II in the United States and the special issues it creates for cross-border banking.
+I hope to persuade you that the U.S. banking agencies are quite aware of these issues and are proactively attempting to address the potential problems that these facets of Basel II implementation may create for banks that operate both in the United States and abroad.
+Home-Host: Global Banking, International Consensus, and Sovereign Countries Banks with significant cross-border operations have understandable concerns about the prospect of each national supervisor asking different questions about Basel II implementation, demanding different data, applying the rules differently, or taking other actions that increase cost or are inconsistent with the principle of consolidated supervision.
+At the outset--and at the risk of feeding your worst fears--let me remind you of the broad context in which we are working.
+The Basel II capital accord is not a treaty; it is a consensus which the authorities in each national jurisdiction will inevitably apply in their own specific ways reflecting their preferred approaches to bank supervision and regulation.
+The large number of banks with cross-border operations will continue to fall under the consolidated supervision of their home-country supervisors.
+But at the same time, each host-country supervisor is charged by its own government with ensuring that, at least at the bank subsidiary level, legal entities operating within its jurisdiction are operating in a sound manner with adequate capital.
+Since 1975, the Concordat among national supervisors has recognized a division of labor that holds the home country responsible for consolidated supervision and the host country for supervision of the legal entities in its jurisdiction, whether domestic or foreign.
+The Concordat does not rule out differences in the concerns and objectives of supervisors in different countries.
+For example, it does not matter to a host supervisor that the consolidated entity has sufficient capital if, in a period of duress, that capital is not available to the legal-entity subsidiary in that host country.
+Put somewhat differently, the combination of global banking and sovereign states has, for some time, produced what we may delicately call "tensions."
+Such tensions have existed for years under Basel I.
+Three aspects of Basel II may raise the level of tension experienced by internationally active banks still further: (1) Basel II is more complex, (2) it includes requirements for capital to cover operational risk, and (3) it has all the uncertainties of the new and untested.
+Host-country supervisors face the costs of adjusting to differences in the manners in which foreign banks will implement Basel II, while the banks and home-country supervisors worry about host-supervisor intrusions, questions, and special rules.
+These concerns are quite understandable.
+One might choose to be philosophical and accept that there are inevitable costs of doing business as a global bank, and of supervising global banks, in a world of sovereign states.
+Fortunately the situation--as Mark Twain said about Wagner's music--is "better than it sounds."
+A variety of efforts are underway to mitigate the potential problems of the new system.
+As you may know, the Basel Supervisors' Committee has established the Accord Implementation Group, or AIG, headed by the vice chairman of the Basel Committee, Canada's superintendent of financial institutions, Nicholas Le Pan.
+The AIG consists of senior line supervisors from Basel member countries, who gather regularly to share best practices and develop ways to foster consistent application across national jurisdictions.
+Among its efforts is a series of case studies, in which home and host supervisors review how the banks under study plan to implement Basel II.
+To date, a dozen case studies have been launched, and more are planned.
+Of course, the usefulness of each case study depends on how far along the subject bank is in its own Basel II implementation plan.
+In the United States, for example, a case study focusing on Citigroup involves the United States and a panel of about ten host-country supervisors from jurisdictions in which Citigroup has important operations.
+The panel of supervisors is developing a common understanding of how Citigroup has established its risk management structure and risk measurement systems, and how the entity will use the various statistical inputs and methodologies for determining its minimum regulatory capital requirements under Basel II.
+The host-country participants are active in the process and, importantly, all involved are working collaboratively under the principles articulated by the Basel Supervisors' Committee.
+As the home-country supervisor in the Citigroup exercise, we are organizing an outreach program to inform other host countries, not participating in the case study, of the efforts.
+In addition, U.S. supervisors are involved in many other case studies in which we are acting as the host supervisor for foreign banks' U.S. operations.
+In short, efforts to ensure effective cross-border supervisory coordination are under way, and we are committed to making them successful.
+The objective of the home-host exercises is to understand what has to be done, what information has to be shared, and what understandings have to be developed to make host supervisors comfortable with the operations of foreign banks in their jurisdictions, as well as to reduce the need for host supervisors to duplicate the work of the home-country consolidated supervisor.
+Please note that the operative word is reduce, not eliminate, but our hope is that the reduction will be substantial.
+Just as under Basel I, host supervisors will still examine the legal entities in their country.
+We hope to keep the supervisors better informed about how operations outside their jurisdiction affect the entities they supervise, and to do this with a minimum of burden on the consolidated organization.
+The principles developed from these case studies are expected to be applied broadly.
+I expect that they will include mechanisms for coordination among home and host supervisors in the development of the work plan to be applied by the home country in its consolidated examination.
+Coordination would also include the sharing of examination results with host-country supervisors to the extent practicable.
+In addition, we will do our best to promote extensive home-host communication on a continuous basis, not just in times of stress.
+Overall, the AIG effort should help to reduce home-host coordination problems considerably, but, as with Basel I, there will inevitably be bugs to work out as implementation proceeds.
+During that shakeout period, some of your concerns may turn out to be real--although, I hope and expect that they will be less daunting or costly than you may fear.
+I have focused so far on credit-risk aspects of Basel II.
+On the operational-risk side, however, the home-host implementation challenges are knottier.
+In contrast to the treatment for credit risk, Basel II allows both the consolidated and the individual legal entities to benefit fully from the risk reduction associated with group-wide diversification.
+However, host countries charged with ensuring the strength of the legal entities operating in their jurisdictions will not be inclined to recognize an allocation of group-wide diversification benefits, given that capital among legal entities is simply not freely transferable, especially in times of stress.
+The Basel Supervisors' Committee has thus proposed that "significant" subsidiaries will have to calculate stand-alone operational-risk capital requirements that may not incorporate group-wide diversification benefits.
+Other subsidiaries can use an allocated portion of the group-wide requirements, requirements that may be calculated with diversification offsets.
+Host-country supervisors, of course, have the right to demand more capital than may result from such allocations.
+Thus, both the proposal for significant subsidiaries and the possible host-supervisor response for other subsidiaries may well result in the sum of the individual legal-entity capital requirements being greater than the consolidated-entity requirements.
+Home country supervisors of consolidated entities facing such capital demands are likely to be more tolerant of double leverage or gearing in reflection of this reality.
+In short, home-host issues under Basel II are quite real, and dealing with them effectively will require extensive cooperation and communication.
+But we must acknowledge that these issues cannot be fully avoided in a world of sovereign states; all we can do it try to minimize the resultant costs.
+Bifurcated Application of Basel II in the United States Global banks have also voiced some concern about the implications of the planned application of Basel II in the United States.
+As you know, in contrast to the rest of the world, this country has proposed to offer only one option under Basel II: the Advanced Internal Ratings Based, or A-IRB, method for credit risk and the Advanced Management Approach, or AMA, for operational risk.
+For convenience, I will refer to them together as the "advanced approach."
+All U.S. home-country banks and U.S. subsidiaries of foreign banks that meet certain size or foreign-exposure criteria will be expected to adopt the advanced approach.
+Others domiciled or operating here would have the option to adopt these versions of Basel II if they meet the infrastructure requirements.
+All other banks operating in the United States will remain under the current U.S. regime, based on Basel I.
+The global banks' concerns about the bifurcated U.S. application depend in part on whether they are based here or abroad.
+For foreign banks the issue is the additional complexity and perceived inequity they will face if they have chosen to operate in the rest of the world under the foundation approach for credit risk, an approach which will not be permissible in the United States.
+(I am making the reasonable assumption that the foreign banks whose U.S. subsidiaries would be required to use the advanced approach, or who, for competitive or other reasons, choose the advanced approach in the United States, will be operating in their home country under the foundation approach at least.)
+For U.S.-based banks the fear is that foreign rivals may get a competitive edge for one year through lower regulatory capital requirements in some markets; the potential head start for foreign banks arises because the permissible start date for the foundation and standardized versions is the beginning of 2007, while the advanced approach, with its greater complexity for banks and supervisors, starts in all markets at the beginning of 2008.
+A foreign bank under the foundation approach at home but under the advanced approach in the United States would have to determine two variables in the United States for its corporate exposures that would not be required of its consolidated entity: loss given default (LGD) and exposure at default (EAD).
+For its consolidated entity at home it would need to calculate only the probability of default.
+The U.S. subsidiary might well find it a real challenge to gather the needed data and generate the LGD and EAD parameters required in the United States; doing so would certainly add cost, even for an entity using the full foundation approach at home.
+The U.S. authorities did not make their decision to require the advanced approach lightly.
+Given the structure and size of our markets, we believe it necessary that large entities operating here use sophisticated techniques for risk measurement and management that rely on bank estimates of all the risk variables required by the advanced approach.
+Nonetheless, we understand our global responsibilities for cooperation.
+Both bilaterally and through the AIG, we will continue to work with U.S. subsidiaries of foreign banks and their home supervisors on transition steps, where necessary, although we expect to continue to require full implementation within a reasonable period of time.
+These transition steps could involve, for example, relying on conservative estimates of the LGD and EAD parameters when the bank in question is not yet prepared to provide estimates derived from its own experience.
+For a limited period, we also may be willing to consider conservative methodologies for allocating consolidated operational risk capital charges to the U.S. subsidiary.
+Although we will do what we can to facilitate transition, let me be clear that, for both domestic and foreign banks, we expect that plans for full adoption will be complete within a relatively short period.
+Moreover, any shortfalls in systems will have to be disclosed under Pillar 3; and we reserve the right, under Pillar 2, to require additional capital during the transition to full implementation.
+It was a difficult decision for the Basel Supervisors' Committee to delay by one year, to 2008, the start date for implementation of the advanced approach while retaining the 2007 target for the other approaches.

@@ -1,0 +1,65 @@
+Unnamed: 0,sentence,label,score
+0,Our decision to make another gradual reduction in the amount of policy accommodation reflects the economy’s continued progress toward the employment and price stability objectives assigned to us by law.,LABEL_1,0.9023735523223877
+1,Today’s decision is in line with that view and does not represent a reassessment of the economic outlook or of the appropriate course for monetary policy.,LABEL_2,0.9996756315231323
+2,"I’ll have more to say about monetary policy shortly, but first I’ll review recent economic developments and the outlook.",LABEL_2,0.9997612833976746
+3,Solid income gains and relatively high levels of consumer sentiment and wealth have supported household spending growth.,LABEL_1,0.9980781078338623
+4,"The unemployment rate was 4.7 percent in February, near its recent low.",LABEL_2,0.9852156639099121
+5,"Turning to inflation, the 12-month change in the price index for personal consumption expenditures rose to nearly 2 percent in January, up from less than 1 percent last summer.",LABEL_1,0.9969518184661865
+6,"That rise was largely driven by energy prices, which have been increasing recently after earlier declines.",LABEL_1,0.9421620965003967
+7,Core inflation—which excludes volatile energy and food prices and tends to be a better indicator of future inflation—has been little changed in recent months at about 1¾ percent.,LABEL_2,0.9994516968727112
+8,"We expect core inflation to move up and overall inflation to stabilize around 2 percent over the next couple of years, in line with our longer-run objective.",LABEL_2,0.7385960221290588
+9,"As always, participants conditioned their projections on their own individual views of appropriate monetary policy, which, in turn, depend on each participant’s assessment of the many factors that shape the outlook.",LABEL_2,0.999833345413208
+10,"The median projection for growth of inflation-adjusted gross domestic product is 2.1 percent this year and next, and edges down to 1.9 percent in 2019, slightly above its estimated longer-run rate.",LABEL_2,0.9962967038154602
+11,"The median projection for the unemployment rate stands at 4.5 percent in the fourth quarter of this year and remains at that level over the next two years, modestly below the median estimate of its longer-run normal rate.",LABEL_2,0.9141820073127747
+12,"Finally, the median inflation projection is 1.9 percent this year and rises to 2 percent in 2018 and 2019.",LABEL_2,0.5168449878692627
+13,"Returning to monetary policy, the Committee judged that a modest increase in the federal funds rate is appropriate in light of the economy’s solid progress toward our goals of maximum employment and price stability.",LABEL_1,0.9995325803756714
+14,"Even after this increase, monetary policy remains accommodative, thus supporting some further strengthening in the job market and a sustained return to 2 percent inflation.",LABEL_0,0.997929573059082
+15,"That’s based on our view that the neutral nominal federal funds rate—that is, the interest rate that is neither expansionary nor contractionary and keeps the economy operating on an even keel—is currently quite low by historical standards.",LABEL_0,0.9822688102722168
+16,This view is consistent with participants’ projections of appropriate monetary policy.,LABEL_2,0.9997747540473938
+17,We’ve emphasized for quite some time that the Committee wishes to use variations in the fed funds rate target—our short-term interest rate target—as our key active tool of policy.,LABEL_2,0.9997019171714783
+18,"I think what we want to have is confidence in the economy’s trajectory, a sense that the economy will make progress, that we’re not overly worried about downside risks and adverse shocks that could hit the economy that could quickly—after setting it off on the path to shrinking the balance sheet gradually over time—cause us to want to begin to add monetary policy accommodation.",LABEL_1,0.8587624430656433
+19,"My comfort in using the term “gradual” comes back, in part, to my judgment that the neutral level of the federal funds rate—namely, the level of the federal funds rate that would keep the economy operating on an even keel, that it’s a rate where we neither are pressing on the brake nor pushing down on the accelerator—that level of interest rates is quite low.",LABEL_1,0.7373145222663879
+20,"So, at present, I see monetary policy as accommodative—namely, the current level of the federal funds rate is below that neutral rate, but not very far below the neutral rate.",LABEL_0,0.9984132051467896
+21,"We’re closing in, I think, on our employment objective.",LABEL_0,0.9984733462333679
+22,We’re coming closer on our inflation objective.,LABEL_1,0.9500569105148315
+23,"So I do want to emphasize that, while some participants have penciled in some fiscal policy changes into their projections, that the basis for today’s decision is simply our assessment of the progress of the economy against our long-established goals of maximum employment and price stability.",LABEL_2,0.969147801399231
+24,"In real terms, with a 2 percent inflation objective—that’s 1 percent in real terms.",LABEL_2,0.9978861212730408
+25,I think in part it reflects slowing population growth and also slow productivity growth here and in many other advanced nations.,LABEL_0,0.9977439641952515
+26,"How the neutral rate is affected by fiscal policy—that really depends importantly on the nature, the size of the fiscal shift and the effect it has both on demand and supply in the economy.",LABEL_2,0.9997016787528992
+27,"And, as I think all of us—having that expectation and that if the economy continued to progress along the lines that we expected and we continued to see the risks as balanced—do regard it as appropriate to gradually remove accommodation that’s in place by having several interest rate increases this year.",LABEL_1,0.9991375207901001
+28,"And it reflects, I think, a set of shocks partly emanating from the global economy and risks that we saw to the outlook as well as more fundamental assessments—reassessments pertaining to the neutral level of the federal funds rate and the longer-run normal level of the unemployment rate.",LABEL_2,0.9974892139434814
+29,"Well, we do look at financial conditions in formulating our view of the outlook, and stock prices do figure into financial conditions.",LABEL_2,0.9998109936714172
+30,So I think the higher level of stock prices is one factor that looks like it’s likely to somewhat boost consumption spending.,LABEL_1,0.48117148876190186
+31,"Now, on the other side, longer-term interest rates are up some in recent months, and the dollar is a little stronger.",LABEL_0,0.9934112429618835
+32,"Well, we always exchange views on the economic outlook and developments in our country, and it will be my objective to explain—explain U.S. monetary policy and to try to make the same points to them that I’ve made here already today about what the outlook is for monetary policy in the United States.",LABEL_2,0.999752938747406
+33,We would certainly welcome stronger economic growth in a context of price stability.,LABEL_1,0.9988160133361816
+34,And if policies were put in place to speed growth that I’ve certainly urged Congress and the Administration to consider—policies that would boost productivity growth and raise the economy’s so-called speed limit or potential to grow—I think that those would be—those would be very welcome changes that we would like to see.,LABEL_0,0.9016157984733582
+35,"Now, that pace of growth has been consistent with a pace of job creation that is more rapid than what is sustainable if labor force participation begins to move down in line with what we see as its longer-run trend with an aging population.",LABEL_1,0.9480465650558472
+36,"Now, unemployment hasn’t moved that much, in part because people have been drawn into the labor force.",LABEL_0,0.9978532195091248
+37,We expect the unemployment rate to move down further and to stay down for the next several years.,LABEL_0,0.9369996190071106
+38,"We think we’re on the same path, not—we haven’t boosted the outlook, projected faster growth.",LABEL_2,0.9990170001983643
+39,I would describe some measures of wage growth as having moved up some.,LABEL_2,0.9994434714317322
+40,"Some measures haven’t moved up, but there’s some evidence that wage growth is gradually moving up, which is also suggestive of a strengthening labor market.",LABEL_1,0.9983931183815002
+41,"We have created, since the trough in employment after the financial crisis, around 16 million jobs.",LABEL_0,0.6025633811950684
+42,"The unemployment rate has moved way down, and many more people feel optimistic about their prospects in the labor market.",LABEL_1,0.9459472298622131
+43,"So I think the job market, which is an important focus for us, is certainly improving.",LABEL_0,0.9144362807273865
+44,"And inflation is moving—moving up, I think, toward our 2 percent objective.",LABEL_0,0.9623712301254272
+45,"Well, a couple of years ago, we included the word “symmetric” in our statement of longer-run goals, and this seemed like an appropriate time to introduce that word into the statement because we had previously indicated that there was a shortfall of inflation from our 2 percent objective.",LABEL_2,0.9735897779464722
+46,"Now, headline inflation has moved almost back up to 2 percent.",LABEL_0,0.8409091830253601
+47,"As I indicated, a better forward-looking measure of inflation, core inflation—that’s not our target, but I think it’s worth looking at because it’s a better forward-looking predictor of headline inflation—I think that’s still running a little bit under 2 percent, but we expect it’s going to move up to 2.",LABEL_2,0.9975290894508362
+48,And this seemed like a good time to remind Americans that what our objective is is 2 percent inflation.,LABEL_0,0.8586444854736328
+49,Inflation is not always going to be at 2 percent.,LABEL_2,0.9997449517250061
+50,We’ve had a long period in which inflation has run under 2 percent.,LABEL_0,0.5280499458312988
+51,"And it’s a reminder—2 percent is not a ceiling on inflation, it’s a target.",LABEL_2,0.5204622745513916
+52,It’s where we always want inflation to be heading.,LABEL_2,0.9995049238204956
+53,"And there will be some times when inflation is above 2 percent, just like it’s been below 2 percent.",LABEL_2,0.9987984895706177
+54,"We’re not shooting for inflation above 2 percent, but it’s a reminder that there will be deviations above and below when we’re achieving our objective.",LABEL_2,0.9997653365135193
+55,"Well, we would—if there were an overshoot and it appeared to be persistent, we would put in place policies to try to bring inflation back to 2 percent.",LABEL_1,0.997250497341156
+56,"And exactly how long it would take to get back to 2 percent would depend, in part, on what was happening with respect to employment and our other objectives.",LABEL_2,0.9996052384376526
+57,Because the argument that is made is that what a border tax would do without an exchange rate adjustment is to raise the price of imported goods into the United States.,LABEL_1,0.9991334080696106
+58,"So, it wouldn’t end up having an impact on U.S. inflation or GDP growth.",LABEL_2,0.9998040795326233
+59,"I mean, if—if the latter were to occur, there were just a big boost in the dollar, it would tend to put downward pressure on inflation and would have a negative effect on U.S. export growth and tend to boost imports.",LABEL_0,0.9863917827606201
+60,"But our objectives are maximum employment and inflation, and we need to consider what path of rates is appropriate to foster those objectives.",LABEL_1,0.9774488806724548
+61,"Unfortunately, one of the things that’s been holding down wage increases is very slow productivity growth.",LABEL_0,0.9849300384521484
+62,I take that as a signal that we’re coming closer to our maximum employment objectives.,LABEL_1,0.909917414188385
+63,"But productivity is—for those focusing on wage growth, productivity is an additional important factor.",LABEL_2,0.9984214305877686

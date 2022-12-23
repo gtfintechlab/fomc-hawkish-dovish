@@ -1,0 +1,143 @@
+Unnamed: 0,sentence,label,score
+0,"This evening, I begin with two questions that are central to the economy's prospects and the challenges facing monetary policy.",LABEL_2,0.9997711777687073
+1,"And second, What role, if any, do traditional economic principles, specifically the role of supply and demand, continue to play in today's economy?",LABEL_2,0.9998242259025574
+2,"Nevertheless, I can't stress too often that we care about the balance of supply and demand in the economy because we care about promoting both full employment and price stability and, thereby, maximum sustainable growth.",LABEL_1,0.9961733222007751
+3,We want to contain inflation because doing so has been crucial for sustaining the economic expansion that we now enjoy and for providing an environment conducive to private decision-making and longer-term planning so critical for taking advantage of new technological opportunities.,LABEL_1,0.9982251524925232
+4,"Containing inflation has, I am sure, contributed to the length and strength of the economic expansion we now enjoy--an expansion, by the way, that is the longest in our nation's history.",LABEL_1,0.9963964819908142
+5,And I need not remind you that the low inflation we now have was dearly purchased in the late 1970s and early 1980s with the highest interest rates since the Civil War and the highest unemployment rate since the Depression.,LABEL_0,0.9851893782615662
+6,"Precisely because inflation is the critical issue that hangs in the balance of new economy possibilities and old economy regularities, I will offer some observations on how I read the recent data on labor compensation and price inflation.",LABEL_2,0.9997574687004089
+7,My comments are in the spirit of inflation reports that many central banks with explicit inflation targets regularly issue.,LABEL_2,0.998862624168396
+8,"Before proceeding, let me remind you that the views expressed on the outlook and on monetary policy are my own.",LABEL_2,0.9996581077575684
+9,"The narrow version defines the new economy in terms of two principal developments: first, an increase in the economy's maximum sustainable growth rate and, second, the spread and increasing importance of information and communications technology.",LABEL_2,0.9227609038352966
+10,"The latter is presumably the major contributor to the acceleration in labor productivity that, in turn, is the principal source of the increase in trend growth in real GDP.",LABEL_0,0.9759011268615723
+11,"A third, and perhaps related, development is a possible increase in the economy's sustainable utilization rates, specifically a decline in the non-accelerating-inflation rate of unemployment (NAIRU).",LABEL_1,0.905491292476654
+12,"In the case of the United States, however, there is little doubt that the underlying rate of productivity growth has increased significantly in the second half of the 1990s.",LABEL_0,0.9720399975776672
+13,"From 1974 to 1995, labor productivity advanced at about an annual rate of 1-1/2 percent.",LABEL_2,0.9981726408004761
+14,Productivity then accelerated to a rate of about 2-1/2 percent in the second half of the 1990s.,LABEL_2,0.9771223664283752
+15,"This acceleration appears to have been spread out over the second half of the 1990s, so that the average rate over that period understates the rate of productivity growth at the end of the period.",LABEL_2,0.9901219010353088
+16,Productivity typically grows faster than its longer-term trend when GDP growth is rising and falls below trend when GDP decelerates.,LABEL_2,0.999764621257782
+17,This pattern simply reflects lags in adjusting employment to changes in GDP growth.,LABEL_2,0.999823272228241
+18,"Measuring productivity growth over a long period, such as 1974 to 1995, effectively eliminates this shorter-run component of productivity growth.",LABEL_2,0.9998667240142822
+19,"And because GDP growth was relatively stable during the second half of the 1990s, shorter-run dynamics appear not to have been an important contributor to the higher productivity growth in that period.",LABEL_2,0.9998053908348083
+20,"Moreover, careful econometric attempts to isolate the short-run dynamic and longer-run structural components generally have concluded that structural productivity growth increased from about 1-1/2 percent in the earlier periods to around 2-1/2 percent to 3 percent by the end of the decade.",LABEL_2,0.8400455117225647
+21,That would put the sustainable rate of GDP growth up to 3-1/2 percent to 4 percent.,LABEL_2,0.9558501839637756
+22,"Still there is considerable uncertainty about trend productivity growth, including whether it might be accelerating, especially given the brief period over which higher and rising structural productivity growth has been experienced.",LABEL_2,0.8835805058479309
+23,Important questions about the measurement of productivity aggravate this uncertainty.,LABEL_2,0.9997734427452087
+24,And there is also considerable uncertainty about how long the higher productivity growth will persist.,LABEL_0,0.9950921535491943
+25,"For example, periods of more rapid productivity growth might be best understood as a transition to a higher level of productivity that is based on major technological developments.",LABEL_2,0.9994205236434937
+26,The persistence question is more important for assessing longer-run fiscal prospects--including the solvency of Social Security--than to monetary policy decisions that are made in the context of a one to two year period.,LABEL_2,0.9995689988136292
+27,"Using the neoclassical model, and disaggregating capital into information and communications technology and other capital, Dan Sichel and Steve Oliner of the Board staff decomposed productivity growth into contributions from capital deepening (the growth arising from an increase in the ratio of capital to labor) and multifactor productivity growth (the growth in output that cannot be accounted for by increases in labor and capital inputs) and into the contributions from the use of information technology and from increased efficiency in the production of computers.",LABEL_2,0.9996904134750366
+28,"According to their estimates, a bit less than half of the productivity acceleration was due to a pickup in capital deepening and a bit more than half to an increase in multifactor productivity growth.",LABEL_2,0.9988724589347839
+29,"More than 90 percent of capital deepening came from information and communications technology equipment, and nearly 40 percent of the increase in multifactor productivity growth came from increased efficiency in the production of computers and embedded semiconductors.",LABEL_2,0.9982012510299683
+30,"Altogether, therefore, information and communications technology accounted for slightly more than two-thirds of the increase in productivity.1 Besides the direct effects of information and communications technology through capital deepening and the more efficient production of computers, this technology may also indirectly raise productivity through spillover effects.",LABEL_2,0.9974270462989807
+31,"In a traditional growth accounting setup, these effects would show up in multifactor productivity growth.",LABEL_2,0.9998167157173157
+32,"Some back-of-the-envelope calculations by Oliner and Sichel suggest that such effects have been quite small to date, though the explosive growth of e-commerce, particularly in the business-to-business segment, suggests a potential for a more important contribution over time.",LABEL_2,0.9998170733451843
+33,"But do these developments--specifically higher trend productivity growth and the spread of information and communications technology--alone justify the ""new economy"" label?",LABEL_2,0.9996040463447571
+34,"Specifically, we could increase the estimate of trend productivity growth, based on higher multifactor productivity and capital deepening--both due in large part to information and communications technology--and have a fairly good explanation of the remarkable performance of the U.S. economy.",LABEL_2,0.9432546496391296
+35,"This approach would explain the recent productivity performance without denying the continued relevance of old economy regularities, including the role of supply and demand imbalances as a source of inflation dynamics.",LABEL_2,0.999529242515564
+36,"Heck, throw out supply and demand.",LABEL_2,0.99979168176651
+37,"For example, do these developments increase the competitiveness of markets, and, if so, how does this affect inflation dynamics?",LABEL_2,0.989095151424408
+38,They appear to increase the speed and effectiveness of price discovery.,LABEL_2,0.9997180104255676
+39,What does this imply for pricing leverage and inflation dynamics?,LABEL_2,0.9996696710586548
+40,"Do they result in rapidly growing sectors dominated by increasing returns to scale, where increases in demand lower cost and hence prices?",LABEL_2,0.9962025284767151
+41,"These are all provocative and important questions, but none of these developments, in my view, are powerful enough at this moment to support the notion that labor and other utilization rates can rise ever higher without triggering accelerating prices--the broader version of the ""new economy.""",LABEL_1,0.6557643413543701
+42,"For my part, I accept the proposition that there has been a significant improvement in underlying productivity growth in the United States, that it is very closely tied to improvements in information and communications technology, and that it is likely to spread around the world.",LABEL_0,0.9888775944709778
+43,"Welcome Back Supply and Demand I was startled by the bold title of an article that appeared in The Wall Street Journal on December 31, 1999: ""So Long, Supply and Demand.""",LABEL_2,0.9995244741439819
+44,"I was rather certain that confidence in supply and demand would make a comeback, and so I was delighted to see the front-page story in The Wall Street Journal on May 16, 2000--the day of the last FOMC meeting.",LABEL_2,0.9974007606506348
+45,"The title this time was ""Firms Start Raising Prices, Stirring Fears of Inflation Fighters,"" and it began: ""Even in the new economy, at least one old rule still applies: If demand exceeds supply for long enough, sellers will raise prices.""",LABEL_1,0.9961618185043335
+46,So let me count the ways that supply and demand help us to understand the recent experience and the challenges facing monetary policy today.,LABEL_2,0.9998466968536377
+47,"First, a productivity shock affects aggregate demand as well as potential supply and may initially have an even larger effect on demand than on supply.",LABEL_2,0.6693593859672546
+48,"In early discussions about the productivity shock, the emphasis was, not surprisingly, exclusively on its supply-side implications--specifically a faster rate of productivity growth and hence of sustainable GDP growth.",LABEL_1,0.8813818097114563
+49,The natural corollary seemed to be that a faster growth of supply than of demand would be a powerful disinflationary force.,LABEL_1,0.9848616123199463
+50,"But during the period over which productivity has accelerated, demand has grown faster than potential supply.",LABEL_1,0.9871214032173157
+51,"The demand effects--to the extent that they are directly related to the productivity shock--likely reflect the more favorable investment opportunities, the effect of expected profitability on equity prices and hence household wealth and consumption, and the effect of the increase in expected future labor income on current consumption.",LABEL_1,0.9914748668670654
+52,"Demand, it appears, received an additional boost over this period from a run-up in equity prices that the higher productivity growth alone could not fully account for.",LABEL_0,0.9559683799743652
+53,"The balance between supply and demand can be inferred from movements in utilization rates, specifically in the unemployment rate.",LABEL_2,0.9996387958526611
+54,"When actual output is expanding at the same pace as potential, the unemployment rate will be stable.",LABEL_2,0.9971128702163696
+55,"When output growth outpaces the growth of potential, the unemployment rate declines.",LABEL_2,0.6365556120872498
+56,And the unemployment rate has declined almost 0.4 percentage points a year for the past four years.,LABEL_0,0.9006496071815491
+57,This translates into excess demand growth of 0.75 to 1 percentage point relative to potential supply growth.,LABEL_1,0.7128173112869263
+58,The second insight--and enduring old economy wisdom--is that a proximate source of changes in inflation is an imbalance between the levels of aggregate supply and aggregate demand.,LABEL_2,0.9245817065238953
+59,This can be expressed as an imbalance between actual and potential output or as a divergence of the unemployment rate from the NAIRU.,LABEL_2,0.9978797435760498
+60,"The imbalance between the growth rates of aggregate supply and demand is, of course, the source of changes in the balance between the levels of aggregate demand and supply.",LABEL_2,0.9972817897796631
+61,But inflation is related directly to the levels not to the growth imbalance.,LABEL_2,0.999677300453186
+62,"And, even in the new economy, excess aggregate demand ultimately drives up inflation.",LABEL_1,0.9993990659713745
+63,Do we have excess aggregate demand?,LABEL_0,0.987179696559906
+64,"In my judgment, we have excess demand conditions in the labor market.",LABEL_0,0.9967795014381409
+65,"The central tendency for my estimate of the NAIRU is in the range of 5 percent to 5-1/4 percent, compared to the 4.1 percent current unemployment rate.",LABEL_2,0.9982218146324158
+66,"This uncertainty has been, in my view, an important consideration in the way monetary policy has responded to recent economic developments.",LABEL_2,0.9997743964195251
+67,"Obviously, whether the NAIRU is closer to 4 percent or to 5 percent affects the difficulty associated with rebalancing supply and demand to contain the risk of higher inflation.",LABEL_1,0.9955834746360779
+68,But why has inflation remained moderate if there is persistent excess demand in the labor market?,LABEL_2,0.8544902801513672
+69,This is still another supply and demand story.,LABEL_2,0.9974800944328308
+70,The economy is subject to two fundamental types of aggregate economic shocks: supply shocks and demand shocks.,LABEL_2,0.9996919631958008
+71,These two types of shocks give rise to different challenges for monetary policy.,LABEL_2,0.999782383441925
+72,Supply shocks come in two varieties: relative price shocks (such as changes in the relative price of oil) and productivity shocks.,LABEL_2,0.9997193217277527
+73,"Earlier in this episode, the economy benefited from a series of favorable relative price shocks and, throughout the last several years, has been adjusting to an increase in productivity growth.",LABEL_0,0.986809492111206
+74,Both of these developments have had a temporary disinflationary effect.,LABEL_0,0.9986135959625244
+75,"Together they suppressed inflation for a while, countering the potential inflationary consequences of the progressive increase in aggregate demand relative to potential supply.",LABEL_1,0.9931486248970032
+76,"Once the disinflationary impetus from supply shocks begins to dissipate or to reverse, the inflationary consequences of the supply-demand balance will begin to show through.",LABEL_1,0.998941957950592
+77,The disinflationary effect of an increase in productivity growth begins to dissipate once productivity growth stabilizes at a higher level.,LABEL_2,0.998490571975708
+78,"So unless productivity accelerates further, its disinflationary effect should continue to erode for a time.",LABEL_0,0.9977524876594543
+79,"When favorable supply shocks dominate, growth in demand is stimulated and utilization rates rise, but inflation tends to moderate.",LABEL_2,0.7623916864395142
+80,"The result is offsetting implications for the setting of the nominal funds rate and, thus, monetary policy may be left with little work to do.",LABEL_2,0.9997196793556213
+81,"This accounts for the relative inactivity of monetary policy from 1996 through the end of 1999, at which point the federal funds rate was within 1/4 percentage point of where it was at the beginning of the period.",LABEL_2,0.9997367262840271
+82,"But once the disinflationary effects of the favorable supply shocks dissipate or reverse, the challenge is more like one that accompanies demand shocks.",LABEL_2,0.999194324016571
+83,"Excess demand, evidenced by utilization rates above sustainable levels, will put upward pressure on inflation, and monetary policy must restrain aggregate demand to bring it into balance with potential supply to avoid rising inflation.",LABEL_2,0.9892386198043823
+84,A Brief Inflation Report But is there any evidence that inflation pressures are in fact building?,LABEL_1,0.9994366765022278
+85,"Of course, overall inflation has clearly increased significantly over the last year.",LABEL_2,0.7270352244377136
+86,"The consumer price index, for example, has increased at a 3 percent rate over the last twelve months, compared with a 2.3 percent rate over the previous twelve months.",LABEL_1,0.999293327331543
+87,Similar trends are evident in the PCE and in the GDP price index.,LABEL_1,0.991411566734314
+88,But this increase in overall inflation reflects mainly the rise in oil prices over 1999 and into 2000.,LABEL_2,0.9996486902236938
+89,"Assuming that oil prices stabilize, the effect will dissipate, and overall inflation will return toward, and indeed dip slightly below, the core rate (the rate net of food and energy prices).",LABEL_1,0.9989197254180908
+90,"So, looking forward, the core inflation rate is the more important consideration.",LABEL_2,0.9908652901649475
+91,These numbers suggest that inflation pressures remain well contained.,LABEL_2,0.9993510842323303
+92,"But digging a little deeper, the evidence, in my judgment, supports the conclusion that core inflation has moved modestly higher over the last six to nine months.",LABEL_1,0.9351804852485657
+93,"First, the introduction of a methodological change in measuring the CPI in January 1999 lowered CPI inflation relative to the earlier period.",LABEL_1,0.9995366334915161
+94,"As a result, on a methodologically consistent basis, core CPI inflation in the last twelve months has actually been up a couple tenths of a percentage point.",LABEL_2,0.9872101545333862
+95,"But, more important, the higher-frequency data provides some evidence of a rising trend in core inflation.",LABEL_1,0.5223192572593689
+96,"For example, at an annual rate, core CPI inflation is 2.4 percent over the last nine months, 2.5 percent over the last six months and 3.2 percent over the last three months.",LABEL_1,0.9994402527809143
+97,So I conclude that the underlying trend for core CPI inflation has moved up to close to 2-1/2 percent today.,LABEL_1,0.815191924571991
+98,The core PCE and the GDP price indexes also have accelerated over the last six to nine months.,LABEL_1,0.9992457628250122
+99,The higher core inflation could be explained by a pass-through to the core of earlier increases in oil prices.,LABEL_1,0.9959994554519653
+100,"However, whether such a pass-through leads to a one-time increase in the price level or to continuing inflation depends on whether or not monetary policy accommodates the higher inflation.",LABEL_1,0.998917818069458
+101,"Whether such accommodation occurs, in turn, depends on how policy deals with the excess demand that will be felt in the first instance in wage pressures in a very tight labor market.",LABEL_1,0.9994367957115173
+102,"For example, consider the trend in year-over-year growth rates for the three key measures.",LABEL_1,0.997357189655304
+103,"For the employment cost index, the trend is decidedly up; for average hourly earnings, however, the year-over- year growth rate has been flat; and for compensation per hour in the productivity and costs report, the trend is actually down.",LABEL_2,0.9998356103897095
+104,"Until the May employment report, the recent monthly data clearly pointed to an acceleration in average hourly earnings--given the 4-1/2 percent rate posted over the first four months of the year after a 3-1/2 percent rate over 1999.",LABEL_1,0.9915379285812378
+105,"There are, in my judgment, some grounds for discounting the productivity and cost measure.",LABEL_2,0.9991835951805115
+106,"Even if the evidence for an acceleration in nominal labor compensation were more definitive, the implications for inflation are not altogether straightforward.",LABEL_0,0.9938207268714905
+107,"If the trend in the growth of labor compensation is upward, it could be a response to the uptick in overall inflation last year or to overly tight labor markets or to a catch-up to the higher rate of productivity growth.",LABEL_1,0.9976110458374023
+108,"Just as the slowing in overall inflation in 1997 and 1998 contributed to a moderation in nominal wage demands, the higher overall inflation in 1999 and 2000 would be expected to boost nominal wage demands.",LABEL_2,0.9998388290405273
+109,But any rebound in nominal labor compensation could also reflect a catch-up to higher productivity growth.,LABEL_2,0.5712456107139587
+110,"If nominal compensation is just matching the higher productivity growth, this source of acceleration in nominal compensation would not itself be inflationary.",LABEL_1,0.9985699653625488
+111,The slow initial response of nominal compensation to higher productivity growth is the source of the temporary disinflationary effect of a productivity shock.,LABEL_1,0.9989171028137207
+112,"Therefore, once the catch-up is under way, this disinflationary impetus gradually disappears.",LABEL_0,0.9951150417327881
+113,"And at this point, the pass-through from higher inflation and the effect of tight labor markets have no offset and will begin to dominate.",LABEL_1,0.9787319898605347
+114,So even the catch-up story plays a role in the upward trend in inflation.,LABEL_0,0.5422086119651794
+115,A second reason that nominal compensation is so difficult to factor into an inflation forecast is that compensation practices are changing.,LABEL_2,0.9776926636695862
+116,"Stock options are incorporated, based on gains upon exercising the options, in the productivity and cost measure, but not in the ECI.",LABEL_1,0.9995543360710144
+117,"So what is the outlook for inflation, and how does it relate to the interplay of new economy forces and traditional supply and demand considerations?",LABEL_1,0.9993415474891663
+118,"In my judgment, we took the benefits of both the earlier favorable relative price shocks and the productivity shock, partly in a decline in the unemployment rate below the NAIRU and partly in a decline in inflation.",LABEL_2,0.9997454285621643
+119,"This is not a statement about what policymakers planned, but rather about what evolved as we responded to unexpected developments in inflation and growth.",LABEL_2,0.9998481273651123
+120,"At any rate, we could have taken more of the benefits of the favorable supply shocks in lower inflation, but given that inflation was already so low, the combination we ended up with seems, after the fact, to have been reasonable.",LABEL_2,0.9987749457359314
+121,"At some point, however, when the temporary disinflationary impetus of the favorable supply developments dissipate, not only will there be some rebound in inflation, but unless a transition is made back to sustainable utilization rates, there will be a risk of a continuous upward movement in inflation.",LABEL_0,0.9214272499084473
+122,"During that transition, at least some of the earlier decline in core inflation will be reversed.",LABEL_2,0.9996447563171387
+123,"To be sure, it has been difficult to be precise about both sustainable utilization rates and the path of inflation because of uncertainties about the NAIRU and other aspects of inflation dynamics in a period of significant structural change.",LABEL_0,0.554534375667572
+124,"Given our uncertainty about sustainable utilization rates and wage-price dynamics in the new economy, however, policy setting must remain flexible and responsive to new information about both the supply and the demand sides of our economy.",LABEL_2,0.9996880292892456
+125,Conclusion: The Challenge Facing Monetary Policy This analysis suggests that monetary policy does face a challenge--rebalancing aggregate supply and demand to contain the risk of higher inflation.,LABEL_0,0.43048346042633057
+126,The major question in this respect is whether slowing the economy to trend alone will get the job done or whether we need a period of below-trend growth to unwind an imbalance between the levels of aggregate demand and supply.,LABEL_1,0.9992371797561646
+127,"If the task is only slowing the economy to trend--because the NAIRU turns out to be close to 4 percent--the task is not as challenging, and inflation will remain stable near current levels.",LABEL_0,0.9926673769950867
+128,"If the NAIRU turns out to be closer to 5 percent, then the task is more demanding, and growth will have to slow to below trend for a while, and inflation is likely to rise somewhat further until the rebalancing is complete.",LABEL_2,0.9991975426673889
+129,"If successful, in either scenario, the payoff from monetary restraint will be both to contain the risk of higher inflation and to extend the life of this remarkable expansion.",LABEL_2,0.9995275735855103
+130,"First, we are now in a high-growth rather than a low-growth economy.",LABEL_1,0.9995681643486023
+131,"Even if we have to slow growth to below trend for a period, the resulting growth rate could remain well above the average growth rate over the previous 25 years and still get the job done.",LABEL_1,0.9964973330497742
+132,"If oil prices have now at least peaked--and, better yet, if they decline at least modestly over the next year and a half, as suggested by expectations reflected in futures markets--the upward impetus to overall inflation from oil prices will dissipate or even reverse.",LABEL_2,0.9965094923973083
+133,"In this case, overall inflation is likely to decline next year, and this decrease could help moderate the rise in core inflation into the following year.",LABEL_1,0.9990744590759277
+134,"Third, long-term inflation expectations remain firmly anchored, reflecting considerable confidence that monetary policy will contain any threat of higher inflation.",LABEL_1,0.9994572997093201
+135,This should damp the rise in inflation in the short term.,LABEL_1,0.9943357110023499
+136,"Fourth, monetary policy got a head start on containing inflation by beginning to tighten last June, before the signs of building inflation pressures were evident.",LABEL_1,0.938380241394043
+137,"Fifth, the tighter monetary policy is now contributing to a less accommodative set of financial conditions throughout the economy--including higher short- and long-term private interest rates, lower equity prices, a stronger dollar, and more stringent lending conditions at banks.",LABEL_2,0.8577596545219421
+138,"If these tighter financial conditions remain in place, we will have made significant progress in establishing the foundation for slower growth.",LABEL_1,0.9957564473152161
+139,"Jorgenson, Dale W., and Kevin J. Stiroh, ""Raising the Speed Limit: U.S. Economic Growth in the Information Age,"" May 1, 2000.",LABEL_1,0.9970040917396545
+140,"Macroeconomic Advisers, ""Productivity and Potential GDP in the 'New' U.S. Economy,"" September 1999.",LABEL_1,0.9908373355865479
+141,"Oliner, Stephen D., and Daniel E. Sichel, ""The Resurgence of Growth in the Late 1990s: Is Information Technology the Story?""",LABEL_1,0.999154806137085

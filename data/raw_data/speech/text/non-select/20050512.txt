@@ -1,0 +1,153 @@
+Given that this is a global forum, I have chosen economic and financial globalization as my topic today.
+Proponents of globalization cite a wider array of goods and services available for consumers, greater market competition and lower prices, new financial instruments for savers, possibilities for greater and more-productive investments, and strengthened market discipline of government policies.
+All of these benefits could translate into faster economic growth and higher real incomes for most people.
+Opponents point to lost manufacturing jobs in advanced economies and financial crises in emerging-market nations.
+Some have argued that it is better to put sand in the wheels of the world economic and financial system to prevent such apparently undesirable and unstable outcomes.
+Notwithstanding these concerns, I believe that globalization is, on balance, a positive development for the world economy.
+Perhaps more to the point, I think that globalization is here to stay and that further globalization is inevitable.
+Today, I want to review where we are in the process of globalizing product markets and the factors of production--capital and labor.
+I also want to speculate about some implications of globalization for policymakers.
+As always, my views are not necessarily shared by my colleagues in the Federal Reserve System.
+Globalization of Financial Markets Let me begin with capital or financial markets.
+As financial professionals, most of you have probably experienced changes in your professional lives arising from financial globalization.
+Besides such experiences, statistics, too, imply big changes.
+For example, cross-border investments are far larger now than they were twenty years ago.
+From 1984 to 2003, U.S. investment holdings abroad more than tripled after controlling for inflation, while real U.S. gross domestic product did not quite double.
+Foreign investments in the U.S. rose proportionately much more, by almost a factor of six.1 Because of increased market turnover, cross-border transactions have grown even faster than cross-border holdings.
+In 2002, the gross value of cross-border equity trades was 80 percent of worldwide equity market capitalization, whereas in 1989 cross-border trades equaled only 18 percent of a much smaller world equity market.2 Given these developments, it is not surprising that financial asset prices in various countries appear to move together more than they used to.
+For example, from the end of World War II to 1971, the average correlation of monthly equity market index returns among the United States, the United Kingdom, France, and Germany was around 0.1; but from 1972 to 2000, it rose to 0.5.3 Since 2000, the average correlation has risen further, to about 0.8.4 Financial globalization is not limited to the securities markets.
+Financial institutions have also stretched their global reach.
+According to Federal Reserve data, U.S. offices of foreign banking organizations increased their share of U.S. bank deposits from around 2 percent in the early 1970s to around 15 percent in recent years.5 Several of the largest U.S. financial institutions have vastly expanded their global operations over this period.
+How much further will financial globalization go?
+Economists disagree about answers to this question, but I believe that considerable scope remains for further globalization.
+Let me offer a few reasons.
+In the case of quantities of financial assets held by investors in various nations, the simplest version of portfolio theory implies that every investor should hold assets in proportion to the world portfolio.
+For example, the listed equity of U.S. firms is about half of global market capitalization, and so the simple theory implies that about half the equity portfolios of U.S. investors should be in U.S. firms and half in non-U.S. firms.
+And about half the equity portfolios of investors in any other nation should be invested in U.S. firms.
+The simple theory is too simple to be realistic, and policymakers should not take it too seriously, but it is a benchmark that provides some perspective.
+Progress toward the benchmark has been relatively rapid in recent years.
+For example, the share of foreign equities in U.S. equity portfolios rose from 2 percent in 1980 to 14 percent in 2003.6 But this share still falls well short of the simple benchmark of 50 percent.
+The shortfall is spread fairly evenly across European, Asian, and emerging-market stocks.
+And U.S. holdings of foreign debt securities fall even further short of their 55 percent benchmark.7 The weights of foreign securities in the portfolios of investors in other nations are also far smaller than the benchmark.8 These facts imply that the aggregate portfolio of each nation is overweight in its own stocks and bonds; such a departure from the benchmark is thus sometimes called "home bias."
+Home bias will probably continue to decline, but how fast and how far are difficult to predict.
+Many potential sources of home bias have been suggested, including regulatory barriers, differences in expected returns to investments in different nations, differences in corporate governance or in consumption patterns across countries, smaller transaction costs or costs of staying informed for home-country investments, and delays in adjustment to the removal of regulatory and institutional barriers to cross-border investment.
+Without getting into an extended discussion about the relative importance of such possible sources, I note that many of them are expected to continue to diminish, and so investors' portfolios will likely become more diversified as time passes.9 What about prices of financial assets?
+Here a simple benchmark is the law of one price: The same asset should have the same price everywhere, after proper adjustment for transaction and transport costs, taxes, risk, and so forth.
+In cases where this strict definition can be applied, the law of one price usually does hold to a very good approximation--for example, on bonds of multinational corporations issued in the same currency in different jurisdictions or on depositary receipts of foreign equities relative to the underlying equities in their home markets.
+But in many cases, what is of interest is whether similar financial assets are priced similarly--for example, similarly rated bonds in different countries.
+Determining the market value of differences in characteristics of assets is difficult, so judgments about similarity of pricing can be hard to make.
+On the other hand, prices of at least some low-risk, liquid instruments appear to be comparable around the world, and prices of liquid assets all around the world react very quickly to news.10 On the other hand, research shows that markets are not as efficient at equating the prices of risky assets, particularly those that are not liquid, so there may still be considerable scope for convergence of asset prices.11 As with the equity-price correlations I described earlier, the correlations of monthly changes in government bond yields have trended up over the past twenty years, to around 0.8 for correlations between yields in the United States and those in major European countries since early 2000.
+Currently, bond yields in Europe, the United States, and Canada are quite similar and are at low levels not seen in decades.
+Globalization may have played a role in this convergence, though the channel is not clear.
+I suspect that the convergence of inflation rates and inflation expectations to common low levels is an important factor.
+I will return later to the possibility that globalization has helped lead to low inflation around the world.
+Other possible contributing factors to low global bond yields include expectations that real activity and investment demand in the major regions will continue to grow at a moderate pace, reduced concerns about shocks to this growth outlook, and large purchases of bonds by Asian central banks.
+Globalization of Labor Markets Labor is an even more important factor of economic production than capital.
+In most advanced countries, the share of income earned by labor is about double the share earned by capital.
+I think it is fair to say that globalization has had much less influence on labor markets than on financial markets.
+Nevertheless, we see some evidence of the forces of globalization in labor markets.
+In just the past ten years, the share of the U.S. population born in a foreign country rose from less than 9 percent to almost 12 percent.
+Of the more than 34 million foreign-born individuals in the United States last year, more than half entered the country after 1990.12 This inflow of new workers has had a major effect on some categories of U.S. jobs.
+For example, a recent survey by the Pew Hispanic Center revealed that one out of every three U.S. jobs in the following categories are filled by foreign-born Hispanics: groundskeepers, housecleaners, bricklayers, painters, construction laborers, meatpackers, and butchers.
+Nearly half of all drywall installers and plasterers are foreign-born Hispanics.13 Remittances sent by such workers back to relatives in their home countries have become increasingly large.
+Remittances to Mexico grew from $700 million in 1980 to more than $13 billion in 2003, an amount equivalent to more than 2 percent of Mexican GDP.14 These changes are affecting other industrial countries as well.
+For the G-7 countries overall, immigration is at around 3 million people per year, of which a little more than 1 million reflects immigration to the United States.15 In Europe, commuting across borders also has risen, facilitated by the expansion of the European Union and the emergence of cheap air travel and faster rail links.
+A further development that has gained attention in industrial countries is the outsourcing of call centers and professional services to low-wage countries such as India--in other words, moving jobs to people rather than people to jobs.
+Despite these developments, there is plenty of evidence of barriers to labor mobility and to the integration of labor markets.
+Magazine and newspaper stories have pointed out the costs and difficulties of outsourcing, including prominent cases in which large companies abandoned or downsized their outsourcing programs because of problems of culture and control.16 France and Germany recently rejected a proposal to liberalize regulations so that services professionals could more easily compete across countries within the European Union.
+Most industrial countries have strict limits on legal migration that are far lower than the volume of visa applications.
+The high cost to would-be immigrants of entering illegally includes not only the risk of detection and deportation but, in many cases, fees of several hundred to several thousand dollars demanded by smugglers who promise to get immigrants into their destination countries.
+Perhaps the most telling evidence that barriers to labor mobility are still high is that wage rates for workers in similar categories are vastly different across countries.
+For example, the minimum manufacturing wage in Mexico is less than 20 percent of the U.S. minimum wage, and average manufacturing wages in Pakistan are less than 10 percent of the U.S. minimum.17 Despite this evidence of barriers, immigration has probably held down wages in a number of low-wage occupations, an issue I will revisit shortly.
+Globalization of Product Markets In addition to the evidence of globalization in the markets for economic inputs, evidence of globalization in the markets for economic outputs is abundant.
+A big part of this evidence is the expansion of international trade.
+The ratio of worldwide exports to worldwide GDP rose from about 8 percent in 1960 to 20 percent in 2001.
+Over this period, barriers to trade fell.
+Average tariffs in the United States, Germany, and Japan fell by more than half.18 The membership of the World Trade Organization (formerly the General Agreement on Tariffs and Trade) rose from 18 countries in 1948 to 146 countries in 2003.
+And free-trade areas, led by the European Union and NAFTA, have increased from 1 in 1958 to 161 in 2003.
+Transportation and communication costs have also fallen over time.
+Despite all this progress, significant barriers to trade still exist.
+Policy barriers such as tariffs, quotas, and licensing restrictions are especially important in the areas of agriculture and services.
+According to some research, moreover, official trade policy is only one of several barriers; some others are transportation costs, language barriers, and information costs.19 The threat of renewed protectionism, which captured headlines here and elsewhere in recent weeks, poses a serious challenge to the lowering of policy barriers in the ongoing Doha Round of trade negotiations.
+Whatever happens to trade policy barriers, however, technological innovations are likely to continue lowering nonpolicy barriers to trade.
+The other main aspect of globalized product markets is the growth of foreign direct investment.
+Between 1980 and 2003, U.S. corporations' direct ownership or control of affiliates overseas rose from 13 percent of U.S. GDP to 18 percent.
+Over the same period, foreign corporations' ownership or control of affiliates in the United States rose even faster, though from a lower level, from 4 percent of U.S. GDP to 14 percent.
+Since 1988, employment in U.S. operations of foreign corporations has risen by 2.3 million jobs to a total of 5.4 million, or roughly 5 percent of total U.S. employment.20 A relatively recent development in international direct investment is the rise of multinationals that have grown out of emerging markets, including companies such as Mittal Steel, Hyundai Motors, and the Haier Group of home-appliance makers.
+The Economic Implications of Globalization: Pro and Con What does globalization mean for workers and investors?
+What does it mean for consumers and producers?
+I cannot claim to give you a complete answer.
+And if I could, it would make for a very long speech.
+So let me cover just a few areas.
+One of the most obvious effects of globalization is the introduction of new brands and products from foreign countries.
+The benefits of greater selection and variety are immediately obvious to the consumer.
+But the benefits go deeper than the surface.
+Opening up markets to greater competition leads to lower prices and higher-quality products, which translates into higher real incomes for most people.
+Globalization has also changed the very structure of production both within multinational firms and between firms.
+It has become quite common for high-value U.S. components to be shipped to foreign destinations for assembly into finished products, many of which are shipped back to the United States.21 This so-called round-tripping enables firms to take advantage of economies of scale at each stage of the production process as well as different wage and skill mixes in different locations.
+These changes in the production process are likely to be particularly pronounced within multinational firms.
+Indeed, recent research shows that multinationals have made a disproportionate contribution to the acceleration of U.S. productivity since the mid-1990s.22 So if globalization has helped to increase competition and variety while lowering costs, why do so many oppose it?
+One answer is that competition and progress invariably produce winners and losers.
+Even if all consumers gain, a few producers may gain a lot and few others may lose a lot.
+Another answer is that, for the advanced economies, opening up markets to products from low-wage countries may disproportionately benefit those with the highest incomes, while greater immigration may hold down blue-collar wages, thereby creating greater inequality of incomes.
+Economists who have studied rising income inequality in America generally conclude that, although international trade and migration have contributed slightly, the main factor by far has been progress in information technology, which has boosted the demand for educated workers relative to those with low skills.23 Yet another potential implication of globalization is that the distribution of incomes across countries will shift.
+Professors Edward Leamer of UCLA and Peter Schott of Yale have recently suggested that the significant gains in Chinese and Indian per capita income over the past twenty years may have come at the expense of income growth in the so-called "middle income" developing countries such as Argentina and Brazil.
+Per capita incomes in many middle-income countries have stagnated while per capita incomes in the industrial countries have continued to grow.
+Leamer and Schott argue that few Chinese or Indian products compete with products made in the industrial countries, whereas many Chinese and Indian products do compete with products made in the middle-income countries.24 This is an interesting and provocative hypothesis, but as yet it has not been subjected to careful testing.
+In the realm of finance, globalization, on the whole, promotes diversification and helps savings flow to high-value investments.
+Spreading risk makes risk easier to bear, and more-efficient investment increases real incomes in the long run.
+Of course, as always in finance, mistakes can be made.
+Sometimes projects are financed that turn out to be fraudulent or otherwise unworthy, and sometimes national financial systems are not ready to deal with the higher volumes of capital flows and the quicker and harsher market discipline that comes with globalization.
+In the past couple of decades, some major recessions in emerging-market nations appear to have been associated with boom-and-bust cycles in capital flows.
+But barriers to capital flows are not a realistic choice for emerging-market nations in the long run because these nations are unlikely to join the ranks of advanced economies without open capital markets.
+Globalization also presents challenges for corporate treasurers and for other corporate decisionmakers.
+The importance of managing risk related to foreign exchange rate fluctuations usually grows with the size of a firm's foreign sales and production.
+And operational risks have also become more important at many firms.
+Examples include political risks--such as disruptions to operations or sales associated with political upheaval in a given nation or with changes in law--and reputational risks flowing from the challenges of conforming to a broader array of legal and cultural norms.
+I would encourage you to consider the degree to which each of your institutions has accurately measured and effectively managed these and other risks associated with global operations.
+Implications for Public Policy Policymakers should and do pay attention to globalization.
+To some extent, they have helped to promote it by removing or lowering barriers to cross-border investment, migration, and trade.
+I hope policymakers continue to take steps to facilitate globalization.
+But progress probably will also depend on other factors, like further advances in information, communication, and transportation technology, as well as changes in the habits of individuals and firms, all of which are largely out of the hands of policymakers.
+Besides broad efforts to facilitate it, how should public policy respond to globalization?
+As I noted earlier, some are concerned that financial globalization leads to boom-and-bust patterns in capital flows and investment, especially in emerging-market nations.
+A return to capital controls is probably not the best choice here.
+More likely to be helpful is attention to the institutional environment, which encompasses the supervision of financial institutions, policy transparency, legal systems, control of corruption, incentives for good corporate governance, and macroeconomic stability.
+A recent International Monetary Fund study argues that countries that have benefited the most from globalization have been those with the strongest institutions.25 We are currently experiencing a net outflow of capital from the developing world toward the industrial countries, a movement contrary to the prediction of simple economic theory.
+One important factor in this movement is that, on average, the institutional framework in industrial countries is perceived as being more favorable to investors in terms of allocating capital efficiently and protecting investors from fraud, waste, and expropriation.
+There is every reason to believe that capital flows will resume to those emerging markets that demonstrate a commitment to sustained improvements in their domestic institutions.
+The dislocation that can be caused by changing trade patterns poses another challenge to policymakers.
+This dislocation is not different in any meaningful way from the dislocation caused by technological progress.
+Just as our economy would be a lot poorer if we had protected horses and buggies by outlawing automobiles, so it will be poorer if we protect specific industries that cannot compete with cheaper foreign products.
+But we should also acknowledge the hardships imposed on those who must be retrained and relocated into new careers.
+As society as a whole benefits from trade, so it is only fair that society assist the few who pay a price for our progress.
+Given that the most severely affected jobs have been and are likely to continue to be those requiring the least education, it is clear that improving education for all of our children is an important part of our national response to globalization.
+Is globalization making the job of macroeconomic policymakers either easier or harder?
+One reason to answer "easier" is based on the view, which I share, that globalization makes the economy more flexible and adaptable.
+A more flexible economy ought to be inherently more stable and more resilient to shocks, and thus present less need for activist policy to stabilize output and inflation.
+Another positive consideration is that globalization helps to discipline policymakers by punishing them promptly when their policy actions are perceived to have harmful consequences.
+Globalization has progressed in conjunction with a substantial narrowing of inflation differentials across countries over the past twenty years, as the number of countries with high inflation has declined.26 It may be that globalized financial markets are more effective at punishing inflationary policies and that increased competition in goods markets helps to tame inflationary pressure.
+But another explanation is simply that central banks around the world learned about the costs of inflationary policies after the experience of the 1970s.
+A more pessimistic view focuses on recent cases in which countries that opened up to global financial flows experienced massive borrowing and subsequent financial crises.
+On this view, financial globalization may destabilize a country's economy in some circumstances and thereby make macroeconomic policy more difficult.
+However, I tend to believe that these financial crises often arise from macroeconomic policies that are inherently unstable and from private-sector participants who fail to recognize and price risk appropriately.
+As such, globalization may have increased the penalties for bad public and private policies, but the correct response is to get policy right, not to turn the clock back on globalization.
+Globalization has increased the spillovers of economic events across countries.
+For example, during the Asian financial crises of the late 1990s, investors downgraded their expectations for the future profitability of investments in emerging Asia.
+The resulting financial flows drove up the prices of U.S. bonds and equities at the same time that Asian demand for U.S. exports fell and the U.S. current account deficit widened.
+Globalization and the technological and regulatory changes that helped engender it may also be increasing the international spillovers of macroeconomic policy.
+In a simple macroeconomic model (IS/LM), globalization enhances the exchange rate channel of monetary policy.27 For example, stimulative monetary policy has a greater tendency to weaken a country's currency in a globalized world.
+This, in turn, has a contractionary effect on trading partners by reducing their exports.
+On the other hand, globalization implies that, say, a tax cut at home has a greater expansionary effect on trading partners, as consumers spend more of the tax savings on foreign goods.
+Of course this model makes some strong simplifying assumptions about expectations and price adjustment.
+In more-general models, a broader range of outcomes is possible.
+Thus, the degree to which globalization has these effects remains open to question.
+Does globalization imply a greater need for the international coordination of macroeconomic policies?
+Let me begin my answer by asserting that explicit coordination of policy setting across countries is not likely to happen in the foreseeable future, and I would argue that such explicit policy coordination would not be desirable.
+Policymakers have to be able to react quickly in many circumstances, and it makes no sense to delay needed actions in order to achieve international consensus, particularly when the potential benefits from coordinated action are small relative to the potential costs of delay.28 Experience has shown that the best outcomes are achieved when each country's policy focuses on domestic stabilization.
+Nevertheless, in our interconnected world, it is important for policymakers in different countries to maintain an ongoing conversation.
+This conversation involves the exchange of information about economic conditions and policy options as well as an opportunity to debate the merits of alternative policies that can lead to improved understanding of the practice of macroeconomic policy.
+International conversation promotes trust and understanding.
+It enables us to understand and respond appropriately to developments in each other's economies.
+Clearly, if globalization is changing the nature of policy spillovers across countries, that effect would be an important topic for an international conversation.
+In closing, I want to thank you again for inviting me to speak.

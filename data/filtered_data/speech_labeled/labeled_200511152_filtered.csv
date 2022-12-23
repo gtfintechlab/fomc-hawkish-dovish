@@ -1,0 +1,25 @@
+Unnamed: 0,sentence,label,score
+0,"If perceived to be persistent over sufficiently long periods of time, greater economic stability could support higher asset prices by reducing risk premiums on financial assets.",LABEL_0,0.7275155186653137
+1,It is also plausible that more stability in output and inflation could lead to lower volatility in financial asset prices.,LABEL_2,0.9659444093704224
+2,"In my remarks today, I want to discuss what researchers are uncovering about the links between the volatility of real activity and asset prices.",LABEL_2,0.9997931122779846
+3,"As a monetary policy maker, I am interested in these links because the prices of financial assets affect the spending decisions of firms and households and because these prices may reveal forward-looking information relevant for setting policy.",LABEL_2,0.9996962547302246
+4,"In addition, I want to discuss changes in financial markets themselves that may contribute to asset price volatility.",LABEL_2,0.9998171925544739
+5,"The volatility of GDP has fallen while equity prices have risen A number of researchers have documented that the volatility of economic activity has moderated since the mid-1980s (Kim and Nelson, 1999; McConnell and Perez-Quiros, 2000).",LABEL_2,0.9993610978126526
+6,The moderation is substantial: The standard deviation of the quarterly growth rate of real gross domestic product from 1985 to 2004--about 2.1 percent--is only about one-half its standard deviation from 1960 to 1984.,LABEL_2,0.9993322491645813
+7,"Similar-sized declines in volatility have been evident in many of the components of GDP, including consumption and residential investment, and also in inflation.",LABEL_2,0.9993851184844971
+8,"Better conduct of monetary policy could also lead to lower inflation and economic volatility (see, for example, Clarida, Gali, and Gertler, 2000; and Romer and Romer, 2002).",LABEL_2,0.9986453652381897
+9,"Importantly, equity valuation, as measured by the price-earnings ratio of the S&P 500, has been higher in the past two decades than in the two decades before that.",LABEL_1,0.620384931564331
+10,The price-earnings ratio averaged 14 from 1960 to 1984 and rose to an average of 19 over 1985-2004.,LABEL_2,0.9995692372322083
+11,Interest rates also could potentially have been affected by the Great Moderation.,LABEL_2,0.9979664087295532
+12,Investors in Treasury bonds require a risk (or term) premium to compensate them for the risk of loss on longer-maturity bonds resulting from movements in interest rates.,LABEL_2,0.9966931343078613
+13,Term premiums could be lower when inflation expectations are well anchored or the macroeconomy is less volatile.,LABEL_2,0.9994296431541443
+14,This secular decline in term premiums since 1990 appears to be correlated with the decline in long-run inflation uncertainty and in short-term interest rate uncertainty.,LABEL_0,0.8517101407051086
+15,Does volatility of real activity affect the level of asset prices?,LABEL_2,0.9998261332511902
+16,"Now, I would like to explore some of the research that might explain whether and, if so, how the Great Moderation affected the level of asset prices.",LABEL_2,0.9997137188911438
+17,Structural models of asset prices provide a consistent framework for understanding both equity prices and interest rates.,LABEL_2,0.999818742275238
+18,"In these models, each asset price contains a risk premium that represents the additional return demanded by risk-averse investors for bearing risk.",LABEL_2,0.8200356364250183
+19,"A reduction in macroeconomic volatility that reduces uncertainty about earnings or dividends could reduce the equity risk premium and, as a result, lead to higher equity prices.",LABEL_1,0.5077647566795349
+20,"Less uncertainty about future inflation could lower the risk premiums on nominal Treasury bonds, lowering the risk-free interest rate.",LABEL_0,0.9931063055992126
+21,"Lower volatility may reduce the motive for precautionary savings and thus put upward pressure on interest rates and, all else equal, downward pressure on equities.",LABEL_1,0.9860872626304626
+22,"One recent paper has directly examined whether the recent decline in economic volatility contributed to a lower long-run equity premium and the steep run-up in stock prices in the late 1990s (Lettau, Ludvigson, and Wachter, 2005).",LABEL_2,0.9925333261489868
+23,"However, one concern that has been raised about this model is that it does not also address the behavior of interest rates over the past decade.",LABEL_2,0.9998433589935303

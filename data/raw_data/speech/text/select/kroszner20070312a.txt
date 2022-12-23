@@ -1,0 +1,147 @@
+My subject this afternoon will be inflation dynamics.
+Since the mid-1980s, we have seen important improvements in these dynamics--inflation is now much lower and more stable than it once was, and it appears to be less closely correlated with movements in other economic factors than it was during the 1960s and 1970s (see table).
+Moreover, we have seen these improvements not only in the United States but in other countries as well.
+Questions of intense interest to many of you as well as to us at the Federal Reserve are, What caused these changes in the inflation process?
+and What are their implications for monetary policy?
+Having spent many years as a University of Chicago professor, my first reaction to these changes is to think â€œmoney.â€ As Milton Friedman famously said many years ago, â€œInflation is always and everywhere a monetary phenomenon.â€ Unfortunately, given the lack of a stable relationship between money growth and inflation, the pure monetarist view has taken a beating since then.
+However, Friedman was right that inflation is, ultimately, something that central banks determine, at least on average, over time.
+My second reaction is to think about another factor that Friedman emphasized--expectations.
+Views about the inflation process vary, but expectations are at the heart of almost all of them.
+And in any model in which expectations are important, monetary policy will also be important.
+So monetary policy, if not money itself, remains a central determinant of inflation dynamics.
+Accordingly, one of my principal themes today will be that expectations are important in the inflation process and that the improved conduct of monetary policy, by influencing the formation of expectations in a favorable manner, may account for many of the changes in inflation dynamics that we observe.
+At the same time, I am wary of ascribing all of the changes in dynamics to monetary policy.
+We should not place too much faith in any one framework, and so we need to keep an open mind about other possible explanations for the recent changes in inflation dynamics.
+Before proceeding further, let me say that the views I will express today are my own and are not necessarily shared by the other members of the Board of Governors of the Federal Reserve System or the Federal Open Market Committee.
+The Expectational Approach to Thinking about Inflation Now almost forty years old, the expectational approach to inflation dynamics--developed simultaneously by Friedman and recent Nobel prize winner Edmund Phelps--is still the dominant framework for thinking about inflation.
+Let me begin with a quick review of what Friedman and Phelps said forty years ago and then discuss very briefly how it relates to current thinking about the inflation process.
+In Friedmanâ€™s framework as expressed in his 1967 presidential address to the American Economics Association, inflation is related to inflation expectations as well as the level of resource utilization.
+Friedman explained that for a variety of real-world reasons, wages and prices might not always adjust immediately to changes in the money supply.
+If they did not so adjust, monetary policy could affect resource utilization.
+The reason that Friedmanâ€™s work, and that of Phelps, was so revolutionary was that it overturned the earlier belief that monetary policy could have a permanent influence on resource utilization in favor of a new view that monetary policy could affect real activity only temporarily.
+In the early 1970s, Robert Lucas expanded on the ideas of Friedman and Phelps and noted that shifts in the way a central bank conducts monetary policy imply changes in the way the public forms its expectations.
+Over the past thirty years, economists have taken these observations to heart in trying to explain the behavior of overall inflation.
+One standard approach starts with the notion that many wages and prices adjust only gradually to changes in costs and demand.
+That assumption about the microeconomic behavior of price setters has recently been bolstered by some research that has looked at the data underlying the consumer price index to assess how often prices change (Bils and Klenow, 2004).
+The research finds that, indeed, prices for many goods and services appear to adjust only gradually, with the typical firm changing the price of a typical item about once every four months.
+When wages and prices adjust only infrequently, expectations are important, because firms and households must take into account the demand and supply conditions that will prevail until they again reset their prices.
+All sorts of expectations will matter, but central among them are inflation expectations: If wages and prices in general are rising over time, then when firms have a chance to reset their prices, they will generally set them higher than they would if the overall price level was holding steady.
+Because the new approaches to understanding inflation are grounded in the behavior of individual decisionmakers, they have the solid theoretical foundations that are valuable for policy analysis.1 Moreover, some evidence indicates that empirical models based on this research do fairly well at forecasting.
+Of course, time will tell about their usefulness in the day-to-day operations of monetary policy.
+But the new research does demonstrate the continuing value of the expectations-focused approach that Friedman and Phelps championed forty years ago.
+Changes in Inflation Dynamics As I noted earlier, the inflation process seems to have changed in a number of ways in recent years, both in the United States and in other countries.
+I would like to review these changes and then consider what they may tell us about the underlying processes driving inflation.
+One notable change is that movements in inflation now appear to tell us much less about future inflation than was the case, say, thirty years ago.
+Here I am talking about predictions of inflation using only information on past inflation, without taking into account any other information.
+The evidence suggests that, at the peak of U.S. inflation in the late 1970s and early 1980s, the best such â€œunivariateâ€ forecast of inflation--into the indefinite future--was a simple average of inflation over the past few quarters (Stock and Watson, 2007; Cecchetti and others, 2007).
+In that period, sharp increases in inflation were reversed only slowly.
+By contrast, shocks to inflation since roughly the mid-1980s have tended to be short-lived, so that the best forecast of future inflation would be a very long average of past inflation.
+Thus, when inflation moves above its recent long-run average, most of the upswing will likely be quickly reversed, although this result is not guaranteed.
+Thatâ€™s a remarkable change in the behavior of inflation.
+The international evidence indicates that the longevity of inflation shocks has been attenuated in many other countries as well (Cecchetti and others, 2007).
+Moreover, the timing of the switch from largely permanent to mostly transitory movements in inflation is remarkably similar across the United States and these other countries.
+Another apparent change in the inflation process has been a reduction in the correlation between inflation and unemployment (Atkeson and Ohanian, 2001; Roberts 2006).
+Now, this relationship was always loose, as most of the historical variation in inflation has reflected influences aside from movements in unemployment or other measures of resource utilization.
+Still, in the 1960s and 1970s, a reasonably strong empirical relationship between inflation and unemployment could be found for the United States, with inflation tending to rise in periods when unemployment was low and vice-versa.
+Starting in the 1980s, however, this correlation began to weaken noticeably.
+In fact, some researchers now find no relationship at all, whereas others tend to find one that is of reduced economic importance.2 Again, similar shifts have been observed in other countries, and these results are not sensitive to whether we are looking at core inflation or total inflation (Borio and Filardo, 2006; Ihrig and others, forthcoming).
+Next on the list of changes is the influence of energy prices.
+During the 1970s, fluctuations in energy prices appear to have had a significant influence on core inflation--that is, on the growth rate of consumer prices excluding food and energy.
+But since the early 1980s, the inflationary effect of movements in prices for gasoline, natural gas, and other energy goods seems to have declined considerably, even after allowance is made for a secular decline in the energy intensity of the U.S. economy (Hooker, 1996).
+Indeed, some estimates even suggest that energy price shocks have no effect whatsoever on core inflation.
+From a cost-accounting perspective, estimates of a zero effect seem too improbable to be taken literally: Recent swings in energy input costs have been sufficiently large that they should have had a noticeable effect on the prices of other goods and services, even allowing for their relatively small share in overall costs.
+I will return later to possible explanations for the sharp drop in the estimated effects of movements in energy prices.3 Finally, one of the most striking changes in the U.S. economy in recent decades has been the reduction in the economyâ€™s volatility.
+The standard deviation of quarterly growth of real (that is, inflation adjusted) gross domestic product for the United States since the mid-1980s has been about half that experienced during the 1960s and 1970s.
+The volatility of inflation has fallen to a similar degree; moreover, the reduction in volatility for both output and inflation is widespread across countries.
+Of course, a smaller volatility of real GDP is not a change in inflation dynamics.
+But if monetary policy has been an important factor behind the drop in the economyâ€™s volatility, then the expectational mechanisms may be very similar to those affecting inflation dynamics.4 Expectations, Monetary Policy, and Changing Inflation Dynamics As Lucas pointed out, because expectations matter for inflation, monetary policy matters for inflation, too.
+And the historical record supports the notion that, starting with Chairman Paul Volcker, U.S. monetary policy has been more focused on low and stable inflation than was the case in the 1960s and 1970s (Romer and Romer, 2002).
+So it is natural to ask, can changes in the conduct of monetary policy in the United States (and elsewhere) help to account for the changes weâ€™ve seen in inflation dynamics?
+The strongest case for a link between monetary policy and changes in inflation dynamics is in the greater stability of inflation.
+Inflation is clearly under the long-run control of the Fed, and the relative stability of inflation clearly reflects the action of monetary policy.
+Thus, if the central bank wants to keep inflation low on average over time, it can surely do so.
+The case for monetary policy contributing to reduced volatility of inflation is also fairly straightforward: The central bank can stabilize inflation by raising and lowering interest rates to lean against inflationary disturbances.
+Once we take account of the role of expectations, the stabilizing effects of monetary policy become even greater: If economic decision makers come to realize that the Fed is doing more to stabilize inflation, then shocks that push up inflation will lead to smaller increases in inflation expectations than in the past.
+Because current inflation is affected by inflation expectations, the smaller increase in expected inflation will lead to a smaller increase in actual inflation as well.
+And because many shocks that may lead to inflation, such as unexpected surges in spending, also cause movements in output and employment in the same direction, the maintenance of price stability promotes the stability of the real economy.
+This experience of low and stable inflation, coupled with the Fedâ€™s clear statements of commitment to maintaining this performance, has no doubt contributed to the stability of long-run inflation expectations in the past decade or so.
+This stability has been remarkable.
+By one measure--from the Philadelphia Fedâ€™s Survey of Professional Forecasters--long-run inflation expectations have barely budged since 1998.
+Other measures have varied a bit more, but overall, the movements in the expectational indicators have been quite small.
+Better monetary policy may also help explain the apparent decline in the sensitivity of inflation to resource utilization.
+We might interpret the reduced statistical correlation between unemployment and inflation as evidence of a decline in the direct effect of resource utilization on inflation.
+But given that the conduct of monetary policy was changing at the same time, it may be premature to draw such a conclusion.
+Consider the following thought experiment.
+Suppose that the Federal Reserve managed to stabilize inflation perfectly.
+That outcome would eliminate any empirical correlation between inflation and unemployment even if there really was an underlying relationship between inflation and resource utilization operating through the influence of the latter on, say, marginal labor costs.5 As this example illustrates, the correlation between unemployment and inflation may have no bearing on whether these variables are truly linked structurally.
+I hasten to add that I am not advocating that the Fed stabilize inflation perfectly--this is simply an illustrative example.
+So letâ€™s consider another alternative: Suppose that the Fed is willing to accept some temporary deviation of inflation from its desirable level to moderate an accompanying weakness in real activity, as might occur in the face of an adverse productivity shock.
+In this instance, the most likely correlation between inflation and unemployment would be positive--that is, under these conditions the relationship between inflation and unemployment would be the exact opposite of the predictions of the old-fashioned Phillips curve.
+And again, this result could arise even though the structure of the economy was such that an increase in resource utilization would tend to put upward pressure on production costs and thus prices.
+From this perspective, the declining correlation of resource utilization with inflation may be an indication of the success of monetary policy in pursuing its dual mandate of price stability and maximum sustainable growth: Because the Fed is trying to stabilize both inflation and real activity, then, when faced by shocks that push these variables in the same direction, the Fed will want to try to offset both adverse developments to the extent that it can.
+Thus, I see the reduced correlation between inflation and unemployment as an indication of the success of monetary policy in this dimension.
+Further evidence that better monetary policy and accompanying expectational effects have promoted a more stable economy is provided by the rather muted inflationary effects of the recent sharp increases in crude oil prices.
+In the 1970s, inflation moved up sharply with increases in crude oil prices.
+Moreover, not only did overall inflation move up, but core inflation, wages increases, and inflation expectations moved up as well.
+In response to the resulting high inflation, the Fed was obliged to raise interest rates, and the economy weakened.
+The contrast with recent performance is quite stark.
+True, overall inflation moved up with energy prices, and some of the pickup in core inflation last year probably reflected the transitory effects of the pass-through of increased energy costs.
+However, that pass-through was a mere ripple compared with the behavior of the 1970s.
+Similarly, when gasoline prices surge, surveys of household inflation expectations still move up, but not for long.
+By contrast, in the 1970s, survey expectations moved up sharply and remained elevated in the wake of the two oil shocks.
+Indicators of long-term inflation expectations did not exist in the 1970s, but in the current period, the stability of these expectations has been remarkable.
+As I shall discuss, other explanations for these changes exist, but in my view, the effects of monetary policy are the most plausible.
+What can the international experience tell us about the likely sources of the changes in inflation dynamics?
+First, we need to acknowledge that many of the changes we have seen in U.S. inflation dynamics have also occurred in other countries.
+That fact suggests that at least some of the explanations of the change in inflation dynamics should be common across countries rather than country-specific.
+If monetary policy is central to these changes, it must be the case that many countries have made similar changes to monetary policy.
+As I noted in a speech last fall, one possible reason for such common changes in monetary policy may have been greater currency competition (Kroszner, 2006).
+In broad terms, the idea is that increased globalization, deregulation, and innovation raised the returns to low inflation--and increased the penalties for high inflation--relative to results obtained twenty or thirty years ago.
+For example, deregulation has led to an opening of capital markets, and hence financial globalization, which has in turn boosted innovation and helped to increase global competition by shrinking barriers of time and distance.
+Accordingly, trade and financial linkages between countries have tightened tremendously in recent years.
+Meanwhile, substantial financial innovations--including advances in electronic payment systems and trading systems as well as more widespread credit card networks and increased use of mutual funds--have facilitated the movement of wealth around the globe.
+As a result, deregulation, globalization, and innovation have made it easier for citizens to move their wealth out of nominal assets in their local currency and thereby avoid any inflation tax should their government show signs that it might resort to inflationary tactics to finance spending.6 At the same time, the publicâ€™s understanding of the costs of inflation has increased, in part because of experiences of high inflation in many countries in the 1980s.
+Almost everywhere, public opinion eventually turned against allowing inflation to continue.
+This public pressure has reinforced the trend against inflationary policies.
+Increased competition among currencies, driven by the confluence of factors that I just described, has limited the ability of governments and central banks to pursue high-inflation policies.
+Moreover, currency competition has raised the costs of poor policy and thus increased the incentives of the monetary authorities to maintain low inflation.
+Many of these arguments will apply with greater force in developing economies, where the costs of poor policies have been demonstrated quite clearly.
+Nonetheless, I think that currency competition has played at least some role in disciplining policy in the United States and other developed countries.
+Other Explanations for the Change in Inflation Dynamics Of course, monetary policy may not be the whole story, and we need to resist embracing any single explanation too wholeheartedly.
+There may be other reasons for the changes in inflation dynamics.
+For example, the reduced sensitivity of core inflation to oil and natural gas prices likely also reflects both the increased energy efficiency of the economy and the fact that shocks to the prices of these goods since the mid-1980s have, at least until the latest episode, been viewed as mostly temporary.
+In contrast, the rise in oil prices during the 1970s was probably seen at the time as largely reflecting a permanent shift in global demand/supply balances.
+Another factor that might help to account for some of the changes in inflation dynamics is globalization.
+Because national markets have become more open to international trade, domestic firms and workers face more competition and have less market power than in the past.
+This development could help to account for any reduced sensitivity of U.S. inflation to domestic resource utilization.
+In fact, one recent study even purports to show that foreign output gaps are more important in explaining domestic inflation in industrialized countries than domestic factors (Borio and Filardo, 2006).
+However, this result has been challenged by the Federal Reserve staffers, who find that estimates to this effect are fragile.7 That said, this is an issue that merits close monitoring as globalization continues.
+Other factors may also be at work, such as the deregulation of the 1980s and the faster productivity growth we have seen over the past decade.
+But I think that even after we have given these factors their appropriate due, the evidence still suggests that better monetary policy explains much (albeit not all) of the changes in inflation dynamics that have occurred.
+In fact, it is interesting to speculate on the degree to which better monetary policy might account for some of the structural factors I have listed.
+Consider faster productivity growth.
+High and variable inflation likely creates a distraction for firms--managers must pay attention to the damage that inflation can do to their balance sheets.
+They thus divert their attention from improving products and services to financial management.
+Such distraction likely hurts the productivity of firms.
+Although I donâ€™t think low inflation is the only factor behind the rebound in productivity growth in the United States--after all, other countries did not see such an acceleration in output per hour as inflation came down--I think it has played a role.
+Policy Implications A review of the possible causes of the changes in inflation dynamics naturally leads to the question of their implications for the conduct of monetary policy.
+In todayâ€™s economy, it is very difficult to know whether any given change in output or employment will have inflationary consequences.
+One lesson that is fair to draw, however, is that resource utilization generally does not tell us much about the future course of inflation over the next year or two.
+Rather, the near-term inflation outlook is more likely to be dominated by cost factors, such as productivity growth and the price of raw materials, than by the tightness of labor and product markets.
+Furthermore, the weak relationship between inflation and the unemployment rate means that it is probably more difficult than ever to gauge the economyâ€™s productive potential--and hence estimate so-called output gaps--especially in real time.
+In light of these uncertainties, prudent policymakers should take an eclectic approach and base their policy decisions on both a wide variety of indicators and views about how the economy may work and avoid a narrow focus on economic slack.
+My earlier comments also underscored the central importance of expectations to the successful conduct of monetary policy.
+In particular, the Federal Reserve and many other central banks appear to have succeeded in anchoring long-run inflation expectations--an achievement that has contributed to macroeconomic stability and eased the task of monetary policy.
+However, bad luck or other factors could cause expectations to begin to drift again.
+If so, the Federal Reserve will need to respond appropriately.
+A problem of this sort is probably fixed most easily if it is detected early, and thus policymakers should closely monitor the available indicators of expectations to head off any trouble as soon as possible.
+The final lesson I draw is a cautionary note: The stability of inflation could lead to complacency.
+As long as inflation expectations are well anchored, actual inflation will have a natural tendency to revert to the anchor of long-run inflation expectations.
+Under such circumstances, policymakers may be tempted to relax their resolve in responding to potentially inflationary developments.
+Such relaxation could be costly, however.
+Inflation expectations have become well-anchored because the public has become confident that the Federal Reserve will do the right thing.
+But this belief will persist only as long as we on the Federal Open Market Committee continue to ratify the publicâ€™s expectations that inflation will remain low and stable.
+Thus, complacency would be a threat to the credibility that the Federal Reserve has worked so hard to acquire, and its loss would likely mean the reversal of many of the favorable inflation developments seen over the past two decades.
+One message that I hope has been clear is that there is much we donâ€™t know about the inflation process.
+Policymakers would of course like to be 100 percent confident that they have the right way of looking at the world.
+But I think we always need to be open to the possibility that other forces may be at work or that other interpretations better explain what weâ€™ve observed.

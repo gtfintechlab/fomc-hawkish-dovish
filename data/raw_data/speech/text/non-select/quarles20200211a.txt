@@ -1,0 +1,92 @@
+I first arrived here at the Yale Law School on a sunny September afternoon almost 40 years ago, and I have a very clear memory of the first time I sat in this hall, not long after, to hear a lecture from a worthy public servant come to deliver wisdom to those who thought they might one day follow in his footsteps.
+It was Gene Rostow, former Dean of the Law School, former Under Secretary of State, then serving as head of the Arms Control and Disarmament Agency in the Reagan Administration.
+I remember the impression of erudition and experience he conveyed.
+I remember the sense of tradition, sitting here in these wood-paneled surroundings, being addressed with respect on issues of consequence.
+There was a sense then, in the early 1980'sâ€”which turned out to be correct â€” that the Cold War could be reaching its climax, and widespread concern among the great and good in the country (not least among them the Yale Law School faculty) that the more aggressive stance of the Reaganites (not least among them Gene Rostow) greatly increased the odds of a miscalculation.
+And here was the man himself, patiently but boldly discussing the state of the world with a group of first-year law students.
+I remember that he referred more than once to Don Quixote, and this Brooklyn-born American pronounced it in the British wayâ€”Dun Quixitâ€”which I found oddly both affected and endearing at the same time.
+And I remember absolutely nothing else of what he said.
+Not a word.
+Which puts me in a properly humble frame of mind for my own remarks today.
+You won't remember for very long anything I say here today, but I hope your time at the Law School gives you the same experience of patiently but boldly examining matters of consequence that I found to be the most valuable and lasting legacy of my own time here in New Haven.
+The themes and goals of this speech are objectives I will be pursuing over the next year and should resonate for this audience.
+I trust they will be helpful to you all and foster further discussions about the importance of transparency, accountability, and fairness in regulation generally and also in the increasingly important and increasingly consequential topic of bank supervision.
+Twenty years ago when I was in private practice, a lecture on bank supervision would have been my cue to pull out my BlackBerry and start checking my emails.
+The structure and content of regulation was both intellectually interesting and professionally meaningful; I considered bank supervision, by contrast, as both too workaday and too straightforward to merit the commitment of much legal horsepower or personal attention.
+I could perhaps have been excused by the callowness of youth, yet it was a common view at the time.
+Having now been immersed for the last two years both in the practice of supervision and in the complementary relationship between the regulatory and supervisory processes, I realize that this wasn't true then, and is certainly not true now.
+It is not a drafting accident that the Dodd Frank Act gave my position at the Federal Reserve the title of Vice Chairman for Supervision.
+Notwithstanding the extensive reform of bank regulation after the crisis, which has had much consequence for the industry (most of it salutary), it is the process of examination and supervision that constitutes the bulk of our ongoing engagement with the industry and through which our policy objectives are given effect.
+This division of labor is important for lawyers and policymakers to think about deeply because the processes of regulation and supervision are necessarily different in crucial respects.
+Regulation establishes a binding public framework implementing relevant statutory imperatives.
+Because a rule is designed to apply generally, rules must be based on general principles intended to achieve general aims, rather than reverse-engineered to generate specific effects for specific institutions.
+Given their general applicability, there must be a general process for all those with an interestâ€”industry, academics, citizens, Congressâ€”to have notice of, and opportunity to comment on all rules, ensuring that all potential effects and points of view are taken into account in the rule's crafting.
+And given their general function, rules must be clear and public: those affected must know what to expect and what is expected.
+Supervision, by contrast, implements the regulatory framework through close engagement with the particular facts about particular firms: their individual capital and liquidity positions, the diverse composition of their distinct portfolios of assets, their business strategies, the nature of their operations, and the strengths and weaknesses of their management.
+Bank supervisors review and analyze bank information and interact with bank management, enabling them to make necessary judgments about the bank's safety and soundness.
+Much of the granular information used by supervisors is, accordingly, proprietary and confidential, and many of their judgments and decisions are closely tailored to specific circumstances.
+Given the strong public interest in the safe, sound, and efficient operation of the financial industry and the potential for hair-raising and widespread adverse social consequences of private misjudgment or misconduct in that industry, close and regular supervision of this sort can help us all sleep restfully.
+Yet, the confidential and tailored nature of supervision sits uncomfortably with the responsibilities of government in a democracy.
+In the United States, we have a long-standing, well-articulated framework for ensuring that regulations conform with the principles of generality, predictability, publicity, and consultation described above.
+Supervisionâ€”for good reason, in my viewâ€”is not subject to this formal framework.
+But it is currently not subject to any specific process constraint promoting publicity or universality.
+This leaves it open to the charge, and sometimes to the fact, of capriciousness, unaccountability, unequal application, and excessive burden.
+Here, then, is a conundrum.
+We have a public interest in a confidential, tailored, rapid-acting, and closely informed system of bank supervision.
+And we have a public interest in all governmental processes being fair, predictable, efficient, and accountable.
+How do we square this circle?
+In my time with you today, we will not do more than scratch the surface of this question.
+It is a complex and consequential issue that, for decades now, has received far too little attention from practitioners, academics, policymakers, and the public.
+Evaluating this question will be a significant focus of mine going forward, and I hope that there will be much discussion in many fora from which we at the Fed, and at other regulators, can learn.
+So today, I simply want to open the exploration of some these conceptual issues, and then offer some specific suggestionsâ€”by no means comprehensiveâ€”on some obvious and immediate ways that supervision can become more transparent, efficient, and effective.
+The Importance of Transparency Let me begin by delving a little more deeply into the distinction between regulation and supervision and the process applicable to both.
+In granting to agencies such as the Fed the significant power to write regulations, Congress has codified a regulatory process that emphasizes transparency.
+This process was born in the 1930s, in the tumult of government expansion that was the New Deal, when Congress began a decade-long debate over how to manage the new regulatory state.
+The result was the Administrative Procedure Act (APA).
+The APA continues to serve as the basis for the public disclosure and participation required for agency rule-writing and for the judicial review affected parties are guaranteed to challenge rules.
+This transparency is intended to prevent arbitrary, capricious, and thus ineffective regulation by inviting broad public participation and mandating a deliberate public debate over the content of proposed rules.
+One obvious purpose of this transparency is to provide clarity and predictability: it helps make clear how agencies are considering exercising their discretion.
+The significant process protections in laws such as the APA are also meant to ensure fairness.
+The wisdom behind this approach is that fairness both helps bring forth more considered and effective regulations and builds respect for and adherence to the law, which is essential for enforcement.
+Transparency is central to our ability to assert that our rules are fair.
+Not everything that government does, however, can be accomplished in exactly the same way that regulations are written.
+One of these things is bank supervision.
+Bank Supervision Banks are subjected to supervision, in addition to regulation, as an additional form of government oversight because of their complexity, opacity, vulnerability to runs, and indispensable role in the economy, enabling payments, transmitting monetary policy, and providing credit.
+The government provides a safety net to banks in the form of deposit insurance, and in return, banks are subject to government oversight that mimics some of the monitoring that the private sector would provide, absent the government safety net.
+The bank regulatory framework sets the core architectural requirements for the banking system, but it isn't enough to set the rules and walk away like Voltaire's god.
+The potential consequences of disruption in the financial system are so far-reaching, and the erosion of market discipline resulting from the government safety net sufficiently material, that it is neither safe nor reasonable to rely entirely on after-the-fact enforcement to ensure regulatory compliance.
+Supervisors are in a good position to monitor individual firms' idiosyncratic risks.
+And in addition to what they do at individual banks, supervisors monitor for risk that may be building among clusters of banks or across the banking system.
+These "horizontal" exams across multiple banks help highlight new or emerging risks and help examiners understand how banks are managing these risks.
+Through their engagement with banks, supervisors promote good risk management and thus help banks preemptively avert excessive risk taking that would be costly and inefficient to correct after the fact.
+Where banks fall materially out of compliance with a regulatory framework or act in a manner that poses a threat to their safety and soundness, supervisors can act rapidly to address the failures that led to the lack of compliance or threat to safety and soundness.
+This is a crucial point: supervision is most effective when expectations are clear and supervision promotes an approach to risk management that deters bad behavior and decisions by banks.
+Clearly communicating those expectations is essential to effective supervision, and in a larger sense, clear two-way communication is the essence of effective supervision.
+Supervisors rely on banks to be frank and forthcoming, and supervisors in turn can help secure that frankness by explaining what their expectations are and why their expectations are reasonable, not arbitrary or capricious.
+Greater transparency in supervision about the content of our expectations and about how we form our expectations and judgments can make supervision more effective by building trust and respect for the fairness and rationality of supervision.
+I don't believe the Federal Reserve has communicated as clearly as it could with the banks we supervise.
+More transparency and more clarity about what we want to achieve as supervisors and how we approach our work will improve supervision, and I have several specific proposals, which I have discussed in more detail than I will get into today and plan to implement expeditiously.
+Broadly speaking, these actions fall into three categories: (1) large bank supervision, (2) transparency improvements, and (3) overall supervisory process improvements.
+Let me briefly touch on some of the specific changes I will pursue, and which flow from the themes I have just discussed.
+And as a disclaimer, I should note that previously I have mentioned more specifics, so this abbreviated list should not be taken as a ranking or indication that certain ideas have fallen out of favor.
+First, I would mention that we should pursue a clear and transparent standard that aligns our supervisory portfolios, and by extension the intensity of our supervision, with categories established in our recent regulatory tailoring rules.
+Last fall, we completed a cornerstone of the recent banking legislation to tailor our rules for large banks.
+This change would be entirely consistent with a principle at the heart of our existing work: Firms that pose greater risks should meet higher standards and receive more scrutiny.
+To carry forward this work aligning supervision with the regulatory tailoring rules, I believe there is a compelling justification to make changes today to the composition of foreign banks in our portfolio of the largest banks, known as LISCC.
+Second, as I have discussed throughout my time at the Board, I continue to look for ways to make our stress tests more transparent without making them game-able and without diluting their potency as a supervisory tool.
+I expect that we will continue to provide more transparency on the models we use for the stress tests, and on the hypothetical scenarios.
+Additionally, I am advocating changes to our capital plan rule that will allow banks to receive and study their supervisory stress testing results prior to submitting their capital plans.
+Currently, banks have a very limited time to adjust their capital distribution plans and only under limited circumstance.
+Third, and principally as a transparency endeavor, I would endorse creating a word-searchable database on the Board's website with the historical interpretations by the Board and its staff of all significant rules.
+Regulatory interpretations by Board staff have grown piecemeal over the decades and haven't consistently been treated as the valuable resource they are.
+The Board's website has select interpretations of many laws but does not provide a comprehensive, user-friendly collection of regulatory interpretations, FAQs, and commentary.
+Fourth, I endorse putting significant supervisory guidance out for public comment.
+The Board already invites comments on its regulations, as required under the APA, and regularly invites comment on some supervisory guidance and statements of policy.
+This practice of seeking comment on significant guidance leads to better, more informed supervision and better engagement by banks.
+And fifth, the Board should adopt a rule on how we use guidance in the supervisory process.
+I would expect the rule to state that the Board will follow and respect the limits of administrative law in carrying out its supervisory responsibilities.
+In particular, consistent with the September 2018 interagency statement on guidance, we would affirm the sensible principles that guidance is not binding and "non-compliance" with guidance may not form the basis for an enforcement action (such as a cease-and-desist order) or supervisory criticism (such as a Matter Requiring Attention (MRA)).
+This rule would be binding on the Board and on all staff of the Federal Reserve System, including bank examiners.
+There are of course other ideas I have mentioned and will be pursuing, but this partial list should be informative and helpful in illustrating the earlier themes I mentioned.
+Conclusion The changes to supervision since the crisis have made the financial system stronger and more resilient than it was before.
+The incremental changes I am considering, to increase transparency, accountability, and fairness, would make supervision more efficient and effective, and our financial system stronger and more stable.

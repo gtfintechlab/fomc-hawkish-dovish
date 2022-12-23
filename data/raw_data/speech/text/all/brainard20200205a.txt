@@ -1,0 +1,140 @@
+By transforming payments, digitalization has the potential to deliver greater value and convenience at lower cost.
+But there are risks.
+Some of the new players are outside the financial system's regulatory guardrails, and their new currencies could pose challenges in areas such as illicit finance, privacy, financial stability, and monetary policy transmission.
+Given the stakes, the public sector must engage in order to ensure that the payments infrastructure is safe as well as efficient and fast, assess whether regulatory perimeters need to be redrawn or new approaches are needed in areas such as consumer data and identity authentication, and explore the role of central bank digital currencies in ensuring sovereign currencies stay at the center of each nation's financial system.
+These issues are complicated and consequential.
+I will only touch on them today in the spirit of sketching out an agenda for the public sector along with the private sector and research community.
+Digital Players Technology firmsâ€”from BigTechs to FinTechsâ€”are driving the digital transformation of payments.
+Not only are the new players bringing innovation to the way payments are made between businesses and consumers and peer-to-peer, but they are bringing new business models that bundle payments with other activities in novel ways.
+Payments have traditionally been a service provided by trusted intermediaries such as banks.
+The operations of banks and some related financial service providers, such as card companies, are subject to regulatory oversight for sound risk management.
+Banks offer important consumer protections, including deposit insurance, error resolution, and fraud protection.
+In addition to providing payments services, banks generally provide credit, with deposits providing stable funding.
+Many banks rely at least in part on legacy technology.
+In contrast, BigTechs tend to be established platforms with massive user networks that provide payments in support of core nonfinancial servicesâ€”ranging from commercial transactions to social engagement to mobile apps to search engines.
+In China, the majority of consumers and businesses participate in two mobile payment networks, Alipay and WeChat Pay, which by some accounts handled more than $37 trillion in mobile payments in 2018.2 BigTechs and FinTechs typically leverage cloud-based platforms and computing power, along with mobile applications, often to provide different combinations of services and enhanced user experiences.
+They generally benefit from network effects: the more users they have, the more convenience and benefit new users derive from joining.
+These network benefits may be augmented by leveraging economies of scale and scope in user data for a host of purposes, from prioritizing which information is pushed to users to allocating and pricing credit to sharing reviews.
+The entrance of BigTech and FinTech into payments may drive competition, enhance product offerings, and lower transactions costs.
+It has the potential to enhance financial inclusion by expanding the number and diversity of ways people gain access to financial services and by creating more consumer friendly offerings.
+A Federal Deposit Insurance Corporation (FDIC) study found that 8.4 million households are unbanked and an additional 24 million are underbanked.3 These households often rely on more-expensive means of payments, including nonbank providers and bank money orders.
+Many have smartphones, which could facilitate access to payment apps.
+The entry of big technology networks into payments brings risks as well as benefits.
+Statutory and regulatory protections on bank accounts in the United States mean that consumers can reasonably expect their deposits to be insured up to a limit; their banks to be held to strong data security standards; many fraudulent transactions to be the liability of the bank; transfers to be available within specified periods; and clear, standardized disclosures about account fees and interest payments to be readily available.
+Consumers may not appreciate that nonbank providers might not provide the same protections.
+Further, the integration of payments with a variety of consumer services that rely intensively on user data raises the urgency of questions surrounding data security, how consumers' financial data are used, and the circumstances under which the data are disclosed to third parties.
+Unlike many foreign central banks, the Federal Reserve does not have plenary authority over payment systems.
+No federal agency does.
+The Federal Reserve has broad authority over payment systems that are designated as systemically important by the Financial Stability Oversight Council or that are chartered as entities for which the Federal Reserve is the primary supervisor.
+These authorities cover two large-value interbank payment systems but no retail payment system to date.
+The banking agencies may oversee certain aspects of a nonbank payment system to the extent there is a bank nexus, under the Bank Service Company Act, or bank affiliation, under the Federal Deposit Insurance Act.4 However, this oversight will be quite limited to the extent that nonbank players reduce or eliminate the nexus to banks, such as when technology firms develop payments services connected to digital wallets rather than bank accounts and rely on digital currencies rather than sovereign currencies as the means of exchange.
+Given the growing role of nonbank technology players in payments, a review of the nation's oversight framework for retail payment systems could be helpful to identify important gaps.
+A good place to start may be contrasting the U.S. oversight framework for retail payment systems with other jurisdictions.
+Many foreign central banks, for example, have explicit authority for general retail payments oversight.5 Moreover, most jurisdictions require that payment systems obtain a license and/or registration before commencing operations.
+A 2018 World Bank study found that the large majority of jurisdictions have some sort of license and/or registration requirement for mobile money platforms, payment card networks or switches, or clearinghouses.6 The United States requires registration of a money transmitter at the federal level for purposes of Bank Secrecy Act/Anti-Money-Laundering compliance, but it does not require broader federal oversight of payment system operators.7 In contrast to other jurisdictions where there is explicit responsibility for broad regulation of payment systems, the Federal Reserve's role as an operator has instead long formed the basis of the U.S. approach to promoting accessible, safe, and efficient payments.
+Since the Federal Reserve Banks opened for business around the country in 1914, as directed by the Congress, they have provided payment and settlement services in competition with private-sector providers.
+Real-Time Infrastructure So let's turn to our retail payments infrastructure, which touches every American.
+While new players are making important contributions to the digital transformation of payments, it is critical that consumers and businesses can achieve the same speed and efficiency using their trusted deposit account providers with the safety and security they have come to expect.
+To make this possible, it is vital to invest in real-time retail payments infrastructure with national reach.
+Today, it can take a few days to get access to your funds.
+A real-time retail payments infrastructure would ensure the funds are available immediatelyâ€”to pay utility bills or split the rent with roommates, or for small business owners to pay their suppliers.
+Immediate access to funds could be especially important for households on fixed incomes or living paycheck to paycheck, when waiting days for the funds to be available to pay a bill can mean overdraft fees or late fees that can compound.
+Similarly, for small businesses, getting immediate access to funds from a sale in order to pay for supplies can be a game-changer.
+The latest evolution in the payments infrastructure is faster payments, in which the payment message is transmitted and funds are settled between banks and made irrevocably available to recipients in real (or near-real) time.
+Consistent with the real-time and anytime nature of faster payments, settlement takes place in real time on a 24-hour, seven-day basis.
+We are committed to closing the gap between the transaction capabilities in the digital economy and the underlying payment and settlement capabilities.
+Recognizing that consumers and businesses across the country want and expect real-time payments, and the banks they trust should be able to provide this service securely, this summer, the Federal Reserve announced that it is building its first new payments rail in more than forty yearsâ€”the FedNow Service.8 FedNow will facilitate end-to-end faster payment services, increase competition, and ensure equitable and ubiquitous access to banks of all sizes nationwide.
+Together, the Clearing House's RTP and FedNow are moving the U.S. banking system to real-time retail payments.
+These systems will enable consumers and businesses to settle retail transactions in real time, at any time, and allow them to manage their money with greater flexibility.
+RTP and FedNow should significantly increase the speed and efficiency of the U.S. payment system.
+Given the importance of safety in faster payments, providing access to more than one real-time payment service for back-up purposes will enhance resiliency.
+The Federal Reserve has always had a vital role in the payment system by providing liquidity and operational continuity in times of stress, and FedNow will extend this role into the real-time retail payments market.
+The addition of FedNow should also provide a neutral foundation for private sector innovation in developing end-user services.
+Some stakeholders noted that a single provider that is owned and operated by one segment of the payment industry may focus on a limited set of use cases instead of the full breadth of possible use cases for faster payments.
+The FedNow team is already hard at work determining initial business requirements.
+The comment period for the Federal Register notice seeking public input into FedNow features and designs closed in November, and we are analyzing the nearly 200 letters submitted.9 We understand the urgency among stakeholders to launch FedNow quickly with features that support safe, efficient, and ubiquitous faster payments.
+Digitalization of Currencies Digital transformation of payments extends not only to the systems and players, but also to the medium of exchange.10 The existing payments system combines central bank money, commercial bank money, and certain kinds of nonbank private money, which provide a medium of exchange based on the U.S. dollar as a unit of account.
+By contrast, some technology players have payment systems based on their own digital currency rather than the sovereign currency.
+Depending on their design and scale, private digital-currency-based payment systems could magnify concerns surrounding illicit activity and consumer risk, while potentially creating challenges for the public sector's ability to safeguard financial stability and use monetary policy to buffer the economy.
+Central bank money is important for payment systems because it represents a safe settlement asset, allowing users to exchange central bank liabilities with confidence in their acceptance and reliability.
+In the United States, central bank money is composed of paper currency and money held in deposits at the Federal Reserve Banks.
+Commercial bank moneyâ€”money held in deposits at commercial banksâ€”is widely used because consumers and businesses trust that the money they deposit with a commercial bank can be converted, on demand, into a claim on another commercial bank's money or currency.
+This confidence owes in large part to bank deposit insurance and the fact that commercial banks are supervised and regulated.
+Nonbank private money based on the U.S. dollar as the unit of account exists on a smaller scale for a variety of consumer uses, particularly in closed-loop payment systems like prepaid cards and digital wallets.
+In some cases, such nonbank private assets may have value only within the network, while in other cases, the issuer may promise convertibility to a sovereign currency, such that this becomes a liability of the issuing entity.
+Although various federal and state laws establish protections for users, issuers of nonbank money are not regulated to the same extent as banks, the value stored in these systems is not insured directly by the FDIC, and consumers may be at risk that the issuer will not be able to honor its liabilities.
+To provide a sense of the scale, PayPal Holdings Inc. had customer accounts that totaled $22.5 billion as of September 30, 2019; Walmart had roughly $1.9 billion in deferred gift card revenue as of October 31, 2019; and Starbucks reported $1.6 billion in stored-value card liabilities as of September 2018â€”more than the deposits at many banks.11 In contrast, cryptocurrencies introduce separate units of account.
+Built using distributed ledger technologies, cryptocurrencies typically allow for peer-to-peer payments without the need for a financial intermediary.
+The private sector is exploring uses of distributed ledger technologies to create a wide range of payment instruments, some that are designed to resemble traditional commercial bank money, some that look similar to Bitcoin, and some that have attributes more similar to securities.
+Cryptocurrencies vary across multiple attributes, including whether the arrangement is open to everyone or only approved entities and whether they are intended for general-purpose use or for wholesale use.
+One important design choice is whether a digital currency is account-based or token-based.
+From an accounting perspective, there is an account structure for the asset owner and for the asset itself.
+Individual accounts could take the form of traditional account structures of commercial banks or be pseudo-anonymous.
+The accounting of the asset itself could take the form of debiting and crediting account balances or tracking of specific "tokens."
+Another key design consideration is the method for authenticating the asset ownerâ€”to open an account and to make transactions.
+Traditionally, identity authentication is done by the account provider, but new tools, such as biometrics, may be required for decentralized systems.
+A third important design variant is convertibility.
+Private-sector digital currencies vary in important ways with regard to whether they are linked in a legally binding way to a sovereign currency.
+A decade ago, Bitcoin was heralded as a new kind of digital money that would serve as a store of value, means of exchange, and unit of account delinked from any sovereign currencies without the need for centralized governance.
+Bitcoin has not achieved widespread acceptance as a means of payment or unit of account because of its extreme volatility, as well as limited throughput capacity, unpredictable transaction costs, limited or no governance, and limited transparency.
+Stablecoins were designed specifically to overcome the volatility of first-generation cryptocurrencies by tying the digital currency to an asset or basket of assets, such as commercial bank deposits or government-issued bonds.
+Unlike first-generation cryptocurrencies, they may be issued by a central entity and rely on third-party institutions for some aspects.
+But even within this broad class of digital currencies, stablecoins vary widely in their underlying reference assets and the associated "exchange rate," the ability to redeem the stablecoin claims for the underlying assets, and the extent to which a central issuer is liable for making good on redemption rights.
+Because Facebook has an active user network of one-third of the global population, the company's Libra global stablecoin project has imparted urgency to the debate over what form money can take, who or what can issue it, and how payments can be recorded and settled.
+Any stablecoin project with global scale and scope faces a core set of legal and regulatory challenges.
+Cryptocurrencies already pose risks associated with fraudulent activity, consumer losses, and illicit activity, and these could be magnified by a widely accepted stablecoin for general use.
+Not only is it not clear what protections or recourse consumers would have with regard to their global stablecoin transactions and balances, but it is also not clear how much price risk consumers will face in cases where they do not appear to have claims on the stablecoin's underlying assets.
+If not managed effectively, liquidity, credit, market, or operational risksâ€”alone or in combinationâ€”could affect financial stability, triggering a loss of confidence and run-like behavior.
+The precise nature of the risk would be driven in part by how the stablecoin is tied to an asset (if at all), the underlying legal arrangements, and the features of the asset itself.
+For smaller economies, there may be material effects on monetary policy from private-sector digital currencies as well as foreign central bank digital currencies.
+In many respects, these effects may be the digital version of "dollarization," with the potential for a faster pace and wider scope of adoption.
+Central Bank Digital Currencies The prospect for rapid adoption of global stablecoin payment systems has intensified calls for central banks to issue digital currencies in order to maintain the sovereign currency as the anchor of the nation's payment systems.
+In a Bank for International Settlements survey of 66 central banks, more than 80 percent of central banks report being engaged in some type of central bank digital currency (CBDC) work.12 The motivations for this work range from payments safety and robustness for advanced economies to payments efficiency for emerging economies.
+The latest survey suggests there is greater openness to issuing a CBDC than a year ago, and a few central banks report that they are moving forward with issuing a CBDC.
+Building on the tremendous reach of its mobile payments platforms, China is reported to be moving ahead rapidly on plans to issue a digital currency.13 Given the dollar's important role, it is essential that we remain on the frontier of research and policy development regarding CBDC.
+Like other central banks, we are conducting research and experimentation related to distributed ledger technologies and their potential use case for digital currencies, including the potential for a CBDC.
+We are collaborating with other central banks as we advance our understanding of central bank digital currencies.
+In assessing CBDC in the U.S. context, there are policy and design issues to explore, as well as legal considerations.
+It is important to consider whether a new form of digital central bank liability might improve the payment system, taking into account the innovations offered by the private sector.
+We would need to consider whether adding a new form of central bank liability would reduce operational vulnerabilities from a safety and resilience perspective.
+Another consideration is whether a CBDC would reduce complexity in payments, improve end-to-end processing, or simplify recordkeeping.
+With regard to cross-border payments, it is important to consider what would be required in terms of cross-border cooperation for CBDCs to address current frictions and reduce costs.
+It is also vital to consider the implications for the broader financial system of the issuance of a CBDC.
+In light of considerations of privacy and guarding against illicit activity, issuance of a digital currency would raise important questions about what kinds of intermediaries might provide CBDC transaction accounts for consumers.
+While some proposals are centered on commercial bank intermediaries, others propose new types of intermediaries that might develop with a narrow focus on payments.
+New types of intermediaries in turn could create a need for new types of accounts and new forms of oversight.
+Related to this, the design of any CBDC needs to address important questions surrounding financial stability.
+A variety of approaches have been put forward to address the potential run risk associated with the ability to convert commercial bank deposits into CBDC with a simple swipe.14 There are also important legal considerations.
+It is important to understand how the existing provisions of the Federal Reserve Act with regard to currency issuance apply to the CBDC.
+It is also important to consider whether CBDC would have legal tender status, depending on the design.
+While the legal framework is well-established with regard to the rights and protections for Federal Reserve notes in the current system, it is untested for new instruments such as CBDC and, more generally, other digital currencies.
+A different approach may be necessary to ensure that holders of CBDC have appropriate protections, including privacy rights, fraud protection, digital identity safeguards, and data protection.
+These are some of the issues that would need to be addressed before deciding to issue a CBDC in the United States.
+Some of the motivations for a CBDC cited by other jurisdictions, such as rapidly declining cash use, weak financial institutions, and underdeveloped payment systems, are not shared by the United States.
+Physical cash in circulation for the U.S. dollar continues to rise because of robust demand, and the dollar plays an important role globally.
+We have a robust and diverse banking system that provides important services, along with a widely available and expanding variety of digital payment options.
+Agenda Ahead The digitalization of currencies and payments is being driven by technology players that are bringing new business models to this space and fresh attention to age-old questions.
+While the potential for seamlessly integrated and lower-cost transactions brings important benefits, digitalization also brings risks.
+In the United States no less than in other major economies, the public sector needs to engage actively with the private sector and the research community to consider whether new guardrails need to be established, whether existing regulatory perimeters need to be redrawn, and whether a CBDC would deliver important benefits on net.
+1.
+I am grateful to Paul Wong and Jacqueline Cremos of the Board of Governors of the Federal Reserve System for their assistance in preparing this text.
+These remarks represent my own views, which do not necessarily represent those of the Board of Governors or the Federal Open Market Committee.
+Return to text 2.
+Frank Tang and Doug Palmer, "U.S.-China Trade War Deal Could Be Too Late for the Likes of Mastercard, American Express and Visa," South China Morning Post, April 2, 2019, https://www.scmp.com/economy/china-economy/article/3004180/us-china-trade-war-deal-could-be-too-late-likes-mastercard.
+Return to text 3.
+Federal Deposit Insurance Corporation, FDIC National Survey of Unbanked and Underbanked Households 2017 (PDF) (Washington: FDIC, October 2018).
+Return to text 4.
+The Bank Service Company Act grants the federal banking agencies the authority to regulate and examine third-party service providers that perform certain services for supervised banks.
+The Federal Deposit Insurance Act provides the banking agencies with enforcement powers to address unsafe and unsound practices, violations, and breaches of fiduciary duty by supervised banks and their institution-affiliated parties.
+Return to text 5.
+Bank for International Settlements, Committee on Payment and Settlement Systems, Policy Issues for Central Banks in Retail Payments (PDF) (Basel: BIS, March 2003).
+In some countriesâ€”such as Australia, the Netherlands, and Singaporeâ€”the central bank oversees all retail payment systems, whereas in othersâ€”such as Canada, Switzerland, and the United Kingdomâ€”the central bank oversees systemically important payments, while another authority oversees payments that are not systemically important.
+Return to text 6.
+World Bank Group, Payment Systems Worldwide: A Snapshot (PDF) (Washington: World Bank, September 2018).
+Return to text 7.
+For example, PayPal and Square are organized as money services businesses in the United States and subject to regulation by most states, while PayPal is organized as a bank in Luxembourg, and Square is licensed as an authorized payment institution in the United Kingdom.
+Return to text 8.
+See Lael Brainard, "Delivering Fast Payments for All," (PDF) (remarks at the Federal Reserve Bank of Kansas City Town Hall, Kansas City, Missouri, August 5, 2019).
+Return to text 9.
+Federal Reserve Actions to Support Interbank Settlement of Faster Payments, 84 Fed.
+Reg.

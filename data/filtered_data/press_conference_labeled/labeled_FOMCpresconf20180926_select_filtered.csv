@@ -1,0 +1,60 @@
+Unnamed: 0,sentence,label,score
+0,"And I think the fact that we have moved quite gradually, in a way, allows us to carefully watch incoming data in the real economy and in the financial markets to see how the economy is processing higher interest rates.",LABEL_1,0.9960702657699585
+1,"We have disparate points of view, which we debate extensively and come to a perspective and try to set monetary policy to achieve maximum employment in a context of price stability.",LABEL_2,0.5267196297645569
+2,"So in terms of financial markets and monetary policy, we—as we say in our statement every cycle, we do take financial conditions into consideration because financial—broader financial conditions do affect the broader economy, and they’re one of the many things that we take into account.",LABEL_2,0.9997407793998718
+3,"The part of it that we control, though, is what we do with the federal funds rate and that has—that has effects out through, you know, out through the full interest rate curve and into financial asset prices generally.",LABEL_2,0.9997374415397644
+4,What we’re going to be doing as we—as we go through time is asking at every meeting whether monetary policy is set to achieve our goals.,LABEL_2,0.9995830655097961
+5,"The Committee forecasts what they—what they show, in general, is an economy where unemployment remains in the high and middle 3s throughout the entire forecast period and inflation remains very close to 2 percent.",LABEL_2,0.9966030120849609
+6,"And that is based on our understanding of the way the inflation process works now and on the fact that the inflation seems to be fairly nonreactive to changes in slack— that is to say, a flat Phillips curve.",LABEL_2,0.9996141195297241
+7,And it’s just—it’s a—it’s a world of strongly anchored inflation expectations.,LABEL_1,0.9993438124656677
+8,Now let’s just admit that the inflation process has changed dramatically from where it was in the 1960s to where it is now.,LABEL_2,0.9997478127479553
+9,"If inflation reacts more strongly or more weakly to the strong economy, then we’ll adjust policy appropriately.",LABEL_2,0.9994499087333679
+10,"One is that if we move too quickly, we can, you know, snuff out a recovery unnecessarily, and inflation falls short of its 2 percent target.",LABEL_1,0.9265683889389038
+11,"And we think that gradually, you know, raising interest rates is the way that we kind of take both of those risks seriously.",LABEL_1,0.9993653893470764
+12,"You know, employment is high, wages are rising, that sort of thing.",LABEL_1,0.9893151521682739
+13,"If you look at asset prices, it is true that some asset prices are in the upper range of their historical—upper reach of their historical ranges.",LABEL_1,0.9751071333885193
+14,"Trade generally supports productivity, supports higher incomes.",LABEL_1,0.6599410772323608
+15,"Part of it may be higher oil prices, which are calling for more investment in the September 26, 2018 oil patch.",LABEL_1,0.9917751550674438
+16,"But, you know, the growth picture is very much supported by very high readings of Chairman Powell’s Press Conference FINAL household confidence, business confidence, so it’s a—it’s a—it’s a—it’s a pretty particularly bright moment, I think.",LABEL_1,0.7543278336524963
+17,"The idea is to encourage more investment, and that is one of the things that drives productivity, which is one of the main things that drives rising incomes.",LABEL_1,0.8602717518806458
+18,"But, you know, as I said, we—I certainly hope—I hope that we’ll be marking up our estimates of potential growth as well.",LABEL_1,0.5077880620956421
+19,"You know, the main thing where we might need to move along a little bit quicker would be if inflation—inflation surprises to the upside.",LABEL_1,0.9947400689125061
+20,"In terms of what, you know, what we would do—you know, I think we’re always going to be adjusting monetary policy to—in light of conditions on the ground.",LABEL_2,0.9997040629386902
+21,It’s one of the things that has allowed the unemployment rate not to fall further.,LABEL_0,0.9969120025634766
+22,"You know, so you could see prices moving up.",LABEL_2,0.9415825605392456
+23,"You don’t see it yet, but we—you could see retail prices moving up.",LABEL_1,0.9967156648635864
+24,"The tariffs September 26, 2018 might provide a basis for companies to raise prices in a world where they’ve been very reluctant Chairman Powell’s Press Conference FINAL to and unable to raise prices, where raising prices is really difficult, you know, with the ability to shop on the internet.",LABEL_1,0.9458067417144775
+25,"We’re seeing a sort of modest increase in wages, inflation right around 2 percent, no sense of it moving up really, so we’re not seeing it yet.",LABEL_2,0.8826330304145813
+26,The dot plot is individual FOMC participants who are writing down their individual views on the evolution of the economy and of appropriate monetary policy.,LABEL_2,0.9998058676719666
+27,"You know, we put that in the statement in 2015, just when we lifted off, and the idea was to provide assurance that we weren’t trying to slow down the economy, but, in fact, we were still—interest rates were still going to be pushing to support economic activity.",LABEL_0,0.5315247178077698
+28,"But if you look at—look at interest rates, you know, interest rates—look at long-term interest rates this year and short-term interest rates this year, there’s very significant increases.",LABEL_1,0.9983060359954834
+29,"You know, what we’re going to be doing, assuming we September 26, 2018 stay on this path, is, we’re going to be carefully monitoring incoming data from the financial Chairman Powell’s Press Conference FINAL markets and from the economy and asking ourselves whether our policy is achieving the goals we want to achieve—you know, sustain the economy, maximum employment, stable prices.",LABEL_2,0.9795761108398438
+30,"Yeah, we look—of course, we look at that very carefully, and interest rates are going up across a broad range of consumer borrowing, as they would when we raise short-term interest rates.",LABEL_1,0.999068558216095
+31,"You know, the effect on consumer spending is a very Chairman Powell’s Press Conference FINAL important channel through which interest rates work, and so we do monitor the effects.",LABEL_2,0.9998084902763367
+32,"So, in principle, the—these starred variables—the long-run growth rate of the economy, the neutral rate of interest, the natural rate of unemployment—don’t move quickly.",LABEL_2,0.9998466968536377
+33,"In the case of the funds rate, it’s more—it’s productivity—it’s appetite for safe assets and demographics and other things, too.",LABEL_0,0.9881709814071655
+34,"It’s a tenth we’re talking about here, so—but still, I think it’s a positive thing that people could be raising their estimates of the longer-run neutral rate and potentially the longer-run growth rate.",LABEL_1,0.6357360482215881
+35,"And maybe reducing their level of the natural rate of unemployment, which has been the trend.",LABEL_0,0.8549245595932007
+36,"I don’t expect a dramatic recovery there, but, you know, we—we’re so bad at forecasting productivity.",LABEL_2,0.9963591694831848
+37,It’s just very hard to know when productivity is going to arrive and in what quantity.,LABEL_2,0.9961357116699219
+38,"A slowing down in job growth would be an indicator, you know.",LABEL_0,0.9734619855880737
+39,An unexpectedly sharp increase in wages or inflation could tell you that you’re reaching those points.,LABEL_1,0.9994024038314819
+40,"You know, if headline growth slowed down, that’s another one.",LABEL_0,0.951354444026947
+41,"So the U.S. economy is, as I mentioned, is strong and is at a pretty positive moment, you know, with strong growth, healthy labor market, inflation right on target, as I mentioned.",LABEL_1,0.9751204252243042
+42,"So—and we’ve seen growth abroad, but growth, I think, both in advanced economies and in some emerging economies has slowed down a little bit.",LABEL_2,0.9916071891784668
+43,It could be—it could therefore mean that some of our demand will wind up being shared with other economies.,LABEL_0,0.9925784468650818
+44,"You know, if you’re—if you’re looking for real wage increases, you’ve got to ask inflation, and there, you have to pick an inflation measure.",LABEL_2,0.7619723677635193
+45,"And that—the trend there is running around 2 percent, so if wages are running at rough—wages and benefits running at roughly 3 percent and inflation running at around 2 percent.",LABEL_2,0.9998165965080261
+46,PCE headline inflation is at 2.3 percent.,LABEL_2,0.9996672868728638
+47,"PCE core is at about 2, and I think we see that, you know, the temporary increase in headline inflation as being a function of oil prices probably, and we expect inflation to go back down to 2 percent.",LABEL_1,0.9880039691925049
+48,And we do—we do monetary policy.,LABEL_2,0.9529829025268555
+49,"These are, you know, this is—this is the economy at nearly full employment or in the range—in the neighborhood of full employment.",LABEL_2,0.9997712969779968
+50,Interest rates are low.,LABEL_1,0.9987713694572449
+51,"Well, we serve a domestic mandate, which is assigned to us by Congress, and that is to have maximum employment and stable prices.",LABEL_0,0.9854809641838074
+52,"About half of global GDP is outside the United States, and way more than half of the growth is outside the United States and in emerging markets, I should say.",LABEL_1,0.9979508519172668
+53,"I’d also say that, you know, a strong U.S. economy, where Americans are buying things and the economy is growing and our—you know, that’s going to support demand all around the globe, so that’s a good thing.",LABEL_2,0.9971362352371216
+54,"Now, we do understand, though, that when we—when our economy is strong and we’re raising rates, that puts upward pressure on interest rates around the world and can affect countries, particularly countries that have significant external dollar borrowing.",LABEL_1,0.9588898420333862
+55,"It’s a relatively small number, and those particular countries have, you know, have particular vulnerabilities, which are well known in the form of budget deficits, and significant external dollar borrowings, and high inflation, and things like that.",LABEL_1,0.9990618824958801
+56,"So, again, we’ll continue to conduct U.S. monetary policy as transparently as we September 26, 2018 possibly can, and that’s really the best thing we can do, along with supporting U.S. growth.",LABEL_1,0.9548240900039673
+57,So I don’t comment on the appropriateness of the level of stock prices.,LABEL_2,0.9990805387496948
+58,"A simple drop in equity prices is— all by itself, doesn’t really have those features.",LABEL_2,0.999852180480957

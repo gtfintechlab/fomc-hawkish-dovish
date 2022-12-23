@@ -1,0 +1,90 @@
+Changes in technology, business needs, and regulation are affecting both of these areas in important ways, and in some cases with highly visible results.
+Deregulation of the U.S. financial industry over the past ten years has helped to support dynamic and creative financial markets.
+During the same time, accelerating changes in technology have created new financial products and services as well as whole new ways of conducting financial business.
+Outside the United States, similar forces have been at work, although the details depend on the particular country or region.
+One of the largest recent changes has been the introduction of the euro and its effects on the structure of financial markets in Europe.
+The next step in this process will be taken next January when euro notes and coins will be put into circulation.
+In both the United States and overseas, there also have been a significant number of bank mergers, some of them very large, arising from these changing financial industry dynamics.
+G-10 Study of Financial Sector Consolidation Against this background of ongoing change in financial structure, the finance ministers and central bank governors of the Group of Ten countries commissioned a major study of the possible effects of financial consolidation.
+I was asked to oversee that study, whose key findings were published last January and covered thirteen developed countries, including the United States.
+The study documented the high levels of mergers and acquisitions among financial firms during the 1990s, including a noticeable acceleration during the last three years of the decade.
+Most of the consolidation was within countries and within segments of the financial sector.
+Cross-border or cross-sector consolidations have so far been less frequent.
+The data we collected suggested a number of conclusions.
+For example, financial consolidation has concentrated payment and settlement flows among fewer parties.
+The risk implications of this consolidation deserve close monitoring.
+In addition, the study found that although consolidation has some potential to improve the operating efficiency of the combined financial institutions and has done so in some cases, the overall evidence in favor of efficiency gains is weak.
+The study also found that the effects of consolidation on competition and credit flows are very case specific and depend on the nature of the markets for specific products and services.
+While the study found that financial consolidation has not significantly affected either the conduct or the effectiveness of monetary policy, we also concluded that central banks should remain alert to how future consolidation may affect the competitiveness of the markets that are most important to monetary policy.
+Central banks should also monitor potential future changes in the transmission mechanisms for monetary policy.
+Finally, the study concluded that existing policies appear adequate to address risks to the individual firm and systemic risks now and over the intermediate term.
+Looking ahead, however, the study identified a number of areas that deserve careful attention by policymakers.
+For example, enhanced contingency planning could reduce systemic risk should a large and complex financial institution become seriously distressed.
+Because no institution is too big to fail, I believe that regulators should also develop a clearer understanding of key factors such as the administration of bankruptcy laws and conventions across borders; the coordination of supervisory policies within and across borders; the treatment of over-the-counter derivatives, foreign exchange, and other financial market activities in distress situations; the roles and responsibilities of managers and boards of directors; and the administration of the lender-of-last resort function.
+Our study also helped clarify the need for international attention to contingency planning.
+In general, both crisis prevention and crisis management would improve with additional communication and cooperation among financial supervisors domestically and among central banks, finance ministries, and other financial supervisors internationally.
+Evolution of the Payment System and Strategies for Further Change Payment systems, especially retail payment systems, have also been evolving over time, although not dramatically.
+Unlike the households of ten or twenty years ago, however, households now frequently receive wages and salaries electronically and buy goods and services using credit or debit cards.
+The past few years have seen varied levels of development, both here and abroad, of new card-based and software-based payment instruments and systems, such as electronic money and Internet payment systems.
+Yet cash and checks remain the mainstays of retail commerce in the United States; this is a testament to the broad convenience of these instruments, developed over a long period, and the public's confidence in them.
+But the payment system is continuing to evolve.
+At some point, it is likely that the use of checks will start to decline, as it has in several other developed countries.
+One factor involved in this change is the increasing use of debit cards as a substitute for some check payments, especially those made at a merchant's point of sale, or POS.
+In some countries, such as Canada and the United Kingdom, this substitution has progressed substantially, and consumers now use debit cards widely.
+In the United States, we have seen the use of debit cards grow strongly over the past few years, fueled by the use of signature-based cards developed by the credit card networks.
+Another recent development is the increasing adoption of programs to "convert" or "electronify" checks at the point of sale.
+These programs typically use a check, or information from a check, to generate an electronic payment from the consumer to the merchant that is cleared through the automated clearinghouse (ACH) or electronic funds transfer (EFT) networks.
+In a sense, these programs turn a check into a disposable debit card.
+This analogy raises the question of what we can learn from the use of checks to initiate electronic payments and whether these programs are simply a transition stage to a more extensive electronic payment system.
+I believe these programs continue to deserve monitoring as we go forward.
+This evening I would also like to mention an old debate about the merits of check truncation, a debate that goes back at least to the late 1960s and early 1970s, when many observers of the payment system first began predicting the quick rise of a cashless and checkless society.
+In the past, the banking industry and the Federal Reserve have studied suggestions for the widespread truncation of checks at the bank of first deposit or at an intermediary bank to reduce the costs of the check-collection system.
+The results of these studies have been sensitive to assumptions about technology, transition costs, implementation timing, discount rates, and other factors.
+In addition, assumptions about the storage and retrieval of truncated checks or their images can affect an analysis.
+Most fundamentally, the degree to which banks and the public accept truncation and the associated electronic presentment of checks significantly affects the banking industry's ability to achieve economies of scale and standardization throughout a truncation and electronic collection system.
+Historically, sensitivity to these key assumptions has injected uncertainty into the business case for check truncation and electronic collection.
+As a result, the banking industry has faced difficult decisions about whether to invest in the truncation of checks or to invest in fully electronic payment technologies, such as the ACH or card networks, while encouraging their customers to initiate electronic payments from the beginning of a payment process.
+To date, the industry has done some of both, with business strategies varying across banking organizations.
+With recent declines in technology costs and increasing consumer acceptance of check truncation, however, some banks have accelerated their efforts to truncate checks.
+The Federal Reserve Banks now electronically present more than 20 percent of the checks they collect, of which one in four are also truncated at the Fed.
+Several banks, including the Federal Reserve Banks, are also building data archives in which to store digital images of checks to replace microfilm technologies and to provide mechanisms to process images of truncated checks.
+Some commercial banks also believe that greater automation of check data within their organizations, along with other customer information, can significantly speed and improve the overall quality of their customer service.
+These banks tend to see check truncation, electronic presentment, and check imaging as parts of a larger business strategy linked to automation, not simply as stand-alone, back-office operations.
+Other banks tend to analyze these automation steps more narrowly as tools to reduce back-office costs, and they remain somewhat skeptical about the business case for truncation and related activities.
+Payments System Development Committee I would like to turn now to the Payments System Development Committee, which is working with the private sector to better understand the issues arising from the evolution of the retail payment system.
+The committee, which I co-chair with Cathy Minehan, President of the Boston Fed, was established by the Federal Reserve Board in mid-1999 to (a) identify strategies for enhancing the long-term efficiency of the retail payment system, (b) identify barriers to innovation and work to reduce or eliminate those barriers when doing so is in the public interest, (c) monitor market developments, and (d) conduct workshops and forums for focused discussions about the payment system with the private sector.
+One of the committee's key projects during the past year has involved working with the public and private sector on a long-run strategy for facilitating the market adoption of check truncation and greater electronic check processing when this makes economic sense.
+The basic idea is that if a bank believes that truncating some or all of the checks it receives makes business sense, it should be able to do so without worrying about demands by other parties that the original check must be located and presented.
+When such demands are made, a legally sanctioned paper copy of the original could be provided in place of the original.
+A federal statute would provide the legal framework within which such a paper copy--or substitute check--would be produced, along with safeguards against paying the same check twice and other potential problems.
+The market theory of this approach is that by facilitating the use of substitute paper checks when a paper check is preferred, larger investments in truncation and electronic presentment may become economical over the longer term.
+In short, through this approach, the demand of some for paper checks will carry less weight in the business decisions of the many.
+Moreover, those who want a paper check will be able to obtain it with a minimum of inconvenience.
+With more electronic infrastructure, however, check collections potentially will be faster and cheaper, and customer-banking platforms within commercial banks may become more technologically integrated.
+In the end, the goals are to reduce the social cost of the payment system and to improve the technical foundation for providing financial services.
+The Payments System Development Committee also is working on various legal and regulatory issues, standards, and the future of clearing and settlement.
+In the regulatory area, for example, the committee has encouraged the Board's staff to revise the commentary to Regulation E, which implements the Electronic Fund Transfer Act, to reduce residual barriers to electronic innovations.
+Revisions last March helped clarify the legal status of the various "check conversion" projects that I noted earlier.
+In the standards area, we are closely following the work being done under the aegis of the American National Standards Institute (ANSI) on standards that would support the use of substitute checks within the context of both bilateral and multilateral industry efforts to pursue check truncation.
+In addition, this past June, the committee held a one-day workshop on the implications of XML (eXtensible Mark-up Language) for the payment system.
+This workshop, held at the Boston Fed, involved a variety of representatives from both the private and public sectors.
+The workshop's major purpose was to provide the committee with a number of different views on the significance of XML for the payment system and the possibility of adopting a widely shared and flexible computer language for exchanging electronic payment messages and related information.
+Those discussions and other information suggest that XML is becoming increasingly important in the financial markets and that it raises interesting possibilities for the future.
+In the clearing and settlement area, the committee is discussing how new technology and business needs will interact to affect the design and functions of clearing and settlement systems in the future.
+Some have observed that in the long run, new technologies, along with the needs of e-business, will lead to important changes in clearing and settlement systems.
+In addition, the use of new technologies to conduct traditional payment system operations in more efficient and effective ways will also drive change.
+Both banks and end-users of the payment system are now discussing many issues and ideas.
+The committee has asked a group of staff to conduct further discussions with interested organizations and bring back to the committee a broader view of the current debate in this area.
+Finally, the committee is continuing to encourage survey research on the use of different payment systems.
+The Federal Reserve's Retail Payment Office is currently sponsoring several surveys to obtain more accurate data on both electronic and check payments being made in the United States.
+It is particularly important that we have a better idea of how many checks are being written in order for the banking industry and the public to understand better and plan for the evolution of the payment system.
+The technical work of "cleaning the numbers" collected in the surveys is continuing, and we hope to publish data from the survey later in the year.
+Conclusion In conclusion, I would like to emphasize that our financial system is continuing to evolve, as it must in a dynamic and competitive market economy.
+Financial consolidation at the national level has occurred relatively quickly, although much less so at the level of individual banking markets.
+The recent G-10 study did not find fundamental problems with developments to date.
+It did, however, outline some practical steps the authorities can take to help better manage potential risk to the financial system and outlined a number of areas that should be monitored and analyzed further over the longer term.
+Overall, the U.S. payment system continues to evolve slowly, but there have been steady changes and a great deal of experimentation over the past few years.
+Although we are not likely to see paper payment instruments disappear, electronic payment systems are being used more widely and creatively than in the past.
+On-line banking and other services are giving bank customers new and convenient mechanisms to initiate and receive electronic payments.
+However, simple ideas such as electronic bill payment by consumers and businesses have turned out to be more of a challenge than we imagined a few years ago.
+In addition, as the market continues to experiment with new systems, the old themes of reliability, security, privacy, and confidence need to be repeated often.

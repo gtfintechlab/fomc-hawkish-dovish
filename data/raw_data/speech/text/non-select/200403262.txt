@@ -1,0 +1,118 @@
+I have known Dale, Dick, and Peter a long time in my various roles here as staff economist, Division director, and Board member.
+Actually, I met Dale first, when I was still at the Federal Reserve Bank of Kansas City, visiting Washington to interview for a job in the Research and Statistics Division at the Board.
+At that time Dale spent a whole afternoon trying to help me figure out the analytics of an article I was writing for the Kansas City economic review.
+A frustrating experience I am sure for Dale, and a frustration that Peter and Dick were soon to encounter, but one that improved the piece immeasurably.
+I had decided to come here in any case if I got a job offer, but my experience with Dale just reinforced my desire and my excitement at the opportunity to work with people of his caliber and his willingness to understand and help his colleagues and would-be colleagues.
+I began to work with Dick and Peter sometime after I arrived here.
+It took a while, inasmuch as they were over at the Watergate in temporary quarters while the Martin building was under construction.
+I suspected that folks over there were having more fun than those of us slaving away in the Eccles Building under adult supervision--a suspicion later confirmed when I found out that the "One Step Down" so often mentioned by Watergate economists did not refer to the entrance to the computer center, but rather to a certain watering hole on Pennsylvania Avenue.
+The Watergate seemed somewhat alien and forbidding territory to a current analyst.
+But as I became more involved in the research work and as they migrated back to the Martin Building, I found Dick and Peter and the other researchers just as stimulating and congenial colleagues as I had anticipated.
+I want to highlight and celebrate their careers here, but I want to do so in the context of our overall research effort and its critical role at the Board.
+Their accomplishments illustrate nicely what is best about what we do here, though I am sure they would agree that their leadership of the overall research effort and the path they set it on represent a more important contribution than their individual output.
+Research at the Board--The Historical Context The importance of economic research was recognized very early at the Federal Reserve.
+The Board encouraged and supported research activities virtually from the founding of the System.
+Throughout its history, it also provided an inviting and collegial environment for research economists, including many who continued their research at other policy institutions or universities and some of whom also came back to the Federal Reserve in leadership positions over the years.
+By the 1920s, Board economists had already made a number of important research contributions.
+In part, these early research efforts were driven by necessity.
+When the Federal Reserve started its operations in 1914, aggregate data for the United States were virtually non-existent.
+Early research efforts at the Federal Reserve included the pathbreaking compilation of statistical indexes that permitted policymakers, for the first time in the nation's history, to monitor macroeconomic developments with some degree of accuracy.
+Besides measures of credit and indexes of industrial production that the Federal Reserve still produces today, during those early years the Board staff developed and published various other indexes for such critical concepts as aggregate sales, employment, payrolls, and prices.
+Coupled with advances in estimating seasonal factors and secular trends, these early efforts vastly improved economists' understanding of the interrelationships of prices, production, employment, and credit and facilitated a more systematic study of the business cycle and the role of monetary policy.
+Another important advance was the recognition of the powerful role of open market operations in the policy process.
+Open market operations were not new when the Federal Reserve was created.
+But in the 1920s, the Federal Reserve first showed how they could be employed for effective monetary control, and this demonstration proved an invaluable contribution to the development of modern central banking.
+Further, Federal Reserve economists and policymakers developed criteria and guidelines for monetary policy aimed at achieving and maintaining economic stability.
+The policy framework outlined in the Board's tenth annual report (for 1923) is widely praised by monetary historians.
+Indeed, by 1923, when the Board organized the Division of Research and Statistics (the precursor of all three modern research divisions at the Federal Reserve), research economists at the young institution were at the forefront of policy-relevant economic research and the Federal Reserve had probably become the first central banking institution at which economic policy research provided a solid analytical basis for policy discussions and decisions.
+To be sure, economic knowledge does not evolve in a straight path and setbacks are inevitable and unfortunate--the monetary policy failures of the 1930s and those of the 1970s are powerful reminders of that.
+But the research tradition that had started in the early days of the System is still with us, and today arguably plays a more central role in the policy process than ever before.
+Characteristics of Research at the Board For the most part, research at the Board has for many years been closely intertwined with policy and with current analysis and forecasting.
+In many other countries, it is not.
+At many central banks, research and current analysis are carried out in separate divisions, and interaction between the two groups of economists is limited.
+At the Board, the mixing of research and operational work was not quite as thorough as it is today.
+In the 1970s and 1980s, many researchers, such as our three honorees, were doing work directly applicable to policy.
+But others had few day-to-day responsibilities and were fairly free to concentrate on long-run research projects, some of which appeared to have only tenuous connection to the work of the Board.
+Such a division of the staff was not popular with everyone, and tensions did arise.
+Partly for this reason, the distinction between operational and research sections was largely eliminated by the early 1990s.
+This move not only improved morale, it also led to a cross-fertilization of ideas that improved the quality of both research and policy analysis.
+Researchers actively engaging in policy analysis and participating in Federal Open Market Committee preparations better understand the issues facing policymakers and can target their efforts.
+On occasion--rare, I suspect--research economists actually benefit from the ideas of the policymakers.
+They also come to appreciate that policymakers need to hear sensible stories in clear English about the concepts being presented so that the policymakers in turn can explain understandably to the public why they are following a particular strategy.
+Getting some researchers to write in English has proved daunting, and too often, the policymakers themselves have not lived up to their side of the bargain.
+The engagement of researchers in the policy process has served to remind them that social welfare is not necessarily enhanced by pursuing only academically fashionable topics.
+In fact, Board staff, like monks in the Middle Ages, kept policy research alive through the dark night that initially settled on academic analysis of monetary policy following the Lucas critique and real-business-cycle theory.
+From the policymaker's perspective, researchers have improved the decisionmaking process by keeping in view the overall economy, with all its interactions.
+They remind us that if you push on the system in one place--altering an assumption or an implicit equation--it will have consequences elsewhere.
+Those little ad hoc adjustments policymakers find so convenient are not a free good.
+Researchers set high standards for analytical rigor.
+Policy must have a sound intellectual base.
+Policymakers should be able to write down their models, even if in only a sketchy literary form.
+If those models cannot be articulated, they are probably flawed.
+And researchers can improve the policy process by thinking creatively and bringing new ideas and approaches to the table--ideas they have generated themselves or have harvested from recent academic work that may not be easily accessible to the policymakers.
+Contributions of Henderson, Porter, and Tinsley to Board Research Henderson, Porter, and Tinsley have contributed to policymaking in all those ways.
+I have chosen to outline their contributions by grouping them into the broad subject areas that have occupied much Board research.
+Large-scale macromodels In many important respects, large-scale modeling of the U.S. and world economies has been at the crossroads of policy and research at the Federal Reserve since the 1960s.
+Those models are used in forecasting and policy analysis; their results show up in every Greenbook, many Bluebooks, and in briefings to the Board and the FOMC.
+Dale, Dick, and Peter have all been deeply involved and very influential in these efforts.
+Peter's contributions to large-scale modeling in R&S have been immense.
+They came in two waves, but with remarkable intellectual consistency and foresight.
+In the late 1960s and early 1970s, he wrote a number of papers related to the design of structural models, in early efforts to combine forward-looking behavior with significant costs of adjustment.
+Of course, more recently, in the 1990s, he returned to these themes and worked them out in guiding the construction of FRB/US.
+Perhaps even more important, Peter pioneered the use of these models in policy analysis with his work on optimal control in the 1970s.
+It did not find a very receptive audience back then, but it has returned more recently in policy simulations to a slightly warmer welcome--owing in part to the influence of the better modeling mousetrap Peter and his colleagues constructed.
+A few years after he arrived here as a visiting professor, Dick became head of the section in R&S that housed the MPS model.
+As head of the section from the mid-1970s to the late 1980s he fought for the resources necessary to continue developing the model and expanding its policy use, an important undertaking under any circumstances but particularly so during that tumultuous period for policy-relevant modeling work.
+Dick also played a crucial role in advancing a set of internal projects to produce operational procedures for the estimation and simulation of large-scale rational expectations models--tools that facilitated later model development work at the Board and elsewhere.
+Although Dale never directly oversaw the large modeling efforts in the International Finance Division, he has played a key role in the Division's efforts through the years.
+Dale made several contributions to the basic economics of the Multi-Country Model, and one of his models was used to set forth the MCM's properties.
+Dale was a major advocate of the model development efforts that led to FRB Global.
+He also played a large role in the two Brookings model projects that greatly advanced the large modeling field.
+Other model-based analysis The building and simulation of large models is not the only way researchers can contribute to policy design.
+Policymakers are looking for insights that are not so dependent on the particular model construct.
+All three of our honorees have been involved in an enormous volume of research in this area.
+Dale did path-breaking work on the international policy coordination problems that arose with the breakdown of the Bretton Woods system.
+Along with other Brookings Project participants, Dale carried out much of the original research into simple interest rate policy rules, with important and influential insights on the characteristics that might be helpful in jointly stabilizing activity and prices.
+He is now involved in the investigation of optimal strategies in the context of DGE models.
+And I certainly would not want to neglect his recent insightful work that places inflation targeting under a skeptical microscope.
+A good deal of Dick's output in this area has involved the monetary aggregates.
+He has worked on virtually every aspect of the aggregates: the demand for money; their definition and measurement; their control; and their use in policy design--including the P-star model that developed an idea by a certain A. Greenspan.
+It is easy to forget how central the aggregates were to policymaking at a time when structural change and rapid changes in inflation expectations reduced the usefulness of large-scale models.
+Dick's work was integral to providing and explaining the framework that broke the back of inflation in the late 1970s and early 1980s, and it has been widely used by other central banks.
+While the discipline provided by stricter monetary aggregate guides became much less crucial once inflation was brought under control, Dick's work has continued to provide us with useful reminders of the value of monitoring money.
+Moreover, the only reason that we have some confidence that one-half to two-thirds of U.S. currency is held abroad is because Dick's inquisitive mind wondered along such paths as differential seasonality across countries and fish migration.
+Peter also was deeply involved in the monetary aggregates research in the 1970s--so much so that he was willing to take on Dick over the definition of M1.
+Peter lost, but not until after a valiant struggle adjudicated by Steve Axilrod.
+Later in his career, Peter came up with innovative approaches to policy at the zero bound for interest rates, a potentially critical issue in a period of very low inflation.
+Asset prices Asset markets are of particular interest to policymakers as the transmission channel through which movements in money or short-term interest rates primarily affect the economy.
+Because their prices incorporate market expectations for the future, they are also an area in which policy indicators might be found.
+The huge literature on speculative attacks in exchange markets started with Dale's work with Steve Salant on gold.
+It significantly influenced the thinking of an intern at the Board, one P. Krugman, who, in his pre-political mode, extended the thinking to foreign exchange crises.
+Dale's understanding of exchange markets intersected with his understanding of macroeconomics and policy in a number of studies that have tried to inject sense and analysis into discussions of sterilized interventions.
+Dick's work on asset markets includes his seminal work with Steve LeRoy on variance bounds tests on present-value relations.
+Their demonstration that equity prices were excessively volatile relative to what would be consistent with the efficient capital markets model posed a fundamental challenge to the theory of finance and spearheaded a vast literature aimed at improving our understanding of asset pricing and market efficiency.
+During the 1980s, Peter also contributed to understanding in this area through his work on commodity price determination and the indicator properties of such prices for monetary policy.
+More recently, Peter--working jointly with Sharon Kozicki--has been busy advancing our understanding of bond market dynamics.
+In a sequence of papers, they have demonstrated the important role played in these dynamics by changes in the market's perception of long-run "end-points," such as the implicit target for inflation and the economy's equilibrium real interest rate.
+Empirical methodology Because we are a policy institution held accountable for actual outcomes, research at the Board has always involved empirical testing.
+And in this area, Board researchers have often been found pushing out the production-possibility frontier for the profession more generally.
+Our heroes have battled in this area as well, both through their insistence on the best possible empirical work and their own contributions to methods of computation and testing.
+Early in his career, Dick contributed to the literature on filtering and seasonal time series analysis--topics of perennial interest at the Federal Reserve.
+He also worked on the use of survey sample weights in the linear model, on estimating linear models with partial prior information, and on other topics, always motivated by pressing empirical questions and ready to explore and adopt new methods and techniques whenever they promised to improve the odds of a more reliable answer.
+Back in the mid-1970s, Peter was an early advocate of using advanced statistical techniques in policy analysis--at a time when IBM mainframes were a long way from a Pentium 4.
+Working with P.A.V.B.
+Swamy and others, Peter carried out the herculean task of estimating random-coefficient models.
+He also investigated the gains to forecast accuracy from pooling the predictions of multiple models, a path that eventually led to the ambitious model-linkage project of the 1980s.
+Unsung contributions Policy work need not always pay off in lots of published papers or even in success to have a favorable influence.
+Dick's work on currency demand and the amount of U.S. currency held abroad has been published, of course, but its greatest public policy payoff has come behind the scenes, in helping the U.S. government look more effectively for counterfeiters.
+Peter burned countless hours of staff and machine time chasing the holy grail of a monthly estimate of GDP.
+Monthly GDP remained an elusive quarry, but the techniques he pioneered in the process became an integral part of the tool kit used by sector analysts to translate high-frequency indicators into predictions of near-term movements in quarterly GDP and its components.
+Dale has slaved many hours helping refine the Division of International Finance positions on hardy perennials like the sustainability of the U.S. current account and the effectiveness of sterilized intervention.
+Leadership The most important contributions these three made were as colleagues and leaders.
+They have reminded us every day in our interactions with them that ideas are important and that policy must have a rigorous intellectual framework--one capable of being discussed and tested.
+They have insisted that policy analysis incorporate the latest insights from economic theory and econometrics.
+They have fought the Philistines who saw research as a soft target in times of budget crunch; they made sure the Board did not eat its intellectual seed corn.
+They recognized that one role of research at the Board has been to challenge the policymakers, to be an irritant--sometimes with considerable success--to think outside the tidy intellectual boxes too often found in the minds of Division directors and Board members.
+My early encounter with Dale on my Kansas City Fed article was indeed characteristic.
+Each has always been willing to lend a hand working through a tough problem and helping explain to a slower colleague--over-and-over again, in my case.
+They have been active recruiters and mentors to generations of economists, leading as much by example as by the particular position they happened to occupy in the staff bureaucracy.

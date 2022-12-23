@@ -1,0 +1,74 @@
+Unnamed: 0,sentence,label,score
+0,"My plan is to start with my outlook for the U.S. economy in 2022, and then describe what I consider the appropriate path of monetary policy to keep the economy on a healthy and sustainable course.1 But, before I get into that discussion, let me comment on what I think is on everyone's minds today, Russia's attack on Ukraine.",LABEL_2,0.9983731508255005
+1,"Turning to my outlook for the economy, my greatest concern is continued elevated inflation.",LABEL_1,0.9994218349456787
+2,"Inflation is too high, and I think concerted action is needed to rein it in.",LABEL_1,0.9994753003120422
+3,"The Federal Open Market Committee (FOMC) has multiple tools to tighten monetary policy, and I will go into some detail about how I believe the Fed should approach increasing the target range for the federal funds rate and reducing the size of the balance sheet.",LABEL_1,0.9984186887741089
+4,But let me start with the outlook for economic activity.,LABEL_2,0.9998278617858887
+5,"I expect the economy to continue expanding at a healthy rate this year, slower than in 2021 but still at a solid pace that will keep employment growing strongly.",LABEL_1,0.9829455614089966
+6,"While there are some signs that the effects of the Omicron variant have dampened economic growth in the last month or two, it does not appear to have affected hiring, given the healthy jobs report for January.",LABEL_0,0.8182582259178162
+7,The combination of strong consumer demand and supply constraints has produced very high inflation.,LABEL_1,0.999117910861969
+8,"The consumer price index (CPI) was up 7.5 percent for the 12 months through January, the highest yearly rate in 40 years.",LABEL_1,0.9993242025375366
+9,"With appropriate monetary policy, and the expected easing in supply constraints, I am hopeful inflation will move down over the course of this year, even with the recent geopolitical developments.",LABEL_1,0.998862624168396
+10,"Nevertheless, the path of inflation is the biggest risk to my outlook.",LABEL_1,0.9994908571243286
+11,"As we move through this year, I can't emphasize enough how much this outlook, and the appropriate stance of monetary policy, will be influenced by the data that we see about the performance of the economy.",LABEL_2,0.9997720122337341
+12,"With that in hand, I will evaluate the outlook with respect to the Fed's dual mandate in determining the appropriate setting for monetary policy.",LABEL_2,0.9998199343681335
+13,The Labor Market Let's start with where the economy stands with respect to maximum employment.,LABEL_2,0.9996067881584167
+14,I now believe we have achieved the FOMC's objective of maximum employment.,LABEL_1,0.9190214276313782
+15,"These revisions helped explain why we saw such large and steady declines over the year in the unemployment rate, which fell from 6.4 percent in January 2021 to 4 percent in January 2022, which happens to be the median of FOMC participants' December estimates of the longer-run unemployment rate.",LABEL_2,0.9846056699752808
+16,"Accounting for retirees leaving the workforce, I estimate that employment is close to the levels of February 2020, right before the pandemic shock hit the economy and when the target range for the federal funds rate was much higher than the current target range.",LABEL_1,0.5547519326210022
+17,"The January job numbers were just one monthly report, but one reason I have the confidence to declare that maximum employment has been reached is the message January sent about the durability of the continuing recovery.",LABEL_1,0.9973128437995911
+18,"It has been hazardous to predict much about the economic effects of the pandemic more than a month or two out, but I'm comfortable saying we are at maximum employment in part because of the evidence that the labor market is continuing to strengthen.",LABEL_1,0.996800422668457
+19,"Labor force participation isn't growing as much as one would expect with the hot job market, but apparently it's growing enough to keep the job creation machine humming.",LABEL_2,0.9943495392799377
+20,Another factor that signals we are at maximum employment is the continued rise in measures of labor compensation.,LABEL_0,0.8542969226837158
+21,"The broadest measure of labor compensation, covering wages and benefits, is the employment cost index, which for private sector workers rose at a 4.7 percent annual rate in October, November and December, the fastest pace in 20 years.",LABEL_1,0.9988150596618652
+22,Job vacancies also indicate labor demand is exceptionally strong with nearly 3 million more vacancies than individuals looking for work.,LABEL_0,0.9924719333648682
+23,"Inflation While I will continue to watch data on the labor market, I am focusing most of my attention on inflation, which is far too high and needs to come down.",LABEL_1,0.9991132616996765
+24,"In December, some people were a little surprised to hear me say that inflation was ""alarmingly high,"" but after the latest inflation numbers, I think we all should be alarmed.",LABEL_1,0.9987977743148804
+25,"It is alarming because high inflation is especially painful for lower- and middle-income people, who don't have a choice about paying more for gasoline, groceries, shelter, and other necessities.",LABEL_1,0.9983970522880554
+26,"It is alarming because of the risk that high inflation could become ingrained in people's expectations and prove difficult to rein in, undermining economic growth.",LABEL_1,0.9994890689849854
+27,It was the 11th consecutive month that inflation exceeded 2 percent.,LABEL_1,0.9995077848434448
+28,"The FOMC targets another measure of inflation, the price deflator for personal consumption expenditures (PCE), which will be reported tomorrow.",LABEL_1,0.9885261058807373
+29,"But for both measures, inflation has been increasingly broad-based for quite some time.",LABEL_2,0.9995470643043518
+30,"For the CPI, better than 70 percent of items measured are up 3 percent or more in the last 12 months, and for PCE inflation, 60 percent of items were up that much in December.",LABEL_1,0.9990605711936951
+31,"High inflation is a significant problem for individuals and families, and it makes it difficult for businesses to control costs and adjust prices.",LABEL_1,0.9273887872695923
+32,"There is also the risk that the public's expectations of future inflation rise significantly, which affects spending decisions in the short term and thus can have the effect of driving inflation even higher.",LABEL_1,0.9994766116142273
+33,Keeping longer-term inflation expectations anchored is vitally important for monetary policy.,LABEL_1,0.9995604157447815
+34,"In fact, the FOMC's Statement on Longer-Run Goals and Monetary Policy Strategy emphasizes that longer-term inflation expectations that are well anchored at 2 percent foster price stability and enhance the Committee's ability to promote maximum employment in the face of significant economic disturbances.",LABEL_1,0.9983354210853577
+35,Surveys of consumers' expected inflation over the next year moved up quite notably through 2021 and are currently elevated.,LABEL_1,0.9967092275619507
+36,And the public's expectations of inflation over the next five years have risen as well.,LABEL_1,0.9994701743125916
+37,"That said, five-year inflation expectations are where they were over the past couple of decades when inflation stayed low.",LABEL_1,0.9970979690551758
+38,"For example, future inflation measured by investors trading inflation-adjusted securities has 5-to10-year implied compensation around 2.2 percent, which, adjusted for the FOMC's preferred measure, PCE, is close to 2 percent.",LABEL_2,0.9997778534889221
+39,"In the same way that expectations of much higher inflation can drive a cycle of ever-increasing inflation, when expectations are ""anchored"" and don't move significantly, it can have the effect of helping moderate surges in inflation, such as the one we have seen over the past year.",LABEL_2,0.9968175888061523
+40,"As for what inflation does next, I think anyone who makes a forecast has to own the fact that very few of us foresaw how much inflation would increase in 2021.",LABEL_1,0.9658266305923462
+41,"We underestimated the extent to which supply constraintsâ€”from bottlenecks to labor supply shortagesâ€”and strong demand would drive up inflation, and we thought bottlenecks and shortages would begin to resolve sooner than now.",LABEL_1,0.9919542670249939
+42,"I think we have a clearer idea today of the effect of those factors on inflation but going forward we need see how geopolitical effects influence energy, commodity, and other prices.",LABEL_1,0.9994794726371765
+43,"With some humility, while I am alarmed about the level of inflation and a bit uncertain about how the near-term may play out, I am hopeful that these factors and their price effects are likely to ease in the second half of 2022 and that with appropriate monetary policy, inflation will be coming down significantly by year end.",LABEL_2,0.9997280240058899
+44,"I will be watching closely the data on supply pressures and how those feed into total consumer prices, and I'll be monitoring carefully to see whether expectations rise out of a range that would suggest they are becoming unanchored.",LABEL_2,0.9998250603675842
+45,Appropriate Monetary Policy Now let me spell out what my outlook implies for appropriate monetary policy over the course of 2022.,LABEL_1,0.9994590878486633
+46,"Based on the inflation data in hand, I believe the Fed needs to act promptly to begin tightening monetary policy.",LABEL_1,0.5154358744621277
+47,"As I said earlier, I believe that we have achieved our employment goal and that the labor market will keep improving, which means there should be no delay in responding to inflation that is significantly above our target.",LABEL_2,0.9997803568840027
+48,"The FOMC has already taken actions to end asset purchases in early March, and I believe that the recent inflation and jobs reports have made the case to begin raising the target range for the federal funds rate at our March FOMC meeting.",LABEL_1,0.9995798468589783
+49,"That is, I expect inflation to remain elevated and only show modest signs of deceleration over the next several months.",LABEL_1,0.9976660013198853
+50,"As a result, I believe appropriate interest rate policy brings the target range up to 1 to 1.25 percent early in the summer.",LABEL_1,0.999618411064148
+51,"That would be a bit below where rates were at the outbreak of the pandemic, when inflation was considerably lower, and before we more than doubled the Fed's balance sheet, so I consider this a necessary and prudent start to tightening policy.",LABEL_1,0.9902235865592957
+52,"But if, for example, tomorrow's PCE inflation report for January, and jobs and CPI reports for February indicate that the economy is still running exceedingly hot, a strong case can be made for a 50-basis-point hike in March.",LABEL_1,0.7127864360809326
+53,"In this state of the world, front-loading a 50-point hike would help convey the Committee's determination to address high inflation, about which there should be no question.",LABEL_1,0.9991937279701233
+54,"With the economy at full employment and inflation far above target, we should signal that we are moving back to neutral at a fast pace based on the performance of the economy, and a 50-basis point hike would help do that.",LABEL_1,0.999530553817749
+55,"No matter the near-term path of reducing accommodation, the FOMC must respond decisively to the data so as to maintain our credibility that we will bring down inflation.",LABEL_1,0.9995854496955872
+56,"We constantly say we have the tools to fight inflation, and now we must demonstrate the will to use them.",LABEL_1,0.9995539784431458
+57,"If high inflation persists, then I would most likely support that we continue hiking, and potentially increase the pace of tightening.",LABEL_1,0.9991521835327148
+58,"If inflation moderates in the second half of the year, as I expect, and as market participants expect, then we can slow the pace of tightening or even pause.",LABEL_1,0.9989163875579834
+59,"The FOMC has not decided when to begin the reduction in the size of the balance sheet, but we issued a set of principles last month that make it clear that changing the target range of the federal funds rate is our principal monetary policy tool, and that balance sheet reductions through the ""runoff"" from maturing securities would commence after rate hikes have begun.",LABEL_1,0.999447762966156
+60,The pace of the reduction in asset holdings has not been determined but will be consistent with promoting the FOMC's employment and inflation goals and will be communicated well in advance to the public so that the plan is predictable.,LABEL_1,0.9929617047309875
+61,"Second, the Committee was considering moving to an ample reserves regime for conducting monetary policy, where we wanted to keep the banking system flush with reserves.",LABEL_1,0.9249378442764282
+62,"Third, the economy was in a much different place; in particular inflation was much lower.",LABEL_0,0.7966415286064148
+63,"So even with a hefty reduction in holdings over the next year, we will still have a balance sheet that will be more than sufficiently large enough to conduct monetary policy.",LABEL_0,0.9608179926872253
+64,"Second, the Fed's overnight reverse repurchase agreement facility, put in place to help conduct monetary policy, receives a large amount of deposits each day.",LABEL_2,0.9944283962249756
+65,"Thinking about possible monetary policy actions in 2022, I expect it will be a very fluid year.",LABEL_2,0.9974837303161621
+66,It is interesting to note that these dramatic changes in actual and anticipated monetary policy have occurred without volatility or strain in financial markets.,LABEL_2,0.5995239019393921
+67,I believe the FOMC has been highly effective in communicating its shifting outlook for the economy and appropriate policy actions as the data revealed that inflation was increasing much more than forecasters expected.,LABEL_2,0.9997774958610535
+68,Another point to make about the big changes in actual and anticipated monetary policy is that they are showing up in the financial data today.,LABEL_2,0.9997712969779968
+69,"Although the Fed hasn't started raising rates or reducing the balance sheet, interest rates have moved up notably.",LABEL_1,0.9992645382881165
+70,"In the past couple months, inflation and employment data have been sending the same, unequivocal messageâ€”it is time to start tightening monetary policy.",LABEL_2,0.9996565580368042
+71,I will continue to monitor the geopolitical situation to assess the appropriate timing of this near-term monetary policy tightening.,LABEL_1,0.9994416832923889
+72,"These actions will get us into the second half of the year, when we will have six months of inflation data, and we can assess what the appropriate path will be for the rest of 2022.",LABEL_1,0.9995172023773193

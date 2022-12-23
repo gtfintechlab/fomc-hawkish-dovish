@@ -1,0 +1,26 @@
+Unnamed: 0,sentence,label,score
+0,"First, to implement an effective monetary policy to meet our legislated objectives.",LABEL_2,0.9992414712905884
+1,"But, second, to do so in a most open and transparent manner in recognition that we, as unelected officials, are accountable both to the Congress from which we derive our monetary policy mission and, beyond, to the American people.",LABEL_2,0.9996764659881592
+2,"Milton Friedman--whose effect on monetary policy, especially here at the Federal Reserve Bank of St. Louis, is legendary--is one with such sharply refined skills.",LABEL_2,0.9998179078102112
+3,We need to remember that in decades past it was believed that monetary policy was most effective when it was least transparent.,LABEL_2,0.9996387958526611
+4,"The argument back in the 1950s, as I remember it, was that market uncertainty created significant differences of opinion in the direction of the prices of short-term debt instruments.",LABEL_2,0.9998143315315247
+5,"Simply put, financial markets work more efficiently when their participants do not have to waste effort inferring the stance of monetary policy from diffuse signals generated in the day-to-day implementation of policy.",LABEL_2,0.9997233748435974
+6,And being clear about that stance has not constrained our ability to adjust the stance of monetary policy in either direction.,LABEL_2,0.9997640252113342
+7,"In recent years, we have achieved a far better balance, in my judgment, between transparency and effective monetary policy implementation than we thought appropriate in the past.",LABEL_2,0.9997491240501404
+8,"At each step, we need to review whether in our judgment this new degree of openness optimizes the Federal Reserve's ability to implement effective monetary policy in the context of maximum feasible disclosure.",LABEL_2,0.9998138546943665
+9,"As a result, the Federal Reserve can be quite explicit about its ultimate objectives--price stability and the maximum sustainable growth in output that is fostered when prices are stable.",LABEL_1,0.9914917349815369
+10,"By price stability, however, I do not refer to a single number as measured by a particular price index.",LABEL_2,0.9998077750205994
+11,"In fact, it has become increasingly difficult to pin down the notion of what constitutes a stable general price level.",LABEL_2,0.9996324777603149
+12,"When industrial product was the centerpiece of the economy during the first two-thirds of the twentieth century, our overall price indexes served us well.",LABEL_2,0.9998528957366943
+13,"The price of a ton of cold rolled steel sheet, or a linear yard of cotton broad-woven fabrics, could be reasonably compared over a period of years.",LABEL_2,0.9998409748077393
+14,"But in our new century, the simple notion of price has turned decidedly ambiguous.",LABEL_2,0.9997742772102356
+15,What is the price of a unit of software or a legal opinion?,LABEL_2,0.999672532081604
+16,How does one evaluate change in the price of a cataract operation over a ten-year period when the nature of the procedure and its impact on the patient has changed so radically?,LABEL_2,0.999627947807312
+17,"Indeed, how will we measure inflation, and the associated financial and real implications, in the twenty-first century when our data--using current techniques--could become increasingly less adequate for tracing price trends over time?",LABEL_2,0.9995854496955872
+18,"Hence, we must assume that embodied in all products is some unit of output, and hence of price, that is recognizable to producers and consumers and upon which they will base their decisions.",LABEL_2,0.9997333884239197
+19,"Doubtless, we will develop new techniques of price measurement to unearth those units as the years go on.",LABEL_2,0.9998180270195007
+20,"It is crucial that we do, for inflation can destabilize an economy even if faulty price indexes fail to reveal it.",LABEL_1,0.9916696548461914
+21,"For all these conceptual uncertainties and measurement problems, a specific numerical inflation target would represent an unhelpful and false precision.",LABEL_2,0.9995854496955872
+22,"Rather, price stability is best thought of as an environment in which inflation is so low and stable over time that it does not materially enter into the decisions of households and firms.",LABEL_2,0.9996024966239929
+23,"Nonetheless, I cannot help but conclude that the progress that the Federal Reserve has achieved over the years in moving toward this old definition of price stability has contributed to the improvement in our nation's longer-term growth prospects that became evident in the latter part of the 1990s.",LABEL_1,0.9812877774238586
+24,"So, for the time being, our conventional measures of the overall price level will remain useful.",LABEL_2,0.9997803568840027

@@ -1,0 +1,77 @@
+Unnamed: 0,sentence,label,score
+0,"His views have had as much, if not more, impact on the way we think about monetary policy and many other important economic issues as those of any person in the last half of the twentieth century.",LABEL_2,0.9998303651809692
+1,"It has been argued, for example, that policy failed to anticipate the emerging inflation of the 1970s, and by fostering excessive monetary creation, contributed to the inflationary upsurge.",LABEL_1,0.9990009665489197
+2,"Surely, it was maintained, some monetary policy rule, however imperfect, would have delivered far superior performance.",LABEL_2,0.9997958540916443
+3,The monetary policy of the Federal Reserve has involved varying degrees of rule- and discretionary-based modes of operation over time.,LABEL_2,0.9998453855514526
+4,"In the late 1970s, the Federal Reserve's actions to deal with developing inflationary instabilities were shaped in part by the reality portrayed by Milton Friedman's analysis that ever-rising inflation rate peaks, as well as ever-rising inflation rate troughs, followed on the heels of similar patterns of average money growth.",LABEL_2,0.9842327833175659
+5,A considerable tightening of the average stance of policy--based on intermediate M1 targets tied to reserve operating objectives--eventually reversed the surge in inflation.,LABEL_1,0.999524712562561
+6,The last fifteen years have been a period of consolidating the gains of the early 1980s and extending them to their logical end--the achievement of price stability.,LABEL_1,0.9969629645347595
+7,"Focussing on M1, and following operating procedures that imparted a considerable degree of automaticity to short-term interest rate movements, was extraordinarily useful in the early Volcker years.",LABEL_2,0.9998134970664978
+8,"But after nationwide NOW accounts were introduced, the demand for M1 in the judgment of the Federal Open Market Committee became too interest sensitive for that aggregate to be useful in implementing policy.",LABEL_2,0.9983727931976318
+9,"Because the velocity of such an aggregate varies substantially in response to small changes in interest rates, target ranges for M1 growth in its judgment no longer were reliable guides for outcomes in nominal spending and inflation.",LABEL_2,0.9998098015785217
+10,"In response to an unanticipated movement in spending and hence the quantity of money demanded, a small variation in interest rates would be sufficient to bring money back to path but not to correct the deviation in spending.",LABEL_0,0.9962186217308044
+11,"However, in recognition of the longer-run relationship of prices and M2, especially its stable long-term velocity, this broader aggregate was accorded more weight, along with a variety of other indicators, in setting our policy stance.",LABEL_2,0.9997532963752747
+12,"The apparent result was a significant rise in the velocity of M2, which was especially unusual given continuing declines in short-term market interest rates.",LABEL_0,0.8104264140129089
+13,Data since mid-1994 do seem to show the reemergence of a relationship of M2 with nominal income and short-term interest rates similar to that experienced during the three decades of the 1960s through the 1980s.,LABEL_2,0.9997847676277161
+14,"We recognize that, in fixing the short-term rate, we lose much of the information on the balance of money supply and demand that changing market rates afford, but for the moment we see no alternative.",LABEL_2,0.9997175335884094
+15,"In the current state of our knowledge, money demand has become too difficult to predict.",LABEL_2,0.9986818432807922
+16,"Although our operating target is a nominal short-term rate, we view its linkages to spending and prices as indirect and complex.",LABEL_2,0.9998534917831421
+17,"For another, spending, prices and other economic variables respond to a whole host of financial variables.",LABEL_2,0.9997870326042175
+18,"Nonetheless, we recognize that inflation is fundamentally a monetary phenomenon, and ultimately determined by the growth of the stock of money, not by nominal or real interest rates.",LABEL_2,0.6451833248138428
+19,"From a longer-term perspective we have been guided by a firm commitment to contain any forces that would undermine economic expansion and efficiency by raising inflation, and we have kept our focus firmly on the ultimate goal of achieving price stability.",LABEL_1,0.999559223651886
+20,"Within that framework we have attempted not only to lean against the potential for an overheating economy, but also to cushion shortfalls in economic growth.",LABEL_1,0.994293749332428
+21,"Unlike many uncertain situations that have confronted monetary policy, there was little question that the appropriate central bank action was to ease policy significantly.",LABEL_0,0.671730637550354
+22,"Our concerns at that time reflected questions about how the financial markets and the economy would respond to the shock of a decline of more than one-fifth in stock prices in one day, and whether monetary policy alone could stabilize the system.",LABEL_0,0.9731231927871704
+23,Another development that confronted policy was the commercial property price bust of the late 1980s and early 1990s.,LABEL_2,0.9980776309967041
+24,"Since a large volume of bank and thrift loans was tied to the real estate market and backed by real estate collateral, the fall in property prices impaired the capital of a large number of depositories.",LABEL_0,0.9756360054016113
+25,The extraordinary circumstances dictated a highly unusual path for monetary policy.,LABEL_2,0.9978208541870117
+26,"By mid-1993, however, property prices stabilized and the credit crunch gradually began to dissipate.",LABEL_2,0.5547894835472107
+27,"It was clear as the year moved toward a close that monetary policy, characterized by a real federal funds rate of virtually zero, was now far too easy in light of the strengthening economy on the horizon.",LABEL_0,0.9953944683074951
+28,"Although it was difficult at that time to discern any overt inflationary signals, the balance of risks, in our judgment, clearly dictated preemptive action.",LABEL_1,0.9993171691894531
+29,"Even so, the idea of tightening to head off inflation before it was visible in the data was not universally applauded or perhaps understood.",LABEL_1,0.9988836646080017
+30,"Financial markets reacted unusually strongly to our 1994 policy actions, often ratcheting up their expectations for further rate increases when we actually tightened, resulting in very large increases in longer-term interest rates.",LABEL_1,0.9993833303451538
+31,"At the time, these reactions seemed to reflect the extent to which investment strategies had been counting on a persistence of low interest rates.",LABEL_0,0.9728570580482483
+32,We are always concerned about assuming that short-term movements in market prices are reflections of changes in underlying supply and demand conditions when we may be observing nothing more than fluctuating expectations about our own policy actions.,LABEL_2,0.9998295307159424
+33,"Most recently, the economy has demonstrated a remarkable confluence of robust growth, high resource utilization, and damped inflation.",LABEL_1,0.9833067059516907
+34,"Specifically, the persistence of rising profit margins in the face of stable or falling inflation raises the question of what is happening to productivity.",LABEL_2,0.7184872627258301
+35,"If data on profits and prices are even approximately accurate, total consolidated corporate unit costs have, of necessity, been materially contained.",LABEL_2,0.9996984004974365
+36,"With labor costs constituting three-fourths of costs, unless growth in compensation per hour is falling, which seems most unlikely from other information, it is difficult to avoid the conclusion that output per hour has to be rising at a pace significantly in excess of the officially published annual growth rate of nonfarm productivity of one percent over recent quarters.",LABEL_1,0.995835542678833
+37,"The degree to which these data may be understated is underlined by backing out from the total what appears to be a reasonably accurate, or at least consistent, measure of productivity of corporate businesses.",LABEL_2,0.9996834993362427
+38,The level of nonfarm noncorporate productivity implied by this exercise has been falling continuously since 1973 despite reasonable earnings margins for proprietorships and partnerships.,LABEL_0,0.9949476718902588
+39,"Presumably this reflects the significant upward bias in our measurement of service prices, which dominate our noncorporate sector.",LABEL_0,0.862444281578064
+40,"Nonetheless, the still open question is whether productivity growth is in the process of picking up.",LABEL_0,0.6465917825698853
+41,"For it is the answer to this question that is material to the current debate between those who argue that the economy is entering a ""new era"" of greatly enhanced sustainable growth and unusually high levels of resource utilization, and those who do not.",LABEL_1,0.9865630865097046
+42,Supplying excess liquidity to support growth that turns out to have been ephemeral would undermine the very good economic performance we have enjoyed.,LABEL_0,0.5972824096679688
+43,"Whatever its successes, the current monetary policy regime is far from ideal.",LABEL_2,0.9915311336517334
+44,"Moreover, flows of U.S. currency abroad, which are variable and difficult to estimate, and bank reserves avoidance are subverting any relationship that might have existed between growth in the monetary base and U.S. economic performance.",LABEL_2,0.9996795654296875
+45,"Another type of rule using readings on output and prices to help guide monetary policy, such as John Taylor's, has attracted widening interest in recent years in the financial markets, the academic community, and at central banks.",LABEL_2,0.9998289346694946
+46,"They assume that central banks can appropriately pay attention simultaneously to developments in both output and inflation, provided their reactions occur in the context of a longer-run goal of price stability and that they recognize that activity is limited by the economy's sustainable potential.",LABEL_2,0.9997382760047913
+47,The mechanics of monetary policy that I have been addressing are merely means to an end.,LABEL_2,0.999845027923584
+48,"The goal of macroeconomic policy should be maximum sustainable growth over the long term, and evidence has continued to accumulate around the world that price stability is a necessary condition for the achievement of that goal.",LABEL_1,0.9992664456367493
+49,Inflation impairs economic efficiency in part because people have difficulty separating movements in relative prices from movements in the general price level.,LABEL_2,0.9760733842849731
+50,But what prices matter?,LABEL_2,0.9997678399085999
+51,Certainly prices of goods and services now being produced--our basic measure of inflation--matter.,LABEL_2,0.9992545247077942
+52,"But what about prices of claims on future goods and services, like equities, real estate or other earning assets?",LABEL_2,0.9998040795326233
+53,Is stability in the average level of these prices essential to the stability of the economy?,LABEL_2,0.99964439868927
+54,"The prices of final goods and services were stable in Japan in the mid-to-late 1980s, but soaring asset prices distorted resource allocation and ultimately undermined the performance of the macroeconomy.",LABEL_2,0.9996271133422852
+55,"In the United States, evaluating the effects on the economy of shifts in balance sheets and variations in asset prices have been an integral part of the development of monetary policy.",LABEL_1,0.8885278105735779
+56,And the equity market itself has been the subject of analysis as we attempt to assess the implications for financial and economic stability of the extraordinary rise in equity prices--a rise based apparently on continuing upward revisions in estimates of our corporations' already robust long-term earning prospects.,LABEL_2,0.9998358488082886
+57,"But, unless they are moving together, prices of assets and of goods and services cannot both be an objective of a particular monetary policy, which, after all, has one effective instrument--the short-term interest rate.",LABEL_1,0.9971367120742798
+58,We have chosen product prices as our primary focus on the grounds that stability in the average level of these prices is likely to be consistent with financial stability as well as maximum sustainable growth.,LABEL_2,0.9998397827148438
+59,"History, however, is somewhat ambiguous on the issue of whether central banks can safely ignore asset markets, except as they affect product prices.",LABEL_2,0.9996834993362427
+60,"Over the coming decades, moreover, what constitutes product price and, hence, price stability will itself become harder to measure.",LABEL_2,0.9998611211776733
+61,"When industrial product was the centerpiece of the economy during the first two-thirds of this century, our overall price indexes served us well.",LABEL_2,0.9997197985649109
+62,"The price of a ton of cold rolled steel sheet, or a linear yard of cotton broad woven fabrics, could be reasonably compared over a period of years.",LABEL_2,0.9998444318771362
+63,"I have already noted the problems in defining price and output and, hence, in measuring productivity over the past twenty years.",LABEL_2,0.9998422861099243
+64,The simple notion of price has turned decidedly complex.,LABEL_2,0.9998304843902588
+65,What is the price of a unit of software or of a medical procedure?,LABEL_2,0.9997944235801697
+66,How does one evaluate the price change of a cataract operation over a ten-year period when the nature of the procedure and its impact on the patient has been altered so radically?,LABEL_2,0.9991679191589355
+67,"Indeed, how will we measure inflation in the future when our data--using current techniques--could become increasingly less adequate to trace price trends over time?",LABEL_2,0.999543309211731
+68,"Hence, we must assume that embodied in all products is some unit of output, and hence of price, that is recognizable to producers and consumers and upon which they will base their decisions.",LABEL_2,0.9998037219047546
+69,The emergence of inflation-indexed bonds does not solve the problem of pinning down an economically meaningful measure of the general price level.,LABEL_2,0.9997333884239197
+70,"While there is, of course, an inflation expectation premium embodied in all nominal interest rates, it is fundamentally unobservable.",LABEL_2,0.9998067021369934
+71,"Returns on indexed bonds are tied to forecasts of specific published price indexes, which may or may not reflect the market's judgment of the future purchasing power of money.",LABEL_2,0.9989269375801086
+72,"To the extent they do not, of course, the implicit real interest rate is biased in the opposite direction.",LABEL_2,0.9998233914375305
+73,"Doubtless, we will develop new techniques of measurement to unearth those true prices as the years go on.",LABEL_2,0.9995793700218201
+74,"It is crucial that we do, for inflation can destabilize an economy even if faulty price indexes fail to reveal it.",LABEL_2,0.9997987151145935
+75,It should be evident from my remarks that ample challenges will continue to face monetary policy.,LABEL_1,0.991669774055481

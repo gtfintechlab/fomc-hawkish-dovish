@@ -1,0 +1,86 @@
+At the outset, I wish to thank Tom Hoenig and his staff for assembling a highly capable group of experts to inform us and to stimulate discussion on an important issue in the world economy.
+The study of income inequality--its causes, its consequences, and its potential policy implications--has a long history in economics, although it has not always had a high profile among researchers and policymakers.
+To borrow a phrase from Professor Atkinson, income distribution in recent years has been "brought in from the cold."
+In part, that awareness has resulted from the experience of many industrialized economies with widening earnings inequality in the 1980s and 1990s.
+It has been heightened by interest in the consequences of economic change in developing, newly industrialized, and transition economies.
+The experience of industrialized countries, including the United States, with growing income inequality has spawned a great deal of research on the functioning of labor markets, on the sources of shifts in the demand for various types of skills, on the supply responses of workers, and on the efficacy of government efforts to intervene in the operation of labor markets.
+A number of those who have contributed importantly to this work will be participating in this conference.
+One story that has emerged from that body of research is now familiar: Rising demand for those workers who have the skills to effectively harness new technologies has been outpacing supply, and, thus, the compensation of those workers has been increasing more rapidly than for the lesser skilled segment of the workforce.
+That this supply-demand gap has been an important source of widening earnings inequality is now widely accepted within the economics profession.
+However, the considerable diversity of experiences across countries as well as the finding that earnings inequality has also increased within groups of workers with similar measured skills and experience suggest that we may need to look deeper than skill-biased technological change if we are to fully understand widening wage dispersion.
+In particular, how have private and public institutions influenced inequality over the past two decades?
+What roles have been played by growing international trade and the evolving ways in which production is organized?
+Again, the participants in this symposium are well-equipped to speak to these issues, and we should learn much more about the causes of widening inequality during the next two days.
+In discussing the extent to which large portions of the population are not reaping the benefits of economic growth, I hope that the participants at this conference will not stop with an analysis of trends in earnings--or, for that matter, even trends in income more broadly defined.
+Ultimately, we are interested in the question of relative standards of living and economic well-being.
+Thus, we need also to examine trends in the distribution of wealth, which, more fundamentally than earnings or income, represents a measure of the ability of households to consume.
+And we will even want to consider the distribution of consumption, which likely has the advantage of smoothing through transitory shocks affecting particular individuals or households for just a year or two.
+Among these more comprehensive measures, data for the United States from the Federal Reserve's Survey of Consumer Finances suggest that inequality in household wealth--that is, in net worth--was somewhat higher in 1989 than at the time of our earlier survey in 1963.
+Subsequently, the 1992 and 1995 surveys--and here our data are statistically more comparable from survey to survey than they were earlier--showed that wealth inequality remained little changed in terms of the broad measures.1 Nonetheless, that stability masks considerable churning among the subgroups.
+One particularly notable change was an apparent rise in the share of wealth held by the wealthiest families at the expense of other wealthy families; most of the change occurred within the top 10 percent of the distribution.
+Moreover, our research using the survey suggests that conclusions about the distribution of wealth are sensitive--although to a lesser degree than income--to the state of the economy and to institutional arrangements for saving.
+For instance, among the wealthiest ½ percent of households, business assets, which tend to be quite cyclical, are particularly important.
+At the other end of the distribution, owned principal residences, the values of which are not as sensitive to business cycle conditions, are a typical household's most important asset.
+Another interesting finding is that if we expand the definition of wealth to include estimates of Social Security and pension wealth, the distribution among U.S. households becomes much more even.2 This finding suggests that, in addition to factors influencing private wealth accumulation, the evolution of institutional arrangements for saving that has taken place over the last two decades may have played an important role in affecting changes in the distribution of wealth over time.
+What about the effect of the recent rise in stock and bond market values?
+The typical view is that the growth in mutual funds and other financial investment avenues has allowed individuals further down in the wealth distribution to take advantage of the strength in equity markets.
+Certainly, our figures show that households lower in the income distribution are now more likely to own stocks than a decade ago.3 However, between the 1992 and 1995 surveys, the spread of stock ownership and the rise in prices did not lead to a rise in the share of stock and mutual fund assets owned by the bottom 90 percent of the wealth distribution.
+Although their dollar holdings rose rapidly, the increases were not as large as those for households at the top of the wealth distribution.
+If patterns of equity ownership have not changed much since 1995, the steep rise in stock prices over the past several years would suggest a further increase in the concentration of net worth.
+This influence could be offset, to some extent, by a continued broadening in the ownership of equities, particularly through tax-deferred savings accounts.
+Moreover, some additional offset may have occurred through rising house prices, an important asset of middle class families.
+Our 1998 survey, which is now in the field, will yield a clearer reading both on how wealth concentration has changed and on the relative importance of different assets in that change.
+Despite our best efforts to measure trends in income and wealth, I believe that even those measures--by themselves--cannot yield a complete answer to the question of trends in material or economic well-being.
+In the United States, we observe a noticeable difference between trends in the dispersion of holdings of claims to goods and services--that is, income and wealth--and trends in the dispersion of actual consumption, the bottom-line determinant of material well-being.
+Ultimately, we are interested in whether households have the means to meet their needs for goods and for services, including those such as education and medical care, that build and maintain human capital.
+Using data from the Consumer Expenditure Survey that the U.S. Bureau of Labor Statistics conducts, researchers have found that inequality in consumption, when measured by current outlays, is less than inequality in income.4 These findings are not surprising.
+As is well known, consumers tend to maintain their levels of consumption in the face of temporary fluctuations in income.
+Variations in asset holdings and debt typically act as buffers to changes in income.
+Thus, consumption patterns tend to look more like patterns in income that have been averaged over several years--a finding that should remind us of the pitfalls of reading too much into any year-to-year change in our measures of economic well-being.
+The BLS's consumer expenditure data suggest a rise in inequality over the 1980s comparable to that shown by the Census family income figures.
+However, during the first half of the 1990s, inequality partially receded for consumer expenditures while for income it continued to rise (table 1).
+The consumption data used in these calculations include only what individuals purchase directly out of their incomes and accumulated savings.
+Recently, researchers have extended the analysis using a more complete and more theoretically appealing measure of consumption that includes the indirect flow of services from the stock of durable goods that they already own--houses, vehicles, and major appliances.5 As one might expect, although this measure of consumption has a profile somewhat similar to that seen in the current expenditure data over the 1980s and the first half of the 1990s, it shows still lower levels of inequality overall and a clearer pattern of consumption smoothing during the 1981-83 recession.
+The information available from the Consumer Expenditure Survey can be used to calculate another interesting measure of the well-being of households: changes in inequality in the ownership of consumer durables.
+The BLS staff has updated tabulations of these data that they prepared for me several years ago (table 2).
+Of course, ownership rates for household durables clearly rise with income.
+But for a number of goods--for example, dishwashers, clothes dryers, microwaves, and motor vehicles--the distribution of ownership rates by income decile has become more equal over time.
+Even though we may be able to develop an array of measures of current and past trends in inequality--such as those that I have described and potentially others that may be presented at this symposium--we will likely still face considerable uncertainty about how to interpret those measures and about what the future may hold for the trend and the distribution of economic well-being.
+Wealth has always been created, virtually by definition, when individuals use their growing knowledge, in conjunction with an expanding capital stock, to produce goods and services of value.
+The process of wealth creation in the United States has evolved in a number of important ways.
+Over the last century, we have learned how to be more efficient in meeting the needs of consumers, and thus we have moved from producing essentials to the production of more discretionary goods and services.
+Moreover, these goods and services have been, over time, increasingly less constrained by the limits of physical bulk.
+More recently, we have found ways to unbundle the particular characteristics of each good and service to maximize its value to each individual.
+That striving to expand the options for satisfying the particular needs of individuals has resulted in a shift toward value created through the exploitation of ideas and concepts and away from the more straightforward utilization of physical resources and manual labor.
+The new thrust has led to structural changes in the way that we organize the production and the distribution of goods and services.
+It has increased the demand for, and the compensation of, workers who have the ability to create, analyze, and transform information and to interact effectively with others.
+Most important, it has accorded particularly high value to the application of advanced computer and telecommunications technologies to the generation of economic wealth.
+At the same time, however, the consequences of technological advances and their implications for the creation of wealth have become increasingly unpredictable.
+We have found that we cannot forecast with any precision which particular technology or synergies of technologies will add significantly to our knowledge and to our ability to gain from that knowledge.
+Even if future technological change were to occur at a steady rate, variations in our capacity to absorb and apply advances would likely lead to an uneven rate of increase--over time and across individuals--in returns to expanded investment in knowledge: Supplies of appropriately skilled workers can vary.
+In some cases, the initial choices in the exploitation of advances may turn out to be sub-optimal.
+In other cases, the full potential of advances may be realized only after extensive improvements or after complementary innovations in other fields of science.
+As we consider the causes and consequences of inequality, we should also be mindful that, over time, the relationship of economic growth, increases in standards of living, and the distribution of wealth has evolved differently in various political and institutional settings.
+Thus, generalizations about the past and the future may be hard to make, particularly in the current dynamic and uncertain environment of economic change.
+We need to ask, for example, whether we should be concerned with the degree of income inequality if all groups are experiencing relatively rapid gains in their real incomes, though those rates of gain may differ.
+And, we cannot ignore what is happening to the level of average income while looking at trends in the distribution.
+In this regard, our goal as central bankers should be clear: We must pursue monetary conditions in which stable prices contribute to maximizing sustainable long-run growth.
+Such disciplined policies will offer the best underpinnings for identifying opportunities to channel growing knowledge, innovation, and capital investment into the creation of wealth that, in turn, will lift living standards as broadly as possible.
+Moreover, as evidenced by this symposium, sustaining a healthy economy and a stable financial system naturally permits us to take the time to focus efforts on addressing the distributional issues facing our society and on other challenging issues that may remain out in the cold.
+Table 1 "GINI COEFFICIENTS" FOR U.S. CONSUMER EXPENDITURES AND INCOME Consumption Income 1980 .290 .365 1981 .285 .369 1982 .302 .380 1983 .305 .382 1984 .312 .383 1985 .319 .389 1986 .327 .392 1987 .328 .393 1988 .323 .395 1989 .325 .401 1990 .328 .396 1991 .320 .397 1992 .329 .404 1993 .320 .429 1994 .318 .426 1995 .317 .421 1996 n.a.
+.425 Source: Consumer expenditure data are from the Consumer Expenditure Survey, U.S. Bureau of Labor Statistics.
+Income data are for families as of March of the following year from the Current Population Survey, U.S. Census Bureau.
+Table 2 "GINI COEFFICIENTS" FOR OWNERSHIP RATES OF SELECTED CONSUMER DURABLES (By income decile) 1980 1995 Microwave ovens .28 .07 Dishwashers .29 .23 Clothes dryers .17 .12 Garbage disposals .26 .21 Motor vehicles .09 .07 Freezers .06 .07 Clothes washers .08 .09 Refrigerators .01 .01 Stoves .01 .01 Source: Based on tabulations from the Consumer Expenditure Survey, U.S. Bureau of Labor Statistics.
+Note: The Gini coefficient is defined as one minus twice the area under the cumulative probability distribution (CPD).
+The Ginis computed here do not have the properties of a "true" Gini coefficient.
+For example, a true Gini must lie between zero and one.
+The Ginis calculated here could be negative if low-income individuals had a higher ownership rate than high- income individuals.
+Using percent ownership.
+The percent ownership rates by decile are transformed into a discrete probability distribution.
+The formula is: pi = ri /3ri the sum is over i = 1 to 10 where pi is the fraction of all households that own the durable good who are in income decile i or ri is the actual ownership rate for the ith decile.
+By construction, the sum of the pi=s is equal to one.
+For goods that have ownership rates that are relatively equal across deciles, regardless of the level of the ownership rate, the probability distributions are fairly flat with values for pi close to 0.1.
+For goods that are more concentrated among the affluent households, the probability distributions tend to rise across the income deciles.
+Footnotes 1 Arthur B. Kennickell and R. Louise Woodburn, "Consistent Weight Design for the 1989, 1992 and 1995 SCFs, and the Distribution of Wealth," manuscript, August 1997.
+2 Arthur B. Kennickell and Annika E. Sunden, "Pensions, Social Security, and the Distribution of Wealth," Finance and Economics Discussion Series, 1997-55, Board of Governors of the Federal Reserve System, November 1997.
+3 Martha Starr-McClure, "Stock Market Wealth and Consumer Spending," Finance and Economics Discussion Series, 1998-20, Board of Governors of the Federal Reserve System, April 1998.

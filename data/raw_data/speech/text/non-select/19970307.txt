@@ -1,0 +1,89 @@
+The topic Senator Bennett has asked us all to address is privacy in the information age.
+The central dilemma in these discussions almost always involves fundamental choices about how to strike prudent balances among the needs of individuals for privacy in their financial and commercial transactions, as well as their personal communications; the needs of commerce to bring us new products and new means to communicate; and the needs of the authorities to provide for the effective administration of government and to ensure the public safety.
+These are not easy choices.
+I think we all need to have a healthy respect for all sides of the debate.
+Even further, we need to be aware that the balances we strike in one era may need to be reexamined as technology and circumstances change.
+The dictionary defines privacy as the state of being free from unsanctioned intrusion.
+This concept, to which Americans feel a very deep-seated attachment, is reflected in the Fourth Amendment to the Constitution, which assures "The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures...." For the government to intrude on one’s privacy is in a very fundamental sense a deprivation of freedom.
+It is one of those deeply sensed issues that transcends people’s constitutional or legal views and delves into the realm of one’s sense of person.
+This is why the perceived threat to privacy from burgeoning technological advance, coupled with an increasing sense of inefficacy in the face of sophisticated new technologies, has created such a stir.
+The fears of invasion of privacy, as a consequence of inexorable forces seemingly out of the control of the average American, has risen to a major public policy issue.
+A half century ago a number of writers expressed concern at a perceived ever widening intrusion of government into the lives of individuals.
+They feared the ultimate collectivization of our society where individualism would be significantly diminished or expunged, and the emergence of "Big Brother" would come to define and dominate our lives.
+1984, the year, as well as the book made famous by George Orwell in 1949, have come and gone.
+The outreach of government, if anything, has receded, especially with respect to the issues of personal liberty, and its concomitant, personal privacy.
+I suspect that the fear of "Big Technology" when it arrives will travel the less threatening route of "Big Brother" before it.
+In preparation for addressing that issue, I believe it would be useful to examine some of the interesting dimensions of the concept of privacy and its application to how human society arranges itself.
+Indeed, when it comes to the issue of privacy, humans are distinctly ambivalent.
+Greta Garbo made an institution of wanting to be alone.
+Yet, at the same time, human beings have always sought and presumably needed the presence of others in organizing their societies, even before we economists came on the scene to inform them about the benefits of the division of labor.
+But the various paradigms by which we have chosen to organize ourselves were closely tied to how we viewed the relative value of individualism and its precondition, the implicit need for privacy.
+In recent generations, the major competing forms of government, of course, have been (1) a system based on individual rights with the role of the state largely directed at protecting those rights (the United States being the most prominent example of that form of government) and (2) the now defunct Soviet Union, and its eastern European satellites, which were the model of communist collectivization.
+In the latter, the individual was theoretically subject to the will of the collective but, in reality, subjugated by an elite autocratic hierarchy.
+In the Soviet system, rights inhered in the collective, which immediately dismisses by definition any right to privacy.
+State intrusiveness in the form of the KGB or the Stasi eviscerated any wall of personal separation that citizens may have sought.
+But, in the end, that form of government did not, probably could not, succeed.
+The human need for personal expression, property, and privacy, doubtless were significant in undermining those collectivist states.
+Indeed, since the end of World War II, we have had as close as one can come to a controlled experiment in the comparative effectiveness of alternate forms of government organization.
+I refer to the extraordinary divergence in post-war recovery patterns observed between West and East Germany.
+Both were rooted in the same historic culture and institutions, differing virtually only in the form of political and economic organization, which were adopted by those societies at war’s end.
+Almost a half-century later, when the Berlin Wall was torn down, the results of this remarkable experiment vividly and unqualifiedly attested to the superiority of the West German free market system based on individual rights, a system where people lived with minimum fear of the state’s intrusion into their daily lives.
+In East Germany, in contrast, to assure that society was appropriately collectivized, it was necessary to probe into the private lives of all individuals and suppress individual freedoms.
+Human beings had to be molded by force to achieve the East German leaders’ distorted view of societal organization.
+Privacy was scarcely the goal or purpose of the East German state.
+Indeed, intrusiveness into the lives of all of the citizens was perceived to be an essential ingredient in its organization.
+The political and economic results of the post-war competition between East and West generally have been unequivocal.
+The free market capitalism of West Germany has been judged superior in all relevant respects, with very few dissenting from that conclusion.
+The human need for privacy surely was a major factor in that outcome.
+To be sure, our newer information technologies can scarcely be perceived as the type of threat to privacy as that of the Soviet state.
+Nonetheless, the same pressing need for privacy, which helped upend the Soviet Union, can be expected to address and overcome concerns that our newer technologies will intrude on our cherished need for privacy.
+Communism fell because its practice eliminated personal incentives to work and to acquire property, except in a very limited sense.
+The existence of such incentives requires the broad freedoms we enjoy to pursue our myriad personal goals.
+It was the deprivation of these incentives and the suppressing of competition among individuals, the hallmark of a growing economy, which brought Communism down.
+Since privacy is such an evident value in our society, where technology threatens that value, entrepreneurs can be counted on to seek means to defend it.
+The major resources they have devoted to encryption in the development of new communication systems attest to the economic value they place on privacy in communications.
+Moreover the pressures to enact legal prohibitions on the dissemination of personal records will also create incentives to produce technologies that protect them.
+Indeed, the most effective means to counter technology’s erosion of privacy is technology itself.
+The marketplace is burgeoning with new devices to this end.
+These devices, of course, include the many advances for encrypting and filtering information.
+We may even see the deployment of technologies that permit individuals to make choices calibrating their degree of privacy in conducting individual transactions.
+With some irony, even some of the ability of the government to pursue protection of individual rights is being impaired by effective encryption.
+This leads to the important question of how to balance the legitimate expectations of individuals for privacy with the needs of government for information to effectively administer the laws and provide for the public safety.
+The most delicate care is needed in this regard to prevent unnecessary intrusion when specific government decisions are implemented and to avoid the risk of a gradual, long-term erosion of privacy.
+Beyond these issues are immediate questions about privacy in the delivery of professional, commercial, and financial services over open computer networks as well as personal communications through devices such as e-mail.
+For example, there are typically strong assumptions about privacy surrounding medical, legal, and financial communications and records.
+These assumptions are designed to safeguard the autonomy of the individual and to facilitate a society where special expertise can be developed and called upon, when necessary, to promote the individual’s welfare.
+It would be a strange outcome, indeed, if traditional notions of privacy applied only at the physical office of the doctor, lawyer, or banker, but not when modern computer technologies were employed to make professional services available at lower cost and with greater convenience.
+It may be that some services and communications channels will be used regardless of what privacy guarantees are provided.
+Providing medical advice by computer network to rural areas with no resident doctors may be one example.
+More common services, however, such as certain cellular telephone technologies and the use of e-mail over the Internet, are subject to less privacy than some other modes of communication, although extensive efforts are currently being directed to address that.
+The growing use of credit cards without security measures to pay for goods and services over open networks is another example.
+Clearly, as these examples demonstrate, privacy concerns may be outweighed, if only for the moment, by other factors such as cost and convenience.
+However, given choices in the marketplace that include price, quality and differing degrees of privacy, I have little doubt that privacy would be valued and sought after.
+In the financial sphere, the payment systems of the United States present a paradox.
+Our systems, and banking arrangements, for handling high-value dollar payments are all electronic and have been for many years.
+Banking records, including those for loans and deposits, have been computerized since the 1960s.
+Securities markets also now rely on highly automated records and systems, born out of necessity following the paperwork crisis of the 1970s.
+Thus, it might seem strange that in transactions initiated by consumers, paper--currency and checks--remains the payment system of choice.
+Debit and ATM cards, along with automated clearing house payments, account for a very small percentage of transactions.
+Even the use of popular credit cards has only recently begun to challenge paper's dominance.
+While there are many other factors involved in this anomaly, the value of privacy of transaction has clearly been a significant determinant.
+Paper currency is, of course, the ultimate protector of anonymity, for making ordinary payments at the retail level.
+It is, thus, a measure of how valued is privacy in our system that inroads into the use of currency have been slow, and halting, in the face of technologies one would assume would have quickly buried the presumed inefficiency of paper transactions.
+To be sure, checks leave a paper trail which can compromise privacy, but it is a less efficient and accessible trail than when available newer technologies are used.
+Clearly, then, the value of privacy of transactions that currency--and to a somewhat lesser extent, checks--provide is a measure of the economic cost individuals are willing to expend when far superior efficiencies are at hand.
+Nonetheless, the marketplace is currently investing large sums to develop new means to automate payments as well as other retail banking and financial transactions.
+Projects for creating stored value cards and Internet-based payment systems, for example, are being discussed around the world.
+Again, as in the 1970s, articles are being written and conferences are being held to pronounce the end of paper.
+They may again prove premature.
+It is clear, however, that security and privacy will be very important if confidence is to be established in these new systems.
+Indeed, in many, privacy of communication is a necessary requirement.
+Many projects are evolving daily to meet the business requirements of potential operators and the potential service needs of businesses and consumers.
+There is a significant need for flexibility in allowing these technologies to adapt and grow in response to pressures in the marketplace.
+There is also a need to avoid building formal or burdensome regulatory systems on the shifting sands of project proposals.
+If we wish to foster innovation, we must be careful not to impose rules that inhibit it.
+I am especially concerned that we not attempt to impede unduly our newest innovation, electronic money, or more generally, our increasingly broad electronic payments system.
+To develop new forms of payment, the private sector will need the flexibility to experiment, without broad interference by the government.
+Our most intriguing challenge is whether new technologies can provide improved financial services and, at the same time, provide greater privacy and related benefits.
+Flexibility by industry, consumers, and government may help make such overall advances possible.
+Finally, I want to emphasize that the information age is not something to be feared, but may well be a vast opportunity.

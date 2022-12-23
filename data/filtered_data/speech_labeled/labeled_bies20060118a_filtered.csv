@@ -1,0 +1,46 @@
+Unnamed: 0,sentence,label,score
+0,"As you know, long-term growth in productivity is critically important to improving the standard of living in any economy.",LABEL_1,0.7001314163208008
+1,The rate of growth of productivity can significantly affect inflation and economic expansion.,LABEL_2,0.9992246627807617
+2,"But before I comment on productivity, I'd like to begin with a review of recent economic developments.",LABEL_2,0.9997895359992981
+3,Economic DevelopmentsReal economic activity has continued to expand at a solid pace.,LABEL_1,0.9975159168243408
+4,"However, for the nation as a whole, employment and industrial production indicators were only briefly disrupted by the hurricanes during the late summer and early fall.",LABEL_2,0.9998313188552856
+5,"At the national level, consumer spending has been well maintained, and the fundamentals--such as income growth and household balance sheets--remain supportive.",LABEL_1,0.9746281504631042
+6,"Turning to prices, core inflation has stayed relatively low in recent months despite the run-up in energy costs.",LABEL_1,0.9959427714347839
+7,"For example, the twelve-month change in the price index for personal consumption expenditures excluding food and energy, a widely watched indicator of core inflation, moved down from 2.3 percent in November 2004 to 1.8 percent in November 2005.",LABEL_0,0.7040590643882751
+8,"Although energy prices have receded from the highs last fall, crude oil costs are still well above year-earlier levels.",LABEL_1,0.9856290221214294
+9,"As a result, gasoline prices remain elevated despite a decline of about 70 cents per gallon from the peak recorded in the aftermath of the hurricanes.",LABEL_1,0.9934443235397339
+10,"The prices for home heating oil and natural gas will add to consumers' budget pressures this winter; although spot prices have moved lower in recent weeks, they are still well above year earlier levels.",LABEL_1,0.9914771914482117
+11,"Higher energy prices have also affected businesses, particularly in those industries with energy-intensive production processes and those that purchase a large share of energy-intensive products, such as industrial chemicals and plastics.",LABEL_2,0.9488652348518372
+12,"There is only limited evidence, most of it anecdotal, of pass-through to consumer prices from the run-up in energy prices.",LABEL_1,0.9983867406845093
+13,"However, we are seeing the effects in the price data for certain energy-intensive categories, such as transportation.",LABEL_1,0.9893514513969421
+14,Futures markets currently expect only limited increases in the price of crude oil this year.,LABEL_2,0.9391509294509888
+15,"Nevertheless, tight resource utilization is likely to put pressure on prices.",LABEL_2,0.9996544122695923
+16,"The unemployment rate, at 5 percent in the second half of 2005, was down about 1 1/4 percentage points from its recent peak in early 2003 and at its lowest level in four years.",LABEL_1,0.8043889403343201
+17,"As in the mid- to late-1990s, resilient productivity growth appears to be helping contain the inflationary pressures that might otherwise be expected to accompany a narrowing margin of resource slack.",LABEL_0,0.5032671093940735
+18,"That said, we at the Federal Reserve will remain vigilant for any sign of a deterioration in the inflation outlook.",LABEL_2,0.668994665145874
+19,"As I mentioned earlier, the core inflation rate has stayed relatively low in recent months, as rapid gains in productivity have tended to offset cost increases.",LABEL_0,0.5881693959236145
+20,"Corporate balance sheets have improved dramatically over the past couple of years because of surging profits, low interest rates, and a concerted deleveraging, which have combined to reduce debt burdens and increase liquidity in the form of cash assets.",LABEL_0,0.951887845993042
+21,"Generally speaking, the growth of profits and the related buildup of cash have been broadly distributed across industries.",LABEL_0,0.8034738898277283
+22,Productivity and TechnologyLet me now turn from the overall economic outlook to productivity and technology developments.,LABEL_2,0.9994664788246155
+23,Productivity growth receives a considerable amount of attention from policymakers because its rate is an important determinant of a nation's standard of living.,LABEL_2,0.9997827410697937
+24,"The development of farm machinery in the early 1800s, for example, boosted the productivity of farmers and consequently freed up labor to shift to the industrial sector.",LABEL_2,0.9995139837265015
+25,"More recently, continued increases in industrial productivity have enabled a relative shift of employment into the production of services.",LABEL_2,0.9993057250976562
+26,"Although manufacturing employment has fallen sharply in recent years, both in absolute terms and as a share of total employment, the output of the nation's manufacturers has continued to increase because of impressive productivity gains.",LABEL_2,0.9717753529548645
+27,"Looking beyond manufacturing to the broader nonfarm business sector, we see that productivity growth has risen significantly over the past decade in the United States.",LABEL_2,0.6048287153244019
+28,Labor productivity gains accelerated from an average annual increase of 1 1/2 percent over 1973-95 to an average annual increase of 2 1/2 percent over 1995-2001.,LABEL_0,0.9458995461463928
+29,"From the first quarter of 2001 through the third quarter of 2005, labor productivity growth picked up even more--to an annual rate of nearly 3 1/2 percent.",LABEL_2,0.9947198629379272
+30,"These productivity gains result from many forces, including business investment that has increased the amount and quality of capital available to the workforce, business process innovations, and the growth of innovative, research-intensive industries such as information technology and biotechnology.",LABEL_0,0.6388786435127258
+31,"Because firms may take a while to absorb a rapid run-up in investment, the productivity payoffs to investment may be drawn out for some time as firms learn more effective ways to use the capital they have acquired.",LABEL_2,0.9980395436286926
+32,Anecdotal information suggests that some of the recent productivity gains appear to reflect firms making better use of existing capital and improving business processes.,LABEL_2,0.9943946599960327
+33,"As I noted, the growing importance of the innovative technology sector has spurred productivity growth.",LABEL_2,0.9965957999229431
+34,"Moreover, economists better understand the role of IT in the U.S. economy, particularly its influence on productivity growth, because developments in this sector are more easily quantified than developments in other pioneering fields, such as biotechnology.",LABEL_2,0.8086605072021484
+35,"In thinking about information technology equipment and productivity, I find a useful starting point to be recalling the role of IT capital accumulation during the last business cycle.",LABEL_2,0.9998466968536377
+36,Work by Federal Reserve economists suggests that a large chunk of the increase in the rate of productivity growth in the late-1990s was due to the accumulation of IT capital.,LABEL_2,0.9998261332511902
+37,The accumulation of IT capital boosted productivity growth in many industries.,LABEL_2,0.6303089261054993
+38,"As a result, in recent years firms appear to be realizing further productivity gains as they discover new and better methods for using IT.",LABEL_2,0.814032256603241
+39,These synergies may spur adoption of new technologies and increase the potential for further productivity gains.,LABEL_2,0.9993669390678406
+40,"With demand for IT continually evolving, taking a moment to review the U.S. role in the production of IT equipment is worthwhile.",LABEL_2,0.998843789100647
+41,"Because the development and the production of IT products play a vital role in the U.S. economy, the Federal Reserve continually watches for new developments in the pace of technological change and tries to gauge the likely influences of these developments on productivity growth.",LABEL_2,0.999817430973053
+42,"In most cases, data on the pace of technological change are hard to come by, so we carefully examine data on production and price trends.",LABEL_2,0.9997753500938416
+43,"In light of the difficulties and uncertainties that are associated with measuring the pace of technological change, I want to take a moment to comment on the risks for the appropriate conduct of monetary policy that are associated with technology and productivity.",LABEL_2,0.9997642636299133
+44,"Because technology feeds into various macroeconomic aggregates--including household and business spending, productivity, and inflation--its implications for the U.S. economy will continue to necessitate careful observation, improved measurement, and study.",LABEL_2,0.9997379183769226

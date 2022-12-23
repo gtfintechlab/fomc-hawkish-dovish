@@ -1,0 +1,150 @@
+Certainly, trading activity in recent days has brought additional attention to the subject of market liquidity.
+It is not my purpose, however, to opine on these very recent market moves--a comprehensive understanding of which may depend on consequent market developments and the fullness of time.
+I would only note that while premiums on riskier assets rose some last week, markets are functioning well amid higher volatility, market discipline appears effective as investors are reviewing their positions, and overall liquidity does not appear to be in short supply.
+The balance of my remarks will focus on financial market liquidity from a somewhat broader and longer-term perspective.
+In recent quarters, we witnessed very strong credit markets, bulging pipelines for leveraged loan and high-yield bond issuance, and near-record low credit spreads.
+Structured fixed-income products proliferated, and the investor universe expanded to match new supply.
+Global investment flows were proven noteworthy for the lack of home-country bias.
+Managers of private pools of capital--in all of its forms, private equity firms, alternative asset management companies, hedge funds, and investment banks--increased funding from many sources and through many structures.
+Due in no small measure to strong credit markets, leveraged transactions increased and the market for corporate control became increasingly robust.
+Fund managers of private pools of capital seized upon this opportunity to acquire more-permanent sources of capital: extending lock-up periods; using retail platforms and co-investment funds to increase â€˜stickinessâ€™ of contributed capital; securing greater financing flexibility from prime brokers; accessing the private placement markets; and selling public shares of limited and general partnership interests to new investors; to name just a few.
+Key questions remain: Is liquidity at strong and sustainable levels, justified by economic fundamentals?
+What is likely to be the liquidity trend going forward?
+In todayâ€™s remarks, I will first propose a definition of market liquidity based on what I believe is its most fundamental characteristic.
+I will then discuss the primary sources of liquidity in the U.S. capital markets, and attempt to interpret signals from financial asset prices in this environment.
+I will conclude by discussing implications for the economy and policymakers.1 Liquidity: What is It?The traditional concept of liquidity relates to trading: An assetâ€™s liquidity is defined by its ability to be transformed into another asset without loss of value.
+This definition is sufficiently general to encompass many ideas.
+Some assets, such as â€œmoneyâ€ are used to trade goods and services without diminution in value, and therefore are highly liquid.
+Indeed, when different measures of the money supply were established, it was with an eye toward determining the liquidity of the underlying assets; as an example, components of M1 were considered more liquid than those in M2.
+It is in this sense that some observers view the stock of money as a measure of liquidity, and changes in these measures as roughly equivalent to changes in liquidity.
+I doubt, however, that traditional monetary aggregates can adequately capture the form and structure of liquidity many observe in the financial markets today.
+Instead, market observers are more likely to be referring to liquidity in broader terms, incorporating notions of credit availability, fund flows, asset prices, and leverage.
+As noted, â€˜liquidityâ€™ in the sense of â€œtrading liquidityâ€ reflects the ability to transact quickly without exerting a material effect on prices.
+Liquidity is optimally achieved when myriad buyers and sellers are ready and willing to trade.
+The trading is enhanced by market-makers and speculators alike.
+Underlying this concept is that while buyers and sellers have different views on the most likely outcomes--that is, after all what generates trading--they largely can agree on the distributions of possible outcomes for which they demand risk-based compensation.
+Consider liquidity, then, in terms of investor confidence.
+Liquidity exists when investors are confident in their ability to transact and where risks are quantifiable.
+Moreover, liquidity exists when investors are creditworthy.
+When considered in terms of confidence, liquidity conditions can be assessed through the risk premiums on financial assets and the magnitude of capital flows.
+In general, high liquidity is generally accompanied by low risk premiums.
+Investorsâ€™ confidence in risk measures is greater when the perceived quantity and variance of risks are low.
+This view highlights both the risks and rewards of liquidity.
+The benefits of greater liquidity are substantial, through higher asset prices and more efficient transfer of funds from savers to borrowers.
+Historical episodes indicate, however, that markets can become far less liquid due to increases in investor risk aversion and uncertainty.
+While policymakers and market participants know with certainty that these episodes will occur, they must be humble in their ability to predict the timing, scope, and duration of these periods of financial distress.
+Recall the market turmoil related to events in Asian financial markets in 1997 and following the Russian bond default in the summer of 1998.
+Investors flocked to â€œon-the-runâ€ Treasuries, and risk spreads for high-yield corporate and emerging market bonds spiked.
+Chairman Greenspan described these episodes as an apparent collapse in investorsâ€™ understanding of possible future risks, despite what appeared to be mild imbalances, which led to â€œdisengagementâ€ by traders.2 Therefore, I wish to advance a simple proposition: Liquidity is confidence.
+That is, powerful liquidity in the U.S. capital markets is evidenced when the economic outcomes are believed to be benign.
+When the â€œtailâ€ outcomes are either highly improbable or, at the very least, subject to reasonably precise measurement, the conditions are ripe for liquidity to be plentiful.
+When fund flows are strong and growing, there is little reason to expect trading positions to become inalienable.
+My goal in proffering this proposition is to improve the discourse by reducing the different notions of liquidity to its most fundamental feature.
+This exercise may also serve as a healthy reminder: If unmoored from fundamentals, confidence can give way to complacency, complacency can undermine market discipline and liquidity can falter unexpectedly.
+If, to the contrary, confidence is justified by real economic determinants, liquidity can flourish.
+Of course, some might disagree with this definition of liquidity.
+They may argue that any excess liquidity in financial markets results from too little capital investment, here and abroad, which may arise from a lack of confidence in future economic outcomes.
+For example, high cash balances at U.S. corporations can be interpreted as indicating a lack of confidence in investment prospects.
+Previously, however, I argued that while the build-up of cash since 2002 has been unusual, the most pressing determinant was not uncertainty about the profit potential of capital investment.3 Instead, corporate cash positions are explained more significantly by profits retained at foreign subsidiaries, and a sharper focus by investors and ratings agencies on companiesâ€™ abilities to finance short-term liabilities internally.
+Current Sources of Market LiquidityLet me discuss sources of liquidity of the U.S. financial markets.
+By my proposed definition, we must ask what forces have increased liquidity (read: confidence) in the United States over the course of the last couple of decades.
+I will turn, first, to two key drivers of liquidity: rapid financial innovation and strong economic performance.
+A third important source of liquidity--resulting from the excess savings of emerging-market economies and those with large commodity reserves--has also found its way to the United States in pursuit of high risk-adjusted returns.
+We must judge the extent to which each of these three liquidity drivers are structural or cyclical, more persistent or more temporary.
+Understanding the sources of liquidity--and the causes thereof--should help inform judgments about the level and direction of market liquidity.
+In so doing, we may better understand its implications for the economy and policymakers alike.
+First, liquidity is significantly higher than it would otherwise be due to the proliferation of financial products and innovation by financial providers.
+This extraordinary growth itself is made possible by remarkable improvements in risk-management techniques.
+Hewing to my proposed definition, we could equally state that financial innovation has been made possible by high levels of confidence in the strength and integrity of our financial infrastructure, markets, and laws.
+Moreover, remarkable competition among commercial banks, securities firms, and other credit intermediaries have helped expand access to--and lower the all-in-cost of--credit.
+Interest rate risk and credit risk exposures are now more diversified.
+Look no further than dramatic growth of the derivatives markets.
+In just the past four years, notional amounts outstanding of interest rate swaps and options tripled, and outstanding credit default swaps surged more than ten-fold.
+These products allow investors to hedge and unwind positions easily without having to transact in cash markets, expanding the participant pool.
+Syndication and securitization also lead to greater risk distribution.
+Commercial and industrial (C&I) lending potential has expanded with the adoption of syndication practices, allowing credit risks to be spread across a greater number of participating banks and nonbank lenders.
+Perhaps an even more significant support for the expansion of C&I loans is the rapid growth of collateralized loan obligations (CLOs)--special purpose entities that buy C&I loans with funds raised from investors seeking different risk exposures.
+CLOs allow loans to be financed primarily with high-rated debt securities issued to institutions like mutual funds, pension funds, and insurance companies.
+Indeed, in recent years, the share of syndicated C&I term loans funded by institutional investors is estimated to have exceeded that funded by commercial banks.
+For CLO structures to be effective, they invariably must include a more risky equity tranche.
+Even the most sophisticated financial products are not immune to the physical Law of Conservation of Matter--the risk must rest somewhere.
+Hedge funds reportedly have served as willing buyers of these riskier positions, and we are all aware of their phenomenal growth.
+Now, more than 4,000 hedge funds hold assets of about $1-1/2 trillion.
+As important as the participation of hedge funds, the derivative products themselves allow credit risk to be hedged, which has the beneficial effect of further increasing the pool of other investors as well.
+The increase in financial product and provider innovation appears to be quite persistent; future trends, however, are likely to be significantly influenced by legal, regulatory, and other public policies.
+The second factor, perhaps equally persistent, supporting strong investor confidence in U.S. markets has been our economyâ€™s strong macroeconomic performance.
+Researchers have documented the so-called â€œGreat Moderationâ€ in which the U.S. economy has achieved a marked reduction in the volatility of both real gross domestic product (GDP) and core inflation over the past twenty years or so.
+In theory, reduced volatility, if perceived to be persistent, can support higher asset valuations--and lower risk premiums--as investors require less compensation for risks about expected growth and inflation.
+In this manner, confidence appears to beget confidence, with recent history giving some measure of plausibility to the notion that very bad macroeconomic outcomes can be avoided.
+The Great Moderation, however, is neither a law of physics nor a guarantee of future outcomes.
+It is only a description--an ex post explanation of a period of relative prosperity.
+If policymakers and market participants presume it to be an entitlement, it will almost surely lose favor.
+Let us look closer at the correlation between confidence and outcomes.
+Asset prices do appear somewhat correlated with volatility associated with the real economy and inflation.
+For example, equity valuations for U.S. corporations increased more in the past twenty years than in the two decades prior to the Great Moderation.
+The price-earnings ratio for S&P 500 firms averaged 14 from 1960 to 1984 and rose to an average of 18 from 1985 to 2006.
+In addition, term premiums on long-term U.S. Treasury securities are estimated to have declined substantially since the late 1980s.4 Moreover, this decline is significantly associated with a reduction in uncertainty about long-run inflation and about short-term interest rates.5 Third, liquidity in U.S. markets also increased significantly in recent years due to increased international capital flows.
+These flows to the United States from global investors lead to higher liquidity by increasing capital available for investment and facilitating greater transfer and insurability of risk.
+A recent report by McKinsey & Company estimated that aggregate international capital flows amounted to $6 trillion in 2005--almost triple the volume a decade earlier--and that one-quarter of the worldwide volume flowed through the United States.
+Part of the increased international capital financial flows is a result of excess savings in some emerging-market and oil-exporting countries relative to domestic investment--the phenomenon Chairman Bernanke referred to as the â€œglobal saving glut.â€6 Rapidly aging populations in a few large countries, such as China, Germany, and Japan, generated high savings.
+Also, some of the fastest growing economies, especially in Asia, pursued export-driven growth strategies, thereby accumulating large reserves of foreign-denominated assets.
+In addition, high prices of oil and other commodities in recent years shifted income from importing nations to exporters, and research suggests that the bulk of these â€œwindfallsâ€ has been saved rather than invested.7 On net, the savings of less developed countries has been deployed to purchase substantial volumes of financial assets in markets in the most developed nations, most notably the United States and the United Kingdom.
+Estimates from the International Monetary Fund indicate that the group of the most advanced economies in the world swung from being net purchasers of foreign financial assets on the order of $80 billion in 1997 to being net sellers of domestic financial assets to foreigners of about $570 billion in 2006.8 It is no accident that international excess capital flowed primarily to strong and stable economies and those with highly-developed financial markets.
+In a world of funds increasingly without borders, we would expect investors to seek out the best risk-adjusted returns.
+Sound, transparent regulatory and legal frameworks in the United States, United Kingdom, and some other advanced economies have helped contribute to the attractiveness of these markets.
+In addition, top-notch infrastructure allows for efficient clearance and settlement procedures for transactions in the most sophisticated financial markets, all of which promote investor confidence and continued sources of liquidity.
+Implications for the Economy and Challenges for Policymakers Generally, high levels of liquidity offer substantial benefits to our financial system and overall economy through higher financial asset prices and a more efficient means to channel funds between savers and borrowers.
+Strong liquidity may also help to prevent imbalances in certain markets from spreading because of the greater dispersion of risks.
+The U.S. economy continues to demonstrate extraordinary resilience, no doubt supported by the ability of financial markets to absorb substantial shocks.
+Financial markets have been buffeted by a number of significant events, including a spate of corporate accounting scandals, the bond rating downgrades of Ford Motor Co. and General Motors Corp. to speculative-grade status, the failure of Refco, (at the time the largest broker on the Chicago Mercantile Exchange), and the imposition (and pullback) of capital controls in Thailand.
+But the effects on broader markets appear to have been remarkably contained.
+Even the episode last year involving the hedge fund, Amaranth, which accumulated losses of $6 billion in a few short weeks, seemingly had little impact beyond its direct stakeholders.
+It is hard to know with certainty when investorsâ€™ confidence will be stirred--but not shaken--by these events.
+It is harder still to know precisely why.
+I have argued that solid fundamentals--effective and dynamic products and markets to disperse risk, stable economic performance, and robust and attractive market infrastructures--are key underpinnings for strong liquidity and correspondingly strong investor confidence.
+Surely, policymakers must be vigilant to maintain output stability and low and anchored inflation expectations.
+In addition, policymakers need to encourage sound risk management by private participants as the first line of defense against financial instability.
+In particular, we should promote policies that encourage stakeholders to engage in ex ante practices, protocols, and principles--including those recently set forth by the Presidentâ€™s Working Group on Financial Markets--to accomplish that objective.
+Of course, investor confidence and liquidity can shift.
+In the aftermath of a financial shock, if buyers and sellers of credit can no longer agree on the distribution of possible outcomes, their ability to price transactions will be severely limited.
+While we cannot--and often should not--prevent all shocks or predict how they will reverberate through the financial system, we can attempt to create conditions that would lead investors to most quickly rebuild their confidence.
+That is most likely to occur when underlying fundamentals are solid.
+Monetary policy is no less challenged by the level and prospects for liquidity.
+We policymakers must ask whether liquidity conditions are obscuring signals from financial asset prices that we would otherwise use to gauge the performance of the real economy.9 Liquidity conditions could, in theory, lead to lower-than-justified risk premiums that stimulate aggregate demand or otherwise generate excessive inflationary pressures.
+Of course, inferences from market prices are always imprecise, because prices depend on expected growth, the variation surrounding that expected path, and investor risk aversion, none of which we can precisely observe.
+Market liquidity may further confound the inference challenges.
+Allow me to comment, nonetheless, on a few key indicators.
+Look at the current configuration of Treasury yields across the maturity spectrum.
+Typically, investors require compensation for the greater exposure to interest rate risk from holding longer-term securities, leading to an upward-sloping yield curve.
+Since about mid-2006, the yield curve has been about flat to downward-sloping.
+Currently, the two-year rate slightly exceeds the ten-year Treasury rate, which stands just above 4-1/2 percent.
+A negatively sloped yield curve has, in the past, served as a reasonably good predictor of economic recessions.
+But, there are compelling reasons to suspect that level of liquidity is affecting the slope of the yield curve, and lessening its predictive power.
+The same factors that are contributing to liquidity--low uncertainty about inflation and output--are also driving down term premiums and, hence, long-term Treasury yields.
+Thus, to the extent that low long-term Treasury yields and the negative slope of the yield curve reflects a lower term premium, rather than a lower expected short rate, it is less likely to signal future economic weakness.
+High liquidity could also obscure some information we glean from corporate bond prices.
+What if the current level of liquidity caused lower risk premiums than could be justified by actual credit risks?
+Might a misallocation of resources result?
+Many commentators have pointed to the low spread of corporate yields relative to Treasuries as a sign of investors â€œreaching for yieldâ€ due to perceived excess liquidity.
+Risk spreads, however, appear less exceptional given the remarkable strength of the corporate sector.
+We can decompose risk spreads for corporate bonds into a series of forward spreads over a sequence of time periods.
+Forward spreads include compensation investors require for expected credit losses and a risk premium, and it would be reasonable to expect that investors would have a stronger conviction about expected credit losses in the near term than at future horizons.
+Currently, forward risk spreads one to two years ahead are quite low by historical standards, consistent with very liquid balance sheets, multi-decade low leverage ratios, and robust profitability.
+In sharp contrast, one-year forward risk spreads five or ten years ahead are higher relative to their averages of the previous ten years.
+I take some comfort from these implied forward spreads to suggest that investors may not be unduly sanguine about potential credit losses beyond the near-term.10 Of course, too much precision cannot be put on assessments of risk premiums.
+This is an area worthy of continued analysis.
+Some market participants tell me that the very low bond default rates seen recently, realized and expected, are themselves a reflection of liquidity.
+That is, excess market liquidity may have allowed less than creditworthy firms to refinance their obligations, thereby only deferring their financial difficulties.
+Other observers note the rise in the second half of last year in the share of new bond issuance that is rated highly speculative, and an increase in purchase and debt-multiples for leveraged buy-outs, suggesting some pick-up in risk-taking that may be indicative of overconfidence.
+This possibility cannot be ruled out.
+Others have pointed to the low levels of stock market volatility in recent months (prior to last week) as indicative of pressures from excess liquidity.
+Naturally, one would expect that high levels of liquidity would lead to lower volatility as investors quickly force asset prices back to their fundamental values.
+But, recent levels are not unprecedented; they were equally low during much of the 1960s.
+And, of course, volatility itself can be volatile.
+There may be good fundamental reasons for risk and risk premiums to be relatively low and for liquidity and confidence to be reasonably strong.
+Even so, the pace of change in the capital markets by credit buyers and sellers reminds us to constantly revisit assumptions underlying the financial and economic environment.
+If liquidity conditions and risk premiums of the last several quarters were the sole basis by which to judge the stance of monetary policy, it would be hard to conclude that monetary policy has been restrictive.
+Of course, the assessment of the stance of monetary policy also depends on a variety of other important factors.
+ConclusionIn summary, liquidity has risen significantly, with important benefits to our financial system and economy.
+An important source of strength has been financial innovation, and while we have yet to see how some new products will play out in a more stressful environment, there almost certainly will remain a greater dispersion and insurability of risks.
+Stable output and price stability have also been important contributors to liquidity and investor confidence by helping to anchor views about longer-term economic outcomes.

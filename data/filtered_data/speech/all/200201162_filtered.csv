@@ -1,0 +1,300 @@
+,sentence
+0,"Good discretionary policy therefore should be, in some meaningful way, rule-like, though it might be impossible to write down in a simple or even complicated equation all the complex considerations that underpin the conduct of such a systematic monetary policy."
+1,"I begin with a discussion of the ingredients of monetary policy: objectives, instruments, models, and strategy."
+2,"Then I introduce the Taylor rule as a simple example of a policy rule, one that has had considerable influence on how the public and indeed monetary policymakers think about monetary policy."
+3,"In particular, forecasts clearly have played a powerful role in shaping the response of monetary policy in a way not reflected in the simple Taylor rule."
+4,Uncertainty about the estimate of the NAIRU has influenced the timing and aggressiveness of response of monetary policy to movements in the unemployment rate.
+5,"In addition, changes in the equilibrium real interest rate and the potential implications of a very low nominal funds rate have been important considerations in policy deliberations."
+6,"Objectives, Instruments, Models, and Strategy Let's begin by identifying the objectives and instruments of monetary policy."
+7,"In broad terms, the Congress has given the Federal Reserve a two-part or dual mandate--to promote ""maximum employment"" and to foster long-run price stability."
+8,"The price stability objective has come to be interpreted as a low, stable rate of inflation."
+9,"Maximum employment is usually interpreted as maximum ""sustainable"" employment, meaning the maximum level of employment sustainable without upward pressure on inflation."
+10,This interpretation of the employment objective ensures it is compatible with the price stability objective in the long run.
+11,Monetary policy has been given full responsibility for achieving price stability.
+12,"This reflects the widespread acceptance of the theoretical propositions that inflation in the long run is principally, if not exclusively, a monetary phenomenon and that price stability (as opposed to significant inflation or deflation) is the environment most conducive to achieving a high, sustainable rate of growth in output over time."
+13,"With respect to aggregate demand management, fiscal policy still plays an important role through the operation of the automatic stabilizers (tax and to a more limited extent spending responses to changes in the level of activity), but discretionary fiscal policy has generally been less nimble than monetary policy and hence had not been used or even discussed much if at all until last fall."
+14,"While generally relegated to the sidelines in the face of standard cyclical fluctuations, fiscal policy can be an important complement to monetary policy in the face of very large shocks or when interest rates are already low, limiting the scope for monetary stimulus."
+15,"Economic theory--specifically the neutrality of money--indicates the limits to any influence of monetary policy on the level and growth rate of real GDP in the long run, other than through achieving long-run price stability."
+16,"At the same time, theoretical analysis and empirical evidence supports a role for fiscal policy--through control over the structural budget deficit and through the structure of marginal tax rates and tax incentives--in influencing the level and the rate of growth of real living standards."
+17,The instrument of monetary policy in the United States is the control over the level of reserves through open market operations.
+18,Almost all central banks use this or other instruments as a means of holding some very short-term interest rate as close as possible to a target level.
+19,"Because the Fed's ability to control the funds rate is very good, that rate, in effect, is the instrument of monetary policy."
+20,The strategy of monetary policy involves thinking about how the federal funds rate should be adjusted in response to incoming data and/or evolving forecasts in order to promote the objectives of monetary policy.
+21,The best approach to making such adjustments will depend on the model that policymakers believe describes the determination of output and inflation.
+22,"For example, if--as I will assume--that model indicates that the balance of potential aggregate supply and aggregate demand in the output and/or labor markets is a proximate source of upward or downward pressure on the inflation rate, then proxies for that balance will play a role in informing policymakers' views about appropriate adjustments in the policy rate."
+23,"Another key property of many macro models is that, while there is no trade-off between inflation and output in the long run, there is a trade-off between output variability and inflation variability."
+24,"Commitment and Rules versus Discretion A strict rules-based policy establishes an unequivocal commitment by policymakers to achieve their policy objectives, especially to meeting their inflation objective."
+25,"Such a commitment, in turn, increases the transparency and accountability of monetary policy and thereby helps to pin down inflation expectations."
+26,"In principle, the resulting credibility about policymakers' commitment to price stability could reduce the cost of disinflation, if inflation were to rise above the objective, and could reduce the spillover of supply shocks--that is autonomous shocks to the price level--into broader price movements."
+27,"Specifically, this view builds on the observation that, at least in certain models, monetary policymakers have an incentive to convince private agents of a commitment to price stability and then ""cheat"" on their commitment by driving the unemployment rate down, at the expense of higher inflation in the future."
+28,"However, the public understands the temptation on the part of the policymaker to cheat at any given moment and so expects higher inflation than would be the case if policymakers were willing and able to commit themselves to follow a rule."
+29,"However, I have never found it to be a convincing description of the conduct of real-world monetary policymakers in countries where the central banks have a high degree of independence from the rest of government."
+30,"Absent such political influences, it is not evident that independent monetary policymakers would prefer an unemployment rate below the non-accelerating inflation rate of unemployment (NAIRU), as is often assumed in the time-inconsistency literature."
+31,A more nuanced view of policy--and a more realistic one--is that monetary policymakers recognize that they play a repeated game with learning by private-sector decision-makers.
+32,"This, in turn, results in long-term rates moving more quickly and assuredly in response to changing economic conditions, in the expectation that monetary policy action will follow."
+33,"Therefore, while monetary policy can follow a rule-like behavior, it can and should avoid the straightjacket of a quarter-to-quarter commitment to a strict rule."
+34,"For example, Westaway (1989) shows that if the economy undergoes an unforecastable persistent shift in some variable--for example, potential output--commitment to an ex ante optimal rule can be worse than discretion.2 This seems particularly relevant to the economy in the second half of the 1990s when policymakers were adapting to new information about the underlying rate of productivity growth."
+35,"A systematic monetary policy, informed by policy rules but flexible enough to adapt to structural changes and other real-world complexities, is therefore, in my view, the best direction for monetary policy."
+36,The key feature of the rule is the systematic response of the real federal funds rate to deviations of output and inflation from their respective targets.
+37,The policymaker following this rule is aiming to stabilize inflation around its target and output around its so-called potential level.
+38,It is sometimes referred to as potential output or the full employment level of output.
+39,"Implicit in this concept is that an excess of output relative to its potential level pushes inflation higher; and of course, a deficiency of output relative to its potential level pushes inflation lower."
+40,Potential output is therefore the maximum level of output sustainable without upward pressure on inflation.
+41,"In terms of the unemployment rate, the deviation of unemployment from its objective is U - U*, where U* is the NAIRU, or the level of the unemployment rate associated with full employment."
+42,"To define a corresponding gap for inflation, we have to identify an inflation objective."
+43,"For a given inflation target, p*, we can then write the inflation gap as p - p*, where p is the actual rate of inflation."
+44,"The Taylor rule assumes a constant equilibrium real federal funds rate, in effect a constant ""neutral"" level of that rate, appropriate when both price stability and full employment have been achieved."
+45,"When output or inflation deviate from their respective targets, policymakers vary the nominal funds rate (their instrument) to move the real funds rate relative to r*."
+46,The last ingredient for the Taylor rule is the numerical values of the response parameters that determine how much the real funds rate should be adjusted for a given deviation of output and inflation from their respective targets.
+47,"We can then write the Taylor rule as (1) i = r* + p + 0.5y + 0.5(p - p*) or, using the definition of the real interest rate, r = i - p, (1') r = r* + 0.5y + 0.5(p - p*) It is important to distinguish two possible uses for such a rule."
+48,There are two important lessons that central bankers can learn directly from the simple Taylor rule.6 (1) Vary the real interest rate in response to deviations of inflation from its target.
+49,A key insight from the Taylor rule for the nominal interest rate is that the coefficient on inflation must exceed one.
+50,"Combining the two terms on inflation in equation (1), the coefficient in the simple Taylor rule is 1.5."
+51,"If the coefficient were less than one in the equation for the nominal rate, an increase in inflation would be accompanied by a decline in the real interest rate, stimulating aggregate demand and reinforcing the upward pressure on inflation."
+52,"A coefficient greater than one ensures that higher inflation will be followed by a rise in the real interest rate that will, in turn, restrain aggregate demand and thereby contribute to restraining the rise in inflation."
+53,(2) Vary real and nominal interest rates in response to changes in resource utilization rates.
+54,Resource utilization rates--such as the output gap or the unemployment gap--are an important factor in the dynamics of inflation.
+55,"As long as policymakers have an inflation objective, they should respond to resource utilization rates as a leading indicator of inflation pressure."
+56,"Of course, if policymakers are concerned directly with stabilizing output as well as inflation, then there is an added reason to respond to deviations of output from this objective."
+57,"In this case, the response to resource utilization rates will be more aggressive than if utilization rates are only a leading indicator of inflation."
+58,"Following this guideline would ensure that monetary policy leaned against the cyclical winds, with the real interest rate rising during periods of above-trend growth--even when the unemployment rate is still high--and with real interest rates falling when growth was below trend--even when the unemployment rate is still low."
+59,The first step in such research is to specify a loss function that describes the costs to society associated with deviations of output and inflation from their respective targets for each period of time.
+60,"Such a loss function, for a given quarter, is usually specified as a weighted sum of squared deviations of output and inflation from their respective targets."
+61,(2) L = y2 + w(p - p*)2 where w is the relative cost associated with inflation compared to output deviations.
+62,"In the dynamic setting in which monetary policy is typically analyzed, the total loss is a discounted sum of these weighted deviations over time."
+63,"The first equation is typically a dynamic specification of the standard IS curve, such as (3) yt = a + byt-1 - crt-1 + ey where ey is the random error term and b and c are positive.7 The second equation is typically some variation of the expectations-augmented Phillips Curve in which inflation depends on both the output gap (a measure of the balance between aggregate demand and potential supply) and expected inflation, such as (4) p = dy + [ fpt-1 + (1 - f )Et(pt+1)] + ep where ep is the random error term, Et(pt+1) is expected inflation next period, based on information available today, and d and f are positive."
+64,"The bracketed term for expected inflation can be interpreted as a combination of sophisticated forecasts of inflation, Et(pt+1), and rule-of-thumb forecasts based on past inflation, pt-1."
+65,Efficient rules are those that minimize a weighted sum of output variance and inflation variance for some choice of weights.
+66,Efficiency frontiers can be derived that show the minimum levels of the output variance that can be achieved for a given level of inflation variance (and vice versa).
+67,In the following section I will discuss the research on alternative specifications that retain the spirit of the Taylor rule but try to either reconcile the practice of monetary policy with the evidence on optimal policy responses with a simple Taylor rule or otherwise improve upon the stabilizing properties of that rule.
+68,"To apply the Taylor rule empirically, we have to determine the specific measures for inflation and for the resource utilization rate, identify the target levels for the inflation and utilization rates respectively, and define and estimate the value of the equilibrium real interest rate."
+69,The Measure of Inflation There are several measures of inflation that have been used in simple policy rules.
+70,Taylor himself uses the aggregate price level underlying the definition of real GDP to compute his measure of inflation.
+71,"It is a comprehensive measure of the average price level of goods produced in the United States and, as such, has a broader coverage of goods than the basket of goods and services the typical household consumes."
+72,"Most inflation-targeting countries use a measure of consumer price inflation, comparable to our CPI, or a measure of core consumer price inflation that nets out the direct influence of volatile components whose movements are not closely related to the overall balance of aggregate demand and supply."
+73,It is not clear theoretically whether a producer or consumer price measure is preferable.
+74,"The preference for the CPI in inflation-targeting countries may be due to its visibility, facilitating the communication of policy objectives to the public."
+75,"In any case, work at the Board suggests that there is not much difference in economic performance associated with the choice among producer or consumer price measures."
+76,"10 There are, however, a couple of situations for which the choice of inflation rate in the policy rule does matter."
+77,"A change in the exchange rate, for example, would immediately affect a consumption price measure, but not the production price measure of inflation."
+78,"Whether or not the inflation rate directly captures the effect of a change in the price of imported goods may, in turn, affect whether or not the policy rule prescribes an immediate response of monetary policy to an exchange rate shock."
+79,"The role of nominal exchange rate fluctuations in affecting monetary policy decisions is likely to be more important in smaller open economies, like Canada and New Zealand, than in the United States."
+80,An oil price shock is a second example of a situation where the choice of the inflation measure in the policy rule will affect the policy response.
+81,"As a result, the aggressiveness of the immediate policy response prescribed by a policy rule would be greater for a consumption- than production-based measure of inflation."
+82,A second reason is that selecting a core measure of consumer prices would eliminate the direct effect of swings in oil prices altogether and hence eliminate any direct response of monetary policy to the temporary inflationary impetus of a one-time rise in the price of oil.
+83,The choice of a core measure of consumer prices for the inflation rate in the policy rule is consistent with a third guideline for monetary policy that I discussed in my earlier paper on monetary policy strategy: Monetary policy should look though the direct effect and respond only to the secondary effects of supply shocks.
+84,"By expressing the Taylor rule in terms of core measures of consumer price inflation, policymakers are encouraged to ""look through"" temporary increases in energy or food prices, responding only to the extent this inflation shock spills over into broader price developments, as captured in the core measure of inflation."
+85,"Note, however, that this consideration will be less important in forward-looking versions of the rule I discuss below, because forecasts also ""look through"" the temporary effects of supply shocks on inflation."
+86,A final operational detail is whether the inflation rate should be measured in the quarter corresponding to the nominal funds rate or as an average over some longer period.
+87,"The inflation measure will, in effect, determine the measure of the real interest rate, so the question in part is whether to use an ex post measure of the real interest rate or whether to use a measure that might better capture the expected inflation rate."
+88,An average over the past year that washes out some of the high frequency noise in quarterly inflation rates has been identified by a number of investigators as a pragmatic choice.
+89,"In support of this proposition, Levin, Wieland, and Williams (2001) find that using an average inflation rate over the previous four quarters in the policy rule, rather than the inflation rate in the current or previous quarter, can improve performance."
+90,"Using an average inflation rate reduces the risk of responding to noise in higher-frequency inflation data and, as a result, unnecessarily destabilizing output in an effort to control inflation."
+91,"The Inflation Target Many central banks today operate with an explicit, numerical inflation objective."
+92,Identifying the inflation target--for both the policymakers and the public--is of course relatively easy in inflation-targeting countries.
+93,"The simple solution in the case of the range is to use the mid-point when performing Taylor rule calculations.11 The Federal Reserve does not have an explicit numerical inflation objective, which to my mind is unfortunate."
+94,"But that was a topic for an earlier paper.12 To implement a Taylor rule for the United States empirically, it is therefore necessary to make some assumption about the value of the FOMC's implicit inflation objective or to estimate the FOMC's inflation objective as part of an estimation of the parameters of the Taylor rule."
+95,"The public, for example, could infer an implicit inflation target from past actions or recent statements of the FOMC."
+96,That leaves open the interesting question of how policymakers would implement a Taylor rule when they have not established an explicit inflation target.
+97,"In any case, Taylor assumed a 2 percent inflation target, for the GDP measure."
+98,"That would be consistent, based on recent experience, with about a 2 percent inflation rate for the PCE measure and a 2-1/2 percent rate for the CPI."
+99,"I have indicated a preference for a 2 percent objective for inflation based on the CPI, corresponding to 1-1/2 percent for the PCE and GDP-based measures of inflation."
+100,"Measuring the Utilization Rate One of the Fed's objectives is, as noted earlier, maximum sustainable employment."
+101,"This is usually interpreted as an objective of smoothing output relative to potential output or the unemployment rate relative to its ""full employment"" level, the NAIRU."
+102,The consensus model that underlies most research on policy rules also assumes that the balance between potential supply and demand in the labor and/or output markets is a proximate source of movements in the inflation rate.
+103,"So, even if there were not an output or employment stabilization objective, monetary policy makers would respond to the output or unemployment gaps in order to meet its inflation objective."
+104,"In operational specifications of the model, we therefore estimate their values using some macroeconometric procedure, potentially subject to considerable error, and then use the estimated values to form measures of the utilization rates--the output gap and unemployment gap."
+105,The resulting measures of the output gap and unemployment gap are examples of proxies for the unobserved utilization rates.
+106,Some models of inflation dynamics give primary weight to excess demand in the labor market and hence support the choice of the unemployment gap.
+107,Others focus directly on excess demand for goods and hence support a choice of an output gap.
+108,"Because there is a well-known regularity linking with output and unemployment gaps, summarized in Okun's Law, there is, in practice, relatively little difference between the two measures.13 A further complication, and one I believe has been very relevant during the period I have been on the FOMC, is that there can be transitory as well as more persistent changes in the level of potential output or the NAIRU."
+109,Research at the Board suggests that a persistent increase in the rate of structural productivity growth--as occurred in the second half of the 1990s--may have resulted in a temporary decline in the NAIRU.
+110,This arises because of the different speeds at which workers and firms perceive the changed prospects for the growth of real wages.
+111,"Thus a permanent increase in productivity growth leads to a temporary but persistent decline in the SR-NAIRU.14 The short-run NAIRU is the variable that should enter the Taylor rule, because it pins down the inflation dynamics over the period relevant to policy and also identifies the unemployment rate consistent with price stability in the near term."
+112,"It should be noted that this model of inflation dynamics--based on a possible divergence of the short-run from the long-run NAIRU--is not universally accepted, even among those who find the Philips Curve a useful analytical tool."
+113,"But, if this is the correct model--and I believe it is--then the utilization rate in the Taylor rule should be the gap between the unemployment rate and the short-run NAIRU or a measure of the output gap consistent with latter measure of the unemployment gap."
+114,Defining and Measuring the Equilibrium Real Interest Rate The last of the variables in the Taylor rule is the equilibrium real interest rate.
+115,One possible definition of the equilibrium real rate is the value consistent with balance between potential aggregate supply and demand over a period that allows time for the economy to move back to equilibrium after some disturbance.
+116,"Taylor used 2.0 as his estimate of the equilibrium real rate in his rule, close to the average from 1960 to the mid-1990s based on the GDP measure of inflation."
+117,"However, there are good theoretical reasons for expecting the equilibrium real interest rate to change over time."
+118,Incorporating a time-varying measure of the equilibrium real interest rate in the Taylor rule is one of the refinements I will discuss below.
+119,Parameterization of the Simple Taylor Rule There are two parameters in the Taylor rule: the aggressiveness of the response of the federal funds rate to changes in the output and inflation gap respectively.
+120,"In general, the studies of efficient policy rules find that policymakers should respond to inflation about as aggressively as Taylor assumed, but should respond to output gaps more aggressively."
+121,Studies of efficient rules based on Taylor's specification suggest that raising the coefficient on the output gap to about one reduces the variability of both output and inflation15 .
+122,"I prefer to use the unemployment gap because it highlights a controversial issue, the estimate for the NAIRU."
+123,I would measure the unemployment gap as the difference between the unemployment rate and the short-run NAIRU.
+124,"While the short-run NAIRU, in my view, fell well below the long-run NAIRU in the late 1990s, the recent slowdown in structural productivity growth has, in my view, pushed the short-run NAIRU back to close to its long-run value that I estimate to be about 5-1/4 percent."
+125,"For the core CPI as the inflation measure, my target would be 2 percent."
+126,"For a constant equilibrium real rate, I would use about 2.5 percent.16 For the response parameters I would use 0.5 on the inflation gap and 2.0 on the unemployment gap (the equivalent to 1.0 on the output gap)."
+127,But I will discuss below the case for attenuating the response to the output or unemployment gap during periods of elevated uncertainty about their measurement.
+128,Another set of questions is motivated by the challenges faced by policymakers in the second half of the 1990s and during period of economic weakness in 2001 and the related research attempts to reconcile policy rules with monetary policy in practice.
+129,"Interest Rate Smoothing Rudebusch (2001), Sack (2000), and Ball (1999) find that historical changes in the federal funds rate are smaller, more inertial, and exhibit fewer reversals than would be expected under the optimal policy rules derived from many models."
+130,"If the question is a matter of fitting the data, the simple Taylor rule can be revised so that it is consistent with the observed gradual adjustment of interest rates to changes in output and inflation."
+131,"One way to do so would be the following partial-adjustment equation for the nominal interest rate: (5) it - it-1 = g(iNt - it-1) In a given period, policymakers adjust the federal funds rate to move it a fraction of the way toward its ""notional value"" iN, which is in turn determined, for given values of y and p, by equation (1)."
+132,Thus the partial adjustment specification yields a gradual adjustment of the funds rate to changes in y and p. Empirical researchers often employ the partial adjustment framework and typically find the lagged interest rate term to be overwhelmingly significant.
+133,Another specification that allows for gradual adjustment of the nominal interest rate is a generalized version of the Taylor rule that adds a term involving the lagged nominal funds rate to equation (1).
+134,The harder question is why do monetary policymakers appear to engage in interest rate smoothing.
+135,The literature suggests three possibilities: policymakers attach a cost to interest rate variability; the more gradual response yields better policy outcomes when policymakers are uncertain about the model parameters or the model itself; and the shocks to which policymakers respond are serially correlated.
+136,"In the first case, interest rate variability would be an additional term in the loss function and policymakers would aim to smooth interest rate movements as they sought to achieve the other objectives of monetary policy, perhaps because they were concerned that excessively volatile interest rates could threaten financial stability."
+137,"In my experience, a simple aversion to large movements in interest rates has not played a prominent role in policy discussions or decisions."
+138,"Finally, there could be measurement uncertainty, uncertainty about the measurement of the variables to which monetary policy responds, y and p in the model."
+139,Sack (2000) finds that the optimal rule under certainty equivalence yields more aggressive interest rate movements than observed.
+140,They find that a small degree of partial adjustment can dramatically lower the volatility of the short-term interest rate with negligible effects on output and inflation variability in such models.
+141,The reason may be that partial adjustment makes future movements in interest rates more predictable and forward-looking behavior brings those effects forward.
+142,"In effect, more predictable movements in short-term rates allow expectations of future short-term rates to be embedded today in long-term interest rates and asset prices."
+143,"Lastly, Rudebusch (2000) and others have argued that policymakers might appear to adjust interest rates gradually, even when they do not do so, because the estimated policy rule likely omits important variables that are serially correlated."
+144,"Noisy Information In light of my experience on the FOMC, the aspect of the Taylor rule that has been most controversial and most challenging is how to implement the prescription that policymakers should adjust the federal funds rate in response to movements in the output gap or the unemployment gap."
+145,"Even among those who accept the underlying model that gives rise to this conclusion--some version of the Phillips curve as a model of inflation dynamics--the degree of policy response to changes in the output gap is a major source of controversy, given the considerable uncertainty about the estimate of the NAIRU and the related uncertainty about the size of the output gap."
+146,"In particular, his results contradict the finding by Taylor (1999) and Clarida, Gali, and Gertler (2000) that practice of monetary policy improved in the 1980s and 1990s, compared to the 1960s and 1970s."
+147,"In the earlier period, they find that coefficient on inflation in the Taylor rule is less than one, implying that monetary policy actions destabilized rather than stabilized inflation."
+148,"In the later period, they find that the coefficient on inflation is greater than one."
+149,"Orphanides (2001b, 2002) concludes that the poor performance of monetary policy in the 1970s was not due to the failure of monetary policy to respond aggressively enough to inflation, but rather to an overly aggressive response to output gaps or unemployment gaps measured with considerable imprecision."
+150,His research supports concerns voiced earlier by Friedman (1968) and Meltzer (1987) that overly active monetary policy could turn out to be destabilizing.
+151,But let's think of monetary policy as being implemented by setting the growth rate of reserves.
+152,"After all, this is the ultimate instrument of monetary policy."
+153,In this case a passive policy would be a constant rate of growth of reserves.
+154,"The constant rate would of course be set to be consistent with the long-run price stability objective, but it would be independent of movements in output or inflation."
+155,Consider the implications of a positive aggregate demand shock under such a policy.
+156,"Holding reserve growth constant, an autonomous increase in aggregate demand would increase nominal and real interest rates."
+157,"To mimic this non-activist policy under an interest rate rule, there would therefore have to be a positive coefficient on output."
+158,"A coefficient of zero would imply that monetary policy responds to a positive demand shock by increasing the rate of reserve growth to prevent a rise in interest rates, precisely the policy response that Meltzer and Friedman warned against."
+159,"That is, a zero coefficient would imply that monetary policy should respond perversely to demand shocks with open market operations that reinforced the shock."
+160,This is not to deny that monetary policy could be overly aggressive and therefore destabilize output.
+161,"Today, in my view, we both have a clearer understanding of the concepts of potential output and the NAIRU, and hence of inflation dynamics, and we have evolved better procedures for making real-time adjustments in our estimates of potential output and the NAIRU in response to incoming data."
+162,"If this ""filtering"" of the data is very good, then measurement uncertainty will have little effect on the optimal response output or unemployment gaps."
+163,"If the filtering is very poor on the other hand, as it clearly was in the 1970s, then policy is likely to be improved, as Orphanides has suggested, by attenuating the response to output or unemployment gaps, that is, by downweighting the response to changes in output or unemployment gaps."
+164,They also found that the response to inflation should be attenuated as well.
+165,"A second strand of the literature on noisy information uses signal extraction models.20 In Swanson (2000), inflation dynamics are assumed to depend on ""excess demand,"" an unobserved variable."
+166,"Empirical models must therefore use imperfect proxies for excess demand, such as estimated output and unemployment gaps and inflation."
+167,Swanson found that policy can be improved by attenuating the response to the proxy in proportion to the degree of lack of confidence in the accuracy with which it measures excess demand.
+168,He also found that policy is improved by raising the aggressiveness of the response to inflation to compensate for the increased uncertainty about utilization indicators.
+169,"When the level of the unemployment rate is close to the best estimate of the NAIRU, policymakers should significantly attenuate their response to the unemployment gap, reflecting the large amount of uncertainty they face about the magnitude and even sign of the gap."
+170,"However, when the unemployment rate moves further away from their best estimate, policymaker's confidence increases that there is excess demand or supply and, as a result, policymakers should incrementally increase the aggressiveness of their response."
+171,"On the other hand, there may still be a case for attenuating (but except in extreme cases not eliminating) the response to changes in output or unemployment gaps in periods of elevated uncertainty about their measurement."
+172,"This uncertainty, in my view, became an important consideration for monetary policy in 1999, once it had become clear that the Asian financial crisis and global financial instability were not slowing growth in the United States."
+173,The continued low level of the unemployment rate might have suggested a much quicker reversal of the 75 basis point easing that had been implemented in the fall of 1998 when financial market conditions deteriorated and the forecast of real economic activity suggested a risk of a significant slowdown.
+174,"Much of the discussion at FOMC meetings is focused, after all, on the forecast of output and inflation."
+175,"In forecast-based rules, the utilization and inflation rates are replaced by the forecast of the future values of these variables."
+176,Policy affects output and inflation with a lag.
+177,"Therefore, if policy actions responded directly to forecasts, this might speed the response of policy to shocks and thereby reduce output and inflation variability."
+178,"Furthermore, a good forecast will cause policymakers to ""look through"" transitory fluctuations in inflation and resource utilization, and only respond to more persistent fluctuations."
+179,"They find that the optimal forecast horizon is relatively short, one year at most, and that rules using longer horizons are less robust with respect to model uncertainty.21 A possible explanation follows from the response of longer-term interest rates to expectations of future policy."
+180,"To the extent that longer-term interest rates do accurately reflect future policy actions, the bond market will speed the response of the economy to actual interest rate moves implemented under an outcome-based rule, essentially replicating the results that otherwise would have been achieved if the policymakers themselves had implemented policy based on the forecast."
+181,"However, in my experience, sharp movements in policy--as during the fall of 1998 and during early 2001--often reflect a response by policymakers to a discrete and sharp change in the forecast, one that is not apparent from simply looking at current aggregate measures for output and inflation."
+182,"Time-Varying Equilibrium Real Interest Rate While the simple Taylor rule assumes a constant real equilibrium funds rate, research at the Board suggests that there has been significant time variation in the equilibrium interest rate over the past forty years."
+183,Theoretical models and empirical evidence suggest that movements in the rate of structural productivity growth and in the structural budget deficit are important sources of the variation in the equilibrium real rate over time.
+184,The 1960s and the second half of the 1990s were the periods of peak underlying productivity growth over the last forty years.
+185,Laubach and Williams find that incorporating a time-varying estimate of the equilibrium real federal funds rate into a policy rule significantly reduces the variability of output and to a lesser extent inflation.
+186,This is another issue that became important in monetary policy deliberations in the second half of the 1990s.
+187,"Once it became clear that the acceleration in productivity was playing a very important role, the question arose as to its implications for the equilibrium real interest rate."
+188,"If the productivity acceleration raised the natural rate, holding the policy rate constant would result in an increase in monetary stimulus, measured by the gap between the natural and policy rates."
+189,"A policy rule with a time-varying equilibrium real rate would encourage policy makers to adjust the policy rate to keep in line with the equilibrium real rate, except as justified by movements in the output and inflation gaps."
+190,"However, the technology for measuring a time-varying real interest rate was evolving at the same time and there was therefore considerable uncertainty about how large an increase in real rates was called for."
+191,"Continued work in estimating a time-varying equilibrium rate would be an important contribution to policy rules and would in turn provide useful information to policymakers, at least during periods of significant changes to the underlying pace of productivity growth or when there are other developments that might affect the equilibrium real rate."
+192,"Implications of the Zero Nominal Bound As the nominal funds rate fell to very low levels at the end of 2001, it raised an issue that had been discussed in principle at a conference sponsored by the Federal Reserve in 2000 and that has confronted the Bank of Japan in recent years--the possibility that the effectiveness of monetary policy could be diminished in a low inflation environment.22 The typical linear specification of the Taylor rule assumes that the FOMC can move the nominal funds rate as appropriate to achieve its objectives."
+193,"The real federal funds rate, equal to the nominal funds rate less inflation, can therefore only be as negative as the rate of inflation."
+194,"As a result, if the inflation rate is zero, the zero nominal bound prevents the real rate from becoming negative and this constraint, at times, could limit the ability of policymakers to adjust policy aggressively enough to stabilize output."
+195,They run stochastic simulations with alternative inflation targets in the model's policy rule.
+196,"For an inflation target of 4 percent, the zero bound is reached less than one percent of the time and the average duration of a spell of zero interest rates is about two quarters."
+197,"As the inflation target falls toward zero, both the frequency and duration of zero interest rate episodes increase."
+198,"The relationship is highly nonlinear, so there is not much affect as the target inflation rate falls to 2 percent; but when the target falls below 2 percent, such episodes become progressively more common and more prolonged."
+199,"At a zero inflation target, the funds rate is at the zero bound 14 percent of the time and the average duration of these spells is one and a half years."
+200,And there is a clear tendency for the cyclical performance of the economy to deteriorate as the inflation target falls below two percent: the frequency of mild recessions declines and the likelihood of severe contractions correspondingly increases.
+201,"The first lesson to policymakers from this research is that the inflation objective should be positive, to provide some cushion for real interest rates to be negative if necessary to stabilize the economy."
+202,"This is perhaps one reason why the ""price stability"" objective should be implemented as a ""low inflation"" objective, what I refer to as price stability plus a cushion."
+203,"In practice, perhaps in part for this reason, central banks with explicit inflation targets typically have inflation objectives with a mid-point of about 2 percent.23 As the nominal funds rate declined to and then below 2 percent late in 2001, some argued that the FOMC should ""hold its ammunition,"" meaning that it should not implement cuts that it otherwise would have made in order to preserve the opportunity to respond to any further unexpected adverse shocks."
+204,"Reifschneider and Williams (2000) find that rules with more aggressive response parameters work better when the nominal bound is a potential constraint, in part because they quickly move the nominal funds rate toward zero when the economy weakens and inflation is low."
+205,"Indeed, it is because aggressive response parameters increase the likelihood that nominal funds rate will be driven to zero that they do a better job of damping fluctuations in output and inflation and heading off potential deflations."
+206,"An implication of this research is that the potential deterioration in cyclical performance as a result of the zero nominal bound can be compensated for by an asymmetric policy response, specifically by a more aggressive response to both declines in output and inflation when nominal rates are already very low."
+207,"The principle underlying the respecification is that monetary policymakers have to find a way to lower real long-term rates, even when the nominal interest rate is at the zero bound."
+208,"They may be able to do so to the extent they can make a commitment today about their future policy actions, thereby altering expectation in the market today about the future path of short-term interest rates."
+209,"Specifically, if they can commit to maintaining a lower path of the nominal funds rate in the future, even when the zero nominal bound is no longer a constraint, they may be able to lower real long-term interest rates today."
+210,A second respecification suggested by Reifschneider and Williams uses a longer period for defining the average inflation rate in the rule.
+211,"If the average inflation rate is constructed over a three-year period, policymakers will attempt to offset subperiods when inflation is below the target with inflation above the target over the subsequent subperiod."
+212,"This means that if inflation falls below the target, the policymakers commit to a more stimulative policy for a while in the future and hence to a longer period of low nominal funds rate."
+213,"This again could reduce long-term real interest rates today.24 While both respecfications improve the performance of the economy during periods subject to the zero nominal bound, they raise a question about the credibility of the commitment implied by the rule."
+214,"The Role of Other Variables in the Policy Rule Should policymakers respond only to actual or prospective changes in output and inflation, or would policy be improved if policy also responded directly to other variables?"
+215,Two candidates often singled out for additional attention are the exchange rate and equity prices.
+216,"Monetary policy and exchange rates Ball (1999) and Batini and Haldane (1999) find that in small open economies policy outcomes may be improved by adjusting the short-term policy interest rate in response to changes in the nominal exchange rate, thereby reducing the impact of these movements on output and inflation."
+217,Canada for example used a monetary conditions index--a weighted average of the policy interest rate and the exchange rate--as its monetary policy instrument for some time.
+218,"This implied that any change in the exchange rate would be automatically offset by appropriate movements in the policy rate, for unchanged values of output and inflation."
+219,"Moreover, the implications of a change in the exchange rate for movements in output and inflation depend on the reasons for the change."
+220,Monetary policy and equity prices One of the most controversial issues in the conduct of monetary policy during the second half of the 1990s was whether or not monetary policy should directly respond to movements in equity prices.
+221,"The conventional wisdom, especially among monetary policymakers, is that policy should respond to actual or expected effects of changes in equity prices on inflation and output, but not to the movements in equity prices themselves."
+222,"This is consistent with simple policy rules that exclude equity prices, but include either realized values of inflation and output or forecast values of these variables."
+223,The question is whether monetary policy should also respond directly to asset price movements--and specifically to discrepancies between asset prices and their estimated fundamental value--over and above their effects on output and inflation.
+224,This question became relevant during the second half of the 1990s when some feared an equity bubble was developing that was distorting economic decisions in the near term and the ultimate correction of which could have significant adverse effects on real economic activity.
+225,"In fact, there was a significant correction and, in retrospect at least, the surge in equity prices in the technology sector and subsequent correction looks like a classic emergence and then bursting of an asset price bubble that appears to have contributed to the volatility of output."
+226,"Naturally, the question arises whether monetary policy could have encouraged better outcomes by responding more directly to developments in the equity markets."
+227,"They conclude that trying to stabilize asset prices is problematic, in large part because it is nearly impossible for policymakers to infer whether a given movement in asset prices are consistent with fundamentals or the product of some unsustainable speculative factors."
+228,"Therefore, responding directly to asset prices is more likely to introduce noise and detract from the pursuit of policymakers' fundamental objectives."
+229,"They argue that a disciplined monetary policy, focused on an inflation target, will tend to tighten during inflationary asset booms and ease during deflationary asset price busts, reducing the prospects of larger and more disruptive asset price bubbles and corrections."
+230,"While Bernanke and Gertler confirm the conventional wisdom among monetary policymakers, their research methodology also illustrates the challenges of analyzing the implications of equity price movements."
+231,"They take equity prices movements as exogenous, including an assumed correction in equity prices."
+232,"It is, after all, difficult to model equity price movements that are not driven by fundamentals."
+233,Cecchetti and others (2000) reach the opposite conclusion--that central bankers should directly respond to asset prices.
+234,Cecchetti and others (2000) point out that the difficulty of estimating fundamental value for equities is not different in principle from the difficulty of estimating output or unemployment gaps.
+235,"First, to the extent policymakers consider responding to deviations of equity prices from fundamental value, they should do so based on updated estimates of fundamental value, using all available information to implement the updating."
+236,"Still, in my view, there is no convincing evidence to date that a direct response by monetary policy to equity prices, in any shape of form, would improve economic performance, measured in terms of output and inflation variability."
+237,"There is, I believe, in addition, an important connection between the issue of responding to equity prices and that of a time-varying real interest rate."
+238,"In particular, an acceleration in productivity--perhaps the dominant factor driving economic performance in the second half of the 1990s--might result in both a fundamentally-based rise in equity prices and, in addition, some speculative overshooting."
+239,A productivity acceleration also would be expected to raise the equilibrium real interest rate.
+240,"To the extent that monetary policy allows the real funds rate to rise with any increase in the equilibrium real interest rate, it should provide some restraint to an open-ended speculative rise in equity prices."
+241,"Simple policy rules provide useful guidance for monetary policymakers, are effective in communicating the rationale underlying conduct of monetary policy, and describe how policy has been conducted in several countries, including the United States, at least since the mid 1980s."
+242,The most important feature of such rules is that policymakers should raise real interest rates in response to an increase in inflation.
+243,"Except when uncertainty about the measurement of utilization rates is especially high, effective monetary policy involves some response to changes in utilization rates."
+244,Such response to utilization rates can reduce the volatility of both output and inflation.
+245,"When policymakers attenuate their response to utilization rates, they might improve policy outcomes by increasing the aggressiveness of their response to movements in inflation."
+246,Gradually responding to movements in output and inflation gaps significantly smoothes interest rates without much loss in terms of output and inflation variability.
+247,"When the economy is confronted by an adverse shock at a time when interest rates are already low, policy should move more aggressively than normal."
+248,"References Advisory Commission to Study the CPI, ""Final Report of the Advisory Commission to Study the Consumer Price Index,"" Washington: Government Printing Office, December 1996."
+249,"Ball, Laurence, ""Efficient Rules for Monetary Policy,"" International Finance, 1999, pp."
+250,"Barro, Robert J., and David B. Gordon, ""A Positive Theory of Monetary Policy in a Natural-Rate Model,"" Journal of Political Economy, August 1983, pp."
+251,"Bernanke, Ben, and Mark Gertler, ""Monetary Policy and Asset Price Volatility,"" in New Challenges for Monetary Policy, proceedings of a symposium sponsored by the Federal Reserve Bank of Kansas City, 1999, pp."
+252,"Braun, Steven N., ""Productivity and the NAIRU (and Other Phillips Curve Issues),"" Working Paper Series, Board of Governors of the Federal Reserve System, June 1984."
+253,"Cecchetti, Stephen G., Hans Genberg, John Lipsky, and Sushil Wadhwani, ""Asset Prices and Central Bank Policy,"" Geneva Reports on the World Economy 2, International Center for Monetary and Banking Studies and Centre for Economic Policy Research."
+254,"Clarida, Richard, ""Monetary Policy Rules in Practice: Some International Evidence,"" European Economic Review, 1998, pp."
+255,"_________, ""Monetary Policy Rules and Macroeconomic Stability: Evidence and Some Theory,"" Quarterly Journal of Economics, 2000, pp."
+256,"_________, Jordi Gali, and Mark Gertler, ""The Science of Monetary Policy,"" Journal of Economic Literature, 1999, pp."
+257,"English, William B., William R. Nelson, and Brian Sack, ""Can Omitted Variables Explain the Significance of Lagged Interest Rates in Estimated Policy Rules?"""
+258,"Estrella, A., and Mishkin, F., ""Rethinking the Role of NAIRU in Monetary Policy: Implications of Model Formulation and Uncertainty,"" in Taylor (1999)."
+259,"Friedman, Milton, ""The Role of Monetary Policy,"" American Economic Review, March 1968, pp."
+260,"Fuhrer, Jeffrey C., and Mark S. Sniderman, eds., ""Monetary Policy in a Low-Inflation Environment,"" Journal of Money, Credit and Banking, Part 2, November 2000."
+261,"Henderson, Dale, and Warwick J. McKibbin, ""A Comparison of Some Basic Monetary Policy Regimes for Open Economies: Implications of Different Degrees of Instrument Adjustment and Wage Persistence,"" Carnegie-Rochester Conference Series on Public Policy, 1993, pp."
+262,"Lebow, David E., and Jeremy B. Rudd, ""Measurement Error in the Consumer Price Index: Where Do We Stand?"""
+263,"Levin, Andrew, Volker Wieland, and John C. Williams, ""Robustness of Simple Monetary Policy Rules under Model Uncertainty,"" in Taylor (1999), pp."
+264,"_________, _________, and _________, ""The Performance of Forecast-Based Monetary Policy Rules Under Model Uncertainty,"" Finance and Economics Discussion Series, 2001-39, Board of Governors of the Federal Reserve System, 2001."
+265,"Meyer, Laurence H., ""The Economic Outlook and the Challenges Facing Monetary Policy,"" speech at the Century Club Breakfast Series, Washington University, St. Louis, October 19, 2000."
+266,"_________, ""The Strategy of Monetary Policy,"" 1998."
+267,"Orphanides, Athanasios, ""Monetary Policy Evaluation with Noisy Information,"" Finance and Economics Discussion Series, 1998-50, Board of Governors of the Federal Reserve System, 1998."
+268,"_________, Richard D. Porter, David Reifschneider, Robert Tetlow, and Fredrico Finan, ""Errors in the Measurement of the Output Gap and the Design of Monetary Policy,"" Journal of Economics and Business, 2000, pp."
+269,"_________, and Volker Wieland, ""Inflation Zone Targeting,"" European Economic Review, 2000."
+270,"_________, ""Monetary Policy Rules Based on Real-Time Data,"" American Economic Review, 2001a."
+271,"_________, ""Monetary Policy Rules, Macroeconomic Stability and Inflation: The View from the Trenches,"" Finance and Economics Discussion Series, 2001-62, Board of Governors of the Federal Reserve System, 2001b."
+272,"_________, ""Monetary Policy and the Great Inflation,"" Finance and Economics Discussion Series, 2002-8, Board of Governors of the Federal Reserve System, 2002."
+273,"Reifschneider, David, and John C. Williams, ""Three Lessons for Monetary Policy in a Low-Inflation Era,"" in Fuhrer and Sniderman (2000), pp."
+274,"_________, and Lars Svensson, ""Policy Rules for Inflation Targeting,"" in Taylor (1999), pp."
+275,"_________, and Volker Wieland, ""Interest Rate Smoothing and Optimal Monetary Policy"" Journal of Economics and Business, 2000, pp."
+276,"Hunt and A. Orr, eds., Monetary Policy under Uncertainty, Wellington: Reserve Bank of New Zealand, 1999."
+277,"_________, ""Monetary Policy with Uncertain Parameters,"" Central Bank of Sweden, 1999b."
+278,"Svensson, L., and M. Woodford, ""Indicator Variables for Monetary Policy,"" Princeton University, 2000."
+279,"Swanson, Eric, ""On Signal Extraction and Non-Certainty-Equivalence in Optimal Monetary Policy Rules,"" Finance and Economics Discussion Series, 2000-32, Board of Governors of the Federal Reserve System, 2000."
+280,"_________, ""Historical Analysis of Monetary Policy Rules,"" in Taylor (1999), pp."
+281,"_________, ed., Monetary Policy Rules, University of Chicago Press, 1999."
+282,"Tetlow, Robert, and Peter von zur Muehlen, ""Robust Monetary Policy with Misperceived Models: Does Model Uncertainty Always Call for Attenuated Policy?"""
+283,"Wolman, Alex, ""Staggered Price Setting and the Zero Bound on Nominal Interest Rates,"" Federal Reserve Bank of Richmond, Economic Quarterly, Fall 1998, pp."
+284,"The connection between the output and unemployment gaps is often expressed in an equation referred to as Okun's Law: y = kUGAP, with k typically estimated at about 0.5."
+285,"Empirically, versions of Okun's Law that allow for lags in the relationship between output and unemployment gaps seem to fit better."
+286,"In addition to providing the committee with a forecast consistent with the policy rule, the resulting forecast would also be useful to committee members when they prepare their semiannual forecasts for the Monetary Policy Report to the Congress that are supposed to reflect ""appropriate"" monetary policy."
+287,"These are two of the guidelines for policy that I discussed in an earlier paper, ""The Strategy of Monetary Policy."""
+288,"In much of the recent research on rules, the variances of output and inflation are calculated from the reduced form of the model."
+289,"In the United States, there is also a question as to whether to use the CPI or the PCE measure of inflation for either core or overall consumer prices."
+290,"For example, over the last 12 months, inflation measured by the core CPI is 2.8 percent, compared to just 1.6 percent for the core PCE."
+291,"Orphanides and Wieland (2000) note that ranges may imply a nonlinear policy response, with a stronger response to inflation when it is closer to or outside the zone and milder when inflation is close to the mid-point."
+292,"Still, the output measure in principle takes into account utilization rate of capital as well as of labor and, because the unemployment rate adjusts with a lag to changes in output, there is also some timing difference between the two measures of resource utilization."
+293,"There are, in addition, some proxies for the balance between aggregate demand and potential supply of goods that do not directly build on the unemployment gap."
+294,"They set that parameter to 2.0 and, in addition, set the coefficient on inflation to 2.0."
+295,"When measuring average CPI inflation rates over such a long period, it is important to use the ""research series using current methods""--a series that employs the current methodology consistently over the full historical period."
+296,"The average value of the real federal funds rate over 1961-2001 is 2.7 percent for all three of the inflation measures I have discussed--the chain price measure for GDP, the core PCE, and the current-methods core CPI."
+297,"Over recent years, however, inflation measured by the core PCE has been about ½ percentage point lower than the inflation rate for the core CPI."
+298,A second reason for a positive inflation target is an upward bias in measured inflation rates.

@@ -1,0 +1,111 @@
+It gives me great pleasure to open this conference.
+I would like to thank the Federal Reserve Bank of Boston and Board staff for organizing this important event and all the speakers for the time and effort they have devoted to making this conference worthwhile.
+Indeed, judging from the impressive lineup of speakers, this conference should be a highly useful forum for an exchange of ideas.
+I also want to extend a special welcome to the international supervisors and bankers who are in attendance.
+I know that some of you have spent the earlier part of this week sharing your views about and experiences with the implementation of the Basel II operational risk framework and working to achieve an appropriate level of consistency in implementation across countries.
+Our hope is that this conference will broaden and deepen the understanding within the banking and regulatory community of operational-risk measurement techniques, both quantitative and qualitative, particularly as they relate to the development of the advanced measurement approaches, or AMA.
+I think you have an interesting two days ahead of you, with an opportunity to hear the current state of implementation from banks and regulators.
+Specifically, this morning you will hear supervisors describe the range of practices they observed during the "interagency AMA benchmarking exercise" conducted last year at institutions that will likely be required to adopt Basel II.
+They will also summarize the results of the operational-risk-loss data-collection exercise and Fourth Quantitative Impact Study--known as QIS4.
+This afternoon you will hear from academics and practitioners who are experts in measuring operational risk, and tomorrow you will hear from financial institutions who will share their practical experiences in designing and implementing operational-risk measurement systems and then from regulators on the outstanding policy issues.
+Today, I would like to address some of the practical aspects of implementing Basel II in the United States, including some observations on progress being made in the management and measurement of operational risk as well as some observations on the challenges associated with implementing an AMA.
+Implementation of Basel II in the United States The agencies' reaction to the results of QIS4 shows how seriously we are taking Basel II implementation.
+As you probably know, the agencies issued a statement on April 29 indicating that results from QIS4 were more widely dispersed and showed a larger overall drop in capital than we had expected.
+This was the impetus for deciding to delay issuance of our next round of proposals for Basel II.
+These unexpected results show the continued benefit of conducting periodic quantitative impact studies.
+They serve as a milestone to help us calibrate the progress of the framework and the bankers as we move to Basel II.
+We now must determine the reasons for the unexpected results from QIS4.
+Do they reflect actual differences in risk among respondents when prior supervisory information suggested more similarity in credit quality?
+None of the participating banks has completed their databases and models for all of their risk areas.
+In some cases, this created results that would not be reliable for implementing Basel II.
+For example, for some portfolios, expected losses reflected only the last year or two of results.
+Thus, the strong credit performance of recent experience was not balanced by higher losses at other points of the credit cycle.
+Were there limits of the QIS4 exercise itself?
+Is there a possible need for adjustments to the Basel framework?
+Analyzing the data used in QIS4 is vitally important, because ultimately the success of Basel II will depend on the quantity and quality of data that banks have to use as inputs to the framework.
+U.S. regulators expect to provide additional information on the lessons we learn from the QIS4 review in the near future.
+The notice of proposed rulemaking (NPR) for Basel II will incorporate what we learn from this exercise.
+But we really are caught in a process dilemma.
+Bankers cannot complete their models and collect the necessary data until they know what the specific requirements will be.
+Regulators, on the other hand, will have to develop these requirements before seeing the actual results of these models and robust databases.
+Given what a vast undertaking Basel II is, this seems entirely appropriate and beneficial.
+In addition to what we learn from the work on QIS4 results, we will also assess the trading and banking book comments of the Basel Committee on Banking Supervision and the International Organization of Securities Commissions.
+We will incorporate the latest proposal into the notice of proposed rulemaking and hope to complete our efforts in a timely manner.
+In addition, under our current plans, we also will be delaying issuance of an advance notice of proposed rulemaking to revise current capital rules for non-Basel II banks.
+U.S. banking regulators have long recognized that the existing capital rules need to be updated.
+These modifications are needed to reflect changing products and risk exposures and also to address potential competitive impacts from Basel II.
+We plan to issue these proposals for public comment concurrently with, or soon after, the NPR on Basel II to allow the banking community to comment on a combined package.
+I will now turn to some observations about operational risk.
+Observations Related to Implementing an AMA As you may know, I have spent much of my career in the field of risk management, and of course the Federal Reserve has a keen interest in this topic.
+For those of us who have spent more than a few years in the business, it is easy to see the recent progress in the quantitative aspects of risk management brought about by improved databases and technological advances.
+Indeed, the development of techniques for the measurement and management of operational risk is very dynamic, with much progress being made relatively recently.
+Evidence of this dynamic development process can be seen in the results of an interagency AMA benchmarking exercise conducted last year, as well as the results of the operational-risk-loss data-collection exercise and QIS4.
+In fact, one very encouraging sign of progress in measuring operational risk is the broad participation we saw in the loss data-collection exercise and on the operational-risk portions of QIS4.
+As you will hear in more detail later this morning, twenty-seven institutions participated in these exercises; and it appears that, based on our preliminary analysis of the submissions, significant progress has been made in the collection of operational-risk data and the quantification of operational risk.
+A review of the loss data submitted by you and your colleagues shows a substantial increase in the number of institutions collecting operational-risk data over the past five years.
+In addition, the QIS4 responses suggest that although significant quantification challenges remain, many institutions are developing sophisticated approaches for measuring their operational-risk exposure.
+It has often been argued that measuring operational risk is much more difficult than measuring market or credit risk.
+The lack of a consistent definition of operational risk (until recently); the central role of the internal control environment; the relatively short time span of historical loss data; and the important role of infrequent, but very large, loss events are just some of the challenges that operational-risk measurement systems have had to confront.
+Coming up with credible ways of capturing the tail of the loss distribution and, just as important, of verifying that it has been captured in a reasonably accurate and consistent way, have presented interesting challenges to those developing operational-risk measurement frameworks.
+But, in a very real sense, these challenges have become the true strengths of the operational-risk measurement discipline.
+As will be very evident from the presentations over the next two days, tremendous creativity and insight have been brought to bear on the issue of operational-risk measurement.
+To address the difficulties presented by the very nature of the risk, the designers of operational-risk measurement frameworks have had to be more innovative, take bigger steps into new territory, and be more willing to step away from traditional--and comfortably familiar--techniques than their counterparts in the market- and credit-risk arenas.
+Designers of operational-risk measurement systems have had to do some really fundamental thinking about the goals of risk measurement and about the tools used to achieve those goals.
+As a result, we have seen innovation in the use of "soft" data derived from scenario analysis, risk self-assessments, and the judgment of senior business managers.
+We have seen creativity in the melding of internal and external loss data to guide thinking about internal loss exposures.
+Perhaps most significantly, we have seen some truly innovative thinking about ways to integrate operational-risk measurement into the broader framework of operational-risk management.
+I commend you on all that you have accomplished to date, but substantial work remains to be accomplished before Basel II can "go live."
+I strongly encourage both bankers and supervisors to continue their efforts to support the evolution of operational-risk measurement and management practices.
+One of the major challenges bankers face in implementing an AMA is creating a credible database of internal loss-event data on which to base the AMA capital charge.
+Another, and no less important, challenge is ensuring that operational-risk measurement and management systems are integrated into the day-to-day decisionmaking processes of your institution.
+The focus on enhanced risk management in Basel II means that banks should not view Basel II preparations with a checklist mentality.
+Rather, they should be moving ahead on many fronts, looking at how to make the fundamental changes needed for better risk identification, measurement, management, and control.
+By doing so, banks can position themselves to succeed in implementing an operational risk-management and -measurement system on a timely basis.
+We do, however, recognize that a certain time constraint exists for institutions wishing to implement the new framework.
+On the one hand, banks are encouraged to start preparations as soon as possible; on the other hand, we leave open the possibility that elements of the framework are subject to change.
+This is not a trivial matter.
+As a former banker, I sympathize with the challenges you face in deciding on investments and upgrades to your systems and personnel.
+When it comes to Basel II, we recognize that certain details relating to systems and processes will depend on what the final U.S. rule and guidance contain.
+Accordingly, your primary supervisor is available to discuss your implementation efforts and we want to hear specifics about which elements of the proposal, from your perspective, will demand the greatest investments or appear to generate the greatest uncertainty.
+Using that information, the agencies can then understand where to target resources to assist banks during the transition to Basel II.
+We certainly hope that many upgrades made for Basel II are those that would have been made anyway to strengthen enterprise-risk management.
+An additional challenge that you face in implementing an AMA is that operational risk has only relatively recently risen to management and regulatory attention--not because it was previously unimportant, but because it has been so difficult to measure.
+As QIS4 has demonstrated, we are still in the early stages of measuring this risk, and the challenges in gathering the relevant data and developing the models are still great.
+The main reason for the lack of data, as I am sure many of you know firsthand, is simply the fact that most banks have only recently started systematically collecting operational-loss data.
+While the importance of models and loss data in quantifying operational risk may be quite apparent--at least to practitioners of the art--the importance of the qualitative aspects may be less so.
+In practice, though, these qualitative aspects are no less important to the successful operation of a business--as events continue to demonstrate.
+Some qualitative factors, such as experience and judgment, affect what one does with model results.
+It is important that we not let models make the decisions, that we keep in mind that they are just tools, because in many cases it is management experience--aided by models to be sure--that helps to limit losses.
+Some qualitative factors affect what the models and risk measures say, including the parameters and modeling assumptions used and the choices that relate to the characteristics of the underlying data and the historical period from which the data are drawn.
+I think you will hear a common theme today and tomorrow: Value is added to the firm when operational-risk measurement is integrated with the business-unit management processes.
+In other words, the business-line staff should be in the process of developing the firm-wide operational-risk measurement framework.
+While firms generally are developing corporate-level operational-risk management functions and firm-wide policies and procedures to bring greater consistency to how operational risk is measured throughout the institution, business-line staff can add significant value to this effort through their understanding of inherent risks and controls in their areas.
+And finally, the more business- line staff is involved in the development of the measurement framework and the more transparent the framework is, the more credible will be the process of allocating the total capital number back to the business lines--an effort in which many of the banks represented here today are now engaged.
+To be meaningful, the quantification of operational risk must be forward-looking.
+This means that a mechanical focus on historic loss data series will not work.
+We must recognize the roles of qualitative factors and a well-reasoned assessment of what we will call stress events or scenario analysis.
+In this regard, the burden is on management to exercise judgment.
+Clearly, this judgment must include consideration not only of a soundness standard but also of contingencies and actions taken to reduce the risks posed by those contingencies.
+A self-assessment of the internal control structure and overall risk-management process is crucial.
+Clearly, this is not a simple process if the results are to be relevant to the specific risk profile of the firm.
+But based on the progress we have seen to date in this area, I think you are up to the challenge and I encourage you to keep moving forward.
+Before I wrap up, I would like to say a few words directly to the potential "opt-in" institutions.
+An institution that does not meet the mandatory criteria in the framework will be under no obligation to adopt Basel II.
+Some potential opt-in institutions have complex and varied operations and are developing enhanced enterprise-wide risk-management processes and systems to strengthen their internal control environments.
+These institutions understand that complex operations receive a more structured and well-defined risk-management framework to monitor the effectiveness of internal control processes and risk exposures.
+For these organizations, the incremental cost to opt into Basel II advanced approaches will be a relatively moderate incremental cost.
+For other financial institutions, with a simpler organizational structure and less-complex processes and services, a less-sophisticated enterprise-wide risk-management and -measurement is entirely appropriate.
+For these organizations, the incremental cost to develop advanced Basel II systems can be substantial.
+These organizations may appropriately choose not to adopt Basel II, especially at the earliest possible date.
+If they choose to opt in, they may want to implement Basel II later when they can take advantage of third-party models and databases to assist in the development of their systems at much lower costs.
+Also, I would like to quell any concerns that potential opt-in institutions may have about being viewed as having inferior risk-management systems if they decide not to adopt Basel II.
+It is important for you to know that, as supervisors, we will not look upon institutions that decide not to adopt Basel II as having deficient risk-management systems simply because they choose to stay under the Basel I capital framework.
+As supervisors, our focus will continue to be on ensuring that risk-management processes are appropriate for operations of each institution and that those risk systems operate effectively.
+Thus, we expect that non-Basel II banks will continue to have CAMELS 1 and 2 ratings as they operate in a safe and sound manner.
+As Basel II implementation continues, customers, credit rating agencies, and analysts should also understand these fundamental concepts of effective risk management and internal controls.
+Conclusion In my remarks today, I have encouraged you to continue your efforts to support the evolution of operational-risk measurement and management practices.
+I want to end by reminding all of you not to become so caught up in the latest technical developments that you lose sight of the qualitative aspects of your responsibilities.
+Models alone do not guarantee an effective risk-management process.
+You should encourage continuous improvement in all aspects, including data integrity and internal controls, to name just a few.
+For the risk managers at this conference, I hope the message you have heard is that you should be actively engaged with managers throughout the organization, talking about the merits of a consistent, sound enterprise-wide risk-management culture.
+In doing so, you can help managers see that the risk-management process will allow them to better understand the inherent risks of their activities so that they in turn can more effectively mitigate these risks and achieve their profit goals in a safe and sound manner.

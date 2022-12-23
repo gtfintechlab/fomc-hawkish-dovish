@@ -1,0 +1,91 @@
+Unnamed: 0,sentence,label,score
+0,While I know that most of you would welcome any insights I might have about current U.S. monetary policy--whether the Open Market Committee will be raising or lowering interest rates at our next meeting--I prefer to focus instead on some issues that could become serious over the longer run.,LABEL_2,0.9997643828392029
+1,"These issues involve the persistent budget and trade deficits facing the American economy, issues that could eventually involve significant economic adjustments around the world.1 Large budget and trade deficits are not a new phenomenon.",LABEL_1,0.9955796599388123
+2,"At that time, the business press and many economists began referring to the situation as one of ""twin deficits.""",LABEL_1,0.9632037878036499
+3,"With the current re-emergence of both deficits, the phrase has come back into common usage--too common, in my view.",LABEL_2,0.8104338645935059
+4,"To be sure, in theoretical models there is a scenario by which budget deficits can create trade deficits, and one by which trade deficits can create budget deficits.",LABEL_2,0.9973204731941223
+5,"But there are also many scenarios by which either deficit can arise independently, or even by which budget and trade deficits can move in opposite directions, as they did in the 1990s.",LABEL_2,0.9997745156288147
+6,"In general, while budget and trade deficits can be linked, there are important differences between the two, both in how they respond to economic forces and in their long-run consequences.",LABEL_2,0.9998338222503662
+7,I start by examining the relationship between budget and trade deficits--why they are linked but not twins.,LABEL_2,0.9998570680618286
+8,I discuss the sustainability conditions for budget and trade deficits; the conditions that must be fulfilled for the debts on both accounts to be stabilized in relation to the size of the U.S. economy.,LABEL_2,0.9947957396507263
+9,"This discussion, in turn, raises further interesting distinctions between the two deficits.",LABEL_2,0.9997811913490295
+10,The Link The link between budget and trade deficits can be seen most naturally through the national income accounting framework.,LABEL_2,0.9997740387916565
+11,"In equation form, we have (1) NS = S - BD = I - TD On the left side of the equation NS refers to national saving, S refers to overall private saving, and BD refers to the government budget deficit.",LABEL_2,0.9996422529220581
+12,A budget surplus would be treated as governmental saving and added to private saving; a budget deficit would be treated as governmental dissaving and subtracted.,LABEL_2,0.9880247712135315
+13,It is by definition equal to the trade deficit TD.,LABEL_2,0.9998051524162292
+14,"In the equation, then, a trade surplus means that some national saving goes to building up claims on foreigners (national saving is greater than domestic investment) while a trade deficit means that some investment is financed by foreigners (national saving is less than domestic investment).",LABEL_1,0.4258320927619934
+15,Models of the economic growth process identify national saving as one of the key policy variables in influencing a nation's living standards in the long run.,LABEL_2,0.999496340751648
+16,"The identity also makes clear that the budget deficit and the trade deficit can move together on a dollar-per-dollar basis, but only if the difference between private domestic investment and private saving is constant.",LABEL_2,0.9998507499694824
+17,"For example, if there were to be an investment boom, interest rates might rise to induce some new private saving and some new lending by foreigners.",LABEL_1,0.9995750784873962
+18,"The implied trade deficit might rise and, because of the rise in income, the budget deficit might fall.",LABEL_1,0.9913840293884277
+19,"In this case, the trade deficit would increase while the budget deficit fell.",LABEL_1,0.9944987893104553
+20,"Conversely, suppose that expansionary fiscal policy resulted in a rise in budget deficits.",LABEL_2,0.5997872948646545
+21,"If this expansion were totally financed by borrowing from foreigners, domestic interest rates would not change much, and domestic investment and private saving might not either.",LABEL_1,0.9465956091880798
+22,"In this scenario, there could be a simultaneous dollar-per-dollar change in budget and trade deficits--the classic twin-deficit scenario.",LABEL_2,0.9257578253746033
+23,"Such a situation is most likely to occur in small economies fully open to international trade and capital flows, economies in which domestic interest rates are determined by world capital markets and are independent of domestic economic variables.",LABEL_2,0.9868908524513245
+24,"But if domestic interest rates do change, as they likely would in either a closed economy or a large open economy, private investment and saving would also likely change, and any strict link between budget and trade deficits would be broken.",LABEL_2,0.9997933506965637
+25,"Because of the underlying relationship between saving and investment, budget and trade deficits could be strictly linked.",LABEL_2,0.9952002763748169
+26,"Budget and trade deficits should be viewed as linked, but not as twins.",LABEL_2,0.9993637204170227
+27,"Stability Conditions Although the economic implications and reactions of budget deficits and trade deficits differ, both are deficits.",LABEL_2,0.9998373985290527
+28,Another elementary accounting identity says that last period's debt level plus the current deficit equals the current period's debt level.,LABEL_2,0.95973140001297
+29,"This identity is true whether we are talking about budget deficits building up the stock of outstanding government debt (a liability of the government sector to the private sector), or trade deficits building up the stock of external debt (the net stock of accumulated foreign claims against the United States).2 Economists have worried for years about optimal stocks of government and external debt.",LABEL_2,0.9996908903121948
+30,"It is that (2) d (g - i)/(1 + g) = p, where d is the stable ratio of debt to GDP, g is the nominal growth rate of the economy, i is the nominal interest rate in the economy, and p is the ratio of the primary deficit to GDP.",LABEL_1,0.9978893399238586
+31,"For budget accounts, the primary deficit is the national income accounts budget deficit, but excluding interest payments.",LABEL_2,0.5627654194831848
+32,"For trade accounts, the primary trade deficit is the current account deficit, excluding net interest and dividend payments to foreigners.3 As a general rule, the economy's growth rate and interest rate will be fairly close.",LABEL_2,0.9989702701568604
+33,"The equation says that if they are equal, the primary deficit must be zero to stabilize the debt-to-GDP ratio.",LABEL_2,0.9995666146278381
+34,"If the interest rate is slightly above the growth rate, as it would be in models without risk for economies that save less than the theoretical optimum, a nation with outstanding debt would have to run a slight primary surplus to stabilize its debt-to-GDP ratio.",LABEL_2,0.9973568916320801
+35,"If the effective interest rate on debt is slightly below the growth rate, as it has generally been found to be in the past for both deficits, a nation with outstanding debt could run slight primary deficits and not see the debt ratio grow.4 On the foreign side, this condition has until now been especially forgiving.",LABEL_1,0.9485689401626587
+36,"Since the net interest rate has been less than the GDP growth rate, the ratio of external debt to GDP could have been stabilized with a moderate primary trade deficit.5 Magnitudes It is well known that the U.S. economy now suffers both budget and trade deficits.",LABEL_2,0.9994968175888062
+37,But how do these deficits compare with the stability conditions?,LABEL_2,0.7788523435592651
+38,"Historically, there have not been significant instabilities in U.S. federal budget deficits.6 Overall deficits have averaged about 2 percent of GDP over the past four decades, but figure 1 shows that when interest is deducted, primary budget deficits have averaged close to zero, the approximate level that stabilizes the debt-to-GDP ratio.",LABEL_2,0.9992417097091675
+39,"The ratio did rise as high as 50 percent in the high-deficit years of the early 1990s, but it dropped sharply thereafter with the primary budget surpluses of the late 1990s.",LABEL_2,0.9995383024215698
+40,"As a result of recent fiscal changes, the budget has lately fallen into primary deficit again; this primary deficit is now more than 2 percent of GDP (1.5 percent after cyclical adjustment).",LABEL_2,0.9994475245475769
+41,"The deterioration reflects the much-discussed recent rapid growth in expenditures, along with significant tax cuts.",LABEL_2,0.9960110187530518
+42,"It will take extraordinary fiscal discipline just to keep the present primary deficit near its current level of 1 to 2 percent of GDP over the short, medium, and long run.",LABEL_0,0.7084722518920898
+43,"But because the United States has run persistent and sizable primary trade deficits since 1990, the net external debt is now 25 percent of GDP and rising sharply.",LABEL_1,0.9331820607185364
+44,"The primary trade deficit is now 5 percent of GDP, violating the stability condition by nearly this same amount.",LABEL_1,0.9994704127311707
+45,"While the trade deficit does have equilibrating tendencies, as will be discussed later, there are also forces that tend to increase it.",LABEL_1,0.9406846165657043
+46,Econometric studies of the basic demand for imports and exports find that the U.S. income elasticity of demand for imports is higher than the foreign income elasticity of demand for U.S. exports.,LABEL_1,0.9983435869216919
+47,"This means that even if the world economy grows at the same rate as the U.S. economy, our trade deficit is likely to widen, (apart from any changes in relative prices).8 Indeed, the U.S. primary trade deficit has widened steadily since 1990.",LABEL_1,0.9940187931060791
+48,"Adjustments I have just argued that the U.S. is now in violation of the stability condition for both budget and trade deficits--recently and moderately on the budget side, persistently and significantly on the trade side.",LABEL_1,0.7266639471054077
+49,With each deficit there is probably a credibility range.,LABEL_0,0.6096277236938477
+50,"For budgets, there may be a range within which the debt-to-GDP ratio can grow without significant changes in interest rates.9 As equation 1 indicates, economic performance in this range is by no means optimal, because the persistent deficits are subtracting funds that would otherwise be devoted to capital investment and future growth in living standards.",LABEL_1,0.9887189269065857
+51,But there may not be significant relative price effects.,LABEL_1,0.9975242018699646
+52,The same is true on the trade side; there could be a range in which foreign claims on the United States just build up without major impact on relative prices.,LABEL_2,0.9997850060462952
+53,"Once the economy gets outside of the credibility range, more significant relative price adjustments become likely.",LABEL_0,0.5392001867294312
+54,"The conventional view is that at some point there should be a relative price adjustment--some combination of rising U.S. interest rates (to make U.S. assets more attractive), rising foreign prices (to make imports more expensive), moderating U.S. prices (to make U.S. exports more competitive), or a change in exchange rates.",LABEL_2,0.9998594522476196
+55,That is why foreign trade deficits are typically thought of as self-correcting.,LABEL_2,0.999804675579071
+56,Countries with large trade deficits often have their external liabilities denominated in a foreign currency.,LABEL_2,0.9991670846939087
+57,"This denomination effect would not permanently prevent any relative price adjustment, but it could lengthen the process.",LABEL_1,0.9646156430244446
+58,This monetary expansion could generate domestic inflation unless it is sterilized with other open market sales of securities--and the mere scale of present and expected future debt stocks may make continued sterilization impossible.,LABEL_2,0.99940025806427
+59,"While trade deficits should ultimately correct themselves, perhaps after a long trek through the credibility range, there are really no natural self-corrective mechanisms for budget deficits.",LABEL_2,0.5475495457649231
+60,"Once the U.S. economy gets through the credibility range, interest rates on the increasing government debt will have to rise to induce people to hold the debt.",LABEL_2,0.9996381998062134
+61,"This rise increases the interest burden and causes total deficits to rise further, all the time subtracting more and more funds from capital accumulation.",LABEL_1,0.9989987015724182
+62,"In the long run, the only way to correct budget deficits is for policymakers to correct them.",LABEL_2,0.9985494017601013
+63,Outside Forces There are several outside forces--both natural and as a result of policy--that could influence budget and trade deficits.,LABEL_1,0.9996046423912048
+64,One generally helpful influence is productivity growth.,LABEL_1,0.9967471361160278
+65,"Say the U.S. economy benefits from an exogenous positive shock to productivity growth, as it seemed to have in the late 1990s.",LABEL_1,0.6644275784492493
+66,"This shock would raise the trend path of income, meaning that slightly higher primary budget and trade deficits could still be consistent with debt-to-GDP stability; in effect, a higher level of g can be plugged into equation 2 (at least as long as it is not offset by a higher i).",LABEL_2,0.9998379945755005
+67,"Higher productivity could also help lengthen the credibility range, the range in which moderate changes in the debt ratio might not lead to adverse changes in relative prices.",LABEL_2,0.9994261264801025
+68,"Among other things, higher productivity could raise the marginal product of capital and make investment in U.S. assets relatively attractive.",LABEL_0,0.6722617149353027
+69,"If they are violated, the natural adjustment mechanisms will eventually take over for the trade deficit, and the primary budget deficit will eventually have to be reduced to stop a growing government debt ratio.",LABEL_2,0.9950910806655884
+70,"While it might appear that trade protectionism would correct trade deficits, it probably will not.",LABEL_2,0.9986782670021057
+71,"Over the medium and long run, the economy should be producing near its natural growth path, perhaps because of timely monetary and/or fiscal policy, perhaps because of natural equilibrating forces in the economy.",LABEL_0,0.9648025631904602
+72,"Even if protectionist measures reduce imports, the added spending demands for import-competing industries will crowd out other types of production.",LABEL_1,0.9993589520454407
+73,"Put another way, equation 1 shows that the trade deficit is ultimately determined by national saving and investment.",LABEL_2,0.9969834685325623
+74,"Finally, suppose politicians actually do correct budget deficits, again assuming an economy near its medium-term growth path.",LABEL_0,0.9227541089057922
+75,"As mentioned above, such a fiscal austerity policy is the only known way to correct persistent budget deficits.",LABEL_1,0.9941387176513672
+76,The reduction in deficits should lower domestic interest rates and trigger changes in exchange rates that lower imports and raise exports.,LABEL_2,0.9996603727340698
+77,"They correct budget deficits directly, they reduce trade deficits indirectly, and the implied higher level of national saving also permits more funds to flow into capital formation and long-term productivity enhancements.",LABEL_2,0.9996641874313354
+78,Fiscal austerity is the one tried and true approach to dealing with budget and trade deficits simultaneously.,LABEL_1,0.9982544779777527
+79,"Conclusions There are obviously strong links between budget and trade deficits, and the deficit-debt dynamic relationships are very similar.",LABEL_1,0.9973439574241638
+80,"At the same time, it is misleading simply to equate the two deficits, as is often done in the twin-deficit literature.",LABEL_1,0.980792224407196
+81,"Budget deficits typically involve a reduction in national saving and, if large, a steadily growing government debt-to-GDP ratio.",LABEL_1,0.9924393892288208
+82,"Trade deficits, on the other hand, typically involve an increase in foreign claims on the U.S. economy.",LABEL_2,0.9997377991676331
+83,"From a policy standpoint, neither deficit may be terribly harmful in the short run, and at least the recent fiscal deficits have been useful in stabilizing movements in output.",LABEL_2,0.9996675252914429
+84,"Moreover, there is likely to be a credibility range in which debt levels could rise relative to GDP without much change in relative prices.",LABEL_1,0.9919024109840393
+85,"In the long run, however, both deficits could become much more worrisome.",LABEL_1,0.986617386341095
+86,"There are forces tending to increase both deficits: political and demographic for budget deficits, income elasticities for trade deficits.",LABEL_1,0.8478151559829712
+87,"At some point, continued large-scale trade deficits could trigger equilibrating, and possibly dislocating, changes in prices, interest rates, and exchange rates.",LABEL_1,0.7934605479240417
+88,Continued budget deficits will steadily detract from the growth of the U.S. capital stock and may also trigger dislocating changes.,LABEL_1,0.9952652454376221
+89,"Return to text Return to text Appendix Derivation of the Stability Condition Let P denote the primary deficit (for either budget or trade), D the debt for either, and i the nation's nominal riskless interest rate.",LABEL_2,0.6447499990463257

@@ -1,0 +1,113 @@
+The Exchequer Club has enriched policy development in Washington for nearly a half century by providing a forum for the discussion of important national economic and financial policy issues.
+I am honored to participate in that discussion.
+I want to talk this afternoon about some aspects of financial stability, a topic that has received increased attention in recent years from central banks and regulators as well as the financial media.1 A number of developments have contributed to this trend.
+Just a few years ago, the terrible events of 9/11 alerted us to the importance of operational resiliency in a dangerous world.
+But other forces have also led central banks and other financial supervisors around the world to increase their emphasis on financial stability.
+Perhaps most important, the financial system, once essentially bank-centered, has become more market-centered.
+Of course, banks continue to be core participants in the financial system and to provide an indispensable window on market activities.
+But the development of a relatively market-oriented system has been accompanied by a large number of new participants, many with global reach, and a much larger array of financial instruments.
+This vastly expanded web of participants and instruments has increased the number of potential channels for the creation and transmission of financial shocks.
+And, some of the new financial instruments and markets have not been tested under extended stressful conditions.
+In addition, supervisory authority in a number of countries abroad has been consolidated and separated from central banks; these moves have forced the new regulators and their central bank colleagues to learn how to operate not only in a new financial landscape but also in a new regulatory environment.
+Finally, in todayâ€™s global economy, very settled financial market conditions--narrow risk spreads and low expected market volatility--coexist with unprecedented current account imbalances among nations and interest rates that are low by historical standards.
+In such a world, it would be imprudent to rule out sharp movements in asset prices and a deterioration in market liquidity that would test the resiliency of market infrastructure and financial institutions.
+While these factors have stimulated interest in both crisis deterrence and crisis management, the development of financial markets has also increased the resiliency of the financial system.
+Indeed, U.S. financial markets have proved to be notably robust during some significant recent shocks, such as the sharp decline in equity prices beginning in 2000 and the failure of some large firms, including Enron and Amaranth.
+New computing and telecommunications technologies, along with the removal of legal and regulatory barriers to entry have heightened competition among a wider variety of institutions and made the allocation of funds from savers to investors more efficient.
+Technology also has helped financial market participants better understand the risks embedded in assets and develop instruments and systems for managing those risks, both individually and on a portfolio basis.
+Together, these developments have allowed suppliers and demanders of funds and the intermediaries that stand between them to diversify their risk exposures, reduce their vulnerability to sector- or region-specific shocks, and become far less dependent on specific service providers.
+In short, market developments that have altered the character and transmission of financial shocks have at the same time spread risks more widely among a greater number and broader range of market participants and given them the tools to better manage those risks.
+The Federal Reserve, in its roles as a central bank, a bank supervisor, and a participant in the payments system, has been working in various ways and with other supervisors to deter financial crises.
+As the central bank, we strive to foster economic stability.
+As a bank supervisor, we are working with others to improve risk management and market discipline.
+And in the payments and settlement area, we have been active in managing our risk and encouraging others to manage theirs.
+In every step we take to deter or manage financial crises, it is important that we recognize that we impose costs, and that our efforts can be most effective if we both enhance and are supported by market discipline.
+Institutions and investors must be allowed to take risks and must be prepared to accept the consequences of their actions.
+For its part, the government should limit its intervention to those circumstances that could lead to placing the system in serious danger and could spill over to the economy.
+Otherwise, even the most well-intentioned government intervention can actually weaken the system by undermining the incentives for market participants to limit the risks they undertake.
+Deterring a Financial Crisis The first line of defense against financial crises is to try to prevent them.
+A number of our current efforts to encourage sound risk-taking practices and to enhance market discipline are a continuation of the response to the banking and thrift institution crises of the 1980s and early 1990s.
+In 1989, more than 500 banks and thrifts failed, and it was not until 1993 that the annual number of bank failures dropped well below 100.
+One of the most important reforms produced in reaction to this crisis was a tightened focus on bank capital.
+This tightening began with Basel I, the international capital accord of 1988, which emphasized the importance of connecting bank capital and bank supervision to bank risk.
+Supervisory efforts today to develop a more advanced set of international capital standards, in Basel II, are in large part aimed at strongly reinforcing that connection.
+Identifying risk and encouraging management responses are also at the heart of our efforts to encourage enterprisewide risk-management practices at financial firms.
+Essential to those practices is the stress testing of portfolios for extreme, or â€œtail,â€ events.
+Stress testing per se is not new, but it has become much more important.
+The evolution of financial markets and instruments and the increased importance of market liquidity for managing risks have made risk managers in both the public and private sectors acutely aware of the need to ensure that financial firmsâ€™ risk-measurement and management systems are taking sufficient account of stresses that might not have been threatening ten or twenty years ago.
+A second core reform that emerged from past crises was the need to limit the moral hazard of the safety net extended to insured depository institutions--a safety net that is required to help maintain financial stability.
+Moral hazard refers to the heightened incentive to take risk that can be created by an insurance system.
+Private insurance companies attempt to control moral hazard by, for example, charging risk-based premiums and imposing deductibles.
+In the public sector, things are often more complicated.
+However, the Federal Deposit Insurance Corporation Improvement Act of 1991, or FDICIA, took major steps toward reducing moral hazard in the banking system and limiting taxpayer losses by reinforcing the importance of strong capital.
+Among the mechanisms in the act is the requirement that bank supervisors take prompt corrective action when depositories show signs of becoming troubled.
+This step was reinforced by the least-cost requirements of FDICIA, which generally require the FDIC to resolve a failing institution in the manner least costly to the deposit insurance fund.
+Importantly, this provision encouraged market discipline by putting uninsured depositors and other uninsured creditors at greater risk.
+FDICIA allowed for the relaxation of its least-cost mandate in situations posing a true systemic crisis.
+But the conditions under which least-cost resolution can be relaxed are quite strict.
+First, a least-cost resolution would have to create â€œserious adverse effects on economic conditions or financial stability.â€ Second, any action under the exception must be recommended by at least two-thirds majorities of the boards of both the FDIC and the Federal Reserve and ultimately approved by the Secretary of the Treasury in consultation with the President.
+The systemic-risk exception has never been invoked, and efforts are currently underway to lower the chances that it ever will be.
+For example, last December, the FDIC published an important proposal to improve its ability to resolve a troubled large depository institution in a least-cost manner.2 The FDIC proposal seeks to ensure that the largest banks and the FDIC have in place data and other management systems that would aid the FDIC in quickly identifying insured deposits and allow the FDIC to regulate the outflow of uninsured deposits while that identification was being completed.
+This proposal would, among other things, allow the FDIC to continue to protect insured depositors while making clear to uninsured depositors that they could suffer losses in the event of the failure of even a very large bank.
+Thus, these changes would greatly enhance market discipline and help ensure that no bank is too big to fail.
+Crisis prevention has also been a focus of attention in the payments area.
+At the Federal Reserve, we have improved the technological redundancy and security of our payments system and have encouraged other participants to do the same.
+We have also sought ways to make the clearing and settlement infrastructure keep pace with the rapid growth and evolution of financial markets and instruments.
+The over-the-counter (OTC) derivatives markets provide a good example.
+Those markets, especially the newer markets for credit derivatives, have been growing very rapidly.
+Until 2005, however, the confirmation of trades remained largely decentralized and manual.
+The result was a huge backlog of unconfirmed trades, which, to the extent it resulted in inaccurate trade records, had the potential to exacerbate market participantsâ€™ market and credit risks.
+The Federal Reserve Bank of New York has taken the lead, working with other domestic and international supervisors, in helping the OTC derivatives market develop a stronger clearing and settlement infrastructure.
+Those efforts focused initially on credit derivatives.
+At the urging of supervisors, market participants set goals and implemented policies for reducing the huge backlogs of unconfirmed trades.
+As a result, confirmation backlogs were reduced 94 percent between September 2005 and November 2006.
+Market participants also promptly ended the practice of assigning trades without the prior consent of the counterparty and developed cash settlement as an alternative to physical settlement of credit derivatives in the event of a default of a participant that is a reference obligor.
+Moreover, market participants have now agreed to turn their attention to equity derivatives, for which large backlogs still exist.
+They are also providing supervisors with data on backlogs of all types of OTC derivatives, which will allow the supervisors to monitor the industryâ€™s progress across the board.
+Managing a Financial Crisis Clearly, when it comes to a financial crisis, as with so many other potential risks, an ounce of prevention is worth many pounds of cure.
+But experience tells us that, despite our best efforts at deterrence, true financial crises will occur from time to time.
+Prudently managing these tail events is no easy task.
+A large part of the difficulty arises from the fact that some policy responses may have important costs that need to be balanced against their possible benefits in reducing or ameliorating the adverse effects of a crisis.
+In particular, intervening in the market process can increase moral hazard by weakening market discipline if private parties come to believe that policy actions will relieve them of some of the costs of their own poor decisions or even just bad luck.
+And weaker market discipline can not only distort current resource allocation but also sow the seeds of a future crisis.
+If, nonetheless, policymakers reach a judgment that action must be taken, the central bank and other authorities have a variety of instruments to use.
+The degree of potential moral hazard created will depend on the instrument chosen.
+Policy actions that work through the overall market rather than through individual firms create a lower probability of distorting risk taking.
+Thus, a first resort in managing a crisis is to use open market operations to make sure aggregate liquidity is adequate.
+Adequate liquidity has two aspects: First, we must meet any extra demands for liquidity that might arise from a flight to safety; if such demands are not satisfied, financial markets will tighten at exactly the wrong moment.
+This was, for example, an important consideration after the stock market crash of 1987, when demand for liquid deposits raised the demand for reserves held at the Fed; and again after 9/11, when the loss of life and destruction of infrastructure impeded the flow of credit and liquidity.
+Second, we must determine whether the stance of monetary policy should be adjusted to counteract the effects on the economy of tighter credit supplies and other knock-on effects of financial instability.
+As a result, meetings of the Federal Open Market Committee (FOMC), often in conference calls if the situation is developing rapidly, have been an element in almost every crisis response.
+Those meetings allow us to gather and share information about the extent of financial instability and its effects on markets and the economy as we discuss the appropriate policy response.
+Other policy instruments that can be used to deal with financial instability--discount window lending, moral suasion aimed at convincing private parties to keep credit flowing, actions to keep open or slowly wind down troubled institutions--are, in my judgment, more likely than open market operations or monetary policy adjustments to have undesirable and distortionary effects.
+Hence, they should be, and are, used only after a finding that broader instruments, like open market operations, are unlikely to prevent significant economic disruption.
+And in my view, when relatively targeted policy interventions are employed, their use should be designed to minimize moral hazard.
+For example, if the central bank concludes that it must lend to individual depository institutions, any such loans should, in most situations, be on terms sufficiently onerous to encourage a quick return to market funding.
+The central bank will and must be involved in the management and resolution of financial crises.
+Indeed, a major reason for the founding of the Federal Reserve in 1913 was the need to address periodic banking crises and financial panics, which had plagued the U.S. economy during the nineteenth and early twentieth centuries.
+And the need remains today for Federal Reserve involvement in crisis management and resolution.
+The Federal Reserveâ€™s ability to conduct open market operations, make discount window loans, and provide funds intraday to key payments system participants are unique tools necessary to ensure that the financial system stays liquid.
+Our monetary policy experience and responsibilities afford us valuable insights into how financial disruptions may be affecting the real economy.
+Our dual role as both a payments system participant and a payments system supervisor helps us manage problems that arise in this key segment of the financial system.
+Finally, for a variety of reasons, the Federal Reserve has developed extensive relationships with foreign central banks and bank supervisors.
+These relationships have proved useful in past crises and will likely be even more valuable in an increasingly global financial and economic system.
+When managing a crisis, prudent decisionmaking depends on the best possible information acquired in the shortest possible period of time.
+By information I mean more than just facts; I mean the informed analyses of the facts that help us understand the true financial condition of the distressed firms and markets and the potential for broader effects.
+For example, if a major financial institution is facing serious problems, we need to know its most important on- and off-balance-sheet activities, its key lines of business, its most important counterparties, its most important market activities, and its net worth as well as how close it is to failure.
+In addition, we must get a fix on the primary causes of the institutionâ€™s problems and on how long the causal factors are likely to last.
+Once we understand as best we can the situation we face, we need information to help us assess whether the financial disruption has the potential to significantly spill over to the real economy.
+The extent of spillover depends upon complex patterns of interdependencies between the immediate source of the financial disruption and other parties, and the speed and cost with which affected parties could obtain substitute providers for the financial services that have been disrupted.
+As you can imagine, getting the needed information is likewise a very complex and uncertain task, especially when timeliness is of the essence.
+Once such questions are answered, we would have to judge the possible effects of the financial shock on credit flows, payments and settlement systems, and asset prices and, more broadly, on uncertainty and confidence in the financial sector.
+We would then go on to consider how these effects might influence consumption, investment, and employment.
+Although information when financial stability may be threatened is crucial, the regular and periodic collection of information in more normal times has limitations and potential costs, especially for sectors that do not have access to the public safety net.
+For example, if it leads market participants to believe that the government will in some circumstances protect them from loss, the costs of the resulting increase in moral hazard and reduction in market discipline could exceed the benefits the information would provide to policymakers.
+And such information may be of little value to policymakers in a crisis if private risk managers can change their positions so rapidly that any periodic information collection by supervisors about risk positions would be out-of-date.
+The Federal Reserveâ€™s activities as a bank supervisor provide us with important and sometimes critical information, expertise, credibility, and powers to both deter and manage financial crises.
+Thus, I want to take this opportunity to emphasize and reinforce the case for central bank involvement in bank supervision made by Chairman Bernanke in a speech last month.
+The deterrence and management of financial crises are of vital practical concern.
+The uncertainties surrounding these tasks are greater than anyone would want, and the costs of failure are much greater than anyone could desire.
+In my experience, the information, expertise, credibility, and powers that the Federal Reserve derives from its supervisory activities are extraordinarily helpful in our efforts to maintain economic and financial stability.
+Perhaps we could be successful, as central banks in a number of countries are trying to be, without supervisory authority.
+But I, for one, would not want to take that risk.
+Conclusion Financial stability was the first and perhaps the most important responsibility of the Federal Reserve.

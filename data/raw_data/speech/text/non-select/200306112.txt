@@ -1,0 +1,110 @@
+The origins of the slump date to the bursting of the land and equity price bubble in the early 1990s.
+Economic weakness, in turn, has led to a sustained deflation that has proven unexpectedly difficult to cure.
+Here in the United States, the economy has also struggled of late, following a sequence of adverse shocks during the past three years.
+We have had our own asset bubble, of course, and the steep fall in equity prices since the spring of 2000 has almost halved household equity wealth.
+The horrific events of September 11, 2001, shook financial markets, and the troubling evidence of corporate malfeasance revealed during the Enron and other scandals, combined with heightened geopolitical tensions that preceded the war in Iraq, tested the willingness of market participants to assume risk.
+These adverse developments were reflected in a precipitous decline in capital expenditures, which has contributed to a few years of subpar growth.
+These developments also put considerable downward pressure on inflation, to the point that increases in core consumer prices are now at a rate not seen on a sustained basis in almost forty years.
+In fact, after its most recent meeting, the Federal Open Market Committee noted that the probability of unwelcome further downward pressure on prices over the next few quarters exceeds that of a pickup in inflation.
+With near-term economic prospects in the United States still somewhat clouded, market commentators have increasingly focused on the possibility that the United States may follow Japan into a deflationary slump.
+However, I do not believe that the United States is at the brink of significant and sustained deflation.
+Indeed, I believe that the probability of such an eventuality is quite low.
+But as the Japanese experience shows, the onset of deflation can be unexpected, and so to leave the topic unexamined would be imprudent.
+Of course, public interest is another reason to discuss the issue and contribute, one hopes, to the stock of intellectual capital.
+Accordingly, I think it is useful to discuss some lessons that can be drawn from the Japanese experience and, with that as background, to examine some reasons that a harmful deflation is unlikely to take hold in the United States.
+Before proceeding, let me note that the comments expressed reflect my views only and are not necessarily those of my colleagues on the Board of Governors or the FOMC.
+First, I want to explain the theoretical view of the dangers associated with deflation.
+A harmful deflation, such as the type experienced by Japan since the mid-1990s, is almost always a consequence of depressed aggregate demand.
+A deflationary slump driven by contracting demand is more dangerous than a typical economic downturn because of its potential adverse effects on financial markets and the limitations it places on conventional monetary policy.
+Deflation of sufficient magnitude may result in the falling of nominal interest rates to zero--their practical minimum.
+This floor, commonly called the "zero bound," exists because lenders will always prefer to hold cash rather than credit instruments bearing a negative nominal interest rate.
+In a recession in which short-term nominal interest rates have already been pushed to zero, therefore, further downward adjustment in nominal interest rates is difficult, if not impossible.
+Because the real interest rate equals the nominal interest rate less the expected rate of inflation, the zero bound on nominal interest rates can lead to rapidly increasing real rates if deflation intensifies.
+Rising real interest rates, in turn, discourage borrowing, and so capital outlays by businesses, purchases of homes by families, and other types of spending decline further.
+This deterioration in aggregate demand adds to deflationary pressures and pushes real interest rates even higher.
+Besides raising the real cost of borrowing, deflation can erode the quality of business and household balance sheets.
+Even if debtors can refinance existing loans at zero (or very low) nominal interest rates, a sustained fall in prices will transform what might otherwise be a manageable level of nominal debt accumulated by businesses and households into a rising and potentially debilitating level of real debt and real debt service costs.
+The consequent financial distress of debtors can lead to widespread defaults, bankruptcies, and bank failures, with potentially devastating consequences for the entire financial system.
+The adverse effects of deflation go beyond financial markets.
+Deflationary pressures can impede the effective clearing of labor markets.
+Because employers often have difficulty cutting the nominal wages of their employees, real wages may rise as prices decline, and higher unemployment may result.
+Deflation also raises a barrier to those monetary policy actions conventionally used to stimulate aggregate demand.
+Faced with a normal economic downturn, a central bank would lower its target for the short-term nominal interest rate--the overnight federal funds rate in the United States or the overnight call money rate in Japan--to stimulate aggregate demand.
+In a deflationary environment, in which short-term nominal interest rates have already been pushed to zero, the central bank can no longer ease policy in the usual way.
+That is not to say that a central bank with its traditional policy rate at zero lacks tools to boost aggregate demand and thereby combat deflation.
+In fact, central banks have a number of other means at their disposal to stimulate spending should nominal interest rates hit the zero bound.
+A central bank can increase the supply of reserves to the financial system through regular open-market operations even after short-term nominal interest rates have hit zero.
+Such actions may demonstrate a resolve by the central bank to keep short-term interest rates at zero for a prolonged period of time, with the intention of raising inflation expectations and lowering real interest rates.
+Arguably, a more effective approach to combating deflation--and a relatively straightforward extension of current operating procedures--would be for a central bank to stimulate aggregate demand by lowering interest rates further out along the maturity spectrum.
+A central bank could expand its open market purchases of longer-term government securities, in sizable quantities if necessary, to drive term premiums lower.
+Of course, because long-term interest rates incorporate term premiums as well as discounted expectations of future short-term interest rates, the success of operations focused on influencing parts of the yield curve would be bolstered by a credible promise to move the short-term policy rate along a trajectory consistent with the targeted longer-term yields.
+Alternatively, as economists have long recognized, a central bank could influence expectations of future short-term interest rates directly by committing to keeping the policy interest rate at zero for a specified and relatively long period of time or until some intermediate macroeconomic target--such as the termination of declining prices--was achieved.
+As a practical matter and to underscore its commitment to boosting aggregate demand, a central bank could write options that would, for a pre-specified time, make its raising interest rates costly, or it could operate in the forward interest rate market.
+If such actions were successful, yields on longer-term government securities would decline.
+Through arbitrage across financial instruments, yields on longer-term private instruments, such as corporate bonds and home mortgages, would likely follow suit.
+A sufficient downward adjustment of interest rates over the term structure of government and private securities should stimulate spending and thus help end deflation.
+Importantly, describing what a central bank could do is easy, but these actions are not simple to execute or without downside risks.
+In particular, such policies would pose a considerable challenge for a central bank regarding communication.
+For example, if a central bank tried to cap a longer-term yield below the prevailing market rate, it would, to be most effective, need to convince market participants that it was committed to keeping the short-term policy interest rate low for an extended period.
+If this commitment was not viewed as credible, the central bank's purchases of securities to lower longer-term yields would likely have to be massive, given that the term premium component of longer-term interest rates appears rather insensitive to the outstanding supply of various securities.
+Such a situation would give rise to a risk that the targeted security might become disconnected from the rest of the yield curve and private interest rates.
+The Federal Reserve has experience in using these tools, although admittedly not in a deflationary environment.
+Therefore, to describe these tools as "unconventional" may not be entirely appropriate.
+Rather, they are "rarely used."
+In particular, between 1942 and 1951, the Federal Reserve successfully maintained an interest-rate ceiling on longer-term Treasury yields at 2-1/2 percent.
+From 1979 through much of 1982, the FOMC targeted the amount of nonborrowed reserves in the banking system in an effort to reduce inflation.
+And around the century date change, the Federal Reserve wrote options on repurchase agreements to reassure market participants that adequate liquidity would be available.
+To be sure, our understanding of the monetary transmission mechanism in the United States when prices are on a distinct downward trend has not been informed by recent experience, and so calibrating the effects of such policy actions may be difficult.
+Thus, preventing deflation remains preferable to reversing it.
+However, if an economy slips into deflation, my belief is that a sufficiently determined central bank can spur aggregate demand and end the deflation.
+Skeptics may point to Japan, where interest rate cuts and other monetary policy measures have been ineffective in jumpstarting the economy.
+The Bank of Japan lowered short-term interest rates considerably over the 1990s, after the bursting of the asset price bubble and against the backdrop of a stagnant economy.
+The overnight nominal interest rate fell from slightly more than 8 percent in 1991 to 1/2 percent in 1995, where it stayed until being lowered essentially to zero in 1999.
+However, the loosening of monetary policy in the early 1990s, though probably appropriate given the expectations of future economic developments generally held at that time, in retrospect proved to be too slow in light of the declines in spending and prices that subsequently occurred Amid persistent price deflation--and face to face with the constraints on monetary policy imposed by the zero lower bound on short-term nominal interest rates--the Bank of Japan introduced what it called a "quantitative easing" framework in March 2001.
+This framework included switching the operating target for money market operations from the overnight interest rate to the outstanding balance of reserve accounts held by financial institutions at the central bank.
+In an attempt to change deflationary expectations, the Bank of Japan stated that it would continue to target reserve accounts until the core consumer price index showed a twelve-month inflation rate of zero or above.
+Over the roughly two years since then, reserve accounts at the Bank of Japan have risen nearly six-fold, from ¥5 trillion in March 2001 to about ¥28 trillion today.
+In addition, since March 2001 the Bank of Japan has increased the monthly amount of its outright purchases of long-term government bonds from ¥400 billion to ¥1.2 trillion.
+I assume that these monetary policy actions have provided some support for economic activity.
+However, the Japanese economy appears not to have returned to a path of sustainable growth for several reasons, some of which may require responses by entities other than the Bank of Japan.
+First, the Bank of Japan introduced quantitative easing only after prices were already on a sustained downward trajectory; perhaps, even then, efforts were not aggressive enough, given entrenched deflationary expectations.
+Since early 1995, consumer price inflation has been around or below zero, and by March 2001, prices were declining at nearly 1 percent per year.1 According to surveys of private economists and further evidenced by very low interest rates on long-term Japanese government bonds, deflation had clearly become embedded in expectations.
+Second, the stimulus provided by monetary policy in Japan continues to be damped by well-recognized problems in Japan's banking sector.
+Factors such as low profitability and insufficient actions to restore the banking sector's health have combined to erode banks' capital base.
+Because I believe strongly in capital levels that fully reflect differing categories of risk, I think that the recent strengthening of auditing rules for evaluating the use of deferred tax assets as bank capital is a step in the right direction.
+However, insufficient capital continues to plague the banking sector, and without the cushion of a strong capital base, banks give evidence of remaining extremely risk averse.
+Commercial bank lending has thus continued to decline, while banks' holdings of less risky long-term government bonds have soared.
+Because banks play an even more crucial role in Japan's financial system than in other industrialized countries, problems in its banking sector are particularly damaging to the transmission of monetary policy and to the economy more generally.
+Finally, demand for business and consumer credit in Japan is weak according to the results of various surveys.
+In a deteriorating economic environment, businesses as well as banks appear to have pulled back from risk-taking.
+As evidenced by very low long-term interest rates, expectations of future economic growth seem bleak.
+Capital-output ratios are still high, returns on assets are low, corporate profits are poor, and the economic outlook is fraught with uncertainty.
+It is not surprising then that firms are not borrowing to finance new investment.
+Rather, observers argue that much bank lending will keep ailing and inefficient firms afloat and further crowd the field against the dynamic, innovative enterprises needed to fuel sustained expansion.
+Japan appears to have become a society in which economic agents--banks, insurance companies, corporations, and households--have lost their appetite for risk.
+This risk aversion has hurt Japan's economic performance, since risk-taking is critical to growth in a market economy.
+These crucial factors have limited the effectiveness of both conventional and unconventional monetary policy measures in Japan.
+In the United States, economic and financial fundamentals are much sounder than those prevailing in Japan when the Bank of Japan started to implement unconventional measures.
+The available evidence suggests that the U.S. real economy is currently stronger, better balanced, more productive and more dynamic than the Japanese economy was at a comparable period.
+The economy's ability to weather the adverse shocks of recent years reflects flexible and efficient markets for labor and capital and dramatic gains in information technology, which have markedly improved the ability of businesses to address incipient economic imbalances before they inflict significant damage.
+To be sure, considerable uncertainty attends the near-term outlook for the U.S. economy, and recent readings on production and employment have been disappointing.
+However, a balanced assessment would also take into consideration the fact that the reduction in Iraq-related uncertainties and some recent positive news regarding corporate earnings have caused the tenor of financial markets to improve noticeably: Equity prices have risen, risk premiums of corporate debt have fallen, crude oil prices have declined sharply, and consumer confidence has rebounded since the early spring.
+Whether this improvement in overall financial conditions is a precursor to sustained recovery in the broader economy is unclear.
+Fortunately, for the longer term, productivity growth in the United States has remained remarkably robust.
+Rapid growth of output per hour boosts expectations of future advances in wages and profits, leading eventually to higher aggregate demand.
+Another key difference between the two countries is that the U.S. financial system continues to function smoothly.
+Domestic commercial banks are very profitable overall and are well capitalized, and bank regulators have shown a willingness to move quickly to address problems.
+In contrast, Japanese banks remain saddled with a significant volume of nonperforming loans.
+Accordingly, the process of financial intermediation through banks has been constricted, hampering the Bank of Japan's attempts to increase liquidity and to stimulate the flow of credit.
+On a related point, the existence of highly developed and integrated U.S. financial markets means that the proportion of financing flows intermediated by the banking system in the United States is considerably smaller than in Japan's bank-centered financial system.
+As a result, the transmission of monetary policy in the United States operates through multiple and complementary channels.
+Japan's dependence on the banking system, a system that has largely ceased to function, represents a further constraint on the transmission of monetary policy in that country.
+Thus, it seems appropriate for Japan to continue its efforts to develop deeper and more liquid capital markets.
+Demand for business and consumer credit in the United States is stronger than in Japan, and corporate balance sheets are in better shape.
+The continued rapid pace of technological innovation is likely to create expanding opportunities for profitable investment and thereby strengthen further the demand for credit.
+Although business spending on fixed capital has yet to stage a convincing comeback, firms eventually will have to increase such outlays, given the relatively high rates of depreciation on certain types of capital.
+Finally, as mentioned earlier, by the time the Bank of Japan implemented the quantitative easing framework in March 2001, yields on long-term government securities had already reached a very low level.
+In the United States today, by contrast, the relatively steep Treasury yield curve affords greater scope for reducing longer-term interest rates.
+In conclusion, the risk of deflation, a decline in the general price level, appears remote in the United States.
+Although the near-term outlook is uncertain, the fundamentals are sound.
+Furthermore, I am confident that, in the unlikely event a harmful deflation emerges in the United States and the Federal Reserve needs to turn to a broader range of monetary policies, such tools will be effective in boosting aggregate demand and putting the economy back on track to sustainable growth.

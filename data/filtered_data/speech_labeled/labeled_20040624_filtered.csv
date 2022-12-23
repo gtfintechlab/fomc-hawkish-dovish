@@ -1,0 +1,50 @@
+Unnamed: 0,sentence,label,score
+0,"Rather than expecting the stream of surpluses projected just three years ago, budget analysts now expect sizable deficits for at least the remainder of the decade.",LABEL_2,0.9715592861175537
+1,"Fiscal policy can have important long-run effects on the health of the economy, particularly through its impact on national saving and the growth of productivity.",LABEL_2,0.9997825026512146
+2,"When the government runs deficits, it siphons off private savings (reducing national saving), leaving less available for capital investment.",LABEL_0,0.9865917563438416
+3,"With less capital investment, less new equipment is provided to workers, and, all else being equal, future productivity growth rates and levels are lower.",LABEL_0,0.9425666928291321
+4,Productivity growth is the principal source of improvement in economic well-being.,LABEL_2,0.9736377596855164
+5,"The faster productivity increases over time, the more rapidly living standards increase.",LABEL_1,0.9768311977386475
+6,Maintaining a rapid rate of trend productivity growth is particularly important in light of the coming budgetary pressures associated with the retirement of the baby boom generation.,LABEL_1,0.9306991100311279
+7,"To be sure, budget deficits are not always inappropriate, and to a certain extent, the recent fiscal deficits have helped limit the recent economic slowdown.",LABEL_0,0.6693962812423706
+8,"Specifically, it is time to bring the budget deficits under control.",LABEL_1,0.9956633448600769
+9,But the manner in which the process of deficit reduction is framed can strongly influence the likelihood of success.,LABEL_2,0.9996402263641357
+10,"The CBO and the JCT provide credible estimates of taxes, spending, and deficits based on a common set of assumptions.",LABEL_2,0.9997945427894592
+11,"For example, by today's cash-based yardstick, the federal budget posted surpluses from 1998 to 2001; yet, if the budget definitions had included the costs of future Medicare and Social Security benefits accrued over this period, the budget likely would have shown substantial deficits.",LABEL_2,0.9797334671020508
+12,"In short, although cash deficits have economic relevance, they can provide a misleading picture of the nation's long-term budgetary situation.",LABEL_2,0.9997715353965759
+13,Should the Congress try to target a better measure of the fiscal situation than the deficit as it is currently defined?,LABEL_2,0.9993999004364014
+14,"Some have suggested moving to an accrual-based accounting system, where the deficit would better account for future obligations and revenues.",LABEL_2,0.9968817234039307
+15,"For example, to calculate generational accounts, one must specify the future path of numerous economic and demographic variables like wages, capital income, immigration, longevity, health costs, and inflation.1 One must also specify a discount rate in order to calculate present values--a choice that would likely be controversial and that could greatly affect the results.",LABEL_2,0.9997848868370056
+16,"Thus, they measure the fiscal burden under the assumption that current tax policy is continued, Social Security benefits are not curtailed, and Medicare spending continues to rise with health costs.2 The information provided by generational accounts and other similar methods would definitely be valuable, but their computational methods seem too complicated and rely too much on assumptions about future variables to make them a viable alternative to the current deficit as the main benchmark of fiscal policy.",LABEL_2,0.999669075012207
+17,Overall Deficit Targets A second approach to controlling budget deficits is for the Congress to establish budget targets.,LABEL_2,0.9971822500228882
+18,This approach was the centerpiece of the Balanced Budget and Emergency Deficit Control Act of 1985--commonly known as the Gramm-Rudman-Hollings (GRH) Act.,LABEL_2,0.9965319633483887
+19,That act aimed to wipe out the deficit in five years.,LABEL_2,0.9974033236503601
+20,It did so by establishing annual targets--declining to zero--for the budget deficit.,LABEL_2,0.9961035251617432
+21,"The process worked as follows: If projected deficits in the next fiscal year exceeded the targets by $10 billion or more, the legislation mandated that unprotected programs be cut, across-the-board, and by enough to reach the legislated targets.",LABEL_2,0.9423515200614929
+22,GRH did not allow changes in external circumstances to affect the budget deficit targets.,LABEL_2,0.9997900128364563
+23,Spending cuts were to be enforced regardless of whether the deficit picture had deteriorated because of worsening economic circumstances or because of congressional action.,LABEL_0,0.9496811032295227
+24,"The actual deficit did not meet the target in any of the years GRH was law, in part because, during this period, external events, such as the savings and loan crisis, tended to overtake the policies that the Congress had enacted to try to close the budget gaps.",LABEL_2,0.9937593936920166
+25,"For example, the Stability and Growth Pact of the European Monetary Union specifies that the budget deficits of member countries are not to exceed 3 percent of GDP except under some special circumstances.",LABEL_2,0.9989213943481445
+26,"But the Stability and Growth Pact has been as ineffective as GRH has, and for the same reasons: Countries have resorted to budgetary gimmicks to meet the criteria, and the sanctions have not been imposed on countries that have not met their targets.",LABEL_2,0.9948948621749878
+27,"Another example of deficit targets comes from the balanced-budget requirements of the states, which can be viewed as deficit targets with the target set at zero.",LABEL_2,0.9997871518135071
+28,"Although states have a wide array of budgetary tricks they can and do employ to hit their deficit targets, research evidence suggests that the balanced-budget requirements do limit borrowing and that, as a result, states with more stringent requirements face somewhat lower borrowing costs.",LABEL_2,0.9988008737564087
+29,"Furthermore, there seems to be a deeply held consensus that state budgets should be balanced, and this consensus undoubtedly helps legislators make the difficult choices sometimes necessary to balance state budgets.3 Hence, it may seem attractive just to limit overall deficits, but such limits have had only mixed success.",LABEL_2,0.9950217008590698
+30,"In a political setting, inflexible deficit limits are likely to lead more to avoidance than to real changes.",LABEL_2,0.9813738465309143
+31,This legislation replaced the system of deficit targets with two types of restraints on legislative actions.,LABEL_2,0.9996724128723145
+32,"Second, for revenues and entitlement programs, the BEA established a system called PAYGO (pay as you go) that required all revenue and mandatory spending legislation to be deficit-neutral over a five-year period.",LABEL_2,0.9973254203796387
+33,"In other words, the PAYGO restraint didn't require the Congress to climb out of the deficit hole by any particular date, but it did prohibit the Congress from digging the hole any deeper.",LABEL_2,0.9569880366325378
+34,"Changes in the deficit resulting from changes in economic conditions, health prices, demographics, and other technical or economic factors were allowed to show through to the deficit without sanction.",LABEL_2,0.9996892213821411
+35,Budget deficits declined sharply from 1992 to 1997 and then turned to surpluses from 1998 through 2001.,LABEL_2,0.8293737769126892
+36,"To a significant extent, of course, the decline in the deficit and the emergence of surpluses were attributable to circumstances external to the budget process, including the stellar performance of the economy; the increase in equity prices, which raised tax revenues to historic highs; and the end of the Cold War, which allowed for a decrease in defense spending.",LABEL_1,0.9369828701019287
+37,"But without a broad consensus to reduce the deficit, and without a mechanism to enforce that consensus, the Congress might have responded to these positive developments by increasing spending or cutting taxes.",LABEL_1,0.9111989736557007
+38,"Instead, the federal deficit was allowed to decline.",LABEL_0,0.5055701732635498
+39,"As a result, national saving increased, providing further impetus to economic growth.",LABEL_0,0.9812988638877869
+40,It is difficult to know exactly what the deficit path would have been in the absence of the BEA.,LABEL_2,0.999825656414032
+41,But budget experts generally believe that the BEA did help to reduce deficits.,LABEL_2,0.9956525564193726
+42,"First, any individual representative knows that bringing home the pork is not likely to have much of an effect on the deficit.",LABEL_2,0.9996658563613892
+43,"As already noted, an advantage of the budget rules was that they aimed at constraining the things that the Congress could control directly rather than targeting the overall level of the deficit.",LABEL_2,0.999806821346283
+44,"But unfortunately, even when surpluses emerged, the PAYGO rules continued to require deficit neutrality in mandatory spending and revenue programs and adherence to the discretionary caps.",LABEL_2,0.9673193693161011
+45,"In order to be effective, the process must be based on reliable information about current and future baseline budget deficits and about the effects of legislation on the budget.",LABEL_2,0.99982750415802
+46,"Once some success has been achieved with these measures, it may be easier to tackle the more ambitious step of instituting overall deficit limits.",LABEL_1,0.9239217638969421
+47,"The current focus on five years may be a reasonable compromise, or it might be worth considering some more-complicated rules that might limit annual deficits as well as five- or ten-year totals.",LABEL_2,0.9998254179954529
+48,"In the past, a reasonable goal might have been to maintain a zero deficit in our on-budget accounts--those accounts that exclude the Social Security and Medicare surplus--and to begin a serious discussion of reforms to Social Security and Medicare to bring them closer into actuarial balance.",LABEL_2,0.9983711838722229

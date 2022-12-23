@@ -1,0 +1,477 @@
+"Independence" does not mean literally independence from government, because central banks here and abroad are almost always part of government.
+The relationship of central banks to the rest of government is, in practice, therefore much more complex than the term "independence" might suggest.
+The motivation for granting independence to central banks is to insulate the conduct of monetary policy from political interference, especially interference motivated by the pressures of elections to deliver short-term gains irrespective of longer-term costs.
+The intent of this insulation is not to free the central bank to pursue whatever policy it prefers--indeed every country specifies the goals of policy to some degree--but to provide a credible commitment of the government, through its central bank, to achieve those goals, especially price stability.
+Even a limited degree of independence, taken literally, could be viewed as inconsistent with democratic ideals and, in addition, might leave the central bank without appropriate incentives to carry out its responsibilities.
+Therefore, independence has to be balanced with accountability--accountability of the central bank to the public and, specifically, to their elected representatives.
+It is important to appreciate, however, that steps to encourage accountability also offer opportunities for political pressure.
+The history of the Federal Reserve's relationship to the rest of government is one marked by efforts by the rest of government both to foster central bank independence and to exert political pressure on monetary policy.
+The purpose of this paper is to clarify the relationship of central banks within government, to explain the nature, degree of, and rationale for the independence afforded to many central banks--with a special focus on the role of the Federal Reserve within the U.S. government--and to discuss the balancing of independence and accountability in principle and in practice.
+Independence The dictionary defines independence as being free from the influence, guidance, or control of another or others.
+As applied to central banks, that translates into being free from the influence, guidance, or control of the rest of government, meaning both the executive and legislative branches in the United States.
+It is useful to distinguish two types of independence for central banks: goal independence and instrument independence.
+If a central bank is free to set the final objectives for monetary policy, it has goal independence.
+If a central bank is free to choose the settings for its instruments in order to pursue its ultimate objectives, it has instrument independence.
+Most central banks have specific legislative mandates and therefore do not have goal independence.
+Thus the "independence" of "independent" central banks is instrument independence under which the central bank has authority to choose settings for its instruments in order to pursue the objectives mandated by the legislature, without seeking permission from, or being overturned by, either the executive or the legislature.
+However, countries vary considerably in the specificity of the mandated goals and hence in the degree of discretion of central banks in the conduct of monetary policy.
+The Need for Independence Central bank independence is designed to insulate the central bank from the short-term and often myopic political pressures associated with the electoral cycle.
+Elected officials have incentives to deliver benefits before the next election even if the associated costs might make them undesirable from a longer-term perspective.
+This phenomenon has been called the political business cycle in which pre-election stimulus leads to higher inflation followed by monetary restraint after the election.
+On the other hand, it appears that elected officials in many countries apparently understood the incentives under which they operate and have structured charters for their central banks that, in effect, tie their own hands--that is, limit political interference with monetary policy to enhance the prospects of achieving and maintaining price stability.
+Nevertheless, the urge to exert political pressure--to support the objectives of the Administration as well as those of the Congress, to take the U.S. case, and other times to support the re-election of the President or of congressional incumbents--sometimes becomes irresistible.
+At such times, the tradition of independence at the Fed, the leadership of its Chairman, the influence of long terms for governors, and the presence of Reserve Bank presidents on the Federal Open Market Committee (FOMC) become especially important.
+In addition, budget priorities and monetary policy objectives can be in conflict.
+The executive branch generally wants to keep the cost of servicing its debt low, and this preference might be at odds with the need for monetary policy to vary interest rates to maintain price stability.
+This tension has been present during both World Wars and for several years following World War II.
+Finally, especially in countries where debt markets are not well developed, central banks might be called upon to finance budget deficits by printing money, again interfering with maintaining price stability.
+The Federal Reserve, for example, was asked to directly underwrite government debt during World War I but a statutory prohibition on directly purchasing government debt was later added to the Federal Reserve Act.
+Some have worried that even an independent central bank could succumb to the temptation to stimulate the economy today at the expense of higher inflation in the future.
+This is referred to as the problem of time inconsistency.
+That is, the central bank has an incentive to commit itself to price stability and then to renege on this promise in order to gain employment in the short run with relatively little initial sacrifice in the form of higher inflation.
+In the long run inflation would rise and the central bank would either have to tolerate the higher rate of inflation or push output below potential for a while to restore price stability.
+Once the public understood this process, moreover, it would expect higher inflation, so that, in the longer run, the result could be higher inflation without any short-run gain in output.
+Several solutions to the time inconsistency problem have been offered.
+First, the rest of government could impose a rule on the central bank, restricting its ability to play the game described above.
+The rule would ensure a credible commitment to price stability, thereby anchoring the public's expectations and removing the inflationary bias that otherwise might result.
+Second, the government could appoint conservative central bankers--central bankers with a greater commitment to price stability than the public--and thereby offset the inflationary bias that would otherwise arise.
+Third, central bankers could be forced to operate under performance or incentive contracts, whereby they could be penalized for failure to maintain price stability.
+The Governor of the Bank of New Zealand operates under such a performance contract; he can be removed from office for failure to achieve his inflation target.
+I have never found the literature on time inconsistency particularly relevant to central banks.
+Surely central banks realize they are facing a repeated game, not a one-time game.
+They will therefore be reluctant to undermine their credibility over the longer run by pretending to pursue price stability while stimulating the economy for short-run gain.
+Long terms and other institutional ways of insulating central banks from short-term political pressures allow central bankers to take this longer view and make them less likely to follow time-inconsistent policies.
+Still, the problem highlighted in the time inconsistency literature may reinforce the case for both a price stability legislative mandate and instrument independence for the central bank.
+Independence also is likely to reinforce the credibility of a central bank's commitment to price stability.
+This enhanced credibility may then yield additional benefits.
+First, it could allow the central bank to reduce the cost of lowering inflation.
+It is generally agreed that to lower inflation monetary policy must reduce output for a while, relative to potential, by reducing aggregate demand.
+The resulting loss of output during the transition to lower inflation is a measure of the cost of reducing inflation.
+The more quickly inflation expectations fall, the more rapidly will inflation itself decline, and the lower will be the cost of reducing inflation.
+A credible central bank could also be more effective in conducting stabilization policy.
+If aggregate demand were to slow, a stimulative monetary policy move would be less likely to undermine confidence in the central bank's pursuit of price stability when the central bank is independent (and has a price stability mandate).
+In addition, if inflation moved upward, inflation expectations would be less likely to follow immediately, making it easier for the central bank to contain inflation.
+Evidence on the Benefits of Independence An extensive literature examines the relationship between the independence of the central bank and economic performance.
+The empirical studies generally find an inverse relationship between measures of central bank independence and both average inflation and variability of inflation, at least for developed economies.
+These are only correlations, however, and thus do not prove causation.
+The inverse relationship could also reflect the fact that countries with less aversion to inflation might be less likely to have independent central banks.
+In addition, there is no consistent evidence of a relationship between central bank independence and real economic activity nor consistent evidence that central bank independence lowers the cost of reducing inflation or increases the effectiveness of stabilization policy.
+On balance, the evidence on the benefits of central bank independence is strong enough to satisfy those who find the theoretical arguments persuasive, although its is not strong enough to convince skeptics.
+The History and Evolution of Central Bank Independence A century ago there were only 18 central banks, 16 in Europe, plus Japan and Indonesia.
+Today there are 172 central banks and over recent years the number of central banks that claim some degree of independence within government has steadily increased.
+More central banks have become independent in the 1990s than in any other decade since World War II.
+Changes in Britain, Japan, and continental Europe made 1998 a banner year in the history of central bank independence.
+The Bank of England, one of the oldest central banks in the world, was founded by an act of Parliament in 1694.
+It was involved in commercial activity until the end of the 19th century, but it had gradually shifted during those 200 years toward exclusive focus on central bank activity.
+The Bank of England had substantial independence for much of the 18th and 19th centuries, but by the 20th century it had essentially become an agency of the British Treasury.
+Then, in June 1998, it was reborn as an independent central bank under the current Labor government.
+The Bank of Japan gained operational independence in April 1998.
+The Bank is still not legally independent, a status prevented by the Japanese constitution.
+In addition, representatives of both the Ministry of Finance and the Economic Planning Agency attend meetings in a nonvoting capacity.
+But before then, the Ministry of Finance could require the Bank to delay implementation of a change in policy; now it can only ask.
+Recently, the Ministry of Finance indeed asked the policy committee of the Bank of Japan to delay a decision to raise the Bank's target interest rate.
+In an exercise of the Bank's newly attained power, the policy committee rejected the request.
+The European Central Bank (ECB) began operating on June 1, 1998, and assumed responsibility for monetary policy in the euro area on January 1, 1999.
+The ECB is the world's first supranational central bank and probably qualifies as the most independent central bank in the world.
+The charter for the European System of Central Banks (composed of the ECB and the national central banks of the member countries) is an international treaty that can be changed only by unanimous consent of its signatories.
+With its supranational status, the ECB is further removed from the political pressure of national governments than even the most independent national central banks.
+In addition, there is no political counterpart to the supranational ECB.
+The European Parliament carries out oversight hearings on monetary policy but does not have any authority with respect to the ECB.
+Independence and the Federal Reserve System The Federal Reserve, created in 1913, was established as an independent central bank--although, at the time, it was given no clear concept of its role in the conduct of monetary policy.
+The only reference to policy goals in the original Federal Reserve Act was that the Federal Reserve was responsible for providing an elastic currency--that is, one that would expand as appropriate to accommodate the need for additional transactions as production and spending grew.
+The major question for the founders was the degree to which the U.S. central bank should be a public or a private institution.
+Bankers wanted a largely private central bank.
+Populists wanted a public institution.
+President Wilson and Congressman Glass steered a middle course.
+There would be a Federal Reserve Board that was completely public and Federal Reserve Banks that would have significant characteristics of private institutions.
+During the first half century of Federal Reserve history, the Congress continued to focus more on issues involving the structure of the Federal Reserve than on providing a clear legislative mandate for monetary policy or oversight of the conduct of monetary policy.
+A former Fed governor, Andrew Brimmer, in a 1989 paper entitled "Politics and Monetary Policy: Presidential Efforts to Control the Federal Reserve," describes the record of almost "continuous and at least public and vigorous conflicts" between Presidents and the Federal Reserve.
+In his view, twelve of the fourteen Presidents between the founding of the Federal Reserve and the time he was writing--from Woodrow Wilson to George Bush--had "some kind of public debate, conflict, or criticism of Federal Reserve monetary policy," the exceptions being Calvin Coolidge and Gerald Ford.
+He alleged that Presidents resented the delegation of monetary policy by the Congress to an independent Federal Reserve and sought ways to bring monetary policy under their influence, often by exerting direct political pressure on the Federal Reserve, but principally through the appointment process.
+Examples of the latter cited by Brimmer include Nixon, believing that the Federal Reserve had cost him the election in 1960, replacing Chairman William McChesney Martin with Arthur Burns in February 1970 when Martin's term expired; Carter, appointing William Miller to replace Chairman Burns in 1978; and Reagan, appointing Alan Greenspan as Chairman in 1987.
+For the most part, their best efforts to appoint sympathetic choices as Chairmen have, in Brimmer's judgment, been frustrated by the systematic tendency of Chairmen and other Board members to insist on exercising their congressional mandate.
+Thomas M. Havrilesky, in a 1992 book, also provides an account of, and some attempts to measure, the intensity of political pressure over time, based on the number of comments on monetary policy made by Administration officials, including the President, and by members of the Congress.
+He concludes that there was little pressure from the executive branch during the Eisenhower and Ford Administrations, but many more such efforts in the Kennedy, Johnson, and Nixon Administrations.
+My experience on the Board is that the Clinton Administration has respected the independence of the Federal Reserve to a degree that, given the accounts of others, may exceed that of any previous Administration.
+To be sure, President Clinton has had opportunities to make appointments to the Federal Reserve Board and he has twice reappointed Alan Greenspan as Chairman.
+But to my knowledge the Administration has never made any public or private effort to influence monetary policy.
+The Federal Reserve has been technically independent of the President from the beginning, even though the Secretary of the Treasury and the Comptroller of the Currency originally sat on the Board.
+Although it is a creature of the Congress, the Federal Reserve Act delegated control over the currency to the Board and Congress insulated the Federal Reserve from elective politics to a large degree.
+The current structure of the Federal Open Market Committee was introduced in the Banking Act of 1935, which became effective in March 1936.
+At that time the Secretary of the Treasury and the Comptroller of the Currency were removed from the Board.
+1 The terms of governors were extended from ten to fourteen years and the Chairman and Vice Chairman were made appointees from within the Board with four-year terms.
+This structural change is often viewed as allowing the culture of independence to flourish at the Fed.
+The legislation was also a battle between the Administration and the Congress.
+The Administration wanted to shift the power over monetary policy toward the centralized and presidentially appointed Federal Reserve Board governors, a group they had a better opportunity to influence through the appointment process.
+The Congress partly resisted and diluted the control of the Administration by allowing a role for the Reserve Bank presidents on the FOMC.
+During both World Wars, Treasury wanted to issue securities at low interest rates to ease the burden of financing and the Fed went along because it felt bound to facilitate wartime financing.
+In addition, during World War I, Reserve Banks bought most of the government's first $50 million certificate issue directly from the Treasury despite strong objections from some System officials.
+Such direct purchases were later eliminated and the statutory prohibition on direct underwriting of government debt is today considered one of the principal protections of the independence of a central bank.
+After World War I, the Treasury opposed raising the discount rate to combat inflation, but the Fed did so anyway.
+During World War II, the Fed sacrificed its independence by agreeing to peg the Treasury yield curve to ensure low rates for wartime financing.
+After the war, the Fed wanted to resume an independent monetary policy, fearing that it would otherwise become an engine of inflation, but the Treasury was still concerned about minimizing the service cost of the debt.
+To resolve this conflict, an agreement was negotiated in 1951 by Assistant Secretary of the Treasury William McChesney Martin and Fed officials.
+The Congress, led by Senator Paul Douglas, also played an important role through its support for Federal Reserve independence.
+Under the terms of the Accord, as it came to be known, the Fed was no longer obligated to peg the interest rates on Treasury debt, but it was agreed that active consultation between the Fed and Treasury would continue.
+That active consultation continues today.
+From the end of World War II until the mid-1970s, the mandate for monetary policy was based on the Employment Act of 1946.
+This legislation set out a general mandate for the government.
+Although it did not explicitly refer to the Federal Reserve, it was widely understood that the act applied to the central bank as a part of government.
+The act identified the government's macroeconomic policy objectives as fostering "conditions under which there will be useful employment opportunities…for those able, willing, and seeking to work, and to promote maximum employment, production, and purchasing power."
+Conflict between the executive branch and the Federal Reserve erupted dramatically in December 1965.
+President Johnson did not want the Administration's stimulative fiscal policy undermined by restrictive monetary policy.
+Chairman Martin supported an increase in the discount rate as an appropriate step to contain the risk of higher inflation.
+A key vote occurred on a proposed increase in the discount rate at a Board meeting on December 3.
+Although the President tried to influence the Chairman's position, and others in the Administration put pressure on other members of the Board, the Board of Governors voted 4-3 to support the Chairman.
+Following the vote, the President summoned the Chairman to the President's ranch in Texas.
+But the vote stood.
+The independence of the Fed was preserved and indeed used for precisely the purpose it was intended.
+Subsequently, virtually everyone agreed it had been the correct decision.
+The system worked.
+The Congress became more involved in the monetary policy process in the 1970s.
+This was a response to both poor economic performance and changing views about the importance of monetary aggregates in shaping economic developments, especially inflation.
+Inflation began to rise in the late 1960s and escalated further in the 1970s.
+During this period, monetarism was an increasing influence, with its focus on the importance of limiting the rate of growth of the money supply to control inflation.
+But it was the sharp recession in 1974-75 that really provoked the Congress to provide more detailed instructions to the Federal Reserve about the objectives that should guide monetary policy.
+In 1975, the House and Senate passed Concurrent Resolution 133 calling on the Fed to lower long-term interest rates and expand the monetary and credit aggregates to promote recovery.
+The Fed was also instructed to set money growth targets and to participate in periodic congressional hearings on monetary policy.
+For the first time, the Congress explicitly identified the objectives for monetary policy.
+The same language about the objectives applies today.
+Still, with its focus on the conduct of monetary policy at a point in time (rather than on general guidelines on policy objectives to be applied over time), the resolution was a clear instance of action by the Congress to intervene and influence monetary policy.
+The monetary policy objectives written into the concurrent resolution were added by an amendment to the Federal Reserve Act in 1977 and were further elaborated in the Full Employment and Balanced Growth Act of 1978, often referred to as the Humphrey Hawkins act after its co-sponsors.
+Another clear attempt at political interference emerged in February 1988 when an undersecretary of the Treasury sent a letter to Federal Reserve officials urging them to ease monetary policy.
+The request was promptly and publicly rebuked by Chairman Greenspan.
+Having an attempt at political pressure become public and be sharply rejected was an unusual event in the history of the relationship between the executive branch and the Federal Reserve.
+The reporting requirements in the Humphrey-Hawkins act expired in May 2000.
+As a result, the Congress is now reconsidering the monetary policy oversight process.
+In part because the link between money growth and nominal spending appears to be less tight than it was earlier, the role of money growth in monetary policy deliberations has diminished and it appears likely that the Congress will no longer require the Fed to set and report money growth ranges.
+However, the current language about the objectives of monetary policy seems likely to be retained, as does semiannual testimony on monetary policy.
+Sources of Independence Central bank independence is in part the result of formal institutional features typically incorporated in the legislation creating and defining the central bank.
+The legislation creating an "independent" central bank--or in many cases revisions to such legislation--often entirely takes away goal independence by mandating objectives for monetary policy, but otherwise sets up a structure that confers and protects instrument independence.
+The most important requirement for instrument independence is that the central bank be the final authority on monetary policy.
+That is, monetary policy decisions should not be subject to veto by the executive or legislative branches of government.
+Instrument independence is further protected if other institutions of government are not represented on the monetary policy committee.
+A lesser protection would be to allow government representation but only in a nonvoting capacity.
+Instrument independence is further facilitated by long, overlapping terms for members of the monetary policy committee; by limited opportunities for reappointment; and by committee members not being subject to removal except for cause--where "cause" refers to fraud or other personal misconduct but explicitly excludes differences in judgment about policy.
+An intangible contributor to independence, but arguably the most important, is the appointment of a capable, respected, politically astute, and "independent minded" chairman.
+A third important protection of independence is achieved by freeing the central bank from the appropriations process.
+Many central banks have been granted the seignorage function--issuing currency for the government--and cover the cost of their operations from the earnings on their portfolio of government securities acquired in the process, returning the excess to the government.
+Finally, it is critically important to ensure that the central bank will not be required to directly underwrite government debt.
+As I noted above, the Treasury or Finance Ministry will have an incentive to keep interest rates low to reduce the cost of servicing the government debt.
+Indeed, perhaps the first principle of central bank independence is independence from the fiscal authority.
+If independence is also defined in terms of assuring the ability and commitment of the central bank to achieve price stability, this commitment can be protected by an explicit price stability mandate from the government.
+That is, a government that explicitly imposes this mandate is less likely to interfere in a central bank's pursuit of this objective.
+Independence, by this definition, is viewed as greatest if price stability is the exclusive objective of monetary policy, or at least the principal objective.
+Empirical Studies of the Relative Independence of CentralBanks Studies of the economic consequences of central bank independence typically estimate the economic effects by first deriving quantitative measures of the relative independence of central banks and then estimating how this measure is correlated with average inflation, inflation variability, and real economic performance.
+Reviewing three of these studies will help to better understand the meaning and sources of central bank independence and perhaps provide at least some insights into how the Federal Reserve ranks relative to other central banks in terms of independence.
+Bade and Parkin (1988) ranked the political independence of twelve industrial country central banks on the basis of answers to questions such as Is the bank the final policy authority?
+and Is there no government official (with or without voting power) on the bank board?
+Grilli, Masciandro, and Tabellini (1991) also incorporated information on the length of terms of monetary policy committee members and on policy goals of the central bank with respect to monetary policy, specifically whether there is a mandate for monetary stability (including money growth or price stability objectives).
+Cukierman (1992) also takes into account restrictions on the ability of the public sector to borrow from the central bank.
+A central bank is more independent if it is protected, for example, from directly underwriting the government debt.
+Germany (prior to its participation as part of the ECB) and Switzerland have been uniformly ranked the most independent of central banks.
+The United States fell in the second tier in the Bade and Parkin rankings; was just below the most independent central banks in the Grilli, Masciandro, and Tabellini rankings of eighteen industrial countries; and was tied for fourth place among seventy countries in Cukierman's rankings.
+The Federal Reserve lost points in these rankings because of the brevity of the Chairman's term (less than five years) and the failure to single out price stability as the unique or principal objective.
+Of these studies, I prefer Bade and Parkin's methodology for ranking independence because they included only those institutional characteristics that afforded a measure of independence to the central bank.
+Grilli, Masciandro, and Tabellini and Cukierman also included in their measures the nature of monetary policy objectives, ranking independence higher if there is a price stability objective and, in Cukierman's case, higher still if price stability is the only or at least principal objective.
+In the latter case, a central bank with more discretion--for example, as a result of multiple objectives, as in the case of the United States--is ranked as less independent than a central bank that has little discretion on account of a single, precisely defined price stability objective.
+Of course, defining independence to involve a mandate making price stability the single or principal objective increases the potential for an inverse relationship between "independence" and inflation.
+Accountability Accountability means being answerable for one's decisions.
+Implicit in being accountable is being subject to discipline from whomever you are accountable to for the failure to live up to your responsibilities.
+Making the central bank accountable in this way involves, by definition, some compromise of the independence of the central bank.
+But accountability is the critical mechanism for ensuring both that the central bank is operated in a way consistent with democratic ideals and that the central bank operates under incentives to meet its legislative mandate for monetary policy.
+On the other hand, as I noted earlier, steps to increase accountability also create opportunities for political interference.
+Every organization's performance is likely to be enhanced by appropriate incentives.
+In the private sector, the incentives for a business are profitability and, indeed, survival.
+In the public sector, other means must be found to provide incentives.
+Elections of course play this role for elected officials.
+With central banks having been given an arms-length relationship with the electoral process, some have suggested that central bank policymakers should operate under explicit incentive contracts.
+But, for the most part, accountability is achieved for central banks both through the appointment process and by regular oversight by the legislature.
+Accountability is facilitated by providing the central bank with a specific, external (usually legislatively imposed) mandate.
+Two aspects of designing the objectives for monetary policy are important.
+First, a single objective (typically price stability) makes the central bank more accountable, because multiple targets always carry trade-offs, at least in the short-run, which are subject to the discretion of the central bank.
+Second, explicit numerical targets make central banks more accountable than more general targets.
+Specifically, an explicit numerical inflation target makes the central bank more accountable than a more general commitment to price stability.
+There are, however, other considerations that are relevant to setting the mandate.
+First, if there is a single target for a central bank, it will surely be price stability, given that monetary policy is the principal, even unique, determinant of inflation in the long run.
+While a single target is more precise, few legislatures would tolerate a central bank disclaiming any responsibility for the cyclical state of the economy or at least failing to respond to cyclical weakness.
+Indeed, given the inescapable trade-off between inflation variability and output variability, a central bank naturally, even inevitably, accounts for the variability of output around full employment when deciding how rapidly to try to restore price stability in cases where shocks or policy mistakes move the economy away from this goal.
+Inflation-targeting central banks often take account of output variability by defining a period of time over which any return to price stability should occur, typically two years.
+But such a fixed boundary may not encompass the optimal response to all shocks.
+A second consideration in setting the mandate is that flexibility can be a valuable asset for policymakers, given the variety of shocks that the economy may face, structural changes that could effect the nature of trade-offs faced by policymakers, and the possibility of short-run trade-offs among multiple targets.
+So, less precise objectives and multiple targets provide flexibility for the policymaker.
+To the extent that there is a single and explicit target, accountability is narrowly about performance relative to that target.
+On the other hand, when there are multiple targets and hence inherent shorter run flexibility and less precisely defined targets, the oversight by the legislature will typically focus more broadly on the judgments that the central bank has made in pursuing its legislative mandate.
+A second source of accountability is through the reappointment process.
+If terms are short and especially if the Chairman and other voting members can be reappointed for additional terms, more control can be exercised through the appointment process, and committee members can more easily be held accountable for their policy votes.
+This is a clear example of the trade-off between independence (facilitated by long terms without the possibility of reappointment) and accountability (facilitated by short terms with opportunities for reappointment).
+As I noted earlier, Federal Reserve Board governors are appointed by the President, subject to Senate confirmation, for nominal fourteen-year terms.
+Such long, overlapping terms facilitate independence.
+However, if a Board member resigns before his or her term has expired, the successor is appointed for the remainder of that term.
+At the end of a partial term, a governor can be reappointed for a full term, but reappointment is at the discretion of the President and is again subject to confirmation by the Senate.
+Once a full term has been served, no reappointment is possible.
+The average actual tenure of governors has been between five and six years over the last twenty-five years.
+However, the term of the Chairman and the Vice Chairman of the Board of Governors is only four years and both can be reappointed for additional terms as Chairman and Vice Chairman for as long as they remain on the Board.
+Such short and renewable terms reduce independence but facilitate accountability.
+In addition, they provide an important opportunity for the President to try to influence monetary policy decisions by pressures exerted on the Chairman subsequent to appointment.
+To a lesser degree, appointment of governors and direct pressure on them are further avenues of political influence that have been employed, at least on occasion.
+The authors of the Banking Act of 1935, which established the FOMC in its modern form, implemented the system of long overlapping terms for governors and shorter renewable terms for the Chairman and Vice Chairman.
+It seems to me they made a conscious effort to balance independence and accountability.
+The short, renewable term for the Chairman would enhance accountability and encourage a strong working relationship between the Chairman and the executive and legislative branches.
+On the other hand, the long and effectively nonrenewable terms for governors would protect the fundamental independence of monetary policy.
+So the Federal Reserve loses points in some indices of independence because of the short term of the Chairman, but the resulting balance between independence and accountability has, in my view, contributed over the years to a successful relationship between the central bank and the rest of government.
+Transparency and Disclosure Transparency and disclosure are also essential to accountability.
+Transparency refers to being easily understood.
+With respect to monetary policy, it refers to the immediacy with which the public learns of policy decisions and the amount of information provided about the rationale for policy actions and the assessment of how possible future developments bear on policy.
+The legislature, for example, needs information about the policy actions and an understanding of the rationale for the policy if it is to be able to hold the central bank accountable.
+In addition, it is generally agreed that markets work better with more complete information, although some worry that a continuous flow of information on the leanings of members of the policy committee can result in excessive volatility in financial markets.
+The Congress has, over time, made efforts to increase the transparency of the monetary policy process and widen the scope of disclosures of monetary policy decisions and of the discussions leading up to those decisions.
+Historically, the Federal Reserve has responded initially by trying to preserve the status quo, but over time it has come to accept and even appreciate the evolution toward greater transparency and disclosure.
+Nevertheless, continuing concerns have been the potentially deleterious effect of still greater transparency and disclosure on the effectiveness of the deliberative process and the possible effects on the volatility of financial markets.
+Transparency is influenced by the operating procedures used to implement monetary policy.
+It is furthered by announcements of policy changes, along with statements explaining the rationale underlying policy actions, and by timely and sufficiently detailed reporting of the substantive discussions leading to the policy decisions.
+The Federal Reserve used to set its policy in terms of the tightness of reserve positions (so-called "reserve market conditions").
+This was a very imprecise way of setting and explaining policy, making it more difficult for the public and the Congress to monitor and evaluate monetary policy decisions.
+One of the developments of FOMC practice under Chairman Greenspan was to set policy explicitly in terms of a target rate for the federal funds rate.
+2 Initially, these decisions were not directly conveyed to the public.
+Instead, the Federal Reserve Bank of New York altered the way in which it implemented open market operations to alert financial markets to the change in policy.
+In February 1994, the Federal Reserve began announcing on the day of each meeting any change in its federal funds target and formalized that decision in February 1995.
+At the same time, it began to offer a brief statement explaining the rationale for the policy change.
+A policy of issuing a statement even when there was no change in policy was implemented last year.
+The effect of monetary policy derives not only from the explicit policy actions taken, but also from expectations about future policy.
+Until quite recently, the Federal Reserve opposed earlier release of its directive or minutes precisely because that would provide some hints about prospects for future policy and this could result in volatility in financial markets.
+Today, however, not only does the FOMC immediately announce its policy decisions and provide a rationale for policy changes, it also reveals whether the committee believes the risks to achieving its goals are balanced or unbalanced--and, if unbalanced, in what direction.
+Since the early 1980s, the so-called tilt had been part of the directive, but in May 1999 the FOMC began to report changes in the tilt on the day of the meeting and, since that time, the markets have focused considerable attention on what the Federal Reserve says about the future.
+Transparency is also enhanced by disclosure--including the announcement of policy actions and of the rationale for policy actions, the release of a summary in the minutes of the Committee's substantive discussion about the economic outlook and the appropriate course of policy, and testimony before the Congress.
+The Federal Reserve releases minutes of each meeting shortly after the following meeting--in effect, a delay of six or seven weeks.
+Some have encouraged a further step toward enhanced transparency by speeding this release.
+The transcripts of an entire year of meetings--lightly edited verbatim records of the deliberations, with redactions for sensitive information related to foreign governments or specific businesses or individuals--are released with a lag of five years.
+The decision to do so was made in February 1995.
+Until late 1993, it was not widely known--inside or outside the Federal Reserve--that verbatim records of FOMC meetings (transcribed from audio tapes) were retained.
+Once the minutes were released, the tapes themselves were erased--actually taped over--in conformance with Committee directives.
+When the Congress learned of the availability of the transcripts, they demanded that they be released to the public, and the current procedures were negotiated between the Federal Reserve and the Congress.
+The transcripts are a useful historical record of FOMC meetings and provide scholars as well as current Board members with insights into the monetary policy process and its evolution over time.
+The Federal Reserve and the Executive Branch Independence and accountability--as important as these concepts are--do not effectively convey the full richness of the relationship of the Federal Reserve to the rest of the government.
+The relationship in practice is, after all, as much informal as formal.
+Informal relationships and, even the effectiveness of formal ones, also have a lot to do with personalities as well as with institutional history and traditions.
+And these informal relationships are, in turn, important channels for political influence.
+One important reason for consultation and communication between the Federal Reserve and both the executive and legislative branches is the desirability of effective coordination of monetary and fiscal policies.
+The executive and legislative branches collectively set fiscal policy, while the central bank sets monetary policy.
+The appropriate monetary policy must give substantial weight to prevailing and expected fiscal policies.
+To a lesser degree, the same principle is at work in the formation of fiscal policies.
+I say to a lesser extent because I believe fiscal policies since the early 1980s have been set more on the basis of longer-run considerations--such as promoting growth--than for short-run stabilization purposes.
+As a result, stabilization policy is today principally a concern of the central bank except under extreme circumstances.
+The forecast of the central bank must consider current and prospective fiscal policies, and monetary policy must adjust to fiscal policy changes, while the executive and legislative branches are somewhat freer to implement changes in long-run strategies as the political consensus allows or dictates.
+On the other hand, the absence of active stabilization efforts by the executive branch (and the Congress) might increase their frustration about the stabilization policies pursued by the Federal Reserve--or perhaps more likely at the perceived failure of the Federal Reserve to pursue full employment aggressively enough--and increase efforts at political interference with the conduct of monetary policy.
+The relationship between the Federal Reserve and the executive branch has evolved over the last half century toward a more informal and less structured relationship.
+The Eisenhower Administration established an Advisory Board on Economic Growth and Stabilization (ABEGS) which included the chairman of the President's Council of Economic Advisers and the Fed Chairman--initially Arthur Burns and William McChesney Martin respectively--plus cabinet members.
+With Arthur Burns in the lead, the ABEGS functioned as a forum for frequent consultations on the policy mix.
+During that period, fiscal policy had a more prominent role in stabilization policy, with monetary policy playing a more supporting role.
+Some previous Fed Chairmen also have acted as close advisors to the president--for example, Mariner Eccles for President Franklin Roosevelt and Arthur Burns in the case of President Nixon--sometimes in discussions unrelated to the coordination of stabilization policy.
+The Kennedy-Johnson Administration inherited the recession of 1960-61 and was determined to use fiscal policy to promote recovery.
+In the prelude to the 1964 tax cut, Chairman Martin was included in policy discussions as part of a "Quadriad" consisting also of the CEA chairman, the Secretary of the Treasury, and the director of the Budget Bureau.
+Chairman Martin was included mainly to ensure that the Fed did not offset the expected effect of the tax cut.
+Coordination slackened as Vietnam War spending stimulated the economy, to the alarm of Fed officials, leading to the December 1965 confrontation.
+This was the most dramatic example of attempted political interference with the conduct of monetary policy after the 1951 Accord.
+The minutes of the meeting at which the Board decided to raise the discount rate include interesting discussions of the tension between independence and coordination.
+Some governors wanted to defer to, or at least negotiate further with, the Administration on this issue because they viewed the Administration as having the primary responsibility for the conduct of national economic policy.
+Should the Federal Reserve frustrate the direction of that policy?
+And during the congressional hearings that followed there was much discussion about the dangers to a ship with two captains.
+Today, the interaction between the Federal Reserve and the Administration is more informal but also perhaps more continuous.
+However, that relationship is less focused on monetary-fiscal policy coordination than on regulatory and international economic issues.
+This change reflects the smaller role of fiscal policy in stabilization ever since the early 1980s, when the Reagan Administration shifted the focus to longer-run issues related to encouraging more rapid trend growth.
+Stabilization policy since that time has been dominated by the Federal Reserve, with coordination of policies becoming especially important at major turning points in the thrust of fiscal policy--for example, when the Clinton Administration decided to make a reduction in the structural federal budget deficit the centerpiece of its economic policy strategy in 1993.
+The Secretary of the Treasury and the Chairman of the Federal Reserve meet frequently, many times for breakfast or lunch, often two or three times a week.
+The meetings are generally short, but not always, with no formal agenda and no staff.
+These meetings date back to the Treasury-Federal Reserve Accord in 1951 but today, apart from telephone consultations, they are the main source of ongoing contact between the Chairman and the Administration.
+There are a number of other opportunities for regular contact among Federal Reserve governors and members of the Administration's economic team.
+A governor (on a rotating basis) hosts a weekly lunch for senior staff of the Treasury and the Federal Reserve.
+While the meetings are often social as well as substantive, they are opportunities to discuss issues of mutual concern.
+Some of the most effective meetings are "theme" meetings, when we agree in advance to focus on a particular issue.
+Given the Treasury's respect for the independence of the Fed, participants will rarely discuss monetary policy, although they occasionally touch on the economic outlook.
+Regulatory issues, debt management, or international economic issues tend to dominate.
+But the contacts made and refreshed at these meetings are extremely constructive when discussions between the Federal Reserve and Treasury are called for, again most often on regulatory issues.
+Members of the Board and members of the CEA also meet monthly for lunch.
+Once again, discussions of the economic outlook and monetary policy are rare.
+But the discussions often involve interesting issues related to the outlook, such as the sources of the increases in productivity growth and why most other countries have not benefited significantly thus far from the same developments.
+The President and the Chairman of the Federal Reserve meet occasionally--more recently, generally a couple of times a year.
+These meetings typically are informal discussions without agendas and without announcements before or after the meetings.
+They usually also include the Vice President, the Secretary of the Treasury, and the President's chief of staff.
+These are typically opportunities for the Chairman to brief the President on the U.S. and global economic outlooks.
+The frequency of meetings between the Chairman and both the Secretary of the Treasury and the President have varied across Chairmen and Administrations, depending to an important degree on the individuals involved.
+The Federal Reserve and the Treasury participate in a variety of working groups--including the President's Working Group on Financial Markets.
+Treasury and Federal Reserve officials often serve together on U.S. delegations to international organizations--including meetings of G-7 and G-10 finance ministers and central bank governors; regional organizations such as the Asia Pacific Economic Cooperation Council, the Manila Framework, and the Forum for Latin American Central Bank Governors; the Financial Stability Forum, OECD Working Party 3 and Economic Policy Committee, and G-22; and bilateral economic dialogues, for example, with China and India.
+Before each such forum, it is typical for the U.S. delegation to meet together to coordinate their participation.
+Consultations were intense during the Mexico crisis in 1995, the Asian financial crisis in 1997-98, and in the discussions about reforming the international financial architecture since these events.
+The Federal Reserve and the Congress As I noted earlier, the Federal Reserve's independence is a product of congressional legislation and can therefore be diminished at the will of the Congress (with the President's approval and subject to override of any veto).
+The Congress must have such authority of its oversight of the Federal Reserve is to be credible and effective.
+This power is a rather blunt instrument, providing ample opportunity for the Federal Reserve to take advantage of its independence in the conduct of monetary policy.
+At the same time, it ensures that the Federal Reserve is extremely respectful of the oversight authority of the Congress and provides some leverage for congressional influence on the conduct of monetary policy.
+In assessing congressional influence, it is also useful to distinguish between the views of a vocal minority and the consensus view--insofar as it can be ascertained--of the Congress.
+It is sometimes difficult to separate direct political involvement in monetary policy from essential congressional oversight of monetary policy.
+Today it seems out of place for the Administration to comment directly on the conduct of monetary policy, though this may reflect the extraordinary relationship between this Administration and the Federal Reserve and the exceptional economic environment of the last several years.
+Only time will tell.
+At any rate, for the present, the relationship between the Administration and the Federal Reserve on monetary policy is confined to the President's making appointments to the Board while the members of the administration and the Board (and especially the Chairman and the Secretary of the Treasury) engage in regular but informal consultations.
+On the other hand, the Congress cannot fulfill its oversight responsibilities without actively engaging the Federal Reserve in a dialogue about the conduct of monetary policy.
+The Congress conveys its views on monetary policy through a variety of vehicles, including letters, speeches, statements and questions at hearings, committee reports on monetary policy, and bills and resolutions.
+The Congress over the years has used a variety of approaches to influence monetary policy.
+Perhaps most important, the Congress has set the goals for monetary policy in law.
+In addition, the Senate confirms nominees to the Board of Governors, and individual Senators can hold up Board member confirmations in an attempt to influence policy and appointments.
+The Congress can, if it decides, pass legislation that directly requires a specific monetary policy action.
+The Congress can threaten to change the structure of the Federal Reserve--abolish the Federal Reserve at the extreme, or specify particular qualifications for Board members, or alter the composition of the FOMC--in an attempt to influence monetary policy.
+The Congress can demand an accounting of policy by summoning the Chairman, Board members, and Reserve Bank presidents to congressional hearings, in addition to the formal semiannual testimonies by the Chairman.
+The line between oversight and direct involvement in the conduct of policy is perhaps crossed when the Congress passes or even introduces a resolution or legislation that gives specific direction to raise or lower interest rates and, especially, when such directions are accompanied by proposed legislation that would reduce the independence of the Federal Reserve.
+The history of the past twenty years shows that members of the Congress do try to influence monetary policy, especially when the economy is performing poorly or when interest rates are high or rising, but that the Congress has rarely gone so far as to pass legislation to direct policy.
+In fact, such legislation has often been introduced, though rarely passed.
+Indeed, the introduction of such legislative mandates may be thought of as one way the Congress tries to persuade the Federal Reserve to alter its conduct of monetary policy.
+There are, to my knowledge, only one or two examples of legislation that passed with specific monetary policy directives and thus compromised the delegation of instrument independence to the Federal Reserve.
+I mentioned previously Concurrent Resolution 133 passed in 1975.
+At the end of November 1982, forty-two Senate Democrats introduced a resolution calling on the Fed to "achieve low enough interest rates to generate significant economic growth and thereby reduce the current intolerable level of unemployment."
+The Democratic House approved this language in its version of the year-end continuing resolution.
+However, the final language in the continuing resolution included an important qualification that, in effect, left the discretion about the conduct of monetary policy to the Federal Reserve.
+Specifically, the Congress added the qualifying phrase "with due regard for combating inflation."
+This is an excellent example of the broader tension in the relationship between the Congress and the Federal Reserve.
+On the one hand, the Congress honors the Fed's independence in establishing policy and, on the other hand, individual members, particularly in difficult economic times, work to influence policy.
+At the most extreme end of efforts to change the structure of the Federal Reserve, bills have been introduced to repeal the Federal Reserve Act (thereby abolishing the Federal Reserve), to abolish the FOMC, to remove Reserve Bank presidents from the FOMC, or even to impeach Chairman Volcker and all the members of the FOMC at that time.
+Congressman Henry Gonzalez, a longstanding member and ultimately chairman of the House Banking Committee, brought a special zeal to these efforts and over the years was the author of several such measures.
+In return for granting the Federal Reserve "independence," it seems to me that the Congress asks three things of us.
+First, we must do a good job promoting the objectives that the Congress has identified.
+Second, we have to accept a certain amount of grumbling about the decisions that impose short-run costs, especially when unemployment is high or policy tightens preemptively to contain what the Fed perceives as inflation risks.
+We are always the one taking away the punch bowl just as the party is getting good, with members of the Congress among those who always question the timing of any restraint.
+To be fair, members of the Congress are among the first to congratulate us when we lower rates!
+And there has, I have to admit, been plenty of praise for the Federal Reserve's contribution to the recent exceptional economic performance.
+Third, the Federal Reserve must be fully prepared to get a substantial part of the blame for bad results (whether or not we caused them).
+The Congress keeps its part of the bargain by leaving the core of our operations alone, so long as things go right, and intervening only around the edges (hearings, speeches, letters, and the introduction of an occasional bill or resolution) to show they remain alert to their oversight responsibilities and reflect the concerns of their constituents.
+The appointment process is an important element of the relationship with the Congress.
+Governors are subject to confirmation by the Senate.
+The confirmation process is a way for the Congress to influence the conduct of Federal Reserve policy, just as the appointment process offers this opportunity to the President.
+When the President and congressional majority are from different parties, party politics can affect the Federal Reserve and may explain, in part, why today the Board has two vacancies plus a governor who is serving after the expiration of his term (since a governor can continue to serve in such a case until reappointed or until a new governor is appointed and confirmed).3 In recent years, delayed action on nominations for governor or renomination as chairman, has served as a vehicle for some Senators to express displeasure with the conduct of monetary policy.4 Another important relationship with the Congress is through hearings.
+The Chairman testifies frequently before the Congress, with the one-year record being twenty-five appearances in 1995, although only seven were directly about monetary policy.
+Other governors testify also, though less frequently, with a range of eight to twenty-two appearances per year in recent years.
+Typically the Chairman alone testifies on monetary policy.
+The most important testimony on monetary policy is delivered at semiannual hearings before the House and the Senate that began, as I mentioned, with the now-expired provisions of the Humphrey-Hawkins act.
+From 1978 until today, these were semiannual appearances, in each case before the Senate and the House.
+But the Chairman is invited for many other hearings, including appearances before the budget committees, the Joint Economic Committee, and the banking committees.
+In addition, on rarer occasions, the Chairman and other Board members will visit with some members of the House and the Senate, either at the Board or on the Hill, mostly at the request of the legislators.
+These meetings are rarely about monetary policy and most focus on regulatory issues, including banking bills and the Community Reinvestment Act, but they are also sometimes about global economic developments, international financial crises, or international financial architecture issues.
+In addition, contact at the staff level between the Board and congressional committees is common.
+The Board's staff is routinely asked for technical assistance in drafting legislation on banking, consumer protection, and amendments to the Community Reinvestment Act and other areas.
+Finally, members of the Congress often write letters to the Board--individually and in groups--typically urging a specific direction for monetary policy.
+Since joining the Board in June 1996, I have seen numerous such letters--all either expressing concern about high interest rates or, in most cases, urging the FOMC either to not raise interest rates or to lower them.
+The largest number of signers during this period was eighty, for a September 23, 1996 letter urging the FOMC not to raise interest rates.
+These letters are perhaps best understood as attempts by the Congress to alert the Fed to the pain of constituents as a byproduct of the conduct of monetary policy--typically when the Fed is preemptively raising interest rates in an effort to prevent higher inflation or trying to unwind an earlier increase in inflation, or not sufficiently stimulating a sluggish economy.
+Once having admonished us in an effort to make sure we understood the consequences of our policies, the Congress has generally relied on us to balance inflation and stabilization objectives, as is the implicit contract under a regime under which the Congress has delegated instrument independence to the Federal Reserve.
+Outstanding Issues Related to Independence and Accountability In my judgment, the Federal Reserve Act--together with the policymaking structure as amended by the Banking Act of 1935, the policy mandate as introduced in 1977 and 1978, and the informal relationships that have evolved--results in an excellent balance of independence and accountability for the Federal Reserve.
+Nevertheless, the resulting balance offers opportunities for political influence so that sustaining Federal Reserve independence in practice depends on building a tradition of independence within the Federal Reserve and on the strength of will and public prestige of Chairmen, in particular, but also of other FOMC members, in resisting efforts at political control.
+Also, controversies linger about whether or not the policy mandate should be refined and whether transparency and disclosure should be further enhanced.
+The legislative mandate under which the Federal Reserve operates is, as I noted earlier, different from the mandate applied to most other central banks.
+It explicitly sets out a dual mandate and, should there be short-run conflicts, does not identify any priority between the two objectives.
+There has long been a small group in the Congress who would like to revise the language related to the policy mandate to elevate the role of price stability to the single or at least principal objective for monetary policy.
+They press this issue not out of dissatisfaction with the conduct of monetary policy but because they believe such a revised policy mandate would strengthen the credibility of the Federal Reserve's commitment to price stability and thereby allow the central bank to carry out this commitment in the most efficient way.
+However, a larger, if less vocal, group in the Congress strongly opposes abandoning a commitment by the Federal Reserve to promote full employment through its conduct of monetary policy.
+A related issue is the precision with which the objectives should be stated.
+The mandate, for example, sets out full employment and price stability as objectives but leaves to the Federal Reserve the precise definition of those goals.
+As recent experience confirms, it would be difficult and unwise to set any numerical target for full employment, given the uncertainty about what that target should be and the likelihood that this target would vary over time with demographic changes in the labor force, government policies, and changes in the efficiency of the matching process between jobs and unemployed workers.
+The Federal Reserve has never set an explicit numerical target for inflation.
+Chairman Greenspan has defined price stability as inflation so low and stable that it no longer affects the decisions of households and businesses.
+However, today, a growing number of governments have set explicit numerical targets for their central banks.
+A second broad issue has to do with transparency and disclosure.
+Over the years, there has been an evolution toward greater disclosure and transparency, but some believe that we ought to be looking for opportunities for further progress.
+The major questions relate to the speed of release of the minutes and of the transcripts.
+Conclusion The key to the effective operation of the central bank within government is a well-designed policy mandate; a high degree of formal instrument independence; complementary informal relationships to ensure appropriate coordination without undermining instrument independence; a disciplined, regular process of legislative oversight; and a high degree of transparency and disclosure.
+The result is a good balance among government-mandated objectives, instrument independence, flexibility, and accountability.
+But this very balance keeps open opportunities for political interference and requires continuing energy and focus--both inside the Federal Reserve and within the rest of government--on sustaining the independence of the Fed.
+As a result, we should not take the independence of the Fed as unassailable but rather as a principle that has to be defended.
+References Bade, R., and M. Parkin.
+"Central Bank Laws and Monetary Policy," Working Paper, Department of Economics at University of Western Ontario, October 1988.
+Barro, Robert J., and David B. Gordon.
+"Rules, Discretion and Reputation in a Modelof Monetary Policy," Journal of Monetary Economics, vol.
+12, no.
+1, July 1983, pp.
+101-21.
+Briault, Clive, Andrew Haldane, and Mervyn King.
+"Independence and Accountability," Working Paper Series, no.
+49, Bank of England, April 1996.
+Brimmer, Andrew F. "Politics and Monetary Policy: Presidential Efforts to Control the Federal Reserve," before 75th Anniversary Luncheon, Board of Governors of the Federal Reserve System, November 21, 1989.
+Cukierman, A.
+Central Bank Strategy, Credibility and Independence: Theory and Evidence.
+Cambridge, Mass.
+: MIT Press, 1992.
+Debelle, G., and S. Fischer.
+"How Independent Should a Central Bank Be?"
+mimeo, MIT, 1994.
+Greider, William.
+Secrets of the Temple: How the Federal Reserve Runs the Country.
+New York: Touchstone, 1989.
+Grier, Kevin.
+"Congressional Influence on U.S. Monetary Policy: An Empirical Test," Journal of Monetary Economics, October 1991, pp.
+201-20.
+Grier, Kevin.
+"Presidential Elections and Federal Reserve Policy: An Empirical Test," Southern Economics Journal, vol.
+54, no.
+2, October 1987, pp.
+475-86.
+Grilli, Vittorio, Donato Masciandro, and Guido Tabellini.
+"Political and Monetary Institutions and Public Financial Policies in the Industrial Countries," Economic Policy: A European Forum, vol.
+6, no.
+2, October 1991, pp.
+341-92.
+Havrilesky, Thomas M. The Pressures on Monetary Policy.
+Boston, Mass.
+: Kluwer Academic Publishers, 1993.
+Kydland, Finn E., and Edward C. Prescott.
+"Rules Rather Than Discretion: The Inconsistency of Optimal Plans," Journal of Political Economy, June 1977, pp.
+473-91.
+Lohman, Susanne.
+"Optimal Commitment in Monetary Policy: Credibility vs.
+Flexibility," American Economic Review, vol.
+82, no.
+1, March 1992, pp.
+273-86.
+Minutes of the Board of Governors of the Federal Reserve System, December 3, 1965.
+Nordhaus, William D. "The Political Business Cycle," Review of Economic Studies, vol.
+42, no.
+2, April 1975, pp.
+169-90.
+Rogoff, Kenneth.
+"The Optimal Degree of Commitment to an Intermediate Monetary Target," Quarterly Journal of Economics, November 1985, pp.
+1169-90.
+Schwartz, Anna J.
+"Central Banking in a Democracy," Western Economic Association, July 1997.
+Tufte, Edward.
+Political Control of the Economy.
+Princeton, N.J.: Princeton University Press, 1978.
+U.S. House of Representatives.
+An Act to Lower Interest Rates and Allocate Credit.
+Hearings on H.R.
+212 before the Subcommittee on Domestic Monetary Policy of the Committee on Banking, Currency and Housing, 94th Cong., first sess., February 4-6, 1975.
+Washington, D.C.: U.S. Government Printing Office, 1975.
+U.S. House of Representatives.
+The Federal Reserve Accountability Act of 1993.
+Hearing before the Committee on Banking, Finance and Urban Affairs, 103rd Cong., first sess., October 13, 19, and 27, 1993, Washington, D.C.: GPO, 1994.
+U.S. Senate.
+Monetary Policy Oversight.
+Hearings on S. Con.
+Res.
+18 before the Committee on Banking, Housing, and Urban Affairs, 94th Cong., first sess., February 25-26, 1975.
+Washington, D.C.: GPO, 1975.
+Walsh, Carl.
+"Optimal Contracts for Central Bankers," American Economic Review, vol.
+85, no.
+1, March 1995, pp.
+150-67.
+Footnotes 1 During the debate on the Banking Act of 1935, Carter Glass expressed the view that having the Secretary of the Treasury on the Federal Reserve Board resulted in enormous influence by the Administration over the decisions of the Board.
+He felt he had been able to get the Board to do whatever he wanted when he was Secretary of the Treasury in 1919.
+Certainly his predecessor as Treasury Secretary, W.G.
+McAdoo, was a dominant presence whenever he attended Board meetings.
+At the time, this arrangement didn't completely snuff out Federal Reserve independence because the Reserve Banks were important in formulating policy (more important than the Board through much of the 1920s).
+When the FOMC was established in 1935, ensuring that a Board with all seats filled would have the majority of the votes on policy decisions, it became imperative to end Administration influence by removing the Secretary of the Treasury and the Comptroller of the Currency from the Board.
+2 It could be argued that policy began to evolve in this direction in 1983 when the FOMC set targets for borrowed reserves.
+The latter target was, in effect, a proxy for the federal funds rate.
+But the proxy was imprecise and it wasn't until the late 1980s that the committee became clearer about its federal funds rate expectation.
+3 When Susan Phillips' term expired on January 31, 1998, it took the Administration a year and a half to nominate Carol Parry for that position.
+Alice Rivlin announced on June 4, 1999, that she would be resigning from the Board, but the President has not nominated anyone to replace her.
+In the meantime, the President renominated Vice Chairman Roger Ferguson to a full term as governor after the expiration of his short partial term on January 31, 2000.
+The Republican leadership of the Senate Banking Committee has refused to hold hearings for either the new nominee, Parry, or Ferguson, reserving the opportunity for the new President to make these appointments and therefore possibly to convert the positions from Democratic to Republican appointments.
+In the meantime, the Board remains below its statutory number of members and could remain so for the many months after the new President takes office, if past experience is any guide to the time it takes to make appointments and get them through the confirmation process.
+4 A practice in the Senate called a "hold" allows a member--through his or her majority or minority leader and without exposing his or her identity--to hold up, virtually indefinitely, a vote on a nomination to the Federal Reserve Board or any other government position that requires confirmation by the Senate.

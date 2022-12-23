@@ -1,0 +1,99 @@
+This is my first speech as a Fed Governor, and I am delighted to deliver it here, joining friends and colleagues from across my career, from academia to policymaking.1 I would like to start with a discussion of the U.S. economy, including the implications of international developments, and then talk about my approach as a policymaker and how I view the current stance of monetary policy.
+The Labor Market I will begin with the labor market, which is very strong.
+Employment rebounded much more swiftly post-pandemic than it did during previous recoveries and has continued to grow at a rapid pace of about 440,000 jobs a month so far this year.
+The unemployment rate, at 3.7 percent, remains very low.
+Other indicators also point to labor market strength: Despite a large drop in the number of job openings in August, which may suggest that labor demand is moderating, there is still an unusually high 1.7 job openings per unemployed job seeker.
+Meanwhile, layoffs are near historical lows, and the quits rate is well above pre-pandemic levels even as it has moderated somewhat, indicating that workers still feel confident they can find another job.
+On the supply side, labor force participation has recovered more slowly than expected and has largely moved sideways this year even after a welcome rise to 62.4 percent in August.
+Early retirements prompted by the pandemic have not yet reversed.
+Some of these are likely due to fear of exposure to COVID-19.
+And COVID continues to weigh on a full recovery in labor supply in other ways as well, as people with long-haul cases and caring responsibilities stay home and others lose hours to short-term illness.
+If the health impact of COVID-19 continues to diminish, I am optimistic that more workers will reenter the labor force, but there is a risk that labor supply remains below its pre-pandemic trend.
+Inflation On the price stability side of the Fed's mandate, inflation remains stubbornly and unacceptably high, and data over the past few months show that inflationary pressures remain broad based.
+My focus, therefore, is on bringing inflation back down to our 2 percent target.
+I am heartened to see measures of medium- to long-term inflation expectations falling in the surveys from the New York Fed and the University of Michigan.
+Although those declines may partly reflect falling gasoline prices, they provide some evidence that inflation expectations are well anchored.
+The data on actual inflation, however, have showed a slower decline than I had anticipated, and I am seeking to better understand the reasons.
+I am focused on the lag between signs of easing price pressures and actual inflation coming down from its very high levels.
+Much of the surge in inflation over the past year was rooted in the incomplete recovery of aggregate supply from pandemic-related shutdowns.
+Global supply chain disruptions had especially wide-reaching effects.
+This year, Russia's invasion of Ukraine sparked a surge in energy prices and affected global food markets both directly, by reducing shipments of commodities such as grain, and indirectly, by, for example, curtailing fertilizer production.
+In recent months, some of the upward pressure from those forces has begun to wane.
+Supply bottlenecks appear to be easing, and global oil and commodity prices have declined.
+This largely reflects worsening global growth prospects, notably in Europe, which is suffering from the reduced flow of Russian natural gas, and in China, with its zero-COVID policy and property-sector difficulties.
+U.S. gasoline prices have fallen more than $1 per gallon since June, reflecting the fall in oil prices and refinery margins and helping to slow the monthly increases in headline consumer prices.
+However, core pricesâ€”those excluding food and energyâ€”have continued to rise rapidly.
+In particular, inflation in core goods prices has been surprisingly strong, in part because the elevated demand for goods we saw during the height of the pandemic has taken longer to abate than previously anticipated.
+Still, there are reasons to expect core goods inflation to slow in coming months.
+Wholesale used vehicle prices have declined considerably, but there is some uncertainty about how long it will take for that decline to show up in consumer prices.
+Similarly, new car prices should moderate over time as production of new vehicles continues to ramp up.
+Overall, a broad range of goods have seen declines in supplier delivery times and freight prices.
+And core import prices have fallen in each of the past four months, driven by lower commodity prices and an appreciating dollar.
+Although supply constraints in goods appear to be easing, we cannot assume that improvement will be steady.
+Globally, at least one potential snag is the possible reduction in Russian oil supply later this year when European sanctions come into full force.
+As we saw with drought in Europe and China and the floods in Pakistan, extreme weather conditions may also disrupt global supplies of food and other commodities.
+Domestically, the recent threat of a rail strike, though averted, highlights the existence of latent risks that could result in further negative supply shocks.
+Consumer prices continue to rise rapidly over a broad range of services as demand for services recovers.
+Continued strong wage increases will likely put further upward pressure on service price inflation.
+Housing services inflation will likely boost overall inflation well into next year.
+Although rent increases on new leases are starting to slow, that moderation also is likely to have a substantial and uncertain lag before it appears in PCE (personal consumption expenditures) and CPI (consumer price index) measures of inflation.
+The widespread nature of the inflation pressures suggests that the overall economy is very tight, with constrained supply continuing to fall short of demand.
+The Fed cannot act directly on supply, but it can moderate demand by tightening monetary policy.
+The rate hikes so far this year, coupled with expectations of further hikes and ongoing balance sheet runoff, have led to a sharp tightening of U.S. financial conditions.
+This has helped soften interest-sensitive components of private demand, including business investment andâ€”most notablyâ€”housing.
+Indications of cooling in the housing market include declines in single-family starts and permits, existing home sales, and homebuyer and homebuilder sentiment.
+While there is heterogeneity across countries, high inflation is a global phenomenon.
+And financial conditions also have tightened abroad, as foreign central banks have raised policy rates.
+Some observers have raised concerns that central banks around the world, which are tightening policy to contain domestic inflation, may not be accounting for the cross-border spillovers of their policies.
+My role is to focus on the Fed's dual mandate to promote maximum employment and stable prices for the American people, which is a domestic mandate.
+My colleagues and I on the Federal Open Market Committee (FOMC), however, are very attuned to foreign developments, including monetary policy abroad, and their effect on domestic conditions through trade and financial market channels.
+Sharp slowdowns in foreign economies, along with dollar appreciation, are reducing demand for U.S. exports, and financial market spillovers between the United States and abroad are a two-way street.
+As with almost everything else in these times, there is substantial uncertainty about the size of these spillovers.
+These international dimensions are among those that I consider in my risk-management approach, which I will describe in a moment.
+I will also address how data drive my understanding of the inflation dynamics I have outlined.
+My Approach to Policymaking The role of policymaker robs economists of one of the profession's great joys, which is to simply ruminate or expound on the vagaries of economics.
+In my new role, I must make judgments on the economy, weighing new information against existing theories, and translate those judgments into appropriate policy action.
+To a large extent, my own research and experiences shape my views on policy.
+My research on economic growth has given me an appreciation for the dual mandate and the importance of economic and financial stability for fostering innovation and growth.
+My experience working at the Council of Economic Advisers during the eurozone crisis and with emerging economiesâ€”particularly Russia and some African economiesâ€”has taught me how difficult it can be to forecast in highly uncertain environments.
+I also saw firsthand that it is often a mistake to rely on standard models for nonstandard situations.
+Paying close attention to the data is key, which, of course, includes readings on inflation and the labor market.
+But we must be humble about our ability to draw firm conclusions and prepare for inevitable surprises.
+We also need to consider timely high-frequency data that more quickly capture evolving economic developments than do traditional data sources.
+Examples include wholesale used car prices, rental rates on new leases, and survey responses on supplier delivery times or prices paid.
+There is also nontraditional, real-time information, such as Google mobility data and Open Table data on dining reservations, which were useful in estimating economic activity during various waves of the pandemic.
+In considering whether standard models remain appropriate, one focus for me is the well-known long and variable lag between monetary policy actions and their effect on the real economy and on inflation.
+Less of a lag may exist now between rate hikes and the tightening of financial conditions, which occurs as markets anticipate future rate hikes.
+Residential investment also responds quickly to changes in monetary policy, while consumer spending is slower to react.
+Lags between monetary policy and inflation are even more unclear.
+Expectations of future monetary policy can have quite rapid effects on commodity and other import prices, but monetary transmission through economic slack appears to affect inflation more slowly.
+I believe that uncertain times require a risk-management approach to policy-settingâ€”looking not just at the expected outcomes, but also considering the most salient risks in setting the policy stance.
+In the current situation, with risks to inflation forecasts skewed to the upside, I believe policy judgments must be based on whether and when we see inflation actually falling in the data, rather than just in forecasts.
+Although most forecasts see considerable progress on inflation in coming years, it is important to consider whether inflation dynamics may have changed in a persistent way, making our forecasts even more uncertain.
+My Perspective on Monetary Policy How do these experiences and the principles of data dependence and risk management influence my views on current monetary policy?
+In 2019, well before joining the Board, I took part in the Federal Reserve's Fed Listens event in Chicago.
+A key takeaway from Fed Listens was the value of a sustained strong labor market that brings people off the sidelinesâ€”those who have been on the margins but who have skills that can be developed and the desire to be part of the workforce, if given a chance.
+Just two weeks ago, we held another Fed Listens event to hear how businesses, families, and communities are adapting to changes in the post-pandemic economy.
+Notably, we heard about the burden that lower- and middle-income families are feeling from high inflation.
+These events highlighted for me the importance of achieving both our employment and price-stability mandates.
+In our current economy, with a very strong labor market and inflation far above our goal, I believe a risk-management approach requires a strong focus on taming inflation.
+Inflation poses both a near- and long-term threat.
+Aside from the immediate effect of higher prices on households and businesses, the longer it persists and the more people come to expect it, the greater the risks of elevated inflation becoming entrenched.
+I think it is critical that we prevent an inflationary psychology from taking hold.
+This is not simply an abstract concept, but a risk I take seriously based on personal experience.
+My time doing dissertation research in Russia in the mid-1990s taught me just how disruptive and painful an extremely high-inflation environment can be.
+Reports over the past few months have shown high inflation to be stubbornly persistent, while the labor market has remained strong.
+Being data dependent, I have revised up my assessment of the persistence of high inflation.
+And given my risk-management approach, with upside risks to inflation being the most salient, I fully supported the step-up in the front-loading of policy over the past three FOMC meetings.
+Front-loading has several positive features.
+It puts monetary restraint into place more quickly to reduce demand while supply is constrained.
+It may also act to rein in inflation expectations and, as a result, to influence wage- and price-setting behavior.
+This preemptive approach is appropriate.
+Although lowering inflation will bring some pain, a failure to restore price stability would make it much harder and much more painful to restore it in the future.
+When I first joined the FOMC, our policy rate was still below 1 percent.
+In the three meetings since, we have moved expeditiously by raising rates 75 basis points at every meeting.
+As we move forward in these uncertain times, policy should remain focused on restoring price stability, which will also set the foundation for a sustainably strong labor market.
+With inflation running well above our 2 percent longer-run goal, restoring price stability likely will require ongoing rate hikes and then keeping policy restrictive for some time until we are confident that inflation is firmly on the path toward our 2 percent goal.
+At some point, as we continue to tighten monetary policy, it will become appropriate to slow the pace of increases while we assess the effects of our cumulative tightening on the economy and inflation.
+In any case, the path of policy should depend on how quickly we make progress toward our inflation goal.
+In sum, inflation is too high, it must come down, and we will keep at it until the job is done.

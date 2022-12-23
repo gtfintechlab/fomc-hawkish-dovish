@@ -1,0 +1,70 @@
+As chief financial officers and business leaders, you work assiduously to incorporate real-time information about your companies--and about the competitive and economic landscape--into your decisionmaking.
+Similarly, financial market participants quickly assimilate publicly available information to help judge the market clearing price for securities that you issue.
+Indeed, this process is what makes the venue for today's discussion--the New York Stock Exchange, home of the world's deepest equities market--so appropriate.
+The NYSE provides a platform for real-time, information-rich assessments of leading global companies, incorporating both an evaluation of the overall economic outlook and firm-specific considerations.
+It is also fitting to be speaking today before members of the Securities Industry and Financial Markets Association, who trade in these markets daily.
+The Federal Reserve, too, relies on multiple sources of data to help achieve our dual mandate: ensuring price stability and achieving maximum employment.
+Some of the data upon which we draw--statistical indicators of activity and prices in the real economy--tend to be backward-looking and subject to considerable revision.
+Other information we use is drawn from financial market prices; although subject to rapid change and "noisy" market signals, this information can be considerably more timely and forward looking.
+In its role as a bank regulator and supervisor, the Federal Reserve also often looks to market prices to help assess the safety and soundness of financial institutions.
+Today, I will discuss the role of financial markets in effective monetary, regulatory, and supervisory policy making by the Federal Reserve.
+In particular, I will discuss the potential for markets to inform the Fed's policy judgments--even as our policies also affect markets.
+I will also describe the important role of markets in disciplining private entities.
+Of course, the views I will express are my own and not necessarily those of my colleagues on the Federal Open Market Committee (FOMC).
+1 My remarks will cover three points.
+First, financial markets can inform and, in some cases, complement the actions of the Federal Reserve by providing timely information about the outlook for economic activity, inflation, and the health of individual financial institutions.
+Second, the Federal Reserve confronts many challenges when trying to extract relevant information from financial market prices--not least because these prices reflect the market's interpretation of our outlook as well as its independent assessments.
+Third, the market's disciplining of private entities is an important complement to the Federal Reserve's supervisory and regulatory functions, and the Fed can enhance market discipline by improving the flow of information from these regulated entities to the markets.
+I will begin with a discussion of how markets, in my judgment, inform the monetary policy process, and then turn to the role of markets in the supervisory and regulatory process.
+Financial Markets and Monetary PolicyMarkets affect monetary policy predominantly through the information provided by asset prices.
+The available menu of prices is extensive, including those of Treasury securities (nominal and real), corporate debt, equities, and derivatives.
+These prices embed investors' expectations of the future paths of economic growth, inflation, and financial conditions.
+At least as important, these prices also can provide some insight into the uncertainty surrounding likely outcomes.
+Monetary policy makers can use economic models and statistical techniques to extract the views of market participants about these key macroeconomic variables.
+Let me cite a few simple examples of how we interpret asset prices.
+Through open market operations, the FOMC sets the target federal funds rate, which is the overnight rate at which depositories lend to each other the balances they hold at the Federal Reserve.
+Interest rates for periods extending beyond that very short horizon, however, are established by market participants rather than the FOMC, although members of the Committee may be able to influence these longer-term rates somewhat through what is affectionately described as "open mouth operations."
+In this way, market-based interest rates reflect primarily the path investors expect for monetary policy.
+That expected path is of keen interest to us as policymakers.
+The market's view of very near term policy is reflected in futures contracts on federal funds.
+Futures on Eurodollars provide information on expectations for the period beyond the next six months or so.
+For longer time horizons, investors' views can be determined from yields on medium- and long-term Treasury securities.
+This determination is based on two estimates incorporated in the yield on a nominal Treasury security, such as the ten-year note.
+The first estimate is essentially a weighted average of the current one-year rate and a sequence of forward rates that contain information about the one-year spot rates expected to prevail over the next nine years.
+The second estimate is the term premium at each horizon, or the compensation investors require for holding securities an additional period.
+As might be expected, imprecision about our estimates of these pieces may well increase with the forecast horizon.
+Treasury inflation-protected securities (TIPS) are financial market assets that provide a judgment on forward-looking views about inflation.
+The gap between nominal Treasury yields and yields on TIPS of comparable maturities is called the breakeven inflation rate.
+The breakeven rate incorporates the market's expectation of inflation and the risk premium for uncertainty about these expectations.
+It also reflects liquidity differences between the two types of securities, which now are smaller than during the period immediately after TIPS were introduced in 1997.
+Today, breakeven rates implied by forward prices on TIPS indicate longer-run consumer price index inflation compensation of about 2-1/2 percent, in the middle of the range of the past several years.
+This is an example of information that may provide monetary policy makers with a reasonable source of market insight and may importantly complement an inflation outlook developed from economic models, survey responses, and other sources.
+Properly measuring inflation expectations is critically important to the Fed in its formulation of policy.
+Markets for corporate equity and debt represent other important sources of information for the Fed.
+In addition to providing expected interest rates and inflation rates, equity prices incorporate investors' views about the growth of corporate earnings.
+Corporate bond prices embed expected default and recovery risks.
+Moreover, derivatives prices can provide other valuable information, and we can learn much by understanding the linkages between primary and derivatives markets.
+Let me underscore the role of market signals by discussing monetary policy in the current economic environment.
+Recent aggregate data indicate that overall economic activity slowed noticeably during the first nine months of the year.
+In spite of a series of shocks, the economy has proven to be remarkably resilient in recent years, and I expect it to remain so in the period ahead.
+A sharp pullback in the housing markets is likely to restrain aggregate activity as we move into next year.
+But as housing markets stabilize, I would expect overall economic performance to strengthen from the levels indicated by preliminary estimates of gross domestic product in the third quarter to a pace more consistent with the economy's long-term trend growth rate.
+Inflation, though down somewhat from its level earlier this year, remains uncomfortably elevated.
+Financial market prices imply that inflation will continue its gradual but persistent downward track during the forecast period.
+There remain, I believe, clear upside risks to that inflation outlook.
+Prices on federal funds futures and Eurodollar futures suggest that market participants expect the FOMC to cut the target federal funds rate about 50 basis points during 2007, a view consistent with expectations of a "soft landing."
+At the same time, market-based options prices on these interest rate futures indicate that implied volatilities are quite low, suggesting a surprising degree of certainty regarding policy expectations.
+Taken at face value, market participants appear to be reasonably certain of a benign outcome for both economic growth and inflation.
+In contrast, my own judgmental forecast includes a wider range of possible outcomes than is implicit in these market-based measures.
+I am a strong advocate of incorporating forward-looking information from asset prices into the Fed's decision process, but we should not take market readings as determinative of policy.
+While we should look to financial markets for information, just as market participants look to the Fed for its policymaking views, distilling conclusions from markets is an imprecise exercise.
+Why can't market prices be more assuredly relied upon?
+Asset prices contain term premiums, credit risk premiums, and liquidity premiums that vary over time and are themselves related to market expectations and uncertainty.
+Consequently, it can be difficult to determine whether movements in asset prices reflect a change in expectations, in uncertainty, or in some combination of premiums.
+As an example, consider the changes in Treasury yields since the FOMC initiated the most recent tightening cycle.
+From mid-2004 to today, the period during which the FOMC raised the target federal funds rate from 1 percent to 5-1/4 percent, the ten-year rate has scarcely changed, on net, and now stands not much above 4-1/2 percent.
+Whether this configuration is a result of changes in expected rates or term premiums is an important issue for policymakers.
+Alternative explanations have markedly different implications for policy.
+If these changes reflect increased strength in underlying demand for longer-term Treasury securities, including from emerging economies, the decline should be reflected in a decline in term premiums.
+In such a case, all else equal, a tighter monetary policy might be preferred.
+On the other hand, if the decline reflects investors' views of a weaker path for the economy--the more typical interpretation of a flat or inverted yield curve--policymakers might prefer a more accommodative monetary policy.

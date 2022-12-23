@@ -1,0 +1,85 @@
+Before the 1980s, research papers, economic commentary, and textbooks here and abroad were full of discussions of the causes and consequences of high inflation and of the political difficulty of bringing it under control.
+It looked then like inflation had become a more or less permanent feature of the economic landscape.
+Concepts associated with deflation such as liquidity traps and the zero bound on nominal interest rates had, for practical purposes, disappeared from economic thought.
+But, beginning around 1980, central banks around the world seem to have ganged up on inflation, fought the fight, and won.
+The International Monetary Fund's consumer price index for industrial countries registered an annual rate of inflation exceeding 12 percent in 1980, but by 2002 the rate had dropped to just 1.4 percent.
+In the United States, consumer price inflation excluding food and energy fell from 12.4 percent in 1980 to 2.4 percent in 2002.
+Japan has actually had negative rates of inflation for the past four years.
+The drop in inflation in many prominent emerging-market countries has been even more breathtaking (Rogoff, 2003).
+Perhaps just as remarkable as the abrupt fall in worldwide inflation is the widespread agreement on the reasons for its fall.
+Virtually all economic analysts would give a primary role to the implementation of plain old economic theory.
+Macroeconomists had long understood that, in the famous words of Milton Friedman, "inflation is everywhere and always a monetary phenomenon."
+But somehow this theoretical agreement never was translated into action.
+Perhaps because of advances in understanding the inflation process, perhaps because of worrisome increases in inflation rates, perhaps because of a discovery that the economic costs of fighting inflation were not as high as previously believed, central bankers in the 1980s suddenly began to use their monetary control to limit the rate of increase in prices.
+It is not stretching things to call this a revolution in central banking.
+Now that something like price stability has arrived, two important policy questions present themselves: Is a mere determination to achieve price stability adequate for central banks to stabilize prices, or should their determination be backed up by more formal institutional structures, such as in inflation-targeting regimes?
+Exactly how stable do we want prices to be--rising at a measured rate of zero or at some other rate?
+Maintaining Price Stability Price stability is widely understood to be a feasible objective and to be sustainable with little long-run cost in terms of output and unemployment.
+Indeed, many believe that greater price stability should also stabilize output, and that the improved allocation of resources coming from price stability should promote productivity and raise living standards in the long run.
+As a part of this consensus, central banks around the developed world are now firmly determined to achieve and maintain price stability.
+But there is a significant debate about whether determination alone is enough.
+Much of the world--countries in the British Commonwealth (the United Kingdom, Australia, Canada, and New Zealand), in Scandinavia (Finland, Norway, and Sweden), in eastern Europe (the Czech Republic, Hungary, and Poland) and many emerging-market countries (Brazil, Chile, Colombia, Mexico, Peru, the Philippines, South Africa, and Thailand)--have buttressed this determination to maintain price stability by adopting formal inflation-targeting regimes.
+The regimes vary, but the key element is an explicit commitment to meet a publicly stated numerical target rate of inflation within a particular time frame.
+The targets and commitments are accompanied by reports giving inflation forecasts and plans for meeting inflation goals.
+All regimes provide some leeway in meeting their goals--inflation rates do not have to be brought down to the target levels immediately, and special factors can be taken into account.
+But the regimes must have a credible plan for meeting inflation targets at least over the medium run.
+And because these plans are public, they can be embarrassing if not fulfilled.
+Recently the European Central Bank (ECB) has adopted a system that has some elements of an inflation-targeting regime, though it lacks many of the accountability features.
+A few industrial countries--the United States, Japan, and Switzerland--have resisted pressures to adopt formal inflation-targeting regimes.
+Debates continue in these countries about the desirability of adopting more formal inflation-targeting procedures.
+The inflation targeters point to the advantages of transparency, commitment, and accountability; non-targeters point to the loss of flexibility and the reduction in the ability to meet alternative goals such as high employment and financial stability.
+Rudebusch and Walsh (1998) give a good summary of this debate.
+To me, the verdict on theoretical grounds alone has always been a close call.
+I can see the advantages of transparency and commitment and of giving financial markets some indication about the central bank's inflation goals.
+I can also see the fear that, in practice, such regimes may in fact constrain actions in ways that could be rigid, inflexible, and perhaps unnecessary in bringing down inflation.
+Rather than rehash these theoretical issues one more time, let me instead invoke some empirical evidence.
+There are two ways to evaluate the effect of formal inflation-targeting regimes.
+One is by time-series analysis; the other by cross-section analysis.
+In the early days of inflation targeting, a number of researchers took the first approach and compared the inflation performance of targeting countries before and after the inflation-targeting regime was introduced.
+In these studies, which measured actual inflation rates and inflation premiums on long-term bonds (to measure expected inflation), one could find evidence that inflation targeting seemed to have worked to bring down inflation and its persistence (see, for example, Kuttner and Posen, 1999; and Freeman and Willis, 1995).
+But these early studies took place at the time of a worldwide drop in inflation rates.
+Just as inflation-targeting countries could show elements of improved inflation performance, nontargeting countries could as well.
+The second approach to studying the effect of targeting, cross-section analysis, compares inflation performance for targeting and nontargeting countries.
+The advent of the ECB created a huge impediment to such studies because it came into being midway through the relevant data period, and it initiated a centralized regime that had aspects of inflation targeting for many of the large countries that had previously not had such a regime.
+It is difficult to know whether the ECB countries should be considered inflation targeters in the last half of the time-series sample, and it is especially difficult to interpret the experience of these countries.
+For what they are worth, the raw cross-sectional data are shown in table 1.
+Over the 1994-2002 period, seven prominent inflation-targeting industrial countries had a mean inflation rate of consumer prices of 2.1 percent per year with a standard deviation of 1.7 percent.
+Both numbers are slightly higher than the mean and standard deviation of the eleven prominent nontargeting industrial countries.
+Eliminating the labeled ECB countries from both groups leads to a targeting mean of 2.0 percent and a targeting standard deviation of 1.7 percent, with both numbers again slightly higher than the mean and standard deviation for the three nontargeters.
+One could consider Japan a special case and eliminate it from the latter group, but the two-country results would still show slightly lower and more stable inflation in the nontargeting countries.
+Ingenious economists could devise much more elaborate tests.
+Ball and Sheridan (2003) have done that, also making an adjustment for initial rates of inflation.
+They again find no significant differences between targeting and nontargeting countries.
+Their conclusion is similar to an earlier cross-section finding of Cecchetti and Ehrmann (1999) that inflation aversion increased in both targeting and nontargeting countries.
+To summarize these international data, one might say that something brought inflation down in the 1980s and 1990s, but success was fairly uniform across both the inflation-targeting and nontargeting countries.
+When one does "before and after" tests for individual inflation-targeting countries spanning this period, inflation targeting often looks successful in bringing about low rates of inflation and in reducing inflation variability and persistence.
+But by the late 1990s, inflation had fallen in all industrial countries, and it is hard to find much difference in inflation performance between inflation-targeting and nontargeting countries--if anything, inflation has been lower and more stable in the latter group.
+One is therefore tempted to conclude that the general understanding of the inflation process and a firm determination to achieve price stability, more than the inflation-targeting regime itself, has been the key element in reducing inflation.
+How Stable Should Prices Be?
+Collectively, the central banks of the world have done well in reducing inflation, generally moving from an inflationary regime to one of reasonably stable prices.
+But now the goal question gets harder--how far should these central banks go?
+All the way to exactly stable prices with a measured inflation rate that averages zero, or somewhat short of that goal?
+I will argue strongly that central banks should stop short of zero--that a low positive rate of inflation is optimal.
+There are two strategic reasons for choosing a low, positive rate, and both have been debated extensively in the economic literature.
+One involves the so-called zero bound on nominal interest rates; the other involves labor markets.
+Regarding the zero bound, as inflation drops toward zero, nominal interest rates drop toward real rates, which themselves might be low if the reason inflation is dropping involves negative demand shocks.
+At these low rates, the central bank is poorly positioned to respond to further negative demand shocks.
+Because of the zero bound, it is impossible for nominal interest rates to decline further, but it is still possible for inflation to decline to below zero--that is, for deflation to set in.
+The combination implies that real interest rates may actually start to rise in the face of negative demand shocks.
+In this range, the central bank loses much of its ability to respond to these negative demand shocks by lowering real rates of interest.
+As many have pointed out, the central bank could still respond to negative demand shocks by expanding money growth in various "nontraditional" ways.
+But these nontraditional approaches are untested.
+Macro-model simulations indicate that if the central bank exercises only traditional policy instruments, the zero-bound problem could significantly increase the severity of recessions.
+The virulence of the Japanese recession also suggests that zero-bound problems could be serious.
+Today the standard thinking is that the central bank can and should avoid dealing with these difficulties by guiding the economy toward a low, positive rate of inflation, not a zero rate.
+The second argument for avoiding mathematical zero involves labor markets.
+A good deal of evidence suggests that, in the economy at large, employers are reluctant to cut workers' nominal wages or, at least, downward wage rigidities exceed upward rigidities.
+The normal market process of reallocation of labor in response to industry or sectoral shifts works by having real wages adjust to keep them in line with workers' marginal products of labor.
+If nominal wages cannot be cut for workers who, for whatever reason, become less productive, labor market flexibility is enhanced by having low positive overall rates of inflation that effectively cut real wages for these workers.
+To these strategic reasons for avoiding mathematical zero can be added a measurement reason.
+One of the great difficulties in compiling price indexes is in adjusting them for changes in the quality of goods and services.
+How does one measure the value of a new good or of a service that benefits from a new technology?
+Casual evidence indicates that failure to make accurate adjustments can create a bias that could be quite large--indeed, King (2002) gives some heuristic illustrations that suggest that the true prices of some consumer durables have not risen at all since as far back as 1915!
+The statistical agencies compiling consumer prices in the United States--the Bureau of Labor Statistics for the consumer price index (CPI) and the Department of Commerce for the personal consumption expenditure deflator (PCE)--try valiantly to deal with these quality-change biases.
+But the weight of professional opinion is that, even after years of trying to make corrections, the indexes are still biased upward.
+Since no ready methods exist for correcting some of these biases, it seems appropriate simply to adjust for them.

@@ -1,0 +1,83 @@
+Unnamed: 0,sentence,label,score
+0,"At the Federal Reserve, we are strongly committed to achieving the monetary policy goals that Congress has given us: maximum employment and price stability.",LABEL_1,0.9789794683456421
+1,Today my colleagues on the FOMC and I kept interest rates near zero and maintained our sizable asset purchases.,LABEL_0,0.994732141494751
+2,"These measures, along with our strong guidance on interest rates and on our balance sheet, will ensure that monetary policy will continue to deliver powerful support to the economy until the recovery is complete.",LABEL_0,0.998421311378479
+3,"Since the beginning of the year, indicators of economic activity and employment have strengthened.",LABEL_1,0.9886772632598877
+4,"As with overall economic activity, conditions in the labor market have continued to improve.",LABEL_2,0.9947286248207092
+5,"Employment rose 916,000 in March, as the leisure and hospitality sector posted a notable gain for the second consecutive month.",LABEL_1,0.9463328719139099
+6,"Nonetheless, employment in this sector is still more than 3 million below its level at the onset of the pandemic.",LABEL_0,0.9983277916908264
+7,"For the economy as a whole, payroll employment is 8.4 million below its pre-pandemic level.",LABEL_0,0.9990455508232117
+8,"The unemployment rate remained elevated at 6 percent in March, and this figure understates the shortfall in employment, particularly as participation in the labor market remains notably below pre-pandemic levels.",LABEL_0,0.9992275238037109
+9,Readings on inflation have increased and are likely to rise somewhat further before moderating.,LABEL_1,0.9988235831260681
+10,"In the near term, 12-month measures of PCE inflation are expected to move above 2 percent as the very low readings from early in the pandemic fall out of the calculation and past increases in oil prices pass through to consumer energy prices.",LABEL_1,0.9972832202911377
+11,"Beyond these effects, we are also likely to see upward pressure on prices from the rebound in spending as the economy continues to reopen, particularly if supply bottlenecks limit how quickly production can respond in the near term.",LABEL_1,0.9995052814483643
+12,"However, these one-time increases in prices are likely to have only transitory effects on inflation.",LABEL_2,0.9992135763168335
+13,"The Fed’s response to this crisis has been guided by our mandate to promote maximum employment and stable prices for the American people, along with our responsibilities to promote the stability of the financial system.",LABEL_1,0.5631232261657715
+14,"As we say in our Statement on Longer-Run Goals and Monetary Policy Strategy, we view maximum employment as a broad-based and inclusive goal.",LABEL_1,0.7012103199958801
+15,Our ability to achieve maximum employment in the years ahead depends importantly on having longer-term inflation expectations well anchored at 2 percent.,LABEL_1,0.9933270215988159
+16,"As the Committee reiterated in today’s policy statement, with inflation running persistently below 2 percent, we will aim to achieve inflation moderately above 2 percent for some time so that inflation averages 2 percent over time and longer-term inflation expectations remain well anchored at 2 percent.",LABEL_0,0.9986968636512756
+17,We expect to maintain an accommodative stance of monetary policy until these employment and inflation outcomes are achieved.,LABEL_0,0.9987303614616394
+18,"With regard to interest rates, we continue to expect it will be appropriate to maintain the current 0 to ¼ percent target range for the federal funds rate until labor market conditions have reached levels consistent with the Committee’s assessment of maximum employment and inflation has risen to 2 percent and is on track to moderately exceed 2 percent for some time.",LABEL_2,0.7780529260635376
+19,I would note that a transitory rise in inflation above 2 percent this year would not meet this standard.,LABEL_2,0.9987699389457703
+20,"In addition, we will continue to increase our holdings of Treasury securities by at least $80 billion per month and of agency mortgage-backed securities by at least $40 billion per month until substantial further progress has been made toward our maximum-employment and price-stability goals.",LABEL_0,0.9945729374885559
+21,Our guidance for interest rates and asset purchases ties the path of the federal funds rate and the size of the balance sheet to our employment and inflation goals.,LABEL_2,0.9997873902320862
+22,This outcome-based guidance will ensure that the stance of monetary policy remains highly accommodative as the recovery progresses.,LABEL_0,0.9966670870780945
+23,Economic activity and hiring have just recently picked up after slowing over the winter.,LABEL_1,0.8084515333175659
+24,"But, you know, we’ve articulated particular guidance for tapering our asset purchases and for lifting off and raising interest rates.",LABEL_1,0.9993906021118164
+25,"For interest rates, as I—as I said a moment ago, we want to see labor market conditions consistent with maximum employment, we want to see inflation at 2 percent, and we want to see it on track to exceed 2 percent.",LABEL_1,0.8809123635292053
+26,"So it seems unlikely, frankly, that we would see inflation moving up in a persistent way that would actually move inflation expectations up while there was still significant slack in the labor market.",LABEL_2,0.9937361478805542
+27,It’s much more likely that we would—having achieved maximum-employment conditions—we’d also be seeing 2 percent inflation and be on track to see inflation moving above 2 percent.,LABEL_0,0.6566929817199707
+28,"So that’s not to say inflation won’t—might not move up, but for inflation to move up in a persistent way that, that really starts to move inflation expectations up, that would have to—that would take some time.",LABEL_2,0.6146364808082581
+29,"If it—if that actually were to happen, though, there is a—there’s a paragraph in the—in the Statement on Longer-Run Goals and Monetary Policy Strategy which says that when the two goals are somewhat in conflict, we weigh various factors, including the, the time it would take to get back and [so] forth.",LABEL_0,0.7899865508079529
+30,"We’re, we’re really focused on the economic outcomes, and, again, my, my guess is that we—it’s very likely, it seems to me, that for us to achieve the economic outcomes, we would need to taper or to raise interest rates.",LABEL_2,0.9998360872268677
+31,"Notwithstanding that, we’re a long way from full employment.",LABEL_1,0.996180534362793
+32,"And so, while I would say we haven’t seen really highly elevated levels of unemployment for—you know, up in the teens that we thought we might have for an extended period of time, we’ve still got a lot of people who are out to—out of work.",LABEL_0,0.9990959167480469
+33,"There’s no question, though, that housing prices are going up, and so we’re watching that carefully.",LABEL_0,0.9468615055084229
+34,"It’s, it’s partly because there’s, there’s clearly strong demand, and there’s just not a lot of supply right now.",LABEL_1,0.999222993850708
+35,"So builders are, you know, struggling to keep up with the demand, clearly.",LABEL_1,0.9810758829116821
+36,"And, you know, my hope would be that, over time, housing builders can react to this demand and, and come up with more supply and workers will come back to work in that industry.",LABEL_1,0.9195913672447205
+37,"So, you know, it is—it’s not an unalloyed good to have prices going up this much, and we’re watching it very carefully.",LABEL_0,0.6407732963562012
+38,We don’t see bad loans and unsustainable prices and that kind of thing.,LABEL_1,0.9992455244064331
+39,"So I think there are a number of—a number of things going on there: the tension between a high level of unemployment and yet many, many companies saying they can’t find—an elevated number of companies saying that they can’t find workers.",LABEL_2,0.9989163875579834
+40,"But I do think that—and I do think also that unemployment insurance benefits will run out in September, so to the extent that’s a factor, which is not clear, it will no longer be a factor fairly soon.",LABEL_0,0.854714572429657
+41,"So my guess is, it will come back to this economy where we have, you know, equilibrium between labor supply and labor demand.",LABEL_2,0.9995455145835876
+42,"So I actually have a couple things I’d like to say about inflation, including addressing your question.",LABEL_2,0.9990630745887756
+43,So let me start with just saying that we’re very strongly committed to achieving our objectives of maximum employment and price stability.,LABEL_2,0.999078631401062
+44,"Our, our price stability goal is 2 percent inflation over the longer run, and we believe that having inflation average 2 percent over time will help anchor long-term inflation expectations at 2 percent.",LABEL_1,0.9966874718666077
+45,"With inflation having run persistently below 2 percent for some time, the Committee seeks inflation moderately above inflation for two times—above 2 percent for some time.",LABEL_1,0.5066016912460327
+46,"In the United States, fiscal and monetary policy continue to provide strong support: Vaccinations are now widespread, and the economy is beginning to move ahead with real momentum.",LABEL_0,0.9958491325378418
+47,"During this time of reopening, we are likely to see some upward pressure on prices, and I’ll discuss why.",LABEL_1,0.8461253046989441
+48,"In an episode of one-time price increases as the economy reopens is not the same thing as, and is not likely to lead to, persistently higher year-over-year inflation into the future—inflation at levels that are not consistent with our goal of 2 percent inflation over time.",LABEL_0,0.9968953132629395
+49,"If, if, contrary to expectations, inflation were to move persistently and materially above 2 percent in a manner that threatened to move longer-term inflation expectations materially above 2 percent, we would use our tools to bring inflation and expectations down to mandate-consistent levels.",LABEL_2,0.8945408463478088
+50,And we know that our job is to achieve 2 percent inflation over time.,LABEL_1,0.9992783665657043
+51,"So let me talk quickly about the two reasons—two, or you could say three, but really two main reasons why we think inflation will move up in the near term.",LABEL_2,0.9124842286109924
+52,Twelve-month measures of inflation are likely to move well above 2 percent over the next few months as the very low inflation readings recorded in March and April of last year drop out of the calculation.,LABEL_1,0.996934175491333
+53,"You saw it in the March CPI reading, and you’ll see it later this week in the PCE price data.",LABEL_1,0.9919209480285645
+54,These base effects will contribute about 1 percentage point to headline inflation and about 0.7 percentage point to core inflation in April and May.,LABEL_2,0.9933711290359497
+55,They carry no implication for the rate of inflation in later periods.,LABEL_2,0.9998095631599426
+56,"We think of bottlenecks as things that, in their nature, will be resolved as workers and businesses adapt, and we think of them as not calling for a change in monetary policy since they’re temporary and expected to resolve themselves.",LABEL_2,0.999832034111023
+57,"It’s much harder to predict with confidence the amount of time it will take to resolve the bottlenecks, or for that matter, the temporary effects that they will have on prices in the meantime.",LABEL_2,0.9992104768753052
+58,"And we are, we are focused—as you’ve seen, for many years, we’ve been focused on inflation deviating below 2 percent, and we used our tools aggressively to keep it back up at 2 percent.",LABEL_2,0.9985887408256531
+59,"If, if we see inflation moving materially above 2 percent in a persistent way that risks inflation expectations drifting up, then we will use our tools to guide inflation and expectations back down to 2 percent.",LABEL_1,0.9088624715805054
+60,"It’s not one really good employment reading, which is what we got in March.",LABEL_1,0.9849966764450073
+61,"We’re 8½ million jobs below where we were in February of 2020, and that doesn’t account for growth in the labor force and growth in the economy, that trend we were on.",LABEL_2,0.9991656541824341
+62,"I mean, there are always—there are always relative prices going up and down within inflation.",LABEL_0,0.9943172335624695
+63,Relative prices are always moving up and down.,LABEL_2,0.9998202919960022
+64,"Inflation expectations before the pandemic hit—and here we think of survey, market based—survey being either households or, or economists and, and market based.",LABEL_2,0.9998093247413635
+65,"You look at all of those, and I would say that they were at the low end of what would have been consistent with a 2 percent inflation target, particularly our 2 percent inflation target, which calls for 2 percent average inflation.",LABEL_2,0.999824583530426
+66,"Inflation expectations actually went down a bit at the beginning of the pandemic, and now they’ve just moved back up to levels broadly—that, that are where they were in 2018, or in some cases 2014, and, I would say, more consistent with our mandate.",LABEL_2,0.980972170829773
+67,We want inflation to run a little bit higher than it has been running for the last quarter of a century.,LABEL_2,0.9353402853012085
+68,"And for that, we need to see inflation expectations that are consistent with that, really well anchored at 2 percent.",LABEL_0,0.8133861422538757
+69,"We monitor inflation expectations very, very carefully, as you would obviously know.",LABEL_0,0.8009169101715088
+70,"You know, we’re, we’re—inflation measures are always going to be a bit volatile.",LABEL_2,0.9969209432601929
+71,"We had it—we were in a deep, deep hole a year ago, and now, with a lot of help from fiscal policy, some additional help from monetary policy, and, you know, a great deal of help from vaccination, we’re seeing a strong rebound in activity.",LABEL_2,0.999806821346283
+72,"And what’s happening is, it’s, it’s—demand can be spurred with fiscal transfers and—the saved-up fiscal transfers and, and people going back to work and things like that.",LABEL_0,0.9766130447387695
+73,"I know many people just look at asset prices, and they look at some of the things that are going on in the—in the equity markets, which, which I think do reflect froth in the equity markets.",LABEL_0,0.9942111372947693
+74,"So one of the areas is asset prices, and I would say some of the asset prices are high.",LABEL_2,0.8996367454528809
+75,"I won’t say it has nothing to do with monetary policy, but it also—it has a tremendous amount to do with vaccination and reopening of the economy.",LABEL_1,0.994394063949585
+76,Asset prices was one.,LABEL_2,0.9942325949668884
+77,"There were real concerns, of course, with high levels of unemployment and loss of wages and all of that, that the—that the household sector would, would, would weaken dramatically.",LABEL_2,0.9998258948326111
+78,"And it’s—by the way, I think it’s appropriate and important for financial conditions to remain accommodative to support economic activity.",LABEL_0,0.9981253743171692
+79,"As, as you know, at the very beginning of the financial—of the—of this recent crisis, there was such a demand for selling Treasuries, including by foreign central banks, that, really, the dealers couldn’t handle the volume.",LABEL_0,0.9949840307235718
+80,"We, we have tried to create accommodative financial conditions to support economic activity, and we did that.",LABEL_0,0.9172455668449402
+81,"That will be the test for, for tapering asset purchases and for raising interest rates.",LABEL_0,0.9839034080505371

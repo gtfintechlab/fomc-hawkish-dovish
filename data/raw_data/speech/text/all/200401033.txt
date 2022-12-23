@@ -1,0 +1,117 @@
+The very low levels of interest rates in Japan, Switzerland, and the United States in recent years have stimulated much interesting research on this question, and some has been applied in the field.
+Moreover, their minds concentrated by the possibility of having the policy rate pinned at zero, central bankers have responded flexibly, making changes in their operating procedures and communications strategies.
+Our purpose in this paper is to give a brief progress report and overview of current thinking on the conduct of monetary policy when short-term interest rates are very low or even zero.1 Monetary policy works for the most part through financial markets.
+Central bank actions are designed in the first instance to influence asset prices and yields, which in turn affect economic decisions and thus the evolution of the economy.
+When the short-term policy rate is at or near zero, the conventional means of effecting monetary ease--lowering the target for the policy rate--is no longer feasible, but monetary policy is not impotent.
+In this paper we will discuss three alternative (but potentially complementary) monetary strategies for stimulating the economy that do not involve changing the current value of the policy rate.
+Specifically, these alternatives involve (1) providing assurance to financial investors that short rates will be lower in the future than they currently expect, (2) changing the relative supplies of securities (such as Treasury notes and bonds) in the marketplace by shifting the composition of the central bank's balance sheet, and (3) increasing the size of the central bank's balance sheet beyond the level needed to set the short-term policy rate at zero ("quantitative easing").
+In the final section, we briefly discuss the macroeconomic costs and benefits of very low interest rates, an issue that bears on the question of whether the central bank should take the policy rate all the way to zero before undertaking some of the alternatives we describe.
+I.
+Shaping Interest-Rate Expectations The pricing of long-lived assets, such as long-term bonds and equities, depends on the entire expected future path of short-term interest rates as well as on the current short-term rate.
+Prices and yields of long-lived assets are important determinants of economic behavior because they affect incentives to spend, save, and invest.
+Thus, a central bank may hope to affect financial markets and economic activity by influencing financial market participants' expectations of future short-term rates.
+Important recent research has examined this potential channel of influence in fully articulated models based on optimizing behavior; see Michael Woodford (2003, chapter 6), Lars Svensson (2001), and Gauti Eggertson and Woodford (2003).
+This literature suggests that, even with the overnight nominal interest rate at zero, a central bank can impart additional stimulus by offering some form of commitment to the public to keep the short rate low for a longer period than previously expected.
+This commitment, if credible, should lower yields throughout the term structure and support other asset prices.
+In principle, the central bank's policy commitment could take either of two forms: unconditional and conditional.
+An unconditional commitment is a pledge by the central bank to hold short-term rates at a low level for a fixed period of calendar time.
+In this case, additional easing would take the form of lengthening the period of policy commitment.
+However, given the many shocks that the economy is heir to, as well as other imponderables that affect the outlook, a policymaking committee might understandably be reluctant to tie its hands by making an unconditional promise, no matter how nuanced, about policy actions far into the future.
+An alternative strategy is to make a conditional policy commitment, one that links the duration of promised policies not to the calendar but to the evolution of economic conditions.
+For example, policy ease could be promised until the committee observes sustained economic growth, substantial progress in trimming economic slack, or a period of inflation above a specified floor.
+In practice, central banks appear to appreciate the importance of influencing market expectations about future policy.
+For example, in May 2001, with its policy rate virtually at zero, the Bank of Japan promised that it would keep its policy rate at zero for as long as the economy experienced deflation--a conditional policy commitment.
+More recently, the Bank of Japan has been more explicit about the conditions under which it would begin to raise rates; for example, it has been specified that a change from deflation to inflation that is perceived to be temporary will not provoke a tightening.2 In the United States, the August 2003 statement of the Federal Open Market Committee that "policy accommodation can be maintained for a considerable period" is another example of commitment.
+The close association of this statement with the Committee's expressed concerns about "unwelcome disinflation" implied that this commitment was conditioned on the assessment of the economy.
+The conditional nature of the commitment was sharpened in the Committee's December statement, which explicitly linked continuing policy accommodation to the low level of inflation and the slack in resource use.3 More generally, in recent years central banks have devoted enormous effort to improving their communications and transparency; a major benefit of such efforts should be a greater ability to align market expectations of policy with the policymaking committee's own intentions.
+Of course, policy commitments can influence future expectations only to the extent that they are credible.
+Various devices might be employed to enhance credibility; for example, the central bank can make securities purchases or issue financial options that make it quite costly, in financial terms, to renege on its commitments (Clouse et al., 2003).
+An objection to this strategy is that it is not entirely clear why a central bank, which has the power to print money, should be overly concerned about its financial gains and losses.
+Eggertsson and Woodford (2003) point out that a government can more credibly promise to carry out policies that raise prices when (1) the government debt is large and not indexed to inflation and (2) the central bank values the reduction in fiscal burden that reflationary policies will bring (for example, because it may reduce the future level of distortionary taxation).
+Ultimately, however, the central bank's best strategy for building credibility is to ensure that its deeds match its words, thereby building trust in its pronouncements.
+The requirement that deeds match words has the consequence that the shaping of market expectations is not an independent instrument of policy in the long run.
+II.
+Altering the Composition of the Central Bank's Balance Sheet Central banks typically hold a variety of assets, and the composition of assets on the central bank's balance sheet offers another potential lever for monetary policy.
+For example, the Federal Reserve participates in all segments of the Treasury market, with most of its current asset holdings of about $670 billion distributed among Treasury securities with maturities ranging from four weeks to thirty years.
+Over the past fifty years, the average maturity of the Federal Reserve System's holdings of Treasury debt has varied considerably within a range from one to four years.
+As an important participant in the Treasury market, the Federal Reserve might be able to influence term premiums, and thus overall yields, by shifting the composition of its holdings, say from shorter- to longer-dated securities.
+In simple terms, if the liquidity or risk characteristics of securities differ, so that investors do not treat all securities as perfect substitutes, then changes in relative demands by a large purchaser have the potential to alter relative security prices.
+(The same logic might lead the central bank to consider purchasing assets other than Treasury securities, such as corporate bonds or stocks or foreign government bonds.
+The Federal Reserve is currently authorized to purchase some foreign government bonds but not most private-sector assets, such as corporate bonds or stocks.)
+Perhaps the most extreme example of a policy keyed to the composition of the central bank's balance sheet is an announced ceiling on some longer-term yield below the prevailing rate.
+This policy entails (in principle) an unlimited commitment to purchase the targeted security at the announced price.
+(To keep the overall size of its balance sheet unchanged, the central bank would have to sell other securities in an amount equal to the purchases of the targeted security.)
+Obviously, such a policy would signal strong dissatisfaction on the part of the policymaking committee with current market expectations of future policy rates.
+Whether policies based on manipulating the composition of the central bank balance sheet can be effective is a contentious issue.
+The limited empirical evidence generally suggests that the degree of imperfect substitutability within broad asset classes, such as Treasury securities, is not great, so that changes in relative supplies within the range of U.S. experience are unlikely to have a major impact on risk premiums or term premiums (Reinhart and Sack, 2001).
+If this view is correct, then attempts to enforce a floor on the prices of long-dated Treasury securities (for example) could be effective only if the target prices were broadly consistent with investor expectations of future values of the policy rate.
+If investors doubted that rates would be kept low, the central bank would end up owning all or most of those securities.
+Moreover, even if large purchases of, say, a long-dated Treasury security were able to affect the yield on that security, the policy may not have significant economic effects if the targeted security became "disconnected" from the rest of the term structure and from private rates, such as mortgage rates.
+Yet another complication affecting this type of policy is that the central bank's actions would have to be coordinated with the central government's finance department to ensure that changes in debt-management policies do not offset the attempts of the central bank to affect the relative supplies of securities.
+According to James Tobin, the Federal Reserve's failure to coordinate adequately with the Treasury was the undoing of "Operation Twist" in 1963 (Tobin, 1973, pp.
+32-33).
+Despite these objections, we should not fail to note that policies based on changing the composition of the central bank's balance sheet have been tried in the United States.
+From 1942 to 1951, the Federal Reserve enforced rate ceilings at two and sometimes three points on the Treasury yield curve.
+This objective was accomplished with only moderate increases in the Federal Reserve's overall holdings of Treasury securities, relative to net debt outstanding; moreover, there is little evidence that the targeted yields became "disconnected" from other public or private yields.
+The episode is an intriguing one, but unfortunately the implications for current policy are not entirely straightforward.
+We know that, by 1946, the Federal Reserve System owned almost nine-tenths of the (relatively small) stock of Treasury bills, suggesting that at the short end, the ceiling on the bill rate was a binding constraint.
+In contrast, the Federal Reserve's relative holdings of longer-dated Treasury notes and bonds fell over the period, although the rate ceilings at these longer maturities were not breached until inflation pressures led to the Fed-Treasury Accord and the abandonment of the pegging policy in 1951.
+The conventional interpretation is that long-run policy expectations must have been consistent with the ceilings at the more distant points on the yield curve.
+Less clear is the extent to which the pegging policy itself influenced those policy expectations.
+Probably the safest conclusion about policies based on changing the composition of the central bank's balance sheet is that they should be used only to supplement other policies, such as an attempt (for example, through a policy commitment) to influence expectations of future short rates.
+This combined approach allows the central bank to enjoy whatever benefits arise from changing the relative supplies of outstanding securities without risking the problems that may arise if the yields desired by the central bank are inconsistent with market expectations.
+III.
+Expanding the Size of the Central Bank's Balance Sheet Besides changing the composition of its balance sheet, the central bank can also alter policy by changing the size of its balance sheet; that is, by buying or selling securities to affect the overall supply of reserves and the money stock.
+Of course, this strategy represents the conventional means of conducting monetary policy, as described in many textbooks.
+These days, most central banks choose to calibrate the degree of policy ease or tightness by targeting the price of reserves--in the case of the Federal Reserve, the overnight federal funds rate.
+However, nothing prevents a central bank from switching its focus from the price of reserves to the quantity or growth of reserves.
+When stated in terms of quantities, it becomes apparent that even if the price of reserves (the federal funds rate) becomes pinned at zero, the central bank can still expand the quantity of reserves.
+That is, reserves can be increased beyond the level required to hold the overnight rate at zero--a policy sometimes referred to as "quantitative easing."
+Some evidence exists that quantitative easing can stimulate the economy even when interest rates are near zero; see, for example, Christina Romer's (1992) discussion of the effects of increases in the money supply during the Great Depression in the United States.
+Quantitative easing may affect the economy through several possible channels.
+One potential channel is based on the premise that money is an imperfect substitute for other financial assets (in contrast to the view discussed in the previous section that emphasizes the imperfect substitutability of various nonmoney assets).
+If this premise holds, then large increases in the money supply will lead investors to seek to rebalance their portfolios, raising prices and reducing yields on alternative, non-money assets.
+Lower yields on long-term assets will in turn stimulate economic activity.
+The possibility that monetary policy works through portfolio substitution effects, even in normal times, has a long intellectual history, having been espoused by both Keynesians (Tobin, 1969) and monetarists (Brunner and Meltzer, 1973).
+Recently, Javier Andres, J. David Lopez-Salido, and Edward Nelson (2003) have shown how these effects might work in a general equilibrium model with optimizing agents.
+The practical importance of these effects remains an open question, however.
+Quantitative easing may also work by altering expectations of the future path of policy rates.
+For example, suppose that the central bank commits itself to keeping reserves at a high level, well above that needed to ensure a zero short-term interest rate, until certain economic conditions obtain.
+Theoretically, this action is equivalent to a commitment to keep interest rates at zero until the economic conditions are met, a type of policy we have already discussed.
+However, the act of setting and meeting a high reserves target is more visible, and hence may be more credible, than a purely verbal promise about future short-term interest rates.
+Moreover, this means of committing to a zero interest rate will also achieve any benefits of quantitative easing that may be felt through non-expectational channels.
+Lastly, quantitative easing that is sufficiently aggressive and that is perceived to be long-lived may have expansionary fiscal effects.
+So long as market participants expect a positive short-term interest rate at some date in the future, the existence of government debt implies a current or future tax liability for the public.
+In expanding its balance sheet by open-market purchases, the central bank replaces public holdings of interest-bearing government debt with non-interest-bearing currency or reserves.
+If the open-market operation is not expected to be reversed too quickly, this exchange reduces the present and future interest costs of the government and the tax burden on the public.
+(Effectively, this process replaces a direct tax, say on labor, with the inflation tax.)
+Auerbach and Obstfeld (2003) have analyzed the fiscal and expectational effects of a permanent increase in the money supply along these lines.
+Note that the expectational and fiscal channels of quantitative easing, though not the portfolio substitution channel, require the central bank to make a credible commitment to not reverse its open-market operations, at least until certain conditions are met.
+Thus, this approach also poses communication challenges for monetary policy makers.
+Japan once again provides the most recent case study.
+In the past two years, current account balances held by commercial banks at the Bank of Japan have increased about five-fold, and the monetary base has risen to almost 30 percent of nominal GDP.
+While deflation appears to have eased in Japan recently, it is difficult to know how much of the improvement is due to monetary policy, and, of the part due to monetary policy, how much is due to the zero-interest-rate policy and how much to quantitative easing.
+The experience of the United States with quantitative policies is limited to the period 1979 to 1982, when the Federal Reserve targeted nonborrowed reserves.
+Of course, nominal interest rates were not close to zero at that time.
+The U.S. experience does suggest, however, that the demand for reserves may be sufficiently erratic that the effects of quantitative policies may be intrinsically hard to calibrate.
+IV.
+Sequencing and the "Costs" of Low Interest Rates The forms of monetary stimulus described above can be used once the overnight rate has already been driven to zero or as a way of driving the overnight rate to zero.
+However, a central bank might choose to rely on these alternative policies while maintaining the overnight rate somewhat above zero.
+For example, monetary policy makers might attempt to influence market expectations of future short rates as an alternative to changing the current setting of the overnight rate.
+Another possibility is to try to affect term premiums, expectations of future rates, or both, by changing the composition of securities held by the central bank.
+(Unlimited expansion of the total volume of securities held by the central bank is not compatible, of course, with a positive overnight rate.)
+The appropriate sequencing of policy actions depends on the perceived costs associated with very low or zero overnight interest rates, as well as on operational considerations and estimates of the likely effects of alternative combinations of policies on the economy.
+What costs are imposed on society by very low short-term interest rates?
+Observers have pointed out that rates on financial instruments typically priced below the overnight rate, such as liquid deposits, shares in money market mutual funds, and collateralized borrowings in the "repo" market, would be squeezed toward zero as the policy rate fell, prompting investors to seek alternatives.
+Short-term dislocations might result, for example, if funds flowed in large amounts from money market mutual funds into bank deposits.
+In that case, some commercial paper issuers who have traditionally relied on money market mutual funds for financing would have to seek out new sources, while banks would need to find productive uses for the deposit inflows and perhaps face changes in regulatory capital requirements.
+In addition, liquidity in some markets might be affected; for example, the incentive for reserve managers to trade federal funds diminishes as the overnight rate falls, probably thinning brokering in that market.
+In thinking about the costs associated with a low overnight rate, one should bear in mind the message of Milton Friedman's classic essay on the optimal quantity of money (Friedman, 1969).
+Friedman argued that an overnight interest rate of zero is optimal, because a zero opportunity cost of liquidity eliminates the socially wasteful use of resources to economize on money balances.
+From this perspective, the costs of low short-term interest rates can be seen largely as adjustment costs, arising from the unwinding of schemes designed to make holding transactions balances less burdensome.
+These costs are real but are also largely transitory and have limited sectoral impact.
+Moreover, to the extent that the affected institutions have economic functions other than helping clients economize on money balances (for example, if some money market mutual funds have a comparative advantage in lending to commercial paper issuers), there is scope for repricing that will allow these services to continue to be offered.
+Thus there seems to be little reason for central banks to avoid bringing the policy rate close to zero if the economic situation warranted.
+A quite different argument for engaging in alternative monetary policies before lowering the overnight rate all the way to zero is that the public might interpret a zero instrument rate as evidence that the central bank has "run out of ammunition."
+That is, low rates risk fostering the misimpression that monetary policy is ineffective.
+As we have stressed, that would indeed be a misimpression, as the central bank has means of providing monetary stimulus other than the conventional measure of lowering the overnight nominal interest rate.

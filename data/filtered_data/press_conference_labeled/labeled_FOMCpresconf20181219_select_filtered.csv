@@ -1,0 +1,69 @@
+Unnamed: 0,sentence,label,score
+0,"Over the past year the economy has been growing at a strong pace, the unemployment rate has been near record lows, and inflation has been low and stable.",LABEL_1,0.9568445086479187
+1,The economy has been adding jobs at a pace that will continue bringing the unemployment rate down over time.,LABEL_1,0.9944995641708374
+2,Inflation has remained low and stable and is ending the year a bit more subdued than most had expected.,LABEL_0,0.5995651483535767
+3,"Despite this robust economic backdrop and our expectation for healthy growth, we have seen developments that may signal some softening relative to what we were expecting a few months ago.",LABEL_0,0.9872696399688721
+4,"Growth in other economies around the world has moderated somewhat over the course of 2018, albeit to still-solid levels.",LABEL_2,0.9584950804710388
+5,"At the same time, financial market volatility has increased over the past couple of months, and overall financial conditions have tightened—that is, they have become less supportive of growth.",LABEL_1,0.9584236741065979
+6,"Most FOMC participants have, instead, modestly lowered their growth and inflation forecasts for next December 19, 2018 year.",LABEL_0,0.9984250068664551
+7,"The projections of Committee participants released today show growth continuing at Chairman Powell’s Press Conference FINAL healthy levels, the unemployment rate falling a bit further next year, and inflation remaining near 2 percent.",LABEL_1,0.8184899091720581
+8,Three years ago the Committee came to the view that the best way to achieve our mandate was to gradually move interest rates back to levels that are more normal in a healthy economy.,LABEL_1,0.9991771578788757
+9,Today we raised our target range for the short-term interest rates by another ¼ percentage point.,LABEL_1,0.998794436454773
+10,We have brought that down a bit and now think it is more likely that the economy will grow in a way that will call for two interest rate increases over the course of next year.,LABEL_1,0.9975928664207458
+11,"Last December, the unemployment rate was 4.1 percent, and inflation had been running just below 2 percent.",LABEL_2,0.998914361000061
+12,FOMC participants and many other forecasters were predicting that growth in 2018 would be strong.,LABEL_1,0.980970561504364
+13,"This growth was predicted to push the December 19, 2018 unemployment rate down to near historic lows, and the increasingly tight labor market was Chairman Powell’s Press Conference FINAL expected to help push inflation up to 2 percent.",LABEL_1,0.9974103569984436
+14,"Given this outlook, Committee members judged that the appropriate way to sustain the expansion with inflation near 2 percent was to continue gradually withdrawing the extraordinary support for the economy that had been in place for almost 10 years.",LABEL_1,0.8858163952827454
+15,"Thus, in December 2017, the median of the projections of FOMC participants pointed to three ¼ point interest rate increases in 2018, which would have left the target range for the federal funds rate at year-end at 2 to 2¼ percent, still below most estimates of the longer-run normal rate.",LABEL_1,0.7152099609375
+16,"In early 2018, we saw a rising trajectory for growth; today, instead, we see growth moderating ahead.",LABEL_2,0.8086230754852295
+17,"FOMC participants, along with many other forecasters, had long predicted some moderation of growth in 2019.",LABEL_0,0.6794009804725647
+18,The additional tightening of financial conditions we have seen over the past couple of months along with signs of somewhat weaker growth abroad have also led us to mark down growth and inflation projections a bit.,LABEL_0,0.9246280193328857
+19,The median of FOMC participants’ projections shows growth of 3 percent this year and 2.3 percent in 2019.,LABEL_1,0.5353613495826721
+20,"With growth remaining next year above its longer-run normal value, the unemployment rate is projected to fall a bit further, to 3.5 percent by the end of 2019.",LABEL_2,0.7450404167175293
+21,Inflation in the median projection remains near 2 percent.,LABEL_1,0.9707052707672119
+22,"And, given our four rate increases and the ongoing reduction in our portfolio, monetary policy will be providing a smaller boost to the economy in 2019.",LABEL_2,0.9750145673751831
+23,"Moving forward, my colleagues and I will be watching the economy closely for indications that the stance of policy is appropriate to sustain the expansion with a strong labor market and inflation near 2 percent.",LABEL_0,0.9488924741744995
+24,"We will adjust monetary policy as best we can to keep the expansion on track, the labor market strong, and inflation near 2 percent.",LABEL_2,0.5664786696434021
+25,"Inflation has come in just a touch below where we expected it to be—not by a big amount, but by a small amount.",LABEL_1,0.97879558801651
+26,"And during that period we’ve had low unemployment and strong growth, and inflation has still remained just a December 19, 2018 touch below 2 percent.",LABEL_2,0.9958781003952026
+27,"So we thought carefully about this, on how to normalize policy, and came to the view that we would effectively have the balance sheet runoff on automatic pilot and use monetary policy, rate policy, to adjust to incoming data.",LABEL_0,0.9529259204864502
+28,"And I do think that we will continue to use monetary policy, which is to say rate policy, as the active tool of monetary policy.",LABEL_2,0.9637138843536377
+29,"We still are forecasting, individually, growth a bit above its longer-run potential—2.3 percent is what we’re forecasting.",LABEL_2,0.9998065829277039
+30,We’re forecasting that growth will be strong enough that unemployment will drop still further and inflation will remain right near our target.,LABEL_0,0.3677823543548584
+31,"That’s why the forecast for growth and inflation went down a little December 19, 2018 bit.",LABEL_2,0.6182502508163452
+32,"I think, more broadly, there’s been a sense of concern among business people and market people about global growth, and, you know, that may be partly about trade tensions, it may be partly about a variety of things.",LABEL_0,0.9931619167327881
+33,"On your third factor, you know, political considerations have played no role whatsoever in our discussions or decisions about monetary policy.",LABEL_0,0.8616321682929993
+34,"Well, we—as a Committee, we do not desire inflation undershoots.",LABEL_2,0.9998194575309753
+35,"And you’re right, inflation has continued to surprise to the downside—not by a lot, though.",LABEL_0,0.9917014241218567
+36,"Inflation is symmetric around 2 percent, and that’s how we’re going to look at it.",LABEL_0,0.9832522869110107
+37,"The only way to achieve inflation symmetrically around 2 percent is to have inflation symmetrically around 2 percent, and we’ve been close to that but we haven’t gotten there yet, and we have not declared victory on that.",LABEL_2,0.9996305704116821
+38,You’ve had growth well above trend.,LABEL_0,0.9764219522476196
+39,You’ve got unemployment dropping.,LABEL_1,0.7614477276802063
+40,You’ve got inflation moving up to 2 percent.,LABEL_0,0.9898292422294617
+41,"So this review, what it really is—it’s coming at a time when the economy is strong, and it’s a good time to take a step back, we think, and ask whether our strategy and our tools and our communications around monetary policy are doing the job that Congress has assigned us to do on behalf of the American people.",LABEL_1,0.9887203574180603
+42,"We may be in a world where interest rates are just lower for the time being, and, therefore, we’ll have less policy space to react to economic downturns.",LABEL_2,0.9997492432594299
+43,"We’re not looking at law changes at all, and we’re not looking at changing the inflation target, for example.",LABEL_0,0.999112069606781
+44,"We are looking for better ways to achieve the inflation goal—for example, on a symmetric basis.",LABEL_2,0.9997662901878357
+45,"And if you just run the quantitative easing models in reverse, you would get a pretty small adjustment in economic growth and real outcomes.",LABEL_2,0.9996248483657837
+46,"That forecast involves growth, you know, between 2 and 2½ percent.",LABEL_2,0.9959958791732788
+47,It involves growth at a strong enough level to continue driving unemployment down and inflation near 2 percent.,LABEL_2,0.9996330738067627
+48,"As I mentioned, once you—once you’re, broadly speaking, in the range of neutral, I think it’s appropriate to be putting aside individual estimates of that and be looking at what the incoming data are telling you about the outlook, updating your estimates of what neutral might be, of what the natural rate of unemployment might be, of the state of the economy, so—and letting that lead you to adjust your outlook and, therefore, your appropriate path for policy.",LABEL_1,0.7332038879394531
+49,"So—and, you know, what—what you’re picking up now, I think, is, there’s, you know, a mood of concern, or it’s a mood of angst about growth going forward, if I could just capture it in one thought.",LABEL_2,0.9996761083602905
+50,"It has—what’s happened over, really, 50 years is that inflation has become much less reactive to changes in growth.",LABEL_2,0.8886141180992126
+51,"There was a time when inflation reacted really quickly to changes in growth and changes in unemployment, and that time is behind us.",LABEL_2,0.997403085231781
+52,"And that is often attributed to the success of central banks in anchoring inflation expectations so that people believe that inflation will come back to the target or around the target so it doesn’t go down as much—inflation doesn’t go down as much in a downturn and doesn’t go up as much when the—you know, when the economy is strong.",LABEL_2,0.9849350452423096
+53,"It’s really true, though, that inflation has not reacted a lot on a road from 10 percent unemployment to now 3.7 percent unemployment.",LABEL_2,0.5984958410263062
+54,"But in terms of just targeting growth, you know, I think—I actually think our dual mandate works very well, which is maximum employment and stable prices.",LABEL_2,0.6027438640594482
+55,"Now they are all at 3, and they’ve just continued to gradually move up—not perfectly in sync, but—and that’s a number that is, you know, right in keeping with 2 percent inflation and 1 percent productivity growth.",LABEL_2,0.9995680451393127
+56,Wage—wage increases do not need to be inflationary.,LABEL_2,0.9749448895454407
+57,"There’s plenty of evidence of situations—for example, in the very tight labor market of the late 1990s of a—I think I mentioned in a speech a month or so ago, we had wage increases above productivity plus inflation, and we didn’t have high inflation.",LABEL_2,0.9998012185096741
+58,"So I would expect that wages will keep moving up, and it doesn’t necessarily mean inflation.",LABEL_0,0.9070602059364319
+59,"You know, I think if rates were to stay low for a longer period of time, that could be thought of as a signal of expectations of lower growth.",LABEL_2,0.974245548248291
+60,"As I December 19, 2018 mentioned, our forecast for next year is—I think, in keeping with most other forecasts—is that Chairman Powell’s Press Conference FINAL we’ll still have solid growth next year, declining unemployment, and a healthy economy.",LABEL_0,0.9985827207565308
+61,"You know, monetary policy is a forward-looking exercise, and I’m going to—I’m just going to stick with that.",LABEL_1,0.8486388325691223
+62,"More broadly, I’m referring to global growth.",LABEL_2,0.9997168183326721
+63,"So, if you go back a year, 2017 was a year of kind of ongoing upside surprises in global growth.",LABEL_2,0.8506461381912231
+64,It was the year of synchronized global growth.,LABEL_2,0.7006123065948486
+65,"And people raised their forecasts for growth around the world kind of throughout 2017 and, in some sense, expected that to continue into 2018.",LABEL_2,0.9862842559814453
+66,"So you have still healthy levels of growth in the aggregate around the world but close to the potential growth rate of, you know, the December 19, 2018 global economy.",LABEL_1,0.9624786972999573
+67,But you no longer have the really strong levels of growth you had in 2017.,LABEL_1,0.922356367111206

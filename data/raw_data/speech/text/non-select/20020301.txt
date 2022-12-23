@@ -1,0 +1,64 @@
+The National Community Reinvestment Coalition (NCRC) has been one of the strongest supporters of the Community Reinvestment Act (CRA).
+As you know, the four banking agencies are working through various issues in this year's review of the CRA regulations.
+We certainly welcome your comments on the rulemaking.
+NCRC is also a supporter of efforts to improve financial literacy, something that is very relevant to my discussion today, as you will see.
+In recent years, March has become associated with March madness--college basketball.
+As every participant in the NCAA office pool knows, a good team must have an offense and a defense.
+In the world of housing finance, CRA, your consistent concern, might be thought of as the offense--encouraging financial institutions to do more lending to low- and moderate-income borrowers.
+But we have to worry about defense, too--once the loans are made and people settle in their homes, we don't want these houses lost to foreclosure or other forms of forced sale.
+For the past decade, the offense has performed very well, spurred by the development of the subprime loan market, along with CRA and the efforts of the Neighborhood Reinvestment Corporation (NRC) and other groups.
+Not only has lending to low-income households grown significantly, it has also grown much more than other lending.
+For example, the number of conventional home-purchase loans to lower-income borrowers nearly doubled between 1993 and 2000, whereas the number of loans to upper-income borrowers rose 66 percent.
+Over the same period, the number of conventional mortgage loans increased 122 percent to African-American borrowers and 147 percent to Hispanic borrowers, compared with an increase of 35 percent to white borrowers.
+But this rise in mortgage credit extended to lower-income households has not come without cost.
+We have all heard the numerous stories concerning predatory lending--asset-based lending, loan-flipping, insurance packing, fraud, and abuse.
+Some of these practices are already illegal, some can be combated with tighter regulations, and some can be only combated with financial literacy, consumer education, and housing counseling.
+Again, as you all know, the Congress has given the Federal Reserve a role to play in this process, and we have recently used our rulemaking authority.
+I would like to say a bit about what we are doing.
+The Home Ownership and Equity Protection Act (HOEPA) Enacted in 1994, HOEPA shines a bright spotlight on loans defined as "high- cost."
+For these high-cost loans HOEPA bans balloon payments in the first five years, prepayment penalties generally after five years, and a pattern or practice of asset-based lending.
+Creditors must give disclosures in advance of closing, so consumers have a longer time to consider whether to complete the transaction.
+HOEPA also requires the Federal Reserve to hold periodic public hearings and gives it the authority to strengthen the act with additional rules to prohibit unfair practices.
+After a lengthy process of hearings, proposals, and comments, we issued new HOEPA regulations in December 2001.
+Our goal was to curb some of the most flagrant predatory lending abuses without impairing the growth of legitimate subprime lending.
+We think it is possible to do this because of one important empirical fact.
+Since HOEPA was passed, the number and the value of HOEPA loans have increased just as rapidly as the number and the value of non-HOEPA subprime loans.
+Because the imposition of HOEPA protections has not impeded the growth of that segment of the subprime market, one can reasonably expect that a modest tightening of the HOEPA terms should not impede it either.
+HOEPA defines "high-cost" loans in two ways: the APR exceeds the rate on a Treasury bond of comparable maturity (called the APR spread) by 10 percentage points or more the points and fees exceed 8 percent of the value of the loan, or $480 (a number that is indexed with consumer prices).
+The Fed is given authority to lower the APR spread trigger from 10 percentage points to 8 percentage points.
+We did this for first-lien mortgage loans, increasing the share of subprime loans getting HOEPA protection from the estimated present rate of 12 percent to about 26 percent.
+Because second-lien mortgage loans typically have higher APRs, we did not make a change for second-lien mortgage loans, keeping this HOEPA coverage share of subprime loans at its present level of about 50 percent.
+The Fed is not authorized to change the trigger for points and fees, but we are authorized to change what is counted under it.
+One of the leading sources of concern in the predatory lending area is single premium credit insurance (SPCI), a mortgage insurance product that adds significantly to the cost of the loan, is often included without the consumer's request or even knowledge, and where the insurance coverage often does not last as long as the loan.
+The Fed placed SPCI in the points and fees test, upping the HOEPA coverage ratios to about 38 percent for first-lien mortgages and 61 percent for second-lien mortgages.
+But these estimates are static--if lenders respond to our change by giving up SPCI and selling mortgage insurance on a pay-as-you-go basis, the coverage shares should fall back toward 26 percent for first-lien mortgages and 50 percent for second-lien mortgages.
+We think lenders might so respond: Citigroup Financial, Household Finance, and American General Finance, three of the largest subprime lenders, have already dropped or have announced plans to drop SPCI.
+The Home Mortgage Disclosure Act (HMDA) HMDA was passed in 1975, preceding CRA by two years.
+It involves data collection--banks and other lenders must submit and make available data on race, ethnicity, income, and gender.
+They must also collect and make available data on loan applications, whether or not credit is granted.
+Just this past month, the Fed revised the regulation that implements HMDA.
+Our goal was to modernize the reporting requirements in line with developments in the mortgage market over the past twenty-seven years and to minimize the reporting burdens of financial institutions.
+To modernize HMDA reporting, we made several changes: To facilitate enforcement and to improve data on the volume and pattern of HOEPA lending, we now require lenders to report whether a loan is subject to HOEPA, To close an obvious loophole in the HMDA reporting requirements, we require nonbank lenders to file HMDA reports if they make mortgage loans that total more than $25 million, To deal with the increasing rationing of credit by price rather than by outright denials, we require all lenders to report the APR spread over Treasuries of comparable maturity if it exceeds 3 percentage points for first-lien mortgages and 5 percentage points for second-lien mortgages, We now require lenders to report whether a loan involves a manufactured home for which loans are generally underwritten differently with much higher denial rates.
+Perhaps the most significant change is the reporting of the APR spread in excess of 3 or 5 percentage points (these specific thresholds are provisional, possibly to be changed after a further comment period).
+The reason for switching to the spread, as opposed to the APR itself, is that HMDA data cover an annual period over which Treasury rates can vary widely.
+The true measure of how costly a mortgage loan is should then factor in the time period in which the loan was made.
+We can better compare loans made in different rate environments by collecting information on APR spreads at the time the loan is made.
+Most banks report that they think in terms of spreads, financial analysts think in terms of spreads, and HMDA analysts should too.
+The reason for public reporting of only loans with high spreads is that this part of the market seems to have drawn the most concern.
+High-spread mortgage loans are typically made by nonbank lenders without an on-site regulator, meaning that the public does not have access to this rate spread information.
+The rationale for such reporting on low-spread mortgage loans is much less strong.
+The normal prime mortgage spread over the comparable Treasury rate is roughly 1.5 percentage points.
+Hence, even if the spread below 3 is not reported, which makes HMDA reporting far less costly for banks, the APR spread can be well approximated--it must lie somewhere between 1.5 percentage points and 3 percentage points.
+Our rule will result in the reporting of spreads on about 10 percent of all first-lien mortgage loans and 22 percent of all second-lien mortgage loans.
+The whole provision implies a significant increase in rate-spread information available to the public, without much increase in reporting burden for the great majority of mortgage loans.
+Besides comments on the rate spread, the Fed is also soliciting comments on whether lenders should be required to request data on race, ethnicity, and gender in telephone applications, as they already must do for applications received by mail or over the Internet.
+Financial Literacy NCRC has recently taken a strong interest in financial literacy, and we do too.
+Almost everybody who has listened to predatory-lending anecdotes comes away with the feeling that, if consumers really knew what was in their long-term financial interests, the problem of predatory lending would be substantially reduced, perhaps eliminated.
+To continue my basketball analogy, thoroughgoing financial literacy would be the best defense of all.
+I will not cover the range of programs around to improve financial literacy, but there are many.
+NCRC has a new financial literacy campaign.
+The Federal Reserve's Community Affairs and Public Information Offices have recently embarked on a national initiative to highlight the importance of financial literacy.
+The NRC, a publicly funded entity known for its community training and homebuyer counseling programs, now offers lending counseling along with alternative sources of loan funds.
+The American Bankers Association has formed a working group to educate bankers and local communities about predatory lending.
+Freddie Mac has a program that promotes consumers' understanding of building and maintaining better credit.
+Of course, even with all these programs, the remaining challenges are significant.

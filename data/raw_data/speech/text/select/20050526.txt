@@ -1,0 +1,134 @@
+It was first adopted in New Zealand in 1989, appeared to be successful, and has now spread to more than twenty nations.
+The regime is now being urged on the laggard countries that have not yet joined the bandwagon, notably the United States.
+The question of whether a country should adopt inflation targeting raises several issues.
+At the theoretical level, inflation targeting is alleged to promote central bank transparency, clarify communication, and establish a central bank commitment to price stability.
+These advantages are offset by the fact that inflation targeting could lead to rigid or formulaic policies that limit flexibility.
+Given the impossibility of rewriting history--trying to determine either what an inflation-targeting central bank would have done in response to some economic shock had it been a nontargeter or what a nontargeting central bank would have done had it been a targeter--the theoretical debate has never proved conclusive in deciding for or against inflation targeting.
+Nor is the empirical evidence conclusive.
+Econometric studies find that, in countries that have adopted inflation targeting, inflation rates have fallen, spreads between nominal and real interest rates have fallen, other measures of expectations of inflation have fallen, and macroeconomic growth numbers have not worsened and have often improved.
+From this point of view, inflation targeting looks to have been successful.
+But inflation rates have also fallen, nominal-real spreads have fallen, inflation expectations have fallen, and macroeconomic growth numbers have improved in at least one significant country that has not adopted inflation targeting, the United States.
+The general verdict of the many comparison studies seems to be in favor of inflation targeting, but something else, most likely the sheer commitment to price stability, has also appeared to have worked just as well in the United States.
+For countries that have not yet adopted inflation targeting, a key issue then becomes politics.
+The countries that have adopted inflation targeting report that the regime has helped to clarify the relationship between the central bank and the government, generally giving the government say over the ultimate objectives of monetary policy but the central bank freedom in how it pursues these objectives.
+But these are usually parliamentary countries where the governmental authorities have strongly endorsed inflation targeting.
+There is a large question about what a central bank should do in a congressional system, when its government has not endorsed inflation targeting.
+That is the issue I will discuss today.
+After reviewing present-day inflation-targeting relationships around the world, I turn my attention to political considerations for the United States.
+Present Inflation-Targeting Arrangements The first country to adopt inflation targeting, New Zealand, did so with strong support and fairly specific instructions from its legislature.
+The Reserve Bank of New Zealand Act of 1989 established the basic framework.
+This act gave the central bank the objective "of achieving and maintaining stability in the general level of prices," with "regard for the efficiency and soundness of the financial system."
+The act provided that the government and Reserve Bank jointly determine the specific inflation target and other policy objectives through Policy Target Agreements.
+The first of these target agreements defined price stability as a range of 0 percent to 2 percent in New Zealand's Consumers Price Index (CPI), set a goal of achieving price stability two years hence, and gave conditions that could justify going outside the price stability band.
+Subsequent agreements have modified the target CPI, widened the tolerance band, and introduced other objectives, such as the stability of output growth.
+These modifications have generally made New Zealand's inflation-targeting regime much more flexible.
+Governmental involvement was still very important, though somewhat less explicit, for the next three inflation targeters.
+Chile's adoption of inflation targeting in 1990 was preceded by new central bank legislation.
+Canada, which adopted inflation targeting in 1991, used the vehicle of a joint announcement by the Ministry of Finance and the governor of the Bank of Canada.
+This announcement, and subsequent joint announcements, established a target range for price stability but left the details, and the responsibility for policy, in the hands of the Bank.
+In Britain, which adopted inflation targeting in 1992, the chancellor of the Exchequer first announced the inflation goal.
+The Bank of England did not even have operational independence at the time.
+Though the Bank later gained independence, the chancellor still sets policy goals for the Bank through periodic remits.
+In the next wave of inflation targeters, there was less-explicit governmental involvement.
+In Sweden, which adopted inflation targeting in 1993, the government had previously announced that controlling inflation was an overriding goal for the Riksbank.
+In Australia, the Reserve Bank governor announced its inflation-targeting regime in a speech, using broad, previously delegated authority.
+In Norway, the Norges Bank operates under a governmental mandate declaring that the long-term objective of monetary policy is to maintain the domestic and international value of its currency.
+The European Central Bank (ECB) operates its regime under authority delegated by the Treaty Establishing the European Community, with the primary goal of price stability established by the treaty.
+Lessons are more diffuse from the last wave of countries to adopt inflation targeting.
+Brazil's adoption of inflation targeting in 1999 was preceded by a presidential decree.
+Hungary and Poland adopted inflation targeting following parliamentary acts stipulating that price stability was the main objective for the central bank.
+But in two cases, Mexico and the Czech Republic, the central bank moved to inflation targeting on its own.
+In the Czech Republic, subsequent legislation enshrined price stability as the main objective of the central bank, but not in Mexico.
+Although these regimes differ from one another, there is at least some governmental involvement in all but the Mexican case.
+The level of involvement ranges from New Zealand's explicit governmental guidance to other, much more flexible arrangements that give the central bank fairly wide latitude in establishing target ranges, choosing indexes, and choosing time periods over which to meet the price stability objectives.
+There may also be a correlation between governmental involvement and the strictness of the inflation-targeting regime.
+Involvement has been the greatest in the strictest regime, New Zealand, and is noticeably less in the more flexible regimes.
+The United States The main country that has not adopted inflation targeting is the United States.
+Although academic economists and many others have for years been urging the Federal Reserve to adopt inflation targeting, legislators have shown very little interest in the issue.
+Congressman Jim Saxton of New Jersey, chairman of the Joint Economic Committee, has introduced an inflation-targeting bill several times, but the bill currently has no cosponsors and has not been reviewed recently in committee hearings.
+Previous inflation-targeting bills have fared no better.
+This lack of congressional momentum could be interpreted as lack of congressional support for inflation targeting, or it could merely reflect a more neutral absence of strong opinions.
+Given the absence of firmer congressional guidance, the Federal Reserve has continued to operate under the Full Employment and Balanced Growth Act of 1978.
+This act directs the Fed to "promote effectively the goals of maximum employment, stable prices, and moderate long-term interest rates."
+Should these goals be in conflict, it is up to the Fed to resolve the problem.
+To say the least, the U.S. approach is a rather stark contrast with the approach in New Zealand with its policy agreements and in Canada with its joint announcements.
+Academics and others urge the Federal Reserve to adopt inflation targeting, but should the Fed do so on its own?
+If the Fed does something on its own, how strict an inflation-targeting regime should it be?
+The politics of inflation targeting have never been fully explored.
+We should first recognize that the form of the U.S. government is different than that of most inflation-targeting countries.
+These targeting countries typically operate under a parliamentary form of government, under which the Treasury secretary or chancellor of the Exchequer is speaking for the whole government, both the executive and the legislative branches.
+There would be many more complications in the United States--the Federal Reserve would have to coordinate with the Treasury secretary, representing the executive branch, and members of the Congress.
+When the Congressional Budget Office deals with the Congress, it coordinates between both parties and both the Senate and the House of Representatives.
+The Fed might not have to coordinate with both houses of the Congress, but it would certainly have to coordinate with both parties.
+This problem is not necessarily insuperable; all political actors might recognize the value of price stability and might appreciate inflation targeting, at least in its softer form.
+But at a minimum, political issues are much more complicated in congressional systems than in parliamentary systems.
+On a more technical level, there are at least two places to look for guidance.
+A first place is the Full Employment and Balanced Growth Act itself.
+As amended, this act requires the Fed to make a semiannual Monetary Policy Report to the Congress, accompanied by testimony from the Chairman of the Federal Reserve.
+These reports and testimony have been occasions for the Fed to report on concepts and developments, though never one as significant as inflation targeting.
+It is hard to imagine the Fed's using these hearings to announce a full-blown inflation-targeting regime, though it is conceivable that the Fed could use them to propose soft target bands for price stability, or at least to get more specific about the Fed's commitment to price stability.
+But in the end, using the Monetary Policy Reports from the Fed as a means of getting the Congress to endorse inflation targeting would be stretching things.
+A second place to look for legal guidance is the fact that the Fed also has rule-writing responsibility for several statutes in the consumer area, such as the Home Mortgage Disclosure Act, the Home Ownership Equity Protection Act, and the Community Reinvestment Act.
+In each of these cases, the statute was passed some years ago, and the Fed has responsibility for writing rules to keep the statute up-to-date.
+Periodically the Fed issues advance notices of proposed rulemaking, solicits comments, revises the rules, puts these revisions out for comment, and then adopts final rules.
+One could imagine a similar process for inflation targeting.
+For the Fed to write rules for a strict inflation-targeting regime on its own would presumably be impossible, though one might interpret "maximum employment, stable prices, and moderate long-term interest rates" as an invitation for the Fed to write rules to institute a soft form of inflation targeting.
+On the whole, this precedential guidance is not very helpful.
+When it has had opportunities, the Congress has never moved ahead on inflation targeting, possibly because of outright opposition, possibly because of a desire for neutral non-involvement.
+Nor have various recent Administrations expressed much interest, preferring to leave such matters in the hands of the Fed.
+A Fed announcement about inflation targeting would be much more significant than the other more-technical and more-data-oriented announcements or pronouncements the Fed normally gives in its Monetary Policy Reports.
+And for the Fed to interpret the broad language of the Full Employment and Balanced Growth Act as an invitation to write rules instituting a strict form of inflation targeting would be an extreme stretch, though perhaps not for a soft form of inflation targeting.
+Normative Considerations Granted that there is not much legal precedent for going ahead with inflation targeting on its own, would there be any value in having the Fed start a conversation with the Congress?
+Left to its own devices, the Congress probably will not move ahead on the Saxton bill or anything like it.
+But what if the Fed were actually to propose a soft form of inflation targeting?
+Such a proposal might change the dynamics and raise the possibility that the Congress could at least tacitly endorse inflation targeting.
+The advantages of soliciting congressional support for inflation targeting would be essentially those normally ascribed to inflation targeting in the first place.
+The Fed's announcements could become clearer and more transparent, its commitment to price stability could become more universally understood, and market participants could have a better idea of what specifically the Fed means by price stability.
+The present "bias" statement in the Fed's announcement of changes in the federal funds rate target could be supplanted with a statement on whether inflation is tending to the upper or lower bound of the Fed's price stability range.
+I see no particular need to clarify the relationship between the Treasury and the Federal Reserve in the United States--already there is agreement that the Treasury should be the only agency that comments on currency values, and that the Fed should be the only agency that comments on monetary policy--but added demarcations can never hurt.
+Another advantage would be that inflation targeting could assist in clarifying roles.
+When the Chairman testifies on the Monetary Policy Report, most of the questions involve an incredibly broad range of topics--fiscal policy, tax policy, entitlement spending issues, trade issues, and wage distribution questions.
+Many of these have little to do with the Fed's direct areas of responsibility.
+I can see a democratic effectiveness argument for rerouting these questions back to the area of direct Federal Reserve responsibility, and discussion of how to implement inflation targeting might well do that.
+These discussions might also make it clear that price stability--not all these other matters--is the primary economic outcome for which the Fed is responsible.
+As for the disadvantages, the most significant seems to be explaining why the Fed is specifically delineating only one of its three goals.
+A modern-day macroeconomist would have no trouble in understanding why the Fed would put a target band on inflation but not on unemployment and not on long-term interest rates.
+In modern-day macroeconomics, inflation is a policy choice variable--there is essentially no long-run tradeoff between inflation and unemployment, and it is up to monetary policy to choose the long-run rate of inflation.
+Zero inflation, or close to zero depending on measurement error and other technical details, is as good as any other choice in promoting ultimate macroeconomic goals such as full employment and long-term economic growth.
+Keeping inflation close to zero has the further advantage of limiting the microeconomic costs and tax distortions caused by inflation.
+Hence a target zone for price stability fits perfectly into the standard macro model.
+But that's not true for the other parts of the Fed's mandate.
+Were the Fed, or the Congress, to set a target bound on the unemployment rate, that bound might not be consistent with the so-called natural, or non-inflationary, rate of unemployment.
+Were the target band, say, below the natural rate, the Fed would be forced to follow policies likely to lead to accelerating inflation.
+Similarly, a target band for long-term interest rates below the equilibrium long-term rate could also again force the Fed to pump money out to a highly inflationary degree.
+The difference is all in the way the macroeconomy works.
+The straightforward way to resolve this impasse is to try to explain it to politicians who remain skeptical.
+As evidence, one could use the 1960s and 1970s as dramatic indications of what happens when macro policy violates the natural unemployment rate rule and the equilibrium interest rate rule, with rather dire subsequent inflationary consequences.
+Or the 1990s could be used as an illustration of how monetary policy could lower inflation, with concomitant gains in terms of full employment and long-term economic growth.
+Similar conversations might have occurred in all those countries where the government seems to have eagerly adopted inflation targeting.
+But these attempts to explain inflation targeting still might not work, and the Congress might still delineate specific unemployment and interest rate goals along with inflation goals.
+Were such to be the case, particularly if the specific goals for unemployment or interest rates were set inappropriately, as was done in the Humphrey-Hawkins Act of the late 1970s, I believe that even die-hard advocates of inflation targeting would consider the costs greater than the benefits.
+Given the already good inflation performance in the United States, the benefits of adopting inflation targeting are likely to be modest.
+But in an inappropriately constrained system, the costs could be enormous.
+Another potential political cost of inflation targeting involves loss of flexibility.
+As inflation targeting has evolved in other countries, and in the thinking of academic economists, a flexible approach to inflation targeting has proved quite popular.
+Specific goals for inflation are important, yes, but not under any and all circumstances.
+Real-world economies are subject to unanticipated shocks and unanticipated financial crises.
+Sometimes monetary authorities, even under inflation targeting, must respond to these shocks by going outside the price stability band for a short period.
+For example, the ECB has held its short-term interest rate at a low level for a significant period even though inflation has been slightly above its target ceiling most of that time.
+Many outside observers believe that economic sluggishness is the real problem in Europe and are quite sympathetic with the ECB strategy, even though it may violate a strict interpretation of inflation targeting.
+Most experts and others interested in inflation targeting understand this need for flexibility and are quite comfortable with flexible inflation-targeting schemes.
+In all likelihood, any scheme designed for the United States would feature such flexibility.
+So far there is no problem, but there could be at least a political awkwardness to such a situation.
+The Federal Reserve is responsible for many controversial policies--sometimes its approval or disapproval of bank mergers is controversial, sometimes its safety and soundness supervision is controversial, and sometimes its consumer protection regulations are controversial.
+At any point, some observers and some politicians are likely to be upset at the Fed for one reason or another.
+Were the inflation rate temporarily outside the target band, even for good economic reasons, the mere existence of inflation targets could be another excuse for tension between the Fed and the Congress.
+There is almost always at least potential tension between the Fed and the Congress, and both sides have learned how to handle it.
+But at least some danger lies in introducing new possibilities for tension.
+None of these supposed political costs of inflation targeting are certain, all could be readily handled, and it is at least possible that only vague congressional support for inflation targeting would ultimately be necessary.
+But we should recognize that same clarity of inflation targeting that has generally proved advantageous in other countries contains at least the seeds for potential disagreements in the United States.
+Conclusion All debates about whether the United States should adopt inflation targeting are fairly amorphous, balancing speculative theoretical considerations and imaging hypothetical situations.
+Given the good inflationary performance of the American economy in the past decade, the question of whether to adopt inflation targeting has never been an all-out do-or-die issue.
+The most that pro-targeters have been able to claim is some possible benefits; and anti-targeters, some possible costs.
+In this amorphous debate, the political questions are perhaps the most amorphous of all.
+But surely it is relevant that, in other countries that have adopted inflation targeting, the parliamentary governments have generally been strong supporters, whereas in the United States Administration and congressional support has ranged from weak to non-existent.

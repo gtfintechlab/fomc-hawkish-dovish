@@ -1,0 +1,83 @@
+The BAI has historically been the repository for thoughtful leadership on a wide range of management, operations, and system-related issues.
+This is an appropriate forum for sharing the Fed's perspective on certain risk-management issues as they are being addressed by the financial services industries.
+To put my comments in perspective, let me first identify four key environmental factors that have changed in the financial services industry and have required the industry to improve both its monitoring and its management of risk exposures.
+The four major environmental factors affecting financial services are the following: industry consolidation, increased competition, technological changes, and management focus on shareholder value.
+These factors, of course, are not the only ones affecting your industry, but their combined influence has clearly altered your management challenges.
+All of you are familiar with these factors so we have no need for elaborate description, but let me touch on a few ways in which these factors have affected risk management--starting with consolidation.
+Twenty years ago, America's largest bank was Citicorp, with assets of around $120 billion.
+Though Citicorp had a major international banking presence, its domestic banking operation was contained largely in the State of New York.
+Its major national credit card operation was its most significant departure from traditional banking lines.
+In contrast, today's Citigroup has $1 trillion in assets and is a highly diversified financial services provider operating not only throughout the United States but also internationally.
+Citigroup's expanded scope is by no means unique.
+Rather, it is typical of the bank and nonbank consolidation that has taken place.
+Today, thirteen financial holding companies hold more than $100 billion in assets.
+Though we still have more than 6,000 separate banking organizations in this country, our largest organizations now have nationwide presence and offer a broad array of financial products.
+Let's move on to competition.
+Despite the consolidation that has taken place, the financial services industry remains highly competitive.
+Not only do banks face intra-industry competition, but they also face competition from nonbank financial service providers.
+As of all of you know, virtually every financial product offered by the banking industry is also offered--either identically or by a close substitute--outside the regulated financial services industry.
+Let me touch on several ways that technology has changed the banking industry.
+First, technological advances from the past decade have allowed real-time access to credit information and public records.
+This ability to mine data allows providers of financial products to identify target markets with minimal geographic restraint.
+It has fostered development of monoline-credit-card and mortgage lenders that have become major market participants in a very short time.
+Second, technology has allowed organizations to separate the various business functions, such as product marketing, credit review and administration, and asset funding, and to locate each of these functions based on separate criteria, such as the availability of labor or the tax environment.
+Third, technology has helped institutions monitor and manage risk by hedging exposure to credit risk and interest rate risk or by selling certain assets in secondary markets.
+The fourth environmental factor is the virtually unanimous corporate goal of maximizing shareholder value.
+The motivation for this goal is obvious.
+The stock market has accorded a price-earnings premium to financial institutions that consistently outperform their competitors.
+This premium translates into highly receptive capital markets and enhanced compensation to employees through stock options and provides the institution with a strong currency with which to pursue mergers or acquisitions.
+Thus far I have mentioned only the positive aspects of each of these environmental factors, but each also has potential negatives.
+The consolidation that has created these giant institutions has also created many new risk-management challenges.
+Enhanced competition has brought increased pressure on interest-rate spreads and, when combined with the continual pressure for earnings performance, can encourage either imprudent risk-taking or a push for aggressive accounting treatment.
+Sophisticated technology can at times be its own risk as a system failure or software error can have extremely negative consequences.
+In light of all the increased exposures to risk, how does the Federal Reserve System approach the subject of risk management, and what expectations do Fed examiners have when they evaluate an institution's risk management?
+First, supervisors look for whether banking organizations are following the four fundamental elements of a sound risk-management process: active board and senior-management oversight, adequate risk-management policies and limits, appropriate risk measurement and reporting systems, and comprehensive internal controls.
+Of course, supervisors expect the details within each element of the risk-management process to vary among institutions, depending on the nature and complexity of the risk undertaken by the bank.
+There is no "one size fits all" approach to risk management, which is still a partnership between science and art.
+Supervisors look at the individual pieces and the way they fit together both for each of the institution's business lines and for the firm as a whole.
+Supervisors also endeavor to look for outliers in the organization, particularly operations that appear to be outgrowing the original control structure.
+Providing some illustrations of how supervisors view the key elements of the risk-management process may be instructive.
+The critical importance of the first fundamental element, active oversight by the board and senior management, has become quite clear recently.
+In past decades, the directors at times seemed content to concern themselves with only summary information regarding management's strategy and financial performance.
+In recent years, expectations for corporate governance have been raised, and the fallout from Enron and other corporate mishaps have further intensified scrutiny in this area.
+Recent difficulty in the accounting for special purpose entities (SPEs) is an example of an area where an active board can significantly help ensure that an institution understands, discloses, and manages risk appropriately.
+Directors should be asking the following question: Is management's accounting for material or its innovative transactions in sync with the substance of these transactions?
+For example, if assets are to be shed from the balance sheet by selling them to a special purpose entity, are both the risks and the rewards being transferred to a third party?
+If the answer is no, then a prudent director would require that the assets remain on the balance sheet (such as in the case of a "nonqualifying"(SPE), or that the accounting be supplemented with enough disclosure to inform investors of the ongoing risks these assets continue to present to the institution.
+Recent experience also highlights the potential benefits of the board's audit committee meeting with external auditors without management and aggressively seeking assurances that risks associated with off-balance-sheet and special purpose entities are clearly represented.
+Stimulated by recent events, a sea change is occurring and investors, creditors, ratings agencies, and regulators expect far more transparency than was expected even one year ago.
+The importance of the second fundamental element, adequate risk management policies and limits, is well illustrated by what supervisors are seeing in merchant banking activities.
+In particular, the volatile nature and difficult valuation issues confronted by risk managers of merchant banking operations call for more formal procedures.
+Since the passage of the Gramm-Leach-Bliley Act in 1999, many financial holding companies are either entering or expanding merchant banking activities.
+In particular, examiners have been encouraging banking organizations to expand formal valuation policies and documentation.
+Without these policies, risks may not be estimated in a consistent and timely fashion and communicated to the board and shareholders.
+Such estimation and communication are, of course, of paramount importance in the current environment, where venture capital earnings of more than $7.7 billion at the largest banks in 2000 turned into a loss of more than $4.5 billion in 2001.
+Policies and procedures that promote timely, consistent, and accurate valuations of risk help institutions to identify problems earlier than otherwise would be the case.
+They also help focus attention on any changes in strategies or limits that might be needed to avoid similar problems in the future.
+The importance of the third fundamental element, appropriate risk measurement and reporting systems, is well illustrated by the challenges presented by securitization activities.
+In some cases, securitizations are simple off-balance-sheet financings, where much of the risk of the underlying assets is retained.
+In other cases, a small portion of the risk is retained, and in still other cases, such as most residential-mortgage securitizations, virtually all the risk is transferred.
+We expect institutions engaged in this activity to have advanced measurement and information systems to define the underlying risk related to these transactions, including their effect on the institution's overall credit-, liquidity-, and market-risk profile.
+We also expect institutions to estimate the economic capital needs arising from their securitizations and ensure that they are factored into their own evaluation of capital needs.
+Finally, we expect institutions to have adequate reporting systems that allow them to disclose to the marketplace and regulators the nature of these exposures.
+As many of you know, the Federal Reserve has long advocated better disclosure, particularly regarding more-complex risks, in both the domestic and the international arenas.
+In fact, it is one of the key requirements in the proposed revisions to the Basel Accord.
+The test now will be to see if recent events will provide motivation or if the markets will require organizations to more aggressively and creatively educate the marketplace about their true underlying exposures.
+Recognizing the heightened need for disclosure of securitization transactions, the banking agencies, starting in 2001, required banks and their holding companies to disclose the type and amount of assets securitized, the risk exposure retained, and the charge-offs and delinquency status of the underlying assets.
+We are incorporating these items into our supervisory monitoring screens, and we assume market analysts are also making use of these public data for their own analysis of banking risk.
+Clearly, more can and should be done by banking organizations to demystify and clarify the risks they are taking.
+Other areas being discussed include disclosures on the risk profile of bank credit portfolios by internal risk ratings.
+The first three elements of risk management that I have discussed are fundamental to bank safety and soundness, but without the fourth element--internal controls--none of the other elements can be effective.
+For that reason, an evaluation of internal controls has always been a fundamental part of bank supervision.
+It is a key to improving the odds that problems are found early and addressed before the bank insurance fund or taxpayer dollars are at risk.
+In response to a rising trend of unexpected weaknesses in control found at banks, supervisors are seeking to ensure that risk-focused supervision is striking the right balance between reviewing risk-management processes and performing procedures to validate whether the procedures are working as advertised.
+Supervisors need to place more emphasis on determining whether the strength and effectiveness of those controls are tested by an independent third party other than supervisors and if they are, how frequently.
+In particular, as part of our risk-focused supervision, we have endeavored to use the work of internal auditors when it is deemed to be reliable.
+However, it is becoming clearer that we must bring a new level of skepticism to bear in this area for some institutions.
+In that regard, supervisors must return to the fundamentals of risk-focused supervision and require substantive verification procedures to confirm the effectiveness and reliability of internal audit, before placing substantial reliance on its findings.
+In the past, supervisors have taken some comfort in the fact that external accountants have also been looking at an institution's internal controls.
+As you know, for many banks the Federal Deposit Insurance Corporation Improvement Act (FDICIA), Section 112, requires that the external auditor attest to management's assertions regarding the adequacy of internal controls over financial reporting.
+Recent events among certain banks that have had material financial consequences have caused us to question the usefulness of these attestations.
+In certain instances, we have been asking external accountants for their FDICIA 112 work papers for banking organizations that we have found to have had significant control weaknesses.
+We are looking into that work to formulate some views on whether this area needs improvements and what actions might be most effective.
+In conclusion, the past decade of consolidation and financial innovation has placed increasing pressure on the accounting and internal control systems of banks and corporations, revealing pockets of weaknesses.

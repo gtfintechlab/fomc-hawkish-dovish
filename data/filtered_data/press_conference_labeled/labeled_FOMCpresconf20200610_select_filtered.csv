@@ -1,0 +1,67 @@
+Unnamed: 0,sentence,label,score
+0,The virus and the forceful measures taken to control its spread have induced a sharp decline in economic activity and a surge in job losses.,LABEL_0,0.9983741044998169
+1,"Even after the unexpectedly positive May employment report, nearly 20 million jobs have been lost on net since February, and the unemployment rate has risen about 10 percentage points, to 13.3 percent.",LABEL_0,0.9986237287521362
+2,"As was highlighted by the Bureau of Labor Statistics, this figure likely understates the extent of unemployment; accounting for the unusually large number of workers who reported themselves as employed but absent from their jobs would raise the unemployment rate by about 3 percentage points.",LABEL_0,0.995721697807312
+3,"Employment rose in many sectors of the economy in May, and the unemployment [rate] edged down as some workers returned to their jobs from temporary layoffs.",LABEL_1,0.990888237953186
+4,"At the same time, many households have been receiving stimulus payments and unemployment benefits, which are supporting incomes and spending.",LABEL_0,0.9904590845108032
+5,"Moreover, despite the improvements seen in the May jobs report, unemployment remains historically high.",LABEL_0,0.9980905652046204
+6,"Weak demand, especially in sectors most affected by the pandemic, is holding down consumer prices.",LABEL_0,0.9898774027824402
+7,"As a result, inflation has fallen well below our symmetric 2 percent objective.",LABEL_0,0.9957225322723389
+8,Indicators of longer-term inflation expectations have been fairly steady.,LABEL_2,0.9997445940971375
+9,"The Fed’s response is guided by our mandate to promote maximum employment and stable prices for the American people, along with our responsibilities to promote the stability of June 10, 2020 the financial system.",LABEL_1,0.9884294271469116
+10,"In March, we quickly lowered our policy interest rate to near zero, where we expect to keep it until we are confident that the economy has weathered recent events and is on track to achieve our maximum-employment and price-stability goals.",LABEL_0,0.9930964112281799
+11,"To sustain smooth market functioning and thereby foster the effective transmission of monetary policy to broader financial conditions, we will increase our holdings of Treasury and agency mortgage-backed securities over coming months at least at the current pace.",LABEL_0,0.940058171749115
+12,"At this meeting, my colleagues and I continued our discussion of approaches for conducting monetary policy when the federal funds rate is at its lower bound.",LABEL_0,0.6383461356163025
+13,"We also reviewed the historical and foreign experience with targeting interest rates June 10, 2020 along the yield curve.",LABEL_2,0.9998270869255066
+14,We will continue our discussions in upcoming meetings and will evaluate our monetary policy stance and communications as more information about the trajectory of the economy becomes available.,LABEL_2,0.9998267292976379
+15,"Rather, FOMC participants write down their individual views of the most likely path for the economy, conditioned on each participant’s view of appropriate monetary policy.",LABEL_2,0.9998031258583069
+16,"What the June SEP shows is a general expectation of an economic recovery beginning in the second half of this year and lasting over the next couple of years, supported by interest rates that remain at their current level, near zero.",LABEL_2,0.85446697473526
+17,The risk-management approach—this risk-management approach is the best way we can promote our maximum-employment and price-stability goals in these unusually uncertain circumstances.,LABEL_2,0.8571916818618774
+18,"These principles guide us in all we do, from monetary policy to our focus on diversity and inclusion in our workplace and to our work to ensure fair access to credit across the country.",LABEL_2,0.9995774626731873
+19,"So, first, I would say that we think that monetary policy today is currently well positioned to support the economy in this challenging time.",LABEL_2,0.9347323775291443
+20,"And if you look at surveys of more forecasters and market participants, financial market prices, et cetera, those also appropriately reflect a long spell with rates at the effective lower bound.",LABEL_0,0.9963661432266235
+21,"So the first thing is, monetary policy is in a good place, and it’s—that’s well understood in the markets.",LABEL_2,0.6572625041007996
+22,"And, third, we’re continuing asset prices in coming months at—at a—at a relatively high level.1 So for all those reasons, we feel like policy is now in a good place.",LABEL_1,0.9068200588226318
+23,1 Chair Powell intended to say “asset purchases” rather than “asset prices.” MICHELLE SMITH.,LABEL_2,0.9997437596321106
+24,"I—I think, actually, if you look at the May employment report, it’s a pretty good—probably the biggest data surprise that anybody can remember.",LABEL_2,0.5757123827934265
+25,"In terms of inflation, you’ll know that we—we had a 128-month expansion, and we never did quite get inflation back to 2 percent on a symmetric, sustained basis.",LABEL_2,0.9234321117401123
+26,So I think we have to be humble about our ability to move inflation up and particularly when unemployment is—is going to be above most estimates of the natural rate for—certainly above the median in our—in our—in our SEP well through the end of—past the end of 2022.,LABEL_0,0.9979748129844666
+27,"And I’ll—I’ll just say again that we are—the—the May employment report, of course, was a—was a welcome surprise, very pleased.",LABEL_1,0.9491947293281555
+28,"I would say, you know, we were—we just had a period of unemployment, as you know, that was in the—well below 4 percent, hanging around 3½ percent, that lasted two years.",LABEL_2,0.8627670407295227
+29,We didn’t see any problems with price inflation.,LABEL_2,0.9998251795768738
+30,"Price inflation didn’t really react June 10, 2020 much.",LABEL_2,0.9997547268867493
+31,"So, I would say, you know, we’d be looking to get inflation back up, and we—we’d be Chair Powell’s Press Conference FINAL prepared to tolerate pretty low—welcome, in fact, not tolerate but welcome very low readings on—on unemployment just based on what we—what we saw in the last—in the last expansion.",LABEL_0,0.9340527057647705
+32,"And it seems quite likely that there will be a significant group at the end of—even—even after a lot of strong job growth, that’ll still be struggling to find jobs, and we’ll still be providing strong accommodation for that.",LABEL_0,0.6744408011436462
+33,"Of course, every economy has longer-run challenges, not—and that—that includes our economy, notwithstanding that 50-year low in unemployment and the longest expansion in our June 10, 2020 history and every reason to think it could continue.",LABEL_0,0.9693228602409363
+34,"And you could see significant job growth in—in coming months as people return to their jobs, but you’re still going to face probably an extended period where it will be difficult for many people to find work.",LABEL_1,0.9726999402046204
+35,"One, through extended periods of unemployment, people lose contact with the labor force.",LABEL_0,0.9982544779777527
+36,"And it also just lowers, in a way—it can—it can increase the—you know, the unemployment rate, but it can also lower the labor force participation rate, which is almost worse, in a way, to have people dropping out of the labor force where we need them in the—in the labor force working.",LABEL_2,0.9244111776351929
+37,We didn’t change our longer-run estimate of—of potential growth or of the unemployment rate.,LABEL_0,0.9959892630577087
+38,"And—and we do that with measures that—that, you know, keep people in their homes; that—that support hiring; that support growth; that avoid unnecessary, avoidable business insolvencies.",LABEL_2,0.9997774958610535
+39,"Basically, if you look at what’s happened, as I mentioned, there’s something—somewhere short of 25 million people have been displaced, even after the good May employment report.",LABEL_1,0.8389110565185547
+40,"We went from the lowest level of employ—unemployment in 50 years to the highest level in close to 90 years, and we did it in two months.",LABEL_0,0.9126256108283997
+41,"You know, the—both the PPP and the unemployment insurance are quite innovative in the American context, and there were difficulties in implementing it, but that’s really a function June 10, 2020 of—of their novelty, I think.",LABEL_2,0.6907105445861816
+42,The expanded unemployment insurance and also the stimulus checks have gone a long way to replacing lost income from—from job loss.,LABEL_2,0.9997119307518005
+43,I think you’re seeing it in the job market data.,LABEL_0,0.9947364926338196
+44,"In terms of the $600 unemployment insurance, I wouldn’t—I wouldn’t try to give Congress advice on the specifics of that.",LABEL_0,0.9931240677833557
+45,"I can’t offer any advice, but I will provide a little context for the—for—I want to be clear about the picture—one way to look at the picture, really, and that is this: You can—you can get at this by looking at, you know, the—the—the widest measure of unemployment, of labor market slack, if you will, is the U-6 measure.",LABEL_2,0.9992406368255615
+46,"So in—in—in U-6, the U-6 level of unemployment has tripled from 7 percent to 21 percent.",LABEL_2,0.9971626400947571
+47,"So that’s in the low 20s, and that’s post the May employment report.",LABEL_1,0.514441192150116
+48,You can look at—at just the regular unemployment rate.,LABEL_2,0.9997380375862122
+49,"And if—if you think we—I would just, in terms of the May employment report, it’s—it’s so nice to see.",LABEL_2,0.998548686504364
+50,"So, and if—if you just look at what June 10, 2020 that is, unemployment has gone up more for Hispanics, more for African Americans.",LABEL_1,0.9660065770149231
+51,"One of them is that, you know, I—you—you can have 3, 3½ percent unemployment for a couple of years, and, really, you see modest moves in wages and relatively almost invisible moves in inflation.",LABEL_2,0.9216936826705933
+52,"What—what we are—we are cognizant of the fact, though, that late in the last cycle, late in the last expansion, the benefits really do go more to people at the lower end of the wage spectrum for—for the first time in many years when labor June 10, 2020 markets are tight, when unemployment is low.",LABEL_2,0.9991626739501953
+53,"We do track all unemployment by all kinds, as you know—all kinds of different demographics, including particularly the African American unemployment rate, which reached an all-time low since the data started being kept in the modern era.",LABEL_0,0.9719569683074951
+54,"Of course, it’s still close to twice the white unemployment—it is twice the unemployment rate, or it was back in the—back then.",LABEL_2,0.9078630208969116
+55,"You know, the—the best thing we can do with our monetary policy tools is to—is to look at, you know, the evidence of what we saw—that we saw with our own eyes so recently, which is that the economy can have very low unemployment—very low unemployment.",LABEL_2,0.8159538507461548
+56,"It could be lower than 3½ percent without seeing financial Chair Powell’s Press Conference FINAL imbalances, without seeing inflation going—getting out of control.",LABEL_1,0.6460715532302856
+57,"We, frankly, didn’t even get inflation back up to target—without seeing wages getting out of touch with—with where they should be, so that’s the—that’s the biggest thing we can do.",LABEL_2,0.9373343586921692
+58,"You know, in—in—inequality is something that’s been with us increasingly for more than four decades, and it’s—it’s not really related to monetary policy.",LABEL_0,0.9829599857330322
+59,"If you look more in the middle, then it’s—then—then it has gone up for most other groups, but at the bottom, not so much in real terms, in inflation-adjusted terms.",LABEL_2,0.998091995716095
+60,"So, you know, we—we call it out as a—as an important factor in the economy, and we will use our tools to support maximum employment and take that, you know, definition to heart.",LABEL_0,0.5568373203277588
+61,So we—we’re not looking to achieve a particular level of any asset price.,LABEL_1,0.7693914175033569
+62,"I think our—our principal focus, though, is on—on the state of the economy and on the labor market and on inflation.",LABEL_2,0.9997445940971375
+63,"Now, inflation, of course, is—is low, and we think it’s very likely to remain low for some time, below our target.",LABEL_2,0.9997255206108093
+64,"We’re supposed to be pursuing maximum employment and stable prices, and that’s what we’re pursuing.",LABEL_0,0.9981359243392944
+65,"And—and, again, not—we’re not—we’re not focused on moving asset prices in a particular direction at all.",LABEL_0,0.9145845770835876

@@ -1,0 +1,170 @@
+In financial markets, sharpened concerns about credit quality induced a retrenchment by investors, leading in some cases to significant deterioration in market functioning.
+For some households and firms, credit became harder to obtain and, for those who could obtain it, more costly.
+Tightening credit conditions in turn threatened to intensify the ongoing correction in the housing market and to restrain economic growth.
+In response to these developments, the Federal Reserve has taken a number of measures to help ensure the normal functioning of financial markets and to promote sustainable economic growth and price stability.
+In my remarks this evening I will review recent events, discuss the Federal Reserve's responses to those events, and conclude with some comments on the economic outlook in light of recent developments.
+Although financial markets around the world have come under pressure in the past few months, I will focus my comments primarily on the United States.
+I will also have little to say this evening about the serious implications of rising rates of mortgage delinquency and foreclosure for troubled borrowers and their communities or about the Federal Reserve's responses to these important problems; I have discussed these issues several times in the past and will return to them in the future.
+The Origins and Evolution of the Financial TurmoilOverall, U.S. economic performance so far this year has been reasonably good.
+The rate of economic expansion slowed somewhat in late 2006 and early 2007, but growth in the second quarter was solid and some of that momentum appears to have carried over into the third quarter.
+The pace of private-sector job creation has slowed this year, but the unemployment rate has moved up only a little from its recent lows.
+And, although energy prices have been volatile, indicators of the underlying inflation trend, such as core inflation, have moderated since the middle of last year.
+Moderate growth in overall economic activity has continued despite a notable contraction in the housing sector that began in the second half of 2005.
+The housing correction has intensified this year as demand has declined further, inventories of unsold new homes have climbed relative to sales, and house prices have decelerated, with some areas of the country experiencing outright declines in home values.
+In response to weak demand and bloated inventories, homebuilders have sharply curtailed new construction.
+The decline in residential investment directly subtracted about 3/4 percentage point from the average pace of U.S. economic growth over the past year and a half.
+In its regular reports to Congress, most recently in July, the Federal Reserve Board has highlighted as a downside risk the possibility that housing weakness might spill over to other parts of the economy--for example, by acting as a restraint on consumer spending.
+Thus far, however, direct evidence of such spillovers onto the broader economy has been limited.
+The housing correction has taken a more visible toll on the financial markets.
+In particular, since early this year, investors have become increasingly concerned about the credit quality of mortgages, especially subprime mortgages.
+The rate of serious delinquencies has risen notably for subprime mortgages with adjustable rates, reaching nearly 16 percent in August, roughly triple the recent low in mid-2005.1 Subprime mortgages originated in late 2005 and 2006 have performed especially poorly, in part because of a deterioration in underwriting standards.
+Moreover, many recent-vintage subprime loans will experience their first interest-rate resets in coming quarters.
+With the softness in house prices likely to make refinancing more difficult, delinquencies on these mortgages are expected to rise further.
+At one time, most mortgages were originated by depository institutions and held on their balance sheets.
+Today, however, mortgages are often bundled together into mortgage-backed securities or structured credit products, rated by credit rating agencies, and then sold to investors.
+As mortgage losses have mounted, investors have questioned the reliability of the credit ratings, especially those of structured products.
+Since many investors had not performed independent evaluations of these often-complex instruments, the loss of confidence in the credit ratings led to a sharp decline in the willingness of investors to purchase these products.
+Liquidity dried up, prices fell, and spreads widened.
+Since July, few securities backed by subprime mortgages have been issued.
+Investors' reluctance to buy has not been confined to securities related to subprime mortgages.
+Notably, the secondary market for private-label securities backed by prime jumbo mortgages has also contracted, and issuance of such securities has dwindled.2 Even though default rates on such mortgages have remained very low, the experience with subprime mortgages has evidently made investors more sensitive to the risks associated with other housing-related assets as well.
+The problems in the mortgage-related sector reverberated throughout the financial system and particularly in the market for asset-backed commercial paper (ABCP).
+In this market, various institutions have established special-purpose vehicles to issue commercial paper to help fund a variety of assets, including some private-label mortgage-backed securities, mortgages warehoused for securitization, and other long-maturity assets.
+Investors had typically viewed the commercial paper backed by these assets as quite safe and liquid, because of the quality of the collateral and because the paper is often supported by banks' commitments to provide lines of credit or to assume some credit risk.
+But the concerns about mortgage-backed securities and structured credit products (even those unrelated to mortgages) greatly reduced the willingness of investors to roll over ABCP, particularly at maturities of more than a few days.
+The problems intensified in the second week of August after the announcement by a large overseas bank that it could not value the ABCP held by some of its money funds and was, as a result, suspending redemptions from those funds.
+Some commercial paper issuers invoked their right to extend the maturity of their paper, and a few issuers defaulted.
+In response to the heightening of perceived risks, investors fled to the safety and liquidity of Treasury bills, sparking a plunge in bill rates and a sharp widening in spreads on ABCP.
+The retreat by investors from structured investment products also affected business finance.
+In particular, issuance of collateralized loan obligations (CLOs) and collateralized debt obligations (CDOs), which in turn had been major buyers of leveraged syndicated loans, fell off significantly during the summer.
+Demand for leveraged loans slowed sharply, reducing credit access for private equity firms and other borrowers seeking to finance leveraged buyouts (LBOs).
+Concerns about liquidity and credit risk surfaced even in markets in which securitization plays a much smaller role.
+For example, spreads on lower-tier unsecured commercial paper jumped and issuance was limited to very short maturities.
+In corporate bond markets, issuance of speculative-grade bonds dropped off sharply as risk spreads widened.
+And although equity prices have moved up on balance since late spring, swings in prices have been large; indeed, the expected stock-price volatilities implicit in options prices roughly doubled during the summer before falling back more recently.
+As the strains in financial markets intensified, many of the largest banks became concerned about the possibility that they might face large draws on their liquidity and difficult-to-forecast expansions of their balance sheets.
+They recognized that they might have to provide backup funding to programs that were no longer able to issue ABCP.
+Moreover, in the absence of an active syndication market for the leveraged loans they had committed to underwrite and without a well-functioning securitization market for the nonconforming mortgages they had issued, many large banks might be forced to hold those assets on their books rather than sell them to investors as planned.
+In these circumstances of heightened volatility and diminished market functioning, banks also became more concerned about the possible risk exposures of their counterparties and other potential contingent liabilities.
+These concerns prompted banks to become protective of their liquidity and balance sheet capacity and thus to become markedly less willing to provide funding to others, including other banks.
+As a result, both overnight and term interbank funding markets came under considerable pressure.
+Interbank lending rates rose notably, and the liquidity in these markets diminished.
+A number of the U.S. ABCP programs that had difficulty rolling over paper were sponsored by or had backup funding arrangements with European banks.
+As a result, some of these banks faced potentially large needs for dollar funding, and their efforts to manage their liquidity likely contributed to the pressures in global money and foreign exchange swap markets.
+The U.S. subprime mortgage market is small relative to the enormous scale of global financial markets.
+So why was the impact of subprime developments on the markets apparently so large?
+To some extent, the outsized effects of the subprime mortgage problems on financial markets may have reflected broader concerns that problems in the U.S. housing market might restrain overall economic growth.
+But the developments in subprime were perhaps more a trigger than a fundamental cause of the financial turmoil.
+The episode led investors to become more uncertain about valuations of a range of complex or opaque structured credit products, not just those backed by subprime mortgages.
+They also reacted to market developments by increasing their assessment of the risks associated with a number of assets and, to some degree, by reducing their willingness to take on risk more generally.
+To be sure, these developments may well lead to a healthier financial system in the medium to long term: Increased investor scrutiny of structured credit products is likely to lead to greater transparency in these products and more rigor in the credit-rating process.
+And greater caution on the part of investors seems appropriate given the very narrow spreads and the loosening in some underwriting standards seen before the recent episode began.
+In the shorter term, however, these developments do imply a greater measure of financial restraint on economic growth as credit becomes more expensive and difficult to obtain.
+The Federal Reserve's Response to the Financial TurmoilFortunately, the financial system entered the episode of the past few months with strong capital positions and a robust infrastructure.
+The banking system is healthy.
+Despite a few notable failures, hedge funds overall seem to have held up well, and their counterparties have not sustained material losses.
+The clearing and settlement infrastructure generally worked well despite trading volumes that were extremely high in some cases.
+Nevertheless, the market strains were serious, as I have discussed, and they posed risks to the broader economy.
+The Federal Reserve accordingly took a number of steps to help markets return to more orderly functioning.
+The Federal Reserve's initial action was to increase liquidity in short-term money markets through larger open market operations--the standard means by which it seeks to ensure that the federal funds rate stays at or near the target rate set by the Federal Open Market Committee (FOMC).
+A number of other central banks took similar steps.
+One source of pressure in the overnight market was the demand for dollar funding by European banks to which I alluded earlier.
+As Europe is in the latter part of its trading day when U.S. markets open, this extra demand for dollars at times led the federal funds rate to open well above the target.
+The extra provision of liquidity by the Fed helped counter the resulting pressure on the funds rate early in the day; it also eased banks' concerns about the availability of funding and thus assisted the functioning of the interbank market.
+To be clear, an open market operation can provide market participants with increased liquidity; but the intervention does not directly increase participants' capital or allow them to shed risk.
+In essence, these operations are short-term loans collateralized by government securities.
+The vigorous provision of funds through open market operations succeeded in damping pressures in overnight funding markets.
+Yet markets for term funding, including commercial paper markets as well as the interbank markets, remained strained, and signs of broader financial stress persisted.
+On August 17, the Fed took further action when the Federal Reserve Board cut the discount rate--the rate at which it lends directly to banks--by 50 basis points, or 1/2 percentage point.
+The Fed also adjusted its usual practices to facilitate the provision of financing for as long as thirty days, renewable at the request of the borrower.
+Loans through the discount window differ from open market operations in that they can be made directly to specific banks with strong demands for liquidity.
+(In contrast, open market operations are arranged with a limited set of dealers of government securities.)
+In addition, whereas open market operations typically involve lending against government securities, loans through the discount window can be made against a much wider range of collateral, including mortgages and mortgage-backed securities.
+As with open market operations, however, Fed lending through the discount window provides banks with liquidity, not risk capital.
+In particular, the strong collateralization accompanying discount window credit eliminates essentially all risk for the Federal Reserve System and the taxpayer.
+Nonetheless, the availability of the discount window is potentially significant for banks, as it gives them greater confidence that they can obtain additional liquidity as necessary.
+Access to a backstop source of liquidity in turn reduces the incentives of banks to limit the credit they provide to their customers and counterparties.
+The Federal Reserve also took some other steps in response to strains in financial markets, including reducing the fee that it charges for lending Treasury securities from its portfolio, thus helping to meet the heavy demands in the market for those securities.
+The Federal Reserve's actions to ease the liquidity strains in financial markets were similar to actions that central banks have taken many times in the past.
+Promoting financial stability and the orderly functioning of financial markets is a key function of central banks.
+Indeed, a principal motivation for the founding of the Federal Reserve nearly a century ago was the expectation that it would reduce the incidence of financial crises by providing liquidity as needed.
+In its supervisory role, the Federal Reserve--like other bank regulators--attempts to ensure that individual banks maintain adequate liquidity on hand and make provision to raise additional funds quickly when the need arises.
+We must be wary of a subtle fallacy of composition, however.
+Even if each market participant holds a significant reserve of what--in normal times, at least--would be considered highly liquid assets, for the system as a whole the only truly liquid assets are cash and its equivalents.
+The quantity of cash assets in the system at a point in time is, in turn, essentially fixed, being determined directly or indirectly by the central bank.
+Thus, whenever an investor sells less liquid assets to raise cash, the cash holdings of other market participants are reduced by an equal amount.
+Consequently, in highly stressed financial conditions, when the marketwide demand for liquidity rises sharply, one of two things must happen: Either the central bank provides the liquidity demanded by lending against good collateral, or forced sales of illiquid assets will drive the prices of those assets well below their longer-term fundamental values, raising the risk of widespread insolvency and intensifying the crisis.
+If the crisis becomes sufficiently severe, history suggests that damage to the broader economy is likely to follow.
+In his classic 1873 treatise, Lombard Street, Walter Bagehot famously articulated the need for central banks to be prepared to lend freely against good collateral (what he called "good banking security") but at a penalty rate.3 A panic, said Bagehot, is a "species of neuralgia" and as such must not be starved (p. 25).
+Of course, judgment is required to assess whether a particular set of market conditions is severe enough to warrant extraordinary injections of liquidity by the central bank; a too-aggressive intervention could unduly reduce the incentives of market participants to insure against more-normal liquidity risks.
+In the steps it took, the Federal Reserve strove to reach a middle ground, signaling its willingness and ability to provide liquidity to markets as needed without significantly distorting the incentives of individual banks and other market participants to manage their liquidity prudently.
+The Federal Reserve's efforts to provide liquidity appear to have been helpful on the whole.
+To be sure, the volume of loans to banks made through the discount window, though it increased for a time, has been modest.
+However, collateral placed by banks at the discount window in anticipation of possible borrowing rose sharply during August and September, suggesting that some banks viewed the discount window as a potentially valuable option.
+On the other hand, no amount of liquidity provision by the central bank can be expected to solve the problems regarding the valuation of complex securitized assets or to reverse the credit losses on subprime mortgages.
+These underlying difficulties will be resolved only over time by financial markets.
+Since mid-August the functioning of financial markets has improved to some degree, supported not only by liquidity provision but also by the monetary policy action taken in September, to which I will return in a moment.
+Interest rate spreads on ABCP have fallen by more than half from their recent peaks, and overall commercial paper outstanding has edged up this month after declining sharply over August and September.
+Interbank term funding markets have improved modestly, though spreads there remain unusually wide.
+Some progress has been made in bringing pending LBO-related loans to market, albeit at discounts and with tightened terms.
+Risk spreads in corporate bond markets have narrowed somewhat, the issuance of speculative-grade bonds has restarted, and investment-grade issuance has been strong.
+Volatility in many asset markets has declined toward more-normal levels.
+Perhaps most important, in many markets investors are showing an increased capacity and willingness to differentiate among assets of varying quality.
+In contrast, despite a few encouraging signs, conditions in mortgage markets remain difficult.
+The markets for securitized nonprime (that is, subprime and so-called alt-A) loans are showing little activity, securitizations of prime jumbo mortgages reportedly have increased only slightly from low levels, and the spread between the interest rates on nonconforming and conforming mortgages remains elevated.
+These continued problems suggest that investors will need more time to gather information and reevaluate risks before they are willing to reenter these markets.
+Monetary Policy and the Economic OutlookThe Federal Reserve's efforts to support the normal functioning of financial markets have as their ultimate objective the stability and efficiency of the broader economy.
+In addition, of course, the Federal Reserve can adjust the stance of monetary policy by changing its target for the federal funds rate.
+The FOMC manages monetary policy to further its dual mandate to promote maximum sustainable employment and price stability.
+The turmoil in financial markets significantly affected the Committee's outlook for the broader economy.
+Indeed, in a statement issued simultaneously with the Federal Reserve Board's August 17 announcement of the cut in the discount rate, the FOMC noted that the downside risks to growth had increased appreciably.
+However, to allow time to gather and evaluate incoming information, possible policy action was deferred until the Committee's next regularly scheduled meeting on September 18.
+A key issue at that meeting was the extent to which the market disturbances had affected the outlook for the housing sector.
+Financial markets overall had improved somewhat, but tighter terms and standards in the mortgage market--particularly in the nonprime and jumbo segments--appeared likely to intensify the correction in housing significantly, with adverse implications for construction activity and house prices.
+Indeed, incoming housing data had continued to soften even before the advent of the stress in financial markets.
+A further sharp contraction in residential construction seemed likely to hold down overall economic growth in the fourth quarter and in early 2008.
+As they had at earlier meetings, the participants in the September meeting evaluated the potential effects of housing-market developments on other parts of the economy.
+They agreed that significant spillovers to household and business spending were not yet evident.
+For example, auto sales had picked up in August from the low levels of earlier in the summer; and business investment did not appear to have been seriously affected by financial market developments, as highly rated firms continued to enjoy good access to credit.
+Strong growth abroad was also viewed as supporting U.S. exports and domestic production.
+And as I have noted, the available evidence suggested that overall economic growth in the third quarter remained moderate.
+However, downside risks to both household and business spending had clearly increased over the period since the Committee's previous meeting.
+Notably, the weak housing market, somewhat downbeat consumer sentiment, and slower growth in private-sector employment increased the likelihood that consumption spending would slow in coming quarters.
+Participants at the September meeting also reported somewhat greater caution in the outlooks of their business contacts.
+Financial market conditions were expected to improve slowly at best; and even if conditions began to normalize, credit would likely remain noticeably tighter for many borrowers than had been the case during the summer.
+Furthermore, any weakening in the economy could itself have a negative effect on still-fragile credit markets, possibly leading credit conditions to tighten further.
+Regarding the other half of its mandate, to promote price stability, the Committee noted some improvement over the past year in measures of the trend component of inflation, such as core inflation.
+Moreover, slower growth in aggregate demand would help to ease pressure on resources.
+But inflation risks remained, including still-high levels of resource utilization and elevated prices for oil and other commodities.
+The Committee agreed that continued close attention to inflation developments was warranted.
+Overall, given the great difficulty of knowing how financial conditions would evolve or the extent of their effect on the economy, Committee members judged the level of uncertainty in the outlook to be unusually high.
+As you know, the Committee chose to cut its target for the federal funds rate by 50 basis points at the September meeting.
+This action was intended to help offset the tightening of credit conditions resulting from the financial turmoil.
+Risk-management considerations also played a role in the decision, given the possibility that the housing correction and tighter credit could presage a broader weakening in economic conditions that would be difficult to arrest.
+By doing more sooner, policy might be able to forestall some part of the potential adverse effects of the disruptions in financial markets.
+As most of the meeting participants saw growth likely to run below trend for a while and with the incoming inflation data on the favorable side, the risks to inflation from this action seemed acceptable, especially as the Committee was prepared to reverse the policy easing if inflation pressures proved stronger than expected.
+Since the September meeting, the incoming data have borne out the Committee's expectations of further weakening in the housing market, as sales have fallen further and new residential construction has continued to decline rapidly.
+The further contraction in housing is likely to be a significant drag on growth in the current quarter and through early next year.
+However, it remains too early to assess the extent to which household and business spending will be affected by the weakness in housing and the tightening in credit conditions.
+We will be following indicators of household and business spending closely as we update our outlook for near-term growth.
+The evolution of employment and labor income also will bear watching, as gains in real income support consumer spending even if the weakness in house prices adversely affects homeowners' equity.
+The labor market has shown some signs of cooling, but these are quite tentative so far, and real income is still growing at a solid pace.
+On the inflation side, prices of crude oil and other commodities have increased somewhat in recent weeks, and the foreign exchange value of the dollar has weakened.
+However, overall, the limited data that we have received since the September FOMC meeting are consistent with continued moderate increases in consumer prices.
+As the Committee noted in its post-meeting statement, we will continue to monitor inflation developments carefully.
+It does seem that, together with our earlier actions to enhance liquidity, the September policy action has served to reduce some of the pressure in financial markets, although considerable strains remain.
+From the perspective of the near-term economic outlook, the improved functioning of financial markets is a positive development in that it increases the likelihood of achieving moderate growth with price stability.
+However, in such situations, one must also take seriously the possibility that policy actions that have the effect of reducing stress in financial markets may also promote excessive risk-taking and thus increase the probability of future crises.
+As I indicated in earlier remarks, it is not the responsibility of the Federal Reserve--nor would it be appropriate--to protect lenders and investors from the consequences of their financial decisions.
+But developments in financial markets can have broad economic effects felt by many outside the markets, and the Federal Reserve must take those effects into account when determining policy.
+In particular, as I have emphasized, the Federal Reserve has a mandate from the Congress to promote maximum employment and stable prices, and its monetary policy actions will be chosen so as to best meet that mandate.
+Indeed, although the Federal Reserve can seek to provide a more stable economic background that will benefit both investors and non-investors, the truth is that it can hardly insulate investors from risk, even if it wished to do so.
+Developments over the past few months reinforce this point.
+Those who made bad investment decisions lost money.
+In particular, investors in subprime mortgages have sustained significant losses, and many of the mortgage companies that made those loans have failed.
+Moreover, market participants are learning and adjusting--for example, by insisting on better mortgage underwriting and by performing better due diligence on structured credit products.
+Rather than becoming more crisis-prone, the financial system is likely to emerge from this episode healthier and more stable than before.
+ConclusionI have sought this evening to put recent financial market developments in context and to explain the thinking behind the steps taken by the Federal Reserve.
+This has been a challenging period.
+Conditions in financial markets have shown some improvement since the worst of the storm in mid-August, but a full recovery of market functioning is likely to take time, and we may well see some setbacks.
+In particular, investors are continuing to reassess the risks they face and have not yet fully regained confidence in their ability to accurately price certain types of securities.

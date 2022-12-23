@@ -1,0 +1,207 @@
+The nation benefited from a productivity growth spurt that simultaneously raised real incomes, stock market valuations, the value of the dollar, and government revenues.
+The rise in revenues created the first federal budget surpluses the country has seen in some time, lowered federal interest payments, and improved the long-term finances of the Social Security and Medicare trust funds.
+The productivity growth spurt also held down unit labor costs, thereby improving the inflation-unemployment tradeoff.
+Since productivity is measured as the ratio of output to labor input, many things could in principle have caused such a growth spurt.
+But there is one factor that plays a strong role in macroeconomics textbooks, though it is little talked about in the financial press.
+The national saving rate is the portion of today's output that can be devoted to investment, which, by equipping workers with more capital, in turn feeds productivity growth and raises long-term living standards.
+Studies from Bureau of Labor Statistics (BLS) data suggest that half or more of the recent productivity growth spurt in the United States was due to capital deepening, with much of that facilitated by higher national saving.
+The numbers are shown in charts 1 and 2 (175 KB PDF).
+Chart 1 shows that both national saving and investment rates for the United States have risen noticeably recently, even with the cyclical dips in the early part of 2001.
+As can be seen in the chart, there was a large inflow of foreign capital in recent years, reflected in the difference between investment and saving.
+This inflow from abroad financed part of the capital deepening and resultant productivity change.
+But even though foreigners financed part of the U.S. investment boom, national saving rates went up as well, keeping real interest rates low and investment strong.
+In that sense, higher rates of national saving are among the unsung heroes of the good U.S. economic performance in the late 1990s.
+What, in turn, brought about this higher national saving?
+Chart 2 disaggregates overall national saving rates into two components: nonfederal and federal government saving rates.
+Nonfederal saving rates declined fairly steadily during the late 1990s.
+This means that more than all of the increased national saving was due to higher federal government saving.
+The country managed to replace the high federal deficits (dissaving) of the 1980s and early 1990s with high federal surpluses (saving) in the late 1990s.
+Instead of soaking up private saving to finance rising Treasury debt, as happened in the 1980s and early 1990s, the federal government of the late 1990s paid down debt and freed up funds for private wealth holders to invest in real capital, which generated real productivity gains.
+The fact that the federal government is retiring its debt has received much attention, but from a macroeconomic point of view the central point is that the high rates of national saving, generated largely by the high federal surpluses, have led to high rates of real capital investment.
+In that sense it is misleading to think of the federal surpluses as surplus funds: They have served a very important macroeconomic purpose.
+Although retiring outstanding Treasury debt was not, in this view, the basic aim of fiscal policy, outstanding Treasury debt levels do matter.
+When outstanding Treasury debt levels are high, as for most of the 1990s, high federal government surpluses can lead simultaneously to high national saving and debt repayment, which work hand-in-hand.
+The national saving finances investment and vigorous economic growth.
+The Treasury debt retirement reduces interest payments and future spending burdens.
+But as the Treasury debt is retired, these easy choices vanish.
+Once the debt is retired, the government will have to accumulate private or foreign assets, creating possible problems, or stop its contribution to national saving.
+The nation will have reached a crossroads.
+The obvious policy of debt repayment will have been pursued as far as possible: Then the nation will confront a more difficult question involving asset accumulation.
+In fact, the government could do several things to keep national saving high in such circumstances.
+After examining the numbers to see how close the nation is to this fiscal crossroads, I discuss five possible ways in which the United States could deal with this strange and unfamiliar issue of vanishing Treasury debt.
+I say at the outset that no way is perfect, but some or all might be very sensible ways to keep national saving high if and when the Treasury debt is paid down.
+I also stress that in this analysis I am speaking only for myself.
+Will Treasury debt really be paid down soon?
+There is skepticism that the Treasury debt will ever be retired, and I am not predicting that it will be.
+But it is clear that outstanding debt is being reduced at rates that, if continued, will result in low debt levels in the foreseeable future.
+Even if present rates of debt retirement do not continue, it will not be long before it becomes costly, or perhaps unwise, to retire remaining portions of this debt.
+Table 1 decomposes the $3.349 trillion of interest-bearing Treasury debt held by the public or central banks at the end of fiscal year 2000.
+This debt comes in two categories, marketable and nonmarketable.
+Examining the three categories of nonmarketable debt first, the biggest slice is the $178 billion of savings bonds, still being vigorously promoted by the Treasury because of their convenience as a saving vehicle for many individuals.
+These savings bonds are not likely to be retired to any significant degree soon, and could be increased.
+A minimal amount of nonmarketable bonds are held by foreign governments through reserve arrangements.
+And a large share of nonmarketable bonds is held by state and local governments in escrow accounts for tax reasons.
+Although the state and local tax arbitrage provisions have changed in a way that makes these bonds less important, it is still reasonable to suppose that the size of state and local holdings will not change significantly and that the overall amount of this nonmarketable Treasury debt will remain roughly at present levels.
+The part that can be more easily retired is the $2.993 trillion of marketable debt.
+Most of this debt is in relatively short-term maturities and can be retired simply by rolling it over when it comes due.
+But $420 billion held by the private sector matures after 2010, and some of it might be costly to retire if present holders require increasing premiums to part with the Treasury debt they value highly.
+It may also be unwise to retire this debt if it serves a valuable liquidity function for financial markets.
+A big set of holders of this marketable debt is central banks, here and abroad.
+The Federal Reserve System held $511 billion of this marketable debt, $70 billion of which matures after 2010.
+It has accumulated this debt in the process of expanding the base of money and reserves.
+The Fed can generate the monetary base in alternative ways that do not require Treasury securities, and it has already announced that it is studying several options for reducing its reliance on Treasuries.
+Foreign central banks, for which Treasury debt is a common international reserve asset, will need to make similar adjustments.
+Table 2 looks at alternative budgetary prospects.
+I assume that the nonmarketable debt is held constant, but that the marketable debt is steadily retired at rates given by the relevant budgetary scenario.
+There are some offsetting biases in this set of assumptions.
+On the one hand, some nonmarketable debt could be retired; on the other hand, some marketable debt, especially at the long end, will be difficult or costly to retire, or unwise to take out of circulation.
+The first row uses the Congressional Budget Office (CBO) baseline budget, amended to include the May budget actions by the Congress (the large tax cut plus planned appropriations increases).
+This amended baseline has surpluses averaging $346 billion over the 2002-2011 period and results in the marketable portion of the Treasury debt, including that held by the Fed, being fully paid off some time in fiscal 2010.
+Implicitly, this scenario assumes that by that time the Fed will have completely replaced all of the Treasury debt in its portfolio, as will other central banks.
+It also assumes that all other debt maturing after 2010 will have been bought back.
+If this debt is not retired, because it is costly to buy back or because the Treasury wants to keep some debt in circulation, the logic of the budgetary scenario implies that the Treasury will begin accumulating assets before 2010.
+The amended CBO baseline budget might be viewed as optimistic because it assumes that neither spending nor tax rates will violate the 2001 budget agreement while the government is accruing on-budget surpluses (surpluses over and above those generated by the Social Security trust fund).
+Suppose at the other extreme that spending and taxes are altered so that on-budget surpluses are zero over the 2002-2011 period and that the government surplus merely reflects the anticipated accumulation in the Social Security accounts.
+Politicians would not be financing general expenditures out of Social Security, which has become a political no-no, but they would be devoting the remaining surpluses to tax cuts or spending increases.
+While such an assumption seems more cautious and realistic, surpluses would still average $249 billion over the next decade, and the marketable debt would still be fully paid off by 2012, only two years later.
+Again, if some long-term debt maturing after 2012 is not retired, asset accumulation would begin sooner.
+For what it is worth, I will also introduce a third scenario, which I label the "fully funded federal budget."
+In the unified federal budget there are now four main retirement-related trust funds--for Social Security (far and away the largest), Medicare part A, military employees' retirement, and civilian employees' retirement.
+Suppose that each trust fund runs surpluses large enough to cover future anticipated benefit costs: over a seventy-five year period for Social Security and Medicare, and indefinitely for the other trust funds.
+These standards are slightly less restrictive than the standard the government now requires of private employers under ERISA.
+The resulting surpluses in the retirement accounts are matched, dollar-for-dollar, by improvements in the net financial position of the entire federal government.
+This means that the rest of the budget is balanced outside of the cash flow accumulations of these four trust funds.
+Taxpayers in effect get back all revenues not used for spending or to finance these trust fund obligations.
+This set of assumptions also means that the surplus is allowed to flow through to generate real tangible private capital to back these future benefit costs.
+In this event the surpluses average $582 billion, the outstanding marketable debt is fully retired in fiscal 2007, and asset accumulation begins sooner if the long-term debt is not retired.
+The most realistic of these scenarios, with only the Social Security surplus being used to retire debt, still has a payoff date a decade away, giving adequate time to plan.
+But as was said, it may be difficult, costly, or unwise to retire some of the long-term debt maturing after that time, implying that asset accumulation choices might have to be made within a decade.
+Moreover, the process of planning and changing laws will itself take time.
+If the nation wants to preserve its high national saving rates, which I argued above is an economic desirability, it is time to start analyzing options.
+Option 1: Private Saving The macroeconomic goal is to promote national saving, not federal saving per se.
+It is theoretically possible to continue high national saving rates even if taxes are cut and debt retirement stops.
+But to preserve national saving the tax cuts would have to be in a special form: They would have to increase private saving by nearly the full amount of the tax cut.
+Theoretically possible, but I fear not practically possible.
+There is a long history of economic research on the determinants of private saving.
+The fall 1996 Journal of Economic Perspectives includes a number of such studies, some of which find private saving responsive to targeted tax incentives, some of which do not.
+My reading of the evidence from those studies is that a very generous estimate of the effect of targeted tax incentives is something like a 50 percent offset.
+That is, if private saving incentives were increased by $100 billion, an enormous amount, national saving would drop by something like $50 billion, and most likely more.
+Hence, even a significant tax cut targeted to private savers is likely to cause a sizable drop in national saving.
+The extreme variant here would be to go all the way and replace our present income tax with a consumption tax.
+There are good reasons for such a shift, and indeed I even advocated such a shift several years ago.
+I frankly still have some fondness for a consumption tax, but the political and institutional impediments to its adoption are huge.
+If we are talking about ways to raise private saving significantly within a decade, it seems that we have to look beyond private saving incentives or a consumption tax.
+Option 2: Social Security reform, liberal style The Social Security, Medicare, and the other retirement trust funds mentioned above now own a large amount of special Treasury debt, $1.848 trillion at the end of fiscal 2000.
+Since this is not held by the private sector, it is not included in table 1.
+It would require a legislative change, but these funds could be invested in private assets, replacing sizable portions of their current Treasury holdings with these private assets--stocks or bonds--and making an equivalent amount of Treasury securities available to the market.
+Depending on how much debt is replaced, there would be much more outstanding marketable Treasury debt for the government to pay off.
+Something very close to this option, where the largest of the funds, the Social Security trust fund, would back future benefits claims with private assets, was suggested by President Clinton in 1999.
+The inspiration for Clinton's proposal was to raise the rate of return on Social Security's assets, a prospect that many felt problematic because capital markets should equate forward-looking risk-adjusted rates of return on different assets.
+But my new justification for trust fund asset diversification would not be based on rates of return.
+The idea would simply be to increase the stock of outstanding marketable Treasury debt, without changing the overall national level of stocks or bonds.
+Such a change would have costs.
+There would be modest administrative costs in setting up a private investment board for the trust funds and even larger potential costs of political interference in the allocation of investment funds or the business affairs of the firms with stocks and bonds held by these trust funds.
+These are similar to the costs that could be incurred were the Treasury itself to invest in private assets, discussed further below.
+If these costs were not large, or could be managed, such a change could greatly extend the time before the debt repayment issue must be confronted.
+Indeed, in the budget scenario where the only surplus is for Social Security, the issue would possibly never be confronted because the Social Security surpluses disappear once the baby boom generation begins to claim benefits.
+In this scenario there might well be no date in which outstanding Treasury debt would fully be retired.
+Option 3: Social Security reform, conservative style Conservatives often advocate privatizing some or all of Social Security, say by directing some present-day payroll contributions into individual accounts.
+President Bush has spoken favorably about this idea and has recently formed a committee to analyze ways to implement it.
+These proposals usually refer to the annual inflow of payroll taxes and imply that over time some claims for future Social Security benefits are extinguished in exchange for explicit assets in individual accounts.
+It is possible to make this adjustment much more quickly just by switching claims and assets.
+I will analyze this asset conversion as a third option, with the understanding that the same comments would also pertain to more gradual partial privatizations of Social Security.
+Presently, the private sector has implicit claims, or accrued benefit promises, under Social Security of approximately $10 trillion.
+Suppose that some portion of these claims, say 20 percent, were reduced in exchange for Treasury bonds with the same present value.
+As described above, this switch could be made at one time or gradually over time.
+The new bonds--which I will call "recognition bonds," a term used by Chile when it implemented a one-time conversion--would be placed in individual retirement accounts with the stipulation that funds could not be spent before retirement, perhaps along with other safeguards.
+But the accounts would be individual, and individuals could manage them.
+Specifically, individuals could trade their government recognition bonds for private assets, stocks or bonds.
+By this conversion, Social Security would be making the implicit claims on it explicit, which is not a major change because historically nearly all of the implicit claims on the Social Security trust fund have been met.
+But the change would also greatly increase the stock of outstanding marketable Treasury debt.
+Taken far enough, there would never be a pay down date for any of the budget scenarios in table 2.
+The costs of this plan would be essentially those that are always raised with Social Security privatization.
+Could individuals manage their accounts?
+Would they invest wisely?
+Would they spend their recognition bonds early in their retirement, saving nothing for later?
+Safeguards could be built in to assure that investment choices and spend out rates would be prudent, but there will still be privatization risks.
+At the same time, and as with the other options, these risks or costs should be weighed against the advantages of continued saving and capital accumulation.
+As a final comment on this option, though it has been very difficult for liberals and conservatives to compromise on anything about Social Security, there is no reason in principle why a joint plan could not be adopted, with some doses of option 2 and some doses of option 3.
+Option 4: Treasury accumulation of domestic assets The fourth option is for the Treasury simply to accumulate private domestic assets.
+The costs are essentially those of Social Security asset accumulation, though perhaps a little higher because it might be easier for politicians to tamper with the private assets owned by the Treasury than with assets owned by the semi-independent Social Security system.
+While these costs are real, the shopping list, given in table 3, is also huge.
+All told, the private assets the Treasury could purchase now total about $46 trillion, roughly half of which is in the form of private equities.
+To be sure, there is some double counting in the table, which includes both assets and liabilities of the same financial institutions.
+It might indeed be disruptive for the Treasury to enter simultaneously markets on the asset and liability sides of financial institutions.
+But even with some appropriate allowance for double counting, these markets are large and growing rapidly.
+By the time the Treasury gets around to accumulating assets, its purchases would seem to be a drop in the bucket in most of the markets listed in table 3.
+The real cost of this option, as with the option where the Social Security fund purchases assets, is whether these purchases could be made without interfering in the normal affairs of private business.
+The interference could take many forms.
+One form is that in purchasing some assets and not other assets, the Treasury might influence the structure of interest rates and distort the allocation of capital.
+In particular, businesses too small to qualify for stock indices could be placed at a competitive disadvantage.
+Another form of interference would arise if the Treasury were to find itself under political pressure to prop up failing businesses or make otherwise uneconomic investments.
+A third form is if the Treasury were to threaten to sell the stocks or bonds of private businesses, say tobacco companies or drug companies that distribute abortion pills, in pursuit of some political objective.
+A fourth is that the federal government might have a conflict of interest in regulating firms it also holds stock in.
+One could imagine many other types of difficulties.
+There are some assets where the marginal potential interference is not very great, because there already is interference.
+One example is the first item, the $618 billion of securities for which there is an explicit Treasury guarantee, floated mainly by Ginnie Mae.
+Given the guarantee, these securities are reasonably close substitutes to Treasury debt itself, and the economic effects of Treasury purchases of these securities would seem to be modest, similar to those if the Treasury retired its own debt.
+Purchases in the explicit guarantee market would extend the various payoff dates by a few years, depending on the budget scenario.
+But it is important to note that these explicit guarantees do not include the $1.7 trillion of government sponsored agency securities and the $1.8 trillion of mortgage pass-through securities floated mainly by Fannie Mae and Freddie Mac.
+On those there is no Treasury guarantee.
+For the domestic non-guaranteed assets in the table, a few important principles might serve to minimize potential distortions.
+Management of the Treasury asset accumulation fund could be placed in the hands of an independent board, charged only with the task of managing this fund.
+Members could be appointed by the President, confirmed by the Senate, and serve staggered terms to increase their political independence.
+The board could select fund managers on the basis of competitive bids.
+The fund managers could be authorized to make only passive investments in securities or bonds, or in broad index funds.
+The board could balance its holdings among these arms-length funds to neutralize further its impact on differential rates of return and costs of capital.
+The board could also require fund managers to commingle federal money with money from private accounts, thereby generating another constituency for non-interference.
+To minimize potential political interference further, the Treasury should be prevented from voting its shares.
+It could either hold non-voting stock or it could be required to vote its shares in a way that reflects the votes of other stockholders.
+There is a big and hotly debated empirical question as to how such an arrangement might work out.
+The most relevant experience is from state and local pension funds, also governmental entities holding large stocks of private assets.
+In the 1970s and 1980s there were several publicized instances where these funds sacrificed investment objectives to pursue political goals.
+Lately the experience is more mixed--recent studies indicate that social investments account for a minor share of most pension fund assets and have had relatively small effects on portfolio rates of return.
+What is unclear is whether this recent experience reflects new wisdom and safeguards for the funds, or simply the good economic times of recent years.
+Will the pressures for uneconomic investments return if the economy does not do as well?
+Option 5: Treasury accumulation of foreign assets There is an obvious way for the Treasury to accumulate assets without raising the political interference issue: simply buy foreign bonds.
+Again, the amounts available for purchase are huge.
+Using the sovereign bond market only, there are nearly $4 trillion worth of outstanding European bonds, $4 trillion worth of outstanding Japanese bonds, and about $2 trillion worth of outstanding bonds from other countries.
+The Treasury could simply hold these bonds, much as other governments now hold Treasury bills.
+Most of the bonds trade in large and active markets, and there seems to be minimal risk of political interference or broader foreign policy complications.
+At the macroeconomic level, national saving can be thought of as a way of building claims on other countries, and Treasury accumulation of foreign assets would simply be part of this process.
+On the plus side of the ledger, were the Treasury to accumulate foreign assets it would follow the precedent of other countries around the globe that for one reason or another have found themselves in similar circumstances.
+Norway's Petroleum Fund, Singapore's Government Investment Corporation, and Hong Kong's Exchange Fund have all been recipients of large accumulated surpluses, and have all invested the bulk of their holdings in foreign assets.
+All arrangements seem to have worked very well.
+There is, of course, potential exchange-rate risk for the fund itself.
+If the dollar were to rise, fund holdings would suffer capital losses; if the dollar were to fall, there would be capital gains.
+But the usual assumption is that foreign exchange markets are efficient, implying that on a statistical basis these exchange-rate risks should balance out.
+But there are at least two potential difficulties in holding foreign assets.
+One is politics.
+Will Congress accept investing assets in foreign bonds, over and above the stock of local companies?
+On first blush, it would seem that the answer is no, but more careful consideration suggests that the question might be complicated.
+Political interference works both ways.
+For every struggling firm that might want the Treasury to buy some of its stock, there are probably several firms that have no desire for the Treasury to be an important stockholder.
+And there are even more firms that do not want the Treasury to hold stock in their competitors.
+In view of these crosscurrents, it is easy to imagine a political truce, where U.S. businesses decide the best thing is to keep the Treasury out of domestic stock and bond markets and just have it buy foreign assets.
+The second problem refers to the overall value of the dollar: Will Treasury purchases of foreign assets lower the dollar?
+First off, $560 billion of the assets mentioned above are already dollar-denominated, implying no foreign exchange impact.
+Beyond that, such purchases would be equivalent to a sterilized foreign exchange intervention, under which the United States would be selling dollars to buy foreign assets without changing monetary policy.
+Most academic economists find such interventions to have little impact on exchange rates.
+Finally, it is not clear that building up Treasury stocks of foreign assets would represent a large change from what is going on now.
+At the present time the Treasury is gradually taking out of circulation its own securities, assets that are highly attractive to foreigners, with foreigners and domestic holders presumably spreading their freed-up funds across foreign and domestic assets in general.
+In the new regime, the Treasury would be explicitly purchasing foreign bonds, again freeing-up funds to be spread across foreign and domestic assets in general.
+The dollar has been very strong in the present regime, and it is not obvious that things would change much in any new regime.
+In a deeper sense, discussion on determinants of exchange rates seems ever-evolving.
+Most macroeconomics textbooks feature the idea that high fiscal deficits causing high interest rates should attract capital and raise the value of the dollar.
+But lately it has seemed that high fiscal surpluses causing low interest rates but high investment, productivity change, and stock values might also raise the value of the dollar.
+And the point of a regime of foreign asset accumulation would be precisely to keep investment and productivity strong, and quite possibly the dollar strong.
+In the end it seems hard to tell what would happen to the dollar in this option.
+Conclusion The high government surpluses of the late 1990s have led to high rates of national saving, which has helped finance high rates of capital investment and has been an important factor in the recent upsurge in productivity.
+From a macroeconomic standpoint it is highly desirable to remain on a fiscal track that produces budget surpluses or maintains high rates of national saving in other ways.
+As long as Treasury debt can be retired, there is no real difficulty with this course of action.
+Government surpluses can promote national saving and investment and simultaneously retire debt to lower federal interest burdens.
+But once the outstanding Treasury debt gets to low levels, new choices will have to be made.
+To maintain its direct contribution to national saving, the government will either have to devise highly successful private saving incentives, accumulate private or foreign assets directly, or accumulate assets indirectly through the Social Security system.
+There are ways of making the accumulations, either by having Social Security or the Treasury hold passive portfolio balance funds or foreign assets, or by creating private individual accounts within Social Security.
+While each of these options entails costs, if managed properly, the distortionary costs of such arrangements could be a small fraction of the huge benefits from the much larger capital stock that would result from continued high rates of national saving and investment.
+Should existing federal surpluses continue, the relative costs and benefits of these different arrangements should be weighed, and new asset management policies should be explored.

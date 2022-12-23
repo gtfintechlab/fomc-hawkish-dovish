@@ -1,0 +1,136 @@
+The financial press is full of reports on talks by member X reporting that growth is a bit strong (weak), the economy is working its way over a hill (through a valley), inflation (deflation) is a clear (remote) threat.
+There seems to be an agreed code for translating these statements into the likelihood that member X will vote to raise (lower) interest rates at the next meeting, and the federal funds futures market responds accordingly.
+Today I do not want to take part in that exercise.
+I will have nothing to say about the current status of the economy or my likely vote at the next meeting.
+Rather, I'd like to step back and ask what, in the end, is the Federal Reserve trying to do?
+What is its long-term strategy?
+Of course, in doing that, I am giving my own personal view of this strategy, not speaking for others on the Committee.
+As many as eighteen other versions of this talk could be given, and some might show important disagreements.
+I start my discussion of monetary strategy by alluding to fiscal policy.
+Most economists feel that fiscal policy should be anchored in the long run by the need to preserve overall national saving rates and prevent explosive growth in government debt.
+Over this long term, it is desirable to have budgets roughly in balance; or, to say it another way, the long-term budget constraint of the government should be satisfied without requiring unacceptable increases in future tax rates or cuts in future spending.
+This long-term anchoring permits short-term flexibility in the budget, allowing it to respond to more immediate cyclical developments through some combination of automatic fiscal stabilizers and appropriately timed discretionary policy interventions.
+In my view, monetary policy should be similarly structured.
+The long-run anchor is clearly price stability.
+Following Milton Friedman, inflation in the long run is a monetary phenomenon, as is deflation.
+Hence, the long-term goal of the Fed is to keep prices stable by some definition, avoiding either inflation or deflation.
+But the Federal Reserve has a dual mandate--to achieve not only price stability but also the maximum sustainable rate of employment.
+Fortunately, under most economic circumstances, both objectives should be realizable.
+If prices are stable in the long term, employment should grow along something like a full-employment path.
+And, as with fiscal policy, if the long-term anchor is holding, the Fed should have the added ability to respond to short-term fluctuations in employment by raising or lowering interest rates without exciting market fears about inflation or deflation.
+To earn this credibility the Fed should behave in a systematic way--generally lowering interest rates when employment rates are, or would otherwise be forecast to be, below the long-term sustainable rate; and raising interest rates when employment rates are, or would otherwise be forecast to be, above the long-term sustainable rate.
+Several practical modes of operation have been suggested or used to accomplish these ends.
+The most common is flexible inflation targeting (FIT), a monetary regime now used successfully by about twenty countries around the world.
+Under FIT, the central bank or the government announces an inflation target and tries to hit it, not in the present quarter but over a one- or two-year period.
+The targeting regime is usually flexible to permit the bank to respond to unforeseen shocks.
+The most successful FIT regimes are also symmetric, permitting or requiring expansionary responses to an inflation rate that is below the target.
+In the absence of symmetry, the FIT regime has no way of dealing with either recession or deflation.
+A second embodiment of the flexible anchoring approach is the so-called Taylor rule, named after John Taylor.
+Under the Taylor rule, the central bank would try to establish a normal level of short-term interest rates but would raise rates as inflation threatens and lower them as unemployment threatens.
+In a wide variety of circumstances, a sensible monetary response to a demand shock would look much the same for an FIT central bank as for a central bank following the Taylor rule.
+One distinction is that the Taylor rule does not require the central bank to announce a formal inflation target.
+But even this distinction may be more apparent than real if the central bank following a Taylor rule actually follows a reasonably steady inflation policy.
+The Fed, for example, does not follow FIT and has never announced a formal inflation target.
+But it has told the world many times that of all the available measures, it regards the price index for core personal consumption expenditures as the most realistic indicator of actual inflation.
+The time series for this preferred indicator shows that, over the past seven years, inflation has averaged 1.7 percent per year, not much above what many consider to be an inevitable quality-change bias in the index, implying a true inflation rate of close to zero.
+The standard deviation is only 0.12 percent per year.
+Pretty stable prices, and a pretty reasonable indication of an inflation target for a central bank that has never announced one.
+A second possible distinction between FIT and the Taylor rule involves the treatment of lags.
+As is well known, monetary policy works with long lags: a policy change influences aggregate demand in a distributed lag pattern beginning soon after the change and extending as long as eighteen months or two years.
+This lag pattern places a premium on monetary policy being ahead of the curve, in current jargon.
+FIT is clearly written so as to be ahead of the curve.
+Taken literally, a simple Taylor rule, with the central bank responding to current values of inflation and unemployment rates, is not.
+It could, however, be modified to respond to forward-looking information and thus moved in the direction of FIT.
+Most members of the Federal Open Market Committee consider the task of staying ahead of the curve to be among their most challenging job requirements.
+Economic data series are released every day, and the usual pattern is that some indicators point upward and some point downward, many have seasonal adjustment problems, and many are significantly revised in subsequent months and years.
+To ascertain true economic signals from this welter of data is quite challenging.
+But the lags in policy are there, and we must make the effort.
+Hence, although a strategy for policy response may be articulated in different ways, the differences may not be so large in actual practice.
+However the policy strategy is articulated, anchoring it on some concept of long-term price stability is important, as is permitting short-term flexibility to deal with shocks; essentially the same goals most economists have in mind for fiscal policy.
+It is also important to stay ahead of the curve.
+With that as a preamble, I now turn to several arguments about this monetary strategy.
+Money versus Interest Rates For most of the post-World War II period, monetary economists have vigorously debated whether the Fed should target money or interest rates in setting policy.
+In the academic literature, the issue depends on the nature of the shocks.
+As William Poole has shown, if spending shocks predominate, it makes sense to target money, or monetary quantities; if money demand shocks predominate, it makes sense to target interest rates.
+In the short run, money demand shocks do seem to predominate, and most central banks in the world now operate in terms of some short-term interest rate.
+This debate is heard much less now than it was two decades ago.
+But issues from the debate still crop up.
+One is how active should central banks be?
+Should they change interest rates rarely, as the European Central Bank appears to believe?
+Or should they change rates quite readily in response to conditions, as at the Fed?
+Here's a way of looking at that question.
+Interest rate targeting can be thought of as monetary targeting with sterilization of shocks in the money demand function.
+Under pure monetary targeting, interest rates would fluctuate with shocks in spending.
+Under sterilized monetary targeting, interest rates would still fluctuate with shocks in spending.
+In a period of many such shocks, interest rates should fluctuate, and a central bank that targets rates should permit them to fluctuate.
+Thus, I have always felt it inconsistent to argue, as some do, that central banks should look partly to monetary targeting and be reluctant to change interest rates.
+There may, of course, be some value in the smoothing of interest rate movements.
+Many academic versions of the Taylor rule contain a smoothing term that can lead to economic gains.
+While recognizing the value of smoothing, I still feel that in the interest rate targeting regime the Fed now uses, we should at times be ready to change interest rates quite quickly in response to economic conditions.
+A second issue involves extreme ranges.
+In normal, middle-ground ranges, most central banks seem to feel that interest rate targeting works fine.
+But at the extremes, it might not.
+When inflation was rampant in the United States in the early 1980s, for example, the Fed under Chairman Paul Volcker for a time adopted money targeting to provide a clearer basis for policy.
+At the time, inflationary expectations were exploding and it became very difficult to know what nominal interest rates should be.
+It was easier for the Volcker Fed to set the rate of monetary expansion at a sustainable long-term value consistent with stable prices and let nominal interest rates find their own level.
+One would make a different claim on the deflation side.
+When short-term interest rates hit zero, the central bank may have to go back to monetary targeting to distinguish more-expansionary from less-expansionary policies, all of which entail short-term nominal interest rates close to zero.
+In these circumstances, with prices actually falling, the central bank may have little choice but to expand liquidity quite rapidly in the hope that the liquidity will arrest deflation, even if nominal short rates remain stuck in the neighborhood of zero for a range of monetary growth rates.
+Bubbles The issue du jour in monetary policymaking is asset price bubbles.
+Should the Fed have foreseen the stock market bubble of the late 1990s and limited it in some way?
+I am not going to summarize the extensive debate on this issue, but I will make just one point.
+Our mandate tells us to stabilize employment and the prices of goods and services, not asset prices.
+It may be that stabilizing asset prices is the way to stabilize goods prices and employment, but one can think of many situations in which that does not seem to be the case.
+In the late 1990s, for example, inflation was low and near a stable price target, and inflation showed few signs of accelerating.
+Productivity, on the other hand, was clearly accelerating and apparently supporting a boom in stock prices.
+We now know that faulty accounting practices may have aided those stock prices, but the full extent of these accounting problems was not clear then, even to those who looked mainly at the sanitized version of profits in the national income accounts.
+One can debate interminably the proper monetary response in such circumstances, but it certainly seemed sensible at the time for the Fed to focus on its primary indicators, inflation and unemployment, and not to try to target asset prices.
+A number of academic economists writing then supported that approach.
+Generalizing from this example, my own view of the matter is that whether we follow FIT or some version of the Taylor rule, we ought to have a forward-looking focus on inflation and unemployment.
+We ought to be anchoring policy to the goal of long-run price stability and responding to output shocks or other variables in a way consistent with this long-term price stability.
+There may be times when asset prices become one of these other variables, or when rapid changes in asset prices may threaten the long-term stability of either of our primary goals.
+In such cases we should not try to target asset prices, but we should take asset prices into account in our formulation of policy.
+That is as far as I want to go and as far as I personally think the Fed should go.
+Exchange Rates One doesn't hear so much about it now, but in former days there was also a huge debate about exchange rate policy.
+Should monetary policy be guided by the need to maintain currency parities or by the domestic needs of the economy, with currency rates left free to find their own levels?
+In other words, fixed or floating exchange rates?
+There seems to be an emerging consensus in favor of what is known as the polar approach.
+For areas in which trade is extensive, such as the European Union or, indeed, the United States, transaction costs can be minimized by fixed rates within the union or by the extreme case of fixed rates--that is, by adopting a common currency.
+But outside the union, flexibility is necessary and countries have gone over to floating rates.
+Some countries have tried intermediate regimes such as managed pegs, but these regimes have often broken down.
+Let me stress just one central point in this extensive debate.
+Monetary policy needs an anchor.
+When fixed exchange rates covered the whole world, that anchor was maintaining currency parities, or keeping all exchange rates stable.
+Now that exchange rates are free to find their own level, for floating rate countries and outside the currency union, that anchor is gone.
+That is why it is all the more important for floating rate economies and unions to anchor monetary policy in terms of long-term price stability.
+The asset price question and the exchange rate question are connected in an interesting way.
+In each case, many observers seem to want an exception--yes, monetary policy should target inflation, but it should also worry about asset prices (or exchange rates).
+In general, granting such an exception is simply not possible.
+In each case, my own preferred approach is to take the other variable into account in performing our main job of dealing with inflation and unemployment but not to target asset prices (or exchange rates).
+Though a consensus on exchange rate regimes may be emerging, the related issue of how exchange rates respond to monetary changes seems anything but settled.
+In the textbook world of Mundell-Fleming, unanticipated monetary ease leads to lower interest rates, a drop in the home currency's value, and a stimulus to net exports.
+This chain of events often occurs in emerging-market countries.
+But there are a disconcerting number of exceptions for developed countries.
+For these countries unanticipated monetary ease often seems to lead to improved prospects for equity rates of return, or to assurances that the central bank is doing its job, and to a rise in the home currency's value.
+Rationalizations of these exceptional cases often seem reasonable on their face but of course are exactly contrary to the textbook models.
+As policymakers, we struggle with this issue.
+As a former academic, I cannot help but feel relieved that I don't have to teach this material any more.
+Transparency Another issue on which prevailing opinions have changed dramatically in recent years involves transparency.
+Policymakers, of course, need to discuss various policy options in confidence.
+Doing otherwise will not get the most competent policymakers to the table, and it will not promote frank and open discussions.
+But I draw the line right there.
+Once policy is set, it should be communicated in clear language to the public.
+If the central bank is implementing policy by setting interest rates, what are these target interest rates?
+If there are obvious factors the central bank is worried about, what are they?
+If the situation is likely to change with new data, what might the new data be showing?
+In the last decade, including my five years on the Federal Open Market Committee, the Fed has made significant advances in transparency.
+We now announce the target federal funds rate at the close of each meeting, we announce our view of the balance of risks, we supplement this view with a short summary statement, and we announce the vote.
+The Committee minutes continue to be released about six weeks later, and market commentators and the media examine these minutes quite carefully for clues about future policy changes.
+The full transcripts of our meetings are released five years later, too late to be relevant for current debates but still informative about the policy process and the analyses behind the ultimate decisions.
+With all these changes, the Fed is now in my view a very transparent institution, vastly more so than it was a decade ago.
+I favor preserving that transparency, and I would not be averse to extending it in sensible ways, although no sensible extensions spring readily to mind.
+Transparency is valuable from a democratic standpoint.
+After all, monetary policy is important and people should know how it is being set.
+It is also valuable from a market efficiency standpoint, in that markets now seem to immediately reflect the thinking of the Fed.
+In fact, I often joke that when new data come out, I can pick up the newspaper and learn what I think of these new data, often with pretty good accuracy.
+These are a few of the main issues, and my thoughts, on present-day monetary policy issues.

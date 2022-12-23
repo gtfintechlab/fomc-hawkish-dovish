@@ -1,0 +1,150 @@
+The reality of change in banking--significant and dramatic change--has become, well, humdrum.
+It has, in fact, become so well understood and so real that the Congress has finally enacted financial modernization legislation.
+This is not a cheap shot.
+The Gramm-Leach-Bliley Act was a massive and complicated effort to make the legal structure consistent with the new reality while accommodating the myriad of new and old interests affected by the economic and legislative changes.
+Arguably, the legislation, to a considerable degree, validated in law changes that had already occurred--or were soon to occur--in the marketplace with the aid both of loopholes and of regulatory actions.
+Nevertheless, it is worth emphasizing that structural and other efficiency gains brought about by statutory revision are important in and of themselves.
+The supervisory response to change--the real theme, I hope, of this conference--is quite another matter.
+That is to say, the official response of the banking agencies to the changes in banking is, I think, incomplete.
+To be sure, we have made some real progress with risk-focused examinations that recognize the reality that effective risk-management systems are critical to the safe operation of a modern bank.
+Similarly, the use of models to determine capital for market risk on traded securities and derivative positions is another genuine step forward.
+But, despite these advances, our capital rules have been undermined by the state of the art.
+The one-size-fits-all risk weight for credit risk on commercial loans has induced creative ways to arbitrage whenever regulatory capital exceeds economic capital.
+At the same time, banks have taken advantage of being undercharged for capital for loans with above-average risk.
+The result has been a greater emphasis by banks on unproductive capital arbitrage schemes and bank capital ratios that are significantly less relevant and informative than intended.
+Indeed, as banks become more adept at internal risk classifications, their incentive to arbitrage economic and regulatory capital can only increase, and regulatory capital will carry less and less meaning.
+In addition, the growing scale and complexity of our largest banking organizations--and, I might add, not only ours but also those of many other nations--raises as never before the potential for systemic risk from a significant disruption in, let alone failure of, one of these institutions.
+We seem, in this regard, to face the unattractive options of exposing our economies to additional risk in order to obtain financial efficiencies and market choices or of imposing more regulation with both its attendant moral hazard and inefficiencies.
+Bank supervisors have been trying to respond to this new reality, to adapt to change as it were.
+The response is taking longer than we wish.
+But it is important to get our response as right as we can because so much is at stake.
+At the Fed, we are working through three major channels: through the evolution of the Federal Reserve System's supervisory practices in cooperation with the other banking agencies; through the Basel Committee on Banking Supervision, where we meet with officials from other G10 countries; and through work in a System group called the F-6, which I chair.
+Much of the effort in each case is directed at what we call the Large Complex Banking Organizations or LCBOs.
+By talking of F-6s and LCBOs, I'm about to share with you some of the secrets of the temple.
+You, too, will soon be able to talk the talk of the central banker by spicing your conversation with the same catchwords.
+Before I discuss the evolution in supervisory practice in the Federal Reserve System and other agencies, let me briefly note the highlights of our work with the Basel supervisor's committee, for this work sets the stage for some of the issues I want to discuss with you.
+For those of you interested in the economics of bank supervision, the research of Dave Jones and John Mingo on capital arbitrage, Mark Carey and Bill Treacy on internal risk classifications, and Mark Flannery and Charlie Calomiris on market discipline contributed importantly to the work on improving the international accord in Basel.
+As you know, the evolving consensus of the Basel supervisors is to base a new accord on the so-called three pillars of capital, supervision, and market discipline.
+More specifically, the capital pillar--at least for larger banks, as I will discuss momentarily--is to be designed so as to link regulatory capital more tightly to the same economic capital that banks use for their own internal management.
+Large banks already have been directed by the Fed to create internal risk classification systems for such purposes, and cutting-edge banks have made substantial progress.
+We fully anticipate that within the next decade, or less, these systems will evolve into full internal risk models that could be used to measure market and credit risks throughout large banks.
+Bankers do not want their institutions to fail and--with exception of when failure may be close at hand--never plan to take excessive risk with inadequate capital.
+They will, no doubt, strive on their own to establish strong and meaningful internal risk classification systems and internal risk models.
+But the second pillar--supervision--is to be used in a "trust, but verify" mode.
+That is, a major role of supervision will be to independently test and compare systems and models to best practices.
+This is already occurring at the Fed and the Office of the Comptroller of the Currency (OCC).
+Although supervisory reviews of risk management systems will become even more important in the years ahead, they are not enough by themselves.
+As large banking institutions become increasingly complex--and fund themselves more from non-insured sources--market discipline and its prerequisite, public disclosure, must play a greater role.
+Indeed, increased transparency and market discipline can also help substantially to address concerns about increased systemic risk associated with ever-larger institutions and to avoid the potentially greater moral hazard associated with more-intrusive supervision and regulation.
+The edifice that these pillars are to support is not designed to cover all banks in the United States.
+For most, the existing system works just fine with only minor modifications and probably will continue to do so for the foreseeable future.
+Rather, the edifice covers the large, complex banking organizations that engage in capital arbitrage and often operate at the edge of the envelope in risk-return tradeoffs and in the creation of new instruments and strategies.
+Thus, the U.S. banking agencies have been strong supporters of "bifurcation" in the Basel deliberations--central bankese for having separate policy applications for large banks and for other banks.
+Indeed, the OCC has had a large bank program for some time, and the Federal Reserve has established a separate supervisory arrangement for LCBOs.
+The Fed has designated about thirty entities--accounting for about 60 percent of total U.S. bank assets--as LCBOs.
+The number and distribution of these organizations will no doubt change over time; one-third, by the way, are now foreign owned, a fact that vividly highlights the globalization of banking.
+Each LCBO has a designated team of Federal Reserve supervisors whose job is to thoroughly understand the organization's business strategy, management structure, key policies, and risk control systems.
+Each team is led by a senior examiner--designated a central point of contact, or CPC.
+The CPC and his or her team of examiners draw on specialists in risk management, payments, credit- and market-risk modeling, information technology, and other technical areas.
+I've already mentioned the increasing emphasis of the OCC and the Fed on the largest banking organizations as well as our emphasis on examining and evaluating risk management systems.
+In addition, last summer the Fed established a supervisory policy requiring LCBOs to evaluate their capital relative to their internal risk evaluations.
+Jointly with other agencies, we have also established policies on the use of synthetic credit instruments in securitizations and will soon announce a policy on asset sales with recourse.
+All of these efforts are designed to limit the disproportionate reduction in regulatory capital requirements that might otherwise occur.
+The Federal Reserve is also dealing with implications arising from changing market structures through senior level ad hoc groups.
+During the past year, for example, the Board formed a group, the previously mentioned F-6, to study the systemic implications of changing banking markets.
+The group was originally composed of three Federal Reserve governors and three Reserve Bank presidents and chaired by me.
+Along the way, we added a fourth president but didn't change the name.
+The F-numbered ad hoc groups, with the number depending on size, have existed from time to time for the last ten years or so and began when a governor decided to make a bit of sport of the various G-designated groups that meet internationally.
+Now you know all of our secrets!
+During 1999, the current F-6 commissioned and reviewed several studies that have played a significant role in shaping our evolving supervisory policy.
+These studies addressed issues involving systemic risk, the potential regulatory role of subordinated debentures, the value of public disclosure, staff resource needs for supervising LCBOs, and other supervisory issues.
+I would like to discuss some of these topics in greater detail.
+Public Disclosure Greater public disclosure at LCBOs is an idea whose time has come.
+As my colleagues and I struggled with the complexities of capital reform in Basel, the systemic concerns of increasing scale and concentration, the rising weight of the "C" in LCBO, the burden and moral hazard of additional supervision and regulation, and the accelerated speed with which markets respond to shock, we concluded that harnessing markets to work in our behalf was a necessity, not a choice.
+And, as I have already noted, markets cannot operate well without transparency.
+Put another way, the prerequisite for market discipline is more rapid dissemination of information by the regulators and, more importantly, the direct provision to market participants of critical and timely information about risk exposures by the LCBOs themselves.
+We are painfully aware of a potentially difficult downside to public disclosure: the herdlike withdrawal of funding in the event of bad news or surprise.
+As one of my colleagues notes, the good news is that market discipline will work.
+The bad news is that market discipline will work.
+That risk is there but needs to be balanced by the ex ante change in bank behavior that expanded public disclosure will induce.
+We should also consider that more disclosure will induce changes in funding costs when individual banks take on more risk.
+Such responses should increase bank safety and soundness and reduce risks and surprises.
+Market discipline is not, of course, the only instrument for disciplining the risk-taking of banks; it may not even be the strongest pillar among the three.
+But I have great expectations that it will become an effective supplement to the supervisory process.
+I also hope that it will, at least to some extent, substitute for additional future regulation, if not permit a reduction in regulation.
+However, if public disclosure does not induce meaningful market discipline, there could be significant additional regulation--and more intrusive supervision--as organizations increase in scale and complexity.
+A public version of the staff F-6 paper on public disclosure will be published by the Board in a month or so.
+It documents the significant amount of public disclosure that already occurs at LCBOs, makes a case that current disclosure is not sufficient, and suggests examples of kinds of disclosures that might be helpful for the problem at hand.
+They relate to the residual risks held in securitizations; the distribution of credits by internal risk classification; and concentrations of credits by industry, geography, and borrower.
+As an aside, we understand that the work that the Federal Reserve has published to date on internal systems for credit risk classification and on analysis of economic capital has been actively sought out by rating agencies, investors, and analysts, who have repeatedly expressed strong support for more-meaningful disclosure about bank risk profiles.
+Let me underline that we are still developing the LCBO public disclosure initiative, and we hope to engage senior bank executives in helping us design the program.
+We are fairly far along in designing what we have in mind, but it is very much a work in progress.
+Let me share with you our conceptual framework.
+At least initially, we are limiting application of the program to the LCBOs.
+For the domestic LCBOs, only a little more than half of the organizations' worldwide consolidated assets are funded from deposits, and not all of their deposits are insured; 42 percent of assets are funded by nondeposit debt, and 7 percent by equity.
+Market discipline thus has a potential for significant impact.
+I noted that one-third of the LCBOs are foreign-chartered banks.
+Any U.S. disclosure policy would apply to only the U.S. operations of foreign-chartered banks but to the consolidated worldwide operations of U.S. chartered organizations.
+Even though there are only about thirty LCBOs, a one-size-fits-all disclosure requirement simply would not work.
+The strategies, business mixes, and risk control methods and policies among banks are simply too diverse and rapidly changing.
+Rather than imposing a predetermined set of statistics and reporting schedules for all LCBOs, we may require some reverse engineering tailored for each bank.
+Each LCBO might be asked to disclose information on the frequency and at the level of detail that would be necessary for uninsured creditors and other stakeholders to evaluate that LCBO's unique risk profile.
+Lest you conclude that this is some voluntary effort that LCBOs could meet in principle, but not in fact, let me make three observations.
+First, I hope that the Fed and the banking community can jointly develop a "best practices" standard for public disclosure.
+Second, a best practices standard will, it seems clear, set up considerable market pressure on all LCBOs (as well as other large banks) to disclose similar kinds of information.
+And, third, examiners will be reviewing an LCBO's disclosures to confirm that the organization's policy is consistent with best practices and to confirm that the bank's actual disclosures are consistent with its own policy.
+Public disclosure is not going to be easy for bankers because it may well bring new pressures that they may not like in the short run.
+It is not going to be easy on creditors and other stakeholders because they will have some tough analysis to do, although it will greatly help them to do a more effective job.
+It is not going to be easy on examiners because they will have to make some tough judgments.
+But the alternatives--more supervision and regulation--are not easy either.
+Subordinated Debentures Beyond the broad public disclosure effort, Charlie Calomiris has helped focus attention on the potential for subordinated debentures as a way of increasing the degree of market discipline in banking.
+Charlie has a quite specific proposal in mind, but I would like to address a more generic model, applicable to LCBOs.
+That broader model--built around investment grade unsecured long-term debt issuance--is now almost required by the Gramm-Leach-Bliley Act and is one of the hoops through which large banks must jump if they want to operate securities subsidiaries of the bank.
+In December 1999, the Board published a staff study, under the direction of Myron Kwast and drawn from a paper for the F-6, that analyzes the potential for using subordinated debt as an instrument of market discipline.
+And the Gramm-Leach-Bliley Act requires the Treasury and the Fed to conduct a joint study evaluating the use of mandatory subordinated debentures for large banks and financial holding companies.
+Let me just highlight some of the reasons policymakers might be interested in requiring LCBOs to make subordinated debentures a part of--or a supplement to--Tier 2 capital requirements.
+Of course, the general principle, from which all else flows, is that these instruments would provide a market signal of the perceived riskiness of the issuer--directly at the time of issue and indirectly in its secondary market price.
+These instruments are particularly relevant because the holders have interests similar to those of the Federal Deposit Insurance Corporation (FDIC).
+Subordinated debt holders have an interest in discouraging excessive risk-taking because their claims are both long-term and junior to all depositors and any senior debt holders, and they share in upside potential in very limited ways.
+If the train crashes, the subordinated debt holders sit not in the caboose but in the cab of the engine.
+They are thus quite sensitive to the speed of the train and the quality of the tracks.
+Another factor supporting the regulatory use of subordinated debentures is that the market is already well established--thirty-six of the fifty largest bank holding companies have such instruments outstanding and held by third parties today; eight of the fifty largest banks do as well.
+The market is well defined and homogenous.
+Rates on outstanding instruments adjust promptly to events, and the market appears to closely monitor the spreads across issuers.
+Issuers disclose considerable information at the time of issuance, and such disclosure refreshes secondary market prices.
+There are several things we do not yet know.
+We do not know if the market behavior of these instruments provides information to supervisors that they do not already appreciate or if such information is provided earlier than from other sources or is simply confirming.
+We do not yet have a good understanding of how much additional market discipline would be provided by mandatory subordinated debt relative to equity, voluntary subordinated debt, and other uninsured liabilities.
+The F-6 has asked the staff to study these and related matters, and that effort is under way.
+In addition, we have asked the staff to help us resolve some thorny analytical and practical questions.
+Would a mandatory policy provide greater advantages than current market practices?
+If there were a mandatory policy, should it apply to banks or to holding companies?
+Which banks or holding companies?
+Should it be a part of Tier 2 requirements or a supplement?
+What should be the required minimum?
+How frequently should issuance be required?
+What sort of issuance flexibility should be permitted, especially at times of market or individual bank stress?
+While the Fed is not committed to a specific policy as yet, my own view is that subordinated debt will be shown to be quite useful as a supplement to supervision, especially in conjunction with a broader program of additional public disclosure and greater reliance on market discipline.
+Perhaps we should not expect too much from these instruments, taken alone, but I think they could be a useful part of a broader program.
+Let me end this discussion of subordinated debt and public disclosure by noting and underlining an obvious point.
+None of this will be worth the effort--indeed, will not work--unless the market believes that the authorities will refuse to rescue uninsured creditors of failed or reorganized institutions.
+And that expectation cannot be sustained unless the government and its agencies demonstrate it by their actual behavior.
+Other Issues With my eye on the clock, let me briefly mention a couple of other items that the F-6 has reviewed in recent months.
+Decentralization is fundamental to the culture of the Federal Reserve System, and I have been impressed by how beneficial it is for obtaining intelligence about banking, financial markets, and the macro and micro economy.
+The presidents, their boards of directors, and the staffs of the Reserve Banks are invaluable for providing the System with an understanding of what is going on and helping ensure that the policies developed in Washington are meaningful and relevant.
+Nonetheless, the lack of congruity between the geographical distribution of banks and Federal Reserve Districts creates the potential for a maldistribution of resources: Not every District can afford to maintain the expert specialists that are required to examine the LCBOs for which they are responsible, and other Districts may be allocating their experts on District assignments with a lower national priority.
+Therefore, to ensure reasonable resource allocations consistent with System priorities, and as a result of our F-6 discussions, we are in the process of recruiting a staff coordinator to facilitate the allocation of scarce staff experts at all the Reserve Banks to the highest System priority in LCBO exams.
+Another important issue involves the cooperation and coordination among the many financial services supervisors with complementary and sometimes overlapping responsibilities within banking organizations.
+The wider scope of financial activities for banking organizations authorized by the Gramm-Leach-Bliley Act has made this an increasingly important concern.
+There are potential tensions in the interaction between the Federal Reserve as umbrella supervisor, on the one hand, and the specialized functional regulators of nonbank activities--the Security and Exchange Commission (SEC) and the state insurance commissioners--on the other.
+Moreover, the increased complexity of banking organizations requires improved cooperation and coordination between the Federal Reserve as umbrella supervisor and the primary bank supervisors, particularly the OCC, given that most LCBOs have lead banks with national charters.
+One final issue.
+As a matter of prudent contingency planning, the F-6 reviewed the implications of changes in markets and financial structure for central bank management of LCBO failures.
+The review made clear that the speed of financial market reactions to shocks has increased greatly.
+This faster response reflects globalization, information technology, banks' increased emphasis on short-term nondeposit funding and securitization by banking organizations, the greater participation in dealing and hedging markets by LCBOs, and the increased scale of operations of the largest organizations.
+At the same time, statutory and policy reforms have limited the options available for addressing difficulties at individual institutions, although I hasten to add that the tools available for macro policy and short-term assistance to individual institutions remain unchanged.
+My colleagues and I carried away from this review a greater appreciation of the need for contingency planning by bank management for significant disruptions--including the sale of units and business lines and more active participation by outside directors.
+In addition, the review emphasized the need for supervisors to be ready and willing to intervene aggressively and rapidly when significant difficulties occur.
+As a result, we are in the process of reviewing and implementing a series of technical recommendations to facilitate the resolution of a problem or failing bank by regulatory agencies.
+While such actions are needed, the analysis and discussion of these issues have greatly reinforced my view that we must rely more on market discipline in an effort to create ex ante conditions that minimize excessive risk-taking and that provide supervisors with rapid signals when there are difficulties.
+Conclusion As I consider how to end my remarks today, I am reminded of the story about the time Chico Marx was playing a zippy little melody on the piano in Groucho's presence.

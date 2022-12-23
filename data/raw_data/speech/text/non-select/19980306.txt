@@ -1,0 +1,48 @@
+While the Federal Reserve Board takes no official position on capital budgeting, I have been studying budgeting for years as a university economist, and I have also spent two years as Deputy and Acting Director of the Congressional Budget Office.
+So I have developed some thoughts about the matter.
+Since the capital budget is a budget, a convenient place to start is to discuss the role of budgets.
+There are many such roles, but the two relevant today are to help the Congress make decisions and to help analysts understand federal spending.
+On the analytical side, there is no pressing need for a capital budget.
+From an aggregate demand point of view, it is immaterial whether the federal government purchases consumption goods or capital goods.
+Production and employment will be generated in roughly the same amounts for either type of spending.
+Nor does it matter from a financial point of view--the federal government will have to borrow the same amount either way.
+Borrowers may charge a slightly lower interest rate for borrowing to finance capital spending, but U.S. borrowing rates are already about as low as they are likely to get for any given rate of inflation.
+From the standpoint of economic growth, it is very relevant whether federal spending is for consumption goods or capital goods.
+Long-term economic progress in the United States depends fundamentally on the share of our output devoted to investment goods, and to measure this share, we must properly classify federal purchases.
+But here, at least in the national income accounts, we already make such a classification.
+There is no need for anything more.
+The question before your commission then becomes whether the unified budget that forms the basis for political decision-making in the United States should be changed.
+If it were, it might be disaggregated into two or more budgets.
+One, the operating budget, would have budget rules similar to those now used for the overall unified budget.
+Another, perhaps for trust-fund-financed entitlement spending (Social Security), might have different rules and perhaps only a long-run budget constraint.
+A third, for the capital budget, might operate differently still.
+But how differently?
+Would there, or would there not be, spending caps on capital budget spending?
+One could argue for looser rules on capital spending, on the grounds that capital spending might be raising output and either directly or indirectly raising future revenue.
+But those who have been around Congress know that to form any different rules will be problematic, and will lead to a host of political and definitional tangles.
+Every government manager, and every committee chair, will want to get his or her program classified as investment spending.
+Someone will have to referee this process, and it will not be pleasant.
+Apart from politics, how in principle should capital spending be defined?
+In fact the types of spending in the federal budget that really qualify as capital spending are few and far between.
+The spending should result in tangible physical equipment.
+Military spending on construction and long-lived durable goods would qualify.
+Military spending on consumables, ammunition and so forth, would not.
+Domestic spending on direct construction would qualify.
+But grants to state and local governments, even those nominally for capital purchases, would not.
+These grants do not directly result in capital equipment purchases because the recipient government is perfectly free not to spend the grants on capital equipment, and a host of econometric studies over the years have shown that recipient governments do not spend all their capital grants on equipment.
+So-called human investment programs would not qualify either, both because the spending cannot be assured and because it is not clear whether this supposed human investment really does raise a person's market output.
+Entitlement spending definitely would not count.
+When all is said and done, a relatively small amount of federal spending will be validly classified as capital spending.
+But there will be major headaches involved in identifying this small amount of spending.
+A related question involves depreciation.
+A separate capital budget is supposed to reflect underlying asset values.
+When capital is first constructed, it is entered in the capital budget at the cost of this construction.
+Every year after that there must be a deduction for the amount the asset, whether a road or a missile, depreciates.
+With roads, measurement is certainly possible.
+With missiles, it is much harder because there should be allowance for technological obsolescence.
+Just as managers and committee chairs will have trouble with referees saying whether their spending is or is not for capital, they will also have trouble with the calculation of realistic rates of depreciation.
+So while a capital budget may superficially sound like a good idea, there is less there than meets the eye.
+Its underlying principle of disaggregating current from capital spending is already followed for analytical purposes.
+For political purposes, capital budgeting would bring a host of new complications to the already-complicated budget process.
+The Congress will have to define what is capital, how depreciation will be measured, and how the budget process will work for this type of spending.
+Decisions to separate current from capital spending will be highly contested and seem arbitrary.

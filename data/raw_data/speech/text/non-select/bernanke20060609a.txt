@@ -1,0 +1,106 @@
+It is wonderful to be back at MIT.
+I graduated from the Institute with a Ph.D. in economics in 1979.
+That year, President Weisner gave the commencement address.
+He spoke about, among other things, the nationâ€™s transition from an era of cheap energy to one of energy scarcity and about the need for new technologies to aid in this transition.
+Obviously, these issues still confront us.
+One cannot help but wonder whether that theme will feel as current twenty-seven years from now as it does today.
+As for today, you may have been surprised at some point to learn that an economist rather than an engineer or scientist would be serving as your commencement speaker.
+But in my remarks, I hope to illustrate that this address continues a long and productive tradition of collaboration at MIT between economics and the engineering and scientific disciplines for which the Institute is so well-known.
+Building on that theme, I will discuss the essential complementarity of technology and economics in modern economies.
+Finally, I will have a few words to say about what you, as MIT graduates, can do to strengthen our economy and our society even as you pursue your personal and professional goals.
+A Short History of Economics at MITIf you will bear with me, I would like to begin with a short history of economics at MIT.
+The MIT Economics Department is, of course, the part of the Institute that I know best, and I hope to persuade you that it has played a special and unique role in this institution.
+MITâ€™s connection to economics dates at least to 1881, when Francis A. Walker became the institutionâ€™s third president.
+To say that Walker had already had a distinguished career would be an understatement.
+He was named a brevet brigadier general at the end of the Civil War, at the age of twenty-four.
+He served as the superintendent of the 1870 and 1880 Censuses of the United States and was one of the leading economists of his era.
+The year he arrived at MIT, he taught the first economics course ever offered at the Institute.
+The course covered political economy and was so popular that it was soon accorded its own course classification as "Course IX, General Studies."
+Walker helped found the American Economic Association, still the leading professional association for economists.
+During his tenure at MIT, he moonlighted both as the first president of that association and as president of the American Statistical Association.
+In the early twentieth century, the economics program at MIT aimed to prepare undergraduates for leadership roles in business.
+During those years, economics as a discipline was gaining greater prominence both here and abroad.
+But the modern era of economics at MIT began in 1940--the year that Paul Samuelson, not yet having even received his doctorate, was persuaded to emigrate here from a somewhat less technically proficient institution located on another stretch of the Charles River.
+In part, Samuelson was willing to leave Harvard because his Foundations of Economic Analysis--a book now universally recognized by economists as inaugurating the modern mathematical approach to economics--was not well received by the old guard at the Harvard Economics Department.
+MITâ€™s Ph.D. program in economics was established a year after Samuelson arrived.
+Right from the start, the department attracted strong graduate students: The very first of these, Lawrence Klein, received the Nobel Prize in Economics in 1980 for his work in econometric modeling.
+With support from MITâ€™s administration, the department expanded rapidly after World War II, and MIT led the development of a more mathematically rigorous approach to economics.
+Given the emphasis on quantitative reasoning at MIT, it makes perfect sense that the Economics Department here was in the vanguard of those using mathematics as a framework for organizing economic thought.
+These developments laid the foundation for economics as a discipline in the second half of the twentieth century, and the department quickly rose to the top of national rankings.
+Besides Samuelson, many economists contributed to the departmentâ€™s outstanding reputation--Franco Modigliani, Robert Solow, Charles Kindleberger, Rudiger Dornbusch, and Stanley Fischer, to name just a few.
+Modigliani, Samuelson, and Solow won Nobel Prizes for their research.
+In addition, nine other economists with MIT connections have won Nobels.
+Mathematical approaches to economics have at times been criticized as lacking in practical value.
+Yet the MIT Economics Department has trained many economists who have played leading roles in government and in the private sector, including the current heads of four central banks: those of Chile, Israel, Italy, and, I might add, the United States.
+One of my teachers at MIT, Stan Fischer, is a sterling example of what MIT training can produce.
+Stan followed a brilliant career as a researcher and teacher at MIT with important work as a public servant, including top positions at the World Bank, the International Monetary Fund, and, currently, the Bank of Israel.
+Why did economics at MIT become so successful?
+Perhaps Paul Samuelson and the people he helped to attract here could have been equally successful anywhere.
+But I suspect that the placement of economics in a milieu where quantitative reasoning and the scientific method are the coin of the realm was an important contributing factor.
+The Sloan School, with its close links both to the Economics Department and to other parts of the Institute, has benefited from the same milieu and has been the source of many fundamental advances as well.
+Notably, in recent years the global financial industry has been transformed by new quantitative approaches to pricing complex financial instruments such as derivatives and to measuring and managing risk.
+This transformation stemmed from the application of formal tools of mathematical economics that were developed to a substantial extent by faculty at the Sloan School, including Fischer Black, Robert Merton, and Myron Scholes--the latter two of whom won Nobel Prizes for their work.
+As MIT economics has benefited from its proximity to the scientific and engineering expertise of MIT, so the Institute has benefited from the presence of a world-class economics department, over and above the addition of still more luster to the MIT name.
+The exposure of students and faculty from other divisions to the discipline and approaches of economics has stimulated creative thinking about how technology can be used to improve the economic welfare of the average person.
+That thought brings me to my second topic: the link between technology and economic growth.
+Translating Technological Advances into Economic GrowthAs has always been the case, technological change and innovation are today in large part driving economic growth and the improvement of living standards.
+But it is important to understand that even the very best ideas in science or engineering do not automatically translate into broader economic prosperity.
+In large measure, the material benefits of innovation spring from complementarities between technology and economics, where I include in "economics" not only economic ideas but also economic policies and, indeed, the entire economic system.
+When the economics is right, scientific and technological advances promote economic development, which in turn, in a virtuous circle, may provide resources and incentives that help to foster more innovation.
+A negative example is the former Soviet Union, which certainly did not lack for scientific and engineering talent but which had an economic system that was poorly suited for translating scientific advances into economic progress.
+The experience of the United States over the past decade illustrates the essential complementarity of technology and economics, in my view.
+Before the mid-1990s, the growth of productivity--the amount of output produced per worker or per hour of work--had been relatively sluggish for more than two decades in this country.
+As productivity is perhaps the single most important determinant of average living standards--a country in which the average worker can produce a lot is usually also a place in which the average person can consume a lot--the so-called productivity slowdown of that earlier period was the source of much concern among economists and policymakers.
+In the mid-1990s, however, productivity growth picked up in the United States.
+The growth rate of productivity increased still further around the turn of the century and remains strong today.
+This productivity revival augurs well for the future of the U.S. economy.
+But why did it happen?
+You, of all people, will not be surprised to hear that the research suggests that the pickup in U.S. productivity growth in the mid-1990s was importantly related to advances in information and communication technologies.1 But these technical advances in and of themselves canâ€™t be the whole story.
+For example, even though the new technologies are widely available around the world, many other countries appear not to have derived the same degree of economic benefit from them as has the United States.
+Notably, productivity in Europe increased rapidly in the decades after World War II but then decelerated around the mid-1990s, at about the same time that U.S. productivity growth began to increase.
+Thus the gap between productivity levels in the United States and Europe, which had nearly closed by 1995, has been widening since then.
+What accounts for the apparently disparate effects of technology on growth here and abroad?
+Differences in economic policies and systems likely account for some of the differences in performance--another example of the complementarity of technology and economics.
+One leading explanation for the strong U.S. productivity performance is that labor and product markets in the United States tend to be more flexible and competitive, and that these market characteristics have allowed the United States to realize greater economic benefits from the new technologies.
+For example, taking full advantage of new information and communication technologies may require extensive reorganization of work practices, reassignment and retraining of workers, and ultimately some reallocation of labor among firms and industries.
+Regulations that raise the costs of hiring and firing workers and that reduce employersâ€™ ability to change work assignments--like those in a number of European countries, for example--may make such changes more difficult to achieve.
+Likewise, in product markets, a high degree of competition and low barriers to the entry of new firms in most industries in the United States provide strong incentives for firms to find ways to cut costs and to improve their products.
+In some other countries, in contrast, the prominence of government-owned firms with a degree of monopoly power, together with a regulatory environment that protects large incumbent firms and makes the entry of new firms difficult, reduces the competitive pressure for innovation and the application of new ideas.
+Competition is one of the key benefits of free and open trade; companies that are exposed to global competition tend to be much more efficient and to produce goods of higher quality than companies that are sheltered from international competition.
+Other economic factors have probably been important in translating technological change into material progress.2 Some observers point to the depth, liquidity, and sophistication of American financial markets as contributing to recent productivity gains.
+Sizable markets for venture capital and ready access to equity financing facilitate start-up enterprises, which are often the best means of bringing new technologies to the market.
+The United States also benefits from its high-quality research universities, which have shown both the willingness and the ability to collaborate with the private sector and, in some cases, with the government as well, in the development and commercialization of new ideas.
+For example, Intel was co-founded by an MIT graduate, and MIT graduates played key roles in designing and developing the Internet.
+Management practices also differ across countries, and these differences may also matter for productivity.
+A recent study found that business establishments in the United Kingdom that are owned by U.S. multinationals get higher productivity from information technology than do other establishments, and it tied this differential to the management and organization of U.S. firms.3 Finally, relatively more positive attitudes toward competition and entrepreneurship in the United States--a factor that spans economics and sociology--may also stimulate innovation and its commercial application as well as economic policies that support innovation.
+Of course, there are factors that may restrain both technological innovation and its commercialization in the United States as well: I would put at the top of the list the relatively poor performance of our K-12 educational system in stimulating interest in and providing solid training in the sciences.
+One interesting feature of the U.S. and global experience with major innovations is that often a significant amount of time passes between the initial development and diffusion of new technologies and the realization of the associated productivity benefits.
+Computers were first commercialized in the 1950s, for example, and personal computers came into widespread use beginning in the early 1980s.
+But until the mid-1990s these developments had little evident effect on measures of productivity.
+Indeed, MITâ€™s Robert Solow famously quipped in 1987 that "computers are everywhere except in the productivity statistics."
+Moreover, despite the sharp decline in information-technology investment after the meltdown of tech-sector stocks earlier this decade, the growth rate of productivity actually increased further in recent years, as I mentioned.
+These long lags raise additional questions about the nature of the links between new technologies and the resulting productivity gains.
+Perhaps the answer lies in taking the longer view.
+Some research by economists has drawn an analogy between modern information and communication technologies and earlier so-called general-purpose technologies such as the steam engine, the electric motor, and the internal combustion engine.
+General-purpose technologies have broad application and thus have the potential both to revolutionize methods of production and to make a host of new goods and services available to businesses and consumers.4 For example, when smaller electric motors replaced single-power sources, such as steam or water power, in manufacturing facilities, it became feasible to reorganize the layouts of plants to optimize the flow of materials rather than the distribution of power.5 And the advent of air conditioning significantly expanded opportunities for economic development in the warmer regions of the United States and the world.
+However, in all cases, these developments evolved over a long period and required firms to make collateral investments in research and development, organizational structure, and employee training.
+These investments in learning how to make the best use of new technologies have been dubbed intangible capital, to distinguish them from investments in physical goods like new machines or facilities.
+In the case of information and communication technologies, new economic research suggests that the investments in associated intangible capital--figuring out what to do with the computer once itâ€™s out of the box--are quite important indeed.6 In my view, important investments in intangible capital remain to be made, as much still remains to be learned about how to harness these technologies most effectively.
+Thus, it should not be surprising that the benefits of these technologies have taken a long time to show up in the productivity statistics.
+This research also suggests that the current productivity revival still has some legs, as the full economic benefits of recent technological changes have not yet been completely realized.
+Looking to the FutureAs graduates of MIT, you will be at the heart of this critical process of developing new technologies and taking them to the marketplace.
+We are in an age in which technology and its fruits will be a dominant force not only in our economic lives but in the cultural, social, political, and personal aspects of our lives as well.
+Your training at MIT equips each of you exceptionally well to take the fullest advantage of the professional and personal opportunities that technological innovation and change will create.
+Each of you, because of your youth, your talent, your demonstrated commitment to learning, and your personal and intellectual attainments during your time at MIT, will soon find--to paraphrase Shakespeare--that the world is your oyster.
+I hope that you will contribute in some measure to economic progress, whether in the United States or elsewhere; and I hope you find some measure of financial reward.
+But the world has a great deal more to offer than money, and a key question each of you will face repeatedly in your lives is how to use the talent and education that you have been given and the knowledge that you have attained.
+With respect to your professional lives, I hope that when you make career choices, you will look first for opportunities that excite you intellectually, that allow you to use your creative powers to the fullest extent, and that let you continue to learn and grow.
+I hope you will not be afraid to be unconventional, to do something nobody else has thought of before.
+Remember that the path to success and fulfillment may not be well marked, the scaling of some predetermined ladder; it may instead be a road without signs or maps.
+And remember that it is OK to fail--really: New opportunities will always arise for those who seek them.
+If you remain nimble in searching out new and unexpected opportunities, it will not only benefit you, but it will also benefit the economy and our society, as long experience has shown that dynamism and creativity are the seeds of innovation and of progress.
+In the personal sphere, as you make your way in the world, I hope you will not forget the importance of your family and how much it has already contributed to your journey through life.
+Remember, too, family members are the ones who will still love you even when things arenâ€™t going so well.
+Even as you focus intensively on your professional interests, I hope you will remain intellectually broad--well-read, well-informed, and open to new experiences.
+And finally, I hope you will remain engaged with the broader society.
+That may involve entering public service at some point, as many MIT graduates have chosen to do.

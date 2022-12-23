@@ -1,0 +1,126 @@
+It's a great pleasure to be here in Miami to speak before the Florida International Bankers Association and the Miami Bond Club to lengthen the growing list of Federal Reserve governors who have appeared before your organizations over the past few years.
+Tonight, I would like to discuss the Federal Reserve's perspective on the Year 2000 and share with you some of my observations and concerns about the banking industry's computer system readiness for the century date change.
+With the impressive growth in international banking activity in Florida since the passage of the Florida International Banking Act 20 years ago, it is particularly important to ensure that the Year 2000 challenge is effectively addressed by all banks conducting an international business in the local and state markets.
+The stakes are enormous, actually, nothing less than the preservation of a safe and sound financial system that can continue to operate in an orderly manner when the clock rolls over at midnight on New Year's Eve and the millennium arrives on the scene.
+And even the government can not declare an extension!
+So much has already been written about the difficulties ascribed to the Year 2000 challenge that the subject is becoming almost commonplace in most conversational circles.
+By now, almost everyone's familiar with the basic issue -- specifically, that information generated on computer may be miscalculated and conveyed to others, or possibly programs may be terminated because they cannot recognize dates shown as 00.
+The problem is even the brunt of jokes contained in the monologues of late night TV comics, one of whom laughs that he'll know when midnight, New Year's Eve, 2000 arrives because his pace maker will start to play Auld Lang Syne.
+Whether you think the problem funny or not, it is quite real.
+From the Federal Reserve's perspective as the central bank of the United States and a bank supervisor, we have been working intensively to address the issues faced by the industry and formulate an effective supervisory program tailored to those issues.
+To start with, it has taken an enormous effort simply to elevate the industry's senior management awareness of the seriousness and magnitude of the problem which sounds at first like a modest technical issue that's easy to fix and not terribly significant.
+But, if programming logic misinterprets the two-digit 00 representation of 2000 to be 1900, automated operating systems across the entire breadth of the world's economy are likely to miscalculate date-sensitive information or simply cease to operate.
+One reads in the press about the possibility of catastrophic failures in such vital systems as air traffic control, telecommunications, and the utilities that make up the power grid.
+Society depends on these vital systems to operate dependably, as it also depends on the financial systems to do likewise.
+And they are interdependent.
+Those responsible for every critical service need to review their Year 2000 plans to be sure they will be compliant in a timely manner so that, among other obvious reasons, the financial services industry can rely on them.
+In turn, we in the financial services industry are determined, to the very best of our ability, to be part of the solution and not part of the problem.
+In the context of our banking environment, calculations based on a span of time such as interest earned, interest due, settlement dates and many others, may result in the generation of misinformation and errors that would be labor intensive, slow and costly to identify and correct after the fact.
+In the extreme, if the problem doesn't get fixed ahead of time, a bank or securities trading firm may find itself unable to depend on the information provided by its general ledger including its funding position and the account balances of its depositors and trading customers.
+Obviously, a bank's inability to understand and manage its funding and liquidity positions could have disastrous consequences for the organization, its customers and its counterparties.
+Accordingly, the Federal Reserve and the other banking supervisors that make up the Federal Financial Institutions Examination Council, the FFIEC, have been working closely to orchestrate a uniform supervisory approach to supervising the banking industry's efforts to ensure its readiness.
+Supervisory Initiatives To give you an overview of the banking agencies' initiatives to date, the interagency program began in earnest in June, 1996, with the issuance of the first Year 2000 advisory distributed to all domestic and foreign banks in the U.S.
+Following up in May, 1997, the agencies issued a second advisory entitled "Year 2000 Project Management Awareness" which alerted senior management and the boards of directors to the serious challenge facing the industry.
+The advisory indicated that the problem was not merely a technical issue and that top management and the board had to be directly responsible for the implementation of a suggested five-phase management process that included awareness, assessment, renovation, testing and implementation.
+It also alerted bank directors and senior management about the external risks relating to the Year 2000 readiness of their borrowers, vendors and counterparties.
+Failure of these third parties to address this issue could easily have an adverse effect on a bank's ability to conduct business.
+As part of the May advisory we established two particular benchmarks with respect to progress toward compliance.
+First, it was expected that by September 30, 1997, banks would have completed a thorough inventory of all of their mission critical applications and established a comprehensive plan and priorities for their renovation.
+This benchmark has passed and so the banking agencies are now increasing supervisory efforts at those few banks that have not completed such an inventory and plan.
+The second time frame stated that by December 31, 1998, mission critical systems should be largely renovated with testing well underway so that the balance of testing and implementation could be accomplished in 1999.
+The third banking agency advisory was issued last December affirming the need for thorough periodic reporting of project progress to bank management and more importantly making clear that all banking offices are ultimately responsible for their own readiness, even though they may be heavily dependent on a third-party service provider or a foreign parent for their automated data processing activities.
+Banks were encouraged to communicate with their vendors or parents to seek a thorough understanding of their ability to service the bank's needs.
+Banks have also been advised to incorporate Year 2000 credit risk into their underwriting standards and securities trading policies, given that their borrowers or counterparties could experience unresolved processing problems that might hamper their ability to meet their financial obligations on a timely basis.
+The Federal Reserve has also committed to conduct an examination for Year 2000 readiness of every bank subject to our supervisory authority by June 1998, and we will continue to conduct further Year 2000 examinations right up to the millennium.
+Industry Assessment Well, taking a step back from looking at our initiatives, it's fair to ask, "How well is the industry doing?"
+Most banks have completed the assessment phase; however, those that missed the September 30, 1997, time frame are going to be the subject of intensive supervisory attention.
+They are also likely to lag behind their peers when it comes time to test their renovated applications with their counterparties.
+Accordingly, in some cases, we are issuing notification letters putting lagging banks on notice that the deficiencies in their progress require specific corrective action.
+Most banks are now in the renovation and testing phases and are finding it more expensive and time consuming to fix and test their systems than they previously estimated.
+Consequently, many have had to revise their budgets upward and delay the development of new services that would divert limited programming and systems development resources.
+Some banks have started the validation phase and have confirmed that testing is a costly, cumbersome and time consuming process.
+As for the final phase of implementation, few banks have advanced this far with any more than a handful of their mission critical systems.
+Most have a significant amount of testing ahead of them before final implementation can be accomplished.
+Let's focus for a moment on the testing phase as an excellent example of the magnitude of this process.
+Testing Testing is one of the more crucial issues being addressed, given that it will consume more than a year and absorb as much as 70 percent of Year 2000 resources.
+One must focus first on internal testing and the isolation of a test environment to avoid contamination with the current production environment.
+Then a building block approach starts with one-by-one unit testing of a single application such as demand deposit accounting, then progresses to integration testing, which would apply to a group of applications such as those for all deposit systems for demand, time and savings deposits.
+Then system testing combines entire systems, which might, for example, cover all automated applications that permit the preparation of the liabilities side of the general ledger.
+This is often followed by regression testing which checks each variable and all combinations of variables relied on by the various systems to see if any cause a problem.
+Each application is also subject to external testing that is conducted with a single counter party to confirm compliance with agreed upon protocols and compatibility of different Year 2000 solution techniques that may have been used.
+In a trading operation, this might mean testing trades with a single counterparty.
+Then organizations have to test with multiple counterparties and if problems are discovered, it may require further renovation and retesting.
+Each step is very time consuming and absolutely essential, and it is anticipated that costs associated with getting it done will rise appreciably as strains on labor markets to support such testing grow.
+The banking agencies are working with the industry to develop guidance on best practices pertaining to testing.
+In addition, the Federal Reserve will soon be publishing a detailed schedule of testing opportunities for Fedwire, automated clearing house transactions and other services provided by the Federal Reserve.
+Actual testing will commence at mid-year 1998 and continue throughout 1999.
+It promises to be a very busy period.
+Contingency Planning The Federal Reserve has been involved with contingency planning and dealing with various types of emergencies for many years.
+Today is no different in many respects, but the need for Year 2000 readiness raises new concerns that are applicable to all banks, foreign or domestic.
+One is the risk of contagion.
+Operating problems at individual banks must not be allowed to spread and become systemic.
+Many experts have pointed out that counterparties to automated transactions ordinarily do not transmit material whose logic statements can act as a virus and destroy software in a receiving host.
+On the contrary, most exchanges are simply transmitting data that is ordinarily subject to edits intended to identify any miscalculated date sensitive information.
+If indeed, the sender has unintentionally transmitted erroneous, miscalculated information and it is identified as such, the recipient rejects the misinformation and is free from the problem which can then be corrected by the sender.
+So this very important issue should be readily manageable, but managed it must be.
+On the subject of operating outages, if an automated information system crashes because of a Year 2000 readiness problem, the crash must be prevented from spreading.
+We know that when electric utilities experience a local problem with the power grid, it has on occasion in the past taken down a wider, regional network.
+Could this happen with interconnected computer systems?
+Most professionals argue that the operational outage of one data center need not spread and disable others.
+Nevertheless, as a bank supervisor concerned about systemic issues, even the remote possibility for operational outages and disruptions to service require all of us to do significant contingency planning.
+Early in our efforts to address Year 2000 automation issues, we realized contingency planning in the Year 2000 context is made more difficult because operating centers can not fall back to an earlier version of a software package because the earlier version itself may not have been readied for Year 2000.
+Similarly, a U.S. office of a foreign bank experiencing local problems may not be able to rely on its parent because it is likely that the parent depends on the same software that caused the local problem.
+So, in order to plan for continuation of services, it may be necessary to provide a complete, alternative service, or a service that can be repaired as a Year 2000 problem is identified.
+A major interagency contingency planning effort underway addresses a possible federally assisted resolution scenario that might be necessary should a bank experience extensive computer problems.
+If this were to lead to serious liquidity problems, the chartering authority might deem the bank nonviable, thus necessitating resolution by the FDIC together with other banking agencies that may be involved.
+It is also necessary for us to consider the legal and policy issues that may pertain to a U.S. office of a foreign bank that is unable to meet its liquidity obligations.
+Such a case will not lend itself to a simple resolution process.
+Another concern of the Federal Reserve is the extent to which the industry is so heavily dependent on vendors.
+As I noted earlier in discussing the most recent advisory to the industry, banks are ultimately responsible for their own operations despite their reliance on third-party service providers.
+There are many thousands of information systems vendors of one form or another that provide services to federally insured depositories, and obtaining meaningful information on vendor plans and status has proven difficult for the industry and the regulators.
+If they have not already done so, vendors need to provide very soon their program to renovate and support a product relied on by banks.
+With sufficient information on vendor plans, banks can prepare their testing strategies.
+Vendors and banks are realizing that it is advantageous to make vendor plans public on web sites and through other means so that they do not have to repeatedly respond to the same questions from each of their customers.
+There are important opportunities for banks to work together in this area.
+By expanding and intensifying interbank cooperative efforts to address Year 2000 issues such as the development of common testing scripts and the sharing of information, the industry can enhance its ability to be prepared in a timely manner.
+International Initiatives - Foreign Banking Organizations Let me now turn more directly to international initiatives which are likely to be of particular interest here tonight given the extent of business you conduct with customers and banks outside the U.S.
+The Federal Reserve has a keen interest in the readiness of the international community and the special problems facing foreign banks operating branches and agencies in the U.S.
+The Federal Reserve has been involved in active dialogue with bankers and supervisors that have banks in the U.S. from around the world.
+We are involved in international visitation programs, conferences and training efforts pertaining to their preparedness efforts.
+On an interagency basis, the Federal Reserve, the OCC and the FDIC are all represented on the Bank for International Settlements' (BIS) Committee on Banking Supervision, referred to as the Basle Committee.
+The Federal Reserve is also on the BIS Committee on Payment and Settlement Systems (CPSS) which is presently chaired by William McDonough, President of the Federal Reserve Bank of New York.
+With the issuance of the U.S. industry advisory in May, the Basle Committee took up the subject, forming a special task force on Year 2000.
+Subsequently, the G-10 governors issued an advisory on September 8 to all BIS member central banks and bank supervisors for distribution to their respective banks world-wide.
+It clearly spells out the issues pertaining to the challenge, and I strongly recommend you read it if you have not yet had an opportunity to do so.
+The Federal Reserve also produced a video entitled "Year 2000 Executive Management Awareness" and distributed it to all bank supervisors responsible for foreign banks that operate in the U.S.
+In so doing, we encouraged foreign bank supervisors to intensify their efforts to address millennium issues in their home countries and to ensure that their banks were taking the necessary steps to ready their operations, including those conducted in the U.S.
+The Federal Reserve and the other banking agencies are making their Year 2000 supervisory material available to domestic and foreign banks, and the general public over the Internet.
+The Federal Reserve has already distributed about 20,000 copies of our video, many in response to requests from abroad, and our web site hot links to that of the BIS and many other Year 2000 sites world-wide.
+By widening the availability of information on an international basis, we hope to encourage global readiness.
+The BIS is also working with the International Organization of Securities Commissioners and the International Association of Insurance Supervisors to address this important issue.
+Together, they will convene a meeting in April of international financial supervisors and financial organizations to focus on Year 2000 and address issues of concern to all.
+Based on concerns expressed by banks, the work of the BIS task force and our own inquiries, we believe that certain countries around the world have not embarked on aggressive compliance supervision and examination programs, so that there is a likelihood that banks in those countries have not yet begun to effectively address the problem and will now find it increasingly difficult to be ready.
+We are concerned that many U.S. offices of foreign banks may be particularly exposed if their parent is not ready for the Year 2000.
+Therefore, we have asked the U.S. branches and agencies to confirm that they will be able to continue to conduct business using the same standards for readiness that we apply to domestic banks.
+Those that rely heavily on their parent for information processing and risk management are expected to be able to demonstrate to examiners that these systems are being readied for the Year 2000.
+Further, Federal Reserve supervision policy calls for direct contact with the parent bank to ensure its awareness of the requirements.
+When problems are identified, contact with the home country supervisor may also be warranted to coordinate a thorough understanding of the bank's plans for the readiness of its U.S. operations.
+In so doing, we hope to be better able to address any institutions that have not made sufficient progress toward resolving the issue with their U.S. offices.
+Given the unique characteristics of a branch operation dependent on a foreign parent that, in turn, is subject to the authority of its home country bank supervisor, the Federal Reserve and other U.S. banking agencies must carefully consider any necessary follow-up with the appropriate international authorities.
+Compounding our concerns about international readiness are a number of competing initiatives that further stretch the limited resources available to achieve preparedness.
+In 1999, the Euro will be introduced requiring record keeping of financial transactions in a new currency.
+Extensive planning and programming will be necessary to permit foreign exchange trading and other cross border transactions to be conducted in the Euro, with the added complexity of the continued circulation of various national currencies for several years.
+Of course, banks outside the European Monetary Union that are trading counterparties will also have to program their computers to accommodate the Euro.
+Similarly, plans in Japan call for extensive deregulation of various segments of the financial markets relatively soon.
+These and any other high priority efforts will exacerbate the problem of preparing for the century date change by competing for limited resources.
+I suggest that all nations should assess their respective financial initiatives and determine if any opportunities exist to defer projects that can wait until after 2000.
+We all need to recognize the magnitude and overriding importance of this task and take action to protect vitally needed resources from being diverted to other projects that may be of lesser priority.
+Concluding Remarks In closing, let's take a moment to ask what you can do.
+First of all, be alert to recognize any danger signs in your own organizations and in your counterparties, customers and borrowers.
+For those of you involved in underwriting and dealing in securities, solid evidence of Year 2000 readiness should be part of your due diligence.
+You will know you likely have a problem if you hear that the Year 2000 is "not an issue for our shop," or if you hear "we can handle the Year 2000 within the normal planning process without significant budget implications," or if you hear that the Year 2000 "is a technical issue that does not require special attention by senior management and directors."
+Any of these comments are almost certain to be dead wrong, and probably are tip offs to the presence of dangerous complacency, ignorance, or naivete.
+You, of the Florida International Bankers Association and the Miami Bond Club, can also help heighten international awareness and action on the matter by ensuring that the policy statements I referred to are widely available in other languages, by discussing them at each opportunity and by building Year 2000 issues into your day-to-day lending and financing business activities, negotiations, contracts, and sales agreements as well as conferences and meetings with various international regulatory authorities.
+I am sure that many here have close relationships with banks in other countries.
+Let me urge you to delve deeply into preparations for Year 2000, and if there is evidence of a potential readiness shortfall, do everything in your power to urge the institution to get active very quickly.
+In so doing, you will advance the cause of readiness throughout the local community and on an international basis as well, while protecting yourself in the process.

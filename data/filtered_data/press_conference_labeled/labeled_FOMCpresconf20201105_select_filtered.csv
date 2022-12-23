@@ -1,0 +1,37 @@
+Unnamed: 0,sentence,label,score
+0,"At the Federal Reserve, we are strongly committed to achieving the monetary policy goals that Congress has given us—maximum employment and price stability.",LABEL_1,0.979712963104248
+1,Economic activity has continued to recover from its depressed second-quarter level.,LABEL_1,0.7964504361152649
+2,"The overall rebound in household spending owes, in part, to federal stimulus payments and expanded unemployment benefits, which provided essential support to many families and individuals.",LABEL_0,0.9985852241516113
+3,"The housing sector has fully recovered from the downturn, supported in part by low mortgage interest rates.",LABEL_0,0.9992295503616333
+4,"Even so, overall economic activity remains well below its level before the pandemic, and the path ahead remains highly uncertain.",LABEL_0,0.9991476535797119
+5,"As with overall economic activity, the pace of improvement in the labor market has moderated.",LABEL_2,0.9910491704940796
+6,The unemployment rate declined over the past five months but remained elevated at 7.9 percent as of September.,LABEL_0,0.9812980890274048
+7,The pandemic has also left a significant imprint on inflation.,LABEL_1,0.9973500967025757
+8,"Following large declines in the spring, consumer prices picked up over the summer, in part reflecting a rise in durable goods prices.",LABEL_1,0.8758458495140076
+9,"However, for those sectors that have been most affected by the pandemic, prices remain particularly soft.",LABEL_0,0.88966965675354
+10,"Overall, on a 12-month basis, inflation remains below our 2 percent longer-run objective.",LABEL_0,0.9939893484115601
+11,"The Federal Reserve’s response to this crisis has been guided by our mandate to promote maximum employment and stable prices for the American people, along with our responsibilities to promote the stability of the financial system.",LABEL_0,0.5556688904762268
+12,"As noted in our Statement on Longer-Run Goals and Monetary Policy Strategy, we view maximum employment as a “broad-based and inclusive goal.” Our ability to achieve maximum employment in the years ahead depends importantly on November 5, 2020 having longer-term inflation expectations well anchored at 2 percent.",LABEL_1,0.9870166182518005
+13,"As we said in September Chair Powell’s Press Conference FINAL and again today, with inflation running persistently below 2 percent, we will aim to achieve inflation moderately above 2 percent for some time so that inflation averages 2 percent over time and longer-term inflation expectations remain well anchored at 2 percent.",LABEL_0,0.9983307719230652
+14,We expect to maintain an accommodative stance of monetary policy until these employment and inflation outcomes are achieved.,LABEL_0,0.9987303614616394
+15,"With regard to interest rates, we continue to expect that it will be appropriate to maintain the current 0 to ¼ percent target range for the federal funds rate until labor market conditions have reached levels consistent with the Committee’s assessments of maximum employment and inflation has risen to 2 percent and is on track to moderately exceed 2 percent for some time.",LABEL_2,0.7988371253013611
+16,"Looking ahead, we will continue to monitor developments and assess how our ongoing asset purchases can best support our maximum-employment and price-stability objectives as well as market functioning and financial stability.",LABEL_0,0.879891574382782
+17,"It will take a while to get back to the levels of economic activity and employment that prevailed at the beginning of this year, and it may take continued support from both monetary and fiscal policy to achieve that.",LABEL_0,0.9939498901367188
+18,"These changes to the SEP will provide a timely perspective on the risks and uncertainties that surround the modal or baseline projections, thereby highlighting some of the risk-management considerations that are relevant for monetary policy.",LABEL_2,0.9997686743736267
+19,Same thing with economic activity.,LABEL_2,0.9998335838317871
+20,"Most forecasts call for, you know, still a significant growth in the fourth quarter but not at the 33 percent annualized pace that we had in the third quarter.",LABEL_2,0.9990100860595703
+21,"But what we see up to the present, really, is, continued growth, continued expansion, but at, at a gradually moderating pace.",LABEL_1,0.9891830682754517
+22,And I do think it’s likely that further support is likely to be Chair Powell’s Press Conference FINAL needed for monetary policy and fiscal policy.,LABEL_2,0.9969074130058289
+23,"And then we—what we can do is, we can obviously support financial stability through our lending programs, and, and we can support demand through, through interest rates and asset purchases and that sort of thing.",LABEL_0,0.8947634696960449
+24,"So, on the first—the first question, it’s—our asset purchases are serving both purchases, both—sorry, both purposes: financial market function and support for economic activity.",LABEL_0,0.7169213891029358
+25,"But after that period, we’ve, we’ve understood all along that our purchases are also supporting economic activity, and that’s important.",LABEL_2,0.6710067987442017
+26,"So in terms of what they can do, first I would just say, the purchases that we have in place are providing strong support to economic activity still.",LABEL_0,0.6054210066795349
+27,"And it’s just providing a lot of support for, for economic activity and, by the way, removing just about the same amount of duration risk from private hands as QE3 did.",LABEL_0,0.9931477904319763
+28,"And, and those are—that’s again—that goes to keeping this episode as short as it can be and avoiding unnecessary business bankruptcies, unnecessary household bankruptcies, and unnecessary long-term stays of unemployment or supporting people through them so that they can maintain their financial footing and their lives and be able to go back to work in a productive way.",LABEL_0,0.9912774562835693
+29,"It’s not so much a typical recession where demand weakens, the Fed cuts interest rates, interest rates stimulate demand, and the economy recovers.",LABEL_0,0.9857776761054993
+30,"You know, stimulating aggregate demand is one thing, but where there’s a part of the economy that kind of will be resistant to that, you also need fiscal policy.",LABEL_0,0.9826357364654541
+31,"That, that could weigh on economic activity.",LABEL_0,0.7226864695549011
+32,"So, we have had very little demand below $1 million in loans.",LABEL_2,0.9699716567993164
+33,And we’ll see how much demand will come.,LABEL_2,0.9996622800827026
+34,"You know, what you hear out there is that demand—you talk to banks, and they’ll say demand for loans is very, very low right now.",LABEL_0,0.9974244832992554
+35,"We have a specific, you know, job to do with, with a specific set of tools to support maximum employment, stable prices, financial stability, help the payment system, supervise banks—all the things we’re assigned to do.",LABEL_1,0.9875704646110535

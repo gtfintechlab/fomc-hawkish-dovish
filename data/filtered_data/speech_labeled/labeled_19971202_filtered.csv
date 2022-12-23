@@ -1,0 +1,40 @@
+Unnamed: 0,sentence,label,score
+0,"Government-directed production, financed with directed bank loans, cannot readily adjust to the continuously changing patterns of market demand for domestically consumed goods or exports.",LABEL_2,0.9996414184570312
+1,"Such systems can produce vigorous growth for a time when the gap between indigenous applied technologies and world standards is large, such as in the Soviet Union in the 1960s and 1970s and Southeast Asia in the 1980s and 1990s.",LABEL_2,0.9995808005332947
+2,"Rapid responses by businesses to changes in free-market prices have muted much of the tendency for unsold goods to back up, or unmet needs to produce shortages.",LABEL_2,0.99967360496521
+3,"While each of the Asian economies is unique in many important respects, the sources of their spectacular growth in recent years, in some cases decades, and the problems that have emerged are relevant to a greater or lesser extent to nearly all of them.",LABEL_2,0.9939152598381042
+4,"Following the early post World War II period, policies generally fostering low levels of inflation and high rates of savings and investment--including investment in human capital through education--contributed to a sustained period of rapid growth.",LABEL_0,0.5698525309562683
+5,"Sustained, spectacular growth in Asian economies fostered expectations of high returns with moderate risk.",LABEL_2,0.9297074675559998
+6,"A substantial amount came from Japan, as well, owing more to a search for higher yields than to rising stock prices and capital gains in that country.",LABEL_2,0.8810979723930359
+7,"It may have been inevitable in those conditions of rapid growth, ample liquidity, and an absence of sufficient profitable alternatives, that much investment moved into the real estate sector, with an emphasis by both the public and private sectors on conspicuous construction projects that had little economic rationale.",LABEL_2,0.8461710214614868
+8,"But high debt burdens allow little tolerance for rising interest rates or slowdowns in economic growth, as recent events have demonstrated.",LABEL_1,0.9981029033660889
+9,"Moreover, the rapidly growing foreign currency denominated debt, in part the result of pegged exchange rates to the dollar, put pressure on companies to earn foreign exchange.",LABEL_1,0.9958614706993103
+10,"In addition, in some cases, the glut of semiconductors in 1996 and the accelerated drop in their prices suppressed export earnings growth, exerting further pressures on highly leveraged businesses.",LABEL_0,0.9989913105964661
+11,"In time, the pressures on what had become fixed exchange rate regimes mounted as investors, confronted with ever fewer profitable prospects, slowed the pace of new capital inflows.",LABEL_0,0.8148432970046997
+12,"To counter pressures on exchange rates, countries raised interest rates.",LABEL_1,0.9989290833473206
+13,"For fixed-exchange-rate, highly leveraged economies, it was only a matter of time before slower growth and higher interest rates led to difficulties for borrowers, especially those with fixed obligations.",LABEL_1,0.9989277720451355
+14,"Perhaps, given the circumstances, it was inevitable that the impressive and rapid growth experienced by the economies in the Asian region would encounter a temporary slowdown or pause.",LABEL_2,0.873938262462616
+15,"I say temporary because there is no reason that above-average growth in countries that are still in a position to gain from catching up with the prevailing technology cannot persist for a very long time, provided their markets are opened to the full force of competition.",LABEL_2,0.9350371360778809
+16,New growth opportunities must be allowed to emerge.,LABEL_2,0.9976301193237305
+17,"Although the economies of the troubled Asian countries were usually characterized by a combination of current account deficits, large net foreign currency exposures, and constraints on exchange rate fluctuations, one cannot generalize that these are always signs of impending difficulties.",LABEL_2,0.992634117603302
+18,"Large current account deficits, per se, are not dangerous if they result from direct investment inflows that are not subject to rapid withdrawal and that generate an increase in income sufficient to compensate the investors.",LABEL_1,0.9400634169578552
+19,"Fixed exchange rates, also, are not necessarily a problem.",LABEL_2,0.9998227953910828
+20,But a small open economy can maintain an exchange rate fixed to a hard currency only under certain conditions.,LABEL_2,0.9997305274009705
+21,"Other economies, such as Argentina and Hong Kong, have fixed their exchange rates essentially through currency boards.",LABEL_2,0.9998363256454468
+22,"But when exchange rates are fixed, with or without currency boards, should monetary and fiscal policies diverge significantly from those of the larger economy, the currency lock of the smaller economy would be difficult to hold irrespective of the size of reserves.",LABEL_2,0.9997195601463318
+23,"They cannot prevent it if policies are inconsistent, or prices in the smaller country are inflexible.",LABEL_2,0.999649167060852
+24,A well-functioning international financial system will seek out anomalies in policy alignments and exchange rates and set them right.,LABEL_2,0.9992511868476868
+25,"In such a system, the exploitation of above normal profit opportunities, that is, arbitrage, will force prices to change until expected returns have been equalized.",LABEL_2,0.9992881417274475
+26,But speculators rarely succeed in dislodging an exchange rate that is firmly rooted in compatible policies and cost structures.,LABEL_2,0.9998207688331604
+27,"But, to repeat, the inestimable advantages that it brings to trade and standards of living also carry a price.",LABEL_2,0.9918006062507629
+28,"Nonetheless, there are those who ask whether the price of so sophisticated a financial system is too high.",LABEL_2,0.5335504412651062
+29,"Would it not be better to slow it down a bit, and perhaps achieve a system somewhat more forgiving of mistakes, even recognizing that such a slowing may entail some shortfall in long-term economic growth?",LABEL_2,0.9588772058486938
+30,"Price and capital controls, which might have been feasible a half century ago, would be very difficult to implement in today's more technologically advanced environment.",LABEL_2,0.9996826648712158
+31,This would surely produce a far more negative impact on economic growth than would be acceptable to even the most ardent advocates of reigning in the rapid expansion of our international financial system.,LABEL_0,0.9714429378509521
+32,"The New York Stock Exchange was straining badly under the near 400 million daily share volume of late October 1987, with long reporting delays creating uncertainties that, doubtless, exaggerated the price declines.",LABEL_2,0.9556954503059387
+33,The private and public sectors across the globe have endeavored diligently for years to expand the capacity of the system to meet the increasing demands put upon it.,LABEL_1,0.7676743865013123
+34,Efficient bankruptcy arrangements reduce disruptions to economic activity that often arise when losses have to be imposed on creditors.,LABEL_2,0.998420238494873
+35,Potentially nothing if they were made to firms to finance expansions that just happened to coincide with a rise in consumer or business or overseas demand for their newly produced products.,LABEL_2,0.9992027878761292
+36,"If denominated in local currency, they can be financed with the printing press--though with consequent risk of inflation.",LABEL_2,0.9728837013244629
+37,"Such conditionality accelerates the adjustments in financial systems needed to lay the foundation for resumption of robust, sustainable, growth, while cushioning to some degree the economic effects of the immediate crisis.",LABEL_0,0.9896790981292725
+38,The rapid integration of national financial systems has fostered the growth of trade and standards of living worldwide.,LABEL_2,0.9991080164909363

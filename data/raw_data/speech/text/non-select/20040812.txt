@@ -1,0 +1,110 @@
+For three years these reformers lie dormant, biding their time and fine-tuning their plans.
+It is not yet time, they caution.
+Let's wait until presidential politics are out of the way.
+This conference seems to be a first shot in the 2005 reform round, much like the first robin song of spring.
+I confess that in the past I have been a part of the reform campaign, though my efforts in 1997 were largely dictated by the advisory council I had chaired for the previous three years.
+As everybody knows, the 1997 round came to naught, as did the 2001 round, the 1993 round, the 1989 round, and the 1985 round.
+The odds are that the 2005 round will come to naught too, but hope springs eternal.
+In 1997 I advocated a plan that I still think is sound, and one that I still like better than any alternative I have seen.
+It contained some steps to tighten up the present system--most notably indexing the retirement age to overall life expectancy.
+One could buttress these steps, and add modestly to system progressivity, by changing the maximum taxable wage amount or by adjusting benefit bend points or marginal replacement rates.
+My plan also featured small-scale add-on individual accounts.
+I thought small-scale individual accounts would be viewed as a nice, moderate solution to the problem of generating new national saving and new saving for retirement, but in fact they were universally condemned.
+Basically, liberals seem to fear any new individual accounts, and conservatives don't like accounts that are too small.
+Small individual accounts can also be criticized as a costly way to raise saving.
+Were I playing this time around, I might compromise with political reality by foregoing the individual accounts.
+Low national saving is still a very important issue, but dealing with it through general fiscal policy would be more efficient.
+As for Social Security, perhaps we could just index the retirement age and take some other measures, of which there are many possibilities, to bring the system into actuarial balance.
+But that approach may not be universally appealing either, and I will probably sit out the 2005 round.
+Just like an aging player who turns to umpiring when he can no longer hit the fast ball, for this talk I am going to focus not on reform plans themselves but on the rules of the game.
+When liberals or conservatives fashion their reform plans this year, they ought to play by certain rules, and I want to list and defend those rules.
+Some of these rules are merely repeated from our 1997 advisory council report, and some I developed later in response to what I consider to be policymaking false advertising.
+1.
+Stick to standard assumptions Many assumptions go into Social Security forecasts and reform plan forecasts.
+The trustees' report is the source of these assumptions, thirteen of which are important.
+For both economic and demographic assumptions, the trustees and their staffs, covering four government agencies, work with two outside trustees, as well as the actuaries for Social Security and Medicare, to review past information and to project sensible assumptions.
+From time-to-time technical panels have reviewed and assessed the trustees' assumptions.
+The trustee process has generally worked very well.
+It has been remarkably free of political influence, a considerable achievement in view of the stakes involved.
+Advisory councils and outside analysts alike have used the trustees' assumptions, and most of the ensuing arguments have involved the policies themselves, not the assumptions.
+These assumptions are sometimes controversial.
+In recent years the trustees have arguably used overly pessimistic productivity assumptions, which would tend to worsen the actuarial balance of the Social Security trust fund (SSTF), and overly pessimistic mortality assumptions, which would tend to improve the SSTF actuarial balance.
+In a deeper sense, it has not always been clear that the trustees' assumptions have come from a common theoretical framework.
+The process would certainly benefit from more concentrated attention on how the macroeconomy should be modeled in the long run.
+Questions that could be asked include whether the real wage assumptions are consistent with the real interest rate assumptions, whether the retirement assumptions are consistent with the mortality assumptions, and whether the population assumptions are consistent with the factor-augmenting productivity assumptions from a production function.
+The process will also benefit from the input of other agencies, such as the Congressional Budget Office.
+Two sets of analyses are better than one, and the trustees' assumptions should be improved and refined over time with the added debate.
+At the same time, I would still argue that the trustees' assumptions, long the bedrock of Social Security forecasts, should continue to play a central role.
+The base case of all plans should be analyzed with the intermediate assumptions of the trustees.
+2.
+Conduct proper stochastic simulations But base cases aren't everything.
+Even when the forecast period is only one or two years, economic forecasters should show alternative simulations.
+Social Security forecasters should certainly make alternative projections further into the future, an activity known as sensitivity analysis.
+In the past, the trustees have carried out optimistic and pessimistic simulations by varying all thirteen important assumptions up or down.
+Although better than nothing, this approach could give a misleading view of the stochastic uncertainty, because it is highly unlikely that all thirteen variables will go one way or the other.
+Statisticians have long known how to deal with such issues--they just estimate the full variance-covariance matrix and vary the assumptions probabilistically.
+Then they run a large number of Monte Carlo simulations and compute the sensitivity bands from that.
+One cannot literally do that with Social Security assumptions because the forecasts are appropriately not all taken from past data with computable standard errors.
+At the same time, the trustees do have lower and upper bounds on all assumptions, and the Monte Carlo methodology could be approximated.
+Indeed, I am pleased to see that the trustees are already taking steps in this direction.
+Most designers of reform plans have stuck to the base case in costing out their plans, but this convention should change as well.
+Some plans look better or worse in particular scenarios, some are actually structured to reduce true stochastic uncertainty for the whole system, and some increase stochastic uncertainty.
+It is important to know how various plans fare on this dimension.
+Hence, along with the stochastic simulations of the present system, we should also require stochastic simulations of alternative plans, to learn how the system would fare under different scenarios.
+3.
+Conduct simulations for which the end point doesn't matter For years the trustees have assessed the long-run solvency of the program over a seventy-five-year period.
+Seventy-five years seems like a long time, but for Social Security purposes it may not be long enough.
+If trust fund inflows and outflows were roughly in balance beyond the seventy-five year horizon, a simulation of that length might be adequate for judging the long-run sustainability of the system.
+But in fact, the years beyond the horizon are ones of large imbalance.
+Hence, the seventy-five-year results give a misleadingly optimistic picture of SSTF finances.
+Not only that, but because each passing year brings a new high-deficit year into the forecast period, the passage of time alone with no forecast error moves the system into a deeper actuarial deficit.
+Were the Congress somehow to make changes that solved the seventy-five-year actuarial deficit, it would take only one year for the system to fall again into imbalance.
+Such a situation could cause political discomfort, to say the least.
+There are a number of ways to deal with this problem.
+Before 1965 the trustees determined the long-run solvency of the system by making calculations in perpetuity.
+This method was changed in 1965, partly because of the difficulty of making super long-run projections--say, projecting birth rates in 2450 (even though, because of discounting, those projections will not matter much).
+In our advisory council report we hit on the idea of requiring any reform plan to stabilize the trust fund ratio (trust fund balance over annual expenditures) in the eighth decade out.
+Such an approach avoids the end-point problem without using numbers beyond the seventy-five-year forecast horizon, though there could still be problems beyond the eighth decade.
+One could also factor in some measure of automaticity--say, having tax rates or retirement ages gradually adjust to trends in spending or taxes.
+We should still show flow results at various stages in the future, or cumulative results for subperiods, to prevent game-playing with time horizons.
+But when results are cumulated into the present payroll tax change that would cover all future deficits, or other such magnitudes, let's make this calculation independent of end points.
+And let's eliminate the situation in which the passage of time alone, with no forecast error, can change the actuarial balance of the SSTF.
+4.
+Integrate disability insurance Social Security is really two programs--a program for old-age and survivor assistance and a program for the disabled.
+The disabled do not get analyzed much, but they are surprisingly important--at latest count numbering 18 percent of benefit recipients.
+Benefits for the disabled are computed within the overall Social Security benefit formula.
+Essentially, instead of averaging earnings over the high thirty-five-year career earnings, the averaging takes place for the time of the worker's disability back to age twenty-one.
+This means that when reformers alter retirement ages, bend points, or marginal replacement rates, disabled workers are more or less dealt with in a proportionate manner, though some reformers have introduced special adjustments.
+But disabled workers would not necessarily be dealt with in a proportionate manner by changes that convert normal payroll contributions to individual accounts, for the simple reason that the workers lose years in which to build up their accounts.
+Compensatory adjustments can, of course, be made.
+My only point is that adjustments ought to be made, or at least considered, to integrate disabled workers.
+Plans that convert to individual accounts should not get a free ride because they ignore the disabled.
+5.
+Require reform plans to be internally financed So far most of my strictures could be taken right out of a statistics book, or from the report of the advisory council that I chaired.
+I will now get a little more controversial.
+One development that does make it difficult to choose among competing Social Security plans is that analysts have begun assuming fiscal transfers.
+Such transfers can obviously improve the attractiveness of the present system or of reform plans.
+For example, the present system could be preserved simply by transfers from the non-Social Security part of the federal budget.
+Alternatively, workers could be allowed to divert their tax contributions into individual accounts and make up the difference with budgetary transfers.
+Our advisory council did not recommend any such transfers, but many subsequent plans have.
+Let's stop the practice and require all plans to be internally financed.
+This seems the only fair way to compare plans.
+I argued this point a few years ago when federal surpluses were projected and many of those who hold overall views about Social Security similar to mine were proposing fiscal transfers.
+That time seems long ago.
+Now that we have budget deficits as far as the eye can see and deficits that are large and getting larger, my case for fiscal abstinence should be much stronger.
+This stricture would not abolish plans with transition costs--it would require only that any taxes or benefit cuts needed to fund the transition should be explicitly identified and assessed.
+I would even extend the stricture to prevent loans of general revenues that might be paid back late in the transition period because we have no guarantee that these loans will in fact be paid back and because the possibilities for false advertising are too great.
+Even if, by some miracle, the general government budget comes back into something approaching balance, I would still argue my case on the grounds of an even-handed comparison.
+Perhaps the political imperatives won't be as strong then, but I still cannot find a strong reason why Social Security reform should not be internally financed.
+6.
+Do not incorporate an equity premium Many Social Security reform plans involve investing in equities, either publicly by the SSTF or privately through individual accounts.
+There are sound reasons for such investments, and I make no criticism of the investments themselves.
+But let's score the investments fairly.
+It is true that for very long past periods stocks have outperformed bonds.
+But stocks have not outperformed bonds for every decade within these long periods, and decades are relevant for analyses of individual accounts.
+Over the future, every canon of modern-day finance, indeed every canon of traditional finance, suggests that prospective risk-adjusted rates of return should be the same on stocks and bonds.
+So, plan reformers, invest in equities if you wish, but claim the same risk-adjusted rate of return for stocks and bonds.
+Claiming higher returns on system or individual portfolios invested in equities is legitimate only if the simulation also factors in the greater investment risk.
+Overall system finances should not benefit from portfolio shifts.
+Assessment The first four of these scoring suggestions should not be controversial and should certainly be feasible with modern analytical techniques.
+The last two may be more controversial, but they strike me as the only fair way to make comparisons across plans.

@@ -1,0 +1,138 @@
+As most of you know, we are in the middle of a particularly busy time with respect to Basel II implementation in the United States.
+Therefore, I plan to offer some thoughts on recent events relating to U.S. work on Basel II.
+I will also provide some additional information and context to help people as they think about how to comment on the U.S. proposals that are currently outstanding.
+But before I begin discussing recent events, I would like to reiterate briefly the Federal Reserve's reasons for why Basel II is important in the United States.
+Reasons for Basel IIBanking is a business in which banks take and manage risks.
+Bankers implicitly accept risk when providing financial services to customers and also take explicit risk positions that offer profitable returns relative to their risk appetites.
+One of the most important jobs of bank supervisors is to ensure that banks maintain an adequate capital cushion against losses, especially during times of financial instability or stress.
+Minimum regulatory capital requirements are an integral part of ensuring that banks have an adequate cushion.
+When developing minimum capital requirements, supervisors should continue to promote approaches that both minimize the negative consequences of risk taking by financial institutions and encourage improved risk-management practices, particularly at those institutions that could affect global financial stability.
+The Federal Reserve's main reason for pursuing Basel II is the growing inadequacy of current Basel I regulatory capital rules for the large, internationally active banks that are offering ever more complex and sophisticated products and services.
+We need a more risk-sensitive capital framework for these particular banks, and we believe Basel II is such a framework.
+In addition, Basel II would promote risk-measurement and risk-management enhancements and improve market discipline, while giving supervisors a more conceptually consistent and more transparent framework for evaluating systemic risk, particularly through credit cycles.
+Basel II should establish a more coherent relationship between regulatory measures of capital adequacy and the day-to-day risk-focused supervision of banks, enabling examiners to better evaluate whether banks are holding prudent levels of capital given their risk profiles.
+For similar reasons, U.S. supervisors support the 2005 Basel/International Organization of Securities Commissions (IOSCO) revisions to the 1996 Market Risk Amendment (MRA).
+Since adoption of the MRA, banks' trading activities have become more sophisticated and have given rise to a wider range of risks that are not easily captured in the existing value-at-risk (VaR) models used in many banks.
+For example, banks are now including more products related to credit risk, such as credit-default swaps and tranches of collateralized debt obligations, in their trading books.
+These products can create default risks that are not captured well by the methodologies required under the current MRA rule--which specifies a ten-day holding period and a 99 percent confidence interval--thereby creating potential arbitrage opportunities between the banking book and the trading book.
+Recent Events Relating to U.S. Basel II ImplementationAs most of you know, there have been two important recent events related to Basel II implementation in the United States, both of which occurred on February 15.
+The first was the release of a report by the Government Accountability Office (GAO) on U.S. implementation of Basel II.
+The second was issuance of proposed Basel II supervisory guidance by the U.S. banking agencies.
+GAO StudyThe Federal Reserve welcomes the recent GAO report on Basel II implementation in the United States.
+We believe this report will help move the U.S. Basel II process forward.
+While I do not intend to summarize the GAO report here, I would like to offer a few thoughts on the report's conclusions.
+The Federal Reserve concurs with the report's finding that the Basel I capital rule is particularly inadequate for large banking organizations; the report states that the agencies should continue their efforts to finalize the U.S. Basel II capital rule and proceed with the parallel run and transition period to Basel II.
+We agree with the report's conclusion that finalizing the U.S. Basel II rule would generate crucial information to enable the agencies to make future assessments of the strengths and weaknesses of the Basel II rule for the U.S. banking system.
+We also agree with the GAO's finding that establishing Basel-II transitional floors will prevent a bank's regulatory capital requirements from declining precipitously during the transition period.
+And finally, we agree with the GAO that any further delay in the U.S. implementation of Basel II creates potential competitive disadvantages for U.S. banks when they are compared with foreign banks.
+The GAO report also raised issues about transparency and ambiguity in the U.S. Basel II process.
+While the agencies are striving to be as transparent as possible in the Basel II implementation process--in some cases going well beyond our obligations under the Administrative Procedure Act--we recognize that some aspects of the Basel II proposals are ambiguous, as noted by the GAO report.
+The agencies expect to address this ambiguity substantially as we work to finalize the Basel II rule.
+Moreover, the experience we gain implementing the new regulatory capital framework during the transition period will help us address remaining uncertainties.
+Of course, we hope that comments on all aspects of our proposals will also help us identify and resolve potential areas of ambiguity.
+To meet the timetable for US implementation, it is important that the agencies move forward in considering the comments as promptly as possible.
+Therefore, I particularly encourage you in your comments to go beyond criticism of what has been proposed and specify your preferred solution, including alternative technical methodologies, language, and frameworks.
+U.S. Basel II Supervisory GuidanceWe are very pleased that on February 15 the U.S. agencies released proposed supervisory guidance to accompany the Basel II notice of proposed rulemaking (NPR) issued last September.
+While documents that make up the proposed guidance have not yet been published in the Federal Register, they are available on the agencies' public websites.
+I would like to take a moment to thank the Federal Reserve staff and staff from the other banking agencies who worked very hard to produce the proposed guidance.
+Once again, I do not plan to summarize the guidance here.
+But I do believe a few points are worth highlighting.
+As most of you know, the Basel II NPR outlines qualification requirements for institutions calculating regulatory risk-based capital requirements (Pillar 1) using the advanced internal ratings-based approach (IRB) for credit risk and the advanced measurement approaches (AMA) for operational risk--together known as the advanced approaches.
+The qualification requirements for the advanced approaches are written broadly to accommodate the many ways a bank may design and implement robust credit and operational risk measurement and management systems, and to permit industry practice to evolve.
+The supervisory guidance relating to requirements for calculating risk-based regulatory capital under the advanced approaches updates and expands on proposed supervisory guidance issued in 2003 and 2004; both of those documents were companion pieces to the 2003 Basel II advance notice of proposed rulemaking.
+Likewise, the full set of guidance documents issued on February 15 is intended to provide additional information to help banks understand the qualification requirements laid out in the Basel II NPR.
+In most areas of risk management, it is our intention to have institutions retain their ability to choose which specific methods they employ.
+In other words, the guidance identifies an acceptable range of practice for banks.
+Within this range, a bank could use several types of approaches and methodologies.
+The proposed guidance offers some concrete examples of different approaches that might be considered acceptable practices.
+In addition to supervisory guidance on requirements for institutions using regulatory risk-based capital requirements (Pillar 1), the agencies issued proposed guidance relating to supervisory review of capital adequacy (Pillar 2).
+Although this is the first guidance on Pillar 2 issued by the U.S. agencies, the supervisory review process described in the guidance is a continuation of the agencies' long-standing approach to bank supervision.
+However, some aspects of existing supervisory practices are being augmented or more clearly defined to support the proposed Basel II framework.
+Probably the most noteworthy change is a specific requirement, outlined in the NPR, for banks to develop an internal capital adequacy assessment process (ICAAP).
+The proposed guidance offers additional detail about the ICAAP, but in short, the ICAAP should identify and measure material risks, set capital goals that relate to risks, and provide governance and controls to ensure that internal capital assessments are subject to proper oversight.
+The ICAAP requirement is intended to underscore the agencies' existing view that the primary responsibility for assessing capital adequacy lies with banks.
+Supervisors are responsible for evaluating bank assessments of capital adequacy and for ensuring that the processes for developing those assessments are robust and satisfactory.
+Notably, the proposed ICAAP requirement is consistent with existing Federal Reserve supervisory guidance as reflected in Supervision and Regulation Letter 99-18.
+The agencies believe that the proposed supervisory guidance documents are a necessary supplement to the Basel II NPR.
+The guidance includes standards to promote safety and soundness and to encourage the comparability of regulatory capital measures across banks.
+During the qualification process, a bank's primary federal supervisor will review the bank's risk-measurement and -management framework relative to the qualification requirements in order to determine whether the bank may apply the advanced approaches to calculate minimum regulatory capital.
+The proposed supervisory guidance documents are companion guidance to the Basel II NPR; therefore, they do not address any public comments received since the NPR was issued.
+The guidance provides additional information that should help banks satisfy the NPR's qualification requirements.
+Importantly, the publication of these guidance documents for comment does not imply that the final outcome of the NPR has already been determined.
+As part of the rulemaking process, the proposed guidance documents are subject to change on the basis of, among other things, public comments and the agencies' decisions regarding any final rule.
+As they did with other proposed Basel II documents, the U.S. agencies are requesting feedback on all the outstanding proposed supervisory guidance.
+It would be particularly helpful if reviewers looked at the NPR--whose comment period ends March 26--and the proposed supervisory guidance together in order to decide whether the documents provide them with enough information to determine whether they meet the U.S. Basel II qualification requirements.
+We welcome any and all comments, ranging from broader opinions about the proposed framework to feedback on the more technical aspects of the proposals.
+We think institutions will find information in the proposed guidance helpful as they progress towards implementing risk-measurement and risk-management systems that are consistent with any final U.S. Basel II rule.
+However, since the proposed guidance is subject to change, we understand that lack of certainty about rules and guidance can be confusing and frustrating.
+We recognize that many institutions have been diligently preparing for Basel II implementation and we understand our obligation, as regulators, to support institutions wanting to adopt Basel II at the first available date.
+One of the reasons for providing proposed guidance at several stages in the Basel II implementation process is to help guide U.S. institutions that wish to adopt Basel II as soon as possible.
+We suggest that those institutions continue to move forward with their implementation, including the identification of gaps in their own preparation, while remembering that proposals could change.
+The agencies remain open to considering the full set of possibilities for Basel II.
+We continue to seek comment on whether some form of the Basel II standardized approach should be adopted in the United States.
+When deciding whether our large, internationally active banks should have access to a standardized approach, the agencies will need to consider a number of important issues: whether such an approach would accommodate the risks those banks take, now and in the future; whether it would provide adequate risk sensitivity; whether taking the time needed to develop an appropriate U.S. version of the standardized approach would unduly delay the Basel II implementation process; whether the standardized approach would be useful on a transition basis in order to give some banks more time to prepare to use the advanced approaches; and, finally, whether the marketplace would find such an option for those banks meaningful and acceptable.
+We are aware that some institutions have concerns, which they have expressed in formal comment letters, about areas in which the Basel II NPR diverges from the Basel II 2004 Mid-year Text.
+Some of their specific concerns relate to proposed safeguards in the Basel II NPR that go beyond those in the Mid-year Text, including the effect on risk sensitivity that may result from the proposed limit on declines in aggregate capital.
+The proposed definition of default and treatment of downturn LGDs (loss given default) are also areas that have received attention from commenters.
+Additionally, there has been some concern expressed about retention of the existing leverage ratio.
+The U.S. agencies remain sensitive to these and other issues raised by commenters so far, including the overall burden and costs associated with the current proposals, as well as any potential competitive effects that may arise.
+Once we have received all comments on the proposals, we intend to review all comments carefully to assess what is the best way forward.
+The Federal Reserve hopes that everyone who reviews the proposals understands that they are intended to promote the stability of the U.S. financial system by ensuring the safety and soundness of the largest U.S. banks.
+Thus, as Chairman Bernanke has noted, the ability of Basel II to promote safety and soundness is the first criterion by which these regulatory capital proposals should be judged.
+Proposed Revisions to the Market-Risk RuleAs you are likely aware, the Federal Reserve, the Office of the Comptroller of the Currency, and the Federal Deposit Insurance Corporation also have issued an NPR to amend their market-risk capital rules.
+The proposed amendments would implement changes to the Market Risk Amendment that were adopted by the Basel Committee and IOSCO in 2005.
+The Office of Thrift Supervision joined in the NPR and, when the rules are finalized, will be implementing a market-risk capital rule for the first time.
+The comment period on the market-risk NPR recently ended, and the agencies are reviewing the comments received in preparation for interagency discussions on the final rule.
+The current market-risk rule uses a principles-based approach to market-risk capital regulation.
+In crafting the market-risk NPR, the agencies strived to continue the existing principles-based approach by avoiding highly prescriptive rule proposals.
+Some comments received to date indicate that in certain areas we could be even less prescriptive and in other areas the comments ask for more clarity or specifics.
+We will consider all comments carefully in trying to reach a balance between a principles-based approach and appropriate clarity.
+Let me briefly review a few of the more important changes introduced in the market-risk NPR and then discuss some of the comments received on these proposed changes.
+The objectives of the proposed changes are to enhance the rule's risk sensitivity and to reflect changes in the composition of banks' trading books and changes in risk-management practices over the last ten years.
+One principal change is a new definition of the positions covered by the rule.
+Positions covered by the current market-risk rule generally include all GAAP trading assets and liabilities.
+Under the NPR, positions covered would include only those GAAP trading assets and liabilities that either meet the rule's definition of a trading position or are hedges of other positions covered by the rule.
+Trading positions would be defined as positions held for short-term resale, held with the intent of benefiting from actual or expected price movements, or held to lock in arbitrage profits.
+While the proposed new definition in the NPR would result in potentially different definitions of a trading position for accounting, risk-management, and regulatory capital paradigms, these differences, while not ideal, are based on the manner in which trading positions are treated in these respective areas.
+For example, under the market-risk capital rule, capital is calculated on the basis of a ten-day holding period and a 99 percent confidence level--parameters that generally are appropriate only for liquid and actively managed positions.
+Further, ongoing changes in accounting standards are affecting the mix of assets and liabilities carried in trading books and the banking book.
+For regulatory capital purposes, the geography of the exposure on the balance sheet should be secondary to the inherent nature of risks that the financial instruments reflect.
+Recognizing that banks' trading books have evolved over the last ten years to include riskier credit and illiquid positions, the rule would impose a new capital requirement for incremental default risk on any portfolio of covered positions for which a bank models specific risk.
+Incremental default risk would be defined as the default risk of a covered position that is not reflected in the bank's VaR measure (because, for example, the risk extends beyond the ten-day holding period and the 99 percent confidence level).
+Incremental default risk would be measured consistent with a one-year time horizon and a one-tailed, 99.9 percent confidence level--which is comparable to the measures under IRB in the Basel II framework.
+Consistent with a principles-based approach, banks would have the discretion to use one or more models to measure incremental default risk, subject, of course, to supervisory review.
+The industry continues to actively discuss with the Basel Committee and IOSCO supervisors how best to implement a capital measure for incremental default risk.
+Accordingly, under the proposed rule, banks would have until January 1, 2010, to develop appropriate methodologies to measure this risk.
+The U.S. agencies are currently reviewing all comments on the market risk NPR.
+I will not try to summarize the comments received so far, but I would like to note that we are carefully considering the request that implementation of the market risk proposals be pushed back one year to January 2009. International Aspects of Basel II ImplementationOf course, we continue to recognize that the national discretion allowed under Basel II means various countries will adopt different approaches to Basel II.
+Further, we recognize that these different approaches may create challenges for banking organizations that operate in multiple jurisdictions.
+Wherever possible, we are working to minimize these differences and difficulties.
+But we should remember that, even before Basel II, cross-border banking has always raised specific challenges, which supervisors from various countries have worked hard to address and mitigate.
+Let me assure all bankers here that the Federal Reserve is aware that the adoption of national versions of Basel II has resulted in heightened concerns about home-host issues.
+We are committed to working with other international supervisors to resolve these issues.
+Indeed, the Federal Reserve and other U.S. agencies have, for many years, worked with their international counterparts to limit the difficulties and burdens that have arisen as foreign banks have entered U.S. markets and as U.S. banks have established operations in other jurisdictions.
+Throughout the Basel II process, we have been engaged in dialogue with our international counterparts through various avenues, such as supervisory working colleges, to share ideas and tackle specific issues as they arise.
+Some of these issues are very institution- and country-specific and are, therefore, better addressed through individual conversations with an institution and its relevant supervisors.
+The Federal Reserve continues to be an active participant in supervisory working groups for all large U.S. and foreign banking organizations in the United States.
+We are encouraged by the level of cooperation and pragmatism coming out of these efforts.
+For example, supervisory planning efforts for U.S.-based banking organizations for the upcoming year are reviewed with foreign supervisory authorities to ensure that, regardless of Basel II timing issues, information pertaining to ongoing supervisory judgments of risk-management practices is available.
+We have also been encouraged by the dialogue with our foreign colleagues regarding their desire to provide flexibility in transitional arrangements.
+I would add that we have benefited from the numerous meetings we have had and from the opportunity to speak at conferences such as this one.
+These exchanges help us identify critical global concerns to examine further.
+We will be evaluating all of this input closely as part of our rulemaking process.
+As always, we encourage bankers who have questions and concerns about home-host issues to communicate promptly with their regulators in all jurisdictions so that the issues can be addressed.
+Another key point, when talking about differences across countries, relates to findings from the Basel II quantitative impact studies (QIS4 and QIS5) conducted in the last few years.
+Interestingly, the two exercises identified a number of similar issues, some in areas in which institutions were not able to provide adequate data (especially for downturn scenarios).
+In the United States, QIS4 was conducted before the release of the Basel II NPR, while in Europe, QIS5 was conducted only after the passage of European Union legislation implementing Basel II.
+Therefore, much of what U.S. supervisors learned in QIS4 is addressed in the NPR; for example, the NPR includes a proposed supervisory mapping function for downturn estimates of loss given default.
+European supervisors, on the other hand, did not have the benefit of information from QIS5 when they were drafting their rules.
+While I cannot speak for my European counterparts, no doubt some of the issues raised in QIS5 will be addressed during Basel II implementation in Europe.
+It is possible that differences in Basel II implementation may mean that the U.S. version of Basel II is in some aspects more conservative than other countries' versions.
+In other areas, the U.S. proposals may be less conservative.
+And we also know that banks manage capital to meet regulatory minimums as well as to support strategic objectives, and for that reason successful banks hold capital well above regulatory minimums.
+Banks know that customers, counterparties, creditors, and investors consider capital as well as the financial performance and risk exposures of banks when making their decisions.
+Under today's relatively stable minimum regulatory capital requirements, banks hold excess capital to be able to respond to potential business expansion opportunities and to manage through market and credit risk cycles.
+It is likely that with a more risk-sensitive approach to capital, banks will have to consider whether their current cushion of actual capital above regulatory minimums is still appropriate.
+On balance, the Federal Reserve believes that an appropriately conservative approach to capital adequacy serves the United States' interest in maintaining the safety, soundness, and resiliency of our banking system.
+However, we also recognize the impact that differences among countries can have and that it is worthwhile to minimize them whenever possible.
+As Chairman Bernanke noted this past fall, we intend to review and consider international differences before issuing a final Basel II rule.

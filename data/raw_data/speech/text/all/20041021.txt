@@ -1,0 +1,176 @@
+The price per barrel reached $37 in March and nearly $41 in May.
+Oil prices have continued to rise erratically since the spring, even as other commodity prices have generally stabilized and overall inflation has been low.
+As of last week, the price of a barrel of West Texas intermediate stood at about $55.2 Some perspective is in order.
+Oil prices are at record levels when measured in nominal terms, but when adjusted for inflation the price of oil still remains well below its historical peak, reached in 1981.
+Measured in today's dollars, crude oil prices in 1981 were about $80 per barrel, and the price of gasoline at the pump was nearly $3 per gallon.
+Moreover, energy costs at that time were a larger share both of consumers' budgets and of the cost of producing goods and services than they are today.
+Clearly, the surges in oil prices of the 1970s and early 1980s had much more pronounced economic effects than the more recent increases have had or are likely to have, barring a substantial further rise.
+All that being said, prices of oil and oil products in the United States today are quite high relative to recent experience.
+During most of the 1990s, oil prices were roughly $20 per barrel, and for a short period in 1998 (remembered without fondness by oil explorers and producers) the price of a barrel of crude fell to just above $10.
+As I mentioned, only a year ago the price of oil was about $30 per barrel.
+The recent rise in oil prices has thus been large enough to constitute a significant shock to the economic system.
+The runup in oil prices raises a number of important questions for economists and policymakers.
+Why have oil prices risen by so much and why do they continue to fluctuate so erratically?
+What is the outlook for oil supplies and oil prices in the medium term and in the long term?
+What implications does the behavior of oil prices have for the ongoing economic expansion?
+And how should monetary policy respond to these developments?
+I will touch briefly on each of these questions today.
+Before doing so, I should note that the opinions I express today are my own and are not to be attributed to my colleagues in the Federal Reserve System.3 Recent and Prospective Developments in Oil MarketsTo assess recent developments in the oil market, it would be useful to know whether the high price of oil we observe today is a temporary spike or is instead the beginning of an era of higher prices.
+Although no one can know for sure how oil prices will evolve, financial markets are one useful place to learn about informed opinion.
+Contracts for future deliveries of oil, as for many other commodities, are traded continuously on an active market by people who have every incentive to monitor the energy situation quite closely.4 Derivative financial instruments, such as options to buy or sell oil at some future date, are also actively traded.
+The prices observed in these markets can be used to obtain useful information about what traders expect for the future course of oil prices, as well as the degree of uncertainty they feel in predicting the future.
+One inference we can draw from recent developments in the oil market, in particular from the pricing of derivative instruments, is that traders in that market are unusually uncertain about how the price of oil will evolve over the next year or so.
+For example, as of last week, traders assigned about a two-thirds probability that the price of crude oil as of next June would be between $38 and $60 per barrel.
+Or, to say the same thing another way, traders perceived a one-third chance that the price of oil would fall outside the wide $38-$60 range.
+That well-informed traders would be so uncertain about what the price of oil will be only eight months in the future is striking, to say the least.
+Uncertainty can in itself be a negative factor for the economy; for example, I would not rule out the possibility that uncertainty about future energy costs has made companies a bit more cautious about making new capital investments.
+However, probably more economically significant than near-term uncertainty about oil prices is the fact that traders appear to expect tight conditions in the oil market to continue for some years, with at best only a modest decline in prices.
+This belief on the part of traders can be seen in the prices of oil futures contracts.
+Throughout most of the 1990s, market prices of oil for delivery at dates up to six years in the future fluctuated around $20 per barrel, suggesting that traders expected oil prices to remain at about that level well into the future.
+Today, futures markets place the expected price of a barrel of oil in the long run closer to $39, a near doubling.5 Thus, although traders expect the price of oil to decline somewhat from recent highs, they also believe that a significant part of the recent increase in prices will be long lived.
+What accounts for the behavior of the current and expected future price of oil?
+The writer George Bernard Shaw once said that, to obtain an economist, it was only necessary to teach a parrot to repeat endlessly the phrase "supply and demand."
+Well, as an economist, I have to agree with the parrot.
+For the most part, high oil prices reflect high and growing demand for oil and limited (and uncertain) supplies.
+On the demand side, the International Energy Agency (IEA), perhaps the most reliable source of data on world oil production and consumption, has continued to revise upward its projections of global oil usage.
+To illustrate, world oil consumption for the second quarter of this year, the latest quarter for which we have complete data, is now estimated to have been about 3.7 million barrels per day higher than the IEA projected in July 2003.6 (For reference, total global oil consumption this year has averaged about 81 million barrels per day).
+A significant part of this unexpected increase in oil consumption, about 2.2 million barrels per day, reflected quickly growing oil demands in East Asia, notably China.
+However, an ongoing economic expansion across both the industrialized and the emerging-market economies has also contributed to the world's growing appetite for oil.
+On the supply side, the production of oil has been constrained by the available capacity and by geopolitical developments.
+With oil consumption and prices rising briskly, Saudi Arabia and other members of the Organization of Petroleum Exporting Countries (OPEC) have promised to pump more oil.
+However, the relatively limited increases in production delivered so far by OPEC members, together with non-OPEC production that has fallen a bit below projections, have raised concerns that the spare production capacity available in the near term may be severely limited, perhaps below 1 million barrels per day.
+Interacting with the limits on capacity, and contributing to the exceptional volatility in oil prices of recent months, are uncertainties about the reliability and security of oil supplies.
+Of course, the oil-rich Middle East remains especially volatile.
+But political risks to the oil supply have emerged in nations outside the Middle East as well, including Russia, Venezuela, and Nigeria.
+Weather also has taken a toll, as recent hurricanes affected the production and distribution of oil on the U.S. Gulf Coast.
+Because neither the demand for nor the supply of oil responds very much to price changes in the short run, the recent unexpected rise in oil consumption together with disruptions to supply can plausibly account for much of the increase in prices.
+However, the sharp increases and extreme volatility of oil prices have led observers to suggest that some part of the rise in prices reflects a speculative component arising from the activities of traders in the oil markets.
+How might speculation raise the price of oil?
+Simplifying greatly, speculative traders who expect oil to be in increasingly short supply and oil prices to rise in the future can back their hunches with their money by purchasing oil futures contracts on the commodity exchange.
+Oil futures contracts represent claims to oil to be delivered at a specified price and at a specified date and location in the future.
+If the price of oil rises as the traders expect--more precisely, if the future oil price rises above the price specified in the contract--they will be able to re-sell their claims to oil at a profit.
+If many speculators share the view that oil shortages will worsen and prices will rise, then their demand for oil futures will be high and, consequently, the price of oil for future delivery will rise.
+Higher oil futures prices in turn affect the incentives faced by oil producers.
+Seeing the high price of oil for future delivery, oil producers will hold oil back from today's market, adding it to inventory for anticipated future sale.
+This reduction in the amount of oil available for current use will in turn cause today's price of oil to rise, an increase that can be interpreted as the speculative premium in the oil price.
+Many people take a dim view of speculation in general, and in some instances this view is justified.7 In many situations, however, informed speculation is good for society.
+In the case of oil, speculative activity tends to ensure that a portion of the oil that is currently produced is put aside to guard against the possibility of disruptions or shortages in the future.
+True, speculation may raise the current price of oil, but that increase is useful in stimulating current production and reducing current demand, thereby freeing up more oil to be held in reserve against emergencies.
+Speculative traders have no altruistic motives, of course; their objective is only to buy low and sell high.
+But speculators' profits depend on their ability to induce a shift in oil use from periods when prices are relatively low (that is, when oil is relatively plentiful) to periods when prices are relatively high (when oil is scarce).
+Social welfare is likely increased by informed speculation in oil markets because speculative activities make oil relatively more available at the times when it is most needed.8 This discussion suggests three indicators to help us detect the influence of speculative activity on current oil prices.
+First, if speculative activity is an important source of the rise in oil prices, we would expect today's oil price to react strongly to news bearing on future conditions of oil supply and demand.
+Second, we should see speculative traders holding claims to large amounts of oil for future delivery, in the hope of enjoying a profit by re-selling the oil should prices rise.
+Finally, corresponding to the speculative positions held by traders, we would expect to see significant increases in the physical inventories of oil being held for future use.
+The first indicator, rapid swings of oil prices in response to news about the prospective supplies and usage of oil, does appear to be present and to suggest a speculative element in pricing.
+It is thus somewhat puzzling that the other two indicators of speculative activity do not appear to be present: Our best-available measure of speculative traders' holdings of contracts for future delivery of crude oil and petroleum products has decreased from earlier in the year and is not unusually high by historical standards.9 And official data imply that physical inventories of crude oil and petroleum products, at least within the industrial countries for which we have good data, have not risen to any significant degree and at times have even been below seasonal norms.10 Perhaps the official data overlook important accumulations of crude oil stocks--in China and other emerging-market economies, for example--but that remains (if you will excuse the expression) speculation.
+My tentative conclusion is that speculative activity may help to account for part of the recent volatility in oil prices.
+However, the available evidence does not provide clear support for the view that speculative activity has made oil prices during the past year much higher on average than they otherwise would have been.11 A rather different explanation of the recent increase in oil prices holds that the rise is in large part a symptom of inflationary monetary policies.
+An extensive literature exists on this topic.
+The general idea is that, if most prices adjust slowly, the effects of an excessively easy monetary policy will show up first as a sharp increase in those prices that are able to adjust most quickly, such as the prices of commodities (including oil).
+If this idea were valid, then commodity price movements could be used as a guide for setting monetary policy.
+However, the consensus that emerges from this literature is that the relationship between commodity price movements and monetary policy is tenuous and unreliable at best.
+Moreover, applied to the recent experience, economic models that support the use of oil prices as a leading indicator of monetary policy make a number of other predictions that are strongly contradicted by the facts.
+These predictions include (1) that all commodity prices should move proportionally in response to changes in monetary policy (in fact, oil prices have risen sharply since the spring as other commodity prices have generally stabilized); (2) that the dollar should have rapidly depreciated as the oil price rose (in fact, the dollar has been broadly stable during 2004); (3) that inflation expectations should have increased substantially (but long-term nominal interest rates, the level of inflation compensation implicit in inflation-indexed bond yields, and survey measures of inflation expectations concur in showing no such rise); and (4) that general inflation, though lagging commodity-price inflation, should also rise over time (but inflation excluding energy prices remains quite low).
+Models of commodity-price "overshooting" also imply that the current surge in oil prices will be almost entirely temporary, a prediction strongly at variance with market expectations as revealed in the futures markets.
+I conclude that an increasingly tight supply-demand balance, rather than speculation or easy monetary policies, probably accounts for most of the recent run-up in oil prices.
+I have focused on near-term developments in the oil markets.
+What about the longer term?
+In that regard, we can safely assume that world economic growth, together with the rapid pace of industrialization in China, India, and other emerging-market economies, will generate increasing demands for oil and other forms of energy.
+If we are lucky, growth in the demand for energy will be moderated by continued improvements in energy efficiency that will be stimulated by higher prices and concerns about the security of oil supplies.
+Such improvements are certainly possible, even without new technological breakthroughs.
+For example, Japan is an advanced industrial nation that uses only about one-third as much energy to produce each dollar of real output as the United States does.12 Industrializing nations such as China appear to be quite inefficient in their energy use; for example, the underdeveloped electricity grid in China has induced heavy use of inefficient diesel-powered generators.
+As these countries modernize, their energy efficiency will presumably improve.
+Still, if the global economic expansion continues, substantial growth in the use of oil and other energy sources appears to be inevitable.
+The supply side of the oil market is even more difficult to predict.
+In a physical sense, the world is not in imminent danger of running out of oil.
+At the end of 2003, the world's proved reserves of oil--that is, oil in the ground that is viewed as recoverable using existing technologies and under current economic conditions--reached more than 1.15 trillion barrels, 12 percent more than the world's proved reserves a decade earlier and equal to about forty years of global consumption at current rates (BP Statistical Review of World Energy, 2004, p. 4).
+Of course, global oil consumption will not remain at current rates; it will grow.
+But, on the other hand, today's proved reserve figures ignore not only the potential for new discoveries but also the likelihood that improved technology and higher oil prices will increase the amount of oil that can be economically recovered.
+The oil is there, but whether substantial new production sources can be made available over the next five years or so is in some doubt.
+Some important fields are in locations that are technically difficult and time-consuming to develop, such as deep-water fields off West Africa, in the Gulf of Mexico, or off the east coast of South America.
+In many cases, the development of new fields also faces the challenge of recovering the oil without damaging delicate ecosystems, if indeed the political process allows exploitation of ecologically sensitive fields at all.
+I have already noted the uncertainties generated by geopolitical instability; perhaps it is sufficient here to note that, despite the opening of fields in a number of new regions in the past decade, about 63 percent of known oil reserves today are in the Middle East.
+Oil producers are also aware from painful experience that oil prices can fall as quickly as they rise; hence, exploration projects launched when prices are high may come to fruition when prices are much lower.
+These risks help to explain why major oil companies have not rushed to increase exploration activities during this recent period of high prices.
+Thus, the supply-demand fundamentals seem consistent with the view now taken by oil-market participants that the days of persistently cheap oil are over.
+The good news is that, in the longer run, we have options.
+I have already noted the scope for improvements in energy efficiency and increased conservation.
+Considerable potential exists as well for substituting other energy sources for oil, including natural gas, coal, nuclear energy, and renewable sources such as wind and hydroelectric power.
+For example, the world has vast supplies of natural gas that, pending additional infrastructure development, might be transported in liquefied form to the United States, Europe, Asia, and elsewhere at BTU-equivalent prices below those expected for crude oil.
+Given enough time, market mechanisms (most obviously, higher prices) are likely to increase energy supplies, including alternative energy sources, while simultaneously encouraging conservation and substitution away from oil to other types of energy.
+These adjustments will not occur rapidly, however.
+Hence the next few years may be stressful ones for energy consumers, as stretched and uncertain supplies of oil and other conventional energy sources face the growing demands of a rapidly expanding world economy.
+Economic and Policy Implications of Increased Oil Prices What are the economic implications of the recent increase in oil prices?
+In the long run, higher oil prices are likely to reduce somewhat the productive capacity of the U.S. economy.
+That outcome would occur, for example, if high energy costs make businesses less willing to invest in new capital or causes some existing capital to become economically obsolescent.
+Lower productivity in turn implies that wages and profits will be lower than they otherwise would have been.
+Also, the higher cost of imported oil is likely to adversely affect our terms of trade; that is, Americans will have to sell more goods and services abroad to pay for a given quantity of oil and other imports.
+The increase in the prices of our imports relative to the prices of our exports will impose a further burden on U.S. households and firms.
+Under the assumption that oil prices do not spike sharply higher from their already high levels, these long-run effects, though negative, should be manageable.
+As I have already discussed, conservation and the development of alternative energy sources will, over the long term, take some of the sting out of higher oil prices.
+Moreover, productivity gains from diverse sources, including technological improvements and a more highly educated workforce, are likely to exceed by a significant margin the productivity losses created by high oil prices.
+In the short run, sharply higher oil prices create a rather different and, in some ways, a more difficult set of economic challenges.
+Indeed, a significant increase in oil prices can simultaneously slow economic growth while stoking inflation, posing hard choices for monetary policy makers.
+An increase in oil prices slows economic growth in the short run primarily through its effects on spending, or aggregate demand.
+Because the United States imports most of its oil, an increase in oil prices is, as many economists have noted, broadly analogous to the imposition of a tax on U.S. residents, with the revenue from the tax going to oil producers abroad.
+Since the beginning of the year, the cost of oil imported into the United States has increased by about $75 billion (at an annual rate), or about 3/4 percent of the gross domestic product (GDP).
+Add to this the effects of the rise in natural gas prices, and the total increase in imported energy costs over a full year--the increase in the "tax" being paid to foreign energy producers--comes to almost $85 billion.
+The impact of this decline in net income on the U.S. GDP depends in large part on how the increase in the energy "tax" affects the spending of households and firms.
+For a number of reasons, an increase of $85 billion in payments to foreign energy producers is likely to reduce domestic spending by something less than that amount.
+For example, in the short run, people may be reluctant to cut non-energy spending below accustomed levels, leading them to reduce saving rather than spending.
+Because high energy costs lower firms' profits, they normally reduce the willingness of firms to purchase new capital goods; however, if the increase in energy prices looks to be permanent, firms might decide that it makes sense for them to invest in more energy-efficient buildings and machines, moderating the decline in their capital spending.
+If higher energy prices reflect in part more rapid economic growth abroad--which seems to be the case in the recent episode--or if foreign energy producers spend part of their increased income on U.S. goods and services, then the demand for U.S. exports may be stronger than it would have been otherwise.
+With these and many other qualifications taken into account, a reasonable estimate is that the increased cost of imported energy has reduced the growth in U.S. aggregate spending and real output this year by something between half and three-quarters of a percentage point.
+At the same time that higher oil prices slow economic growth, they also create inflationary pressures.
+Higher prices for crude are passed through, with only a very short lag, to increased prices for oil products used by consumers, such as gasoline and heating oil.
+When oil prices rise, people may try to substitute other forms of energy, such as natural gas, leading to price increases in those alternatives as well.
+The rise in energy costs faced by households represents, of course, an increase in the cost of living, or inflation.
+This direct effect of higher energy prices on the cost of living is sometimes called the first-round effect on inflation.
+In addition, higher energy costs may have indirect effects on the inflation rate--if, for example, firms pass on their increased costs of production in the form of higher consumer prices for non-energy goods or services, or if workers respond to the increase in the cost of living by demanding higher wages.
+These indirect effects of higher energy prices on the overall rate of inflation are called second-round effects.
+The overall inflation rate reflects both first-round and second-round effects, of course.
+Economists and policymakers also pay attention to the so-called core inflation rate, which excludes the direct effects of increases in the prices of energy (as well as of food).
+By stripping out the first-round inflation effects, core inflation provides a useful indicator of the second-round effects of increases in the price of energy.13 In the past, notably during the 1970s and early 1980s, both the first-round and second-round effects of oil-price increases on inflation tended to be large, as firms freely passed rising energy costs on to consumers, and workers reacted to the surging cost of living by ratcheting up their wage demands.
+This situation made monetary policy making extremely difficult, because oil-price increases threatened to raise the overall inflation rate significantly.
+The Federal Reserve attempted to contain the inflationary effects of the oil-price shocks by engineering sharp increases in interest rates, actions which had the unfortunate side effect of sharply slowing growth and raising unemployment, as in the recessions that began in 1973 and 1981.
+Since about 1980, the Federal Reserve and most other central banks have worked hard to bring inflation down, and in recent years, inflation in the United States and other industrial countries has been both low and stable.
+An important benefit of these efforts is that the second-round inflation effect of a given increase in energy prices has been much reduced (Hooker, 1999).
+Because households and business owners are now confident that the Fed will keep inflation low, firms have both less incentive and less ability to pass on increased energy costs in the form of higher prices, and likewise workers have less need and less capacity to demand compensating increases in wages.
+Thus, increases in energy prices, though they temporarily raise overall inflation, tend to have modest and transient effects on core inflation; that is, currently, the second-round effects appear to be relatively small.
+Although the difficulties posed by increases in oil prices are less than in the past, the economic consequences are nevertheless unpleasant, as higher oil prices still tend to induce both slower growth and higher inflation.
+How then should monetary policy react?
+Unfortunately, monetary policy cannot offset the recessionary and inflationary effects of increased oil prices at the same time.
+If the central bank lowers interest rates in an effort to stimulate growth, it risks adding to inflationary pressure; but if it raises rates enough to choke off the inflationary effect of the increase in oil prices, it may exacerbate the slowdown in economic growth.
+In conformance with the Fed's dual mandate to promote both high employment and price stability, Federal Reserve policy makers would ideally respond in some measure to both the recessionary and inflationary effects of increased oil prices.
+Because these two factors tend to pull policy in opposite directions, however, whether monetary policy eases or tightens following an increase in energy prices ultimately depends on how policymakers balance the risks they perceive to their employment and price-stability objectives.
+An important qualification must be added, however.
+The relatively small effects of higher oil prices on the underlying inflation rate that we have seen in recent years are a consequence of the public's confidence that the Fed will maintain inflation at a low level in the medium term.
+As I have discussed, the public's expectation that inflation will remain low minimizes the second-round effects of oil price increases, which (in a virtuous circle) helps to limit the ultimate effect on inflation.
+Moreover, well-anchored inflation expectations have been shown to enhance the stability of output and employment.
+Maintaining the public's confidence in its policies should thus be among the central bank's highest priorities.14 For this reason, I would argue that the Fed's response to the inflationary effects of an increase in oil prices should depend to some extent on the economy's starting point.
+If inflation has recently been on the low side of the desirable range, and the available evidence suggests that inflation expectations are likewise low and firmly anchored, then less urgency is required in responding to the inflation threat posed by higher oil prices.
+In this case, monetary policy need not tighten and could conceivably ease in the wake of an oil-price shock.
+However, if inflation has been near the high end of the acceptable range, and policymakers perceive a significant risk that inflation and inflation expectations may rise further, then stronger action, in the form of a tighter monetary policy, may well prove necessary.
+In directing its policy toward stabilizing the public's inflation expectations, the Fed would be making an important investment in future economic stability.
+I will close by briefly linking this discussion to recent Federal Reserve policy.
+As a professor and textbook author, I was accustomed to discussing the effects of a particular phenomenon, such as rising oil prices, with all other factors held equal.
+However, as policymakers know, everything else is never held equal.
+The increases in oil prices this year did not take place in isolation.
+Along with the rise in oil prices, increases in the prices of other important commodities, such as steel and lumber, as well as higher import prices resulting from the earlier decline in the dollar, provided supply-side pressure on inflation in early 2004.
+Meanwhile, an economic expansion that took hold in the middle of 2003 resulted in strong output growth but, as of early this year, limited progress in creating new jobs.
+As a final complication, the beginning of the year also saw the Fed's policy interest rate, the federal funds rate, at the historically low level of 1 percent, the result of the efforts of the Federal Open Market Committee (FOMC) to spark faster growth and minimize deflation risks in 2003.
+In January, with inflation low and the job market still weak, the FOMC indicated that it would be "patient" in removing the policy accommodation implied by the low value of the federal funds rate.
+The increase in inflation that occurred last spring posed a choice for the FOMC.
+Should the Committee remain "patient" in the face of this development, or should it move more aggressively to meet an emerging inflation threat?
+The answer, I would argue, properly depended on both the source of the inflation and the state of inflation expectations.
+In particular, if the pickup in inflation had largely resulted from an overheating economy and a consequent increase in pricing power and wage demands, a more-aggressive policy would have been appropriate.
+The FOMC's analysis of the situation, however, was well described by the statement issued after its June meeting.
+In that statement, the Committee suggested that the increase in inflation was due at least in part to "transitory factors"--a heading under which I include the increases in oil prices, commodity prices, and import prices--and indicated as well that "underlying inflation" would likely remain low, which I interpret as saying that, with medium-term inflation expectations well contained, second-round effects appeared likely to be small.
+The implication of this analysis was that the FOMC could remain "patient."
+Thus far at least, the FOMC's diagnosis appears to have been correct, as both headline and core inflation have receded from the levels of last spring.
+Looking forward, I am sure that the Committee will continue to watch the oil situation carefully.
+However, future monetary-policy choices will not be closely linked to the behavior of oil prices per se.
+Rather, they will depend on what the incoming data, taken as a whole, say about prospects for inflation and the strength of the expansion.
+Generally, I expect those data to suggest that the removal of policy accommodation can proceed at a "measured" pace.
+However, as always, the actual course of policy will depend on the evidence, including, of course, what we learn about how oil prices are affecting the economy.

@@ -1,0 +1,502 @@
+It is always a pleasure to return to St. Louis and to Washington University and to see so many friends and former colleagues.
+But it is a special pleasure to be here for this occasion, the Homer Jones Lecture.
+Homer Jones was still active at the Federal Reserve Bank of St. Louis when I arrived at Washington University in 1969, and his wife, Alice, was a faculty member in the economics department.
+I had the pleasure of getting to know both.
+Homer was special in many ways.
+He was, of course, a leader in building the research department of the Federal Reserve Bank of St. Louis and in orienting it toward a monetarist perspective.
+But there was also the remarkable contrast of his strong convictions and his gentle manner.
+It was a combination to both admire and emulate.
+I admit I may have been more successful in emulating the strong convictions than the gentle manner.
+But that only makes me admire Homer even more.
+I can remember vividly my first visit to St. Louis and Washington University in early 1969.
+I was a graduate student at MIT visiting the university in search of an appointment as an assistant professor of economics.
+I was picked up at the airport and delivered to my hotel, in advance of my seminar at the university the following day.
+When I walked into my hotel room, a small sign on a desk immediately caught my attention.
+It read: "Money matters."
+My first reaction was awe at the reach of the St. Louis Fed.
+They take this monetarism bit pretty seriously, I thought.
+It turned out in fact to be an ad for a local commercial bank, not for the St. Louis Fed.
+But the story about this incident provided a humorous opening to my seminar the next day.
+I was nervous, so getting the seminar off to a good start with an amusing story helped.
+It gave me momentum.
+And look where I ended up.
+So when I considered topics for the Homer Jones Lecture, I thought of monetarism and the role of money.
+My mind quickly took me back to that incident and I took as my title, "Does Money Matter?"
+What I had in mind was an assessment of monetarism's role in shaping current thinking about macroeconomic modeling and the conduct of monetary policy.
+I often start my papers working back from my conclusion.
+Monetarism is about money, but money plays no explicit role in today's consensus macro model, and it plays virtually no role in the conduct of monetary policy, at least in the United States.
+The conclusion appeared to be, therefore, that monetarism has had no influence on either macroeconomics or monetary policy.
+That conclusion was a problem: I did not want to write that paper for the Homer Jones Lecture.
+I decided, therefore, to take a completely novel approach to this paper.
+I would postpone writing the conclusion until I had written the paper.
+So I invite you to share my journey in search of a conclusion.
+I will start by outlining the essential features of monetarism, set out my interpretation of today's consensus macro model, and interpret the role of monetarism in shaping this consensus.
+Whatever the lasting influence of monetarism, this journey will still find no explicit role for money in the consensus model and little or no explicit role in the current practice of monetary policy, at least in the United States.
+This leads me to explore whether current models and current practice undervalue the role of money.
+I.
+Money and Monetarism In my view, monetarism has several essential features.
+First and foremost, monetarism is the reincarnation of classical macroeconomics, with its focus on the long-run properties of the economy as opposed to short-run dynamics.
+Classical macroeconomics emphasized several key long-run properties of the economy, including the neutrality of money and the quantity theory of money.
+Neutrality holds if the equilibrium values of real variables--including the level of output--are independent of the level of the money supply in the long run.
+Superneutrality holds when real variables--including the rate of growth of output--are independent of the rate of growth in the money supply in the long run.
+The quantity theory of money holds that prices move proportionately to changes in the money supply so that inflation is linked to money growth.
+Together, these propositions identify both what monetary policy can achieve and what it cannot and therefore delineate the responsibilities of central banks.
+They mean that central banks have no effect on the level or growth rate of output in the long run but do determine the rate of inflation in the long run.1 Second, monetarism focuses less on the structure of the economy and short-run dynamics and more on longer-run conclusions, such as the long-run relationship between money and output and money and inflation.
+This focus reflects, in part, a skepticism about our ability to understand or to adequately quantify the structural linkages and dynamics.
+For this reason, monetarists tend to prefer reduced-form equations or VARs to structural equations or structural econometric models and focus more on long-run results than short-run dynamics.
+Third, monetarists are skeptical of the ability to use monetary policy for short-run stabilization, despite the fact that they believe short-run variations in money growth do affect aggregate demand and hence output.
+As a result, they favor rules, often passive rules, that focus on achieving a rate of money growth consistent with price stability in the long run, with no adjustment to cushion short-run fluctuations in aggregate demand.2 This preference reflects again the uncertainty about the structure of the economy and about short-run dynamics and the long and variable lags in the response of aggregate demand to changes in the money supply.
+There is an over-riding theme across these features of monetarism: They focus on the role of money and the conclusion that "money matters."
+Money matters--indeed it is just about all that matters--for inflation in the long run.
+Given the widespread commitment to price stability, monetarists believe that central banks should therefore give appropriate attention to money growth in the conduct of monetary policy.
+II.
+The Consensus Macro Model: Monetarism without Money?
+One way to judge the influence of monetarism is by the conformity of today's consensus macro model with monetarism's central features, as set out above.
+One of my favorite sayings about economists is, "Two economists, three opinions."
+That saying is more true of macroeconomists than of microeconomists.
+For that reason defining a consensus macro model has always been a challenge.
+But I believe there has been some convergence toward a consensus in recent years.
+This consensus is typically expressed in terms of a simple three-equation dynamic model:3 (1) Ygt = a Ygt-1 + b Et(Ygt+1) - c [Rt -Et(pt+1)] + xt (2) pt = d (Ygt) + w1 pt-1 + w2 Et(pt+1) + zt, w1 + w2 = 1 (3) Rt = r* + Et(pt+1) + f Yg t-1 + g (pt-1 - pT), where Yg equals the output gap (the percentage point difference between actual and potential output), R equals nominal interest rate, r* equals equilibrium real interest rate, p equals inflation, and pT equals inflation target, x and z are stochastic shocks, and all the coefficients are positive.
+The model includes an aggregate demand equation, a Phillips curve, and a monetary policy rule.
+The aggregate demand equation, given by equation 1, is essentially a dynamic version of the old IS curve, in which the level of output (in this case the output gap) depends on the real interest rate.
+This specification allows for effects of both lagged output and expectations about future output.
+The Phillips curve, given by equation 2, relates the inflation rate to the output gap (measuring the balance between supply and demand in the output market) and to both past inflation and inflation expectations.
+The effect of past inflation captures the role of sticky prices, while inflation expectations are assumed to be set, as in equation 1, according to rational expectations.
+The policy rule, equation 3, relates the interest rate, viewed as the instrument of monetary policy, to the output gap and the difference between inflation and the central bank's inflation target.
+That is, policy is adjusted in response to the deviations of output and inflation from their respective objectives--full employment and price stability.4 There are at least three innovations in the consensus model compared with the IS-LM framework, perhaps yesterday's consensus model.
+First, the IS-LM model had two equations and three unknowns and therefore could be solved only by assuming that either the price level or the output level was fixed.
+Today's consensus model allows for both sticky prices in the short run and full price flexibility in the long run by introducing the Phillips curve.
+In effect, the Phillips curve pins down the degree to which prices are sticky in the short run, allowing scope for both short-run movements in actual output relative to potential and for stabilization policy while providing a mechanism that ensures a transition to the long-run classical equilibrium.
+Second, today's consensus model replaces the LM equation with a policy rule.
+The LM curve expresses the equilibrium condition in the money market, the balance between the supply of and the demand for money.
+Implicitly, the money supply is treated as the instrument of monetary policy.
+The policy rule in today's consensus model specifies the way policymakers adjust the interest rate to economic developments.
+This specification has the advantage of more accurately capturing the prevailing operating procedure at central banks around the world, given that they, almost without exception, implement monetary policy by setting a target for some key interest rate.
+It also reflects a more modern view of "policy" as a systematic adjustment of the policy instrument or instruments to ongoing economic developments rather than simply as an exogenous process, outside the model.
+Third, the model explicitly incorporates forward-looking elements in economic behavior and accounts for the importance of expectations.
+In the eclectic form presented here, the model allows for both forward-looking elements and lagged adjustment due, for example, to adjustment costs.
+The consensus model is widely used in teaching macroeconomics and in policy analysis, specifically in evaluating the properties of alternative policy rules.
+Larger-scale macro models used for policy analysis and forecasting typically have richer structures, including a more richly defined set of monetary policy channels.
+This set generally includes a range of interest rates and asset prices and the exchange rate, but almost never a direct or independent role for money.
+This is true of the FRB-US model used by the staff at the Board of Governors for policy analysis and forecasting.
+That model has a structure very much consistent with this simple consensus model in that its aggregate demand and inflation equations, for example, have the same mix of lagged adjustment and forward-looking expectations and its interest rate determination is anchored by a policy rule.
+So what is the influence of monetarism on today's consensus model?
+On the one hand, the model has no apparent role for money.
+On the surface, therefore, today's consensus model appears to be a clear and definitive rejection of the "money matters" focus of monetarism.
+On the other hand, the classical properties I outlined hold in this model (at least if we redefine them in terms of "monetary policy" rather than the "money supply").
+Monetary policy does not affect the level or growth rate of potential output, and inflation is determined by monetary policy in that it converges to a target set by the central bank in the policy rule.
+My conclusion, therefore, is that we can still clearly see the influence of monetarism in the consensus model.
+Monetarism focused attention on the role of the central bank in determining inflation by emphasizing the relation between money and inflation.
+The consensus model may bypass money, but it has retained the key conclusion that central banks ultimately determine the inflation rate.
+The relation between money, output, and inflation is obviously beneath the surface of this model.
+We could bring it to the surface by simply appending yesterday's LM curve to today's consensus model.
+This provides a fourth equation and a fourth variable, the money supply.
+The LM curve, however, is not part of the simultaneous structure of the expanded model.
+The first three equations determine output, interest rate, and inflation without calling upon the LM curve.
+All the LM curve does is determine the level of the nominal money supply consistent with solutions for output, prices, and the interest rate.
+In effect, the LM curve identifies the amount of money that the central bank will find that it has to supply when it follows the policy rule, given the shocks to the economy.
+So the money supply has become a less interesting, minor endogenous variable in the story.
+This approach is not, however, inconsistent with a stable empirical relation between money growth and other economic variables, specifically between money growth and inflation.
+In fact, if the money demand equation (underlying the LM curve) is stable, there will be a stable relationship between money and inflation in the long run.
+The expanded model also makes clear that there is nothing inconsistent with a stable long-run relationship between money and inflation, as emphasized by monetarists, and the expectations-augmented Phillips curve, a mainstay in Keynesian-type structural models as well as a part of today's consensus macro model.
+The monetarist proposition is about an outcome, a result.
+This conclusion about the long-run relationship between money and prices is implicit in the consensus model, provided the money demand equation is stable.
+The consensus structural model is also about structure or process.
+It explains how monetary stimulus raises inflation.
+The consensus model remains consistent with a relationship between money growth and inflation, but it appears to downgrade the role of money.
+But does it shortchange the role of money?
+In a search for answers, I will focus on monetary policy in Japan and on the differing role of money in the conduct of monetary policy by the European Central Bank and the Federal Reserve.
+III.
+The Monetization Debate: Does the Consensus Model Shortchange the Role of Money?
+In Japan, the policy interest rate was taken to zero and remains close to zero.
+Zero is the logical lower bound for the nominal rate because, if the interest rate were negative, everyone would prefer to hold cash and there would be no demand for bonds.
+But even with a short-term policy rate nearly at zero, the Japanese economy remains weak, and a case can be made for additional monetary stimulus.
+However, according to the consensus model, once the policy rate is taken to zero, the central bank has exhausted its ability to stimulate the economy.
+Monetarists, among others, reject this conclusion.
+They argue that Japan should embark on a strategy of monetization, or quantitative easing, and judge the stimulus of its policies in terms of the rate of growth in the money supply, not by the level of its policy rate.
+The Bank of Japan has recently taken a step in the direction of such a monetization strategy.
+There are two paths to the conclusion that such a strategy will allow monetary policy to provide additional stimulus, even once the policy rate is driven to zero.
+First, some monetarists argue that money directly affects aggregate demand.
+That is, the IS curve in the consensus model is mispecified because it allows only for an interest-rate channel of influence and not for a direct effect of money on spending.
+Plug in the money supply as an additional determinant of aggregate demand and, presto, monetization works!
+Second, even if money does not directly affect aggregate demand, the transmission mechanism is certainly more complicated than the simple IS curve specification suggests.
+Money could play a role in structural equations for aggregate demand, or in VARs, as a proxy for channels that may be difficult to quantify or were simply left out.
+Personally, I do not believe that there is a direct effect of money on aggregate demand.
+But I may be biased.
+My view is based in part on my own research.
+I tested and rejected the hypothesis of such a direct effect in my dissertation.
+In my dissertation I also tested the proxy role hypothesis and rejected it, too.
+But, the proxy role for money deserves further attention.5 When leading monetarists, such as Milton Friedman, have discussed the transmission mechanism, they have described monetary policy as operating through a broad range of interest rates and asset prices.6 As I noted earlier, large-scale structural models also incorporate a much more detailed treatment of monetary policy channels of monetary policy--including not only a range of after-tax real interest rates but also equity prices and the real exchange rate--compared with the single policy rate in the consensus model.
+The consensus model adequately summarizes this transmission mechanism with a single policy rate under two assumptions: First, monetary policy operates by changing some short-term interest rate; second, all other interest rates and asset prices are linked, directly or indirectly, to the policy rate through stable and predictable arbitrage relationships.
+Monetary policy might still have life left in it, even after the policy rate has been driven to zero, if monetary policy operations could somehow affect the spreads between the policy rate and other interest rates--longer-term rates and private rates--and its relationship to other asset prices, such as equity prices or exchange rates.
+In simple theoretical models, such an effect is possible as long as short-term government bonds are not perfect substitutes for longer-term bonds, private bonds, equities, and foreign financial assets.
+In this case, open market operations in long-term government bonds could in principle lower the long-term government bond rate relative to the policy rate, with spillover effects on longer-term private rates.
+Monetary policy in short-term private assets, such as commercial paper could not only lower private rates relative to government rates but also allow the central bank to work around an ailing banking system.
+Finally, open market operations involving foreign financial assets--effectively unsterilized intervention in the foreign exchange markets--could, in principle, affect exchange rates.
+However, there is really no substantive difference between sterilized and unsterilized operations when the short-term interest rate is already zero.
+One way in which open market operations in other assets might affect other rates or other asset prices would be if there were relative asset-supply effects determining longer-term private rates and exchange rates.
+For example, if the relative supplies of short- and longer-term government bonds affected their relative yields, open market purchases of long-term bonds could lower long-term rates relative to the already near-zero short-term rate.
+Whether or not the relative supply effects are significant is then an empirical question.
+The traditional answer has been that such effects, though possible, are negligible and, effectively, not a useful part of monetary policy.
+And even if monetization could push long-term rates to zero, there is no guarantee that will provide enough stimulus, given the prevailing deflation.
+The real bond rate could still be too high.
+This proxy role for money could, in principle, cover other channels besides long-term government and private interest rates and asset prices--such as liquidity and credit effects--that might be activated by increases in the money supply.
+In this case, even additional conventional operations--open market operations in Treasury bills--might stimulate aggregate demand, even if they could not further lower the short-term nominal interest rate.
+However, that affect does not seem very plausible.
+For example, would the increased liquidity of holding money versus short-term bills stimulate aggregate demand?
+If economic agents wanted the additional liquidity they could have acquired it with no holding cost by selling zero-interest-rate bills and acquiring cash.
+Why, when the central bank initiates this change, would it affect spending, if no interest rates or asset prices were affected?
+Bernanke and Gertler have emphasized a credit channel as part of the transmission mechanism.7 But this channel--though amplifying the effect of monetary policy--seems itself to require a change in interest rates.
+For example, a decline in interest rates would, according to Bernanke and Gertler, reduce existing committed cash flows of borrowers and therefore make the borrower more creditworthy.
+This, in turn, could result in lenders offering additional credit.
+However, if interest rates do not decline this channel is not activated.8 Finally, the proxy role for money could include the effect of monetization on expectations.
+This channel depends on the ability of policymakers to alter expectations about the course and effects of future policy.
+That is, the policy effect does not derive from a higher money supply today but from a perceived commitment to a higher money stock in the future.
+Expectation effects could alter current long-term real interest rates in two ways.
+First, convincing the public that monetary policy will remain stimulative longer will lower expected future nominal short-term interest rates and therefore longer-term nominal interest rates.9 Second, convincing the public that monetary policy will achieve a higher inflation rate in the future, at least on average, could lower expected current longer-term real interest rates, reinforcing the effect on expected long-term interest rates of a perceived commitment to a given path for the nominal policy rate.
+These effects can be illustrated in terms of a simple model with two-period (non-overlapping) price contracts.
+The current and expected future one-period nominal interest rates determine the current nominal interest rate on the two-period bond.
+Assume that the current one-period interest rate (the policy rate) has been driven to zero but the public expects a positive rate on the one-period bond next period.
+If policymakers can convince the public that policymakers will drive the one-period rate to zero in period two, the interest rate on the two-period bond will fall in the first period, stimulating aggregate demand.
+The first channel thus operates by lowering the expected future nominal policy rate, thereby lowering current longer-term nominal interest rates.
+Essentially, it tries to lower nominal rates further along the term structure, once the short-term policy rate has been driven to zero.
+It depends on the credibility of the policy authorities to pre-commit to a more stimulative policy in the future--for example, to maintain the zero rate policy for a longer period than is now anticipated.
+The second way in which expectations can affect current real long-term interest rates involves the effect of policy on inflation expectations.
+In order for this effect to work, policymakers must first convince the public that policymakers will maintain a given path for the short-term nominal policy rate; thus the second effect builds upon and reinforces the first effect.
+The second effect, by convincing the public that inflation will be higher in the future, converts the perceived commitment to a given path for the short-term nominal policy rate to a decline in future expected short-term real interest rates and hence in current expected longer-term real interest rates.
+Note that it is sufficient for policymakers to convince the public that inflation will be higher than otherwise only for a while, not indefinitely.
+This is important, given that a promise to maintain inflation higher indefinitely might be neither necessary nor credible.
+One way to activate the inflation-expectations effect to stimulate aggregate demand in the short run, without compromising the longer-run inflation objective, would be to implement a target price level.
+The central bank would promise, for example, to target prices at a predetermined constant level, and would indicate in advance the period over which it would attempt to return to the price-level target.
+If deflation follows, a price-level target implies that the central bank will target rising prices--or inflation--for a while in order to return the price level to its target level.
+The longer deflation lasts, the higher or longer lasting the expected future inflation.
+Once higher inflation restored the initial price level, the objective would again be price stability and, hence, zero inflation.
+A similar motivation underlies calls for the Bank of Japan to adopt an inflation-targeting strategy.10 That is, by announcing an explicit inflation target, the Bank of Japan might raise expectations of future inflation and therefore lower real long-term interest rates today.
+On the one hand, simply undertaking monetization operations without effectively communicating the intention with respect to future policy might not be effective.
+On the other hand, simply announcing an inflation target without carrying out operations today that might support the objective also might not be effective.
+However, doing both--carrying out monetization operations in support of an inflation target--could possibly activate the expectations effect.
+The relative supply effect is likely to be so small that it is not relevant to the conduct of monetary policy in normal periods.
+This channel, therefore, is perhaps only of interest when the nominal interest rate has been driven to zero, when further policy stimulus is desired, and when the size of policy operations could be much larger than in normal times.
+However, the expectations channel--the effect of expectations about future monetary policy on long-term real interest rates and hence on aggregate demand today--is, I believe, an important part of the transmission mechanism both in normal periods and in the more extreme circumstances.
+Despite uncertainties about the effectiveness of monetization operations, we may have to think more seriously about them when the policy rate has been taken to zero and there is still a case for further monetary stimulus.
+The problem is that, if there is a possibility of providing stimulus through monetization, we are not likely to find it by experimenting with such operations at the margin, especially if the stimulus arises through relative supply effects.
+To have any promise of significant results, such unconventional policy operations more likely would need to be implemented on a bold scale.
+Moving in this direction is understandably difficult when there is uncertainty about the effectiveness of the approach.
+A fuller consideration of this topic would require us to assess the costs of such operations and the ways these costs balance against the cost of not pursuing this direction in a period of persistent deflation.11 If the costs are low, there is little damage if the operations are ineffective.
+But I will not try here to reach a conclusion on the overall merits of monetization.
+My objective was to use the current debate about monetary policy in Japan to highlight channels of monetary policy and a possible role for monetary policy at the zero bound which are left out of the consensus model.
+Let me now sum up conclusions about the absence of any role for money in the consensus model.
+First, the consensus model incorporates a caricature of the consensus view of the determination of output and inflation, including the transmission mechanism.
+In effect, it treats "the" interest rate as an index of overall financial conditions, assuming that long-term interest rates, equity prices, and the exchange rate all move in a stable and predictable way with changes in the policy rate.
+To be sure, this is a considerable simplification, and some of the shortcomings become apparent when the policy rate is driven to the zero nominal bound.
+Second, though the consensus model has its shortcomings, the absence of money is not one of them--except perhaps for the zero nominal bound case.
+As just noted, the consensus model significantly oversimplifies the transmission mechanism.
+It also oversimplifies the supply side of the economy--failing, in particular, to model the complex dynamics of the economy's response to an unexpected acceleration in structural productivity growth.
+Third, in situations where the policy rate has been driven to the zero nominal bound--as is the case in Japan today--what the consensus model is missing--the proxy role for money--becomes the only remaining leverage for monetary policy.
+Interestingly, larger macro models do not do much better either, as they typically do not allow for relative asset-supply effects and often do not provide opportunity for the inflation-expectations effects that might be so important.
+In this case, money growth could be a valuable indicator of the degree of current and intended future stimulus to be provided by monetary policy.
+Fourth, understanding the ways in which monetary policy might still provide additional stimulus--once the nominal policy rate had been driven to zero--may also provide us with a richer understanding of how monetary policy works in normal times.
+In particular, the monetization debate highlights the role that expectations play--in both normal and more extreme circumstances--in the effect of monetary policy on aggregate demand.
+Indeed, it has become increasingly clear that monetary policy works not only through decisions about the policy rate taken at each meeting but also by the expectations that policymakers encourage--intentionally or otherwise--about expected future policy.
+The language in the statement issued at the end of FOMC meetings and the statement about the balance of risks as well as comments from FOMC members between meetings can affect those expectations.
+Those expectations, in turn, have immediate effects on longer-term interest rates, on asset prices, and on real exchange rates--channels of monetary policy that are not directly incorporated in the consensus model.
+IV.
+Money and Monetary Policy at the ECB and the Federal Reserve The consensus model implies that monetary policy is conducted by setting a target for a policy interest rate, without any consideration given to the prevailing rate of money growth.
+Does such an operating strategy undervalue the usefulness of money in the conduct of monetary policy?
+This question takes on added interest because of two recent and seemingly contradictory developments.
+The ECB, a new central bank, has a two-pillar strategy, one pillar being a reference value for money growth.
+The Federal Reserve, in sharp contrast, asked to be and was relieved of the requirement to report semiannually on its target ranges for the growth of monetary and credit aggregates.
+In this section, I discuss the evolution of money growth targets at the Federal Reserve and the role of the reference value for money growth at the ECB.
+In the following section, I discuss how a reference value for money growth might be set for the United States and whether or not such an approach might be constructive.
+Money Growth and the Federal Reserve Until the late 1960s, money did not play a meaningful role in the formulation of monetary policy in the United States.12 By the end of that decade, however, intellectual inroads by proponents of monetarism--including important work at the Federal Reserve Bank of St. Louis--and dissatisfaction with the inflationary outcomes of the policy procedures in place, led to consideration of greater emphasis on money in the conduct of monetary policy.
+The first conference of the well-known series by the Federal Reserve Bank of Boston, held in June 1969, titled "Controlling Monetary Aggregates," was indicative of this trend.
+At the time, an FOMC subcommittee was already investigating how the Committee could improve its control of the money stock.
+The FOMC took a small step in January 1970, when the policy directive for the first time noted "the Committee's desire to see a modest growth in money and bank credit" as one of the factors to be taken into account in implementing monetary policy.
+The Fed was operating then, as now, essentially by setting a target for the federal funds rate.
+But during this period it began to set short-run targets for money growth--two-month targets set for each intermeeting period calibrated to be consistent with its policy objectives.
+The federal funds rate was then set at a level that was estimated to be consistent with achieving the money-growth target.
+I was on leave from Washington University at the Federal Reserve Bank of New York in 1975-76 and wrote from time to time the periodic staff memo that set out the funds rate target estimated to be consistent with the money-growth range.
+However, when money growth deviated from this short-run target, it was more likely that the money-growth target was reset than that the interest rate was adjusted.
+In addition, the target was rebased for each meeting, so that past errors were typically ignored.
+In 1975, reflecting in part the monetarist critique of monetary policymaking and in part disappointment with recent macroeconomic performance, the Congress passed a concurrent resolution encouraging the Federal Reserve to set targets for the money supply.
+Following the passage of this resolution, the FOMC adopted for the first time annual target ranges for money growth and announced them publicly.
+The Full Employment and Balanced Growth Act of 1978 required the Fed to set, semiannually, monetary targets for calendar years and to explain any deviations from the targets.
+From 1979 to 1982, money-growth targets took on an even more central role in the conduct of policy.
+Policy was implemented during this period by estimating the total reserve growth necessary to meet the money-growth target and by holding to the associated path for nonborrowed reserves.
+In the process, the federal funds rate was free to move to whatever level would be consistent with the money-growth objective over time.
+Monetary policy was focused on steadily reducing inflation, and policymakers were less certain about what increase in nominal and real interest rates would be required to achieve the objective of reducing inflation than they were about the money-inflation relationship.
+Moreover, it served the interests of policymakers to emphasize that the markets, not policymakers, were controlling interest rates along the way.
+At the outset, the money-growth ranges were interpreted as intermediate objectives, with the ultimate objective being to reduce inflation.
+The 1979 monetary policy report described the policy as "the gradual reduction of rates of increase of the monetary aggregates in order to curb inflation."
+The initial ranges for money growth were high to reflect the prevailing inflation rate but were to be gradually lowered over time.
+Initially, growth targets were set for M1, M2, and bank credit, although the emphasis was on the M1 measure.
+But after the downward shift in velocity for M1, associated with the introduction of nationwide NOW accounts and other innovations, the FOMC downplayed its M1 target in late 1982 and shifted emphasis to M2 and M3.
+With deregulation and innovation making velocity less predictable, in late 1982 the FOMC also began a gradual return toward an interest-rate operating strategy.
+The monetary aggregate targets were described as being "set with the aim of slowing the expansion of money over time to rates consistent with the economy's productive potential at reasonably stable prices."
+Money-growth targets were evolving toward a point when they would be consistent with the FOMC's price-stability objective.
+In 1995, the language describing the money-growth ranges changed in an important way.
+Up to that point, the money-growth target ranges appeared to apply to the period immediately ahead and were being gradually adjusted to be consistent with a transition toward lower inflation.
+The money-growth ranges were re-interpreted at this time to apply not to the period immediately ahead but rather to some intermediate and hypothetical period when price stability would be achieved and the pattern of velocity would be "normal."
+The purpose of the M2 growth rate range was "to serve as a benchmark for a rate of growth of M2 that would be expected under conditions of reasonable price stability and historical velocity behavior."
+The same language was used thereafter, until the Congress last year removed the requirement that money-growth ranges be reported to the Congress.
+There are two explanations for this change in 1995 in the interpretation of the money-growth ranges.
+First, the new approach reflected a reduced willingness of policymakers to adjust monetary policy in response to deviations of money growth relative to the target range.
+This reluctance reflected the diminished confidence of policymakers in the signal from such deviations as a result of the unexpected jump in and continued volatility of velocity.
+Second, the new approach was better tuned to the lower and more stable inflation rate by the mid-1990s.
+Previously, money-growth ranges had been gradually lowered to signal the intent to lower inflation and to be consistent with gradual decline in inflation.
+The fixed range set in the mid-1990s was consistent with price stability, an objective now in reach.
+Money and the ECB Two-Pillar Strategy The Maastrich treaty identifies price stability as the overriding objective for the ECB.
+Like the Fed and other central banks, the ECB chooses to implement its policy by setting a target for a short-term interest rate.
+But the ECB also gives a more prominent role to the money supply than the Fed does today.13 The ECB has set out a two-pillar strategy for guiding its adjustment of interest rates in pursuit of price stability.14 The first pillar is a reference value for money growth.
+The ECB sets a reference value for a single monetary aggregate, the M3 definition that is essentially the same as the M2 definition for the United States.
+The ECB reference value is the rate of M3 growth consistent with achieving its inflation target over an intermediate term, based on estimates of trend growth in potential output and velocity.
+The second pillar considers the appropriate setting for the policy rate in terms of the wide range of information available and the prospect for inflation over the medium term.
+The ECB rationale for the reference value for M3 is the long-run stable relationship between its rate of growth and inflation.
+The reference value provides a second check for policymakers to ensure that monetary policy, set in terms of the ECB's policy rate and in consideration of pillar 2, is consistent with price stability.
+The ECB is very explicit about the fact that, in light of the short-term volatility of velocity, short-run deviations of money growth from the reference value might provide little useful information that would help policymakers adjust the stance of monetary policy.
+But in light of the more stable longer-term relationship, continued deviations would raise significant questions and should, at the least, require a careful reassessment of whether the prevailing monetary policy is consistent with the inflation objective.
+The ECB uses the term "reference value" rather than a target to make clear that deviations from the reference value will not necessarily result in policy adjustments to encourage a return of money growth to the reference value.
+Each year the ECB updates its estimate for potential output growth and, if necessary, updates the reference value to ensure that it is lined up on the inflation target.
+V. A Reference Value for M2 for the United States?
+The ECB approach to the reference value for M3 is very close to the way in which the Fed was setting its benchmark range for M2 until the recent revision to the Federal Reserve Act.
+The major differences are that the Fed was perhaps somewhat less transparent about how it derived the range for M2 and did not update it regularly to maintain an estimated consistency with an unchanged trend inflation rate objective.
+At any rate, the recent change in the Federal Reserve Act removed the requirement that the Federal Reserve report to the Congress on growth ranges for M2 and other money and credit aggregates.
+My final topic is whether setting a reference value for money growth would be constructive for the FOMC and, if so, how to implement such an approach.
+To move in this direction would have the advantage of allowing money growth once again to play a role as a failsafe, or second check, on the consistency of monetary policy with FOMC's medium-term inflation objective.
+On the other hand, moving in this direction would require other significant changes in the conduct of policy.
+The FOMC--presumably in consultation with the Congress--would have to establish an explicit inflation target and would have to reveal its estimate of the rate of growth in potential output.
+This direction would itself be even a more significant step than setting a reference value for money growth.
+An intermediate approach might be to set a reference value based on implicit assumptions about both the target inflation rate and the rate of growth of potential output--without explicitly identifying either.
+This would be similar to how the benchmark range was set for M2 in the last few years before the benchmark ranges for the monetary aggregates were abandoned.
+A Money Growth Reference Value and the Consensus Model But why would monitoring money growth be useful, as long as policymakers followed a disciplined policy of adjusting their policy rate to ongoing economic developments, as reflected in the policy rule in the consensus model?
+It is well known that holding nominal interest rates fixed in the face of aggregate demand shocks can lead to monetary policy, in effect, reinforcing rather than damping such shocks.
+The FOMC instructs the manager of the System Open Market Account to hit a given interest rate target.
+If upward pressure on rates arises, for example, from higher nominal income growth or higher inflation expectations, the manager will automatically add reserves with open market operations to prevent a rise in the funds rate above its target.
+Hence, absent a change in the stance of policy, a positive demand shock automatically leads to higher reserve growth and hence higher money growth, in effect reinforcing the demand shock.
+The faster money supply growth relative to some reference value, in this case, would alert policymakers to the possibility that the policy stance was no longer consistent with its objectives.
+Policymakers would still have to evaluate whether the more-rapid money growth reflected a shift in money demand or a shock to aggregate demand.
+However, the policy rule in the consensus model is designed to prevent precisely this type of persistent error in the response to shocks.
+If there is an aggregate demand shock, its effect on utilization rates and inflation will result in an adjustment of the policy rate over time that is consistent with policymakers' objectives for output and inflation.
+In effect, the policy rule substitutes for the discipline of a money growth target in the face of aggregate demand shocks.
+So what value would a reference value for money growth have if policy were in fact conducted in a manner consistent with the policy rule?
+First, the policy rule is an attempt to summarize the systematic responses of policymakers.
+Policymakers do not, of course, commit to follow such a rule.
+So, having an additional check on the consistency of policy with medium-term objectives could be useful when policymakers choose not to adjust policy in line with the policy rule.
+Second, even if the rule were adhered to, another check might be useful.
+In particular, the difficulty in implementing the policy rule in practice makes a reference value for money growth valuable.
+If the policy rule were lined up precisely on the equilibrium real interest rate and if the output gap were calibrated correctly relative to potential output, the benefits from monitoring money growth might be limited to its early signal of changes in output and inflation.
+But recent experience, along with the earlier experience of the 1970s, suggests that uncertainty about the real equilibrium interest rate and about the level of potential output makes implementing the policy rule challenging.
+Just as model-based forecasters often look at forecasts from VARs, so policymakers under a policy rule might benefit from a second check provided by a money-growth reference value.
+This justification for a money-growth reference value seems consistent with monetarists' skepticism about structural models.
+An Operational Reference Value for M2 Growth Let me set out a possible approach to implementing a reference value for money growth at the Federal Reserve.
+A simple point of departure is the famous quantity theory equation, M V = P Y, where M is the money supply, V is velocity, P is the price level, and Y is the level of output.
+This can be rewritten, in terms of growth rates, as m + v = p + y, where lowercase letters are the growth rates of M, V, P, and Y respectively.
+Rewriting the growth relationship as an equation for money growth, (4) m = p + y - v. To solve for the reference value for money growth, we need a definition of the money supply, a target for inflation, and estimates of the trend rate of growth in potential output and the trend in the growth of velocity.
+I have implemented such a framework as part of a memo prepared by the staff for me in advance of FOMC meetings.
+After discussion with the staff, it was agreed that M2 was a sensible choice, though a case could have been made for other aggregates.
+M2 has the virtue of being broad enough to internalize many technological changes that would affect its composition, such as sweeps from demand deposit accounts to interest-bearing saving accounts, but also narrow enough to represent assets principally used for transactions.
+In the past, there has been a preference for setting ranges for multiple aggregates, increasing the potential for both information and noise, but I have been focusing on M2.
+If this were being developed for the FOMC, the calibration of the reference value for M2 growth would need to incorporate either the staff estimate of trend growth or, still more likely, an estimate derived from a survey of FOMC members.
+For my calculation, I use my own estimate of the trend rate of growth in potential output, with input from the staff.
+It is important that this estimate be updated at least annually to incorporate the best judgment about the underlying trend.
+I am currently using 3-1/2 percent to 4 percent.
+The next step is to specify the inflation target.
+This is a potential problem, because the FOMC has not set an explicit numerical inflation target.
+It might be more appropriate for the Congress, presumably with input from the Fed, to set such a target given that the Congress is responsible for setting the broad objectives for monetary policy.
+At any rate, the upside or downside of publicly reporting a reference value is that the FOMC would have to be more explicit about its objectives.
+To calibrate my reference value, I provide the staff with my personal inflation target.
+For the chain GDP price measure, the appropriate choice in the equation of exchange, my inflation target is 1-1/2 percent.
+I allow 1/2 percent for measurement error and add an additional 1 percentage point as a "cushion," in light of the potential deterioration of cyclical performance in economies operating at very low inflation rates.
+This would be consistent with a 1-1/2 percent target for the personal consumption expenditure measure of consumer prices and about a 2 percent target for the Consumer Price Index, based on recent experience with the differentials among these alternative measures of inflation.
+Finally, we consider whether adjusting the M2 reference value for a systematic trend in V2 velocity is appropriate.
+Before the velocity shifts of the early 1990s, there seemed to be a long-standing, small, but positive, trend in V2.
+The pattern is no longer clear.
+Of course, the velocity shift in the early 1990s was, at least at the beginning, unexpected and unexplainable.
+For the reference value to be informative, adjustments for shifts of velocity would be necessary, and the ability to detect such shifts in "real time" is a potential problem.
+At this point, we assume that trend growth in V2 is zero.
+Bringing all the steps together, my resulting reference value for M2 growth is 5 percent to 5-1/2 percent, the sum of my inflation target and my estimate for trend growth.
+Given the uncertainty about some of the inputs to the calculation, we might end up with a narrow range, as opposed to a point.
+The next issue is how to effectively make use of the reference value.
+The purpose of the reference value, in my view, is not to read short-run deviations from it as signals of the need for adjustments in policy.
+The short-term variability in velocity makes the extraction of such a signal too difficult.
+Instead, the purpose of the reference value is to provide a check that might help avoid significant and persistent errors that undermine the Fed's medium-term inflation objective.
+The traditional way the Federal Reserve presented its benchmarks for money growth in the past was the "cone" chart.
+Chart 1 shows the very last such chart for M2 published by the Federal Reserve in February 2000.15 The base of the cone is the fourth quarter of the previous year--in this case, the fourth quarter of 1998.
+The cone shows the range of M2 paths that would be consistent with the chosen range over the coming year.
+The flatter dashed line from the base shows the path for M2 that would be consistent with growth at the lower end of the benchmark range; the steeper dashed line shows the path of M2 that would be consistent with growth at the upper end of the range.
+The actual path of M2 is shown by the solid line.
+This approach, in my view, focuses too much attention on short-run deviations in money from its target path and fails to take into account the pattern of money growth before the previous fourth quarter.
+Perhaps a better way of using the reference value--focusing on its implications for medium-term inflation--would be to compare it with a longer-run average growth rate for M2.
+Chart 2, for example, compares excess money growth relative to the reference value--using CBO's estimates for potential GDP growth--with the deviation of inflation from its target.
+To focus on more persistent deviations in money growth and in consideration of the lags in the effect of money growth on inflation, the chart uses a two-year growth rate for M2, lagged two years, to compute the excess of money growth relative to its reference value.
+This is plotted against the excess of the rate of inflation over the previous four quarters relative to the inflation target.
+Chart 3 plots the two-year and the three-month money growth rates.
+This combination offers the opportunity to review shorter-term movements in money supply in the context of early warnings of more persistent deviations.
+A Cost-Benefit Analysis of an M2 Reference Value for the United States Should the FOMC reinstate benchmark growth ranges for one or more monetary aggregates?
+First, this would be most useful if the committee were prepared to align such a reference value with an intermediate-term inflation target and a consensus on the growth of potential output and if it were prepared to update the reference value or range as its estimate of potential growth changed to maintain consistency with the inflation target.
+This takes us potentially to the broader question of whether the Fed should have an explicit inflation target.
+That will have to be the subject of another paper.
+The second pre-condition for reinstating a money-growth reference value or range would be an evaluation of whether such a reference value would have improved or undermined the conduct of monetary policy over history.
+Are there, for example, historical episodes where it appears that responding to deviations of money growth from its reference value would have improved the conduct of monetary policy?
+Are there also episodes where such a response encouraged or would have encouraged inappropriate adjustments in policy?
+Chart 2 points to some episodes that might be useful in assessing the costs and benefits of implementing a reference value for M2 growth in the United States.
+It suggests that M2 growth relative to its reference value seems to have been a good leading indicator of inflation in the 1960s and 1970s.
+Perhaps the best example of an episode in which money growth provided information that might have helped to avoid a policy mistake was the late 1960s through the early 1970s.
+During the late 1960s, utilization rates were increasing to historically high levels, and inflation was trending upward.
+There was political resistance to using fiscal restraint to slow the economy.
+Monetary policy ended up accommodating, and indeed reinforcing, the high level of aggregate demand, setting the stage for a significant rise in inflation in advance of the sharp rise in oil prices in late 1973 and 1974.
+And chart 2 shows that money growth, though quite volatile, generally remained above its reference value during this period, signaling the inflation risks in the prevailing stance of monetary policy.16 But chart 3 also flashes some caution about the usefulness of a reference value, at least after the early 1980s and especially after the early 1990s.
+The chart allows us to identify several episodes in which money growth gave potentially misleading signals about inflation risks.
+The question in these cases is whether policymakers had enough specialized knowledge about financial innovations or disturbances to make a timely judgment that the information about money growth should be discounted.17 The surge in M2 growth in 1983, for example, was associated largely with regulatory changes allowing for the introduction of money market deposit accounts.
+At the time, policymakers were well aware of the potential for such effects of deregulation and hence were not "misled" by the money growth developments.
+Another example is the fall in excess M2 growth in the early 1990s, which did not portend as steep a fall in inflation.
+Instead, it was the result of the well-known rise in V2 at the time.
+Reviewing the discussions in the Bluebook--now part of the public record--policymakers apparently caught on to this shift within a year or two.
+More recently, the uptick in M2 growth in 1998 seems to have been associated, in part, with the runup in equity prices, which raised household wealth relative to income and, as consequence, induced households to rebalance their portfolios.
+Here again, policymakers seem to have caught on quickly.
+Money growth accelerated to a rate above 10 percent in the first quarter of this year.
+The recent jump in money growth is evident in chart 3 where I have plotted the three-month and two-year growth rates for M2 along with the reference value.
+There is, in general, too much noise, in my view, in the three-month rate to make it useful for monitoring the monetary aggregates.
+But this episode does provide an opportunity to take note of a variety of financial developments and special factors that affect money growth in the short run.
+Six factors appear to have contributed to the upsurge in M2 growth in the first quarter.
+First, the policy easings narrowed the opportunity cost of holding M2 and thereby raised the demand for M2.
+Second, the yield curve, while no longer inverted, is still relatively flat, giving investors little incentive to hold longer maturity assets.
+Third, stock market volatility is elevated, making the liquidity and safety of money more attractive.
+Fourth, individuals apparently built up M2 balances to a greater extent than in earlier years to make January tax payments.
+Fifth, though these balances typically run off in February, higher refunds than allowed for by seasonal factors apparently offset the drag from tax payments.
+Sixth, mortgage refinancings have boosted M2 growth, as funds accumulate in transactions balances before being remitted to investors.
+Some or all of these effects can be quantified, though with considerable margin of error.
+At any rate, this is the type of analysis that needs to be undertaken to interpret very short-run deviations of money growth from the reference value.
+This discussion perhaps only scratches the surface of the more thorough analysis that would be required to reach a definitive conclusion about the costs and benefits of a reference value.
+Still, it leaves me with both a recognition of the potential value of such a reference value and an appreciation of the challenge associated with wisely using the information about deviations of money growth from the reference value.
+Let me now sum up my conclusions about the usefulness of a reference value for money growth for the United States.
+First, I would not elevate the reference value to a second pillar, on a par with the eclectic approach of adjusting interest rates to changing economic conditions, as captured in either pillar two for the ECB or the policy rule in the consensus model.
+This would overemphasize the importance of the reference value in the conduct of monetary policy and thereby ultimately confuse the markets as they assess the role of money growth in the conduct of monetary policy.
+Second, the purpose of a reference value for money growth is not to identify money growth as the policy instrument.
+It is not.
+Nor is it to identify money growth as an intermediate target for monetary policy.
+It is not.
+The purpose of the reference value is to allow money growth to serve as a potentially useful information variable--a potential signal of inconsistency between prevailing policy and the medium-term inflation objective.
+That is, persistent deviations of money growth from the reference value might influence monetary policy by raising questions about the consistency of policy with its objectives and thereby encouraging a reassessment of that policy.
+Third, money growth is an imperfect information variable, and as a result, deviations of money growth from its reference value have to be carefully evaluated before a judgment is made that policy is inconsistent with the medium-term inflation objective.
+Finally, given the ability of central banks to identify and understand financial market innovations and disturbances, they are in a good position to extract the benefits of the reference value without being misled by the short-run variability and occasional structural breaks in velocity.
+VI.
+Conclusion Monetarism has had a profound influence on prevailing views about what monetary policy is capable of achieving and what monetary policy cannot do.
+It has helped to forge a consensus that central banks are responsible for preventing sustained inflation, and central banks have generally accepted that responsibility.
+Monetarism has not, however, had as great an influence in terms of elevating or even maintaining the role accorded to money in either macroeconomic modeling or monetary policy.
+Nevertheless, sometimes the pendulum swings too far in one direction or another, only to be corrected later.
+It may be that we have discounted the role of money in macro modeling and monetary policy more than is justified.
+I reach three other conclusions from my journey.
+First, I believe we have more to learn about the role that monetary policy can play once the policy rate is driven to zero.
+This issue is important today in Japan.
+But given the relatively low inflation rates around the world, especially among industrial economies and therefore, on average, relatively low nominal interest rates, it is a subject of interest to a wider audience.
+Second, some of what we can learn from the debate about monetization in Japan may also enrich our understanding of how monetary policy works in normal times.
+Third, I believe monitoring money growth has value, even for central banks that follow a disciplined strategy of adjusting their policy rate to ongoing economic developments.
+The value may be particularly important at the extremes--during periods of very high inflation, as in the late 1970s and early 1980s in the United States, and when the policy rate is driven to zero in deflationary episodes, as is the case in Japan today.
+Chart 1 (3KB PDF) Chart 2 (3KB PDF) Chart 3 (3KB PDF) Footnotes 1 Superneutrality is more controversial than neutrality.
+Indeed, the fundamental justification for a price stability objective is that inflation undermines the efficiency of the economy and perhaps distorts saving and investment choices.
+What is essential is that monetary policy cannot raise the level or growth rate of output by increasing the rate of money growth.
+2 Many monetarists came to believe that short-run variations in money growth had significant effects on real variables in the short run.
+The important effects of variations in money growth for short-run economic activity were demonstrated in empirical research conducted at the Federal Reserve Bank of St. Louis, notably by Andersen and Jordan (1968) and by Andersen and Carlson (1970).
+But skepticism about the ability to harness this effect for use in stabilization policy remained.
+Still, as Hafer and Wheelock (2001) have noted, there was a temptation, not always resisted, to use the short-run relationship to prescribe a monetarist strategy for stabilization policy.
+3 See, for example, Fuhrer and Moore (1995), Clarida, Gali, and Gertler (1999), and McCallum (2000).
+4 The effect of supply and demand shocks on the evolution of real economic activity is not clear in this specification.
+In the simple specification I have used, the effect of supply shocks is hidden in the measure of potential output, part of the output gap variable, and in the shock term in the Phillips curve.
+The last several years have heightened appreciation that shocks to the level of potential output (arising, for example, from changes in the non-accelerating inflation rate of unemployment) or to the growth rate of potential output (arising from shocks to structural productivity growth) play an important role in shaping short-run as well as long-run movements in real economic activity.
+5 Large-scale models allow for the well-known real balance effect.
+Increases in real money balances that raise the real value of net worth operate through the wealth effect in such models.
+However, open market operations involve an exchange of money for bonds and therefore do not directly alter household wealth.
+McCallum (2000) and Svensson (2001) discuss conditions under which money could directly affect aggregate demand.
+Svensson summarizes the conditions as follows: "[A] direct money effect would arise if real balances entered the representative agent's utility function and this utility function was not additively separable in consumption and real balances but had a positive cross derivative."
+Svensson and McCallum agree that, for reasonable parameter values, this effect is likely to be so small that it can be disregarded.
+6 Friedman and Meiselman (1963).
+7 Bernanke and Gertler (1995).
+8 Clouse et al.
+(2000).
+9 I am assuming a standard expectations theory of the term structure of interest rates and constant risk premiums.
+Long-term interest rates are, in this case, an average of current and expected future short-term interest rates.
+10 See, for example, Krugman (1998).
+11 See Fujiki et al.
+(2001) for an assessment of the potential benefits and risks associated with a monetization strategy in Japan.
+12 For a good discussion of the evolution of the role of money in monetary policy, see Meulendyke (1968).
+13 The Bank of Canada also assigns the monetary aggregates a more prominent role in the conduct of monetary policy.
+Freedman (2000) provides a summary of the role of the monetary aggregates at the Bank of Canada.
+14 See Angeloni et al.
+(2000) for a thorough discussion of the role of the money-growth reference value in the overall policy strategy of the ECB.
+15 This chart was published in the Federal Reserve Board's February 2000 Monetary Policy Report to the Congress.
+16 Interestingly, if we had constructed chart 2 based on M1 rather than M2, it would have been less clear that money growth was inconsistent with maintaining low inflation.
+In the early 1970s, however, the Federal Reserve had a single money supply measure, corresponding most closely to M1 today.
+The Federal Reserve discussions of the monetary aggregates at that time sometimes referred to "adjusted" measures of the money supply that included, for example, time deposits and therefore corresponded to what we now call M2.
+Milton Friedman at this time was focusing on this broader M2-type measure.
+At any rate, the different signals from narrower and broader measures in the early 1970s highlight the value of monitoring growth rates for a number of different definitions of the money supply, as the FOMC routinely did during the period it was setting benchmarks for the growth of the monetary aggregates.
+17 Orphanides and Porter (2001) address precisely this issue.
+References Andersen, L.C., and K.M.
+Carlson.
+"A Monetarist Model for Economic Stabilization," Federal Reserve Bank of St. Louis, Review, vol.
+52, no.
+4, April 1970, pp.
+7-25.
+Andersen, L.C., and J.L.
+Jordan.
+"Monetary and Fiscal Actions: A Test of Their Relative Importance in Economic Stabilization," Federal Reserve Bank of St. Louis, Review, vol.
+50, no.
+11, November 1968, pp.
+11-24.
+Angeloni, Ignazio, Victor Gaspar, Otmar Issing, and Oreste Trisani.
+"Monetary Policy in the Euro Area: Strategy and Decision-Making at the European Central Bank," European Central Bank, July 2000.
+Bernanke, Ben S., and Mark Gertler.
+"Inside the Black Box: The Credit Channel of Monetary Policy Transmission," Journal of Economic Perspectives, vol.
+9, no.
+4, Fall 1995, pp.
+27-48.
+Clarida, Richard, Jordi Gali, and Mark Gertler.
+"The Science of Monetary Policy: A New Keynesian Perspective," Journal of Economic Literature, vol.
+37, no.
+4, December 1999, pp.
+1661-1707.
+Clouse, James, Dale Henderson, Athanasios Orphanides, David Small, and Peter Tinsley.
+"Monetary Policy When the Nominal Short-Term Interest Rate is Zero," Finance and Economics Discussion Series, 00-51.
+Board of Governors of the Federal Reserve System, November 2000.
+Federal Reserve Bank of Boston.
+Controlling Monetary Aggregates.
+September 1969.
+Freedman, Charles.
+"The Framework for the Conduct of Monetary Policy in Canada: Some Recent Developments."
+Presented to the Ottawa Economics Association, January 25, 2000.
+Friedman, Milton.
+A Program for Monetary Stability.
+New York: Fordham University Press, 1960.
+Friedman, Milton, and David Meiselman.
+"The Relative Stability of Monetary Velocity and the Investment Multiplier in the United States, 1897-1958," in Commission on Money and Credit, Stabilization Policies.
+Englewood Cliffs, N.J.: Prentice Hall, 1963, pp.
+165-268.
+Fuhrer, Jeff, and George Moore.
+"Inflation Persistence," Quarterly Journal of Economics, vol.
+110, no.
+1, February 1995, pp.
+127-59.
+Fujiki, Hiroshi, Kunio Okina, and Shigenori Shiratsuka.
+"Monetary Policy under Zero Interest Rate: Viewpoints of Central Bank Economists."
+Monetary and Economic Studies, Bank of Japan, February 2001.
+Hafer, R.W., and David C. Wheelock.
+"The Rise and Fall of a Policy Rule: Monetarism at the St. Louis Fed, 1968-86," Federal Reserve Bank of St. Louis, Review, vol.
+83, no.
+1, January/February 2001, pp.
+1-24.
+Krugman, Paul.
+"Japan's Trap."
+The Official Paul Krugman Web Page.
+May 1998. http://web.mit.edu/krugman/www/japtrap.html.
+McCallum, Bennett T. "Monetary Policy Analysis in Models without Money."
+Prepared for 25th Annual Economic Policy Conference of the Federal Reserve Bank of St. Louis, October 19-20, 2000.
+Meltzer, Alan.
+"The Transmission Mechanism."
+Prepared for The Monetary Transmission Process: Recent Developments and Lessons for Europe, Bundesbank, Frankfurt, Germany, March 25-27, 1999.
+Meulendyke, Ann-Marie.
+U.S. Monetary Policy and Financial Markets.
+New York: Federal Reserve Bank of New York, 1998.
+Orphanides, Athanasios, and Richard Porter.
+"Money and Inflation: The Role of Information Regarding the Determinants of M2 Behavior," Board of Governors of the Federal Reserve System, January 2001.
+Svensson, Lars E. O.
+"The Zero Bound in an Open Economy: A Foolproof Way of Escaping a Liquidity Trap," Monetary and Economic Studies (Special Edition), vol.

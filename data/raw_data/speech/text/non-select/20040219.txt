@@ -1,0 +1,53 @@
+Some of you have asked about my experience as a member of the Board of Governors of the Federal Reserve System, and I find that I am dealing with familiar issues that I have frequently addressed in my business career, but from a different perspective.
+Tonight, I want to touch on one of those areas, corporate governance, but I also want to focus on the way a central banker considers corporate governance issues, particularly how these issues affect the performance of financial markets and the functioning of the economic system.
+The governance problems that have come to light over the past couple of years have focused attention on the quality of accounting standards, the professionalism of auditors, and the governance practices of major companies and, most recently, of mutual funds.
+These scandals have been the topic of much debate and have triggered a spate of regulatory reforms.
+However, rather than review the litany of scandals and regulatory responses, I would like to step back and discuss some broader, longer-term issues that affect accounting and corporate governance.
+Looking beyond the isolated cases of outright fraud, I believe a fundamental problem is this: As organizations have grown in size and scope, innovative financing techniques have made it more difficult for outside investors to understand a particular firm's risk profile and the performance of its various lines of business.
+Traditional accounting standards have not kept pace with the risk-management tools employed by sophisticated corporations.
+Thus, more meaningful disclosure of firms' risk-management positions and strategies is crucial for improving corporate transparency for market participants.
+The second issue I want to explore is how corporate governance in the United States is shaped by the increasing importance of institutional investors, such as mutual funds and pension funds, as major holders of corporate equity.
+Two themes will emerge.
+The first is that institutional investors may play a role as delegated monitors in helping to promote efficient governance.
+The second is that delegated monitors are subject to their own governance challenges.
+Unfortunately, this last point is illustrated all too well by the governance problems that have recently surfaced in the U.S. mutual fund industry.
+Financial Innovations and Disclosure Over the past few decades, firms have acquired effective new tools with which to manage financial risk.
+For example, securitization helps a firm manage the risk of a concentrated exposure by transferring some of that exposure outside the firm.
+By pooling assets and issuing marketable securities, firms obtain liquidity and reduce funding costs.
+Of course, moving assets off the balance sheet and into special purpose entities, with the attendant creation of servicing rights and high risk residual interests retained by firms, generates its own risks and reduces transparency unless the firm takes additional steps to enhance disclosure.
+Several types of securitization have grown rapidly over the past decade.
+One of the fastest growing has been asset-backed commercial paper, which soared from only $16 billion outstanding at the end of 1989 to about $690 billion as of year-end 2003.
+Commercial mortgage securitizations have also proliferated noticeably since the early 1990s.
+The dollar amount of outstanding securities backed by commercial and multifamily mortgages has risen from $36 billion at the end of 1989 to just under $450 billion as of this past September.
+In addition, commercial banks and finance companies have moved business loans off their books through the development of collateralized debt obligations.
+Securitized business loans amounted to $100 billion in the third quarter of 2003, up from a relatively miniscule $2 billion in 1989.
+Firms also use derivatives to manage their risk exposures to price fluctuations in currency, commodity, energy, and interest rate markets.
+More recently, firms have used credit derivatives, a relatively new type of derivative that allows them to purchase protection against the risk of loss from the default of a given entity.
+By purchasing such protection, financial and nonfinancial firms alike can reduce their exposures to particular borrowers or counterparties.
+Credit derivatives also allow financial firms to achieve a more diversified credit portfolio by acquiring credit exposure to borrowers with which they do not have a lending relationship.
+For example, European insurance companies reportedly have used credit derivatives to acquire exposure to European corporations that, because they rely primarily on bank lending, have little publicly traded debt outstanding.
+The improvements in technology, the quick pace of financial innovation, and the evolving risk-management techniques almost ensure that businesses will increasingly use almost limitless configurations of products and services and sophisticated financial structures.
+Accordingly, outsiders will have ever more difficulty understanding the risk positions of many large, complex organizations.
+These developments represent significant challenges to standard setters and to firms.
+For market discipline to be effective, accounting standards must evolve to accurately capture these developments.
+Company managers must also do their part, by ensuring that public disclosures clearly identify all significant risk exposures--whether on or off the balance sheet--and their effects on the firm's financial condition and performance, cash flow, and earnings potential.
+With regard to securitizations, derivatives, and other innovative risk transfer instruments, accounting measurement of a company's balance sheet at a point in time is insufficient to convey the full effect of a company's financial risk profile.
+Therefore, disclosures about how risks are being managed and the underlying basis for values and other estimates must be included in financial reports.
+Unlike typical accounting reports, information generated by risk management tends to be oriented less to a particular time and more to a description of the risks.
+To take an example from the world of banking, in which the discipline of risk management is relatively well developed, a fair value report might say that the value of a loan portfolio is $300 million and has dropped $10 million from the previous report.
+However, the bank's internal risk report would show much more extensive information, such as the interest rates on the loans, the credit quality of the underlying assets, and the range of values the portfolio would take under alternative future scenarios.
+Thus, unlike a user of the fair value report, the user of a risk-management report could determine whether the fall in value was due to declining credit quality, rising interest rates, or sales or payoffs of loans.
+Corporate risk officers have developed other types of reports that provide information on the extent to which the total return in a particular line of business compensates for the line's comprehensive risk.
+A reader of such a report can determine whether the growing lines of business have risk exposures that tend to offset those in other business lines--thereby resulting in lower volatility for the earnings of the corporation as a whole.
+I particularly want to emphasize that disclosure need not be in a standard framework nor exactly the same for all organizations.
+Rather, we should all be insisting that each entity disclose the information that its investors need in order to evaluate the entity's risk profile in the most convenient and useful way.
+And we should keep in mind that disclosure without context may not be meaningful.
+Transparency means that the information presented provides an accurate understanding of the entity's transactions.
+To achieve greater transparency, organizations should continue to improve their risk management and reporting functions.
+When they are comfortable with the reliability and consistency of the information in these reports, they should begin disclosing this information to the market, perhaps in summary form, paying due attention to the need for keeping proprietary business data confidential.
+Disclosures would not only provide more qualitative and quantitative information about the firm's current risk exposure to the market but also help the market assess the quality of the risk oversight and risk appetite of the organization.
+Less than fully transparent disclosures are not limited to "complex" off-balance-sheet transactions.
+One glaring example is the treatment of expenses associated with defined-benefit pension plans.
+In recent years we have seen how the accounting rules for these plans can produce, quite frankly, some very misleading measures of corporate earnings and balance sheets.
+In effect, firms use expectations of the long-term return on assets in defined-benefit plans to calculate current-period pension costs (income) while disguising the volatility actually occurring in the portfolio.
+At the same time, they use a spot rate to discount the future liabilities.

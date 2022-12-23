@@ -1,0 +1,147 @@
+Well, reality is certainly different.
+Most of my time is occupied by issues concerning institutions and markets, regulations and supervisory policy.
+In the process, I have learned that the most difficult and most under-appreciated job is yours--bank supervision.
+When times are good, bankers and policymakers don't see the need for your services.
+In not-so-good times, they blame you for not seeing problems soon enough.
+Adding to the supervisor's problems is the increasing scale, scope, span of operation, and general complexity of the largest banks operating in the United States--the "global financial institutions" of my title, or, as we call them at the Fed, large, complex banking organizations (LCBOs).
+These entities are becoming increasingly difficult to supervise and evaluate because of their complexity and opaqueness.
+The banking agencies have recognized this difficulty and each has developed more-or-less special programs and approaches for the organizations it supervises.
+Let me underline that these observations are not intended to suggest that regional and community banks are unimportant.
+Rather, they are intended to convey that the modifications--recent and future--required in the supervision of those smaller banks are far fewer than those required for the LCBOs.
+The capital reforms being developed at Basel, for example, are really addressing developments at complex organizations, and the extent of changes at most other commercial banks in this country will be, I think, quite modest.
+In the balance of my remarks today, I would like to discuss what I think are the major approaches that we should take in addressing the challenges of supervising the increasingly complex and large global financial institutions.
+Internal Ratings For the past decade or so supervisors have recognized that snapshots of the balance sheets of complex banking organizations are not very helpful for supervisory evaluations.
+Positions just change too rapidly.
+Moreover, the complexity of positions implies a major commitment of time and supervisory resources.
+Thus, all the banking agencies have adopted, in one form or another, an approach that emphasizes careful analysis and evaluation of each bank's internal risk management policies and procedures, as well as transactions-testing of those policies and procedures.
+I suspect that a new, and I think evolutionary, supervisory vehicle--one that supplements the evaluation of risk-management systems--will soon be a required part of supervision for all of us.
+I refer, of course, to the development, use, and application of internal credit-risk-rating systems by banks.
+Systems for credit-risk rating in one form or another, are widely used by LCBOs for internal management purposes.
+As they improve, these systems can increasingly be expected to figure prominently in our supervisory process.
+That dual use--for both management and supervision--is a dramatic innovation, creating a link between bank management and supervisory standards that has been needed for some time.
+Cutting-edge banks have already begun to classify their loan portfolios into risk classes of finer and finer gradation and to use those classifications for internal capital allocations, for loan pricing, and for determination of loan loss reserves among other purposes.
+When the classification scheme is used for internal capital allocations, a probability of default, as well as a loss rate from default, is calculated for each loan.
+Regulatory agencies and central banks around the world are working on ways to use this same information as the raw material for the development of a much more accurate regulatory capital requirement.
+The purpose of capital, I need not remind you, is to absorb unexpected losses.
+At least in principle, a bank's quantification of probabilities of default, and of loss rates given default, in combination with other information, allows both management and policymakers to determine how much capital is needed to cover unexpected losses within a certain minimum probability.
+Indeed, I believe that a consensus is developing among G-10 countries around just such a use--that is to say, a capital accord in which the capital requirements for individual banks will vary with their individual credit risk profiles, based increasingly on the bank's own internal risk evaluations.
+To be sure, there remains the problem of supervisory validation of these internal risk systems to ensure first, that the risk classifications are objective and reliable and, second, that they are also used by management for decisionmaking.
+No less critical is the tying of risk weights to internal risk classifications in such a way as to minimize inconsistencies of capital treatment among banks that have similar risks.
+From the work I've seen, these problems look solvable, at least in stages.
+Getting the numbers right is both a science and an art--and is critical.
+If we simply create a few more risk weights and buckets we will, I submit, have done no more than create new opportunities for capital arbitrage.
+In short, we will simply continue to induce banks to retain their risky assets when their own internal capital allocations exceed the regulatory levels and to sell, securitize, and otherwise shift off-balance-sheet those assets for which the regulatory capital requirement exceeds the economic requirement.
+The net result is likely to be riskier and less transparent banks--quite the opposite of what policymakers, supervisors, legislators, and the public want.
+Regardless of what we do, and I cannot emphasize this enough, those banks on the frontier of risk management, small in number now but increasing, will continue along their current path of ever more sophisticated use of internal risk classifications.
+And whenever regulatory capital differs from economic capital by more than the cost of arbitrage, they will arbitrage.
+Another way of saying this is that regardless of our actions, frontier banks will always attempt to manage their businesses to earn competitive risk-adjusted rates of return on equity.
+Today, our capital regulation, with its one-size-fits-all risk weight for loans, encourages banks to withdraw from low-risk credit markets, or to arbitrage, when regulatory capital requirements exceed levels consistent with an activity's underlying economic risk.
+Not only is this situation costly and inefficient for banks and their customers, but it also has become increasingly difficult for supervisors to assess the residual capital adequacy of LCBOs, as relatively low risk assets have been removed from the banking book.
+That is why we need a new regulatory capital framework, and why it is so critical that both the bank and the supervisor use capital weights that are as risk-sensitive as possible.
+Supervisors, of course, cannot simply take whatever banks are using in their internal risk classifications.
+Indeed, some large banks are, surprisingly, behind the curve in developing their own internal risk classifications.
+Their systems have too few categories, are based on insufficient historical data, have been subject to inadequate stress-testing, and are too simplistic.
+In mid-1999, the Federal Reserve told these banking organizations that they should catch up, and we required our examiners to explicitly evaluate these catch-up efforts in their examinations.
+I trust that these lagging banking organizations in their own self-interest will promptly revise their systems, both to meet coming revisions in the regulatory capital system and to avoid the market's criticism as information about more institutions' systems becomes better known to creditors of banking organizations.
+Market Discipline Indeed, harnessing the market to assist in the process is critical to supervising global financial institutions.
+Reality requires that we emphasize that even with improvement in risk classifications and more accurate capital requirements, we have limited public-policy choices for large and complex organizations.
+Choice 1: We can accept systemic risk as a cost of having large, global organizations in the marketplace.
+Choice 2: In order to limit systemic risk, we can adopt very detailed regulation and supervision programs that include a growing list of prohibitions.
+Choice 3: We can rely more on market discipline to supplement capital reforms and can maintain a level of supervision similar to the one we have today.
+Given the choices, we simply must try market discipline--and its necessary prerequisite, public disclosure.
+Large, complex banking organizations already rely heavily on funding from sources other than insured depositors.
+These other creditors--including, but certainly not limited to, holders of subordinated debentures--should anticipate that the failure of the organization would, in a financial restructuring by the authorities, entail losses--at a minimum, significant haircuts.
+Fear of loss, if linked with the availability of sufficient information so that creditors are able to determine a bank's real risk profile, should in turn induce uninsured creditors to behave like those of any nonbanking business.
+That is, uninsured creditors could be expected to command risk premiums linked to the portfolio risks and other risks of the organization.
+Such risk premiums should, in turn, act both as curbs on the risk-taking behavior of banking organizations and as supplementary signals to supervisors.
+But, if either effect is to materialize, the uninsured creditors must have both a credible fear of loss and the information about the individual institution necessary to make judgments and decisions.
+As most of you are aware, late last month the Fed, in cooperation with the Office of the Comptroller of the Currency and the Security and Exchange Commission, set up a private-sector advisory group.
+Composed of senior executives of banking and securities firms, the advisory group is to review the state of the art in public disclosure, to counsel us on best practices, and to suggest improvements in those practices.
+The group's report will be public.
+While I have no idea what will be in the report, it is my hope and expectation that we will learn more about how to use market discipline both to strengthen our banking system and to avoid additional regulation and supervision of global financial institutions.
+At the Federal Reserve, we plan, however, to require that at least the large, complex banking organizations establish and implement a disclosure policy to provide stakeholders with information that can be used to evaluate the organization's risk profile.
+Our examiners, as part of both the holding company inspection and the state member bank examination, will review and evaluate such disclosures for their conformance to best practices and their contribution to stakeholders' understanding of their risk at that organization.
+We should all be aware that additional public disclosure is not a free good, especially if it works.
+Banks will find that additional market discipline constrains their options, and supervisors will be concerned about creditors' response to bad news.
+But both constrained options and swift market punishment are part of the desired effect of market discipline.
+Supervision If, and I underline "if," (1) banking organizations develop working, verifiable, and reasonably accurate methods of evaluating and categorizing credit risks (2) capital requirements are linked tightly to those risks (3) public disclosures induce realistic market discipline and (4) market, operational, and legal risks are under control, then the direction for supervisors seems reasonably clear: to validate systems, policies, and procedures.
+Now, I have purposely set up a straw man so that we can all appreciate how much work remains to be done.
+Despite the many tasks that lie ahead, the path that I believe we are on will, I think, lead to supervisory efforts that focus on a bank's management information and risk-management systems and on providing management with evaluations and criticisms designed to improve those systems.
+To be sure, transactions-testing will remain an important effort.
+But, critically, the safety and soundness of the bank will depend on how well its risk-management systems work, the judgment its management brings to bear in using those systems, and the effectiveness of market discipline.
+It will, I think, increasingly be the job of the supervisor of global financial organizations to evaluate and test systems and to evaluate and criticize the accuracy and helpfulness of the information banks disclose about their own risk profiles.
+Internal systems and public disclosure, in short, are the real first line of defense.
+The only alternative for the large and complex banking organization, as I have noted, is intrusiveness and detailed regulation, which would dramatically reduce flexibility and innovation in our banking system.
+We have, I believe, already started down the path I have described.
+Several problems remain to be solved.
+Any one of them could slow or even stop our progress.
+I have already mentioned the need to develop procedures for validating risk classifications and for converting risk classifications into risk weights on an equitable basis across banks.
+The challenge of reaching a consensus at Basel is another obstacle.
+But whatever we develop, either here or on an international basis, we will be relying on the good judgment and sophistication of the nation's examiners and on their development of the skills needed to keep pace with the activities of banks operating in the United States.
+Cooperation But skill and good judgment are, unfortunately, not sufficient.
+For better or worse, supervisors and policymakers function in a multi-agency environment.
+We must cooperate across agencies if we are going to get the job done.
+Most global U.S. banks are supervised by the Office of the Comptroller of the Currency.
+All bank and financial holding companies and some large banks are supervised by the Federal Reserve.
+Nothing in this structure was changed by the recently enacted Gramm-Leach-Bliley Act.
+The challenges of supervising large, complex banking organizations raise yet again the question of how to make the supervisory structure mandated by the Congress work efficiently and in the public interest.
+All the parties, it seems to me, must work out relationships and operating norms that serve the objective of safe, sound, and efficient financial markets.
+The implicit tensions among the regulators are a fact of life; goodwill and cooperation are required if we are to carry out the law.
+Before I proceed further, it might help if I spend a moment on the philosophy underlying umbrella supervision and distinguish this supervisory approach from direct supervision of insured depository institutions.
+As you know, all large and sophisticated financial services companies manage their risks on a consolidated basis, requiring, in turn, oversight of risk-taking by the consolidated entity.
+The consolidated, or umbrella, supervisor aims to keep the relevant regulators informed about overall risk-taking and to identify and evaluate the myriad risks that extend throughout such diversified bank and financial holding companies in order to judge how the parts and the whole affect, or may affect, affiliated banks.
+To fulfill its responsibility, reaffirmed by the recent legislation, the Federal Reserve plans to focus on the organization's consolidated risk-management process and on overall capital adequacy.
+For the new financial holding companies, the consolidated capital issue is complicated by the affiliation of banks with institutions that have their own financial regulator and capital regulation.
+We are in the process of tackling these issues, knowing that responsibility for ensuring adequate management processes and control relies, in the first instance, with a bank's management and its primary supervisor.
+As umbrella supervisor, the Federal Reserve seeks to gain an overview of the organization's activities and to detect potential threats to affiliated U.S. depository institutions.
+The role of a financial and bank holding company supervisor is significantly different from that of a bank supervisor.
+The difference reflects the difference between an insured depository institution and a nonbank affiliate of the holding company.
+Depository institutions are covered by the federal safety net--deposit insurance and access to the discount window and to other guarantees associated with the Federal Reserve's payment and settlement system.
+Access to the federal safety net dampens the incentive of investors and creditors to monitor banks' risk-taking, which in turn breaks the link between bank risk-taking and funding costs.
+Bank regulation and supervision aims to compensate for the resultant breakdown in market discipline and to limit bank failures that could overwhelm the deposit insurance fund.
+The financial modernization law did not change the focus of the safety net.
+But the relative growth of activities in bank holding companies outside the insured depository institution, as well as the increased focus by both management and supervisors on consolidated risk management, may make maintaining the distinction between the insured bank and its increasingly nonbank affiliates more challenging.
+If we let public perceptions, let alone supervisory actions, blur the distinction, we will surely extend the implicit safety net and expand its moral hazard, to the detriment of efficient markets and, ultimately, at high cost to taxpayers.
+The recently enacted law provides that, when specialized functional regulators already oversee the new permissible activities, duplication of supervision, and hence excessive regulatory burden, should be avoided.
+In addition, because market discipline operates more effectively in connection with nonbank activities not subject to the moral hazard of the safety net, regulators should try to avoid diminishing market discipline in the new financial holding companies.
+Thus, the act discourages the extension of bank-like regulation and supervision to nonbank affiliates and subsidiaries.
+The Federal Reserve can contribute to this goal by being clear in word and deed that the affiliation of nonbank entities with a bank does not afford them access to the safety net.
+However, the Congress also saw the need for an umbrella supervisor to protect insured depository institutions from the risks of activities conducted by bank holding company affiliates.
+The law limits the extension of credit by insured depository institutions to their affiliates, and the umbrella supervisor--the Fed--is charged with limiting other forms of risk exposure to the depository institutions from the bank holding company structure.
+Clearly, there is a tension between protecting banks from such risks and avoiding the extension of bank-like supervision to affiliates.
+The provisions of the law dealing with the relationship between the Federal Reserve and the functional supervisors of certain types of nonbank affiliates--the SEC, the Commodity Futures Trading Commission, and the state insurance regulators--attempt to balance these considerations.
+As you know, these provisions call for the Federal Reserve to rely, as much as possible, on the examinations conducted by the functional supervisors and on public reports to obtain information about broker-dealers, insurance companies, and futures merchants.
+The Federal Reserve may examine such functionally regulated entities only if (1) the Board has reasonable cause to believe that the entity is engaged in activities that pose a material risk to an affiliated depository institution, (2) the Board determines that an examination is necessary to inform the Board of the entity's risk-management systems, or (3) the Board has reasonable cause to believe that the entity is not in compliance with the banking laws.
+We are in the process of working out satisfactory procedures with functional regulators.
+But it seems to me that we also must work harder to cooperate and share information among the umbrella and bank supervisors in a manner that is satisfactory to both and that minimizes regulatory burden and overlap.
+In principle, the relationship between the umbrella supervisor and the primary federal bank regulator could involve the relationship between the Federal Reserve and either the Federal Deposit Insurance Corporation or the OCC.
+In practice, however, the key relationship for large, complex financial holding companies will be between the Federal Reserve and the OCC because the banks in large, complex financial holding companies are either state member banks or national banks.
+Indeed, most of the large and complex institutions likely to take advantage of the new opportunities have lead banks, as I have noted, with national charters.
+This relationship between the primary bank regulator and the umbrella supervisor must respect the agencies' individual statutory authorities and responsibilities.
+At the same time, the primary bank regulator and the umbrella supervisor need to share information that allows them to carry out their responsibilities without creating duplication or excessive burden.
+Given the systemic risk associated with the disruption of the operations of large banks--and the role of the bank within the broader banking organization--the Federal Reserve believes that it needs to know more about the activities within large insured depository institutions than can be derived from access to public information or from the reports of the primary bank supervisor.
+Similarly, the primary bank regulator needs information about the activities of a bank's parent company and its nonbank affiliates aimed at protecting the bank from threats that might arise elsewhere in the consolidated organization.
+The need is particularly pressing when companies manage their businesses and attendant risks across legal entities within the structure of a financial holding company.
+As I have noted, the result is a complicated relationship, one with unavoidable, inherent, tensions.
+We each have our specific statutory responsibilities--the primary bank regulator for the bank and the Fed for the consolidated holding company.
+Yet to be most effective we need to work cooperatively and to keep each other informed.
+This cooperation should, when necessary, include participation in each other's examination teams.
+The bottom line is that the primary bank regulator and the Federal Reserve as umbrella supervisor should establish practical operating arrangements to ensure that the relationship avoids duplication, minimizes regulatory burden, respects individual responsibilities, and still ensures the wider flow of information required to meet their individual and collective responsibilities.
+There are, I am pleased report, ongoing discussions between the Federal Reserve and the OCC focused on improving our cooperation and coordination where we are both involved in the supervision of individual LCBOs.
+In many cases today, the existing relationships and coordination between Federal Reserve and OCC examiners are already excellent.
+Working collaboratively, we will assess our coordination at several LCBOs to draw lessons from those cases where the relationship is already working very well.
+We will use this information to improve the consistency of our relationship across all the LCBOs where we are both involved in supervision.
+In addition to improved cooperation among U.S. banking agencies, supervision of global financial institutions requires strong relations among supervisors worldwide.
+Most certainly, we have sought to do that, for decades now, through the Basel Committee on Banking Supervision and its predecessor.
+Although the work of that committee has focused on banks in G-10 countries, the supervisory principles and sound banking practices that it has identified have helped to strengthen bank supervision around the globe.
+Development of the "Core Principles for Effective Banking Supervision," is a prime example of those efforts.
+The creation of the Financial Stability Institute, under the joint sponsorship of the Bank for International Settlements and the Basel Committee on Banking Supervision, is another and represents an important effort to help developing countries train their supervisory staffs.
+The need for international cooperation extends beyond banking systems and bank supervisors, however, and must embrace the full range of regulated activities that large, complex financial institutions conduct.
+Toward that end, authorities from around the world have established the Joint Forum, made up of representatives of agencies regulating banking, insurance, and securities activities.
+The Financial Stability Forum, established by the G-7 in 1999, is another effort to promote international financial stability through information exchange and cooperation in financial supervision.
+The Forum regularly brings together national authorities responsible for financial stability in significant international financial centers--including both securities and banking supervisors--international financial institutions, and representatives of international groups of supervisors and regulators.
+Other groups exist and will, necessarily, be created to address issues of specific interest and may have short or long lives.
+The point is, it is important that we communicate and coordinate our activities, so that we understand each other's responsibilities and oversight techniques.
+As international problems emerge--as they will--knowing our counterparts abroad and trusting their judgment could be essential to resolving problems in a timely and orderly way.
+Conclusion The challenge of supervising global financial institutions is the challenge of the decade for supervisors.
+Large banking organizations are likely to become increasingly complicated and wide ranging, and the banking supervisory agencies will have to adjust to that.

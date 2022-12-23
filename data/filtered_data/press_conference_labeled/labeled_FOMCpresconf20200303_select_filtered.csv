@@ -1,0 +1,15 @@
+Unnamed: 0,sentence,label,score
+0,"The unemployment rate has been near half-century lows for well more than a year, the pace of job gains has been solid, and wages have been rising.",LABEL_1,0.9723686575889587
+1,"These strong labor market conditions have underpinned solid household spending, which has been the key driver of economic growth over the past year.",LABEL_1,0.9480690360069275
+2,"At the time of our FOMC meeting in January, prospects for continued economic growth remained favorable, and we judged that monetary policy was well positioned to support that outlook.",LABEL_1,0.5902659893035889
+3,The outbreak has also disrupted economic activity in many countries and has prompted significant movements in financial markets.,LABEL_2,0.9002625942230225
+4,The virus and the measures that are being taken to contain it will surely weigh on economic activity both here and abroad for some time.,LABEL_0,0.9939741492271423
+5,"In response, we have eased the stance of monetary policy to provide some more support to the economy.",LABEL_0,0.9973020553588867
+6,"As always, our actions are guided by our congressional mandate to promote maximum employment and price stability.",LABEL_1,0.9984422326087952
+7,And I fully expect it will return to solid growth and a solid labor market as well.,LABEL_1,0.8004641532897949
+8,"You saw this morning’s G-7 statement of finance ministers and governors, and I think that statement does reflect coordination at a high level in the form of a commitment to use all available tools, including health-care policy, fiscal policy, and monetary policy as “appropriate.” So, in terms of fiscal policy, again, not our role.",LABEL_2,0.9995142221450806
+9,We have—we have a full plate with monetary policy.,LABEL_2,0.9996728897094727
+10,But there’s also a role for monetary policy.,LABEL_2,0.9998050332069397
+11,Monetary policy can be an effective tool to support overall economic activity.,LABEL_2,0.9997649788856506
+12,"So, on your first question, we’re always going to set monetary policy at a given time in a way that we think best serves our dual-mandate goals, and it’s as simple as that.",LABEL_2,0.9997555613517761
+13,"So, you know, we’ll—if we get to a place where we think it’s an appropriate time to change March 3, 2020 the stance of monetary policy, we won’t hesitate to do that.",LABEL_2,0.999560534954071

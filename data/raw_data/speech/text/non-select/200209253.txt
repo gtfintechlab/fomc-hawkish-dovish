@@ -1,0 +1,100 @@
+Fostered by a lowering of trade barriers, exchange of goods and services across borders has increased far faster than world gross domestic product.
+But what is even more remarkable is how large the scale of cross-border finance has become, relative to the value of the trade that it finances.
+To be sure, much global finance reflects growing investment portfolios, some doubtless with a speculative component.
+But, at bottom, such finance is a central element of the systems that support the efficient international movement of goods and services.
+We strongly suspect, though we do not know for sure, that the accelerating expansion of global finance may be indispensable to the continued rapid growth in world trade in goods and services.
+It appears increasingly evident that many forms and layers of financial intermediation will be required if we are to capture the full benefit of our advances in technology and trade.
+Indeed, the potential for a far larger world financial system than currently exists is suggested by the seemingly outsized implicit compensation for risk associated with many investments worldwide.
+But, as in all aspects of life, expansion of one’s activities beyond previously explored territory involves taking risks.
+And risk by its nature has carried, and always will carry with it, the possibility of adverse outcomes.
+Accordingly, for globalization to continue to foster expanding living standards, risk must be managed ever more effectively as the century unfolds.
+The development of our paradigms for containing risk has emphasized, and will, of necessity, continue to emphasize dispersion of risk to those willing, and presumably able, to bear it.
+If risk is properly dispersed, shocks to the overall economic system will be better absorbed and less likely to create cascading failures that could threaten financial stability.
+The broad success of that paradigm seemed to be most evident in the United States over the past two and one-half years.
+Despite the draining impact of a loss of $8 trillion of stock market wealth, a sharp contraction in capital investment and, of course, the tragic events of September 11, 2001, our economy held firm.
+Importantly, despite significant losses, no major U.S. financial institution was driven to default.
+Similar observations pertain to much of the rest of the world but to a somewhat lesser extent than to the United States.
+These episodes suggest a marked increase over the past two or three decades in the ability of modern economies to absorb shocks.
+To be sure, the recent tepid pace of world economic activity has raised concerns that the full cycle of the past decade has yet to be definitively concluded.
+But the increased resiliency now clearly evident arguably supports the view that the world economy already has become more flexible.
+This favorable turn of events has doubtless been materially assisted by the recent financial innovations that have afforded lenders the opportunity to become considerably more diversified and borrowers to become far less dependent on specific institutions or markets for funds.
+A major contributor to the dispersion of risk in recent decades has been the wide-ranging development of markets in securitized bank loans, credit card receivables, and commercial and residential mortgages.
+These markets have tailored the risks associated with holding such assets to fit the preferences of a broader spectrum of investors.
+Especially important in the United States has been the flexibility and size of the secondary mortgage market.
+Since early 2000, this market has facilitated the large debt-financed extraction of home equity that, in turn, has been so critical in supporting consumer outlays in the United States throughout the recent period of cyclical stress.
+This market’s flexibility has been particularly enhanced by extensive use of interest rate swaps and options to hedge maturity mismatches and prepayment risk.
+Financial derivatives, more generally, have grown at a phenomenal pace over the past fifteen years.
+Conceptual advances in pricing options and other complex financial products, along with improvements in computer and telecommunications technologies, have significantly lowered the costs of, and expanded the opportunities for, hedging risks that were not readily deflected in earlier decades.
+Moreover, the counterparty credit risk associated with the use of derivative instruments has been mitigated by legally enforceable netting and through the growing use of collateral agreements.
+These increasingly complex financial instruments have been especial contributors, particularly over the past couple of stressful years, to the development of a far more flexible, efficient, and resilient financial system than existed just a quarter-century ago.
+Greater resilience has been evident in many segments of the financial markets.
+One prominent example is the response of financial markets to a burgeoning and then deflating telecom sector.
+Worldwide borrowing by telecom firms in all currencies amounted to more than the equivalent of a trillion U.S. dollars during the years 1998 to 2001.
+The financing of the massive expansion of fiber-optic networks and heavy investments in third-generation mobile-phone licenses by European firms strained debt markets.
+At the time, the financing of these investments was widely seen as prudent because the telecom borrowers had very high valuations in equity markets that could facilitate a stock issuance, if needed, to take down bank loans and other debt.
+In the event, of course, prices of telecom stocks collapsed, and many firms went bankrupt.
+In decades past, such a sequence would have been a recipe for creating severe distress in the wider financial system.
+However, a significant amount of exposure to telecom debt had been laid off through instruments that mitigate credit risk, such as credit default swaps, collateralized debt obligations, and credit-linked notes.
+Taken together, these instruments appear to have significantly reduced telecom loan concentrations and the associated stress on banks and other financial institutions.
+More generally, such instruments appear to have effectively spread losses from defaults by Enron, Global Crossing, Railtrack, WorldCom, and Swissair in recent months from financial institutions with largely short-term leverage to insurance firms, pension funds, or others with diffuse long-term liabilities or no liabilities at all.
+In particular, the still relatively small but rapidly growing market in credit derivatives has to date functioned well, with payouts proceeding smoothly for the most part.
+Obviously, this market is still too new to have been tested in a widespread down-cycle for credit.
+But so far, so good.
+The growing prominence of the market for credit derivatives is attributable not only to its ability to disperse risk but also to the information it contributes to enhanced risk management by banks and other financial intermediaries.
+Credit default swaps, for example, are priced to reflect the probability of the net loss from the default of an ever broadening array of borrowers, both financial and nonfinancial.
+As the market for credit default swaps expands and deepens, the collective knowledge held by market participants is exactly reflected in the prices of these derivative instruments.
+They offer significant supplementary information about credit risk to a bank’s loan officer, for example, who heretofore had to rely mainly on in-house credit analysis.
+To be sure, loan officers have always looked to the market prices of the stocks and bonds of a potential borrower for guidance, but none directly answered the key question for any prospective loan: What is the probable net loss in a given time frame?
+Credit default swaps, of course, do just that and presumably in the process embody all relevant market prices of the financial instruments issued by potential borrowers.
+Price trends of default swaps have been particularly sensitive to concerns about corporate governance in recent months.
+The perceived risk of default of both financial and nonfinancial firms has risen markedly in the wake of company-threatening scandals, though levels remain moderate.
+* * * Derivatives, by construction, are highly leveraged, a condition that is both a large benefit and an Achilles’ heel.
+The benefits of risk dispersion are accomplished without holding massive positions in the underlying financial instruments.
+Yet, too often in our financially checkered past, the access to such leverage has induced speculative excesses that have led to financial grief.
+We are scarcely likely to reform the underlying human traits that lead to excess, but we do need to buttress our risk management capabilities as best we can to delimit such detours from the path of balanced growth.
+More fundamentally, we should recognize that if we choose to enjoy the advantages of a system of leveraged financial intermediaries, the burden of managing risk in the financial system will not lie with the private sector alone.
+Leveraging always carries with it the remote possibility of a chain reaction, a cascading sequence of defaults that will culminate in financial implosion if it proceeds unchecked.
+Only a central bank, with its unlimited power to create money, can with a high probability thwart such a process before it becomes destructive.
+Hence, central banks have, of necessity, been drawn into becoming lenders of last resort.
+It was the Bank of England that established the concept during the financial crises of the nineteenth century, even though it was at the time privately owned.
+When a prominent London discount house failed in 1866, the Bank of England lent a substantial share of its reserves to other financial firms to ensure that panic did not spread.
+It further established its role as lender of last resort in 1890, when Baring Brothers was threatened.
+The Bank initiated a successful rescue operation by establishing a guarantee fund to which other financial institutions also contributed.
+Writing in 1915 about that episode, Ellis Powell said, “The Bank is not a single combatant who must fight or retire, but the leader of the most colossal agglomeration of financial power which the world has so far witnessed.” Thus, although the Bank of England was not nationalized until 1946, it had long before taken on one of the main responsibilities of modern central banks: ensuring financial stability by serving as the lender of last resort.
+But implicit in such a role is the assumption that the burden of risk arising from extreme outcomes will in some way be allocated between the public and private sectors.
+Thus, central banks are led to provide what essentially amounts to catastrophic financial insurance coverage.
+Such a public subsidy should be reserved for only the rarest of occasions.
+If the owners or managers of private financial institutions were to anticipate being propped up frequently by government support, it would only encourage reckless and irresponsible practices.
+In theory, the allocation of responsibility for risk bearing between the private sector and the central bank depends upon the private cost of capital.
+To attract capital, or at least retain it, a private financial institution must earn at minimum the overall economy’s rate of return, adjusted for risk.
+In competitive financial markets, the greater the leverage, the higher must be the rate of return on the invested capital before adjustment for risk.
+If private financial institutions have to absorb all financial risk, then the degree to which they can leverage will be limited, the financial sector smaller, and its contribution to the economy more limited.
+On the other hand, if central banks effectively insulate private institutions from the largest potential losses, however incurred, increased laxity could threaten a major drain on taxpayers, excess creation of money by the central bank, or both.
+In the end, we would be faced with a severe misallocation of real capital.
+In practice, the policy choice of how much, if any, extreme market risk should be absorbed by government authorities is fraught with many complexities.
+Yet we central bankers make this decision every day, either explicitly, or implicitly through inadvertence.
+Moreover, we can never know for sure whether the decisions we make are appropriate.
+The question is not whether our actions are seen to have been necessary in retrospect; the absence of a fire does not mean that we should not have paid for fire insurance.
+Rather, the question is whether, ex ante, the probability of a systemic collapse was sufficient to warrant intervention.
+Often, we cannot wait to see whether, in hindsight, the problem will be judged to have been an isolated event and largely benign.
+Thus, governments, including central banks, must balance the responsibilities they have been given related to their banking and financial systems.
+We have the responsibility to prevent major financial market disruptions through development and enforcement of prudent regulatory standards and, if necessary in rare circumstances, through direct intervention in market events.
+But we also have the responsibility to ensure that the regulatory framework permits private sector institutions to take prudent and appropriate risks, even though such risks will sometimes result in unanticipated bank losses or even bank failures.
+The inevitable rise in potential systemic risks as the international financial system inexorably expands can be contained by improvements in effective risk management in the private sector, improvements in domestic bank supervision and regulation, and, should it be necessary, by central banks acting as lenders of last resort.
+In the past two decades, bank supervisors in developed countries have worked together, through the Basel Committee on Banking Supervision, to improve bank supervision and regulation.
+This effort, which was the outgrowth of cooperation between U.S. and U.K. supervisory authorities, is ongoing and places priority on encouraging banks to further improve their risk management systems.
+Similar efforts toward shared objectives among individual central banks should also improve protection against systemic risk on an international level.
+* * * Allowing free markets to foster an ever-expanding international division of labor will in the future, as in the past, be fraught with controversy even as the evidence of the success of such a paradigm mounts.
+The wealth creation of globalization results from cutting-edge technologies displacing obsolescent facilities.
+But that implies significant hardship for workers who lose their jobs.
+These inevitable victims of the process of creative destruction must be aided not only for humanitarian reasons, but also to prevent our democratic institutions, in frustration, from turning to self-destructive protectionism.
+Such concerns underscore the fact that the battle for free markets is never definitively won.
+It is thus incumbent on those who seek to advance human welfare through the global system of free market trading to persevere in their advocacy.
+While the origin of global trade has its roots deep in human history, the emergence of the Industrial Revolution more than two centuries ago here in Britain accelerated global trade to levels previously unimagined.
+Britain also pioneered the development of political institutions to support free trade and more generally led the way into the modern industrial world.
+While there remain many who believe civilization took a wrong turn at that time, I doubt that any of the protesters of modern capitalism would choose to live in an environment that produced a life expectancy a fraction of what most of the world now enjoys.
+* * * But beyond our mutual commitment to global trade, Britain and the United States share a more enduring bond between our peoples.
+This bond reflects a shared set of deep-seated values that govern the way our citizens deal with one another, and how we deal with others.
+Undeniably, over the generations, the interests of Britain and the United States have at times diverged.
+We had a few differences with George III, for example.
+But I cannot forget the dinner President Ford gave in honor of Queen Elizabeth and Prince Phillip in celebration of the two-hundredth anniversary of our Declaration of Independence.

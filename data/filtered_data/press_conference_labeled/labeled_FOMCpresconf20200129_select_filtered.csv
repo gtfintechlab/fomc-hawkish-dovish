@@ -1,0 +1,56 @@
+Unnamed: 0,sentence,label,score
+0,"As always, we base our decisions on our judgment of how best to achieve the goals Congress has given us: maximum employment and price stability.",LABEL_2,0.8421252965927124
+1,"We believe monetary policy is well positioned to serve the American people by supporting continued economic growth, a strong job market, and a return of inflation to our symmetric 2 percent goal.",LABEL_2,0.5706021189689636
+2,"Growth in household spending moderated toward the end of last year, but with a healthy job market, rising incomes, and upbeat consumer confidence, the fundamentals supporting household spending are solid.",LABEL_2,0.9991057515144348
+3,Sluggish growth abroad and trade developments have been weighing on activity in these sectors.,LABEL_2,0.9961357116699219
+4,"However, some of the uncertainties around trade have diminished recently, and there are some signs that global growth may be stabilizing after declining since mid-2018.",LABEL_0,0.9674779772758484
+5,"Overall, with monetary and financial conditions supportive, we expect moderate economic growth to continue.",LABEL_2,0.9752022624015808
+6,"The unemployment rate has been near half-century lows for well more than a year, and the pace of job gains remains solid.",LABEL_0,0.49782612919807434
+7,Employment gains have been broad based across all racial and ethnic groups and all levels of education.,LABEL_1,0.8125137686729431
+8,These developments underscore for us the importance of sustaining the expansion so that the strong job market reaches more of those left behind.,LABEL_1,0.8754143118858337
+9,Inflation continues to run below our symmetric 2 percent objective.,LABEL_0,0.9544116258621216
+10,"Over the 12 months through November, total PCE inflation was 1.5 percent, and core inflation, which excludes volatile food and energy prices, was 1.6 percent.",LABEL_0,0.9876574277877808
+11,"Available data suggest similar inflation readings for December, though we expect inflation to move closer to 2 percent over the next few months as unusually low readings from early 2019 drop out of the calculation.",LABEL_1,0.7863919138908386
+12,"While low and stable inflation is certainly a good thing, inflation that runs persistently below our objective can lead longer-term inflation expectations to drift down, pulling actual inflation even lower.",LABEL_2,0.993154764175415
+13,"In turn, interest rates would be lower as well—closer to their effective lower bound.",LABEL_0,0.9959063529968262
+14,"As a result, we would have less room to reduce interest rates to support the economy in a future downturn to the detriment of American families and businesses.",LABEL_0,0.9834948182106018
+15,"In particular, we believe the current stance of monetary policy is appropriate to support sustained economic growth, a strong labor market, and inflation returning to our 2 percent—symmetric 2 percent objective.",LABEL_1,0.9950231313705444
+16,"As long as incoming information about the economy remains broadly consistent with this outlook, the current stance of monetary policy likely will remain appropriate.",LABEL_2,0.9961599111557007
+17,I will conclude with a brief overview of our current plans for our technical operations to implement monetary policy.,LABEL_2,0.9984930753707886
+18,"At that point, as in the pre-crisis period, our balance sheet will be expanding gradually over time, reflecting the trend growth in the demand for currency and other Federal Reserve liabilities.",LABEL_2,0.9998189806938171
+19,All of these technical measures are designed to support the efficient and effective implementation of monetary policy and are not intended to represent a chance—a change in the stance of monetary policy.,LABEL_1,0.886465311050415
+20,"So you may remember, in the December minutes we noted that a few Committee members suggested that the language that stated that monetary policy would support inflation near 2 percent could be misinterpreted as suggesting that policymakers were comfortable with inflation running below that level.",LABEL_2,0.9997112154960632
+21,So we thought about that in the intermeeting period and concluded that it would be appropriate to adjust that language to send a clearer signal that we’re not comfortable with inflation rising persistently—running persistently below our 2 percent symmetric objective.,LABEL_2,0.9932204484939575
+22,"It’s just that we wanted to underscore our commitment to 2 percent not being a ceiling to inflation running around—symmetrically around 2 percent, and that we’re not satisfied with inflation running below 2 percent, particularly at a time such as now where we’re a long way into an expansion and a long way into a period of very low unemployment when, in theory, inflation should be moving up.",LABEL_0,0.9928328990936279
+23,"And when we see that we’ve reached that level, we’ll begin to gradually reduce our asset purchases to the level of the underlying trend growth of demand for our liabilities.",LABEL_0,0.9986188411712646
+24,And we’re prepared to adjust the details of the plan as necessary to foster efficient and effective monetary policy implementation.,LABEL_1,0.8636133670806885
+25,"You know, our intention of these—for these adjustments is just to raise the level of reserves and to allow us to conduct monetary policy in an efficient and effective manner.",LABEL_2,0.9996614456176758
+26,"And our plan as we do that is, as those purchases get to that level, we believe we can gradually reduce them, and we believe we can also gradually reduce repo as—as we reach an ample level, as we’re satisfying demand now more from underlying reserves from bill purchases rather than from repo.",LABEL_1,0.9857949018478394
+27,We see low unemployment.,LABEL_0,0.9938613176345825
+28,"If you go back a few years, you will not find a lot of forecasts suggesting that we could have been at 63.2 percent overall labor force participation or the levels of employment to population that we’re seeing now, let alone the unemployment level.",LABEL_0,0.4563506841659546
+29,"We saw—if you go back four or five years, the four or five major wage statistics that we track were running at around 2 percent, and now they’re running at around 3 percent, which is theoretically about where they might be at full employment.",LABEL_2,0.9989271759986877
+30,It would consist of inflation plus—plus productivity growth.,LABEL_2,0.9109967947006226
+31,"The—it’s a bit surprising that, with sustained levels of historically low unemployment, we haven’t seen wages moving up above that level as we have in other long expansions and other periods of low unemployment.",LABEL_2,0.9996984004974365
+32,"You know, one thing can be that the natural rate of unemployment is still lower than we think, that the labor market is not as tight as it would appear just from the 3½ percent number.",LABEL_2,0.5048936009407043
+33,"And some aspects of that new normal would include ongoing powerful global disinflationary trends, which have led to lower-than-target inflation many places in the world; secondly, a flat Phillips curve, by which I mean low levels of sensitivity of inflation to resource utilization—for example, low unemployment; and, thirdly, a much lower neutral real interest rate here and around the world.",LABEL_0,0.9765915870666504
+34,"So those are challenging conditions for monetary policy to deliver on our statutory goals of maximum employment and stable prices, although I would say that, under our existing framework, we’ve been able to succeed or get close to succeeding it for most of the time lately to achieve those goals, although we do struggle, as other central banks do, with the inflation goal.",LABEL_0,0.9977594614028931
+35,"So let me talk about the coronavirus specifically, and then I’ll turn more to global growth more generally.",LABEL_2,0.9974271655082703
+36,"More broadly, though, if I can talk about the global economy for a second—and if you look at the backdrop, you know, if you go back to 2017, that was the year of synchronized growth that lasted into the middle of 2018, and then you saw slowing in growth, which lasted right through the end of last year.",LABEL_0,0.9984394907951355
+37,"The fourth-quarter growth globally was quite weak last year, and a number of factors played into that.",LABEL_2,0.9911491870880127
+38,"So, all of those things were playing into that cycle of weakening growth over the course of 2019 and the last half of ’18.",LABEL_2,0.9995736479759216
+39,"Many analysts are predicting a pickup in growth this year, although still to relatively modest growth rates.",LABEL_0,0.8507351875305176
+40,"All of that said, if you look at our mandate, we’ve got a monetary policy mandate and, more immediately perhaps, a supervisory mandate where we’re supervising financial markets, utilities, and financial institutions, banks.",LABEL_0,0.631838321685791
+41,"We do not see a decisive recovery, but it’s possible that this mix of positive developments and also accommodative financial conditions could spur further growth.",LABEL_0,0.992274820804596
+42,"Well, let me just stress that we have a very specific and important reason for caring about money market operations generally, and that just is that we are—our monetary policy decisions are transmitted through the financial markets—through the money markets into other financial markets and into broader financial conditions.",LABEL_2,0.5791351199150085
+43,And a couple of years ago the authorities decided to try to get that under control—to stop the growth and to control it.,LABEL_0,0.7577497363090515
+44,"And that—as I mentioned, that’s one of the reasons why Chinese growth slowed, and it’s one of the reasons why global growth slowed, because we felt that.",LABEL_2,0.9996446371078491
+45,"The authorities have stuck to that and have, again, continued to try to do that, so—to try to control the growth of debt.",LABEL_0,0.9720515012741089
+46,It’s not our intention to change the stance of monetary policy.,LABEL_2,0.9998037219047546
+47,"Over time, an average inflation-targeting framework would be different than our current framework, in the sense that it wouldn’t be a—there would be some aspect of trying to make inflation average 2 percent over time, which means, if it runs below 2 percent for a time, it has to run above to bring the average up.",LABEL_1,0.9720008969306946
+48,Our current framework is one where we say—or we’d be equally concerned with deviations of inflation from target on either side.,LABEL_0,0.995378851890564
+49,"The other one is asset purchases, getting to your—sorry, asset prices, getting to your question.",LABEL_1,0.9824780821800232
+50,"So we—we are assigned a job by Congress, and that is to use our tools to pursue maximum employment and stable prices.",LABEL_2,0.9996594190597534
+51,"Now, monetary policy is a blunt instrument, but it’s a powerful one.",LABEL_0,0.638043999671936
+52,"That was—in the week [wake] of fairly modest growth, it was a powerful recovery in the labor market.",LABEL_2,0.9997331500053406
+53,And part of that just is the effect of lower interest rates.,LABEL_2,0.9998273849487305
+54,"So, if—so many, many people benefit from low interest rates.",LABEL_1,0.9991938471794128

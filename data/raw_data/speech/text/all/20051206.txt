@@ -1,0 +1,154 @@
+I believe that conferences such as this provide an excellent forum for regulators, bankers, academics, and other practitioners to share ideas, discuss outstanding issues, and learn from one another.
+I particularly appreciate the opportunity to talk with those of you in the industry, listen to your views, and hear about your experiences.
+Today I would like to discuss the linkage between internal capital measures and regulatory capital requirements and give you some insights into the lessons learned in the United States from the fourth Quantitative Impact Study--known as QIS4.
+Importance of Capital in the Banking Business I would like to begin by offering some general thoughts about the importance of capital and its linkage to risks.
+From a regulatory perspective, capital is obviously an invaluable support for the safety and soundness of our banking system.
+One can point to many historical examples in which countries’ banking and financial systems suffered due to inadequate capital during times of stress.
+But I think you would all agree that not just the regulators see the importance of capital.
+Most bank customers, investors, counterparties and rating agencies would agree that capital provides an important backstop against risk-taking.
+Generally, economic models of capital are tied to unexpected losses.
+The assumption is that expected losses in the ordinary course of business should be covered by normal operating earnings.
+For losses beyond the normal range of expectations, sufficient capital should be in place to absorb the loss and leave the financial institution stable and able to continue operating effectively.
+Thus, financial institutions and lines of business with weaker profit margins or greater range of loss possibilities should have more capital.
+It is important here to distinguish between higher expected losses, for which bankers raise prices to cover risks, and higher unexpected losses, which require additional capital.
+Indeed, bankers continue to improve the risk-management and -measurement processes at their institutions, and regulators have been supportive of these efforts.
+Management--by more clearly defining risk exposures, drivers of losses, and mitigants of loss--can more effectively integrate decisions about risk-taking into their strategic and tactical decisionmaking.
+Banks that integrate risk measurement into business-line goals believe that it has improved the effective implementation of strategic plans.
+Managers “compete” for capital by demonstrating that the risk-adjusted returns in their line of business are more attractive than other alternatives.
+Tying Capital to Risks One of the questions regulators have been asked as we work toward implementing Basel II is whether we can just continue to encourage the improvement in risk modeling at banks and stop there, i.e., not tie risk models to capital.
+While improvements in the methodology of risk models and the transparency of better risk modeling in business decisionmaking are very useful, I believe we cannot stop there.
+Banks that have similar models of risk can have very different inherent levels of risk.
+That is, each institution has to decide what level of risk it is willing to accept to run its business.
+Some organizations are willing to take on much greater levels of risk than others.
+Some lines of business and some products are inherently riskier than others, while some organizations may be more adverse to accept risk than others.
+For safety and soundness reasons, bank supervisors must be sure that a bank with greater exposure to riskier lines of business, products, and customers holds more capital than a bank that is more risk adverse and designs its business plan to minimize risk taking.
+That is, just looking at risk models and not tying capital to the measured risk exposures does not provide the backstop that supervisors need to ensure that each institution has the appropriate capital in place before the unexpected loss occurs.
+Capital should be based on risk exposures, and the evolving risk modeling methodologies provide improved tools to better determine the appropriate level of capital.
+Let me add a point about the differences between minimum regulatory capital, as set out in Basel I, Basel II, or any supervisory model, and the level of capital that banks may choose to hold for business reasons.
+In almost all cases, banks hold capital above the regulatory minimum.
+Sometimes markets and customers demand a stronger credit rating at the bank than that implied by a minimum capital framework.
+Many banks also want to remain prepared to promptly pursue mergers and new business expansion opportunities as they arise, which requires capital above the regulatory minimum.
+They might also wish to hold additional capital if there are concerns about their ability to raise it in future periods.
+Such justifications for holding capital above regulatory minimums are entirely appropriate, indeed necessary, for determining the appropriate level of capital for an individual institution.
+Ideally, an institution should use a systematic process to assess its internal capital needs, one that takes a holistic approach to the firm’s risks and complements its regulatory capital measures.
+As many of you know, the Federal Reserve has had, for more than five years, a program to foster our largest, most complex banks’ ability to assess internal capital needs.
+We believe that our discussions with bankers over the past few years have improved the manner in which institutions determine the amount of capital they should hold, as well as helped improve their risk-measurement and risk-management practices.
+Identifying and Measuring Relevant Risks In discussions with institutions, we see that successful internal capital processes emphasize the need to identify and measure all relevant risks.
+Obviously, these include credit, market, and operational risk, but also encompass certain other risk types--such as liquidity, interest rate, strategic, and legal risks.
+These “other” risks might indeed be the most relevant ones for certain institutions.
+In addition, institutions should be mindful of the difficulty in evaluating risks embedded in new products, instruments, and services; I would point to the potential risks associated with new mortgage products as one example.
+In conducting a credible internal analysis of relevant risks, institutions should identify those that are generally able to be quantified, and that are those not.
+Even the best processes for evaluating and measuring risk suffer if the data used are flawed.
+For those cases in which measurements of risk are based on scarce or incomplete data, or unproven quantitative tools, institutions might arrive at their measure of risk through a greater use of sensitivity analysis, stress tests, or scenario analysis.
+Determining Appropriate Capital Levels Obviously, one should not simply stop at risk identification: Risk exposures should be tied to capital.
+The manner in which this is done should be well documented and updated regularly for appropriateness and relevance.
+Successful institutions pay particular attention to the need to maintain additional capital beyond what is suggested by quantitative or other measures--both for individual activities as well as in the aggregate.
+Most institutions maintain a “cushion” above internally generated capital measures to account for the vicissitudes of real life not necessarily captured in models.
+Additionally, management should remember that assumptions may become dated, leading to mismeasurement or misunderstanding of risks and the capital needed to support them.
+Institutions should also evaluate whether their long-run capital targets might differ from short-run goals, based on current and planned changes in risk profiles and the recognition that accommodating new capital needs can require significant lead time.
+Successful institutions have contingency plans, based on stress-test outcomes, to address potential capital shortfalls or liquidity and funding issues.
+Controls and Oversight As this audience knows well, good risk management is more than just having high-quality data and sophisticated quantitative tools.
+Control and oversight mechanisms are vital elements of assessing internal capital needs.
+As prudent supervisors, we require any organization with complex risk profiles, for example those employing sophisticated financial practices or using complex financial instruments, to have a governance and control structure commensurate with those activities.
+That is, senior management of the bank should set appropriate limits in line with the risk appetite set by the board of directors, and communicate them to line staff.
+Management should also design and implement effective internal controls and have a robust process for monitoring exposures.
+Standards should be just as high in this area as they are for risk measurement and data maintenance.
+For if banks do not create an appropriate environment in which their quantitative risk measures and associated models are used--in other words, if an institution considers internal controls to be just a checklist--risk measures will not provide the performance the bank hopes to achieve.
+Indeed, in my work as a banker, I realized that effective measurement and management of risks usually can only be achieved within a management culture that sees risk management as the responsibility of line management across the institution and encourages more than just capital calculations.
+Keeping Pace with Developments in Risk Management The rapid developments in finance, technology, and information systems have provided tremendous benefits to customers and raised the productivity of banking institutions.
+These innovations also contribute to financial stability more broadly.
+Keeping up with the latest developments in risk measurement and risk management is a considerable challenge--indeed a necessity--for institutions wishing to remain in business.
+Bankers must ensure that the models keep up with current practice and continue to capture risks accurately, especially as new activities and new products are introduced.
+Sometimes a change in a product or activity may expose an institution to new or different risks--the exotic new residential mortgages products in the United States are a good example.
+The supervisory community also needs to keep up with developments in banking and finance.
+We consider this vitally important because banking will remain a highly dynamic industry.
+Supervisors will have to be attentive to changing sound practices and ensure that new regulations do not unduly inhibit adoption of new banking practices and financial instruments.
+Our focus in this area is even more important as banking becomes increasingly complex and sophisticated and as banking systems become more concentrated.
+And with the advent of Basel II, supervisors are becoming even more involved in understanding the emerging best practices in risk measurement and management.
+Bridging the Gap between Internal Capital Measures and Regulatory Capital As I alluded, supervisors are focused on setting minimum levels of regulatory capital at individual banks that is sufficient for safety and soundness in the institution and the banking system more broadly.
+Successful individual financial institutions, on the other hand, generally strive for a higher level of capital that is tied to their individual circumstances and allows them to effectively implement their business strategies.
+As a result, the capital goals of supervisors and institutions are not necessarily identical (nor should they be)--but they are complementary.
+Even though the capital goals of regulators and bankers may differ, supervisors can still use the internal information produced by large, complex institutions to augment the risk-sensitivity and overall meaningfulness of regulatory capital measures.
+Basel II--particularly the advanced approaches--is an attempt to do just that.
+Increasingly, the measures produced by Basel I are no longer accurate representations of the risks to which large, complex institutions are exposed.
+These institutions have moved away from the traditional banking strategy of holding assets on the balance sheet to strategies that emphasize redistribution of assets and active management of risks.
+They have significant, complicated exposures off the books that need to be considered more explicitly in determining minimum regulatory capital.
+Among these are operational risks, which in some recent instances have been the source of substantial losses far exceeding credit- or market-related losses.
+Basel II, by tying regulatory capital to bank inputs, offers greater transparency about what stands behind the inputs provided by banks and exactly how they are calculated.
+As I noted earlier, successful institutions understand that calculating internal capital measures is a serious and challenging undertaking, with many moving parts.
+Supervisors, through their analysis of bank inputs to Basel II, will develop an even better assessment of institutions’ risk-measurement and risk-management practices.
+Furthermore, the added transparency in Pillar 3 disclosures is expected to provide market participants with a better understanding of an institution’s risks and its ability to manage them.
+Perhaps most importantly, Basel II’s advanced approaches create a link between regulatory capital and risk management.
+Under these approaches, banks will be required to adopt more formal, quantitative risk-measurement and risk-management procedures and processes.
+The new Accord’s emphasis on improved risk management should not be interpreted solely as a requirement to determine regulatory capital standards, but rather as a foundation for risk-management practices to benefit the institution more broadly.
+While the new framework would, in our view, provide useful incentives for institutions to accelerate the improvement of risk management, we believe that in most areas of risk management institutions would retain their ability to choose among which specific methods they employ.
+In other words, we expect the standards in Basel II to be met in a number of ways, not just one.
+Supervisors will work to define an acceptable range of practice within which several types of bank approaches and methodologies could be used.
+Importantly, as risk-management practices improve over time, supervisors can assess each new innovation to see whether it indeed fits within the range of acceptable practice.
+And those innovations should, in turn, improve regulatory capital measures even further.
+So by design, the Basel II framework allows for flexibility and leaves open the possibility to include risk-management improvements not yet discovered.
+Analysis of Recent Basel II Data You are most likely aware that earlier this year the U.S. banking agencies conducted additional analysis of the initial results from QIS4.
+The agencies were concerned that the results from QIS4, conducted last year, showed a wider dispersion and a larger overall drop in regulatory capital requirements for the QIS4 population of banks than the agencies had initially expected.
+The interagency analysis relating to QIS4 is essentially complete.
+From it we learned that the drop in QIS4 required minimum risk-based capital was largely due to the favorable point in the business cycle when the data were collected; while the previous QIS3 exercise was conducted with data from 2002, a higher credit loss year, QIS4 reflected the more benign credit conditions present in 2004.
+We learned that the dispersion among institutions was largely due to the varying risk parameters and methodologies they used, permissible in the QIS4 exercise, and also due to portfolio differences.
+That is, banks have different approaches to risk-management processes, and their models and databases reflect those differences--a point I will return to in just a moment.
+Importantly, we also learned that some of the data submitted by individual institutions was not complete; in some cases banks did not have estimates of loss in stress periods or used ad hoc estimates, which might have caused minimum regulatory capital to be underestimated.
+Generally, we realized that all institutions have additional work to do, but the findings did not point to insurmountable problems.
+Rather, they pointed to areas for future supervisory focus.
+In that way, the QIS4 analysis was critical in enabling us to move forward.
+In general, we were pleased to see that QIS4 showed that progress is being made toward developing more risk-sensitive capital measures.
+In fact, it was quite interesting to see the range of practice employed by institutions in developing their QIS4 estimates.
+As noted, a fair portion of the dispersion among institutions stemmed from their assignment of risk parameters, with differences in portfolio composition playing some role.
+The institutions participating in QIS4 use a variety of credit-rating systems.
+Rating philosophy is an area in which rating systems can differ, with some focused more on “through the cycle” ratings, and others on “point in time” ratings.
+Choices made in rating philosophy can have an impact on how assessments of risk translate into required capital.
+Additionally, it is quite interesting to see institutions continually working to upgrade their rating systems and incorporate innovations where possible; for example, many systems have recently been enhanced for greater granularity.
+So although work remains, we believe real strides are being made.
+In analyzing institutions’ estimates of default probabilities, we saw that some firms used internal data, others external data, and some a combination of data sources.
+We also saw that differences in the use of reference data could affect capital outcomes.
+Similar results were seen with estimates of loss given default, as firms again used both internal and external data.
+Furthermore, we saw significant differences across banks in the discounting of recoveries, assumptions for workout costs, methods for incorporating downturn conditions (or lack thereof), and the treatment of collateral.
+These differences appear to have had significant effects on banks’ loss given default estimates and to have contributed to the dispersion in required capital levels across firms.
+So what does it mean that institutions estimated different parameters for similar exposures?
+It could mean that not all practices are entirely robust or producing accurate results--understandable given that QIS4 was a done on a “best efforts” basis without close supervisory oversight, that the U.S. agencies need to issue their proposals, and that banks are still in the process of implementation.
+Differences in parameter estimates could also mean that institutions have varying interpretations of risks or methods to estimate those risks--all of which could be perfectly acceptable.
+In fact, today we see different interpretations and assessment of risks in financial markets as counterparties assume different probabilities of default, estimates of loss, or forecasts of prices.
+As you know, U.S. supervisors are still developing their Basel II proposals and associated supervisory guidance, so there are not yet any established standards for Basel II.
+In some cases, we were able to identify practices used for QIS4 that appeared to be clearly inconsistent with what is envisioned in the framework.
+In other cases, it was not easy to determine whether the practices used in QIS4 would be within the expected range of acceptable practice for U.S. Basel II standards.
+Clearly, one of the real challenges we will face as supervisors is to how to define the range of expected practice for Basel II standards, how to communicate that range to institutions, and how to deal with practices that are on the margin.
+Uncertainty about the expectations placed on institutions does not benefit supervisors or bankers.
+One of the key ways to reduce that uncertainty would be to continue our communication with the industry broadly, and with institutions individually, during the entire implementation process.
+Certainly, as we move closer to implementation, supervisory oversight of the Basel II implementation methodologies by our examination teams will increase.
+Indeed, during the qualification process, we expect to have several additional opportunities to evaluate institutions’ risk-management processes, models, and estimates--and provide feedback to the institutions on their progress.
+So QIS4, an assessment conducted at one point in time, should not be considered a complete forecast of institutions’ future Basel II capabilities or the framework’s ultimate effects.
+But QIS4 did give a very useful insight into the linkage between capital and risks, and how institutions are attempting to quantify that linkage.
+Indeed, it was one of the best glimpses we had to date.
+As we move forward with Basel II implementation, we expect to gather even more useful supervisory information about banks’ progress in meeting Basel II standards, the potential impact of the framework, and, perhaps most importantly, banks’ ability to measure and manage the risks to which they are exposed.
+As supervisors, we will highly value this opportunity to enhance our understanding of banking organizations, which we believe will promote safety and soundness in the banking system.
+Identifying and Addressing Home-Host Issues Given this extensive international audience, it might be helpful for me to offer the Federal Reserve’s perspective of the so-called “home-host” aspects of Basel II implementation--a perspective that I believe is shared by my U.S. supervisory colleagues.
+First, we recognize that some may have concerns about the recent announcement by the U.S. agencies to implement Basel II with a one-year delay and with an extra year of transitional floors.
+Understandably, internationally active organizations may worry that cross-border implementation will be complicated by the timing differences between the United States and other Basel member countries.
+While not downplaying potential challenges, the U.S. agencies, in deciding to adjust implementation plans, thought it was important to ensure that implementation in the United States be conducted in a prudential manner and without generating competitive inequalities in our banking markets.
+As we did before our September 30 announcement of altered U.S. implementation plans, the U.S. banking agencies continue to work with institutions and foreign supervisors to minimize the difficulties in cross-border implementation.
+Our support includes extensive discussion with other countries in the Basel Accord Implementation Group, specifically formed to help address home-host implementation issues.
+We also have held numerous informal, bilateral discussions with institutions and foreign supervisors, and those will of course continue as implementation moves ahead.
+One should also remember all Basel-member countries have their own rollout timelines and national discretion issues, not just the United States--which is entirely appropriate.
+To assist institutions in resolving their cross-border challenges, we are eager to hear specifics from institutions so that we can develop targeted solutions.
+In addition, Basel-member countries continue to work on guidelines for institutions and supervisors, such as the recently issued consultative paper on home-host information sharing for Basel II.
+The paper is an attempt to set forth a practical way for home and host supervisors to ensure that they have sufficient information to assess Basel II compliance without being overly burdensome.
+It contains principles and guidelines, not prescriptive rules, because we do not see a “one-size-fits-all” approach to information sharing.
+Instead, arrangements should be tailored to the unique circumstances of both the bank and the supervisors involved, and should be worked out by the supervisors involved on a case-by-case basis in a pragmatic manner.
+Additionally, the home-host paper emphasizes that information sharing within the bank itself is equally important.
+Local management of a banking subsidiary should understand and manage its risk profile, and should have access to information about Basel II implementation in its jurisdiction.
+Taking a step back, I think it is also helpful to remember that a number of the home-host issues pertaining to Basel II are actually variations of long-standing challenges faced by bankers and supervisors in the context of cross-border banking.
+That is, many of the issues under discussion are not necessarily new, but just made more complicated by the framework.
+The good news is that supervisors are already building upon their existing relationships to accommodate differences in national jurisdictions and minimize the burdens placed on banks.
+We believe the Federal Reserve has a long history of working constructively with other national supervisors in this manner.
+While such cooperation and information sharing can go a long way toward reducing the burden placed on bankers, at the end of the day we must realize that national jurisdictions still matter.
+We can work to harmonize differences, but it is probably not practical to try to eliminate them entirely.
+Conclusion Basel II provides a means for regulators to rely more on banks' internal estimates of risks--but only if those estimates meet certain supervisory standards.
+Our expectation is that Basel II will also promote further enhancements to risk management.
+Accordingly, the Federal Reserve considers Basel II to be a worthwhile undertaking and we look forward to its implementation.
+The recent QIS4 exercise in the United States provided valuable information about the Basel II framework and banks’ progress in estimating more risk-sensitive regulatory capital measures.

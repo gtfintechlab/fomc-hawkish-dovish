@@ -1,0 +1,116 @@
+These two topics have attracted wide attention among the public, market participants, and government over the past several years, and will probably continue to do so for many years.
+Clearly, financial engineering and improvements in risk management have helped the financial industry offer products to their clients to better control various business risks.
+At the same time, financial institutions also benefit from these innovations in that they can better manage the risks associated with increasingly complex financial instruments and the growing volume of financial transactions.
+As you know, risk management is a process for identifying, measuring, reporting, and controlling risks.
+While the term has been recently popularized in the financial press, the root concepts of risk management are not new to the financial industry.
+Indeed, by taking risk, or acting as an intermediary in transferring risk, the financial industry fulfills a role that has been and continues to be vital for economic growth.
+It is fair to say, however, that the process of risk management is becoming increasingly quantitative.
+Turning to derivatives, this is also not a recent innovation.
+Derivative markets, such as those for futures contracts, have existed for decades, indeed even centuries for some kinds of price risks.
+The trends in financial engineering that we have been seeing in recent years are really the fruits of technological progress: Reduced costs of product innovation and increased feasibility of applying financial theories that require intensive computational power.
+Along with the technological progress that has made it possible, financial engineering has profoundly changed the structure of many leading banks.
+These processes continue to reverberate throughout the industry.
+Banks engineer new products to shift business risks to others that had been borne routinely in the past.
+The reverse side of the coin is that market participants can assume risks through alternatives to the traditional lending and investing avenues.
+For example, credit derivatives, which are in a nascent stage of development, may someday lead to banks being able to trade credit risk associated with commercial bank loans as easily as they can alter the risk profile of their bond portfolios.
+Prior to these innovations, institutions could be generally compartmentalized into market segments that did not directly compete with one another.
+Government regulation mirrored and reinforced this segmentation.
+With financial innovation came new levels of competition, which then caused pressure for government to change the rules of play.
+As a result, the legal strictures preventing banks from engaging in certain businesses are being loosened.
+Banks are increasingly in direct competition with securities firms and insurance companies.
+New technology and financial innovation have clearly affected the way in which many firms manage their business.
+They have also put stress on many aspects of traditional legal, regulatory, and accounting frameworks.
+Over the past decade bank supervisors have learned some important lessons in this regard.
+These lessons propel our efforts to adapt supervisory and regulatory regimes to better accommodate the changes under way in the financial services sector -- to move to a new supervisory paradigm.
+Today, I would like to briefly summarize some of these lessons, illustrate how they are shaping the evolution of bank supervision, and some thoughts of how they may affect international supervision, as well.
+Lessons Learned by Bank Supervisors Perhaps the most basic lesson we have learned from our experience in supervising trading and derivatives activities is that the underlying risk of a financial instrument is more important than what an instrument is called.
+Although two instruments that differ in name only may have entirely different treatment under existing (and outmoded) legal and regulatory frameworks, the market, credit, liquidity, operational, and reputational risks embodied in them can be identical.
+To be sure, financial engineering can create derivative instruments that combine risks in complex ways.
+But, upon analysis, traditional cash instruments that appear simple may have greater risk than the complex instruments that are labeled "derivative."
+Indeed, placing financial instruments in pigeonholes without regard to their true risks and economic functions can create disincentives for prudent risk management -- often with unfortunate results.
+The structured note phenomenon of 1993 and 1994 is an important example.
+Many institutions shunned "derivatives" in favor of these seemingly low-risk securities issued by federal agencies, only to find out later that these instruments had significant price volatility from embedded options.
+The reaction of many was to label structured notes as derivatives as well, rather than understanding that it was the underlying risk characteristics that had been poorly managed.
+In its supervisory role, the Federal Reserve is increasingly emphasizing the need for managing the risks of banking and de-emphasizing a focus on specific instruments.
+For example, in 1993 we issued examiner guidance on trading and dealer activities.
+This guidance covered a large spectrum of financial instruments, including derivatives.
+The risk management principles under examination applied whether or not the institution used derivatives.
+We addressed structured notes in similar fashion in 1995 with guidance on the risk management of bank investment and end-user activities.
+More recently, the Federal Reserve issued examiner guidance on the risks relating to banks' management of secondary credit market activities, including securitization activities, the extension of various types of off-balance-sheet credit enhancements, and the use of credit derivatives.
+The guidance stresses the importance of internal capital allocation schemes and risk management systems that accurately reflect the economic substance of transactions.
+A second lesson that has been reinforced over the past several years is that risk must be measured and managed comprehensively.
+That is, the focus should be on the dynamics of the portfolio rather than on specific instruments, which can ignore the interplay among various instruments.
+Although portfolio theory is widely appreciated by bankers and regulators, putting its principles into practice in banking has not been easy.
+Past banking crises have, in part, reflected a failure by some institutions to recognize and limit concentrations of risk within their portfolios.
+However, technology and financial innovation are enabling banks to put theories and conceptual techniques into practice to manage the market and credit risks involved in trading, investment, and lending activities.
+Most dealer banks now routinely employ value-at-risk (VaR) measures to manage the market risks of their trading portfolios and significant strides are being made in the quantitative measurement and management of credit risk.
+The move to a portfolio-based approach to managing risk has influenced bank supervisory efforts in several other ways.
+All three of the U.S. banking agencies now take a more risk-focused approach to supervision.
+This is simply allocating more supervisory resources to a bank's activities that pose greater risk.
+For example, bank examiners no longer exhaustively review all of a bank's activities.
+Instead, the examination approach is now to identify and review the sources of risk within a bank's various lines of business.
+The need to measure risk on a portfolio basis has also begun to be reflected more explicitly in our capital guidelines and our reporting requirements.
+Beginning next year, internationally active banks meeting certain criteria for risk management will calculate the amount of capital necessary to support the market risk of their trading activities using their own internal VaR measures.
+This approach allows banks to make use of empirical correlations among risk factors when computing the VaR.
+A third lesson that our experience with derivatives and other financial innovations has driven home is the critical importance of firms' internal processes for controlling risk.
+This, of course, is the most obvious lesson from several spectacular losses that the press has put under the rubric of "derivatives debacles."
+Supervisors, both here and abroad, are focusing more on reviewing the adequacy of internal controls and management processes, such as enforced risk limits.
+These are the key to gaining maximum benefit from financial innovation, while at the same time avoiding missteps.
+The final lesson that I will highlight is the need for supervisory and regulatory polices that are more "incentive-compatible" in the sense that they foster sound risk management within the institution rather than narrow adherence to rules and regulations; minimize burden by using internal risk measurement systems; and are reinforced by market forces and the performance incentives of bank owners and managers.
+Too often financial engineering is targeted at regulatory arbitrage -- that is, exploiting loopholes in narrowly focused regulatory policies that are based on old, traditional instruments or business lines.
+Also, potential new products may not be introduced because their regulatory treatment is viewed as too burdensome or uncertain.
+This situation demonstrates all too clearly the differing reaction times of public and private entities.
+Regulatory policies and standards often take a long time to change whereas, in the private sector, market forces can quickly remedy outmoded standards.
+The resulting distortions of resources that arise when supervisory standards are slow to change is an unfortunate, albeit predictable, outcome.
+Policymakers can reduce this potential for distortion by structuring policies to be more "incentive-compatible."
+This involves harnessing market forces and market discipline to achieve supervisory objectives.
+Increasingly, supervisors are trying to avoid locking themselves into formulaic, one-size-fits-all approaches to supervision and regulation.
+The use of internal VaR models for calculating capital charges for trading activities is an important step in this direction.
+Risk-focused supervision emphasizing sound practices and internal controls is another.
+A significant effort that could increase supervisory reliance on market discipline in the future is the Federal Reserve's so-called "pre-commitment" approach to determining capital for market risk.
+It seeks to provide banks with stronger regulatory and market incentives to improve all aspects of market risk management.
+This approach is currently being studied and tested by a group of U.S. banks organized by the New York Clearing House.
+What will be the eventual outcome of incorporating the lessons learned into banking supervision?
+I see two themes in the evolution in the supervision of financial institutions: First is providing strong regulatory incentives for banks to exercise prudence in taking and managing risk, and to develop ever better systems and processes for risk management.
+I believe the best evidence of this thinking is illustrated by the recent moves to align regulatory capital requirements for market risk with individual institutions' systems for allocating economic capital based on their own internal models.
+Supervisory oversight then concentrates on the performance of each institution's risk management process rather than devising regulatory capital schemes that may not fit every institution, and inevitably have loopholes or inconsistencies that can be exploited.
+Second, greater reliance will be placed -- particularly for nonbank business lines -- on the discipline the market can exert on individual participants.
+The latter element to our supervisory approach depends on market participants acting in their own self interest when dealing with counterparties.
+That involves understanding the risks of engaging in business and properly pricing transactions.
+Reliable financial information is an essential ingredient to efficient market discipline.
+Such information would clearly convey the risk profile of the institution it represents.
+In its absence, markets are more susceptible to distortions caused by rumors, misinformation, or failures to disclose.
+Many believe the dearth of information on risk profiles reflects the market's reliance on the federal safety net.
+Such information would be available if participants were not, to a large extent, indemnified from loss.
+It is this desire to see market discipline taking a greater role in regulating the affairs of banking organizations and others that has motivated the Federal Reserve Board to voice its opinions about accounting standards that are being developed by the Financial Accounting Standards Board (FASB).
+As in regulation, an important consideration to setting accounting standards should be the benefits of a particular standard outweighing its cost.
+The Federal Reserve's opinion is that the accounting for derivatives (and other financial instruments for that matter) should be consistent with the approach to risk management the firm takes in its business.
+This consistency can yield cost savings by reducing the need for two sets of books: one for financial reporting and another that supports internal management decisions.
+Moreover, it avoids the possibility of regulatory reports diverging from financial reporting, thereby helping to ensure that supervisory information and capital requirements appropriately reflect the institution's economic risks.
+Globalization of these Lessons and Future Prospects The challenges of supervision in a rapidly changing financial and technological environment are compounded by global integration of the marketplace.
+To the extent that regulation in one country is deemed too restrictive, firms can avoid it by simply booking business in another country.
+The ease with which firms can circumvent national borders and regulatory jurisdictions is a challenge of one dimension.
+If circumvention results in unsafe or unsound banking practices, it is a problem of another dimension.
+The problem may end up back in the United States after all.
+It is for these reasons that the Federal Reserve and the other U.S. banking agencies have been advocating that international agreements on banking supervision have a risk focus.
+For example, the Basle Committee on Supervision (under the Bank for International Settlements) recently agreed to embrace a portfolio-based, risk-sensitive approach to setting capital requirements for market risk.
+Instead, supervisors will be building upon the processes banks use to measure trading risks.
+This should substantially reduce regulatory burden and make standards more compatible with industry practice.
+In addition, the Basle Committee has agreed to common frameworks for gaining information on the derivatives activities of supervised institutions.
+A major task before us is to work with emerging-market countries to strengthen and unify banking supervision.
+Greater consistency should reduce the risk of systemic problems arising from a financial disruption in any particular market.
+While most of these efforts have focused on market risk, I think it is fair to point out that the major exposure for most banks is credit risk.
+Looking to the future, will the risk-based capital approach for credit risk ever evolve into an internal models approach?
+The answer is probably yes; however, with credit-risk modeling in such an early stage of development, it is premature to predict just when credit modeling and the supporting data will develop to the point that they can be relied upon as effective management tools.
+I am, however, encouraged by progress in modeling credit risk.
+The risk-based capital accord has worked well in the past and remains useful today.
+It was an excellent vehicle for bringing about a convergence in bank capital standards worldwide.
+But it does illustrate the problems of a standardized scheme.
+For example, banks have an incentive to securitize low-risk assets to avoid regulatory capital charges that unregulated competitors need not meet.
+Alternatively, market participants can get a false sense of security about a bank's condition if the risk-based capital ratios understate the true risks of the bank's portfolios.
+Recognizing these shortcomings, we regulators need to continually review and revise our standards, as we have proposed in connection with certain securitizations of assets.
+Conclusion Some of you in the audience may be surprised that my remarks on derivatives end with a discussion of risk-based capital.
+This, to me, illustrates the unexpected effects of financial innovation.
+A decade ago, few would have predicted that techniques for controlling trading risks might point the way for measuring risks in lending and allocating capital -- but that's the very nature of innovation.
+Those who identify new ways to apply lessons learned in one area to other activities are the ones most likely to succeed.
+Taking risk is unavoidable in banking, indeed bankers must do so to survive.

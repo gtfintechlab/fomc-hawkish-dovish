@@ -1,0 +1,134 @@
+As you know, these lectures are designed to commemorate the high ideals highlighted in the charter that established the University of Georgia in 1785.
+In broad terms, the charter defines some of the fundamental objectives for this university, including working to foster an informed public and thereby promoting an effectively functioning democracy.
+In addition, the charter describes the key instrument by which the university is to pursue these objectives--namely providing higher education to the public.
+The charter is also notable for what it does not describe.
+It does not, for example, lay out a rigid curriculum that all students must complete.
+The founders no doubt recognized that the university would need a degree of flexibility in designing its programs to suit the needs of a changing student body and changing times.
+As it happens, academics as well as practicing central bankers around the world have devoted a great deal of thought over the past ten to twenty years to defining the goals and objectives that should be included in central bank charters and also to describing how central banks should go about achieving these goals.
+In many ways, this discussion has led to a fair degree of consensus around a model similar to that embodied in the University of Georgia charter; that is, central bank charters should clearly state key objectives and describe in general terms the tools that central banks can use to pursue those objectives.
+However, central bankers, like educators, require some flexibility in applying their tools in order to respond appropriately to changing circumstances over time.
+The emergence of sustained inflationary pressures in the 1960s and 1970s and central banks' long and difficult struggle to combat these pressures helped forge this consensus.
+Inflation began to drift higher during the Vietnam War and flared into double digits following the sharp increases in oil prices in the middle and late 1970s.
+Although snapping the inflationary spiral was painful for our nation--the recession of the early 1980s was the deepest since the Great Depression--the subsequent prosperity in terms of income growth and economic stability has been unprecedented.
+The experience deepened the conviction of many economists and central bankers that economic policies that push an economy to operate beyond its long-run potential to produce inevitably lead to rising rates of inflation.
+Moreover, the strong economic performance of the U.S. economy following the taming of inflation has supported the view that price stability fosters economic efficiency and higher productivity.
+Indeed, price stability is now a formal objective included in the charters of nearly all central banks.
+A firm long-run focus on price stability does not mean that the central bank cannot have other economic goals, although central bankers disagree on this somewhat, at least in emphasis and priority.
+Many nations or economic regions, including the United Kingdom and the euro area, have adopted price stability as their primary objective.
+But in our case, we often summarize the multiple statutory goals of the Federal Reserve in terms of the "dual objectives" of price stability and sustainable economic growth.
+We see these twin objectives as fully compatible in the long run.
+Our experience in the United States has been that multiple objectives for policy do not undermine policy performance when the public is convinced that the central bank is committed to price stability over the long run.
+Indeed, the commitment to long-run price stability can afford the central bank some flexibility in employing its tools to address shorter-run economic issues.
+Certainly such has been the case for the United States in recent years.
+Since I joined the Federal Reserve in 1997, the U.S. economy has weathered a remarkable series of economic shocks--both positive and negative--and the Federal Open Market Committee (FOMC) has adjusted the stance of monetary policy over a wide range in response to those shocks.
+And yet, through it all, long-term inflation expectations have remained very stable and at very low levels.
+Partly as a result, long-term nominal interest rates, which contain a premium reflecting long-term inflation expectations, are as low as they have been in fifty years.
+Although central bankers have focused much of their attention on combating and containing inflation pressures over recent decades, the very low levels of inflation and recent sluggish economic growth in the United States have prompted worries in some quarters about the potential for deflation in this country.
+The case of Japan in recent years serves as a cautionary tale about the dangers of deflation, especially when a central bank has pushed its traditional policy tool--the short-term interest rate--to zero.
+However, I believe that the risks of a general deflation in the United States are minimal.
+First, further aggressive monetary and, in all probability, fiscal stimulus would be brought to bear in the unlikely event that deflation were to become a threat.
+Furthermore, unlike the situation in Japan, the balance sheets of financial firms in this country are fundamentally sound, and so the U.S. financial system seems less prone to debt-deflation dynamics.
+And perhaps even more important, the U.S. economy has proven enormously resilient and productive in recent years, and the gains in productivity have continued even as the economy has experienced subpar growth.
+Finally, current rates of inflation depend to a large extent on the inflation rates that people expect in the future, so the stability of inflation expectations over recent years should be a factor working against any buildup of deflationary pressures.
+Inflation expectations are so stable in part because central bankers have been increasingly clear about both their long-run inflation objectives and their shorter-run tactics in pursuing those objectives.
+As a case in point, the increase in the transparency of U.S. monetary policy over the past two decades has been quite significant.
+Twenty years ago the monetary policy decisions of the FOMC were inferred by legions of Fed-watchers who gleaned information from slight variations in how we conducted our open market operations.
+In the mid-1990s, we began to announce our policy in general terms after each meeting.
+Now not only do we announce our short-term operating target for the federal funds rate, but we also explain the rationale for our actions, immediately identify the members of the FOMC favoring and dissenting from a policy decision, and announce how we view the risks facing the economy.
+I am pleased to have been associated with some of the Federal Reserve's more recent initiatives to foster greater transparency and believe that the FOMC should be, and is, willing to consider ideas for greater transparency as they arise.
+Even with that intent, there are practical limits on how transparent any central bank, including the Federal Reserve, can be.
+The FOMC is, after all, a committee of individuals with regularly changing membership.
+As any of you who has ever served on a committee knows, reaching a consensus can be difficult, and explaining a group decision that has resulted from the interplay and balancing of individual views can be challenging to say the least.
+And the economy is complex, changing, and at best imperfectly understood.
+As a result, explaining the current economic situation and the way the economy will be affected by our policy actions is not a straightforward task.
+Still, within those limits we seek to be as clear as possible in our intentions and reasons for our actions.
+This striving for transparency is a common principle that most central banks have adopted.
+Reinforcing the trend to transparency, central banks have arguably become more systematic in their responses to the economy over the past several decades.
+Systematic policy setting is easier to explain and anticipate and, as a consequence, helps to limit economic uncertainty associated with the conduct of monetary policy.
+A resurgence in interest and research about systematic approaches to monetary policy was sparked by the observation of John Taylor, currently Undersecretary of the Department of the Treasury, that the FOMC's conduct of monetary policy since the late 1980s has been well explained by a simple formula, often called the Taylor rule, that relates the level of the federal funds rate to the observed levels of the inflation and the unemployment rates.
+John Taylor's keen insight was offered originally as a rough benchmark for policy and not as a binding, prescriptive "rule."
+And, in fact, the difference between the actual setting of the federal funds rate and the Taylor rule can be large at times, particularly at critical points when the economic outlook has changed suddenly.
+The part of policy not explained by the rule then reflects the large volume of information about the economy and its prospects that is not captured by current inflation and unemployment rates but that the FOMC does take into account.
+The FOMC uses all this information in an attempt to anticipate developments; the Taylor rule is backward looking.
+These differences between actual policy and policies predicted by a backward-looking rule also reflect our imperfect and constantly evolving understanding of the structure of the economy.
+The success of the Taylor rule in capturing the broad contour of policy actions in recent years has prompted an enormous amount of economic research in search of refinements to or extensions of the original Taylor rule that could provide an even more precise guide for central bankers--in effect, a rule that could serve as an "automatic pilot" for monetary policy.
+In my view, rules, including the Taylor rule and its many variations, are useful benchmarks, but following an automatic policy prescribed by any pre-established rule would unnecessarily and undesirably limit the flexibility and judgment necessary in setting monetary policy.
+I have similar misgivings about other formulaic monetary policy proposals--sometimes referred to as strict inflation targeting--that would require the Federal Reserve to announce a numerical inflation target or range and conduct monetary policy at all times so as to keep actual inflation close to that objective.
+In effect, advocates of strict inflation targeting would have the central bank follow an amended Taylor-type rule in which the setting of interest rates is determined solely by the deviation of actual or projected inflation from a target.
+I would argue that the conduct of monetary policy and the associated economic performance in the United States in recent years clearly demonstrate that a central bank can and, if directed by the elected officials who create the central bank, should do more than this.
+As I've noted, the Federal Reserve has successfully established a credible commitment to long-term price stability while operating within a framework that allows flexibility in adjusting the stance of policy in the near-term in response to fluctuations in both economic activity and inflation.
+Although our understanding of the economy and monetary policy has improved considerably over the past several decades, it is not nearly advanced enough to allow us to pre-specify an optimal policy rule or to adopt a rigid targeting framework that will serve well in all circumstances.
+And an important part of our understanding of the economy is the lesson that people's behavior may change over time.
+Furthermore, while requiring the Federal Reserve to target an inflation rate might seem to make our intentions more transparent and credible, the existing twin goals of stable prices and maximum sustainable growth, as I noted, are mutually compatible.
+Given that inflation is low and stable and that the Federal Reserve has achieved credibility in its commitment to maintain price stability while still acting to buffer employment and output from excessive variability, I see no advantage to taking away our mandate to be concerned about developments other than inflation rates or inflation prospects.
+What I have just outlined, and rejected, are the strictest forms of rule-based guidance for the Federal Reserve.
+Strict inflation targeting and other rule-based approaches are ideas put forward by some central bank observers.
+However, a more nuanced proposal has emerged more recently, known as flexible inflation targeting.
+Under this regime, a central bank, in this case the Federal Reserve, announces an inflation target and commits to keeping inflation near the target at some horizon while recognizing that inflation may deviate from the target on occasion as other important objectives take on temporary urgency.
+This approach is in interesting middle ground, but I think advocates of it must recognize some concerns.
+In particular, I wonder if a central bank announcing the flexible pursuit of a specific numerical target could suffer some loss of credibility.
+Such an approach might leave the central bank open to the criticism that it has adopted only the language of a more formal inflation target without any of the constraints that normally go with such a regime and, in doing so, is being less transparent, not more.
+Having an announced inflation target that is pursued flexibly might also lead to greater uncertainty about policy.
+Deviations of inflation from the target would be highly visible, and the public might not know whether the central bank would choose to return inflation immediately to the target or allow the deviation from target to persist for some time.
+Allowing inflation to persist by exercising the various escape clauses embedded in many flexible inflation-targeting regimes might also erode central bank credibility.
+Most important, I believe that the quantified inflation target would come to take greater prominence over other important and consistent objectives implied by the flexible approach, with an inevitable reduction in flexibility and a downplaying of those other objectives.
+Finally, I believe that proponents of these various rule-based and formulaic approaches put too little weight on the institutional strength of the FOMC.
+The committee's members, being well-versed in the monetary history of the 1970s and 1980s, recognize the great effort that previous incarnations of the FOMC expended to gain credibility as a central bank committed to price stability, and I expect that future generations of the committee will share that understanding.
+I do not believe that the current members of the committee will let that position of public trust slip away through inattention, and future members, if they are well selected, should do likewise.
+To this point, I've noted my concerns about strict rule-based or other formulaic approaches to monetary policy for the United States mostly at an abstract level.
+But my views have been shaped importantly by the many practical challenges we've faced just in the time that I've been a member of the Board and the FOMC.
+One of the most notable economic developments in recent years has been the evident step-up in the rate of productivity growth.
+That development resulted in a considerable divergence of the actual level of inflation from the levels that would have been anticipated based on historical relationships.
+An automatic, rule-based approach to policy almost surely would have led us in the late 1990s to tighten policy much too aggressively.
+Instead, the Federal Reserve recognized the changes under way and took account of the step-up in productivity growth in reaching a judgment about the rate of "sustainable economic growth."
+This judgment permitted more-rapid income growth and considerable progress in reducing unemployment while containing the risk of inflation.
+Episodes of financial turmoil in recent years have also provided examples of the need for flexibility and discretion in the conduct of monetary policy--and the potential pitfalls of rigid rule-based policy.
+In the fall of 1998, for example, in the wake of the default by Russia and with financial markets still rattled by the Asian crisis a year earlier, a large hedge fund nearly failed, and several other financial institutions took large losses.
+Many investors appeared to revise upward their assessments of the riskiness of various counterparties and investments and to become less willing to bear risk.
+The resulting loss of confidence was described by the Secretary of the Treasury as the worst financial crisis since the Great Depression.
+Even though the unemployment rate was reaching new lows--which according to standard relationships would lead to higher inflation and which standard monetary policy rules would recommend addressing by tightening policy--the FOMC judged that the severity of the financial crises was likely to imperil future growth and lowered interest rates substantially.
+By early 1999, financial markets had improved, and the FOMC began to raise rates in view of strong growth in aggregate demand and resulting pressures on our nation's labor and capital resources, which, if left unchecked, could have resulted in greater inflation.
+As you may remember, concerns were widespread during 1999 that computer systems controlling everything from cash registers to power grids could fail because of Y2K bugs in computer code.
+Given the pervasiveness of automated systems in the financial sector, concerns about fixing the Y2K bug in that sector were particularly severe.
+Despite intensive and careful preparations, market participants and others remained concerned that computer failures could result in problems for individual firms and, conceivably, even for the economy.
+Firms, for example, were extremely reluctant to be exposed to the risk that on January 1, 2000, they would be unable to roll over their debt, and banks similarly were concerned about their own access to funding.
+In view of these concerns, the Federal Reserve put in place a number of contingency measures to ensure the availability of adequate liquidity to the economy.
+Moreover, to minimize the risk that monetary policy would inadvertently trigger problems, the monetary tightening process was put on hold at the December 21, 1999, meeting to minimize the uncertainty when everyone was concerned about the century date change.
+As it turned out, the careful planning and massive investment in updated and more-robust information technology paid off--computers functioned smoothly.
+Again, our approach to monetary policy in the run-up to Y2K would have been very difficult to capture in a simple rule, or in a complicated one for that matter.
+A few months following Y2K, the stock markets began the steep decline that has reversed much of the remarkable rise witnessed over the latter half of the 1990s.
+That decline has been one source of the weakness that has undermined the expansion of the economy over the past two years.
+In recognition of that experience, many have characterized the extraordinary rise in stock prices in the late 1990s as a bubble--a significant and protracted departure in asset prices from fundamentals--and the subsequent decline as a popping of that bubble.
+Our recent experience has given renewed spark to a vigorous debate about the appropriate response of monetary policy to financial bubbles, with some economists criticizing the Federal Reserve for not having done more to stem the expansion of the bubble.
+Economists agree that bubbles can impair the functioning of the economy by promoting a misallocation of resources when they are inflating and by provoking severe dislocations when they pop.
+But because we are talking about economists, you can be sure their opinions differ substantially after that.
+One branch of economists holds the view that monetary policy should not be influenced by any perceived financial market bubbles.
+An extreme version of this view is that bubbles probably do not exist--that rational market processes always price assets at their fundamental value.
+A more moderate version is that even if bubbles do exist, they cannot reliably be identified, and even if bubbles can be identified, we do not know how they respond to monetary policy.
+The extreme view at the other end of the spectrum holds that central banks should pop bubbles as soon as they can.
+According to this view, by raising interest rates when a bubble begins, the central bank can avoid the volatility that occurs when a bubble fully inflates and then pops.
+Central bankers need to be practical, not extreme, and consequently my view falls somewhere in between.
+On the one hand, I am skeptical that central bankers or anyone else can accurately identify bubbles as they are inflating, and I know of no central banker who understands with great certainty how bubbles respond to monetary policy.
+On the other hand, the FOMC does attempt to take into account the effect of asset values on the economy when setting interest rates and does consider the likely reaction of asset prices to our policy decisions.
+Another type of financial instability that can influence monetary policy in a way that is very difficult to embed in a rule occurs when important intermediaries--banks, securities dealers, hedge funds--fail or when markets seize up in a financial crisis.
+This can happen when a financial bubble pops but also after a large swing in interest rates, commodity prices, or other prices or even, as I will discuss in a moment, a terrorist attack that causes financial market participants to pull back from risk-taking.
+The Federal Reserve was organized, in part, to combat such financial instability, and economists broadly agree that a central bank should respond to this sort of financial crisis.
+Generally, in severe financial crises, central banks inject liquidity into the financial system to meet temporarily higher demands and may even inject enough liquidity to lower short-term interest rates if a crisis seems likely to damp economic activity.
+The goal is to provide liquidity for the market as a whole, not assistance to specific institutions.
+Some may argue that either type of financial instability--that associated with the formation and popping of bubbles and that associated with the breakdown of markets or the failure of intermediaries--can be incorporated into a policy rule by simply making the rule more forward-looking.
+The central bank responds to the financial difficulties precisely because they threaten to imperil future economic growth.
+I would certainly agree that forward-looking rules--rules that take into account likely future developments--are likely to be better bases for monetary policy than backward-looking rules.
+But I remain convinced that the appropriate response to complex, rapidly changing financial developments cannot be simply quantified even when mapped through forecasts of economic activity, and hence it requires flexibility and judgment on the part of the policymakers.
+Events in 2001 could not have more clearly demonstrated the need for flexibility in monetary policymaking and the inevitable shortcomings of rigid monetary policy rules.
+When terrorists destroyed the World Trade Center, they disrupted our financial system on an unprecedented scale.
+Nonetheless, by that afternoon or the next day, most financial institutions had moved to backup sites, using contingency arrangements that had in many cases been strengthened for the century date change; within several days the financial system had recovered most of its functionality.
+Still, the Federal Reserve needed to respond to the initial dislocations as well as the more enduring economic fallout.
+In the days following the attacks, we provided a massive injection of liquidity, initially in the form of direct lending through the discount window and subsequently through open market operations.
+Shortly thereafter, in view of signs that the attacks had caused a severe negative shock to confidence, the Federal Reserve began to ease monetary policy to cushion the likely resulting pullback in spending by households and businesses, again departing from the prescriptions of monetary policy rules based solely upon available backward-looking data for the recent values of variables such as inflation and unemployment.
+In sum, over the past twenty-five years some important consensuses have been achieved on the best way to conduct monetary policy.
+Central banks have adopted price stability as a key long-term objective, and they have become more transparent and systematic in their operations.
+However, opinion on how to conduct policy divides in at least two critical areas--how rigidly monetary policy should be determined by rules and the way monetary policy should respond to financial instability.
+In my view, these are closely related: Because responding to financial crises requires flexibility, policy cannot be tied too tightly to a rule.
+As long as policymakers are clear about their aversion to price instability and act in accordance with that aversion, they can respond flexibly to economic and financial developments without losing credibility as fighters for price stability.
+Therefore, rules and targets may not be an improvement over flexible implementation of policy with multiple objectives.
+This statement, of course, assumes that the central bank has and maintains its credibility in the pursuit of price stability.

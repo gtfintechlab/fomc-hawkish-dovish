@@ -1,0 +1,29 @@
+Unnamed: 0,sentence,label,score
+0,Inflation is much too high.,LABEL_1,0.9995007514953613
+1,Last year I noted that inflationary pressures associated with strong demand and constrained supply could take longer to subside than many expected.,LABEL_1,0.9993663430213928
+2,"Since then, those problems have persisted and inflation has broadened, reaching the highest rate that Americans have faced in forty years.",LABEL_1,0.9995139837265015
+3,"High inflation is a heavy burden for all Americans, but especially for those with limited means who are forced to pay more for everyday items, delay purchases, or put off saving for the future.",LABEL_1,0.999432384967804
+4,"I intend to support prompt and decisive action to lower inflation, and today I will explain how the Fed is pursuing this goal.",LABEL_1,0.9994750618934631
+5,"In the near term, I expect that uncomfortably high inflation will persist at least through the first half of 2022.",LABEL_1,0.999409556388855
+6,"We may see signs of inflation easing in the second half of the year, but there is a substantial risk that high inflation could persist.",LABEL_1,0.538793683052063
+7,"In January, the Consumer Price Index rose to a 12-month rate of 7.5 percent, which, consistent with other recent monthly readings, was even higher than expected.",LABEL_1,0.987748920917511
+8,"Employment costs for businesses, as measured by average hourly wages, also rose last month.",LABEL_1,0.9994992017745972
+9,And continued tightness in the labor market indicates that upward pressure on wages and other employment compensation is not likely to moderate soon.,LABEL_1,0.9989320635795593
+10,"My base case is that inflation will moderate later this year, which will depend, in part, on appropriate actions by the Federal Open Market Committee (FOMC).",LABEL_1,0.9980383515357971
+11,"But with wage growth lagging behind inflation for the past year, many families may find it challenging to make ends meet and continued rising home prices will likely prevent many from entering the housing market.",LABEL_2,0.986092746257782
+12,"I expect to see continued strength in the job market this year, with further gains in employment, and my hope is that more Americans return to the labor force and find work.",LABEL_1,0.9976776242256165
+13,The strength in job creation is a big positive for those seeking employment and for their families.,LABEL_1,0.9914973378181458
+14,"Even with the improving labor market, I still hear from businesses that qualified workers are difficult to find, and labor shortages remain a drag on hiring and on economic growth.",LABEL_1,0.9970989227294922
+15,Now let me turn to the implications of this outlook for monetary policy.,LABEL_0,0.9937347769737244
+16,"In my view, conditions in the labor market have been and are currently consistent with the FOMC's goal of maximum employment, and as such, my focus has been on the persistently high inflation.",LABEL_2,0.9998239874839783
+17,"In part, the high inflation reflects supply chain disruptions associated with the economic effects of the pandemic and efforts made to contain it.",LABEL_1,0.9993220567703247
+18,"Unfortunately, monetary policy isn't well-suited to address supply issues.",LABEL_1,0.9981043338775635
+19,"But strong demand and a very tight labor market have also contributed to inflation pressures, and the FOMC can help alleviate those pressures by removing the extraordinary monetary policy accommodation that is no longer needed.",LABEL_2,0.9994581341743469
+20,"In our most recent monetary policy statementâ€”which was released following our January meetingâ€”we indicated that ""with inflation well above 2 percent and a strong labor market,"" we expected that it would ""soon be appropriate to raise the target range for the federal funds rate.",LABEL_1,0.9995806813240051
+21,"""2 I fully supported that assessment, and the data we have seen since then have only increased the urgency to get on with the process of normalizing our interest rate stance and significantly reducing the size of the Federal Reserve's balance sheet.",LABEL_1,0.9994451403617859
+22,Returning the balance sheet to an appropriate and manageable level will be an important additional step toward addressing high inflation.,LABEL_1,0.9983842372894287
+23,"I expect that these steps will contribute to an easing in inflation pressures in the coming months, but further steps will likely be needed this year to tighten monetary policy.",LABEL_1,0.9994540810585022
+24,"Looking beyond this spring, my views on the appropriate pace of interest rate increases and balance sheet reduction for this year and beyond will depend on how the economy evolves.",LABEL_1,0.9947687387466431
+25,I will be particularly focused on how much progress we make on bringing down inflation.,LABEL_1,0.9984379410743713
+26,"My intent would be to take forceful action to help reduce inflation, bringing it back toward our 2 percent goal, while keeping the economy on track to continue creating jobs and economic opportunity for Americans.",LABEL_2,0.9985319375991821
+27,I appreciate the opportunity to share my views on monetary policy with you this morning.,LABEL_1,0.9549946188926697

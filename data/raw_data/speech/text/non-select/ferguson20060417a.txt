@@ -1,0 +1,126 @@
+Let me begin by thanking the Federal Reserve Bank of Atlanta for hosting this conference and for organizing, along with the International Association of Financial Engineers, an impressive program that is filled with high-quality papers on topics of keen interest to central bankers.
+Before proceeding, I must indicate that the views I am about to express are my own and do not necessarily reflect the views of other members of the Board of Governors or the Federal Reserve more generally.
+Few subjects are more important for central bankers than the efficiency and stability of our financial system.
+The term "financial instability" is often poorly defined.
+Some argue that financial instability occurs when imperfections or externalities in the financial system are substantial enough to create significant risks for real aggregate economic performance.
+Others argue that financial stability is potentially absent, or that financial instability is on the horizon, when they perceive that some important set of financial asset prices seem to have diverged sharply from fundamentals.
+Finally, many observers have used the term "financial instability" to describe their perception that market functioning seems to have been significantly distorted or impaired.
+Regardless of the definitions used for financial instability, they lead us to a strong interest in ensuring that our financial infrastructure is robust and that our supervisory operations are sound and up-to-date.
+Ironically, our interest in financial stability seem to have increased in recent years even as real (that is, inflation-adjusted) variability in economic aggregates seems to have decreased.
+Since 1985, the volatility of real growth in gross domestic product (GDP) has been only about half of what it was during the preceding twenty-five years.
+In addition, as shown in a number of papers, the volatility of many components of GDP and of other measures of aggregate economic activity also declined sharply between these periods.
+The source of the moderation in the real economy is unclear.
+Changes in data construction do not seem to be responsible.
+Fiscal policy has not become appreciably more countercyclical, and the shift of the economy toward producing more services appears to have played only a small role.
+The leading explanations of the moderation are that (1) economic shocks have been milder; (2) inventory management has improved; (3) financial innovations such as improved risk assessment and risk-based pricing have made credit more widely available, even during economic downturns; and (4) monetary policy has been better.
+The first explanation--milder economic shocks--has seemed less persuasive following the events of the late 1990s and early 2000s.
+From the Asian financial crisis to the September 11 attacks to the corporate governance scandals to the surge in oil prices, powerful economic shocks have marked the past few years.
+Yet, the economy has performed rather well, on balance, over this period.
+As for the second explanation--better inventory management--changes in inventory dynamics have indeed contributed significantly to the reduced volatility of GDP growth.
+Those changes are consistent with anecdotal evidence and case studies about the use of information technology and better inventory management practices to catch incipient inventory overhangs before they become a problem.
+Regarding the third explanation--better availability of credit--Karen Dynan, Doug Elmendorf and Dan Sichel, of the Board's staff, present evidence in a recent paper that financial innovation has been partly responsible for the reduced variability of real activity of the past two decades or so.1 According to their work, the greater availability and use of credit over time may have reduced economic volatility by reducing the sensitivity of household spending to downturns in income and cash flows and to fluctuations in interest rates, with the result that consumer spending and home purchases have become less sensitive to contemporaneous income.
+Let me focus for a moment on the fourth explanation, that monetary policy has been better.
+I think it has indeed been better.
+We are better at understanding how the economy operates (and therefore, at evaluating the appropriate stance of monetary policy) and we are more determined to pursue the goal of price stability.
+But secondarily, I think the greater dominance of market-based finance, combined with a greater transparency by the Federal Reserve, has made both the mechanism of monetary policy and the intentions of the central bank more understandable to market participants.
+The mechanism of monetary policy is clearer with greater market-based finance relative to bank-dominated finance because the direct effects of policy on corporate and household balance sheets are more easily observed by both policymakers and market participants.
+In contrast, bank-dominated finance involves more complicated interactions between depositor behavior, loan underwriting standards, and interest rates.
+The greater transparency of central banks also seems to have led to improved economic performance.
+Market expectations are more likely to remain anchored in the face of various shocks when investors can see more clearly that central bankers are committed to long-run objectives such as price stability and sustainable economic growth.
+This commitment feeds into the planning and execution of investments by firms and households, which are more likely to undertake such investments given greater certainty about the commitment of the central bank.
+Moreover, with this greater certainty, prices and pricing decisions more clearly communicate the desires of households and firms.
+Some evidence for this view is found in the decline of inflation volatility relative to real interest rate volatility.
+Both inflation volatility and bond term premiums have declined significantly in recent years.
+Research at the Federal Reserve Board by Don Kim and Jonathan Wright, as well as work by others outside the Federal Reserve, have suggested that inflation expectations that are more firmly anchored, combined with the reduction in the volatility of real activity, seem to be a significant part of the explanation for the decline in term premiums.2 I would argue that the greater transparency of central banks has played a role in communicating and emphasizing to the markets our commitment to price stability.
+Thus, the moderation in aggregate economic volatility seems somewhat understandable.
+But why, then, the seemingly greater concern these days about financial market instability?
+This anxiety appears to be driven by three factors: First, some asset prices, such as housing prices, seem to be high by historical standards.
+Given the substantial decline of stock prices beginning in 2000, many observers worry that greater boom or bust cycles in some asset prices could be the "flip-side" of the moderation of real economic volatility during recent decades.
+Asset prices are the key channel through which monetary policy is transmitted to the real economy.
+Moreover, because asset prices embody the expectations of forward-looking investors, they might contain information of value for the policy-setting process.
+But from the Federal Reserve's perspective, asset prices must ultimately be seen through the lens of long-term growth and price stability.
+If inflation seems contained and the prospects for economic growth are good, then it's unclear why the policymaker should set aside these direct signals in preference for signals from asset prices that may or may not be out of line with their historical relationships to fundamentals--the very fundamentals, I should add, that we look at directly in judging the health of the economy.
+Indeed, even in retrospect, our knowledge of what drove the price-earnings ratios for U.S. equities so high in the late 1990s and our ability to estimate what a more "appropriate" level for the price-earnings ratio might have been are very incomplete and, frankly, probably will not improve substantially.
+Additionally, in the current conjuncture, some have expressed a concern that an unwinding of global imbalances, should it occur, might be disorderly and associated with financial instability.
+Others question whether the simultaneous removal of monetary accommodation by central banks in several major economies could possibly trigger a period of financial instability emanating from the inevitable rebalancing of portfolios.
+Should events such as these occur, central bank communication and understanding market participants' reactions will certainly be important considerations for maintaining financial stability.
+A third source of anxiety concerning financial market instability arises because some of the more recent crises have been financial in nature.
+Although their effects on the real economy in the United States have been relatively limited, the economies of other nations have been significantly affected, and there is concern that a financial crisis might, at some point, have more severe consequences for the real economy in the United States.
+When we review these recent cases of financial market turmoil, it appears that each is a unique event.
+But some common lessons can be learned, and I will outline them after I briefly review two of these crises that have been important in the United States during the past decade.
+The market turmoil in the fall of 1998 was touched off by the Russian debt default in August and then exacerbated by the well-publicized travails of Long-Term Capital Management.
+During this time, nearly all financial indicators portrayed a dour picture of economic prospects--risk spreads widened sharply, stock prices fell, and banks reported tightening the terms and lending standards on business loans.
+In addition, market reports indicated that the capital markets were seizing up as dealers and other marketmakers recoiled from risk taking.
+In response, the Federal Open Market Committee (FOMC) lowered its target for the federal funds rate 75 basis points in three equal steps and maintained the lower rate through June of the subsequent year.
+This response mainly reflected FOMC concerns that these financial instabilities had either signaled or created significant downside risks to the economic outlook, particularly for business investment.
+The FOMC's significant aversion to the possible negative outcomes associated with these risks was part of a risk-management perspective--that is, that the economic recovery from a financial shock could be more difficult to manage than the financial shock itself.
+As for events after 1998, it is more difficult to identify a "pure" financial crisis.
+The devastating terrorist attacks in 2001 caused tragic loss of life and major damage to the physical infrastructure of a number of key firms central to trading and market-making activities.
+Although there were many important differences, this crisis mimicked a financial meltdown in the sense that important financial markets could not operate because of the cessation of activities by some firms.
+The Federal Reserve responded in a manner that was appropriate to the nature of the crisis.
+We issued a statement that we were up and running and ready, if needed, to extend loans from the discount window.
+Depository institutions took up the offer; their borrowing surged to more than $45 billion but dropped quickly after a few days.
+We also worked jointly with foreign central banks to provide funds to promote the smoother operation of foreign exchange transactions and established swap lines that channeled funds to institutions that needed dollars.
+In addition, the Federal Reserve took a variety of other actions, including waiving daylight overdraft fees, extending the operating hours for Fedwire, and easing the limits on securities lending to reduce the pressure on firms requiring securities that were made scarce because of settlement difficulties.
+All these measures were taken quickly, maintained temporarily, and wound down in an orderly manner as the need for them receded.
+After the initial rush of activity, we focused on the nonfinancial economy.
+Evidence of a weakening economy had already emerged before the terrorist attacks; the decline in stock prices, the widening of risk spreads, and the impairment of market functioning created by the attacks caused many policymakers to worry that this weakening would accelerate.
+Again reflecting the risk-management perspective I described earlier, the FOMC lowered its target for the federal funds rate 50 basis points before the reopening of the markets on Monday, September 17, 2001.
+In explaining its action, the FOMC pointed to a less sanguine economic outlook and to significant downside risks associated with that outlook.
+Besides the crisis of 1998 and the September 11 terrorist attacks, other episodes of financial turmoil were important, but these episodes did not raise the same level of concern that the negative shock might be transmitted to the nonfinancial economy in a rapid and disorderly fashion.
+For example, the significant decline of stock prices starting in 2000 was not accompanied by a major market malfunctioning, and the resulting loss of equity wealth did not seem likely to have negative ramifications for the real economy that were so immediate and severe as to be considered a crisis.
+Similarly, the major accounting and corporate scandals of 2002 led to a significant widening of risk premiums and much anxiety about the veracity of many corporations' financial statements.
+But for the most part, the markets again functioned smoothly and risks seemed to be priced normally.
+Finally, the more pronounced interest rate volatility during the summer of 2003, which appears to have been significantly amplified by mortgage hedging, created some short-lived market difficulties.
+But again, this volatility seemed unlikely to have significant effects on the real economy.
+Despite the rarity of internally generated financial crisis, some argue that ongoing trends in the United States should be examined closely for their potential effects on financial stability.
+Four trends are often mentioned.
+The first is increased concentration in the financial services industry.
+In particular, consolidation has resulted in a smaller number of firms doing a larger share of the bank lending throughout the world.
+For example, the origination and servicing of consumer loans have become more concentrated.
+For the most part, these rising levels of concentration appear to be motivated by cost savings that are often attributed to economies of scale, or by expectations of greater revenue stability derived from either greater diversification of products or greater geographic diversification.
+While the risks to financial stability that arise from the creation of a small number of large and complex firms are obvious, there may be benefits as well.
+Greater concentration in financial services has the potential to have some positive impact on financial stability because lower costs can allow firms to build the capital reserves that help insulate them from shocks, and greater diversification can reduce firm risk.
+Moreover, the market and financial supervisors are requiring the adoption of more sophisticated and comprehensive techniques for the management of risks associated with larger and more complex firms.
+However, the benefits of lower costs, greater diversification, and better risk management at large, complex firms depend on many particulars, including robust infrastructure and a reduction in the opaqueness that results from increased firm complexity.
+In this regard, infrastructure is one area in which the increase in concentration has received attention.
+The creation of NewBank, which I describe later, is a recent private-sector response to the concentration of clearing and settlement activities in the market for government securities.
+The second trend is that the pricing and management of credit continues to become more market oriented.
+This development should increase financial stability, because market pricing and the management of credit risk via marketable securities would be expected to promote a more robust system for risk management.
+In this scenario, a broad-based and diversified group of rational market participants would determine the success or failure of financial products through an evolutionary process, allowing the available set of financial assets to gradually become more useful and comprehensive.
+However, some hold to a more pessimistic scenario that envisions smaller groups of market participants, with short time horizons and an excessive interest in mark-to-market profitability, who create more volatility because of their high sensitivity to the latest rumors and news.
+I tend to adopt the more optimistic view, but in any case the central bank will need to maintain its focus on markets as more credit is intermediated through them.
+The third trend is similar to the second.
+The ongoing increase in the scope and availability of financial instruments is probably providing many firms and households with improved methods of risk diversification and hedging and with greater access to credit.
+As I noted earlier, such financial innovations have likely been partly responsible for the lowered variability in many real economic aggregates over the past two decades.
+That said, the increasing complexity of these instruments raises a host of policy questions regarding, to name just a few items, financial education for households, and, for financial institutions, operational procedures, valuation practices, accounting treatments, disclosure policies, and capital provisions.
+Moreover, these financial innovations often rely on the ready availability of market liquidity, an assumption that likely will not hold during a financial crisis.
+Therefore, one hopes that all market participants who are involved in these complex instruments have liquidity plans in place.
+The final trend is the ongoing and increasing globalization of markets.
+Make no mistake; I think such a trend is to be welcomed because it brings about the usual gains from trade.
+But we must be mindful that borrowers are raising funds in multiple financial centers in multiple currencies across diverse legal and political systems; that investors are taking on greater international exposure; and that arbitrageurs are establishing leveraged positions across currencies and international markets.
+These actions increase cross-border interdependence and thus in some circumstances might propagate financial problems more quickly and widely.
+Given these trends, what roles should a central bank play with regard to financial stability?
+I would suggest three.
+First and foremost, the central bank's role is to maintain a focus on the possible effects of financial instability for its two core objectives, namely price stability and long-run real growth.
+Any actions to promote financial stability need to be seen through this lens.
+We must always ask: Do our potential actions credibly mitigate a risk of inflation or a threat to the real economy?
+Such a standard helps reduce the danger that we might pursue financial stability to the point of changing the behavior of market participants in counterproductive ways, such as increasing moral hazard, which would, in turn, create problems for the real economy.
+This objective also suggests that the central bank needs to continually monitor financial developments, including those regarding financial accounting and reporting standards, to be able to appropriately assess the effect of these developments on the real economy.
+Secondly, I would argue that the examples of the recent past, combined with our understanding of how markets function, suggest that much of the central bank's work lies in bank supervision, including promoting better risk management and the avoidance of operational risks on the part of other financial institutions, and emphasizing the importance of backup and contingency arrangements.
+That is, the central bank can assist in getting market participants to consider and focus on the management of risk in general and of the risk of low probability, but high cost, outcomes in particular.
+Along these lines, we have encouraged banks to adopt the most modern risk-management techniques, and we have encouraged all financial institutions to ensure the robustness of their systems.
+We have also strived to bring our capital regulations up-to-date and make them more risk sensitive through the Basel II process and the effort to revise Basel I; both of these efforts are intended to modernize capital regimes as part of our ongoing effort to improve safety and soundness and, ultimately, financial stability.
+And following our own advice, the Federal Reserve has implemented additional layers of backup and contingency arrangements for our key payment system operations.
+Most recently, the Federal Reserve Board endorsed the creation of a dormant bank, referred to as NewBank, which would be available for activation to clear and settle U.S. government securities.
+Such activation would occur if a credit or legal problem caused the market to lose confidence in an existing clearing bank and no well-qualified bank stepped forward to purchase that bank's clearing business.
+Similarly, the Federal Reserve System, operating through the Federal Reserve Bank of New York, has met with major dealers to improve the practices of the credit derivatives industry in various ways, including implementing procedures to improve the settlement process for credit default swaps, establishing targets for the reduction of confirmation backlogs, and insisting that dealers obtain the consent of the original counterparty before accepting an assignment of a contract.
+The final role I would suggest for a central bank is to research the implications of longer-term financial trends for the economy more generally.
+As I mentioned above, the consolidation of financial services, increasing market intermediation of credit, the greater complexity of financial instruments, and increasing globalization of financial institutions and markets all might raise concerns about our financial system.
+Although my assessment, and that of many other observers, is that these forces and developments support financial stability, they merit ongoing study.
+In a more proactive vein, once the central bank identifies a longer-run concern, it can try to raise the awareness of other policymakers regarding the potential problems.
+Recently, for example, the government-sponsored enterprises, which lack the normal market discipline to check the growth of their portfolios, have been a concern that the Federal Reserve Board has been highlighting before the Congress.
+As another example of being proactive, I would suggest that the efforts to increase the transparency of central bank actions that I discussed at the beginning of my talk have, in some part, been motivated by a desire to enhance financial stability.3 One lesson that stands out from our experience gained during the past decade is that only looking backward is not useful.
+Prudent central bankers must be forward-looking, searching for developments that might become significant problems under some circumstances.
+What would be useful from a risk-management perspective is more information along the lines of what we have for inflation--market instruments that allow us to measure, to some extent, market participants' expectations.
+The absence of such direct measures of financial stability, however, suggests that we should continue to present our views of potential financial risks and their associated propagation mechanisms, both to other public-sector colleagues and to private-sector analysts and observers.

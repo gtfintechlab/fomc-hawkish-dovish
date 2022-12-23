@@ -1,0 +1,54 @@
+Unnamed: 0,sentence,label,score
+0,"The result during the last five years has been a major acceleration in productivity and, as a consequence, a marked increase in standards of living for the average American household.",LABEL_1,0.9980171918869019
+1,"Businesses not only respond more accurately to changes in demand, they can respond more quickly and efficiently as well.",LABEL_2,0.9992635846138
+2,"In addition, the dramatic advances in biotechnology are significantly increasing a broad range of productivity-expanding efforts in areas from agriculture to medicine.",LABEL_2,0.9979534149169922
+3,Every innovation has suggested further possibilities to profitably meet increasingly sophisticated consumer demands.,LABEL_2,0.9981259703636169
+4,"In essence, those capital investments must be structured in a manner sufficient to provide insurance against uncertain future demands.",LABEL_2,0.9991232752799988
+5,"But, obviously, not all technologies, information or otherwise, affect productivity by reducing the inputs necessary to produce the current level of existing products.",LABEL_2,0.9997789263725281
+6,"Owing to advancing information capabilities and the resulting emergence of more accurate price signals and less costly price discovery, many market participants are better able to detect and to respond to finely calibrated nuances in customer demand.",LABEL_2,0.9989628791809082
+7,"In a consolidated sense, reduced cost is reflected mainly in reduced labor cost or, in productivity terms, fewer hours worked per unit of output.",LABEL_2,0.9960997104644775
+8,Yet the veritable explosion of equipment and software spending that has raised the growth of the capital stock dramatically over the past five years could hardly have occurred without a large increase in the pool of profitable projects becoming available to business planners.,LABEL_2,0.9589009284973145
+9,"A whole new set of profitable investments raises productivity, which for a time raises profits--spurring further investment and consumption.",LABEL_1,0.829464852809906
+10,"At the same time, faster productivity growth keeps a lid on unit costs and prices.",LABEL_0,0.7095248699188232
+11,"Firms hesitate to raise prices for fear that their competitors will be able, with lower costs from new investments, to wrest market share from them.",LABEL_2,0.9214722514152527
+12,Such circumstances lead to a very favorable period of strong growth of real output and low inflation.,LABEL_0,0.5553819537162781
+13,"But the degree to which the growth rate of productivity has been rising--indeed, whether in a long-term sense it is rising at all--is subject to considerable debate among economists.",LABEL_2,0.9918079972267151
+14,"Because in the past we have had episodes of similar improvements in productivity performance that failed to persist, these data, on their own, cannot be relied upon to draw broad conclusions about whether an acceleration in trend productivity is under way.",LABEL_2,0.9993708729743958
+15,"Growth in gross domestic income has outstripped the growth of the conceptually equivalent gross domestic product in recent years, producing a dramatic widening of the statistical discrepancy.",LABEL_1,0.9721360802650452
+16,"Productivity growth in the nonfarm business sector, estimated as real gross income per hour rather than real gross product per hour, over the past two years is, thus, a more noticeable 3-3/4 percent at an annual rate, 1 percentage point faster than measured from the product side.",LABEL_2,0.9782512187957764
+17,"Finally, because the measured level of productivity in the noncorporate business sector exhibits noncredible weakness for substantial spans of time, I believe data for the nonfinancial corporate sector afford a more accurate, though admittedly more narrow, measure of productivity performance.",LABEL_2,0.9997041821479797
+18,"By this measure, productivity growth in the 1970s and 1980s also averaged about 1-3/4 percent per year.",LABEL_2,0.9996343851089478
+19,"Moreover, the acceleration in productivity appears reasonably widespread among nonfinancial corporate firms beyond the high-tech industries themselves, even though gains in output per hour in the advanced technology companies have verged on the awesome.",LABEL_2,0.905256986618042
+20,"Although it still is possible to argue that the evident increase in productivity growth is ephemeral, I find such arguments hard to believe, and I suspect that most in this audience would agree.",LABEL_0,0.9511615037918091
+21,"But in gauging pressures on cost growth and prices, the critical issue is not how much of the current wave of innovation lies ahead of us, but how rapidly the exploitation of the newer technological synergies proceeds.",LABEL_2,0.9974765181541443
+22,"If, using Gerstner's figure, the remaining twenty-five years of the thirty-year cycle of technological change is exploited at a much more leisurely pace than the first five years, the rate of productivity growth will fall.",LABEL_2,0.997158408164978
+23,"To be sure, the level of productivity will continue to rise but at a slower pace.",LABEL_0,0.6981677412986755
+24,A leveling out or decline in the growth of productivity would have a profound effect on the intermediate outlook should it occur.,LABEL_0,0.9956134557723999
+25,"I say, should it occur, because evidence of a downward bend point in productivity growth is not yet evident in our most recent data.",LABEL_0,0.6844740509986877
+26,"All the same, the rate of growth of productivity cannot continue to increase indefinitely.",LABEL_1,0.9547812938690186
+27,"Should, at that point, labor market tightness result in faster growth of nominal wage rates, there would be no offset from accelerating productivity.",LABEL_1,0.9844623804092407
+28,"As a consequence, unit costs would likely rise, pressuring profit margins and prices.",LABEL_1,0.9993670582771301
+29,"That scenario of rising cost and price pressure is one policymakers have dealt with before, and the actions called for, while by no means easy, are readily discernible.",LABEL_1,0.998586893081665
+30,"What modern monetary policymaking has not faced for quite some time, if ever, has been a major surge in innovation--matching, if not exceeding, the other great waves this century--followed by an apparent elevation of productivity growth.",LABEL_0,0.9974963068962097
+31,Accelerating productivity poses a significant complication for economic forecasting.,LABEL_2,0.8669652342796326
+32,"For many years, forecasters could assume a modest, but stable, trend productivity growth rate and fairly predictable growth in the labor force.",LABEL_2,0.9996598958969116
+33,"Given the resulting growth of potential GDP, forecasting largely involved evaluating demand growth.",LABEL_2,0.995017945766449
+34,"If it appeared to be running in excess of trends in potential, the economy could be expected to eventually overheat, with inflation and interest rates moving up.",LABEL_1,0.9992421865463257
+35,"With trend growth in productivity now clearly in play, the weakness of a simple demand-side evaluation of economic forces has been brought into sharp focus.",LABEL_2,0.9987069368362427
+36,"It may no longer be the case that an acceleration in demand presages an overheated and unstable economy, if the demand growth is caused by growth in trend productivity.",LABEL_1,0.9588496088981628
+37,"Higher productivity growth must eventually show up as increases in employee real incomes, in profit, or more generally both.",LABEL_1,0.9812471270561218
+38,"Unless the propensity to spend out of real incomes falls, consumption and investment growth will rise, as indeed they must over time if demand is to keep pace with faster supply.",LABEL_1,0.9975893497467041
+39,But consumer demand can accelerate so much that total demand could rise above even the productivity-augmented overall growth of potential.,LABEL_1,0.9985972046852112
+40,"This extra demand can be met only with increased imports or with new domestic output produced by employing additional workers either from drawing down the pool of those seeking work, or from increasing net immigration.",LABEL_1,0.9974817633628845
+41,"For the recent past, direct foreign investment inflows have almost matched the total current account deficit.",LABEL_2,0.956878662109375
+42,"But a continued widening of that deficit could eventually raise financing difficulties, ultimately limiting import growth.",LABEL_1,0.9961661100387573
+43,The number of workers drawn into employment in excess of the normal growth in the workforce has been running at the equivalent of roughly a half of a percentage point of annual GDP growth.,LABEL_1,0.9280956983566284
+44,This gap must also eventually be closed if inflationary imbalances are to continue to be contained.,LABEL_1,0.9984105825424194
+45,"Clearly, the growth in gross domestic product cannot exceed the sum of growth in structural productivity and in the working-age population indefinitely.",LABEL_1,0.5801486968994141
+46,Market pressures must eventually emerge that work to contain such unsustainable growth.,LABEL_1,0.9961679577827454
+47,"Increasing demand for financing capital goods relative to domestic savings, a reflection of the previously cited imbalances, has apparently been exerting marked upward pressure on real long-term market interest rates, especially as economies abroad strengthen.",LABEL_1,0.9996198415756226
+48,"The measurement of real yields, that is, nominal interest rates less expectations of inflation over the maturity of a debt instrument, is inevitably imprecise.",LABEL_2,0.9997974038124084
+49,"It depends, of course, on estimates of inflation expectations, which are very difficult to accurately pin down.",LABEL_2,0.9996523857116699
+50,"But judging by yields on U.S. Treasury inflation-indexed securities, the real riskless interest rate has risen about half a percentage point for ten-year maturities since late 1997.",LABEL_1,0.998524010181427
+51,"As a consequence of these higher real interest rates, the ratio of net worth to income for the average household is already lower than it was earlier this year.",LABEL_1,0.9993466734886169
+52,We do not have enough experience with technology-driven gains in productivity growth to have a useful sense of the time frame in which market pressures contain demand.,LABEL_2,0.999747097492218

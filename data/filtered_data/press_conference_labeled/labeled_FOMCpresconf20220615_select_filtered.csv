@@ -1,0 +1,137 @@
+Unnamed: 0,sentence,label,score
+0,I will begin with one overarching message: We at the Fed understand the hardship that high inflation is causing.,LABEL_1,0.9995297193527222
+1,"We are strongly committed to bringing inflation back down, and we’re moving expeditiously to do so.",LABEL_1,0.9994068145751953
+2,We have both the tools we need and the resolve that it will take to restore price stability on behalf of American families and businesses.,LABEL_1,0.9993075132369995
+3,It is essential that we bring inflation down if we are to have a sustained period of strong labor market conditions that benefit all.,LABEL_1,0.9994683861732483
+4,"From the standpoint of our congressional mandate to promote maximum employment and price stability, the current picture is plain to see: The labor market is extremely tight, and inflation is much too high.",LABEL_1,0.9994367957115173
+5,"Against this backdrop, today the Federal Open Market Committee raised its policy interest rate by ¾ percentage point and anticipates that ongoing increases in that rate will be appropriate.",LABEL_1,0.9991794228553772
+6,I’ll have more to say about today’s monetary policy actions after briefly reviewing economic developments.,LABEL_2,0.999812662601471
+7,"Overall economic activity edged down in the first quarter, as unusually sharp swings in inventories and net exports more than offset continued strong underlying demand.",LABEL_2,0.9996731281280518
+8,"Recent indicators suggest that real GDP growth has picked up this quarter, with consumption spending remaining strong.",LABEL_1,0.9989534616470337
+9,"In contrast, growth in business fixed investment appears to be slowing, and activity in the housing sector looks to be softening, in part reflecting higher mortgage rates.",LABEL_1,0.9943394064903259
+10,The tightening in financial conditions that we’ve seen in recent months should continue to temper growth and help bring demand into better balance with supply.,LABEL_1,0.9935532808303833
+11,"As shown in our Summary of Economic Projections, FOMC participants have marked down their projections for economic activity, with the median projection for real GDP growth running below 2 percent through 2024.",LABEL_0,0.9975712895393372
+12,"The labor market has remained extremely tight, with the unemployment rate near a 50-year low, job vacancies at historical highs, and wage growth elevated.",LABEL_1,0.9887873530387878
+13,"Over the past three months, employment rose by an average of 408,000 jobs per month, down from the average pace seen earlier in the year but still robust.",LABEL_2,0.528965950012207
+14,"Labor demand is very strong, while labor supply remains subdued, with the labor force participation rate little changed since January.",LABEL_0,0.9945428371429443
+15,"FOMC participants expect supply and demand conditions in the labor market to come into better balance, easing the upward pressures on wages and prices.",LABEL_1,0.9843127131462097
+16,"The median projection in the SEP for the unemployment rate rises somewhat over the next few years, moving from 3.7 percent at the end of this year to 4.1 percent in 2024, levels that are noticeably above the March projections.",LABEL_1,0.9415203332901001
+17,Inflation remains well above our longer-run goal of 2 percent.,LABEL_1,0.9830614924430847
+18,"Over the 12 months ending in April, total PCE prices rose 6.3 percent; excluding the volatile food and energy categories, core prices rose 4.9 percent.",LABEL_1,0.9955765008926392
+19,"In May, the 12-month change in the consumer price index came in above expectations at 8.6 percent, and the change in the core CPI was 6 percent.",LABEL_1,0.9646992683410645
+20,"Aggregate demand is strong, supply constraints have been larger and longer lasting than anticipated, and price pressures have spread to a broad range of goods and services.",LABEL_1,0.9951940178871155
+21,The surge in prices of crude oil and other commodities that resulted from Russia’s invasion of Ukraine is boosting prices for gasoline and food and is creating additional upward pressure on inflation.,LABEL_1,0.9991497993469238
+22,"FOMC participants have revised up their projections for inflation this year, particularly for total PCE inflation given developments in food and energy prices.",LABEL_1,0.9993929862976074
+23,Participants continue to see risks to inflation as weighted to the upside.,LABEL_1,0.9981449842453003
+24,The Fed’s monetary policy actions are guided by our mandate to promote maximum employment and stable prices for the American people.,LABEL_1,0.9994747042655945
+25,"My colleagues and I are acutely aware that high inflation imposes significant hardship, especially on those least able to meet the higher costs of essentials like food, housing, and transportation.",LABEL_2,0.805992603302002
+26,"We are highly attentive to the risks high inflation poses to both sides of our mandate, and we are strongly committed to returning inflation to our 2 percent objective.",LABEL_1,0.9994667172431946
+27,And we are continuing the process of significantly reducing the size of our balance sheet—which plays an important role in firming the stance of monetary policy.,LABEL_1,0.999321460723877
+28,We also stated that we were highly attentive to inflation risks and that we would be nimble in responding to incoming data and the evolving outlook.,LABEL_1,0.998701810836792
+29,"Since then, inflation has again surprised to the upside, some indicators of inflation expectations have risen, and projections for inflation this year have been revised up notably.",LABEL_2,0.9986158609390259
+30,And it will help ensure that longer-term inflation expectations remain well anchored at 2 percent.,LABEL_1,0.9995700716972351
+31,"Over coming months, we will be looking for compelling evidence that inflation is moving down, consistent with inflation returning to 2 percent.",LABEL_1,0.9204063415527344
+32,Our overarching focus is using our tools to bring inflation back down to our 2 percent goal and to keep longer-term inflation expectations well anchored.,LABEL_1,0.989967942237854
+33,Making appropriate monetary policy in this uncertain environment requires a recognition that the economy often evolves in unexpected ways.,LABEL_1,0.9988154172897339
+34,"Inflation has obviously surprised to the upside over the past year, and further surprises could be in store.",LABEL_2,0.9997683167457581
+35,We are highly attentive to inflation risks and determined to take the measures necessary to restore price stability.,LABEL_1,0.998583197593689
+36,The American economy is very strong and well positioned to handle tighter monetary policy.,LABEL_1,0.9994359612464905
+37,We at the Fed will do everything we can to achieve our maximum-employment and price-stability goals.,LABEL_1,0.9995997548103333
+38,"So, as you know, we always aim to provide as much clarity as we can about our policy intentions subject to the inherent uncertainty in the economic outlook, because we think monetary policy is more effective when market participants understand how policy will evolve, when they understand our objective function, our reaction function.",LABEL_1,0.8521811366081238
+39,"And in the current highly unusual circumstances with inflation well above our goal, we think it’s helpful to provide even more clarity than usual—again, subject to uncertainty in the outlook.",LABEL_2,0.9994851350784302
+40,"So we got the CPI data and also some data on inflation expectations late last week, and we thought for a while, and we thought, well, this is the appropriate thing to do.",LABEL_1,0.9905824661254883
+41,"So if you take a step back, what we’re looking for is compelling evidence that inflationary pressures are abating and that inflation is moving back down.",LABEL_1,0.9668570160865784
+42,And we’d like to see that in the form of a series of declining monthly inflation readings—that’s what we’re looking for.,LABEL_1,0.9989420771598816
+43,"And, by this point, we had actually been expecting to see clear signs of at least inflation flattening out and, ideally, beginning to decline.",LABEL_1,0.9982925057411194
+44,"We’ve said that we’d be data dependent, focused on incoming data, highly attentive to inflation risks—the things that I mentioned to Howard moments ago.",LABEL_0,0.5695847272872925
+45,"So contrary to expectations, inflation again surprised to the upside.",LABEL_2,0.9989745616912842
+46,"Indicators—some indicators of inflation expectations have risen, and projections of [inflation] this year have moved up notably.",LABEL_1,0.9989649057388306
+47,And that’s generally what people see as the appropriate path for getting inflation under control and starting back down and getting back down to 2 percent.,LABEL_1,0.9994650483131409
+48,"You can look at asset prices, you can look at the effect they’re having on the economy, rates, asset prices, credit spreads—all of those things go into that.",LABEL_1,0.9405164122581482
+49,"And that desired affect is, we’d like to see demand moderating.",LABEL_2,0.9997548460960388
+50,Demand is very hot still in the economy.,LABEL_1,0.995703399181366
+51,"We’d like to see the labor market getting better in balance between supply and demand, and that can happen [as a result of developments coming] both from supply and demand.",LABEL_1,0.8068282604217529
+52,"Right now, there’s—demand is substantially higher than available supply, though, so we feel that there’s a role for us in moderating demand.",LABEL_2,0.9993959665298462
+53,"There are many things we can’t affect, and those would be, you know, the things—the commodity price issues that we’re having around the world due to the war in Ukraine and the fallout from that, and also just all of the supply-side things that are still pushing upward on inflation.",LABEL_1,0.9941490888595581
+54,"I mean, honestly, though, that would be—you would have positive real rates, I think, and inflation coming down by then.",LABEL_1,0.9962722063064575
+55,"So if you look at a broad range of inflation expectations—so you’ve got the public, you’ve got surveys of the public and of experts, and you’ve also got market based.",LABEL_2,0.9634025692939758
+56,"And I think if you look across that broad range of data, what you see is that expectations are still in the place, very much in the place, where short-term inflation is going to be high but comes down sharply over the next couple of years.",LABEL_2,0.9998373985290527
+57,And that’s really where inflation expectations are.,LABEL_2,0.633284866809845
+58,"We also noticed that the index of common inflation expectations at the Board has moved up after being pretty flat for a long time, so we’re watching that, and we’re thinking, “this is something we need to take seriously.” And that is one of the factors, as I mentioned—one of the factors in our deciding to move ahead with 75 basis points today was what we saw in inflation expectations.",LABEL_2,0.9985066056251526
+59,"Forty-year highs in inflation—we think that policy is going to need to be restrictive, and we don’t know how restrictive.",LABEL_1,0.9976251721382141
+60,"So, again, the overall exercise is that we try to be—provide as much clarity about our policy intentions as we can, because we think that makes monetary policy work better.",LABEL_1,0.9993053674697876
+61,"With us having really just done very little in the way of raising interest rates, financial conditions have tightened quite significantly through the expectations channel, as we’ve made it clear what our plans are.",LABEL_2,0.9994165897369385
+62,"And, in this particular situation, you know, we’re looking for something specific, and that is progress on inflation.",LABEL_1,0.9986472725868225
+63,"We want to see—inflation can’t go down until it flattens out, and that’s what we’re looking to see.",LABEL_0,0.6159679293632507
+64,"So, what we want to see is a series of declining monthly readings for inflation, and we’d like to see inflation headed down.",LABEL_1,0.9972310662269592
+65,"So that’s the kind of thinking we’ll be doing, and, again, we’re looking—ultimately, we’re not going to declare victory until we see a series of these, really see convincing evidence, compelling evidence, that inflation is coming down.",LABEL_1,0.9959482550621033
+66,"And that’s what I mean by—that’s what it would take for us to say, “Okay, we think this job is done.” Because we saw—and, frankly, we saw last year—inflation came down over the course of the summer and then turned right around and went back up.",LABEL_0,0.49638301134109497
+67,"Again, I think that—I do think that our objective, and this is what’s reflected in the SEP, but our objective, really, is to bring inflation down to 2 percent while the labor market remains strong.",LABEL_1,0.5032053589820862
+68,"And there I’m thinking, of course, of commodity prices, the war in Ukraine, supply chain [developments], things like that, where we really—the monetary policy stance doesn’t affect those things.",LABEL_1,0.9923514723777771
+69,"But having said that, there is a path for us to get there—it’s not getting easier; it’s getting more challenging because of these external forces—and that path is to move demand down, and you have a lot of surplus demand.",LABEL_2,0.9997751116752625
+70,"You could get to a place where that ratio was at a more normal level, and you wouldn’t—you would expect to see those wage pressures move back down to a level where people are still getting healthy wage increases, real wage increases, but at a level that’s consistent with 2 percent inflation.",LABEL_1,0.9948203563690186
+71,"So demand comes in, and it’s very strong, and it shows up in higher prices—not higher quantities, not more cars, because they can’t make the cars because they don’t have the semiconductors.",LABEL_2,0.9977085590362549
+72,"When demand comes down, you could see—and it’s not guaranteed—but you could see prices coming down more than the typical economic relationships that you see in the textbooks would suggest, because of the unusual situation we’re in on the supply side.",LABEL_1,0.948540985584259
+73,"In the SEP, we have unemployment going up to 4 point—the median is 4.1 percent—of course, [there is] a range of actual forecasts.",LABEL_0,0.7098948955535889
+74,"And I would characterize that, if you were to get inflation down to, you know, on its way down to 2 percent and the unemployment rate went up to 4.1 percent, that’s still a historically low level.",LABEL_0,0.7938970923423767
+75,"We hadn’t seen—we hadn’t seen rates, unemployment rates below 4 percent until a couple years ago for—we’d seen it for, like, one year in the last 50.",LABEL_0,0.5947287678718567
+76,So a 4.1 percent unemployment rate with inflation well on its way to 2 percent—I think that would be—I think that would be a successful outcome.,LABEL_2,0.7122016549110413
+77,So we’re not looking to have a higher unemployment rate.,LABEL_2,0.9936936497688293
+78,"We never think, “Too many people are working, and fewer people need to have jobs.” But we also think that you really cannot have the kind of labor market we want without price stability.",LABEL_0,0.9978049397468567
+79,"And we have to go back and establish price stability so we can have that kind of labor market, and that’s a labor market where workers are getting wage increases—maybe the workers at the lower end of the spectrum are getting the biggest wage increases, as they were before the pandemic—where participation is high, where there’s lots of job opportunities, where it’s just a really—I mean, the labor market we had before the pandemic was—that’s what we want to get back to.",LABEL_1,0.9621288180351257
+80,"But, to get there—it’s not going to happen with the levels of inflation we have.",LABEL_1,0.9331286549568176
+81,We’re trying to achieve 2 percent inflation consistent with a strong labor market.,LABEL_1,0.99574214220047
+82,"The SEP has inflation getting down to 2, a little above 2 percent in 2024, with unemployment at 4.1 percent.",LABEL_1,0.6357991695404053
+83,"Again, thinking here of the fallout from the war in Ukraine, which has brought a spike in prices of energy, food, fertilizer, industrial chemicals, and also just the supply chains more broadly, which have been larger and longer lasting than anticipated.",LABEL_2,0.9995118379592896
+84,"So the sentence that we deleted said that we believe that appropriate monetary policy, effectively alone, can bring about the result of 2 percent inflation with a strong labor market.",LABEL_1,0.997624933719635
+85,And so much of it is really not down to monetary policy.,LABEL_2,0.9990750551223755
+86,It just didn’t—the sentence isn’t—it kind of says on its face that monetary policy alone can do this.,LABEL_2,0.9994916915893555
+87,"And you look around the world—I mean, lots of countries are—lots of countries are looking at inflation of 10 percent, and it’s largely due to commodities prices.",LABEL_2,0.9997588992118835
+88,"And so—and we’re seeing them here: gas prices at all-time highs, and things like that.",LABEL_1,0.9974568486213684
+89,"So that is really—and, by the way, headline inflation, headline inflation is important for expectations.",LABEL_1,0.9951437711715698
+90,Core inflation is something we [on the Committee] think about because it is a better predictor of future inflation.,LABEL_2,0.9997846484184265
+91,But headline inflation is what people experience.,LABEL_2,0.9996362924575806
+92,So that’s—expectations are very much at risk due to high headline inflation.,LABEL_2,0.9995669722557068
+93,That’s probably related to gas prices and also just stock prices to some extent for other people.,LABEL_1,0.9994250535964966
+94,"We see job growth slowing, but it’s still at quite robust levels.",LABEL_2,0.9998074173927307
+95,We see the economy slowing a bit but still growth levels—healthy growth levels.,LABEL_1,0.9838077425956726
+96,"And, again, there’s a lot going on—there are a lot of flows back and forth—but, ultimately, it does appear that the U.S. economy is in a strong position and well positioned to deal with higher interest rates.",LABEL_1,0.979810893535614
+97,So the—we’re responsible for inflation in the law.,LABEL_1,0.997276246547699
+98,And inflation means headline inflation.,LABEL_2,0.9750575423240662
+99,"We, of course, like all central banks do, look very, very carefully at core inflation because it is—it’s a much better predictor, and it’s much—it’s a much better predictor of where inflation is going, and it’s also more relevant to our tools.",LABEL_1,0.9716169238090515
+100,"We can’t affect, really—I mean, the energy prices are set by global commodity prices.",LABEL_2,0.9994348883628845
+101,"And most of food—not all of it, but most food prices are pretty heavily influenced by global commodity prices, too.",LABEL_2,0.9998065829277039
+102,But we have to be mindful of the potential effect on inflation expectations [coming] from headline [inflation readings].,LABEL_2,0.999748170375824
+103,"So it’s a very difficult situation to be in, and we—again, we can’t do much about the difference between [headline and core inflation rates due to] the elements that make up headline that are not in core.",LABEL_2,0.998663067817688
+104,"And we’ll be able to see—the areas that we can affect are those associated with excess demand, and we’ll be able to see our effect on, for example, job openings in real time.",LABEL_2,0.9997922778129578
+105,"Wages are not principally responsible for the inflation that we’re seeing, but, going forward, they would be very important, particularly in the service sector.",LABEL_2,0.9996852874755859
+106,We have to restore price stability.,LABEL_2,0.9990862607955933
+107,"If you don’t have price stability, the economy’s really not going to work the way it’s supposed to.",LABEL_1,0.9982073307037354
+108,This inflation happened relatively recently.,LABEL_2,0.5069368481636047
+109,We don’t think that we’re seeing a wage–price spiral.,LABEL_1,0.6462050080299377
+110,"We think that the public generally sees us as very likely to be successful in getting inflation down to 2 percent, and that’s critical.",LABEL_2,0.998939573764801
+111,"So, clearly, people don’t like inflation—a lot.",LABEL_1,0.9736271500587463
+112,"And many people are experiencing it, really, for the first time, because we haven’t had anything like this kind of inflation in 40 years.",LABEL_2,0.9975666999816895
+113,"And we understand that, and we understand the hardship that people are experiencing from high inflation, and we’re determined to do what we can to get inflation back down.",LABEL_1,0.995783805847168
+114,"I guess what I’m saying is, the question, the really critical question from the perspective of doing our job is making sure that the public does have confidence that we have the tools and will use them and they do work to bring inflation back down over time.",LABEL_1,0.9992967844009399
+115,"It will take some time, we think, to get inflation back down, but we will do that.",LABEL_1,0.9965817332267761
+116,"So, as I mentioned, I think, in my opening statement, inflation has started—it started off in quite narrow, very directly pandemic-related areas, and it’s spread now broadly across the economy and into the services sector as well.",LABEL_1,0.9988780617713928
+117,"Some of that will be pass-through of energy prices, but it’s—so you’re experiencing services inflation.",LABEL_1,0.9993019104003906
+118,Shelter inflation is high.,LABEL_2,0.9901353716850281
+119,"If you see—you’re looking at getting back down to almost a 2 percent inflation by 2024, and the unemployment rate is still as low as 4.1 percent.",LABEL_1,0.9986617565155029
+120,"And, again, the answer to the question, can we still do it—there’s a much bigger chance now that it’ll depend on factors that we don’t control, which is, fluctuations and spikes in commodity prices could wind up taking that option out of our hands.",LABEL_1,0.9984167814254761
+121,"So we just don’t know, but we’re focused on—very, very focused on getting inflation back down to 2 percent, which we think is essential for the benefit of the public and also to put us on a path back to a sustainably strong labor market like the one we had before the pandemic.",LABEL_2,0.9858736991882324
+122,"So, of course, we’ve been looking very carefully and hard at why inflation picked up so much more than expected last year and why it proved so persistent.",LABEL_2,0.9994567036628723
+123,"For—really, the context is this: For decades before the pandemic and the reopening, you had a world where inflation was dominated by disinflationary forces such as declining population or aging demographics, let’s call it that, globalization enabled by technology, other factors, low productivity.",LABEL_1,0.9982694387435913
+124,"So we have now experienced an extraordinary series of shocks, if you think about it: the pandemic, the response, the reopening, inflation, followed by the war in Ukraine, followed by shutdowns in China—the war in Ukraine potentially having effects for years here.",LABEL_1,0.9987478256225586
+125,"Inflation is behaving differently, and, in our thinking, it really is a question of very strong demand.",LABEL_0,0.9957574009895325
+126,"But you couldn’t get this kind of inflation without a change on the supply side, which is there for anybody to see, which is these blockages and shortages and people dropping out of the labor force and things like that.",LABEL_0,0.9122565984725952
+127,"In the meantime, we have to find price stability in this new world and maximum employment in this new world where, clearly, inflationary forces are—you’re seeing them everywhere.",LABEL_1,0.9939814209938049
+128,"Again, if you look around the world at where inflation levels are, it’s absolutely extraordinary.",LABEL_1,0.9259642362594604
+129,"In fact, we’re sort of in the middle of the pack, although I think we have, of course, a different kind of inflation than other people have, partly because our economy is stronger and more highly recovered.",LABEL_1,0.9993577599525452
+130,"So rates were very low—a good place to start is that rates were very, very low for quite a while because of the pandemic and the need to do everything we could to support the economy when unemployment was 14 percent and the true unemployment rate was well higher than that.",LABEL_0,0.8647599220275879
+131,"So, in the meantime, while rates were low and while demand was really high, obviously demand for housing changed from wanting to live in urban areas to some extent to living in single-family homes in the suburbs, famously.",LABEL_1,0.7282537817955017
+132,And so the demand was just suddenly much higher.,LABEL_0,0.9991372227668762
+133,"And we saw prices moving up very, very strongly for the last couple of years.",LABEL_2,0.6872692704200745
+134,So prices may keep going up for a while even in a world where rates are up.,LABEL_0,0.986507773399353
+135,We need to get back to a place where supply and demand are back together and where inflation is down low again and mortgage rates are low again.,LABEL_1,0.9664883017539978

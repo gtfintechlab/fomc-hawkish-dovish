@@ -1,0 +1,62 @@
+Unnamed: 0,sentence,label,score
+0,A central bank’s raising interest rates is rarely popular.,LABEL_1,0.9219098687171936
+1,"But the Federal Reserve’s action on March 25, to tighten the stance of monetary policy, seems to have attracted more than the usual share of attention and criticism.",LABEL_1,0.9988107681274414
+2,"So tonight, I would like to take a few minutes to put this action in the broad context of the Fed’s mandate to promote the stable financial environment that will encourage economic growth.",LABEL_1,0.9965671300888062
+3,"It was a small prudent step in the face of the increasing possibility that excessive credit creation, spurred by an overly accommodative monetary policy, might undermine the sustained economic expansion.",LABEL_1,0.9903380274772644
+4,That expansion has been fostered by the maintenance of low inflation.,LABEL_0,0.848109245300293
+5,"But the persisting--indeed increasing--strength of nominal demand for goods and services suggested to us that monetary policy might not be positioned appropriately to avoid a buildup of inflationary pressures and imbalances that would be incompatible with extending the current expansion into 1998, and hopefully beyond.",LABEL_1,0.9995720982551575
+6,For the Federal Reserve to remain inactive against a possible buildup of insidious inflationary pressures would be to sanction a threat to the job security and standards of living of too many Americans.,LABEL_1,0.9994822144508362
+7,"As I pointed out in testimony before the Congress in March, the type of economy that we are now experiencing, with strong growth and tight labor markets, has the special advantage of drawing hundreds of thousands of people onto employment payrolls, where they can acquire permanent work skills.",LABEL_0,0.5154896378517151
+8,It has long been the goal of monetary policy to foster the maximum sustainable growth in the American economy.,LABEL_1,0.9478314518928528
+9,"I emphasize sustainable because it is clear from our history that surges in growth financed by excessive credit creation are, by their nature, unsustainable, and, unless contained, threaten the underlying stability of our economy.",LABEL_1,0.9979572296142578
+10,"Such stability, in turn, is necessary to nurture the sources of permanent growth.",LABEL_2,0.7946096062660217
+11,"The Federal Reserve, of late, has been criticized as being too focused on subduing nonexistent inflation and, in the process, being willing to suppress economic growth, retard job expansion, and inhibit real wage gains.",LABEL_0,0.9945283532142639
+12,"On the contrary, our actions to tighten money market conditions in 1994, and again in March of this year, were directed at sustaining and fostering growth in economic activity, jobs, and real wages.",LABEL_1,0.9892984628677368
+13,Our goal has never been to contain inflation as an end in itself.,LABEL_2,0.9556659460067749
+14,Prices are only signals of how the economy is functioning.,LABEL_2,0.9997617602348328
+15,"If inflation had no effect on economic growth, we would be much less concerned about inflationary pressures.",LABEL_2,0.9998001456260681
+16,But the evidence is compelling that low inflation is necessary to the most favorable performance of the economy.,LABEL_1,0.999167799949646
+17,"Inflation, as is generally recognized throughout the world, destroys jobs and undermines productivity gains, the foundation for increases in real wages.",LABEL_1,0.9923130869865417
+18,Low inflation is being increasingly viewed as a necessary condition for sustained growth.,LABEL_1,0.9968104958534241
+19,"The Federal Reserve has not always been successful at maintaining sound money and sustained growth, and the lessons have been costly.",LABEL_2,0.9994699358940125
+20,"The Federal Reserve’s policy actions, the evidence demonstrates, affect the financial markets immediately, but work with a significant lag of several quarters or more on output and employment, and even longer on prices.",LABEL_2,0.9997664093971252
+21,"Those who wish for us, in the current environment, to await clearly visible signs of emerging inflation before acting are recommending we return to a failed regime of monetary policy that cost jobs and living standards.",LABEL_2,0.5812210440635681
+22,"I viewed our small increase in the federal funds rate on March 25 as taken not so much as a consequence of a change in the most probable forecast of moderate growth and low inflation for later this year and next, but rather to address the probability that being wrong had materially increased.",LABEL_1,0.9890332221984863
+23,"In the same sense that it would be folly not to endure the small immediate discomfort of a vaccination against the possibility of getting a serious disease, it would have been folly not to take this small prudent step last March to reduce the probabilities that destabilizing inflation would re-emerge.",LABEL_1,0.998790442943573
+24,"To be sure, 1997 is not 1994 when the Fed was forced to tighten monetary conditions very substantially to avoid accommodating rising inflation.",LABEL_1,0.9994534850120544
+25,"While there is scant evidence of any imminent resurgence of inflation at the moment, there also appears to be little slack in our capacity to produce.",LABEL_1,0.7715351581573486
+26,"Should the expected slowing in the growth of demand fail to materialize, we would need to address any emerging pressures in product and credit markets.",LABEL_1,0.6318830847740173
+27,"To understand the problems of capacity restraint, I should like to spend a few moments on what we have learned over the years about economic growth and the conditions necessary to foster it.",LABEL_2,0.9922357201576233
+28,First it is useful to distinguish between two quite different types of economic growth.,LABEL_2,0.9998062252998352
+29,"One is true, sustainable growth, the other is not.",LABEL_2,0.9919373393058777
+30,True growth reflects the capacity of the economic system to produce goods and services and is based on the growth in productivity and in the labor force.,LABEL_2,0.9688436985015869
+31,"That growth contrasts with the second type, what I would call transitory growth.",LABEL_2,0.9992371797561646
+32,But this is not growth in any meaningful sense of promoting lasting increases in standards of living for our nation.,LABEL_0,0.9321414828300476
+33,"Temporary fluctuations in output owing to say, inventory adjustments, but not financed through excess credit, will quickly adjust on their own and need not concern us as much, provided policy is appropriately positioned to foster sustainable growth.",LABEL_2,0.9995765089988708
+34,"When excessive credit fostered by the central bank finances excess demand, history tells us destabilizing inflationary pressures eventually emerge.",LABEL_1,0.9993239641189575
+35,"For a considerable portion of the nineteenth and early twentieth centuries, inflationary credit excesses and prices were contained by a gold standard and balanced budgets.",LABEL_2,0.909978449344635
+36,"Over the long haul, the economy's growth is effectively limited to the expansion of capacity based on productivity and labor force growth.",LABEL_2,0.9995595812797546
+37,"To be sure, it is often difficult to judge whether observed growth is soundly based on productivity or arises from transitory surges in output financed in many cases by excess credit, but this is in part what making monetary policy is all about.",LABEL_2,0.9959476590156555
+38,"In that regard and in the current context, how can we be confident we at the Federal Reserve are not inhibiting the nation reaching its full growth potential?",LABEL_2,0.9998027682304382
+39,"Only two and a half years ago, rising commodity prices, lengthening delivery times, and heavy overtime indicated that our productive facilities were under some strain to meet demand.",LABEL_2,0.9848784804344177
+40,"However, given the good pace of economic expansion since then, it would stretch credulity to believe that capacity growth has accelerated at a sufficient pace to produce a large degree of slack at this moment.",LABEL_1,0.9962230920791626
+41,"However, falling unemployment rates and rising overtime hours--as well as anecdotal reports--unambiguously point to growing tightness in labor markets.",LABEL_2,0.9519963264465332
+42,"With tight labor markets and little slack in product markets, we are led to conclude that significant persistent strength in the growth of nominal demand for goods and services, outstripping the likely rate of increase in capacity, will presumably be resisted by higher market interest rates.",LABEL_1,0.9963523149490356
+43,"If, instead, that demand is accommodated for a time by a step up in credit expansion facilitated by monetary policy, increasing pressures on productive resources would sow, as they have in the past, the seeds of even higher interest rates and a consequent subsequent economic retrenchment.",LABEL_1,0.9992949962615967
+44,"We saw a significant risk that monetary policy was not positioned to promote sustainable economic expansion, and we took a small step to increase the odds that the good performance of the economy can continue.",LABEL_1,0.9993703961372375
+45,"It is the notion that, owing largely to technological advance and to freer international trade, the conventional notions of capacity are becoming increasingly outmoded, and that domestic resources can be used much more intensively than in the past without added price pressures.",LABEL_0,0.7744240760803223
+46,"This has imparted a substantially increased degree of flexibility into the workplace, which in conjunction with just-in-time inventory strategies and increased availability of products from around the world, has kept costs in check through increased productivity.",LABEL_2,0.9735541343688965
+47,"If we consider the current rate of true, sustainable growth unsatisfactory, are there policies which could augment it?",LABEL_2,0.975492000579834
+48,"In my view, improving productivity and standards of living necessitates increasing incentives to risk taking.",LABEL_2,0.9960122108459473
+49,"Maintaining low inflation rates reduces the levels of future uncertainties and, hence, increases the scope of investment opportunities.",LABEL_2,0.8072375655174255
+50,It is here that the Federal Reserve can most contribute to long-term growth.,LABEL_1,0.9993415474891663
+51,"In addition, coming to grips now with the outsized projected growth in entitlement spending in the early years of the next century could have a profound effect on current expectations of stability.",LABEL_2,0.9995431900024414
+52,"Early actions could bring real long-term interest rates down, also increasing the scope of investment opportunities.",LABEL_2,0.86951744556427
+53,"And, clearly, removing the federal deficit’s drain on private savings would help to finance such private investment.",LABEL_0,0.9989306330680847
+54,"Deregulation, by increasing the flexibility in the deployment of our capital and management resources, can also make a decided contribution to growth.",LABEL_1,0.7347094416618347
+55,"Finally, though not a function of government policies, is the continued good pace of productivity growth this late in the business expansion.",LABEL_2,0.9980266690254211
+56,"If so, it is important that we nurture it with adequate incentives--at a minimum, eschew regulations and taxation that reduce most incentives--for this may well be one source of our low inflation environment.",LABEL_2,0.935396134853363
+57,"While productivity improvement through capital investment and technological advance is clearly central to the process of economic growth, the pace and quality of labor force expansion is additive to productivity growth in achieving overall gains in GDP.",LABEL_1,0.98527991771698
+58,"Hence, appropriate upgrading of skills through education and training should go with any menu to expand economic growth.",LABEL_2,0.9986175298690796
+59,"For a vast nation such as ours at the cutting edge of technology, a large pickup in productivity growth is difficult to envisage.",LABEL_2,0.995262861251831
+60,But appropriate incentives advancing that cutting edge can augment growth in a material way.,LABEL_0,0.5364118218421936

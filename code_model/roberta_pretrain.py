@@ -112,8 +112,8 @@ MODEL_CONFIG_CLASSES = list(MODEL_MAPPING.keys())
 MODEL_TYPES = tuple(conf.model_type for conf in MODEL_CONFIG_CLASSES)
 
 class TrainConfig:
-    train_file= '../training_data/mlm_data_mts.csv'
-    validation_file = '../training_data/mlm_data_val_mts.csv'
+    train_file= '../training_data/mlm_data.csv'
+    validation_file = '../training_data/mlm_data_val.csv'
     validation_split_percentage= 5
     pad_to_max_length= True
     model_name_or_path= 'roberta-large'
@@ -348,7 +348,7 @@ def main():
         tokenizer.save_pretrained(args.output_dir)
 
 if __name__ == "__main__":
-    os.environ["CUDA_VISIBLE_DEVICES"] = "0,1"
+    os.environ["CUDA_VISIBLE_DEVICES"] = "0"
     #prepare_data()
     #prepare_data_without_filter()
     #prepare_data_mts()

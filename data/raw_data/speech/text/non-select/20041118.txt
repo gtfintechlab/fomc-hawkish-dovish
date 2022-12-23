@@ -1,0 +1,112 @@
+I appreciate the opportunity to participate in your Fall General Meeting.
+As my colleagues at the Financial Accounting Standards Board (FASB) and the International Accounting Standards Board (IASB) will agree, fair value accounting poses many challenges and has sparked significant industry debate.
+As you may be aware, the subject of fair value accounting has been discussed in the United States for well over a decade.
+Advocates of fair value accounting believe that fair value is the most relevant measure for financial reporting.
+Others, however, believe that historical cost provides a more useful measure because it more clearly represents the economics of business performance and because fair value estimates may not be reliable or verifiable.
+So, which is more appropriate--fair value or historical cost?
+Let me share with you the Federal Reserve's long-standing position on this issue.
+As a supervisor of the U.S. banking system, we want to ensure that financial institutions follow sound accounting policies and practices.
+We continue to support improved transparency and enhanced financial disclosures, which promote market discipline and provide useful information to decisionmakers.
+We also support fair value accounting for assets and liabilities used in the business of short-term trading for profit, such as the trading account for banks.
+And we support enhanced disclosures of fair-value-based information as part of broader descriptions of risk exposures and risk management.
+However, we believe that the accounting industry should be very careful before moving toward a more comprehensive fair value approach, where all financial assets and liabilities are recorded on the balance sheet at fair value and changes in fair value are recorded in earnings, whether realized or not.
+As many of you know, FASB recently issued a proposed standard on fair value measurements that provides a general framework for valuing assets and liabilities that are currently measured or disclosed at fair value.
+At this time, it does not expand the use of fair values in the primary financial statements.
+Although my colleague here from FASB is much better suited than I to address the details of the proposal, I would like to summarize and share with you the Federal Reserve's views on the proposed standard, which were provided to FASB in a comment letter as part of the exposure process.1 We see the proposal as a good first step toward enhancing measurement guidance in this area.
+However, as I will discuss in a moment, a number of important issues warrant further consideration, especially before dramatic moves are made toward increased fair value accounting.
+But before discussing these specific issues, allow me to emphasize one important point.
+As a bank supervisor, the Federal Reserve believes that innovations in risk management are very important to the continued improvement of our financial system.
+New methods and financial instruments allow banking organizations to improve their risk-management practices by selecting target levels of risk exposures and shedding or limiting unwanted positions.
+Whenever possible, the accounting framework should avoid providing a disincentive to better management of risk.
+Fair Value Measurement Issues That Warrant Further Consideration Reliability and Measurement If markets were liquid and transparent for all assets and liabilities, fair value accounting clearly would be reliable information useful in the decisionmaking process.
+However, because many assets and liabilities do not have an active market, the inputs and methods for estimating their fair value are more subjective and, therefore, the valuations less reliable.
+Research by Federal Reserve staff shows that fair value estimates for bank loans can vary greatly, depending on the valuation inputs and methodology used.
+For example, observed market rates for corporate bonds and syndicated loans within lower-rated categories have varied by as much as 200 to 500 basis points.
+Such wide ranges occur even in the case of senior bonds and loans when obligors are matched.
+The FASB statement on the proposed fair value standard suggests that reliability can be significantly enhanced if market inputs are used in valuation.
+However, because management uses significant judgment in selecting market inputs when market prices are not available, reliability will continue to be an issue.
+The proposal identifies three levels of estimates, with the lowest priority given to level-3 estimates.
+These estimates are not based on quoted prices in active markets for either identical or similar assets or liabilities, but rather on mark-to-model estimates.
+The proposal suggests that the use of multiple approaches, such as the market, income, and replacement-cost methods, will improve reliability of these estimates.
+However, the number of approaches adds little to reliability if all the methods are based on the same underlying information, as would often be the case for financial instruments.
+In our role as a bank supervisor, we have observed that minor changes in a number of assumptions in a pricing model can have a substantial effect.
+Generally, we are comfortable with the fair value measurement process for liquid trading instruments that financial institutions have had significant experience in valuing.
+However, we believe that for less-liquid assets and liabilities, reliability is a significant concern.
+Management Bias The fact that management uses significant judgment in the valuation process, particularly for level-3 estimates, adds to our concerns about reliability.
+Management bias, whether intentional or unintentional, may result in inappropriate fair value measurements and misstatements of earnings and equity capital.
+This was the case in the overvaluation of certain residual tranches in securitizations in recent years, when there was no active market for these assets.
+Significant write-downs of overstated asset valuations have resulted in the failure of a number of finance companies and depository institutions.
+Similar problems have occurred due to overvaluations in nonbank trading portfolios that resulted in overstatements of income and equity.
+As you are aware, the possibility for management bias exists today.
+We continue to see news stories about charges of earnings manipulation, even under the historical cost accounting framework.
+We believe that, without reliable fair value estimates, the potential for misstatements in financial statements prepared using fair value measurements will be even greater.
+Verification As the variety and complexity of financial instruments increases, so does the need for independent verification of fair value estimates.
+However, verification of valuations that are not based on observable market prices is very challenging.
+As I mentioned, many of the values will be based on inputs and methods selected by management.
+Estimates based on these judgments will likely be difficult to verify.
+Both auditors and users of financial statements, including credit portfolio managers, will need to place greater emphasis on understanding how assets and liabilities are measured and how reliable these valuations are when making decisions based on them.
+"Compound" Values and Revenue Recognition The value of a financial instrument may, in some cases, be coupled with an intangible value.
+For example, a servicing asset can be considered to reflect two values: a financial instrument that is similar to an interest-only strip and an intangible value reflecting the contractual right to perform services over time in exchange for a fee.
+The current accounting framework often requires different accounting and disclosure treatments for financial and nonfinancial components.
+However, the accounting literature offers little guidance on when these assets should be separated and how to determine the separate valuations.
+This lack of guidance may in some cases result in questionable or inappropriate practices, such as including projected income from cross-marketing activities in the valuation of financial instruments.
+Additional guidance to address these issues is warranted.
+Also, consideration must be given to revenue-recognition issues in a fair value regime.
+We must ensure that unearned revenue is not recognized up front, as it inappropriately was by certain high-tech companies not so long ago.
+Disclosures Fair values reflect point estimates and by themselves do not result in transparent financial statements.
+Additional disclosures are necessary to bring meaning to these fair value estimates.
+FASB's proposal takes a first step toward enhancing fair value disclosures related to the reliability of fair value estimates.
+I believe that additional types of disclosures should be considered to give users of financial statements a better understanding of the relative reliability of fair value estimates.
+These disclosures might include key drivers affecting valuations, fair-value-range estimates, and confidence levels.
+Another important disclosure consideration relates to changes in fair value amounts.
+For example, changes in fair values on securities can arise from movements in interest rates, foreign-currency rates, and credit quality, as well as purchases and sales from the portfolio.
+For users to understand fair value estimates, I believe that they must be given adequate disclosures about what factors caused the changes in fair value.
+Considerations for Credit Portfolio Management Fair value estimates affect the information you use as credit portfolio managers.
+Today's financial statements are based on a mixed-attribute accounting model.
+This means that an entity's balance sheet may include certain values reported at historical cost and certain values reported at fair value.
+You probably learned more about this in yesterday's break-out session about managing profit and loss volatility.
+Fair values may be used as an analytic tool in the lending process and are compared with historical cost values.
+This historical cost information, along with associated disclosures, contains reliable information that provides insights into a firm's expected cash flows.
+As the industry moves toward expanded use of fair value, I believe disclosure of certain historical cost information will remain essential.
+As I mentioned earlier, the reliability of the valuations and the transparency of the methods and inputs used to calculate the values are critically important.
+Clearly, fair valuations will have an impact on leverage ratios, capital ratios, and other ratios used in the lending and credit-management process.
+Credit portfolio managers will need to identify and understand the impact of changes in fair value estimates that result from changes in specific factors, economic conditions, management judgment, modeling techniques, and so forth.
+Accounting Treatment for Credit Derivatives Many of you may have seen earnings volatility resulting from the use of credit derivatives.
+I understand that credit derivatives were discussed in yesterday's session, so you probably have already heard some perspectives on this topic.
+Under U. S. generally accepted accounting principles, credit derivatives are generally required to be recognized as an asset or liability and measured at fair value, and the gain or loss resulting from the change in fair value must be recorded in earnings.
+Most credit derivatives do not qualify for hedge accounting treatment, which would permit the gain or loss on the credit derivative to be reported in the same period as the gain or loss on the position being hedged, assuming the hedge is effective.
+Therefore, the use of credit derivatives can result in earnings volatility.
+Consider a credit derivative that hedges credit risk of a loan, for example.
+As the loan's credit quality deteriorates, the value of the credit derivative improves.
+Since the loan is recorded at historical cost, and the credit derivative is marked to fair value, a gain from the change in value of the derivative is recognized in earnings.
+Conversely, if the loan's credit quality improves, the value of the credit derivative declines, resulting in a reported loss.
+These gains and losses may be offset by the level of provisions that are established for estimated credit losses on the loan, but this would likely result in only a partial offset.
+As management attempts to reduce this earnings volatility, we may see changes in risk-management practices.
+Unfortunately, some managers might use fewer credit derivatives to reduce credit risk due to this potential earnings volatility.
+Accordingly, setters of accounting standards need to consider improvements to the accounting treatment that do not result in a disincentive to those who prudently use credit derivatives for risk-management purposes.
+You may be wondering if the answer to this volatility issue is fair value accounting.
+If the hedged asset were measured at fair value, the changes in values of the hedged item and the credit derivative may offset each other, reducing the volatility that arises when only the derivative is marked to market and not the hedged item.
+Of course, the degree of the earnings volatility under a full fair value accounting approach would depend on the effectiveness of the hedge.
+The IASB developed the new "fair value option" under International Accounting Standard (IAS) 39.
+Using this option, companies that use international accounting standards will be permitted to apply fair value accounting to certain financial instruments that they designate at the time of purchase or origination.
+Accordingly, firms using the fair value option could mark to market both the credit derivative and the hedged position and report changes in their fair values in current earnings.
+While at first glance the fair value option might be viewed as "the solution" to addressing the problems of the mixed-attribute model, it also raises a number of concerns.
+Many of these concerns, as well as recommendations to address them, were included in a comment letter to the IASB from the Basel Committee on Banking Supervision (Basel Committee) issued on July 30.2 Let me first summarize some of the Basel Committee's concerns, many of which are similar to those I described earlier.
+Addressing reliability and verifiability issues, the committee suggested that, without observable market prices and sound valuation approaches, fair value measurements are difficult to determine, verify, and audit.
+It also suggested that reporting will become more complex and less comparable.
+The Basel Committee comment letter also discussed the "own credit risk" issue.
+If an entity's creditworthiness deteriorates, financial liabilities would be marked down to fair value and a gain would be recorded in the entity's profit and loss statement.
+In the most dramatic case, an insolvent entity might appear solvent as a result of marking to market its own deteriorated credit risk.
+To address these concerns, the Basel Committee recommended certain restrictions on the fair value option, such as disallowing the marking to market of credit risk of the institution's own outstanding debt and prohibiting the fair value option for illiquid financial instruments.
+It also suggested that the fair value option be limited to transactions that seek to economically hedge risk exposures and to situations in which accounting volatility associated with the mixed-attribute model can be reduced.
+Lastly, it recommended enhanced disclosures related to the fair value option.
+Representatives of the Basel Committee continue to work constructively with the IASB on these issues, and I believe this dialogue can lead to a more-balanced approach to the fair value option that supports transparent accounting and sound risk-management policies in a manner consistent with safe and sound banking practices.
+As banking organizations using IASB standards consider how to use the fair value option for their own financial reporting purposes, additional issues should be considered.
+For example, if loans are accounted for under the fair value option, what impact would that have on loan loss allowances, which under risk-based capital standards are a component of regulatory capital?
+Would changes in loan-loss provisioning practices due to the fair value option reduce regulatory capital, and, if so, how would this capital be replaced?
+How would the fair value option affect important asset-quality measures, such as nonperforming assets?
+From an earnings perspective, how would net interest margin be affected?
+As you can see, a number of important practical issues need to be addressed.
+Conclusion FASB's fair value measurement standard is a good first step toward developing enhanced guidance for the estimation of fair values.
+However, much more work needs to be done before fair value estimates are reliable, verifiable, and auditable.
+As credit portfolio managers, you need to be aware of these movements to fair value accounting and how they will affect your understanding of companies you evaluate.

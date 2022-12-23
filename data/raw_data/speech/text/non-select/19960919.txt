@@ -1,0 +1,82 @@
+New products are being designed to challenge the use of currency and checks in millions of routine consumer transactions.
+Other new systems may allow payments or banking instructions to be sent over networks such as the Internet, which is unprecedented in providing versatile, low-cost communication capabilities.
+Again, as in the 1970s, articles are being written and conferences are being held to pronounce the end of paper.
+They may again prove premature.
+The payment systems of the United States present a paradox.
+Our systems and banking arrangements for handling high-value dollar payments are all electronic and have been for many years.
+Banking records, including those for loans and deposits, have been computerized since the 1960s.
+Securities markets also now rely on highly automated records and systems, born out of necessity following the paperwork crisis of the 1970s.
+Yet in transactions initiated by consumers, paper--currency and checks--remains the payment system of choice.
+Debit and ATM cards, along with Automated Clearing House payments, account for a very small percentage of transactions.
+Even the use of popular credit cards has only recently begun to challenge paper’s dominance.
+Brand names used for many new electronic payment products are designed to suggest analogies to paper currency and coins.
+It is not surprising, therefore, that they sometimes evoke comparisons to an earlier period in U.S. history when private currencies circulated widely.
+We should, of course, recognize the limitations of this particular experience for drawing policy conclusions relevant to the present.
+Many of the new electronic payment products are more similar to conventional products, such as debit cards, than to currency.
+And certainly, the U.S. financial system has evolved considerably since the era of private currency.
+Thus the baseline from which innovation and experimentation is occurring is doubtless different today.
+Nonetheless, evaluations of that period can clearly add to our perspective.
+Throughout much of the 19th century, privately issued bank notes were an important form of money in our economy.
+In the pre-Civil War period, in particular, the federal government did not supply a significant portion of the nation’s currency.
+The charter of the Bank of the United States had not been renewed, and there was no central banking organization to help regulate the supply of currency.
+Notes issued by state-chartered banks were a major part of the money supply.
+This was a result, in large part, of the "free banking" movement, a period when state chartering restrictions on banks were significantly loosened.
+Free banking dominated the landscape in most of the states in the Union starting in the 1830s, and lasted until the National Banking Act was adopted in 1863.
+The free banking period was a controversial one in U.S. history.
+The traditional view has been that this period gave rise to "wildcat banking," in which banks were created simply to issue worthless notes to an unsuspecting public who would seek in vain among the "wildcats" for redemption in specie.
+Non-par clearing of bank notes, along with suspension of specie payments by banks and outright defaults, did lead to risks and inefficiencies.
+But more recently, some scholars have suggested that the problems of the free banking period were exaggerated.
+Retrospective analyses have shown, for example, that losses to bank note holders and bank failures were not out of line with other comparable periods in U.S. banking history.
+The newer research also suggests that, to a degree, the problems of free banking had little to do with banking.
+In particular, although free banking laws varied considerably by state, issuers of bank notes were often required to purchase state government bonds to back the notes they issued.
+In some cases, these securities were valued at par rather than at market prices--a structure that evidently did foster wildcat banking.
+Moreover, no matter what the regulatory valuation scheme, when the state government ran into financial problems, as many often did, both the bonds and the bank notes sank in value.
+In some cases, this contributed to bank failures.
+In the pre-Civil War period, when the general ethos of laissez faire severely discouraged government intervention in the market economy, private regulations arose in the form of a variety of institutions, which accomplished much of what we endeavor to do today with our elaborate system of government rule making and supervision.
+In particular, scholars have noted that the period saw the development of private measures to help holders of bank notes protect themselves from risk.
+As the notes were not legal tender, there was no obligation to accept the currency of a suspect bank, or to accept it at par value; accordingly, notes often were accepted and cleared at less than par.
+As a result, publications--bank note reporters--were established to provide current information on market rates for notes of different banks based on their creditworthiness, reputation, and location, as well as to identify counterfeit notes.
+Bank note brokers created a ready market for notes of different credit quality.
+In some areas, private clearinghouses were established, which provided incentives for self-regulation.
+Banks competed for reputation, and advertised high capital ratios to attract depositors.
+Capital to asset ratios in those days often exceeded one-third.
+One must keep in mind that then, as now, a significant part of safety and soundness regulations came from market forces and institutions.
+Government regulation is an add-on that tries to identify presumed market failures and, accordingly, substitute official rules to fill in the gaps.
+To be sure, much of what developed in that earlier period was primitive and often ineffectual.
+But the financial system itself was just beginning to evolve.
+From today's presumably far more sophisticated view of such matters, we may look askance at what we have often dismissed as "wildcat banking."
+But it should not escape our notice that, as the international financial system becomes ever more complex, we, in our regulatory roles, are being driven increasingly toward reliance on private market self-regulation similar to what emerged in more primitive forms in the 1850s in the United States.
+As I have said many times in the past, to continue to be effective, governments' regulatory role must increasingly assure that effective risk management systems are in place in the private sector.
+As financial systems become more complex, detailed rules and standards have become both burdensome and ineffective, if not counterproductive.
+If we wish to foster financial innovation, we must be careful not to impose rules that inhibit it.
+I am especially concerned that we not attempt to impede unduly our newest innovation, electronic money, or more generally, our increasingly broad electronic payments system.
+To develop new forms of payment, the private sector will need the flexibility to experiment, without broad interference by the government.
+The history of the Automated Clearing House provides a useful caution.
+The Federal Reserve, in partnership with the banking industry, has taken a leading role in developing the ACH system for more than twenty years.
+It was the advent of the ACH that led many economists to discuss money in a "cashless society."
+Although the ACH has allowed the automation of some important types of payments, it has never been widely used by consumers.
+This experience suggests that creating new technology and providing an interbank electronic clearing system were easy.
+But developing electronic payment products based on this technology that were more convenient and cost effective than paper, from the standpoint of both consumers and merchants, turned out to be difficult.
+In our enthusiasm over new electronic payment systems, we significantly underestimated the convenience of paper for consumers and especially the cost and difficulty of building a broad-based infrastructure to support new electronic payment systems.
+It is also possible that efforts by the government to choose and support a single technology--the ACH in this case--may have slowed efforts by the private sector to develop alternative technologies.
+In the current period of change and market uncertainty, there may be a natural temptation for us--and a natural desire by some market participants--to have the government step in and resolve this uncertainty, either through standards, regulation, or other government policies.
+In the case of electronic money and banking, the lesson from the ACH is that consumers and merchants, not governments, will ultimately determine what new products are successful in the marketplace.
+Government action can retard progress, but almost certainly cannot ensure it.
+Before we set in stone a series of rules for this emerging new medium, let us recall that, across many industries in the economy, forecasting the particular direction of innovation has proven to be especially precarious over the generations.
+As Professor Nathan Rosenberg of Stanford has pointed out, even relatively mature technologies can develop in wholly unanticipated ways.
+Our optimum financial system is one of free and broad competition that is presumed to calibrate appropriately the changing value of products to consumers so that the risk-adjusted rate of return on equity measures the success in providing what people want to buy.
+This has turned out to be broadly true in practice and supplied regulators with some sense of which products were serving consumers most effectively.
+This signal may not be so readily evident in the case of electronic money.
+The problem is seigniorage, that is, the income one obtains from being able to induce market participants to employ one's liabilities as a money.
+Such income reflects the return on interest-bearing assets that are financed by the issuance of currency, which pays no interest, or at most a below-market rate, to the holder.
+Historically when private currency was widespread, banks garnered seigniorage profits.
+This seigniorage increasingly shifted to the federal government following the National Bank Act, when the federal government imposed federal regulation on bank note issuance, taxed state bank notes, and ultimately became the sole issuer of currency.
+Today, there continue to be incentives for private businesses to recapture seigniorage from the federal government.
+Seigniorage profits are likely to be part of the business calculation for issuers of prepaid payment instruments, such as prepaid cards, as well as for traditional instruments like travelers checks.
+As a result, in the short term, it may be difficult for us to determine whether profitable and popular new products are actually efficient alternatives to official paper currency or simply a diversion of seigniorage from the government to the private sector.
+Yet we must also recognize that a diversion of seigniorage may be an inevitable byproduct of creating a more efficient retail payment system in the long run.
+The innovations being discussed today can be viewed from a very different perspective than that afforded by the financial system of the 1850s.
+Unlike the earlier period, we have a well developed and tested set of monetary and payment arrangements and a strong national currency.
+Yet, as in the earlier period, industry participants may find that self-policing is in their best interest.
+We could envisage proposals in the near future for issuers of electronic payment obligations, such as stored-value cards or "digital cash," to set up specialized issuing corporations with strong balance sheets and public credit ratings.
+Such structures have been common in other areas, for example, in the derivatives and commercial paper markets.

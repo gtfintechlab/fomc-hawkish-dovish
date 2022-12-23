@@ -1,0 +1,67 @@
+Unnamed: 0,sentence,label,score
+0,"In doing so, my colleagues and I are recognizing the considerable progress the economy has made toward our dual objectives of maximum employment and price stability.",LABEL_1,0.9945598244667053
+1,"Over the past year, 2¼ million net new jobs have been created, unemployment has fallen further, and inflation has moved closer to our longer-run goal of 2 percent.",LABEL_1,0.6623037457466125
+2,"We expect the economy will continue to perform well, with the job market strengthening further and inflation rising to 2 percent over the next couple of years.",LABEL_2,0.997962236404419
+3,"I’ll have more to say about monetary policy shortly, but first I’ll review recent economic developments and the outlook.",LABEL_2,0.9997612833976746
+4,Economic growth has picked up since the middle of the year.,LABEL_1,0.9981854557991028
+5,"The unemployment rate fell to 4.6 percent in November, the lowest level since 2007, prior to the recession.",LABEL_0,0.9058798551559448
+6,"Turning to inflation, the 12-month change in the price index for personal consumption expenditures was nearly 1½ percent in October, still short of our 2 percent objective but up more than a percentage point from a year earlier.",LABEL_1,0.9972915053367615
+7,Core inflation—which excludes energy and food prices that tend to be more volatile than other prices—has risen to 1¾ percent.,LABEL_1,0.9708187580108643
+8,"As the transitory influences of earlier declines in energy prices and prices of imports continue to fade and as the job market strengthens further, we expect overall inflation to rise to 2 percent over the next couple of years.",LABEL_2,0.9441004395484924
+9,Our inflation outlook rests importantly on our judgment that longer-run inflation expectations remain reasonably well anchored.,LABEL_2,0.9879270195960999
+10,Market-based measures of inflation compensation have moved up considerably but are still low.,LABEL_0,0.9546183943748474
+11,"Survey-based measures of longer-run inflation expectations are, on balance, little changed.",LABEL_2,0.9998231530189514
+12,"Of course, we remain committed to our 2 percent inflation objective and will continue to carefully monitor actual and expected progress toward this goal.",LABEL_2,0.9960212111473083
+13,"As always, they conditioned their projections on their own individual views of appropriate monetary policy, which, in turn, depend on each participant’s assessment of the multitude of factors that shape the outlook.",LABEL_2,0.9998189806938171
+14,"The median projection for growth of inflation-adjusted gross domestic product rises from 1.9 percent this year to 2.1 percent in 2017 and stays close to 2 percent in 2018 and 2019, slightly above its estimated longer-run rate.",LABEL_1,0.9430509805679321
+15,The median projection for the unemployment rate stands at 4.7 percent in the fourth quarter of this year.,LABEL_2,0.6092437505722046
+16,"Over the next three years, the median unemployment rate runs at 4.5 percent, modestly below the median estimate of its longer-run normal rate.",LABEL_2,0.9978494644165039
+17,"Finally, the median inflation projection is 1.5 percent this year and rises to 1.9 percent next year and 2 percent in 2018 and 2019.",LABEL_1,0.9501359462738037
+18,"Overall, these economic projections are very similar to those made in September: GDP growth is a touch stronger; the unemployment rate is a shade lower; and inflation, beyond this year, is unchanged.",LABEL_1,0.731468141078949
+19,"Returning to monetary policy, the Committee judged that a modest increase in the federal funds rate is appropriate in light of the solid progress we have seen toward our goals of maximum employment and 2 percent inflation.",LABEL_2,0.8608942627906799
+20,"That’s based on our view that the neutral nominal federal funds rate—that is, the interest rate that is neither expansionary nor contractionary and keeps the economy operating on an even keel—is currently quite low by historical standards.",LABEL_2,0.9997774958610535
+21,This view is consistent with participants’ projections of appropriate monetary policy.,LABEL_1,0.9995668530464172
+22,"Moreover, changes in fiscal policy are only one of the many factors that can influence the outlook and the appropriate course of monetary policy.",LABEL_0,0.9822689294815063
+23,"In making our policy decisions, we will continue—as always—to assess economic conditions relative to our objectives of maximum employment and 2 percent inflation.",LABEL_2,0.9997747540473938
+24,"The unemployment rate is perhaps a touch, as I said, a touch lower than previously; you’ve seen some modest downward revisions in that—in that projection.",LABEL_2,0.999798595905304
+25,"For this year, there was a slight upward revision to inflation, and some of the participants, but not all of the participants, did incorporate some assumption of a change in fiscal policy into their projections.",LABEL_2,0.9995088577270508
+26,"So the statement that I made, that it would be useful to increase the productive capacity of the economy, reflects my concern that productivity growth has been very low.",LABEL_0,0.9947751760482788
+27,"Policies that would improve productivity growth would include policy changes that enhance education, training, workforce development; policies that spur either private or public investment to enhance the quality of capital in the United States that workers have to work with; and policies that spur innovation or competition or the formation of new firms.",LABEL_1,0.8803703784942627
+28,"I—you know, it’s something I really just can’t generalize about because, while it would be desirable to have tax policies that do increase the productive capacity of the economy, an increase in the pace of productivity change is one of the factors that does affect the economy’s neutral rate.",LABEL_0,0.9532724618911743
+29,A boost to productivity could spur investment.,LABEL_2,0.9994310736656189
+30,"As we have been saying, we estimate that the value of the neutral federal funds rate is quite low—has—and one of the reasons for that is slow productivity growth.",LABEL_2,0.9990636706352234
+31,"It could boost very slightly some short-term interest rates that could have an effect on borrowing costs that are linked to them, but, overall, I think that households and firms will see very modest changes from this decision.",LABEL_0,0.7754565477371216
+32,"But, certainly, it’s important for households and businesses to understand that my colleagues and I have judged the course of the U.S. economy to be strong, that we’re making progress toward our inflation and unemployment goals.",LABEL_0,0.9946255087852478
+33,Remember that inflation is still below our objective.,LABEL_1,0.6352302432060242
+34,The Committee projects—at least the median projection shows a very modest undershoot of estimates of the longer-run normal rate of unemployment.,LABEL_1,0.9339836835861206
+35,"The median unemployment rate here gets down to 4½ percent, which is just a few tenths below the estimated longer-run normal level of the unemployment rate.",LABEL_0,0.9948199391365051
+36,And we think that that’s appropriate because we want inflation to rise to our 2 percent objective in a timely fashion.,LABEL_0,0.499245822429657
+37,So there is not a substantial undershoot of the natural rate of unemployment.,LABEL_2,0.8767760396003723
+38,"We’re not seeing evidence in labor markets of very substantial upward pressures on labor that could signify extreme shortages of labor that could propel inflation higher in a very rapid way, and inflation is still operating below our objective.",LABEL_2,0.5088801383972168
+39,"Well, I believe my predecessor and I called for fiscal stimulus when the unemployment rate was substantially higher than it is now.",LABEL_2,0.7483738660812378
+40,"So, with a 4.6 percent unemployment and a solid labor market, there may be some additional slack in labor markets, but I would judge that the degree of slack has diminished.",LABEL_0,0.9929090738296509
+41,So I would say at this point that fiscal policy is not obviously needed to provide stimulus to help us get back to full employment.,LABEL_0,0.9991717338562012
+42,"I’ve continued to highlight the importance of spurring productivity growth, that I think that would be something that’s beneficial for the economy.",LABEL_2,0.6126980185508728
+43,"The under—unemployment rate is projected to modestly undershoot, for several years, levels that are deemed to be normal in the longer run.",LABEL_0,0.9925536513328552
+44,That’s an appropriate policy purely on the grounds that inflation is running below our objective.,LABEL_0,0.9876970648765564
+45,"We have been given the independence by Congress to make decisions about monetary policy in pursuit of our dual-mandate objectives of maximum employment and inflation, and that is what I intend to stay focused on.",LABEL_2,0.7257536053657532
+46,"And in so far as that will affect monetary policy, of course we will have to factor those policies along with many other things, including the global environment and oil prices and other matters.",LABEL_0,0.9944549202919006
+47,"The changes—the financial market changes that you described, particularly the increase in stock prices, the increase in longer-term rates, and the strengthening of the dollar, suggest that many market participants anticipate expansionary fiscal policies that would raise interest rates somewhat in the United States relative to abroad and would cause a strengthening in the dollar.",LABEL_1,0.9164952635765076
+48,"But market participants were uncertain too, and I would expect changes in our understanding of what is going to happen to also affect market prices in financial markets as we move forward.",LABEL_2,0.9998165965080261
+49,My colleagues write down their best estimates of a normal longer-run unemployment rate.,LABEL_0,0.9970327615737915
+50,"The median stands at 4.8 percent, so we’re close, possibly—the unemployment rate right now is ever so slightly below, but in the neighborhood.",LABEL_2,0.9996799230575562
+51,"If we look at larger, broader measures of slack, like the U-6 measure that includes involuntary part-time employment and those who are marginally attached to the labor force, they’re slightly higher than pre-recession levels, but they’ve come down considerably.",LABEL_2,0.9998243451118469
+52,The labor market was in the vicinity of maximum employment.,LABEL_2,0.9911122918128967
+53,"So, you know, I really don’t want to comment on the level of stock prices.",LABEL_0,0.8153107166290283
+54,"They may have been boosted by expectations about tax policy; possible cuts in corporate tax rates that have been much discussed; or by expectations about growth, possible reductions, and downside risk to the economy.",LABEL_1,0.9662883281707764
+55,"But, you know, these are things that market participants are trying to view, along with the likely path of—paths of interest rates, and I think all of that factors into movements and stock valuations.",LABEL_2,0.9998663663864136
+56,"Well, I think rates of return in the stock market relative to—remember that the level of interest rates is low, and, taking that into account, I believe it’s fair to say that they remain within normal ranges.",LABEL_0,0.9955184459686279
+57,"One of the things we’ve learned from our financial crisis and from a series of financial crises in history and around the globe is that, very commonly, when the economy takes a hit and falls into a recession, that productivity doesn’t pick up to pre-recession levels and that there looks like there is a permanent hit to the path of potential output for the economy, which is called “hysteresis.” And I raised the question as to whether or not this might operate in the opposite direction as well.",LABEL_2,0.9998132586479187
+58,"And, as I indicated, I think the path that you see—that the Committee has laid out in a tentative way that involves a modest degree of undershooting of normal longer-run levels of unemployment going down to around 4½ percent would remain for a couple of years—might provide some insight.",LABEL_2,0.9985529780387878
+59,I think anyone looking at incoming data can clearly see that we have enjoyed further progress both in the labor market and on inflation.,LABEL_2,0.9937951564788818
+60,We’ve had some recovery in manufacturing employment as the economy’s recovered.,LABEL_0,0.9900687336921692
+61,"So, to some extent, manufacturing employment depends on the progress of the economy, and we have seen some recovery.",LABEL_1,0.9977679252624512
+62,"Over a long period of time, technological change is something that has been important in reducing manufacturing employment absolutely and as a share of jobs in the economy.",LABEL_2,0.9375647306442261
+63,"We want to feel that if the economy were to suffer an adverse shock, that we have some scope through traditional means of interest rate cuts to be able to respond to that.",LABEL_2,0.995781660079956
+64,"Now, they’re ones that the Fed is not well positioned—I think our policies can affect the general level of economic activity and slack in the labor market, the level—the rate of inflation, which we focus on.",LABEL_0,0.8122631907463074
+65,"For example, the African American unemployment rate at this point is now rough—about back to 2007 levels as well.",LABEL_0,0.9975111484527588

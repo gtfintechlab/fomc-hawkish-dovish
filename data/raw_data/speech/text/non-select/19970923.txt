@@ -1,0 +1,117 @@
+A great deal is going on in the payments industry and, of course, the Federal Reserve is squarely in the middle of the action.
+You are, too, and we all need to work together to shape the future of our payments systems to ensure that they are as strong as possible.
+Understanding where we have been and where we are today is an essential foundation for addressing where we wish to go in the future.
+Accordingly, I will briefly review the history of the role of the Federal Reserve in the payments system, share with you in some detail our ongoing review of that role, and outline some possible directions for the future.
+All individuals, businesses, and government entities in this country rely upon the smooth functioning of the payments system to purchase goods, pay for services, receive payments, and make investments.
+Today, all of us can be confident that the payments we initiate will be satisfactorily completed.
+Tomorrow, technology and regulatory changes will alter the face of the payments system.
+Interstate banking, which spread nearly nationwide this past June, consolidation in the banking industry, legislation that mandates that most government payments be made electronically by 1999, the opportunities provided by the Internet, and other technological developments, will also contribute to the continued evolution of payment options, payment choices, and payment needs.
+We, at the Federal Reserve, have been studying what our role in that evolution should be and how best to ensure that all users of payment services will continue to have confidence that their payments will be completed reliably and efficiently and that all banks will have access to payment services on a fair and equitable basis.
+Before I address the Federal Reserve's future role in the payments system, I would like to review how and why the Federal Reserve came to play its current role.
+In the 50 years following the Civil War, a series of severe financial crises swept the country, disrupting and undermining the national economy.
+During the financial panic of 1907 cash payments were largely suspended throughout the country because many banks and clearinghouses refused to clear checks drawn on certain other banks.
+Otherwise solvent banks failed.
+The 1907 crisis and the lessons of failing to ensure a stable national economy were still fresh in the minds of Congress when they created the Federal Reserve System.
+Thus, when Congress passed the Federal Reserve Act in 1913, it directed the Federal Reserve to provide an elastic currency--that is, a supply of currency in the quantities demanded by the public--and gave it the authority to establish a nationwide check collection system.
+In 1917, Congress amended the Federal Reserve Act to prohibit banks from charging the Federal Reserve Banks presentment fees.
+These Congressional actions launched the Federal Reserve as an active participant in the payments system.
+Initially, the Reserve Banks fulfilled their role by providing check collection services and permitting member banks to issue transfer drafts to make payments anywhere in the country, which were paid in immediately available funds by any Reserve Bank.
+Gradually, as needs were identified and as technologies developed, the Reserve Banks added new payments services, beginning with the Fedwire funds transfer system in 1918, the book-entry securities service in 1968, and, finally, the automated clearing house (ACH) in the early 1970s.
+For much of the time, the Reserve Banks provided payment services to member banks without charge other than required reserves, and nonmember banks had access to these services only through member banks.
+Everything changed in 1980, when Congress enacted the Monetary Control Act (MCA).
+A primary purpose of the MCA was to promote an efficient payments system by encouraging competition between the Federal Reserve and private-sector providers of payment services.
+The Act requires the Federal Reserve Banks to charge fees for their payment services, which must, over the long run, be set to recover all direct and indirect costs of providing the services.
+In addition, the MCA requires the Federal Reserve Banks to recover imputed costs, such as taxes and the cost of capital, and imputed profits that would have been earned if the services were provided by a private firm.
+Importantly, the MCA also extended reserve requirements to nonmember banks and granted all banks equal access to the Fed's payment services.
+Congress further expanded the role of the Federal Reserve in the payments system in 1987 when it enacted the Expedited Funds Availability Act (EFAA).
+For the first time, this act gave the Fed the authority to regulate check payments that were not processed by the Federal Reserve Banks.
+Thus, the EFAA significantly broadened the System's ability to ensure that the nation's check collection system is efficient and accessible.
+It also limited the time that a bank may hold funds before making them available to customers for withdrawal and directed the Federal Reserve to improve the process used to return unpaid checks to banks of first deposit.
+Thus, Congress has directed the Federal Reserve to ensure that the payments system in this country is efficient and effective, that it supports the economic needs of its citizens, and that it is available to all banks so that they can provide for the payment needs of their customers--the end users of the payments system.
+To achieve these goals, Congress cast the Federal Reserve in the often difficult position of providing payment services, thereby competing with some of the institutions it regulates, and regulating the payments system in which it is an active participant.
+We are very mindful of these sometimes conflicting responsibilities and take great pains to ensure that each responsibility is addressed fairly and equitably.
+As service providers, the Federal Reserve Banks strive to operate in an efficient and cost effective way.
+The Reserve Banks continually upgrade their computer and telecommunications systems so that increasing proportions of funds, book-entry, and ACH transactions can be processed without human intervention and, therefore, more accurately, rapidly, and cost effectively.
+Striving to serve their customers, the Reserve Banks offer a variety of products to meet the differing business requirements of large, mid-sized, and small institutions with widely divergent processing capabilities.
+For example, banks may obtain payment services from the Federal Reserve Banks using personal computers connected via switched, dial-in communications links or they may connect their mainframe computers to those in the Federal Reserve via dedicated high-speed telecommunications lines.
+Similarly, banks--typically the larger ones--may select check deposit products that require little sorting by the Reserve Banks and they pay relatively low fees.
+Smaller banks may deposit checks in ways that meet their relatively greater sorting needs, thereby incurring higher fees, and many banks use a mix of these products.
+Importantly, because the Reserve Banks must compete for customers, they must provide services that meet or exceed the quality of other providers and must ensure that internal operations are efficient.
+As a regulator, the Federal Reserve has taken steps to improve the efficiency and effectiveness of the payments system, often with the full awareness that it was moving contrary to its own narrow competitive interests as a service provider.
+The Expedited Funds Availability Act of 1987, which was implemented through Regulation CC, included provisions designed to speed the processing of dishonored checks.
+In developing procedures to implement those provisions, the Federal Reserve, working with the banking industry, created a means to process returned checks on high speed equipment, which shortened return times by reducing the number of banks that might handle dishonored checks.
+More recently, in 1994, the Board modified Regulation CC to implement the same-day settlement rule, which broadened banks' ability to present checks to collecting banks directly and receive same-day funds in settlement.
+Direct presentments reduced the role of intermediaries, including the Reserve Banks, but it improved the efficiency of the payments system.
+As expected, the volume of checks collected through Reserve Banks has declined.
+This summarizes the history of our involvement in payments to date, and the situation on the surface looks quite stable.
+Why, then, is the Federal Reserve undertaking a fundamental review of its role?
+There are several reasons.
+First, as I have noted, the banking industry is in the midst of significant change.
+These changes are primarily evolutionary -- driven by advances in technology, by industry consolidation, and by regulations that now permit interstate branch banking.
+They do, however, provide the opportunity for revolutionary responses that may, with time, dramatically alter the face of the payments system.
+We need to understand and help to beneficially shape these forces.
+Second, from time to time, and certainly in a period of change such as this one, it is appropriate for any organization to reassess its mission and how it fulfills that mission.
+As you know, the United States remains far more dependent on paper checks for making payments than any other industrialized country, even though electronic transactions appear to be more efficient and less costly.
+As you also know, the Federal Reserve is the only institution that presents checks to all depository institutions nationwide.
+We suspect that industry consolidation and electronic technology may change the impact of our nationwide reach, but exactly how and when that might happen, and what would be appropriate responses, are not clear.
+Careful self-scrutiny is clearly timely.
+Finally, there are significant differences of opinion in the industry, and our society more generally, as to the appropriate payments role of the Federal Reserve.
+As a public service entity, the Federal Reserve should address these concerns.
+In light of all this, in October 1996, Chairman Greenspan asked me to serve on a committee that is led by Vice Chair Rivlin to examine the Federal Reserve's role in the payments system.
+The committee has been at work all year, and we expect to complete our task shortly.
+Let me now outline what we have done, how we have gone about it, and where it is leading us.
+To begin the study, the committee reviewed the general environment in which payments services are offered.
+The committee analyzed the economic factors influencing the supply of and demand for wholesale services--that is, for the large-value and securities transfers that support the interbank market--and retail services, primarily small dollar payments.
+We studied current trends in the financial services industry, including the development of new and emerging payment services, and our role in those markets.
+And, we examined how the Federal Reserve's participation in the payments system affects our ability to implement monetary policy decisions and to regulate and supervise banks.
+Based on its internal review, the committee decided to focus its study on the Federal Reserve Banks' retail payment services--check and ACH.
+The committee excluded the wholesale systems because (1) these systems are efficient and effective now, (2) they are an important vehicle for controlling systemic risk, requiring very close monitoring, (3) they are an integral part in implementing monetary policy decisions, (4) they play an important role in providing every day liquidity to financial markets, and (5) they provide certainty to payments system participants in times of financial stress.
+It is worth noting that most central banks in major economies, like the Federal Reserve, provide large-value funds transfer services to banks and many also provide some form of securities settlement and safekeeping services.
+This is not to imply that we are complacently satisfied with all aspects of our country's wholesale payment arrangements, but rather that we do not feel that a review of the Federal Reserve's role in them is needed at this time.
+The committee felt that it was critically important to this study that we draw on the insights and expertise of the banking industry and other payments system participants.
+We wanted to understand fully the dynamics of the payments system and the changes that the industry envisions over the next five to ten years, as well as the reasoning behind the varying views about the Federal Reserve's payments activities.
+Thus, the committee developed a series of hypothetical scenarios for Federal Reserve participation in the retail payments system that we discussed with industry representatives in a series of forums that were conducted last May and June.
+Some of you may have attended one of those forums.
+In total, we held ten national and fifty-two regional forums.
+Attendees represented a diverse group of payments system participants, including representatives from large and small banks, private payments system providers, corporations, trade associations, academicians, consultants, and emerging payments system service providers.
+In total, over 500 representatives from 473 organizations participated.
+To obtain the thoughts of these payments system participants, the Committee developed five hypothetical scenarios for the Federal Reserve's future role in the check and ACH payment services.
+These scenarios were not developed specifically as policy options but rather were intended solely to stimulate discussion.
+Because many of you are familiar with these scenarios, I will review them only briefly.
+In two scenarios the Federal Reserve would withdraw from participation in the check and ACH markets and in the remaining three scenarios, the Federal Reserve would continue to provide those services.
+In the first withdrawal scenario, the Federal Reserve would announce its intention to liquidate its check and ACH services, although we would take steps to provide for a smooth transition for our customers.
+In the second, the Federal Reserve envisioned selling its check and ACH services to a private-sector entity that would retain no privileged ties to the Federal Reserve.
+The three scenarios under which the Federal Reserve would continue to provide retail payment services to banks varied considerably.
+These scenarios envisioned future roles in which the Federal Reserve would (1) merely ensure that all banks had access to our existing check and ACH services, which many saw as a de facto exit strategy, (2) use our operational presence to stimulate development of more cost-effective and efficient payment methods, or (3) take aggressive steps to expedite the movement to an electronic-based retail payments system.
+To stimulate discussion about each scenario and its effect on the provision of retail payments, several key questions were introduced.
+For example, we asked what would happen to the prices and availability of retail payments in times of relative economic stability and in times of financial stress, such as in the Texas banking crisis.
+Another question asked was what participants thought would be the best way to transform our largely paper-based system to a more electronic one.
+What have we heard?
+As you would guess, there are various perspectives on the fundamental question of the appropriate role for the Federal Reserve in the payments system.
+Some believe that it is inappropriate for the Federal Reserve to provide payment services and that the private sector could provide essentially the same services at a lower cost and perhaps greater efficiency.
+Many others believe that, by providing payment services, the Federal Reserve ensures that all payments system participants will be able to access competitively priced payment services.
+While some believe that it is inappropriate for the Federal Reserve to regulate the industry in which it competes, others believe that by providing payment services, the Federal Reserve gains operational experience that makes it a better regulator.
+More specifically, participants had differing views on various aspects of these issues and the consequences of each scenario.
+Many were concerned that, if the Federal Reserve withdrew from these services, it would result in short-term service disruptions with few long-term benefits.
+Many indicated that prices for retail services would rise, and smaller banks and remotely located banks were concerned that they would have difficulty obtaining check and ACH services.
+Concern was expressed that without an operational presence, the Federal Reserve would have to regulate the retail payments system more extensively to ensure that all banks had access to the services.
+While, not unanimous, there was strong support from institutions of all sizes for continued Federal Reserve provision of retail payment services.
+Some stated that because check payments would continue to dominate the U.S. payments system for the foreseeable future, the Federal Reserve should maintain its check services while consumers adapt to the use of electronic payments mechanisms.
+Others indicated that by establishing a more aggressive operational presence in the check and ACH services, the Federal Reserve could undertake initiatives to promote efficiency, in general, and to encourage the use of electronics to collect checks, in particular.
+Some indicated that private-sector service providers would prefer to invest in developing new markets and devising new technologies rather than in expanding their capacity to collect paper checks.
+They also indicated that they face significant resource demands to address other operational issues, such as the federal government's initiative to deliver almost all payments electronically by 1999 and preparation for the year 2000.
+No matter what their view about the Federal Reserve's continued presence in the retail payments market, virtually all participants believed that the Federal Reserve could play an important role in educating consumers about the benefits of electronic payments.
+While the committee has not reached detailed final conclusions, it is clear that the Federal Reserve can best ensure the safety and effectiveness of the Nation's payments system by continuing to provide its existing retail payment services for check and ACH, and we will so recommend.
+We agree with a recurring theme at the forums that there would likely be significant disruptions in the payments system if the Federal Reserve withdrew, with little net societal benefit.
+Currently, the banking industry is trying to grapple with a variety of technological issues, an effort that is requiring a great deal of resources.
+Banks are adopting the latest technological innovations to provide their customers with new and improved services and preparing to be century date change compliant.
+By continuing to provide payment services, the Federal Reserve would enable banks and service providers to continue to focus on these future oriented efforts.
+This would be far more productive, for example, than attempting to restructure an efficient, but dated, paper-based check collection system.
+But, as yet, the Committee has not decided on its specific recommendations for Federal Reserve involvement in retail payment services.
+Many issues identified and needing resolution are still "open."
+They include considering whether the Federal Reserve should assume a very aggressive operational and regulatory posture to convert all payments to electronics and whether we should launch an intensive public education campaign to inform consumers of the benefits of electronic transactions.
+We are also considering suggestions that we establish a regulatory regime that encourages electronic payments and discourages paper, that the Federal Reserve take the lead in establishing standards for electronic payments, and that we work toward a revised legal structure more suitable to an electronic environment.
+Operationally, the Federal Reserve might offer banks new products that take advantage of the latest technology and assist in their efforts to make their customers more comfortable with electronics.
+Also the Federal Reserve could conceivably open its secure communications to banks that want to offer their own electronic products.
+To summarize, wholesale payments are being made, at least for now, in a relatively settled regime.
+But, as we have been discussing, there is great activity in the retail arena.

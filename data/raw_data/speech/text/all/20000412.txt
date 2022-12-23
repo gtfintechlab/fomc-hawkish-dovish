@@ -1,0 +1,178 @@
+In recent weeks, I have heard more than the usual number of questions, so the only problem I had in developing the themes for this paper was deciding which ones to focus on.
+I chose the following set: Why has the Federal Reserve tightened monetary policy now, given that economic growth has been robust for the last four years and there is no evidence that core inflation is beginning to rise?
+How could an increase in the underlying rate of productivity growth--an event that would appear to augur an increase in aggregate supply relative to aggregate demand--raise concerns about overheating and higher inflation?
+Finally, does the fact that the five recent tightenings have resulted in very little evidence of slowing in the growth of demand indicate that monetary policy is less effective today than it used to be and, if so, why?
+Before proceeding, let me remind you that the interpretation of the economic outlook and the judgments about the strategy of monetary policy I am presenting here are my own views.
+I am not speaking for the Board of Governors or the Federal Open Market Committee.
+The Rationale for Monetary Policy Tightening: Why Now?
+The rationale for monetary policy tightening is, in my judgment, quite straightforward and flows from two assessments about the current state of the economy.
+First, aggregate demand has been growing faster than potential aggregate supply, even allowing for upward revisions to aggregate supply growth as a result of an acceleration in productivity.
+Second, the level of output is already at least at potential (in other words, the economy is already at least at full employment) and, quite possibly, the economy is operating beyond the point of sustainable capacity.
+In a moment, I'll lay out some evidence for these claims.
+But the key point is that, even though the rate of increase in nominal wages and core measures of inflation do not yet signal that inflation pressures are building, the balance of aggregate demand and sustainable supply today and the distinct possibility that labor and product markets will tighten further suggest an unacceptable risk of overheating and, therefore, higher inflation in the future.
+The move to tighter monetary policy, beginning in mid-1999, seeks to rebalance aggregate demand and aggregate supply.
+That promises to reduce the swing in interest rates that would otherwise be necessary later on and provides the best opportunity for containing inflation, extending the expansion, and yielding an overall more stable and more favorable outcome.
+There should be no doubt that output has indeed been increasing at a faster rate than capacity.
+The evidence is the consistent decline in the unemployment rate.
+It has declined by about 0.4 percentage point per year over the last four years, with the decline being at least 0.3 percentage point each year.
+Based on historical regularities, this suggests that output has been growing about ¾ to 1 percentage point faster than capacity, on average, over this interval.
+In a recent talk, I reviewed estimates of trend growth in potential output from surveys of professional forecasters and from model-based forecasting firms.
+These estimates all fell short of the more than 4 percent average growth rate of real GDP over the past four years and the 4½ percent rate over the past two years.
+In the absence of an appropriate degree of tightening, I believe that this imbalance in the growth of demand and supply would persist.
+There is somewhat greater uncertainty about whether the economy is already operating beyond full employment.
+Nevertheless, my survey also found that estimates of the nonaccelerating-inflation rate of unemployment (NAIRU) were consistently above the prevailing 4.1 percent unemployment rate, with estimates of the NAIRU centered close to 5 percent.
+To date, there is little evidence that the rate of increase in unit labor costs or core measures of consumer price inflation are rising.
+The core Consumer Price Index (CPI), for example, has advanced at a 2.1 percent rate over the past 12 months, only slightly above the lowest reading for this expansion.
+This makes clear that the recent tightening of monetary policy is pre-emptive--an attempt to prevent an unacceptable rise in core inflation--not a reaction to direct evidence of rising inflation.
+Given the lags in monetary policy, such pre-emptive policy action is often essential to achieve favorable outcomes.
+Monetary policy has, nevertheless, been adapting to heightened uncertainty about the rate of growth in potential and the size of the gap between actual and potential output.
+Policy has been somewhat more gradualist, in my view, somewhat less pre-emptive than it otherwise might have been, and somewhat more willing to tolerate increases in output relative to consensus estimates of potential.
+But because there are still limits to how fast the economy can grow without further straining labor markets and to how low the unemployment rate can go without triggering higher inflation, there are limits to monetary policy's tolerance for above-trend growth and for further labor market tightening.
+Still, the question remains: Why tighten now?
+The economy has been growing above trend for four years.
+The unemployment rate has been falling for the last four years.
+Core inflation remains well contained.
+In my view, three developments suggest a greater risk of rising inflation going forward and hence justify the timing of the recent tightening moves.
+First, the cumulative decline in the unemployment rate has, at the very least, pushed the economy closer to and, in my view, likely beyond the point of full employment.
+The immediate threat of overheating from continued above-trend growth is, therefore, much greater today than previously.
+Second, the growth in demand moved into a still higher gear in the second half of 1999 and recent data suggest considerable momentum in domestic demand in the first half of 2000, at the same time that the external drag from declining net exports is expected to diminish.
+Third, some beneficial influences on inflation are abating or reversing: The effects of the earlier favorable relative-price shocks--including the decline in non-oil import prices and the slowdown in health care costs--are now dissipating or reversing; the temporary disinflationary effect of the increase in trend productivity growth is likely to diminish, a point I will elaborate on shortly; and the recent sharp rebound in oil prices is now pushing overall inflation higher.
+These developments give a sense of urgency to at least slowing the economy to trend growth and encourage increased vigilance in monitoring cost and price developments for signs of rising inflation.
+Productivity Shocks: Can They Be Inflationary?
+It has become abundantly clear that the star of the last several years has been the remarkable rebound in productivity growth.
+The rebound appears to be well beyond what could be explained by cyclical developments, although it is hard to judge how sustainable it will turn out to be.
+Because higher growth of productivity translates mechanically into higher growth in potential output, it might seem that, by raising aggregate supply relative to aggregate demand, higher productivity growth would make the economy less susceptible to higher inflation.
+So some have been puzzled by the Federal Reserve's appreciation of the importance of the increase in productivity growth, on the one hand, and the apparent concern with the threat of higher inflation, on the other hand.
+Some have even wondered whether the Federal Reserve believes that a higher productivity trend might actually be an adverse as opposed to a favorable development.
+That would clearly be nonsense.
+Higher productivity is unambiguously good.
+But the monetary policy that accompanies a productivity shock, on the other hand, could be good or bad.
+We are trying to combine the productivity shock with a monetary policy that reaps the full benefits of higher productivity growth and avoids turning what should be a favorable event into one that threatens higher inflation and greater economic instability over the longer haul.
+Effects on Aggregate Demand, Inflation, and Real Interest Rates To conduct such a monetary policy, we must recognize that higher productivity growth has at least three major effects on the macro economy, in addition to its effect on sustainable growth rates.
+It affects aggregate demand, inflation, and equilibrium real interest rates.
+Productivity and aggregate demand.
+Higher productivity growth has apparently increased aggregate demand through at least three channels.
+First, the higher trend growth in productivity likely reflects, in part, technological innovations that have, in turn, resulted in new profitable investment opportunities.
+In addition, this new technology can be spread through the economy by being embedded in or by being used in conjunction with new capital goods.
+In this way higher productivity growth may spur an investment boom.
+This is consistent with the extraordinary surge in investment in recent years, as well as the concentration of investment spending in computer and related high-technology equipment.
+Second, the perceived enhancement in profit opportunities has contributed to an increase in business earnings expectations and, hence, higher equity prices.
+This, in turn, has boosted household wealth and increased consumer spending relative to disposable income.
+Higher equity prices have also reduced the cost of capital and reinforced the investment boom.
+Finally, to the extent that households expect higher productivity growth to continue, their perceptions of the resulting higher path for future real compensation would further boost consumer spending today.
+The effect of increased wealth and expected future real compensation on holdings of consumer durables and other tangible assets today lead to accelerator-type effects that can be especially large contributors to aggregate demand.
+This is consistent with the exceptional strength in housing and in light vehicle sales in this expansion.
+Potentially, these three forces are powerful enough to cause the growth in aggregate demand initially to outpace the growth in aggregate supply, in the absence of any offsetting tightening in the stance of monetary policy.
+In fact, as I noted earlier, it appears that the growth in aggregate demand has been exceeding the upward-revised estimate of the growth in aggregate supply over the last few years.
+The linkages I have described from higher productivity growth to more robust growth in aggregate demand are one possible explanation for this imbalance.
+But this explanation is less important than the conclusion that we are on the mark in perceiving an imbalance in the growth rates of demand and supply.
+The FRB-US model, developed at the Board of Governors, gives some credibility to the linkages that I have highlighted between productivity and aggregate demand.
+When the assumed productivity trend is raised in this model, the near-term effect on aggregate demand exceeds the initial effect on aggregate supply, as long as households and firms recognize that there has been a sustained shift in growth.
+The temporary disinflationary effect of an unexpected increase in the productivity trend.
+In the long run, inflation is a monetary phenomenon and independent of the rate of productivity growth.
+In the short-run, on the other hand, an unexpected increase in trend productivity growth can yield a disinflationary bonus for a while.
+The source of the disinflationary effect in the last few years has clearly not been that aggregate supply is growing faster than aggregate demand.
+Instead the source, in my view, is an asymmetric response of nominal wages and prices to the productivity shock.
+If wages adjust more slowly to an unexpected increase in productivity growth than prices, the initial effect of higher productivity growth will be a decline in the growth of unit labor costs and in price inflation.
+In my judgment, econometric evidence supports this notion of asymmetry.
+For a time, lower price increases feed back into reduced pressure on nominal wages.
+But once wages fully respond to the higher productivity trend--a process that appears to take several years to complete--the disinflationary effect of the productivity shock will dissipate.
+In the interim, for any given unemployment rate, inflation will be lower than otherwise, and, as a result, the economy can operate at a lower unemployment rate without adverse inflationary consequences for a period of time.
+Therefore, despite a decline in the unemployment rate, there may be little urgency for an increase in nominal interest rates.
+Productivity and the equilibrium real interest rate.
+An increase in the trend rate of productivity growth will also generally result in a higher equilibrium real interest rate.
+Classical economic theory holds that the economy's equilibrium real interest rate is determined by the interaction of "productivity" and "thrift."
+That is, the equilibrium real interest rate at full employment has to balance saving (driven by the thrift motive) and investment (responding to the productivity and, hence, profitability of capital).
+Higher productivity growth increases the profitability of investment, increasing the demand for investment, and, hence, the equilibrium real interest rate that balances saving and investment at full employment.
+This is really an implication of the earlier discussion of the effect of a productivity shock on aggregate demand relative to aggregate supply.
+A variety of models suggest that, under reasonable assumptions, the increase in the equilibrium real interest rate is at least one-for-one with the pick-up in the economy's growth rate.
+A useful way of understanding the effect of productivity on the balance between aggregate demand and supply is in terms of the relationship between "natural" and "market" rates--a relationship Knut Wicksell put at the center of his analysis.
+The natural rate is the equilibrium real interest rate that I described above.
+The market rate is the actual (real) interest rate determined in financial markets and affected by monetary policy as well as by the balance between saving and investment.
+When the market rate is below the natural rate, financial conditions are relatively stimulative and aggregate demand will be boosted to a level above potential aggregate supply.
+This analysis makes clear that the effect of a productivity shock on the balance between aggregate demand and supply depends critically on the monetary policy that accompanies it.
+Of course, to keep market rates in line with the natural rate, we must make some judgments about the degree to which the equilibrium real interest rate is affected by an increase in productivity growth.
+This depends on, in addition to the size of the increment in productivity growth, a number of other considerations.
+For example, the change in the equilibrium real interest rate will also depend on the prevailing fiscal policy.
+The result that the equilibrium real rate rises is typically derived under the assumption that tax rates are constant and government spending remains a fixed proportion to output.
+If nominal spending or even real government spending is fixed, on the other hand, a productivity shock increases the government budget surplus relative to GDP, at least partially offsetting the rise in the equilibrium real interest rate.
+The same principle holds with respect to foreign output.
+The full effect on the equilibrium real interest rate holds when the productivity shock symmetrically affects foreign as well as domestic output growth.
+If the productivity shock raises the growth rate only or predominantly in the United States, the resulting international capital flows to the United States in search of higher expected rates of return will damp the effect of the productivity shock on our equilibrium real interest rate.
+As a result of the variety of effects on the equilibrium real interest rate in this episode, it takes some careful analysis to assess whether and how much the real equilibrium interest rate may have increased.
+The observed strength of aggregate demand relative to aggregate supply, however, does importantly reinforce the judgment that the natural rate has indeed increased.
+Monetary Policy and Productivity Shocks The effect of a productivity shock on the balance between aggregate demand and aggregate supply (or equivalently on the balance between natural and market rates) depends importantly on the conduct of monetary policy.
+Therefore, whether inflation turns out to be higher, lower, or unchanged in response to the productivity shock--especially once the initial disinflationary impetus dissipates--depends on the conduct of monetary policy and should not be attributed to the productivity shock itself.
+In simulations with the FRB-US model, for example, aggregate demand increases faster than aggregate supply if the nominal federal funds rate is held constant or if monetary policy is assumed to follow a Taylor Rule and when households and firms are assumed to fairly quickly recognize the sharp step-up in productivity growth.
+The Taylor rule prescribes adjustments in the real federal funds rate in response to deviations of output from potential and inflation from some target rate.
+This formulation of policy yields something very close to an unchanged nominal funds rate path during the first couple of years following an increase in productivity growth.
+The decline in inflation raises the real federal funds rate just about as much as the Taylor Rule prescribes in light of the increase in the output gap.
+Later, however, as the disinflationary force of the productivity shock dissipates, the Taylor Rule will cause increases in nominal and real interest rates that push output toward potential and contain inflation.
+Monetary policy could use such a shock as an opportunity to temporarily move below the unemployment rate sustainable in the long run while keeping the inflation rate unchanged.
+Alternatively, monetary policy could convert the temporary disinflationary effect into a permanent one.
+This would be an example of "opportunistic disinflation": monetary policy could take advantage of a disinflationary surprise to lower inflation without a temporary increase in the unemployment rate.
+If inflation is low at the time of the shock, the incentive is great to take the benefits in a temporary decline in the unemployment rate.
+Of course, policymakers could also choose a bit of both of these options, and I would interpret monetary policy as having produced this middle course during the last several years.
+The task of monetary policy going forward is to avoid transforming what could have been an opportunity to lower the underlying inflation rate into a balance of risks that threatens to raise inflation relative to the rate prevailing at the beginning of this episode.
+Is Monetary Policy Less Effective Today?
+The recent increases in the federal funds rate do not appear, to date, to have slowed the momentum in demand growth.
+Indeed, as I noted earlier, the economy appears to have shifted into a still higher gear just as monetary policy turned more restrictive.
+As a result, some have wondered whether recent structural changes may have undermined the effectiveness of monetary policy.
+It is well appreciated that monetary policy affects aggregate demand with long and variable lags.
+So, a limited initial effect of tighter monetary policy on demand is to be expected.
+In addition, the first three quarter-point moves simply reversed the earlier cumulative easing, which may have added to demand in the second half of 1999.
+So, the move to a more restrictive phase of policy is especially recent.
+It is useful to put the most recent episode of tightening in historical perspective.
+To do so, I compare the cumulative increases in the funds rate and in other measures of financial conditions in the current episode with the movements in those episodes since the late 1960s during which the funds rate increased at least about 1 percentage point.1 I have plotted in figures 1 through 4 the maximum, minimum, and median increases in the federal funds rate and three other financial indicators during previous episodes and the current experience.
+Figure 1 presents this analysis for the federal funds rate.
+The current episode is the smallest and most gradual tightening over the period studied, well below the line for the minimum cumulative increase during previous episodes.
+So the modest effects on aggregate demand to date perhaps only confirm the relatively modest and extremely gradual nature of the current tightening, along with the usual lags.
+In addition, some developments suggest that the recent policy moves may have had a more limited effect on aggregate demand than would have been expected from even this modest increase in the federal funds rate.
+The key to understanding the effects of monetary policy on aggregate demand is that monetary policy does not operate through the direct effect of the federal funds rate on aggregate demand.
+Instead, changes in the federal funds rate and anticipations of future movements in the funds rate affect aggregate demand via their influence on a broader range of financial conditions, including short and longer-term private interest rates, equity prices, and the real exchange rate.
+Financial conditions indexes that capture in one measure the full range of relevant interest rates, asset prices, and exchange rates have been constructed by Goldman Sachs and Macroeconomic Advisers.
+Figure 2 shows that the cumulative increase in the Goldman Sachs financial conditions index in the current episode is not only at the very low end of historical experience, but is nearly unchanged over the first three quarters of the current episode.
+For this measure, the data begin in 1973.
+So a second conclusion about the current experience is that the increase in the funds rate, to date, has had a smaller effect than usual--nearly zero--on overall financial conditions and hence on aggregate demand.
+In addition, the absolute level of the Goldman Sachs index indicates that financial conditions remain unusually stimulative, relative to historical experience.
+The apparent persistence of accommodative overall financial conditions in the face of the recent increases in the federal funds rate is principally due to the continued increase, on balance, of equity prices and the failure of the real exchange rate to appreciate further.
+Figure 3 confirms that equity prices have been unusually resilient in this episode, rising by an amount near the maximum during the first nine months of significant tightenings over the period studied.
+The recent decline in yields on long-term Treasuries, on the other hand, is not in itself relevant, because these rates do not directly affect private borrowing decisions.
+Private long-term rates, in contrast, have not declined this year, and they increased significantly over 1999.
+Figure 4 indicates that the increase in a representative long-term rate--the yield on Baa-rated corporate bonds--is at the median for episodes of significant monetary tightening since the late 1960s.
+This is impressive, given that the rise in the funds rate is well below average.
+The strong contribution from private long-term rates in this episode may indicated that these rates reflect an anticipation of future Fed tightening rather than a lagged response to actual moves; a lagged response seems to have been more typical of the experience earlier in the sample period.
+Private long-term interest rates will rise further only if market participants come to believe that the Federal Reserve will tighten by more than the couple of additional moves already embedded in the yield curve or if inflation expectations begin to rise.
+The fact that long-term private rates had already risen in anticipation of further Fed tightening has shortened the lag from increases in the federal funds rate to the ultimate effect on aggregate demand relative to past experience and thereby has actually added to, rather than subtracted from, the effectiveness of monetary policy.
+No one channel of monetary policy--in terms of the financial conditions index, no one component--should be singled out as of controlling importance.
+The appropriate adjustment in overall financial conditions can be achieved with varying contributions from the individual components.
+Still, monetary policy must take into account the overall response of financial conditions in judging the appropriate magnitude of any cumulative change in the federal funds rate.
+There also has been concern that some sectors of the economy--specifically investment in high-tech equipment, a component that has been an important contributor to the strength of aggregate demand--may be relatively insensitive to higher interest rates, therefore reducing the overall response to higher interest rates in this episode of policy tightening.
+The housing sector has often borne a disproportionate burden of higher interest rates, at least initially.
+More flexible financing arrangements may have reduced the interest sensitivity of this sector as well, though it likely remains among the more interest-sensitive sectors.
+The question here is whether the economy might be less sensitive to the change in overall financial conditions as a result of such developments.
+The analysis of changes in overall financial conditions shows that any judgment on this question that is based on the experience in this episode would be premature given that, to date, overall financial conditions have changed so little.
+But the reality is that monetary policy always has had uneven effects across the economy.
+We have a single instrument that, by necessity, must be used to achieve balance between aggregate demand and potential aggregate supply.
+Variations in sectoral responses will be unavoidable given the different lags and different interest sensitivities of the various components of aggregate demand.
+Another often-asked question about monetary policy is whether, once a decision is made to correct emerging imbalances, policy should move gradually or more forcefully.
+That is, should rates be moved immediately to the level that would be most likely to forestall the problem?
+Policy responds to incoming data.
+To the extent that incoming data only gradually alter perceptions of the appropriate policy stance, only gradual policy adjustments will be called for.
+On the other hand, sometimes policymakers do find themselves in a situation that seems to call for more sizable policy changes.
+But when considerable uncertainty remains about the appropriate course and aggressiveness of the policy response--especially when policy is moving pre-emptively against the threat of higher inflation, without any direct corroboration from data on inflation--a more gradualist approach allows policymakers to assess the data along the way and adjust accordingly the desired path of interest rates.
+The risk in this approach is that imbalances become larger and more disruptive to correct if resource utilization tightens further or inflation expectations pick up.
+So it would be important to react more aggressively in response to those developments.
+The appropriate speed of adjustment might also depend on the degree to which the bond markets reflect policymakers' expectations about likely further increases in short-term interest rates.
+That is, it may be more appropriate to move short-term interest rates slowly when long-term interest rates have already adjusted by an amount that policymakers believe is sufficient to achieve their objectives.
+Finally, the pace of tightening may also need to be calibrated to the degree to which broader financial market conditions are responding to the rise in the federal funds rate.
+Conclusion The combination of favorable relative-price and productivity shocks in this expansion are the principal sources of the exceptional combination of robust output growth and declining unemployment on the one hand and stable to declining inflation on the other hand.
+As the disinflationary effects of relative-price shocks and faster productivity growth dissipate, monetary policy must be prepared to deal with more traditional concerns about the balance between growth of demand and supply, the relationship between output and potential, and the danger of overheating.
+As these concerns have become more pressing, monetary policy has responded in an effort to rebalance aggregate demand and supply and contain the risk of higher inflation.
+A productivity shock is unambiguously good.
+But the monetary policy that accompanies it can be good or bad.
+A good monetary policy is one that allows the economy to realize the full benefits of the higher growth while respecting the fact that limits--albeit new ones--remain and that, if exceeded, the ultimate result will be rising inflation, threatening the sustainability of the expansion.
+Monetary policy remains fully capable of getting the job done.
+The effect across sectors will not be even, and it never has been.
+And the effects on a broader range of financial conditions are always somewhat variable as well.
+Policymakers have to adjust the timing and cumulative size of tightenings to ensure that the effect on overall financial conditions will promote a continuation of this economic expansion and an accompanying low and stable rate of inflation.

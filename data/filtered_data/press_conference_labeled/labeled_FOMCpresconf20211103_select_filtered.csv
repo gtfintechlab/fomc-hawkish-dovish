@@ -1,0 +1,93 @@
+Unnamed: 0,sentence,label,score
+0,"At the Federal Reserve, we are strongly committed to achieving the monetary policy goals that Congress has given us: maximum employment and price stability.",LABEL_1,0.9789793491363525
+1,"Today, the FOMC kept interest rates near zero and, in light of the progress the economy has made toward our goals, decided to begin reducing the pace of asset purchases.",LABEL_0,0.9088242650032043
+2,"With these actions, monetary policy will continue to provide strong support to the economic recovery.",LABEL_0,0.9958401918411255
+3,I will say more about our monetary policy decisions after reviewing recent economic developments.,LABEL_2,0.9998455047607422
+4,"Economic activity expanded at a 6.5 percent pace in the first half of the year, reflecting progress on vaccinations, the reopening of the economy, and strong policy support.",LABEL_1,0.9968156218528748
+5,"In the third quarter, real GDP growth slowed notably from this rapid pace.",LABEL_2,0.7271080613136292
+6,"Nonetheless, aggregate demand has been very strong this year, buoyed by fiscal and monetary policy support and the healthy financial positions of households and businesses.",LABEL_0,0.9920608997344971
+7,"With COVID case counts receding further and progress on vaccinations, economic growth should pick up this quarter, resulting in strong growth for the year as a whole.",LABEL_1,0.9714871644973755
+8,"Conditions in the labor market have continued to improve, and demand for workers remains very strong.",LABEL_2,0.9574516415596008
+9,"As with overall economic activity, the pace of improvement slowed with the rise in COVID cases.",LABEL_0,0.7643455862998962
+10,The unemployment rate was 4.8 percent in September.,LABEL_2,0.9736517071723938
+11,"This figure understates the shortfall in employment, particularly as participation in the labor market remains subdued.",LABEL_0,0.998598039150238
+12,These impediments to labor supply should diminish with further progress on containing the virus—supporting gains in employment and economic activity.,LABEL_1,0.9892247319221497
+13,The supply and demand imbalances related to the pandemic and the reopening of the economy have contributed to sizable price increases in some sectors.,LABEL_1,0.9989792108535767
+14,"In particular, bottlenecks and supply chain disruptions are limiting how quickly production can respond to the rebound in demand in the near term.",LABEL_1,0.52235347032547
+15,"As a result, overall inflation is running well above our 2 percent longer-run goal.",LABEL_1,0.9951844811439514
+16,"Nonetheless, it remains the case that the drivers of higher inflation have been predominantly November 3, 2021 connected to the dislocations caused by the pandemic—specifically, the effects on supply and Chair Powell’s Press Conference FINAL demand from the shutdown, the uneven reopening, and the ongoing effects of the virus itself.",LABEL_1,0.950569748878479
+17,"We understand the difficulties that high inflation poses for individuals and families, particularly those with limited means to absorb higher prices for essentials such as food and transportation.",LABEL_1,0.9988225102424622
+18,"Like most forecasters, we continue to believe that our dynamic economy will adjust to the supply and demand imbalances and that, as it does, inflation will decline to levels much closer to our 2 percent longer-run goal.",LABEL_2,0.9682086110115051
+19,"Of course, it is very difficult to predict the persistence of supply constraints or their effects on inflation.",LABEL_2,0.9996962547302246
+20,We are committed to our longer-run goal of 2 percent inflation and to having longer-term inflation expectations well anchored at this goal.,LABEL_2,0.6679292917251587
+21,"If we were to see signs that the path of inflation, or [of] longer-term inflation expectations, was moving materially and persistently beyond levels consistent with our goal, we would use our tools to preserve price stability.",LABEL_1,0.9991863369941711
+22,"The Fed’s policy actions have been guided by our mandate to promote maximum employment and stable prices for the American people, along with our responsibilities to promote the stability of the financial system.",LABEL_1,0.913305401802063
+23,"Last December, the Committee stated its intention to continue asset purchases at a pace of at least $120 billion per month until substantial further progress has been made toward our November 3, 2021 maximum-employment and price-stability goals.",LABEL_0,0.9945770502090454
+24,Our decision today to begin tapering our asset purchases does not imply any direct signal regarding our interest rate policy.,LABEL_2,0.980250358581543
+25,We at the Fed will do everything we can to complete the recovery in employment and achieve our price-stability goal.,LABEL_1,0.9861564636230469
+26,We don’t think it’s time yet to raise interest rates.,LABEL_2,0.8166524171829224
+27,"There is still ground to cover to reach maximum employment, both in terms of employment and in terms of participation.",LABEL_0,0.9676614999771118
+28,"Getting to your question, our baseline expectation is that supply bottlenecks and shortages will persist well into next year, and elevated inflation as well, and that, as the pandemic subsides, supply chain bottlenecks will abate—and job growth will move back up.",LABEL_0,0.9417482018470764
+29,"And as that happens, inflation will decline from today’s elevated levels.",LABEL_1,0.9774951338768005
+30,"But, certainly, we should see inflation moving down by the second or third quarter.",LABEL_1,0.6784302592277527
+31,"So if you look at the progress that we’ve made over the course of the last year, if that pace were to continue, then the answer would be: “Yes, I do think that that is possible.” Of course, we measure maximum employment based on a wide range of figures, but it’s certainly within the realm of possibility.",LABEL_1,0.7299275994300842
+32,"And, in particular, I would point to the employment compensation index reading that we got last Friday.",LABEL_2,0.999395489692688
+33,"Now, in real terms, they’ve been—they had been running a little bit below inflation, so real wages were not really increasing.",LABEL_0,0.9706337451934814
+34,"You know, the concern is a somewhat unusual case where, if wages were to be rising persistently and materially above inflation and productivity gains, that could put upward pressure on, or downward pressure on margins and cause companies to—or employers, really—to raise prices as a result, and you can see yourself, find yourself in what we used to call a wage–price spiral.",LABEL_1,0.999366819858551
+35,Productivity has been very high.,LABEL_0,0.9684721231460571
+36,"The inflation that November 3, 2021 we’re seeing is really not due to a tight labor market.",LABEL_1,0.9755292534828186
+37,"It’s due to bottlenecks, and it’s due to Chair Powell’s Press Conference FINAL shortages, and it’s due to very strong demand meeting those.",LABEL_1,0.49991488456726074
+38,"But, you know, in this situation, we do have a provision in our Statement on Longer-Run Goals, as you know, that says when those two things are in tension, what we do is, we take into account the employment shortfalls and inflation deviations and the potentially different time horizons over which employment and inflation are projected to return to levels judged consistent with the mandate.",LABEL_2,0.9997051358222961
+39,We have to be aware of the risks that we’re—particularly now the risk of significantly higher inflation.,LABEL_1,0.9994730353355408
+40,"We see higher inflation persisting, and we have to be in position to address that risk should it become really a threat to—should it create a threat of more persistent, longer-term inflation.",LABEL_1,0.9993883371353149
+41,"So, first of all, it is our job to—and we accept responsibility and accountability for inflation in the medium term.",LABEL_2,0.623248279094696
+42,We’re accountable to Congress and to the American people for maximum employment and price stability.,LABEL_1,0.9971669316291809
+43,The level of inflation we have right now is not at all consistent with price stability.,LABEL_1,0.9990177154541016
+44,"By the way, we’re also not at maximum employment, as I mentioned.",LABEL_0,0.998984158039093
+45,So I would want to assure people that we will use our tools as appropriate to get inflation under control.,LABEL_1,0.9986711740493774
+46,"We don’t think it’s a good time to raise interest rates, though, because we want to see the labor market heal further.",LABEL_0,0.9105297923088074
+47,"Really, for us, what “transitory” has meant is that if something is transitory, it will not leave behind it permanently or very persistently higher inflation.",LABEL_2,0.99126136302948
+48,"We said that “supply and demand imbalances related to the pandemic and the reopening of the economy have contributed to sizable price increases,” and we said, “Progress on vaccinations and an easing of supply constraints are expected to support continued gains in November 3, 2021 economic activity and employment as well as a reduction in inflation.” So we’re trying to Chair Powell’s Press Conference FINAL explain what we mean and also acknowledging more uncertainty about “transitory.” So it’s, I mean, it’s become a word that’s attracted a lot of attention that maybe is distracting from our message, which we want to be as clear as possible.",LABEL_1,0.9991315007209778
+49,"Really, that’s one of our principal jobs, along with achieving maximum employment.",LABEL_0,0.7633300423622131
+50,"So it’s taking into account quite a broad range of things, and, of course, employment—levels of employment—[and] participation are a part of that.",LABEL_2,0.999786913394928
+51,We knew that was achievable in a context of low inflation.,LABEL_1,0.8385012745857239
+52,"You know, we thought that schools reopening and elapsing unemployment benefits would produce some sort of additional labor supply.",LABEL_2,0.6385655403137207
+53,"So I think there’s room for a whole lot of humility here, as we try to think about what maximum employment would be.",LABEL_2,0.9991532564163208
+54,"Now, what we also have now, though, is, we have high inflation.",LABEL_1,0.9989830851554871
+55,"So we have a completely different situation now where we have high inflation, and we have to balance that with what’s going on in the employment market.",LABEL_1,0.9977516531944275
+56,"When we reach maximum employment, when we reach a state where labor market conditions are at maximum employment in the Committee’s judgment, it’s very possible that the inflation test will already be met.",LABEL_0,0.9971954822540283
+57,"We’re aware that that language sounds, it sounds a little out of touch with what’s going on, but, you know, we’re not at maximum employment.",LABEL_0,0.9663310647010803
+58,"When that is the case, we’ll look to see whether the inflation test is met, and there’s a good chance that it will be if you look at how inflation has evolved in the last year and a half.",LABEL_2,0.9831770062446594
+59,"We have not focused on whether we meet the liftoff test, because we don’t meet the liftoff test now because we’re not at maximum employment.",LABEL_0,0.9984591007232666
+60,"What I’m saying is, given where inflation is and where it’s projected to be, let’s say we do meet the maximum-employment test.",LABEL_0,0.8220805525779724
+61,"We did talk about the economy and the development of the economy, but we didn’t ask ourselves whether the liftoff test is met, because, you know, it’s clearly not met on the maximum-employment side.",LABEL_0,0.9975093603134155
+62,"So we don’t actually define maximum employment as—we define it in terms of inflation, but, of course, there is a connection there.",LABEL_2,0.9996635913848877
+63,Maximum employment has to be a level that is consistent with stable prices.,LABEL_2,0.9993588328361511
+64,We think about maximum employment as looking at a broad range of things.,LABEL_2,0.9997720122337341
+65,"You can’t just look at—unlike inflation, where you can have a number.",LABEL_2,0.9998403787612915
+66,"But with maximum employment, you could be in a situation, hypothetically, where the unemployment rate is low, but there are many people who are out of the labor force and will come back in.",LABEL_0,0.9951533079147339
+67,"And so you wouldn’t really be at maximum employment, because there’s this group that isn’t counted as unemployed.",LABEL_2,0.8651450276374817
+68,"And it’s clear that there are, you know—with tremendous demand for workers and wages moving up, it does seem like we’re set up to go back to a higher job-creation rate.",LABEL_1,0.9981452226638794
+69,So that would suggest that you’re not at maximum employment.,LABEL_0,0.9956254959106445
+70,"But, of course, at the end of it, it also has to be a level of employment that’s consistent with price stability.",LABEL_2,0.9469441771507263
+71,"For now, it appears to be skewed toward higher inflation.",LABEL_1,0.9994668364524841
+72,It stopped that transition away from a goods-focused economy where there’s excess demand for goods because there—services are not available.,LABEL_0,0.8057950139045715
+73,"That transition itself could help bring inflation down, because, presumably, people would spend a little less on goods while they start spending more on travel and all sorts of travel services and things like that.",LABEL_2,0.9987388253211975
+74,"So we want to see that healthy process unfold as we decide what the true state of the economy is, and we think it will evolve in a way that will mean lower inflation.",LABEL_1,0.9321753978729248
+75,"Well, so, let me say what’s happened—and we’re very, very straightforward about it—is that inflation has come in higher than expected, and bottlenecks have been more persistent and more prevalent.",LABEL_1,0.998936116695404
+76,And the reason is that there’s still ground to cover to get to maximum employment.,LABEL_0,0.9829976558685303
+77,"And, you know, I think, you know, the bottlenecks that we’re seeing in global supply chains around goods and, frankly, now at our own domestic ports, because demand is stronger than the capacity of those ports—those things are going to work themselves out.",LABEL_1,0.9898952841758728
+78,"But, you know, we are prepared for different eventualities, and we will use our tools to achieve price stability and maximum employment.",LABEL_1,0.9988491535186768
+79,Our policy will adapt—and has already adapted—to the changing understanding of inflation and of bottlenecks and the whole supply-side story—which is also partly a demand story.,LABEL_1,0.6732204556465149
+80,We were much farther away from maximum employment.,LABEL_0,0.996880292892456
+81,Inflation was much lower.,LABEL_2,0.9971377849578857
+82,"This is an economy where demand is very, very strong, very strong, and job openings substantially exceed the number of unemployed people.",LABEL_1,0.9538497924804688
+83,"I mean, after we began that taper, it was still many years before we reached what I would characterize as conditions consistent with maximum employment, let alone price stability.",LABEL_2,0.8888350129127502
+84,"It’s earlier and faster, and that’s because our, as I mentioned, our policy has been adapting to the situation as it evolves, as it’s clarifying itself, and that’s partly because we see inflation coming in higher—so.",LABEL_1,0.9993027448654175
+85,"So lower rates encourage more borrowing, encourage more economic activity.",LABEL_1,0.9303543567657471
+86,"But most people November 3, 2021 find—most of the findings are that it does support economic activity in the way that you would Chair Powell’s Press Conference FINAL expect, which is to say, at the margin, more economic activity with lower rates, which is why we do what we do.",LABEL_0,0.9946322441101074
+87,"More accommodative financial conditions lead to more economic activity, over time, with a lag.",LABEL_1,0.9161655902862549
+88,"They’re quitting their jobs in all-time-high numbers—but, in many cases, going back into employment and getting higher wages.",LABEL_1,0.5142440795898438
+89,"So in terms of full employment, as I discussed earlier, I think, at the very beginning of the recovery, the natural thing to do was to look back at labor conditions, labor market conditions in February of 2010, at the end of the longest expansion in our history.",LABEL_2,0.8627692461013794
+90,"You know, an economy where inflation was driven by services is now inflation where—all the inflation is in goods, which have had negative inflation for a quarter-century.",LABEL_0,0.9485777616500854
+91,So you ask about full employment.,LABEL_2,0.9986340403556824

@@ -1,0 +1,98 @@
+My remarks will focus on the continuous challenges banking organizations face as they manage risk.
+Today, banking organizations have a much wider array of risk-management tools and practices available to them, thanks in large part to innovations in financial products and services, improved technology, and many other developments in the industry.
+But financial innovation also presents new and different aspects of risk that institutions need to address.
+I will first describe some of the broader risk management issues facing banks.
+Then, I will describe some guidance supervisors have recently issued to illustrate the importance of these concepts.
+I know that a number of attorneys who work on banking and financial matters are in the audience, so I will cover not only risks relating directly to lending and trading activities but also those relating to legal and compliance issues.
+Dimensions of Risk-Management Challenges Certainly, risk management is not a new challenge.
+Financial institutions have always faced the task of managing their risk exposures while remaining profitable and competitive.
+But financial innovation, even when it involves well-established products and exposures that are only slightly altered, continues to present new risk-management challenges.
+Yet challenges are also opportunities: good risk management is an art that combines the ability to use financial innovation to improve profitability with an understanding of how risk profiles change as a result of that innovation.
+The Federal Reserve, in its role as both a bank supervisor and the nationâ€™s central bank, has an obvious interest in maintaining the stability of the banking industry and the financial system as a whole.
+We, along with our counterparts at the other U.S. bank and thrift regulatory agencies, are responsible for ensuring that banking institutions operate in a safe and sound manner.
+But with the advent of very large banking organizations that engage in a wide variety of business activities--some of them quite complex--the Federal Reserve has become even more interested in ensuring that banking organizations understand the risks of these activities as well as their potential impact.
+As organizations grow larger, one of their major challenges can be described as making sure that the â€œright handâ€ knows what the â€œleft handâ€ is doing.
+In other words, risks must be recognized and managed across the entire organization.
+In some cases, firms may be practicing good risk management on an exposure-by-exposure basis, but they may not be paying close enough attention to aggregation of exposures across the entire organization.
+Rapid growth can place considerable pressure on, among other areas, an organizationâ€™s management information systems, change-management controls, strategic planning, credit concentrations, and asset-liability management.
+Of course, there are other dimensions of risk to consider besides scale.
+As noted, the banking organizations we see today often operate in many lines of business and offer many types of products.
+For example, some organizations have increased their size not just by expanding their existing operations, but also by pursuing several new business lines at the same time.
+Certainly, this strategy of business diversification has its benefits.
+But the organization must also understand how the various business components interact on a dynamic basis.
+In other words, diversification does not simply work on its own, but has to be carefully planned and managed.
+Another dimension of risk to be considered is the complexity and sophistication of an organizationâ€™s products and services.
+While an institution may alter its risks by expanding into several business lines, the nature of its products and services also makes a tremendous difference in its risk profile.
+For example, it matters greatly whether an institution expands its mortgage lending by offering traditional mortgage products with which it has substantial experience, or whether an institution offers new mortgage products for which there is little history.
+At first glance, the new products may appear to be no more risky than more traditional products; however, when more carefully examined, new products can have a higher risk potential, or at least one that is not fully known.
+Institutions should also be aware that traditional products packaged in a slightly different way or offered to a new customer segment can substantially alter their risk profile.
+I point to recent cases of legal and compliance risks that occurred because the institutions involved did not necessarily conduct proper due diligence on their new products.
+The challenge of understanding the potential risks associated with new products in a given business line is heightened when firms attempt to see how those risks intersect with the risks from its other business lines.
+On the one hand, a firm may be hedging its risks or enhancing diversification by offering new products; on the other hand, the firm may simply be adding to risks it already has.
+Obviously, knowing the difference is vitally important.
+Furthermore, an institution has to pay attention to the behavior and performance of its risk mitigants, whose appropriateness and applicability may also vary with changes in the market.
+The bottom line for todayâ€™s banking institutions, particularly the largest and most complex ones, is that they must continue to monitor very carefully the embedded risks of their products and services, pay close attention to subtle changes in business practices that could affect the risks related to a given product, and fully understand how the risks in all their business lines intersect and combine to affect the risk profile of the consolidated entity.
+Current Perspective on Risk-Management Challenges Commercial Real Estate Now that I have described in fairly broad terms the types of risk-management challenges institutions may encounter, I think it would be helpful to provide some concrete examples.
+As you are likely aware, the U.S. banking agencies recently issued for public comment supervisory guidance on commercial real estate (CRE), which focused particularly on CRE concentrations.
+Regardless of its size, we believe an institution involved in CRE lending would benefit from a review of the guidance.
+As you know, CRE played a central role in the banking problems of the late 1980s and early 1990s and has historically been a highly volatile asset class.
+Over the past dozen years, CRE concentrations have been rising and are now at record levels at many banking organizations.
+For certain groups of banks--such as those between $1 billion and $10 billion--average CRE concentrations, which can include owner-occupied CRE, are today above 300 percent.
+This compares to a previous peak of CRE concentrations of 200 percent seen in the late 1980s and early 1990s.
+The agenciesâ€™ CRE concentration guidance, which excludes owner-occupied CRE, is intended to reinforce existing risk-management guidelines on CRE, and it offers institutions some suggestions for improving their risk-management practices.
+The agencies share a concern that some institutionsâ€™ risk-management practices are not keeping up with the growth in their CRE exposures.
+The guidance describes the key risk-management elements for an institutionâ€™s CRE lending, because banks, in order to attract new business and sustain loan volume, may be inclined to occasionally make some compromises and concessions to borrowers.
+As supervisors, we want to ensure that loan-to-value standards and debt-service-coverage ratios are meeting the organizationâ€™s policies--and that there is not an increasing number of exceptions to those standards and ratios.
+We also continue to monitor whether lenders routinely adjust covenants, lengthen maturities, or reduce collateral requirements.
+Additionally, the guidance reemphasizes that institutions should have capital levels appropriate for the risk associated with their CRE concentrations.
+Some evidence suggests that an institutionâ€™s strategic- and capital-planning processes may not adequately acknowledge the risks from its CRE concentrations.
+By focusing on CRE concentrations, the guidance is also intended to apply to those institutions that might already have excellent underwriting and risk management of their existing CRE exposures but that might not be as vigilant or as rigorous in their management of those exposures on an aggregate portfolio basis.
+That is, underwriting policies, as well as management and board reporting, should reflect aggregate portfolio risk as CRE loans rise to a significant multiple of capital.
+A bank with significant concentrations may need to both strengthen its control environment and hold capital well above regulatory minimums.
+In certain cases, it may be prudent for an institution to reduce its concentrations.
+This is particularly important, since CRE lending in recent years has occurred under fairly benign credit conditions and, naturally, those conditions are unlikely to continue indefinitely.
+From a risk-management and capital perspective, institutions should employ stress tests and other exercises to help identify CRE vulnerabilities, including potential correlations with non-CRE exposures that might move in the same direction during a downturn.
+Nontraditional Mortgage Products The U.S. banking agencies have also issued draft guidance on certain mortgage products.
+Over the past few years, the agencies have observed an increase in the volume of originations for residential mortgage loans that allow borrowers to defer repayment of principal and, sometimes, interest.
+These mortgage loans, often referred to as â€œnontraditional mortgage loans,â€ include â€œinterest-onlyâ€ (IO) mortgage loans, in which a borrower pays no loan principal for the first few years of the loan, and â€œpayment-optionâ€ adjustable-rate mortgages (option ARMs), in which a borrower has flexible payment options--and which also could result in negative amortization.
+In 2005, option ARMs and IOs were an estimated one-third of total U.S. mortgage originations.
+By contrast, in 2003, these products were estimated to represent less than 10 percent of total originations.
+Despite the recent publicity, however, it is estimated that these mortgages still account for less than 20 percent of aggregate domestic mortgage outstandings of $8 trillion.
+While the credit quality of residential mortgages generally remains strong, the Federal Reserve and other banking supervisors are concerned that current risk-management techniques may not fully address the level of risk in nontraditional mortgages, a risk that would be heightened by a downturn in the housing market.
+Nontraditional mortgage products have been available for many years; however, these types of mortgages were historically offered to higher-income borrowers only.
+More recently, these products have been offered to a wider spectrum of consumers, including subprime borrowers who may be less suited for these types of mortgages and may not fully recognize their embedded risks.
+These borrowers are more likely to experience an unmanageable payment shock at some point during the life of the loan, which means they may be more likely to default on the loan.
+Further, nontraditional mortgage loans are becoming more prevalent in the subprime market at the same time that risk tolerances in the capital markets have increased.
+When risk spreads return to more â€œnormalâ€ levels, banks need to be prepared for the resulting impact on liquidity and pricing.
+Supervisors have also observed that lenders are increasingly combining nontraditional mortgage loans with weaker mitigating controls on credit exposures, such as allowing reduced documentation in evaluating the applicantâ€™s creditworthiness and making simultaneous second-lien mortgages as competition in the mortgage banking industry intensifies.
+These â€œrisk layeringâ€ practices have become more and more prevalent in mortgage originations.
+Thus, while elements of the product structure may have been used successfully by some banks in the past, the absence of traditional underwriting controls may have unforeseen effects on losses realized in these products.
+In view of these industry trends, the Federal Reserve and the other banking agencies decided to issue the draft guidance on nontraditional mortgage products.
+The proposed guidance emphasizes that an institutionâ€™s risk-management processes should allow it to adequately identify, measure, monitor, and control the risk associated with these products.
+The guidance reminds lenders of the importance of assessing a borrowerâ€™s ability to repay a loan, including monthly payments when amortization begins and interest rates rise.
+Lenders should recognize that certain nontraditional mortgage loans are untested in a stressed environment; for instance, nontraditional mortgage loans to investors that rely on collateral values could be particularly affected by a housing price decline.
+Bankers should ensure that borrowers have sufficient information so that they clearly understand, before choosing a product or payment option, the terms and associated risks of these loans, particularly how far monthly payments can rise and that negative amortization can increase the amount owed on the property above what was originally borrowed.
+These products warrant strong risk-management standards as well as appropriate capital and loan-loss reserves.
+Compliance-Risk Management Another area the financial sector and the regulatory community are focused on today is compliance-risk management.
+â€œCompliance riskâ€ can be defined as the risk of legal or regulatory sanctions, financial loss, or damage to an organizationâ€™s reputation and franchise value; this type of risk may result when an organization fails to comply with the laws, regulations, or standards or codes of conduct that are applicable to its business activities and functions.
+The Federal Reserve expects banking organizations to have in place an infrastructure that is able to identify and control the compliance risks facing their organization.
+Fortunately, many banking organizations in the United States substantially affected by these risks are ahead of the curve and have invested in enterprise-wide corporate compliance.
+To create appropriate compliance-risk controls, organizations must first understand risks across the entire entity.
+Managers should be expected to evaluate the risks and controls within their scope of authority at least annually.
+I also emphasize the need for the board of directors and senior management to ensure that staff members throughout an organization understand the compliance objectives and the role they have in implementing the compliance program.
+Clear lines of communication and authority help to avoid conflicts of interest.
+An enterprise-wide compliance-risk management program should be dynamic and proactive, meaning it constantly assesses evolving risks when new business lines or activities are added or when existing activities are altered.
+To avoid having a program that operates on â€œautopilot,â€ an organization must continuously reassess its risks and controls and communicate with its business lines.
+An integrated approach to compliance-risk management can be particularly effective for Bank Secrecy Act and anti-money-laundering (BSA/AML) compliance.
+Often, the identification of a BSA/AML risk or deficiency in one area of business can indicate potential problems or concerns in other activities across the organization.
+Controlling BSA/AML risk continues to be a primary concern for banking organizations.
+We recognize the investment and commitment that organizations have made toward compliance with BSA/AML requirements, and, in return, we continue to work to ensure that obligations in this area are clearly understood and communicated to banking organizations and examiners alike.
+The Federal Financial Institutions Examination Council (FFIEC) BSA/AML Examination Manual issued last year is one example of our interagency efforts.
+We also are working closely with our Treasury and law enforcement counterparts to disseminate information about perceived money-laundering or terrorist-financing threats.
+By identifying emerging vulnerabilities, we can better collaborate with banking organizations in our efforts to develop systems and procedures to combat the abuse of the financial sector by financial criminals.
+For example, the interagency Money Laundering Threat Assessment (4.1MB PDF) is one measure we are taking to identify significant concerns and communicate them to banking organizations.
+Conclusion Our ongoing supervision of banking organizations indicates that the preponderance of institutions continues to be sound and well managed.
+This strong performance has occurred concurrently with institutionsâ€™ continued efforts to improve their risk-identification and management strategies.
+That said, there are certain rapidly growing business lines in banking operations that are placing pressures on risk-management systems.
+In turn, supervisors are increasingly scrutinizing these business lines to ensure that management is fully aware of their risks and has made any necessary risk-management upgrades.
+As institutions continue to offer new products and services, they face the challenge of incorporating the associated risks into their existing risk-management framework.

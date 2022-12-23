@@ -1,0 +1,29 @@
+Unnamed: 0,sentence,label,score
+0,"While everyone understood that considerable uncertainties--related to economic assumptions and future policy decisions--surrounded these projections, they required that the Federal Reserve take seriously the possibility that monetary policy might have to be conducted without Treasury securities.",LABEL_2,0.9981460571289062
+1,"In discussing the implications for monetary policy, it is useful to separate monetary policy actions into two steps.",LABEL_2,0.9998316764831543
+2,"I will be discussing some options for adapting the implementation of monetary policy to a world without Treasury securities, but the key message is not to worry.",LABEL_2,0.9994634985923767
+3,"There are plenty of options, the Fed will get the job done, so the elimination of Treasury debt would not undermine the effectiveness of monetary policy.",LABEL_1,0.6289796829223633
+4,Monetary Policy Today The federal funds rate is the rate that banks charge for lending reserves to other banks.,LABEL_2,0.9994812607765198
+5,It is therefore fundamentally determined by supply and demand in the reserves market.,LABEL_2,0.9998036026954651
+6,"The Fed, technically, buys the underlying asset for a given price with an agreement by the selling institution to buy it back at a specified date and price.",LABEL_2,0.9977439641952515
+7,The difference between the purchase and buyback prices determines the interest rate on the loan (the repo rate).,LABEL_2,0.9994756579399109
+8,"Principles Before considering how to replace Treasury securities in the implementation of monetary policy, I find it useful to set out some principles that have, at least implicitly, traditionally been followed.",LABEL_2,0.9998384714126587
+9,The role of monetary policy is to promote price stability and maximum sustainable employment by influencing the level of aggregate demand through changes in the federal funds rate.,LABEL_2,0.9262022376060486
+10,A liquid market permits transactions to be made quickly and with negligible direct effects on the price of the assets bought and sold.,LABEL_2,0.9998185038566589
+11,The federal funds rate and expectations about future monetary policy then affect a wide range of other interest rates--on longer-term instruments and in both the government and private bond markets.,LABEL_2,0.999599277973175
+12,"By operating in a broad and liquid market, the Fed can inject and withdraw reserves without having much direct effect on the prices of the asset being bought and sold.1 Finally, the Fed would prefer to avoid credit risk in its portfolio.",LABEL_2,0.9996589422225952
+13,"Managing credit risk is a role for financial intermediaries, not monetary policymakers.",LABEL_2,0.9998217225074768
+14,"Monetary Policy in a World without Treasuries Today, monetary policy decisions are implemented through a mix of outright purchases and sales of assets held in the Fed's portfolio, temporary operations through repurchase agreements, and discount window loans.2 It seems to me that the same three operations, though perhaps in different proportions, could be used in the absence of Treasury securities.",LABEL_2,0.9997877478599548
+15,Such transactions would not change the currency composition of the SOMA portfolio and would be less likely to affect exchange rates or the price of such debt.,LABEL_2,0.9998342990875244
+16,"On the other hand, these were unusual experiences in which the demand for financing from the Federal Reserve was boosted by private-sector caution and difficulties.",LABEL_1,0.9156882166862488
+17,"However, making significant use of this option would bias credit flows in the direction of depository institutions and, if the volume of these loans were large enough, could affect the interest rates on the assets, specifically bank loans held by such institutions.",LABEL_2,0.999225378036499
+18,I start from the perspective that there are three different drivers of reserve injection and withdrawal in the implementation of monetary policy.,LABEL_2,0.9998021721839905
+19,The first driver is the long-term increase in the demand for currency and reserves.,LABEL_0,0.9975881576538086
+20,"The second is intermediate-term need for reserve expansion and contraction, arising, for example, from seasonal changes in the demand for currency and reserves.",LABEL_2,0.9995582699775696
+21,One portfolio might be focused on providing for the gradual long-term increase in the demand for currency and reserves.,LABEL_0,0.9737352132797241
+22,Long-term secular increases in the demand for currency or the demand for reserves could be met by outright purchases when the most important considerations would be neutrality and managing credit risk and when liquidity would be of less concern.,LABEL_1,0.6294846534729004
+23,I think that such demand could be well accommodated by a strategy of buying a slice of the same assets held by the private sector.,LABEL_0,0.9742463827133179
+24,Some occasions call for significant swings in currency or reserves because of seasonal demands for cash and loans.,LABEL_2,0.9997743964195251
+25,"In addition, in some periods the onset of financial stress may require a large increase in reserves to meet the demand for liquidity or the Fed may need to withdraw a large volume of reserves to offset increased discount window borrowing.",LABEL_0,0.9923638105392456
+26,Day-to-day shocks to the supply and demand for reserves must be offset to maintain the federal funds rate at its target level.,LABEL_1,0.8637312650680542
+27,This is particularly important when open market operations must be substantial enough to offset some other source of reserve creation--such as a large loan through the discount window or a large intervention in foreign exchange rates.,LABEL_2,0.9974863529205322

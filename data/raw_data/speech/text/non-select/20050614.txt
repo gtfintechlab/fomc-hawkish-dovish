@@ -1,0 +1,100 @@
+I want to discuss four regulatory issues that I know are of great interest to bankers in the audience today: sound practices for managing credit risk, particularly in residential and commercial real estate; compliance with the Bank Secrecy Act; recently issued guidance on overdraft protection; and progress on implementing new minimum regulatory capital requirements under the Basel framework, while updating the current Basel I framework.
+Credit Risk Credit risk has been the leading cause of bank failures over the years and remains the biggest risk for most financial institutions.
+Of course, credit performance has been very strong lately, and banks of all sizes survived the 2001 recession with only a slight decline in credit quality.
+Commercial-loan demand has rebounded and consumer lending, particularly mortgage financing, has been brisk.
+But as the real estate lending cycle matures and lender competition increases, banking supervisors tend to worry.
+In particular, in the commercial and residential real estate sectors, we worry that borrowers could become increasingly speculative, buying beyond their means and hoping for asset price appreciation--whether they are buying for their own use or strictly for the sake of investment.
+We worry that competitive pressures could drive banks to lower their underwriting standards, implicitly encouraging such speculation.
+And we worry that, in the inevitable downturn, credit quality could deteriorate to the extent that some banks could experience significant losses.
+The residential real estate sector has been experiencing a remarkable bull market, with home prices rising 11.2 percent last year--the fastest rate in more than a quarter-century.
+Along with the high home prices, we see indications that underwriting standards are beginning to weaken.
+For example, "affordability products"--such as interest-only loans, negative amortizations, and second mortgages with high loan-to-value ratios--are becoming more popular; subprime lending is growing faster than prime lending; adjustable-rate mortgages, or ARMs, have grown substantially and now account for more than a third of all mortgage originations, the highest level since 1994.
+Industry experts are increasingly concerned about the quality of collateral valuations relied upon in home equity lending and residential refinancing activities.
+More homes are being purchased not as primary dwellings, but as vacation homes or pure investments, in which case anticipated price appreciation may be a large factor influencing purchase decisions.
+According to the National Association of Realtors, purchases of second homes and purchases of residential real estate for investment purposes together accounted for almost 40 percent of all home purchases last year.
+Given the vast growth in residential housing markets and the apparent slippage in underwriting standards in certain sectors, it is entirely appropriate for banking supervisors to seek to ensure that banks are employing proper risk-management practices.
+Last month, the federal banking agencies released guidance on credit-risk management for financial institutions' home equity lines of credit (HELOCs).
+The recent growth in HELOCs has been remarkable; at the end of 2004, outstanding drawn HELOCs at all insured commercial banks totaled $398 billion, a 40 percent increase over 2003.
+Meanwhile, the agencies have observed some easing of underwriting standards, with lenders competing to attract home equity lending business.
+Lenders are sometimes offering interest-only loans and are sometimes requiring very small down payments and limited documentation of a borrower's assets and income.
+They are also relying more on automated-valuation models and entering into more transactions with loan brokers and other third parties.
+Given this easing of standards, there is concern that portions of banks' home equity loan portfolios may be vulnerable to a rise in interest rates and a decline in home values.
+In other words, there is concern that not all banks fully recognize the embedded risks in some of their portfolios.
+But supervisors believe that, like most other lending activity, home equity lending can be conducted in a safe and sound manner with appropriate risk-management systems.
+Bank supervisors today have similar concerns about commercial real estate lending, defined as those real estate loans in which the primary source of repayment is derived from the rental income or sale proceeds of commercial property.
+This has historically been a highly volatile asset class, and it played a central role in the banking problems of the late 1980s and early 1990s.
+Federal Reserve staff is currently considering supervisory guidance on sound risk-management practices for commercial real estate exposures, with the goal of issuing the guidance on an interagency basis.
+Banking supervisors are carefully monitoring rising commercial real estate concentrations at some banking organizations.
+At banks with high concentrations, bank supervisors expect risk-management practices, underwriting standards, and capital levels to keep pace with loan growth.
+During previous downturns in the credit cycle, banks with high commercial real estate concentrations suffered significant losses.
+Smaller banks as a group have shown the strongest appetite for commercial real estate loans, and some claim that commercial real estate lending remains one of the few areas in which small banks can effectively compete with their larger competitors.
+So far, underwriting standards are high by historic standards, and much higher than in the period preceding the earlier crises.
+Still, we have recently seen signs that standards may be under some downward pressure as a result of strong competition and tight spreads.
+I want to touch on one final topic related to credit risk.
+In March, the federal regulators issued for public comment a proposal to change the supervisory framework for the classification of problem loans.
+The current system dates back to 1938 and has undergone only minor revisions reflecting evolutionary changes in banking practices.
+The proposal would replace the current classified commercial loan categories--"special mention," "substandard," and "doubtful"--with a framework consisting of two parts: a borrower evaluation (to assess the risk of the borrower defaulting on its obligations) and a facility rating (to measure the severity of the loss the bank would likely incur in the event of default).
+We believe the proposed new system is more compatible with financial institutions' allowance for loan and lease loss methodologies and rating-assessment processes.
+The new system leverages off of the determinations and estimates banks already must make to comply with generally accepted accounting principles, which means that banks should benefit from a more-efficient assessment process and improved clarity.
+We also believe the new system would increase consistency among the agencies in assessing the credit risk in a bank's commercial loan portfolio.
+Although the proposal only recently went out for public comment, we have heard so far that some industry representatives believe that the proposal represents an effort to implement Basel II in disguise and that it imposes too much of a burden on financial institutions.
+It's useful to remember that the loan-classification system applies to only a relatively small portion of a bank's portfolio.
+What we are proposing is good risk management and an improved system that, if implemented properly, can produce more consistency both between bank and supervisory practices and across regulatory agencies.
+In addition, if this framework is implemented, we intend to allow for an extended transition period to minimize the potential burden and cost of changing to a new system.
+The comment period ends on June 30, and we will review the public comments carefully.
+Bank Secrecy Act Another issue of importance to bankers is the Bank Secrecy Act.
+We in Washington fully appreciate that a few high-profile companies have drawn considerable public attention to the issue of compliance with this act and that expectations for compliance are not limited to very large institutions.
+You too are bearing the burden of new statutes and regulations and the costs of implementing effective compliance programs.
+But we must recognize and accept that the environment changed on September 11, 2001.
+At the same time, I want to assure you that the approach taken by the Fed and the other federal banking agencies is not one of zero tolerance and that supervisors do not issue enforcement actions against banking organizations because they have failed to file a single suspicious activity report.
+On the contrary, we continue to expect examiners to use their best judgment and to look for systematic weaknesses in programs, policies, procedures, and internal controls.
+Interagency efforts are now under way to develop and issue a new, uniform Bank Secrecy Act/Anti-Money Laundering Examination Manual.
+The targeted release date is June 30, 2005.
+The Federal Reserve and the other federal banking supervisors, with the active participation of FinCEN--the entity within the U.S. Treasury that is statutorily responsible for the implementation of the Bank Secrecy Act--are now drafting the new compliance guidance and examination procedures.
+As part of the rollout of the new BSA/AML Examination Manual, nationwide conference calls and regional outreach meetings will be held for bankers interested in understanding the procedures.
+Bankers are encouraged to participate in these voluntary sessions.
+We are also putting a great deal of effort into examiner training to promote consistency.
+In addition, the Federal Reserve and the other federal bank supervisory agencies signed a memorandum of understanding with FinCEN last year to share critical information about banking organizations' compliance with the law.
+By providing pertinent Bank Secrecy Act information to FinCEN, which is adding staff to fulfill its responsibilities, the Federal Reserve and the other regulators can now better coordinate their supervision with FinCEN, thus further reducing the potential for unwarranted compliance burdens on the industry.
+The bottom line is that any bank of any size should always be on guard for suspicious activities, and whenever they know, suspect, or have reason to suspect a violation of law, they should file suspicious activity reports according to Federal Reserve and FinCEN regulations.
+Bankers must practice enough due diligence to know when a transaction is suspicious--for instance, if it has no business purpose or if it seems structured to get around Bank Secrecy Act regulations.
+On a related matter, in April the agencies issued guidance on money-services businesses, or MSBs, and how to handle them.
+The concern among bankers, which may result in part from misconceptions about the requirements of the Bank Secrecy Act, was that they were being held responsible for monitoring the activities of their customers.
+We hope that our guidance will reassure financial institutions that it is not our view that all money services firms present an unacceptably high risk of money laundering or other illegal activities, that we are not instructing banks to close MSB accounts, and that we do not expect banks to regulate MSBs.
+Guidance on Overdraft Protection Another supervisory concern that I would like to talk about today is the service, increasingly being offered by some financial institutions, known as "bounced-check protection" or "overdraft protection."
+This is a type of credit service that may be offered to both consumer and small-business customers in place of traditional overdraft-coverage service.
+In February, the Federal Reserve and the other federal supervisors issued joint guidance highlighting various aspects of the marketing, disclosure, and implementation of some overdraft-protection programs that raised concerns about both consumer protection and safety and soundness.
+From a safety-and-soundness perspective, the agencies are concerned that these programs may expose institutions to more credit risk than do more-traditional overdraft products.
+The guidance emphasizes prudent risk-management practices that financial institutions should follow with respect to the credit-risk aspects of overdraft programs.
+From a consumer protection perspective, the agencies are concerned that, because of the way these programs are marketed, consumers do not always understand how they compare with traditional lines of credit, and that in some cases consumers are being encouraged to overdraw their accounts to meet short-term borrowing needs.
+In May, the Federal Reserve issued final amendments to Regulation DD, which implements the Truth in Savings Act, to improve the uniformity and adequacy of information provided to consumers about overdrawing their deposit accounts.
+Among other things, the revisions to Regulation DD would require additional disclosures about fees and other terms for overdraft services, including in advertisements.
+Basel I Amendments Finally, as I'm sure you are aware, over the past several years bank regulators have been working at the international level to revise the Basel Accord, the risk-based capital framework.
+Capital adequacy is a perennial concern of bank supervisors.
+The proposed revisions, especially the advanced approaches of Basel II, represent a sea change in how banks determine their minimum level of required capital for regulatory purposes.
+The advanced approaches are intended to better align regulatory capital with inherent risks and banks' internal economic capital, and they will encourage large complex organizations to strengthen risk-measurement and -management systems.
+Of course, the more-advanced approaches of Basel II are clearly designed for large complex banks and will not be required for community banks or even for most regional banking organizations.
+U.S. regulators are very sensitive to the possible competitive implications of having two sets of rules for the banking industry.
+Some community bankers in particular have expressed concerns about the competitive impact of the Basel II capital accord on non-Basel II banks, particularly for residential mortgages and retail and small-business loans.
+Many community bankers are concerned about the minimum level of regulatory capital that Basel II banks will be required to hold.
+In response, the Federal Reserve has conducted a number of studies on whether Basel II will create significant market distortions for the vast majority of banking organizations that remain on Basel I.
+These studies have suggested that competitive impacts will be mild for some business lines, while for others, such as some types of small-business loans, it does appear that unintended competitive advantages and disadvantages might be created--depending in part on how Basel II is ultimately implemented in the United States.
+Where these concerns appear valid, we and the other federal banking agencies will propose remedies in the form of revisions to the current Basel I-based capital rules.
+It is our current intention to issue a proposal to revise the Basel I-based capital rules close to the same time that we issue the proposed rulemaking for Basel II.
+We would like to allow the banking community to compare and comment on both proposals, for the very reason that we are sensitive to the potential for competitive distortions.
+Moreover, as in the past, if competitive or other issues later arise that we cannot now foresee, the Federal Reserve will make appropriate adjustments to the rules.
+I want to make clear that, for the vast majority of banks here in the United States, I see no reason to replace the Basel I-based regulatory framework with a complex framework similar to advanced Basel II.
+The Basel I-based framework has evolved modestly over time in response to market developments and to address safety-and-soundness issues.
+With occasional modifications, the current risk-based capital regime should remain appropriate for most U.S. banking organizations for many years to come.
+It is also important for you to know that we supervisors will not look upon institutions as having deficient risk-management systems simply because they choose to stay under the Basel I capital framework.
+Our focus will continue to be on ensuring that risk-management processes are appropriate for operations of each institution and that those risk systems operate effectively.
+Thus, we expect that non-Basel II banks will continue to have CAMELS 1 and 2 ratings as long as they operate in a safe and sound manner.
+Note that Basel I and Basel II are not the only capital regulations under which U.S. institutions will operate.
+More than a decade ago, the Congress, as part of the Federal Deposit Insurance Corporation Improvement Act's prompt-corrective-action (PCA) regime, defined a critically undercapitalized insured depository institution by reference to a minimum tangible-equity-to-asset requirement--a leverage ratio.
+The agencies have also used leverage ratios to define other PCA capital categories because experience has suggested that there is no substitute for an adequate equity-to-asset ratio, especially for entities that face the moral hazard that accompanies the federal safety net.
+The Federal Deposit Insurance Corporation, which is responsible to the Congress for the management of the critical deposit-insurance portion of the safety net, has underlined the importance of that minimum leverage ratio and PCA as part of a prudent supervisory regime.
+The Federal Reserve concurs with the FDIC's view.
+As I have mentioned, we need the risk-measurement and -management infrastructure and the risk sensitivity of Basel II, but we also need the supplementary assurance of a minimum equity base.
+Meanwhile, even if supervisors did not call for a minimum leverage ratio, I firmly believe that bankers, investors, and rating agencies would demand it.
+This leverage ratio would be the same under the amended Basel I framework as it would be under the Basel II framework.
+Conclusion In conclusion, I would like to say that we at the Federal Reserve understand the depth and complexity of the issues that banks face today, from capital to credit-risk to compliance issues.

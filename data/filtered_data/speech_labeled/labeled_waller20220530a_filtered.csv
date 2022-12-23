@@ -1,0 +1,95 @@
+Unnamed: 0,sentence,label,score
+0,"We also face the common challenge of excessive inflation, which is no coincidence, since Germany and other countries are dealing with many of the same forces driving up inflation in the United States.",LABEL_1,0.9992774128913879
+1,"We see that in the deepening and possible broadening of our security commitments, and we also see it in the strong commitment that central banks in Europe and elsewhere have made to fight inflation.",LABEL_1,0.9989432692527771
+2,"First, I will provide my outlook for the U.S. economy and how the Federal Reserve plans to reduce inflation and achieve our 2 percent target.",LABEL_1,0.941115140914917
+3,Then I will pivot to a more academic discussion of the labor market and the possibility of a soft landing in which taming inflation does not harm employment.,LABEL_2,0.8209958672523499
+4,"Despite a pause early this year in the growth of real gross domestic product (GDP), the U.S. economy continues to power along at a healthy pace.",LABEL_1,0.9799520373344421
+5,"Consumer spending and business investment, which are the bedrock of GDP, were both strong, and more recent data point toward solid demand and continuing momentum in the economy that will sustain output growth in the months ahead.",LABEL_1,0.9969033598899841
+6,"Unemployment is near a 50-year low, and both the low numbers of people filing for unemployment benefits and the high number of job openings indicate that the slowdown in the economy from the fast pace of last year isn't yet weighing on the job market.",LABEL_2,0.9247163534164429
+7,"As I will explain, this very tight labor market has implications for inflation and the Fed's plans for reducing inflation.",LABEL_1,0.999552309513092
+8,"But on its own terms, we need to recognize that robust job creation is an underlying strength of the U.S. economy, which is expanding its productive capacity and supporting personal income and ongoing economic growth, in the face of other challenges.",LABEL_1,0.9501229524612427
+9,"Let me turn now to the outlook for the Fed's top priority, inflation.",LABEL_2,0.999624490737915
+10,"I said in December that inflation was alarmingly high, and it has remained so.",LABEL_1,0.9991599321365356
+11,The April consumer price index (CPI) was up 8.3 percent year over year.,LABEL_1,0.997984766960144
+12,This headline number was a slight decline from 8.5 percent in March but primarily due to a drop in volatile gasoline prices that we know surged again this month.,LABEL_2,0.9887086749076843
+13,"Twelve-month ""core"" inflation, which strips out volatile food and energy prices, was also down slightly to 6.2 percent in April, from 6.5 percent the month before, but the 0.6 percent monthly increase from March was an acceleration from the February to March rate and still too high.",LABEL_1,0.9990243911743164
+14,"Meanwhile, the Fed's preferred measure based on personal consumption expenditures (PCE) recorded headline inflation of 6.3 percent and core of 4.9 percent.",LABEL_1,0.9948458671569824
+15,"No matter which measure is considered, however, headline inflation has come in above 4 percent for about a year and core inflation is not coming down enough to meet the Fed's target anytime soon.",LABEL_1,0.9981380701065063
+16,"Inflation this high affects everyone but is especially painful for lower- and middle-income households that spend a large share of their income on shelter, groceries, gasoline, and other necessities.",LABEL_1,0.9993083477020264
+17,"It is the FOMC's job to meet our price stability mandate and get inflation down, and we are determined to do so.",LABEL_1,0.999651312828064
+18,The forces driving inflation today are the same ones that emerged a year ago.,LABEL_1,0.5158828496932983
+19,The combination of strong consumer demand and supply constraintsâ€”both bottlenecks and a shortage of workers relative to labor demandâ€”is generating very high inflation.,LABEL_1,0.9995657801628113
+20,"We can argue about whether supply or demand is a greater factor, but the details have no bearing on the fact that we are not meeting the FOMC's price stability mandate.",LABEL_2,0.9997766613960266
+21,What I care about is getting inflation down so that we avoid a lasting escalation in the public's expectations of future inflation.,LABEL_0,0.63740074634552
+22,"Once inflation expectations become unanchored in this way, it is very difficult and economically painful to lower them.",LABEL_1,0.9994333386421204
+23,"While it is not surprising that inflation expectations for the next year are up, since current inflation is high, what I focus on is longer-term inflation expectations.",LABEL_1,0.9989396929740906
+24,"Overall, my assessment is that longer-range inflation expectations have moved up from a level that was consistent with trend inflation below 2 percent to a level that's consistent with underlying inflation a little above 2 percent.",LABEL_1,0.9959698915481567
+25,"I will be watching that these expectations do not continue to rise because longer-term inflation expectations influence near term inflation, as well as our ability to achieve our 2 percent target.",LABEL_1,0.9130734205245972
+26,"When they are anchored, they influence spending decisions today in a way that helps inflation move toward our target.",LABEL_1,0.9553893804550171
+27,"To ensure these longer-term expectations do not move up broadly, the Federal Reserve has tools to reduce demand, which should ease inflation pressures.",LABEL_1,0.9074103236198425
+28,"And, over time, supply constraints will resolve to help rein in price increases as well, although we don't know how soon.",LABEL_1,0.9993526339530945
+29,I cannot emphasize enough that my FOMC colleagues and I are united in our commitment to do what it takes to bring inflation down and achieve the Fed's 2 percent target.,LABEL_1,0.9987117052078247
+30,"In particular, I am not taking 50 basis-point hikes off the table until I see inflation coming down closer to our 2 percent target.",LABEL_1,0.9994799494743347
+31,"And, by the end of this year, I support having the policy rate at a level above neutral so that it is reducing demand for products and labor, bringing it more in line with supply and thus helping rein in inflation.",LABEL_1,0.9981714487075806
+32,"In the next couple of weeks, for example, the May employment and CPI reports will be released.",LABEL_1,0.9996060729026794
+33,Those are two key pieces of data I will be watching to get information about the continuing strength of the labor market and about the momentum in price increases.,LABEL_2,0.9997615218162537
+34,"Over a longer period, we will learn more about how monetary policy is affecting demand and how supply constraints are evolving.",LABEL_2,0.9982450008392334
+35,"If the data suggest that inflation is stubbornly high, I am prepared to do more.",LABEL_2,0.9997127652168274
+36,"This expectation represents a significant degree of policy tightening, consistent with the FOMC's commitment to get inflation back under control and, if we need to do more, we will.",LABEL_1,0.9992237091064453
+37,Higher rates make it more expensive to finance spending and investment which should help reduce demand and contribute to lower inflation.,LABEL_1,0.9996585845947266
+38,"In addition to raising rates, the FOMC further tightened monetary policy by ending asset purchases in March and then agreeing to start reducing our holdings of securities, a process that begins June 1.",LABEL_1,0.9991733431816101
+39,All these actions have the goal of bringing inflation down toward the FOMC's 2 percent target.,LABEL_1,0.9994052648544312
+40,Increased rates and a smaller balance sheet raise the cost of borrowing and thus reduce household and business demand.,LABEL_1,0.9992250204086304
+41,"On top of this, I also hope that over time supply problems resolve and help lower inflation.",LABEL_1,0.9662745594978333
+42,"The United States is not alone in facing excessive inflation, and other central banks also are responding.",LABEL_1,0.998871386051178
+43,"In the euro area, headline inflation continued to edge up in April, to 7.5 percent, while its version of core inflation increased from 2.9 percent to 3.5 percent.",LABEL_1,0.99962317943573
+44,"Based on this broadening of price pressures, communication by the European Central Bank (ECB) is widely interpreted as signaling that it will likely start raising its policy rate this summer and that it could raise rates a few times before year-end.",LABEL_1,0.996862530708313
+45,"Policy tightening started last year, as emerging markets including Mexico and Brazil increased rates substantially amid expectations of accelerating inflation.",LABEL_1,0.9887911081314087
+46,"Several advanced-economy central banks, including the Bank of England, began raising interest rates in the second half of last year.",LABEL_1,0.9992175102233887
+47,"This worldwide increase in policy rates, unfortunately, reflects the fact that ­high inflation is a global problem, which central banks around the world recognize must be addressed.",LABEL_1,0.9991984963417053
+48,Some have expressed concern that the Fed cannot raise interest rates to arrest inflation while also avoiding a sharp slowdown in economic growth and significant damage to the labor market.,LABEL_1,0.9991269707679749
+49,"One argument in this regard warns that policy tightening will reduce the current high level of job vacancies and push up unemployment substantially, based on the historical relationship between these two pieces of data, which is depicted by something called the Beveridge curve.",LABEL_1,0.9996428489685059
+50,The relationship between vacancies and the unemployment rate is shown in slide 4.,LABEL_1,0.9974868297576904
+51,The blue dots in the figure show observations of the vacancy rate and the unemployment rate between 2000 and 2018.,LABEL_0,0.4703100025653839
+52,The black curve is the fitted relationship between the log of vacancies and the log of unemployment over this period.,LABEL_1,0.9994639754295349
+53,"From this, the argument goes, policy to slow demand and push down vacancies requires moving along this curve and increasing the unemployment rate substantially.",LABEL_2,0.9998351335525513
+54,"But there's another perspective about what a reduction in vacancies implies for unemployment that is just as plausible, if not more so.",LABEL_2,0.9998438358306885
+55,"These two dots suggest that the vacancy rate can be reduced substantially, from the current level to the January 2019 level, while still leaving the level of vacancies consistent with a strong labor market and with a low level of unemployment, such as we had in 2019.",LABEL_2,0.9998236298561096
+56,"To see why this is a plausible outcome, I first need to digress a bit to discuss the important determinants of unemployment.",LABEL_0,0.7670321464538574
+57,"Many factors influence the unemployment rate, and vacancies are just one.",LABEL_1,0.9145992994308472
+58,"Thus, to understand how a lower vacancy rate would influence unemployment going forward, we need to separate the direct effect of vacancies on the unemployment rate from other factors.",LABEL_2,0.9125898480415344
+59,"To do that, we first need to review the factors that account for unemployment movements.",LABEL_2,0.9753803014755249
+60,"There are two broad determinants of unemployment: separations from employment (including layoffs and quits), which raise unemployment, and job finding by the unemployed, which lowers unemployment.2 Separations consist largely of layoffs, which are typically cyclical, surging in recessions and falling during booms.",LABEL_2,0.9989558458328247
+61,"To see how separations and job finding affect the unemployment rate, it's helpful to start with equation (1) on slide 6, which states that in a steady state (that is, when the unemployment rate is constant), flows into unemployment, the left side of equation (1), must equal flows out of unemployment, the right side.",LABEL_2,0.9762149453163147
+62,"Flows into unemployment equal the separations rate, $$s$$, times the level of employment.",LABEL_2,0.9998220801353455
+63,"For simplicity, I've normalized the labor force to 1, so that employment equals 1 minus unemployment, $$U$$.",LABEL_2,0.9743273854255676
+64,"Flows out of unemployment, the right side of the equation, equal the rate of job finding, $$f$$, times the number of unemployed.",LABEL_2,0.9991117119789124
+65,"Rearranging this equation yields an expression for the steady-state unemployment rate, equation (2).3 Because flows into and out of unemployment are quite high, the actual unemployment rate converges to the steady-state unemployment rate quickly, and the steady-state unemployment rate typically tracks the actual rate closely.4 So, going forward, I'm going to think of the steady-state unemployment rate as a good approximation of the actual unemployment rate.",LABEL_2,0.9984879493713379
+66,"If we divide both sides of equation (3) by unemployment, we get equation (4), which expresses the job-finding rate as a function of the ratio of vacancies to unemployment, or labor market tightness.",LABEL_2,0.9995434880256653
+67,"On the one hand, if the workers searching for jobs are well suited for the jobs that are available, matching efficiency will be high; on the other hand, if many searching workers are not well suited for the available jobs, matching efficiency will be low.6 The last step is to plug our expression for job finding into equation (2), the steady-state unemployment rate, yielding equation (5).",LABEL_2,0.9993442893028259
+68,Equation (5) shows how vacancies affect the unemployment rate.,LABEL_2,0.9997149109840393
+69,"That is, I pick a separation rate at some level and trace out what happens to the unemployment rate as the vacancy rate changes.",LABEL_2,0.990826427936554
+70,Then I pick a different separation rate and again trace out the effect of vacancies on unemployment.,LABEL_2,0.9996392726898193
+71,"The result is shown on slide 8, which plots four curves showing the effect of vacancies on unemployment for four different separation rates.",LABEL_2,0.9998109936714172
+72,"Because more vacancies generate fewer and fewer hires, they result in smaller and smaller reductions in unemployment.",LABEL_2,0.9998319149017334
+73,"But large numbers of vacancies are, of course, a hallmark of tight labor markets and additional vacancies continue to strongly boost wage growth and quits.",LABEL_2,0.9998501539230347
+74,"You can see that when the separations rate is this high, the unemployment rate is also going to be high, no matter the level of vacancies.",LABEL_2,0.9998359680175781
+75,"At the same time, greater labor demand increases vacancies, causing the labor market to move up the steep curves.",LABEL_0,0.9953450560569763
+76,"As you recall, the black curve fits the actual observations on unemployment and vacancies we saw before the pandemic.",LABEL_1,0.9945679903030396
+77,And we now can see that these observations are produced by a combination of changes in vacancies and separations (as well as other influences on unemployment).,LABEL_0,0.9495781064033508
+78,"Decreases in the separations rate reduce the unemployment rate without changing vacancies, imparting a flatness to the fitted curve relative to the steeper curves that only reflect the effect of vacancies.",LABEL_1,0.9985008239746094
+79,"What does all this suggest about what will happen to the labor market when, as I expect, a tightening of financial conditions and fading fiscal stimulus start to cool labor demand?",LABEL_2,0.9991940855979919
+80,"Slide 10 focuses on the Beveridge curve (the relationship produced by the direct effect of changes in vacancies on unemployment) when the separations rate is low, as it is now.7 The March 2022 observation lies at the top of the curve and is labeled point A.",LABEL_2,0.9995805621147156
+81,"If there is cooling in aggregate demand spurred by monetary policy tightening that tempers labor demand, then vacancies should fall substantially.",LABEL_2,0.9996769428253174
+82,"Then we should travel down the curve from point A to point B.8 The unemployment rate will increase, but only somewhat because labor demand is still strongâ€”just not as strongâ€”and because when the labor market is very tight, as it is now, vacancies generate relatively few hires.",LABEL_2,0.6215338706970215
+83,"Thus, reducing vacancies from an extremely high level to a lower (but still strong) level has a relatively limited effect on hiring and on unemployment.",LABEL_2,0.999707043170929
+84,"Now, I also show the January 2019 observation of vacancies and unemployment.",LABEL_1,0.9929734468460083
+85,"As you can see, moving from the March 2022 observation to the January 2019 observation is not that different from the change in the unemployment rate predicted by my estimated Beveridge curve, which suggests the predicted small increase in unemployment is a plausible outcome to policy tightening.",LABEL_0,0.8254979848861694
+86,"If labor demand cools, will separations increase and shift the curve outward, increasing unemployment further?",LABEL_2,0.9583924412727356
+87,"Instead, changes in labor demand appear to be reflected primarily in changes in vacancies.",LABEL_2,0.9997727274894714
+88,"Now, it's certainly possible, even probable, that influences on the unemployment rate other than vacancies will change going forward.",LABEL_2,0.9998375177383423
+89,"Thus, I'm not arguing that the unemployment rate will end up exactly as the Beveridge curve I've drawn suggests.",LABEL_1,0.9991924166679382
+90,But I do think it quite plausible that the unemployment rate will end up in the vicinity of what the Beveridge curve currently predicts.,LABEL_0,0.9846376776695251
+91,"Another consideration is that non-linear dynamics could take hold if the unemployment rate increases by a certain amount, as suggested by the Sahm rule, which holds that recessions have in the past occurred whenever the three-month moving average of the unemployment rate rises 0.5 percentage point over its minimum rate over the previous 12 months.9 We certainly need to be alert to this possibility, but the past is not always prescriptive of the future.",LABEL_2,0.9997922778129578
+92,"To sum up, the relationship between vacancies and unemployment gives me reason to hope that policy tightening in current circumstances can tame inflation without causing a sharp increase in unemployment.",LABEL_2,0.9998132586479187
+93,"From this discussion, I am left optimistic that the strong labor market can handle higher rates without a significant increase in unemployment.",LABEL_2,0.9997425675392151

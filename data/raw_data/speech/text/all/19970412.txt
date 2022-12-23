@@ -1,0 +1,129 @@
+Having been a bank regulator for ten years, I need something to remind me that the world operates just fine with a minimum of us.
+Fortunately, I have never lost sight of the fact that government regulation can undermine the effectiveness of private market regulation and can itself be ineffective in protecting the public interest.
+It is most important to recognize that no market is ever truly unregulated in that the self-interest of participants generates private market regulation.
+Counterparties thoroughly scrutinize each other, often requiring collateral and special legal protections; self-regulated clearing houses and exchanges set margins and capital requirements to protect the interests of the members.
+Thus, the real question is not whether a market should be regulated.
+Rather, it is whether government intervention strengthens or weakens private regulation, and at what cost.
+At worst, the introduction of government rules may actually weaken the effectiveness of regulation if government regulation is itself ineffective or, more importantly, undermines incentives for private market regulation.
+Regulation by government unavoidably involves some element of perverse incentives.
+If private market participants believe that government is protecting their interests, their own efforts to do so will diminish.
+No doubt the potential effectiveness of private market regulation and the potential ineffectiveness of government intervention is well understood by those attending this conference on zero-based government.
+However, I am sure that you will not be taken aback to hear that many here in Washington are skeptical of market self-regulation and seem inclined to believe that more government regulation, especially in the case of banking, necessarily means better regulation.
+To a significant degree, attitudes toward banking regulation have been shaped by a perception of the history of American banking as plagued by repeated market failures that ended only with the enactment of comprehensive federal regulation.
+The historical record, however, is currently undergoing a healthy reevaluation.
+In my remarks this evening I shall touch on the evolution of the American banking system, focusing especially on the pre-Civil War period, when government regulation was less comprehensive and less intrusive and interfered less with the operation of market forces.
+A recent growing body of research supports the view that during that period market forces were fairly effective in assuring that individual banks constrained risktaking to prudent endeavors.
+Nonetheless, the then nascent system as a whole proved quite vulnerable to various macroeconomic shocks essentially unrelated to the degree of banking regulation.
+I shall conclude by drawing some implications for how banking regulation needs to evolve in the future, with greater reliance on private market regulation.
+The Roots of Banking Many of the benefits banks provide modern societies derive from their willingness to take risks and from their use of a relatively high degree of financial leverage.
+Through leverage, in the form principally of taking deposits, banks perform a critical role in the financial intermediation process; they provide savers with additional investment choices and borrowers with a greater range of sources of credit, thereby facilitating a more efficient allocation of resources and contributing importantly to greater economic growth.
+Indeed, it has been the evident value of intermediation and leverage that has shaped the development of our financial systems from the earliest times--certainly since Renaissance goldsmiths discovered that lending out deposited gold was feasible and profitable.
+When Adam Smith formulated his views on banking, in the Wealth of Nations, he had in view the Scottish banking system of the 1760s and 1770s.
+That system was a highly competitive one in which entry into the banking business was entirely free.
+Competitors included a large number of private, that is, unincorporated, bankers who discounted commercial paper and issued bank notes.
+Those private bankers sought no government assistance.
+Chartered Banking (1781-1838) From the very beginning the American banking system has had an entirely different character.
+Although some private individuals undoubtedly circulated limited volumes of bank notes, those seeking to circulate a significant volume of notes invariably applied for a corporate charter from state or federal authorities.
+Entry into the banking business was far from free.
+Indeed, by the early 1800s chartering decisions by state authorities became heavily influenced by political considerations.
+Aside from restrictions on entry, for much of the antebellum period state regulation largely took the form of restrictions inserted into bank charters, which were individually negotiated and typically had a life of ten or even twenty years.
+The regulations were modest and appear to have been intended primarily to ensure that banks had adequate specie reserves to meet their debt obligations, especially obligations on their circulating notes.
+Nonetheless, the very early history of American banking was an impressive success story.
+Not a single bank failed until massive fraud brought down the Farmers Exchange Bank in Rhode Island in 1809.
+Thereafter, a series of severe macroeconomic shocks--the War of 1812, the depression of 1819-20, and the panic of 1837--produced waves of failures.
+What should be emphasized, however, is the stability of banking in the absence of severe macroeconomic shocks, a stability that reflected the discipline of the marketplace.
+A bank's ability to circulate its notes was dependent on the public's confidence in its ability to redeem its notes on demand.
+Then, far more than now, there was competition for reputation.
+The market put a high value on integrity and punished fly-by-night operators.
+When confidence was lacking in a bank, its notes tended to exchange at a discount to specie and to the rates of other, more creditworthy banks.
+This phenomenon was evident as early as the late 1790s in Boston, where large amounts of notes issued by New England country banks circulated.
+In 1799 the Boston banks agreed to accept notes of certain country banks only at discounts of one-half percent.
+Several years later they began systematically sending back country notes for redemption, and they eventually refused for a time to accept such notes, even at a discount.
+Early in the 1800s private money brokers seem to have made their first appearance.
+These brokers, our early arbitrageurs, purchased bank notes at a discount and transported them to the issuing bank, where they demanded par redemption.
+Difficulties in redeeming the notes of New England country banks eventually produced the first notable example of cooperative self-regulation in American banking, known as the Suffolk Bank System.
+The Suffolk Bank was chartered in 1818 and entered the business of collecting country bank notes in 1819.
+In effect, the Suffolk Bank created the first regional clearing system.
+By doing so, it effectively constrained the supply of notes by individual banks to prudential levels and thereby allowed the notes of all of its associated banks to circulate consistently at face value.
+In the 1830s, there was a large expansion of state-chartered banks, many of which were severely tested and found wanting during the panic of 1837.
+However, very few banks failed in New England, where the Suffolk Bank continued to provide an effective, and entirely private, creditor discipline.
+Free Banking (1837-1863) The intense political controversy over the charter renewal of the Second Bank of the United States and the wave of bank failures following the panic led many states to fundamentally reconsider their approach to banking regulation.
+In particular, in 1838 New York introduced a new approach, known as free banking, which in the following two decades was emulated by many other states.
+The nature of free banking and the states' experience with this approach to regulation have been the subject of profound misconceptions.
+Specifically, many seem to believe that free banking was banking free from government regulation and that the result was a series of debacles.
+They conclude that the experience with free banking demonstrates that market forces cannot effectively constrain bank risktaking.
+In fact, the "free" in free banking meant free entry under the terms of a general law of incorporation rather than through a specific legislative act.
+The public, especially in New York, had become painfully aware that the restrictions on entry in the chartered system were producing a number of adverse effects.
+For one thing, in the absence of competition, access to bank credit was perceived to have become politicized--banks' boards of directors seemed to regard those who shared their political convictions as the most creditworthy borrowers.
+In addition, because a bank charter promised monopoly profits, bank promoters were willing to pay handsomely for the privilege and legislators apparently eagerly accepted payment, often in the form of allocations of bank stock at below-market prices.
+If free banking was not actually as free as commonly perceived, it also was not nearly as unstable.
+The perception of the free banking era as an era of "wildcat" banking marked by financial instability and, in particular, by widespread significant losses to noteholders also turns out to be wide of the mark.
+Recent scholarship has demonstrated that free bank failures were not as common and resulting losses to noteholders were not as severe as earlier historians had claimed.
+In addition, failure rates and loss rates differed significantly across states, suggesting that whatever instability was experienced was not inherent in free banking per se.
+In particular, widely cited losses to holders of notes issued by free banks in Indiana, Illinois, and Wisconsin appear to have resulted from banks in these states being forced to hold portfolios of risky state bonds that were not well-diversified, were not especially liquid, and too often defaulted.
+It was, in short, state regulation that caused the high failure rates.
+During the free banking era private market regulation also matured in several respects.
+Particularly after the panic of 1837, the public was acutely aware of the possibility that banks would prove unable to redeem their notes.
+Discounting of bank notes was widespread.
+Indeed, between 1838 and the Civil War quite a few note brokers began to publish monthly or biweekly periodicals called bank note reporters that listed prevailing discounts on thousands of individual banks.
+Research based on data from these publications has shown that the notes of new entrants into banking tended to trade at significant discounts.
+If a bank demonstrated its ability to redeem its notes, over time the discount diminished.
+The declining discount on a bank's notes implies a lower cost of funds, the present value of which can be considered an intangible asset, the bank's reputation.
+Banks had a strong incentive to avoid overissuing notes so as not to impair the value of this intangible asset.
+Throughout the free banking era the effectiveness of this competition for reputation imparted an increased type of market discipline, perhaps because technological change--the telegraph and the railroad--made monitoring of banks more effective and reduced the time required to send a note home for redemption.
+Between 1838 and 1860 the discounts on notes of new entrants diminished and discounts came to correspond more closely to objective measures of the riskiness of individual banks.
+Another element of the maturation of private market regulation in banking was the emergence of full-fledged bank clearing houses, beginning with the establishment of the New York Clearing House in 1853.
+The primary impetus for the development of clearing houses was the increasing importance of checkable deposits as a means of payment.
+Large merchants were making payments by checks drawn on their deposit accounts as early as the 1780s.
+But in the 1840s and 1850s the use of checks spread rapidly to shopkeepers, mechanics and professional men.
+The clearing house reduced the costs of clearing and settling the interbank obligations arising from the collection of checks and banknotes, and thereby made feasible the daily settlement in specie of each bank's multilateral net claim on, or obligation to, the other banks in the clearing house.
+By itself, such an efficient clearing mechanism constrained the ability of individual banks to expand their lending imprudently.
+From the very beginning, however, clearing houses introduced other important elements of private, self-regulation.
+For example, the New York Clearing House's 1854 constitution established capital requirements for admission to the clearing house and required members to submit to periodic exams of the clearing house.
+If an exam revealed that the bank's capital had become impaired, it could be expelled from the clearing house.
+National Banking (1863-1913) One compelling piece of evidence that contemporary observers did not regard free banking as a failure is that the National Banking System, established by an act of Congress in 1863, incorporated key elements of free banking.
+These included free entry and collateralized bank notes.
+However, unlike the state laws, the federal law interfered with private market forces by imposing an aggregate limit on note issues, along with a set of geographic allocations of the limit that produced a serious maldistribution of notes.
+Although the aggregate limit on note issues was repealed in 1875, the collateral requirement for note issues continued to unduly restrict the longer-term growth of the money supply, eventually producing a significant price deflation and, in the 1890s, very poor economic growth.
+In addition, the restrictions on note issues precluded the accommodation of temporary increases in demands for currency.
+The inelasticity of the note issue produced strains in financial markets each spring and fall as crops were planted and then brought to market.
+More seriously, when depositors periodically became nervous about the health of the banks, the demands to convert deposits into well-secured bank notes simply could not be met in the aggregate, and attempts to do so resulted in withdrawals of reserves from the money centers that severely and repeatedly disrupted the money markets.
+Private markets innovated in ways that tempered the adverse consequences resulting from these flaws in the government regulatory framework.
+Most notably, the New York Clearing House effectively pooled its members' reserves by issuing clearing house loan certificates and paying them out as substitutes for reserves in interbank settlements, first in the panic of 1857 and in every subsequent panic.
+By 1873, clearing houses in many other cities were following the same policy.
+In addition, the clearing houses accepted as settlement media other currency substitutes issued by their members including certified checks and cashier's checks.
+In effect, the clearing houses were assuming some of the functions of central banks.
+But a true central bank was perceived through most of the 19th century as an infringement of states' rights.
+A central bank, in any event, was deemed by many as superfluous given the fully functioning gold standard of the day.
+It was only with the emergence of periodic credit crises late in the century and especially in 1907, that a central bank gained support.
+These crises were seen in part as a consequence of the inelastic currency engendered by the National Bank Act.
+Even with the advent of the Federal Reserve in 1913, monetary policy through the 1920s was largely governed by gold standard rules.
+Fiscal policy was also restrained.
+For most of the period prior to the early 1930s, obligations of the U.S. Treasury were payable in gold or silver.
+This meant the whole outstanding debt of our government was subject to redemption in a medium, the quantity of which could not be altered at the will of the government as it can with today’s fiat currency.
+Hence, debt issuance and budget deficits were constrained by the potential market response to an economy inflated with excess credit, which would have drained the Treasury’s gold stock.
+Indeed, the United States skirted on the edges of bankruptcy in 1895 when our government gold stock shrank ominously and was bailed out by a last minute gold loan, underwritten by a Wall Street syndicate.
+In the broadest sense, the existence of a gold standard delimited the capability of the banking system to expand imprudently.
+Creation of the Federal Safety Net When the efforts of the Federal Reserve failed to prevent the bank collapses of the 1930s, the Banking Act of 1933 created federal deposit insurance.
+The subsequent evidence appears persuasive that the combination of a lender of last resort (the Federal Reserve) and federal deposit insurance has contributed significantly to financial stability and has accordingly achieved wide support within the Congress.
+Inevitably, however, such significant government intervention has not been an unmixed blessing.
+The federal safety net for banks clearly has diminished the effectiveness of private market regulation and created perverse incentives in the banking system.
+To cite the most obvious and painful example, without federal deposit insurance, private markets presumably would never have permitted thrift institutions to purchase the portfolios that brought down the industry insurance fund and left future generations of taxpayers responsible for huge losses.
+To be sure, government regulators and politicians have learned from this experience and taken significant steps to diminish the likelihood of a recurrence.
+Nonetheless, the safety net undoubtedly still affects decisions by creditors of depository institutions in ways that weaken the effectiveness of private market regulation and leave us all vulnerable to any future failures of government regulation.
+As the history of American banking demonstrates, private market regulation can be quite effective, provided that government does not get in its way.
+Indeed, rapidly changing technology is rendering obsolescent much of the old bank examination regime.
+Bank regulators are perforce being pressed to depend increasingly on ever more complex and sophisticated private market regulation.
+This is certainly the case for the rapidly expanding bank derivatives markets, and increasingly so for the more traditional loan products.
+The lessons of early American banking should encourage us in this endeavor.
+In closing, I should like to emphasize that the rapidly changing technology that is rendering much government bank regulation irrelevant also bids fair to undercut regulatory efforts in a much wider segment of our economy.
+The reason is that such regulation is inherently conservative.
+It endeavors to maintain the status quo and the special interests who benefit therefrom.
+New ideas, new products, new ways of doing things, all, of necessity, raise the riskiness of any organization, riskiness for which regulators have a profound aversion.
+Yet since the value of all wealth reflects its future productive capabilities, all wealth creation rests on uncertain forecasts, which means every investment is risky.
+Or put another way, you cannot have wealth creation without risktaking.
+With technological change clearly accelerating, existing regulatory structures are being bypassed, freeing market forces to enhance wealth creation and economic growth.
+In finance, regulatory restraints against interstate banking and combinations of investment and commercial banking are being swept away under the pressures of technological change.
+Much the same is true in transportation and communications.
+As we move into a new century, the market-stabilizing private regulatory forces should gradually displace many cumbersome, increasingly ineffective government structures.
+This is a likely outcome since governments, by their nature, cannot adjust sufficiently quickly to a changing environment, which too often veers in unforeseen directions.

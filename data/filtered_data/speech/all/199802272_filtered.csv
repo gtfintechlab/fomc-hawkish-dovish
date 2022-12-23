@@ -1,0 +1,92 @@
+,sentence
+0,Other countries have used policy-making rules that are based on explicit inflation targets.
+1,"While at this moment the Fed is an institution where members vote on monetary policy using their own best judgment, the issues illustrated in discussing the question of rules are still interesting and controversial."
+2,"An alternative approach would base a rule on some target objective, such as stable prices, and have monetary authorities reduce the inflation rate to some specified amount, however the authorities choose to do that."
+3,"At one extreme, they might be mandated by Congress, as would have been the case in a stable price bill introduced by Senator Connie Mack in the early 1990s (but never passed)."
+4,"At the other extreme, they might be simple informal rules of thumb that guide some members in their votes on monetary policy."
+5,"Moreover, there may be several competing monetary objectives - say, reducing inflation and smoothing exchange rates."
+6,"New gold discoveries would lead to monetary expansions in recipient countries, which would then experience rises in prices and output."
+7,Contractions in the supply of usable gold would require contractions in prices and output.
+8,"If a country on its own over-inflated demand, say by fiscal policy, its demand would spill over to foreigners and its gold would flow out."
+9,"Monetary policy was not set consciously in terms of the economic needs of the country, but by the world gold market."
+10,"While it took some years for Federal Reserve practices to evolve, over time it has become understood that the rate of growth in money or liquidity set by the Fed determines the normal long run inflation rate in the United States."
+11,"If inflation is too high, monetary growth can be cut back."
+12,"If there is unemployment, monetary growth can be expanded."
+13,"The great conservative economist of the twentieth century, Milton Friedman, has long espoused an unconditional rule that would have the Fed simply allow the money supply to rise by about four percent a year, the rate Friedman determines would lead to approximate long run price stability."
+14,"The great liberal economist of the twentieth century, Paul Samuelson, has on the other hand argued that the Fed was given two eyes, one to watch the money supply and one to watch interest rates."
+15,"With these two eyes and presumably the rest of its head, Samuelson figures the Fed is able to set monetary policy magnitudes judgmentally, without any need for rules or rules of thumb."
+16,"The logic of the Friedman constant rate of growth (CROG) standard is that if the trend growth of real output is on the order of three percent per year, the trend growth of money of about four percent per year would permit for some low, and perhaps irreducible, inflation and also account for positive or negative trend changes in velocity."
+17,"Were there expansionary or contractionary fiscal shocks, interest rates would rise or fall to stabilize output."
+18,"As contrasted with the gold standard, overall liquidity would rise at a steady pace set to accommodate the normal growth in the economy, rather than an erratic pace set by worldwide gold discoveries."
+19,"A first, pointed out by William Poole (1970),2 is that there could be shocks in the demand for money, related to technological or regulatory changes in the money creation system, foreign flows, or whatever."
+20,"If velocity is stable, either constant (as the classical economists used to think) or slowly changing, keeping money growth on a smooth trend will keep overall GDP growth on a smooth trend."
+21,"If on the other hand, velocity is not stable, by definition CROG would imply big cycles in total output unrelated to money growth."
+22,These swings now make it very difficult to use of CROG as a rule of thumb for monetary policy.
+23,"A Target Rule: Inflation Targeting A different approach, used in a number of industrialized countries (Canada, the United Kingdom, New Zealand, Sweden, Australia, Finland, Spain, and Israel, to name a few) is known as inflation targeting."
+24,"Rather than have some monetary quantity under the control of the authorities advance x percent per year, the idea of inflation targeting is to move right to the ultimate goal of monetary policy, stable prices - overall price levels should grow no more than y percent per year."
+25,"Rather than having monetary authorities operate in terms of a simple rule, the authorities are simply told to get inflation down, one way or another."
+26,"In this sense, inflation targeting is a very different type of rule."
+27,"While inflation targeting would seem to force central banks to become very specific about their policies, in fact the actual inflation targeting strategies have been more flexible."
+28,They have usually required the central bank to target between one and three percent inflation.
+29,"They have also been defined in terms of some version of the underlying rate of inflation - the overall inflation rate less food and energy prices, the impact of exchange rates, excise taxes, and perhaps other clearly exogenous prices."
+30,"Moreover, the real world inflation targets that have been instituted usually give the central bank an out, if this quarter it wants to worry about exchange rates, output gaps, or other economic goals (Ben Bernanke and Frederic Mishkin, (1997)).3 While not as loose as rules of thumb, nor have inflation targets been entirely rigid."
+31,The advantages and disadvantages of inflation targeting are much as for those of the other policy rules.
+32,All central bank objectives apart from stabilizing prices are relegated to the background.
+33,"Moreover, in the event of adverse price shocks, which impart a negative correlation between price and output movements, inflation targeting may force the central bank into undesirable contractionary policies just when unemployment is rising, though the fact that the targets can be written in terms of underlying inflation mitigates this concern."
+34,Often inflation targets are adopted when countries' inflation rates are clearly too high.
+35,"In this event, should central banks be required (asked) to stabilize inflation gradually or abruptly?"
+36,"If there are nonlinearities in the inflation process, output gaps would normally be less if the central bank were to try to reduce inflation more gradually."
+37,"A close relative to inflation targeting is nominal income targeting, suggested by Robert Hall and Greg Mankiw (1994).4 The main difference between inflation targeting and nominal income targeting is in the shocks."
+38,"If there are price shocks, nominal income will not change as much as inflation, and the central bank would be better off targeting nominal income than inflation directly."
+39,"On the other hand, if there are output productivity shocks, these shocks could alter nominal income and force the central bank to expand or contract even if inflation were on target."
+40,"In general it is difficult to tell whether price shocks or productivity shocks will be larger and more prevalent, and hence whether nominal income targeting will or will not improve on inflation targeting."
+41,"Taylor works backwards by determining how the federal funds rate, a short term interest rate, should respond to inflation and output."
+42,Using the funds rate directly eliminates the influence of shocks in the demand for money.
+43,The equilibrium funds rate in real terms is r* and the actual rate of inflation is p. The deviation of output from its long-term trend is y and desired inflation is p*.
+44,"While Taylor's rule is often expressed in terms of contemporaneous values of inflation and output, if there are lags in monetary policy, p and y could be forecast values, so that monetary policy could be made forward-looking."
+45,"Suppose that monetary authorities were close to policy-making bliss, with no actual or forecast output or inflation deviations."
+46,"If there were an inflationary shock, the monetary authorities would raise the funds rate by 1.5 times the change in inflation (the derivative of PFR with respect to p)."
+47,"This means that the real funds rate would rise as inflation rises, preserving the overall system stabilizing properties."
+48,"If inflation rises, the rule tells the Fed to raise the real federal funds rate."
+49,"For any given funds rate, if output rises the spread between long term interest rates and the funds rate will rise and dampen output demand."
+50,"If output falls, the spread will fall and stimulate output demand."
+51,"While such a simple rule might seem woefully inadequate as a descriptor of complex, subtle monetary policy, it turns out to explain actual monetary behavior in recent years quite well."
+52,"By historical standards, the 1987-97 decade was a good decade for the Federal Reserve, with only one recession and with gradually declining inflation rates."
+53,"He uses his rule to show that: In the 1960-63 period, the time of high unemployment, monetary policy was too tight."
+54,"In the 1965-79 period, the time of accelerating inflation, monetary policy was too easy."
+55,"In the 1981-85 period, the time of high unemployment, monetary policy again became too tight."
+56,"Moreover, the Taylor rule presumes that monetary policy is independent in the sense that the Fed is free to vary the funds rate."
+57,"Since the United States was on fixed exchange rates in the early 1960s, monetary authorities would have been substantially less free to lower the funds rate, as Taylor's rule would have recommended."
+58,"If the Federal Reserve were confronting the overhang of fifteen years of accelerating inflation combined with very large anticipated budget deficits, as it was in the early 1980s, policy might be forgiven a modest overadjustment according to the Taylor rule."
+59,"But while there are problems with Taylor's historical analysis, the central conclusion of this analysis -- that monetary policy was far too easy most of the time (1965-79) and could have benefitted from a rule is certainly borne out by others (see Richard Clarida, Jordi Gali, and Mark Gertler (1998)).8 Taylor's cautious implication is that sometime in the 1980s, well before Taylor wrote his path-breaking paper, monetary policy has gotten on track and has pretty much stayed on track since."
+60,After all these years the Fed may finally be learning how to conduct monetary policy.
+61,Is the Fed really learning how to conduct monetary policy?
+62,The inflation objective.
+63,The Taylor rule requires the monetary authority to get specific about price stability.
+64,"Because there are well-known measurement problems with all price indeces, it is not necessary for the Fed to shoot for zero inflation, but the Fed does have to shoot for p*, and it certainly has to know whether actual or forecast inflation is above or below p*."
+65,"That is not so hard when the economy is clearly suffering from inflation by anybody's definition, but it can become tricky as inflation declines and approaches its goal."
+66,Deviations of output from its trend are usually defined in terms of the so-called non-accelerating inflation rate of unemployment (NAIRU).
+67,"If, for example, the actual unemployment rate is above NAIRU, there is an implied output gap and the Taylor rule tells the Fed to lower the funds rate."
+68,"As with the inflation term, the Fed must then know where NAIRU is, and know whether current or forecast unemployment implies a positive or negative output gap."
+69,The unexpectedly quiescent behavior of inflation in the face of low unemployment in the late 1990s has led economists into major soul-searching about NAIRU.
+70,"For the Fed to lean against the wind of output gaps, it has to know what the output gaps are, and that too can become quite tricky as unemployment approaches its desired level."
+71,"Even if inflation and output are on target, the Fed still has to determine what value to use for r*, the equilibrium real federal funds rate."
+72,The problem with this approach is that it is only descriptive - fitting the Taylor rule only estimates how previous policy-makers might have responded to inflation and unemployment.
+73,One approach might be to use the rate on newly-introduced long term indexed bonds as a measure of the equilibrium real interest rate for an economy that saves roughly as much as that of the United States.
+74,The saving clause is necessary because in most economies long-term equilibrium real interest rates depend on national saving rates.
+75,Subtracting a stable price term structure premium then gives an estimate of r*.
+76,"Since there are long (and perhaps variable) lags in the impact of monetary policy, monetary policy must in principle move well in advance of the inflation and output gaps."
+77,"These gaps then have to be forecast, and the forecast in principle must be for a period far enough ahead that monetary policy can act in a timely matter."
+78,"This is a strong requirement and one can get misleading policy prescriptions by not looking ahead far enough, as is shown by David Small (1996).10 So the Taylor rule generally describes monetary policy well in years when policy was relatively successful, and also generally describes how monetary policy may have gotten off track in years when policy was less successful."
+79,It gives clear signals when output and inflation are far from their target values.
+80,"There are interpretation problems on all the relevant targets - desired inflation, desired output, and the desired equilibrium funds rate."
+81,"Implications To return to the theme at the outset, there have been attempts to reduce monetary policy to formula - first in terms of unconditional rules involving monetary aggregates, then targeting rules involving inflation, and now in terms of response rules involving the federal funds rate."
+82,"At the same time, the science of rule-building may have advanced to the point where monetary rules of thumb might play some useful role in the conduct of monetary policy."
+83,"1 John Taylor, ""A Historical Analysis of Monetary Policy Rules"" (Stanford University, 1998)."
+84,"2 William Poole, ""Optimal Choice of Monetary Policy Instruments in a Simple Stochastic Macro Model,"" Quarterly Journal of Economics, vol."
+85,"3 Ben S. Bernanke and Frederic S. Mishkin, ""Inflation Targeting: A New Framework for Monetary Policy?"""
+86,"4 Robert E. Hall and N. Gregory Mankiw, ""Nominal Income Targeting,"" in N. Gregory Mankiw, ed., Monetary Policy (University of Chicago Press, 1994), pp."
+87,"6 Andrew Levin, Volker Wieland, and John C. Williams, ""Robustness of Simple Monetary Policy Rules Under Model Uncertainty"" (Board of Governors of the Federal Reserve System, 1997)."
+88,"7 Athanasios Orphanides, ""Monetary Policy Rules Based on Real-Time Data"" (Board of Governors of the Federal Reserve System, 1997)."
+89,"8 Richard Clarida, Jordi Gali, and Mark Gertler, ""Monetary Policy Rules and Macroeconomic Stability: Evidence and Some Theory"" (New York University, 1998)."
+90,"9 ""The Natural Rate of Unemployment,"" Symposium, in Journal of Economic Perspectives, vol."

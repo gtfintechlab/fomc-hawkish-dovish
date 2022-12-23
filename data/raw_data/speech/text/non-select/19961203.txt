@@ -1,0 +1,14 @@
+Private-sector clearing arrangements, including numerous clearinghouses, are an integral part of the payment system in the United States, and now is an appropriate time to encourage further debate and action on important risk management issues.
+I would like to bring some perspective to this topic by first, outlining some of the broad forces affecting clearinghouses and other parts of the payment system; second, discussing the major risks and the different risk management techniques that clearinghouses employ; third, raising some key questions about risk controls for different types of clearing arrangements; and finally, highlighting recent policy developments in this area.
+First, the broad forces shaping clearing arrangements both now and in the future.
+To date, the growth of electronic payments has been an important force shaping our clearing systems.
+In the large-value sector, the volume and value of electronic payments has continued to grow rapidly, heavily influenced, of course, by the growth of trading in the international markets, and electronics now dominates this activity.
+In the small-value sector, ACH payments have also grown rapidly, although from a very low base.
+An important issue is how fast electronic payments will grow in the near-to-medium term and whether they will begin to replace the check as one of the major payment instruments in the retail sector.
+If this were to happen, there would presumably be corresponding adjustments in our clearing institutions.
+One important phenomenon affecting the risks in check clearinghouses has been the trend toward converting different types of larger-value payments to electronic form, and processing these payments in environments with stronger risk controls.
+The latest example of this trend came earlier this year when the money settlements for most stock trades were converted from checks and drafts to Fedwire fund transfers.
+Another broad force that will affect clearinghouses is the advent of interstate branch banking.
+Most directly, widespread interstate branch banking over the next few years could increase the number of checks and other items cleared as so-called "on-us" items, reducing the number of payments flowing through clearinghouses, and indeed, through correspondent banks and the Federal Reserve.
+To some extent, such developments would tend to reduce interbank risk in the payment system.
+As interstate banks participate in more and more clearinghouses, they may also begin to look for higher and more uniform risk management standards in the clearinghouses around the country.

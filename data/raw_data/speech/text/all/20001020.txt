@@ -1,0 +1,125 @@
+As you may know, technology and its impact have been key areas of focus at the Federal Reserve in recent years.
+As my colleagues on the Federal Reserve Board have often noted, technological innovation affects not just banking, financial services, and regulatory policy, but also the direction of the economy and its capacity for continued growth.
+Some argue that dramatic structural changes are in store for the financial services industry as a result of the Internet revolution; others see a continuation of trends already under way.
+What is clear is that the last few years have seen a truly phenomenal pace of new technology adoption among even the most conservative banking organizations.
+A number of financial trade publications are now devoted almost entirely to emerging technologies and the latest financial technology ventures.
+We know that many banks are making what seem like huge investments in technology to maintain and upgrade their infrastructure, in order not only to provide new electronic information-based services, but also to manage their risk positions and pricing.
+At the same time, new off-the-shelf electronic services, such as on-line retail banking, are making it possible for very small institutions to take advantage of new technologies at quite reasonable costs.
+These developments may ultimately change the competitive landscape in financial services in ways that we cannot predict today.
+Technology is also changing the supervisory and regulatory landscape.
+It is creating new tools for supervisors and new supervisory challenges.
+Technology-driven issues such as privacy and the nature of electronic communications have reached the forefront of the policy agenda.
+And the line between electronic banking and electronic commerce is becoming more difficult to define clearly.
+I would like to explore more deeply a few of these issues in my remarks today.
+Technology Investments More than most other industries, financial institutions rely on gathering, processing, analyzing, and providing information in order to meet the needs of customers.
+Given the importance of information in banking, it is not surprising that banks were among the earliest adopters of automated information processing technology.
+The technological revolution in banking actually began in the 1950s, well before it began in most other industries, when the first automated bookkeeping machines were installed at a few U.S. banks.
+Automation in banking became common over the following decade as bankers quickly realized that much of their labor-intensive, information-handling processes could be automated on the computer.
+A second revolution occurred in the 1970s with the advent of electronic payments technology.
+Recognizing the importance of information security, the financial services industry during the late 1970s and early 1980s was also the first to implement encryption technologies on a widespread basis.
+The euphoria surrounding the Internet today seems very similar to that era, when the first nationwide credit card and electronic funds transfer systems were built.
+As we could in earlier decades, we can identify three main reasons financial institutions are investing in technology.
+First, as in the 1950s and 1960s, they anticipate reductions in operating costs through such efficiencies as the streamlining back-office processing and the elimination of error-prone manual input of data.
+Second, institutions see opportunities to serve their current customers and attract new customers by offering new products and services as well as enhancing the convenience and value of existing products and services.
+Third, with more powerful data storage and analysis technologies, institutions are able to develop and implement sophisticated risk- and information-management systems and techniques.
+While in hindsight it is clear that many of the earlier investments met those objectives, it is unclear whether today's most highly touted investments have done so, or will do so in the future.
+For example, the rush to set up Internet banks of a few years ago seems to have slowed, tempered by the experience of the few pioneers in this area, who found that although technology risks and hurdles are surmountable, the basic imperative of making a profit is often not.
+Smart cards are another example of an innovation that, although widely heralded several years ago as the next new personal banking device, has yet to be proved a convenient substitute for currency and coin.
+Overall, the impact of the current technology investment boom in the financial services sector is difficult to assess.
+We know that productivity in financial services, like productivity in the rest of the service sector, is very hard to measure.
+The problem is due partly to the difficulty of measuring output accurately when the quality of service is changing as a result of such factors as greater convenience and speed and lower risk.
+Measuring output in the financial services sector is particularly controversial because so many services, such as deposits, provide services directly to customers and at the same time fund loans.
+Moreover, measuring the inputs used to produce outputs is difficult.
+We have not, for example, traditionally required from financial institutions, as part of the supervisory process, any reporting of technology-related investments and expenditures.
+Lack of consistent data significantly limits systematic industrywide or peer group analysis by supervisors or economic researchers that would shed light on some of these questions.
+As I consider the very recent, admittedly mixed, experience of the financial services sector with technologies--looking at the examples of Internet banking, on-line banking, smart cards, and ATMs--it seems that several lessons emerge.
+First, many of the investments have been made to automate existing processes, but the challenge of fundamentally rethinking the process from start to finish--the so-called core process redesign that is necessary to reap the full benefit of the current generation of technologies--has proved daunting.
+This is in part because many of the services that banks are attempting to automate currently are "joint goods," that is, the production and consumption of the product or service depend on the inputs or behaviors of many players outside of the bank and even outside of the financial industry.
+For example, the flow of services from checks depends on a complex of economic actors, including consumers willing to write checks, merchants willing to accept them, and an infrastructure in place to clear and settle them.
+Attempting to automate part of the check process by imaging or to replace checks with a single instrument, such as the debit card, requires cooperation among all the organizations that support a checking transaction.
+Internet banks are another example of these interdependencies.
+Many Internet banks have discovered that they are using any savings in "brick and mortar" operating costs to pay "bounties," or fees, to other Internet sites that refer new customers and to operate call centers to field the customer inquiries that invariably arise.
+Another lesson from the history of technology in banking is that so many of the costs in banking are shared across products, and even across customers.
+Therefore, an investment that might have a positive impact on one customer base or product may not have the desired impact on the overall cost base.
+I believe that the early history of ATMs illustrates this lesson.
+The ATM was originally introduced as a way to reduce costs of the branch network.
+Although the ATM succeeded in moving small-value withdrawal transactions from branches, that accounted for only a portion of the customers served and the transactions performed by a branch network.
+Therefore, early ATM networks added cost without substituting for branch networks.
+For ATMs to become truly economically attractive, they had to evolve to offer a fuller range of products for a greater proportion of bank customers.
+Indeed, ATMs now offer more services and more locations, and they have started to make a positive return on investment.
+The third possible lesson from the history of technology in banking is that banking services may be a class of services for which demand and supply interact so that new supply creates additional demand.
+Clearly, creating different channels for retail access to banking services, such as branches, PC banking, phone banking, ATMs, and the Internet, has neither significantly reduced the demand for any of those channels nor led to significant bank cost savings.
+This situation may in part reflect banks' reluctance to use pricing as an incentive for customers to change their behavior and move to newer technologies.
+However, it may also reflect the fact that the increased convenience of these different channels is simply translating into a permanent increase in consumer welfare and not necessarily into a permanent increase in revenue or a permanent reduction in costs.
+In this regard, banks that are not early adopters will admit privately that their investments in new technologies for customer access are largely defensive measures.
+New channels, such as on-line banking, are not generally leading to increases in the customer base at banks that offer them; instead, customers (particularly the most sophisticated who have ready access to technology) have begun to expect these services and may readily switch providers if their expectations are not met.
+Thus, banks have recognized that they need to offer the conveniences of newer technologies merely to retain their existing customers.
+Federal Reserve research has found an interesting caveat to the above statement: Banks that either are early adopters of new technologies or are particularly effective at using such technologies do have temporarily higher revenues but do not have cost savings.
+Revenue enhancements are the foundation of higher profitability.
+The elevation of profitability is expected to be temporary, however.
+As others adopt similar technologies, rates of return on new investment fall, and profitability for all banks returns to normal.
+The net result is an increase in consumer welfare but, as I have just stated, not a long-term reduction in cost or a long-term increase in profitability.
+The fourth lesson is that the mixed effect of technology in banking more recently may simply reflect the fact that technology can replace relatively simple, repetitive functions, such as the basic calculations and internally oriented back-office support functions that were automated initially.
+But so much of banking still involves higher-level judgements.
+These are judgments that can be informed by the types of computations performed by computers, but ultimately they cannot be made by computers.
+Risk management, reserving policy and underwriting larger C&I loans are, it appears, areas in which technology is an important adjunct to the judgment of experienced managers but ultimately is not a replacement for the experience a banker brings to the undertaking.
+This is reflected in the fact that risk modeling seems to be further advanced for market risk than for credit risk.
+We know that investments in newer technologies must be made to modernize existing operations, to face competitive challenges, and to meet customer expectations.
+Indeed, some of these investments will also be made in the hope of achieving cost savings and other efficiencies.
+However, I would suggest that bank management needs to enter these investments recognizing that the full benefits may not be gained quickly; may, if gained, be competed away; and may, indeed, not be captured at all.
+History teaches that costs may emerge long before expected revenues, and that operational risk can either decrease or increase as a result of making major technology investments.
+As I will emphasize in a moment, bank managers would be wise to monitor carefully the progress of large technology projects, marking major milestones clearly and holding technology management accountable.
+Given the size, complexity, and business risk of many modern technology investments, these investments clearly should be a top management interest and are a top management responsibility.
+Technology in Banking Supervision Technology also plays a key role in the Federal Reserve's longer-term process of modernizing its approach to banking supervision and regulation.
+I will briefly touch on a few examples.
+The Federal Reserve and other banking supervisors are reviewing our processes and policies to make sure we are adequately prepared to fulfill our supervisory responsibilities.
+Part of this task involves better understanding the role and risks of technology in banking organizations.
+The Year 2000 experience was instructive to many within the supervisory community on the importance of technology to financial business processes.
+We are attempting to preserve the lessons we learned by integrating technology considerations into our ongoing supervisory process in several ways.
+For example, traditionally, the Federal Reserve and the other federal banking agencies have conducted separate reviews of information technology operations and had assigned these activities separate examination ratings (similar to CAMELS ratings).
+Earlier this year, we decided to merge these reviews into the mainstream bank supervision process.
+Like banks, examiners must learn to consider how information technology affects the bank's financial risks and results, rather than treating it as a separate function.
+The privacy provisions of the Gramm-Leach-Bliley Act have also made information security a priority for supervisors.
+Although we have always reviewed information security as part of the supervisory process, the new law requires us to set consistent expectations for all institutions.
+Attaining the appropriate balance in assessing technology operations within the supervisory process is not a simple matter, however.
+For example, over the last year, the number of banks supervised by the Federal Reserve that are offering banking services to their customers over the Internet has more than doubled.
+As supervisors, we recognize that this kind of sudden change can lead to risks.
+We are developing training for our examiners on how to review Internet banking operations, and maintaining a sufficiently up-to-date knowledge base will be a constant challenge for supervisors.
+However, we need to avoid the temptation to view electronic banking and other technology related operations as a new business line or risk area for which we need to develop a whole new supervisory or risk-management framework.
+And to date, these operations remain a relatively small part of most banks' operations, and we have not seen them generating higher levels of supervisory concerns.
+Despite our more integrated view, it is important to recognize that supervisors cannot be responsible for ensuring that the technology employed by financial institutions always works exactly as expected.
+In fact, there are many technology related risks and pitfalls that are rightfully the concern of a financial institution's shareholders, but not necessarily of its supervisors.
+I do not see bank supervisors hiring legions of network engineers to advise banks on which firewall or encryption technology to use.
+Even if we felt that a detail-oriented technical approach was warranted, our public-sector resources simply could not support it.
+Moreover, it is not clear that this type of approach would be consistent with our increased supervisory focus on banks' risk-management processes and control infrastructure rather than on conducting detailed technical reviews.
+In fact, most of the technology related issues we have encountered as supervisors, such as problems integrating disparate systems that invariably arise in bank mergers, are not the result of inadequate technology, but of inadequate planning or project management.
+The Federal Reserve has reviewed more than a dozen bank holding company applications over the last year or so that have involved Internet ventures.
+We have found that when supervisory issues were identified, they generally involved managerial or financial concerns rather than concerns about the viability, reliability, or security of the technology.
+What this suggests to me is that the core risks and core competencies of banking and financial services will change only gradually while banks find new ways of reaching customers through new technology.
+The international regulatory community has also increased its focus on these issues.
+As you may know, there is currently a project under way in the Basel Committee on Banking Supervision to evaluate capital requirements for operational and other risks.
+The process is difficult, both conceptually and in practice.
+There is little industry consensus about what should or should not be included in the definition of operational risk and about how best to allocate capital.
+Operational failures and occasional financial losses are routine events that in many cases can be incorporated into the pricing of services.
+We do not yet have a good handle on what portion of operational loss events is expected or unexpected.
+Many larger banks are now developing their own models to measure and estimate operational risk and to allocate capital to cover this risk.
+The Federal Reserve is currently developing new approaches to assessing operational risk in our supervisory process, but a common view on this topic is probably several years away.
+Finally, in our day-to-day supervision of banking organizations, U.S. regulators have recognized the need for an ongoing, more risk focused approach, particularly for large, complex, internationally active banks.
+We need to stay abreast of the nature of their activities and of their management and control processes.
+A continuous flow of information helps examiners tailor on-site reviews to the circumstances and activities at each institution, so that our time is well spent understanding the bank's management process and identifying weaknesses in key systems and controls.
+Throughout this process, the Federal Reserve is looking at areas in which we can use technology to perform our supervisory responsibilities more effectively.
+We are implementing a number of automated tools for examiners to use for gathering and analyzing information that can aid the supervisory process without burdening the institutions we supervise.
+Legal and Regulatory Distinctions Just as the Federal Reserve is modernizing its approach to supervision, so too our banking laws are being modernized.
+While these laws have historically ensured the separation of banking and commerce in this country, the information-based nature of electronic commerce and its close relation to electronic financial services is challenging this distinction.
+Traditionally, banks have largely been technology users or buyers.
+Today, some financial organizations aspire to emulate technology companies, both by participating in the development of new technologies for financial products and services and, potentially, by earning the kind of capital markets support that we have seen for technology companies in recent years.
+Whether this fit will be harmonious is yet to be seen.
+Nevertheless, it is imperative that we modernize our approach to traditional banking restrictions.
+The Federal Reserve and state and national chartering authorities have begun to consider the range of electronic commerce activities that financial institutions may operate or own.
+We recently issued a proposal on "finder" activities that would allow financial holding companies to provide, or invest in, services that bring together buyers and sellers of nonfinancial products.
+These activities would encompass, for example, hosting an Internet marketplace or operating an Internet auction site.
+We are considering other areas of technology and electronic commerce activities that would be considered permissible for financial organizations while still preserving the core distinctions between banking and commerce.
+Conclusion In conclusion, we can expect financial institutions to continue experimenting with new technologies and electronic, information-based services.
+I believe that this is an area with great potential, yet the uncertainties are large and the payoff horizon is unknown.
+Banks and supervisors need to recognize that it is acceptable--and even expected--to make some investments that do not pay off.
+We also know there have been, and will continue to be, technological glitches--computers and web sites go down occasionally, and e-mail gets lost.

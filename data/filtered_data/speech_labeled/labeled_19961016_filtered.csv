@@ -1,0 +1,21 @@
+Unnamed: 0,sentence,label,score
+0,"Although I had other offers of employment at higher pay, it was an easy call to come work at a research operation with, perhaps, one of the best business-oriented libraries in the country.",LABEL_2,0.9989966750144958
+1,"The American economy, more then than now, was viewed as the ultimate in technology and productivity in virtually all fields of economic endeavor.",LABEL_2,0.9998062252998352
+2,"Accordingly, while the weight of current economic output is probably only modestly higher than it was a half century ago, value added, adjusted for price change, has risen well over threefold.",LABEL_2,0.9991482496261597
+3,Productivity accelerated.,LABEL_0,0.9963345527648926
+4,"At the turn of the century, electric power began its major expansion, revolutionizing the means of production in a manner that eventually created significant productivity advances.",LABEL_2,0.9995880722999573
+5,"Yet, with all the extraordinary technological advances of the past couple of decades, why have our recent productivity data failed to register any improvement?",LABEL_2,0.9953933954238892
+6,"First, insofar as recent productivity growth is concerned, I have a serious question about the quality of the data that we employ to measure output in today's economy.",LABEL_2,0.9996010661125183
+7,"Similarly, as Professor Paul David of Stanford and others have observed in an interesting line of research, it took a generation for electric motors to replace the steam engine to a point where aggregate productivity was measurably accelerated in the manufacturing area.",LABEL_2,0.9996465444564819
+8,It was only when plants were built horizontally that the electric motor came into its own and became a major factor in the advance of manufacturing productivity.,LABEL_2,0.9997403025627136
+9,"Professor David suspects, with many good reasons, that the ability of computer-based technologies to become fully reflected in our overall national productivity is being delayed as the infrastructure gradually, but progressively, adjusts to new modes of production.",LABEL_2,0.9994069337844849
+10,"To measure productivity and standards of living we need measures of output but, to measure output, we need to be able to define products clearly and in terms of units that do not change from one period to the next.",LABEL_2,0.9998539686203003
+11,"In these cases we can define reasonably well the unit of output and, accordingly, can know the price per unit.",LABEL_2,0.9997422099113464
+12,What is its price per unit and how does that price move from one period to the next?,LABEL_2,0.999545156955719
+13,"What is the true price trend for the removal of cataracts, when the technology and the nature of the whole procedure is so dramatically different from what it was, say, forty or even twenty years ago?",LABEL_2,0.9994157552719116
+14,How does one price procedures when there has been a shift toward less invasive arthroscopic surgery?,LABEL_2,0.9997422099113464
+15,We do our best to construct overall price indexes.,LABEL_2,0.9995285272598267
+16,"Indeed, how will we measure inflation, and the associated financial market implications, in the twenty-first century when our data--using current techniques--could become increasingly less adequate to trace price trends over time?",LABEL_2,0.9994152784347534
+17,"Hence, we must assume that embodied in all products is some unit of output and hence of price that is recognizable to producers and consumers and upon which they will base their decisions.",LABEL_2,0.9997515082359314
+18,"Doubtless, we will develop new techniques of price measurement to unearth them as the years go on.",LABEL_2,0.9997357726097107
+19,"Other challenges at least as great as complications of price measurement will surely confront us as we advance into, and through, the twenty-first century.",LABEL_2,0.9997919201850891

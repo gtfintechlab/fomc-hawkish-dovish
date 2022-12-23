@@ -1,0 +1,133 @@
+Let me begin by thanking the Federal Reserve Bank of New York for hosting the conference and for organizing, along with the National Academy of Sciences, an impressive program that will facilitate interdisciplinary discussion on a topic of intense interest to central bankers.1 The Evolution of Institutions and MarketsMaintaining the stability of the financial system and containing the systemic risk that may arise in financial markets has been central to the Federal Reserveâ€™s mission for as long as there has been a Federal Reserve.
+Indeed, Congress passed the Federal Reserve Act in 1913 to provide the nation with a safer and more stable monetary and financial system.
+Thus, the focus of this conference--understanding systemic risk--is not new, though some of the names have changed.
+At the beginning of the twentieth century, banks were virtually the only financial intermediary available.
+Periodically, these highly leveraged institutions lost the confidence of depositors, fell into crisis, and reduced their lending to creditworthy borrowers, thereby accentuating economic downturns.
+The tools that were developed to prevent and to manage financial crises--lender-of-last-resort facilities, supervision and regulation aimed at bank safety and soundness, deposit insurance, and the provision of payment system services--were geared toward a bank-denominated system.
+Today, multiple avenues of financial intermediation are available, and the financial system has become much more market-dominated.
+This evolution of financial institutions and markets probably has made the financial system more resilient.
+Financial innovations, such as the development of derivatives markets and the securitization of assets, have enabled intermediaries to diversify and manage risk better.
+Moreover, as markets have become more important, ultimate borrowers have acquired more avenues to tailor their risk profiles and are less dependent on particular lenders, and savers have become better able to diversify and to manage their portfolios.
+Consequently, the economy has become less vulnerable to problems at individual types of institutions.
+However, the evolution of financial institutions and markets has not removed the underlying risks and uncertainty associated with financial transactions.
+Financial institutions and other market participants must still make decisions and take actions with incomplete knowledge about the condition of their counterparties.
+Actual (or perceived) information asymmetries can increase enormously during times of heightened market volatility or economic stress.
+In addition, in such circumstances, investors may become very uncertain about the behavior of other market participants and the resulting path of asset prices and extent of market liquidity, creating a situation in which each market participant waits to see how other investors will react.
+When this happens, the typical correlations derived from historical experience tend to break down, liquidity may be more costly to obtain or unavailable, normal risk management strategies may no longer be useful, questions about counterparty solvency escalate, and the result can be a financial crisis.
+In times of such high uncertainty, it is human nature to act very cautiously.
+Investors uncertain about what shocks other market participants have experienced and unsure about what those other market participants are likely to do tend to withdraw from potentially risky financial activities and to hold safer and more liquid assets, such as government securities.
+As a consequence, creditworthy borrowers may not be funded, just like in the old days when banks fell into crisis.
+These disruptions in the flow of credit in turn can have real effects on the macroeconomy.
+Moreover, these real effects can create feedback effects on market participants that exacerbate the original financial crisis.
+These motivations and reactions persist in the twenty-first century, and thus so does the possibility of financial crisis, even if the key propagation mechanisms for crisis in our financial system may have changed.
+The shift from a bank-dominated financial system to a combination of centralized and decentralized markets has increased the importance of market liquidity for determining asset prices and for managing portfolios.
+The increased importance of markets also has created new and complex interactions among participants in the financial system and heightened the reliance on key market utilities.
+We are in the process of adapting the tools that were developed to prevent and manage financial crises in a bank-dominated financial system to prevent and manage financial crises in the more market-dominated financial system.
+This is an ongoing process that is very much informed by our experience with past financial crises.
+In that regard, the 1987 stock market crash and the liquidity crisis in the fall of 1998 are likely to be more typical of modern financial events.
+In the rest of my talk, I will discuss the following aspects of these two events: their common elements, the Federal Reserveâ€™s response, lessons learned for crisis management, and implications for crisis prevention in the more market-driven financial system.
+Two Modern Financial CrisesThe 1987 stock market crash may have been the first modern financial crisis in the United States.
+Unlike previous financial crises, the 1987 stock market decline was not associated with a deposit run or any other problem in the banking sector.
+Instead, the 20 percent decline on October 19, 1987, in the Standard & Poorâ€™s 500 index--the largest single-day decline since the Great Depression--was driven by investor decisions to reduce equity exposures and by the resulting chaotic trading in the stock markets.
+Indeed, trading was so chaotic that stock prices were difficult to determine.
+The liquidity crisis in the fall of 1998 was triggered by the Russian debt default in August and then aggravated by the problems at the hedge fund Long-Term Capital Management.
+During the 1998 crisis, risk spreads widened sharply, stock prices fell, and liquidity became so highly valued that the spread between on- and off-the-run Treasury securities widened substantially.
+Of even more concern, the capital markets virtually seized up as market participants retreated from risk taking, and, for a time, credit was simply unavailable to many private borrowers at any price.
+The events of 1987 and 1998 had several common elements.
+First, they began with sharp movements in asset prices.
+Second, these price movements were exacerbated by market participants trying to protect themselves--with portfolio insurance in 1987 and by closing out positions in 1998.
+Third, market participants became highly uncertain about the dynamics of the market, the â€œtrueâ€ value of assets, and the future movement of asset prices.
+As a consequence, with their standard risk-management systems seemingly inapplicable, they pulled back from making markets and taking positions and further exacerbated the price action.
+Fourth, the large and rapid price movements called into doubt the creditworthiness of counterparties, which could no longer be judged by now obsolete financial statements; credit decisions were further complicated by uncertainty about the value of collateral.
+In turn, the defensive behavior of market participants escalated and reinforced adverse market dynamics.
+Finally, the decline in asset prices reduced wealth and raised the cost of capital, which seemed likely to reduce both consumption and investment.
+Naturally, the Federal Reserveâ€™s response to these crises also had several common elements.
+We publicly acknowledged that a crisis was under way, and through this recognition and our follow-up actions, we sought to reassure participants that we were doing what we could to limit the possible systemic effects on the economy.
+The hope was that such reassurance might encourage a return to risk-taking.
+Accordingly, open market operations were directed toward an easing of reserve-market conditions and were guided by day-to-day developments.
+For example, in October 1987, open market operations accommodated substantially enlarged desires for excess reserves and a large increase in required reserves associated with a sharp rise in transactions deposits.
+We monitored the flow of credit through the financial system, and we pointed out to lenders their collective interest in avoiding a credit gridlock that would only tend to accentuate asset price movements.
+We worked with other agencies to identify weak points in the market and impediments to its functioning.
+We also eased the stance of monetary policy to counteract the systemic consequences of the ongoing financial crisis.
+Principles to be Drawn From Recent Financial CrisesWhat are the principles for Federal Reserve actions that we can draw from these experiences, as well as from other recent, but less severe periods of financial turmoil?
+First and foremost, the management of financial crisis is easier, and the consequences are less severe, if the economy is in healthy condition.
+Partly as a consequence in neither 1987 nor in 1998 did the crisis lead to a recession.
+As monetary policy makers, we improve the odds of financial stability over time when we focus on the fundamentals of maintaining price stability and sustainable growth.
+When the Federal Reserve conducts monetary policy so as to create low and stable inflation and to firmly anchor expectations that inflation will be contained, it best positions itself to forcefully offset the ill effects of a financial crisis without generating deep concerns that such actions will result in sharply higher inflation.
+Some argue that economic stability can set the stage for financial instability by breeding complacency about risk.
+Perhaps, but surely the benefits of macroeconomic stability far outweigh its possible costs.
+Another principle is that a healthy banking system works hand-in-hand with a healthy economy to substantially mitigate the consequences of financial crisis.
+Banks continue to play critical roles in the market-dominated system, including financing market participantâ€™s holdings of securities and clearing and settling their trades.
+Healthy banks can be bulwarks against the propagation of financial turmoil; in contrast, questions about the health of banks would raise additional concerns during the course of a crisis.
+A third principle is that the actions taken to prevent a crisis should not raise the odds of creating more problems in the future.
+In particular, the problem of moral hazard is a significant concern.
+If market participants begin to rely too much on regulators and central bankers to manage possible future crises, they may act in a way that has the effect of raising the risk of a financial crisis.
+For example, they may fail to engage in adequate due diligence when extending credit to other market participants or to maintain adequate capital for the risks they undertake.
+And they might come to believe that the government possesses more tools and resources than are actually available to shield them from the consequences of poor risk management.
+The central bank can draw from a menu of actions that involve varying degrees of moral hazard.
+Those actions range from loans to individual institutions that otherwise would not have access to credit, to moral suasion, to open market operations, which allow the markets to distribute credit and should not cause distortions in private-sector decisionmaking.
+Heightened uncertainty is the key characteristic of episodes of financial instability.
+The central bank may not have any more information than market participants do; in economic models based on such uncertainties, it is the central bankâ€™s willingness to act in the face of uncertainty that differentiates it from other market participants and gives it a positive role to play during financial crises.
+Its willingness to act ameliorates the negative effects of the uncertainty of other market participants about the solvency of counterparties and the status of markets.
+Still, the more information the central bank has, the easier it is for it to choose the best course of action.
+Policymakers want to choose the path with the lowest moral-hazard consequences to leave market participants with incentives to manage risk appropriately.
+But policymakers are in a difficult position in a crisis.
+The costs of not acting forcefully enough will be immediate and obvious--additional disruption to the financial markets and the economy.
+The costs of acting too forcefully--of interfering unnecessarily in markets and creating moral hazard--manifest themselves over a longer period and may never be traceable to a particular policy choice.
+The natural inclination to take more intrusive actions that minimize the risks of immediate disruption is probably exacerbated by ignorance and uncertainty; the less you know, the easier it is to imagine bad outcomes and the more reliant you may be on people in the market whose self-interest may well color the information they are giving you.
+In a bank-dominated financial system, the critical information would have come from fellow bank regulators with whom we had been working or from the institutions we collectively had been examining for some time.
+In a world of financial institutions with a presence in many lines of business crossing national boundaries, obtaining such information, developing cogent analyses, and deciding on a course of action in a crisis requires widespread cooperation among many disparate agencies.
+Moreover, I should note that, even for possible bank-centric crises, the financial landscape in the United States has changed.
+The large bank holding companies are involved in a myriad of businesses that cross a multitude of regulatory boundaries.
+In addition, any future financial crisis that does involve a large, complex banking organization might need to grapple with the â€œsystemic risk exceptionâ€ that was passed by the Congress in 1993, which requires the boards of the Federal Reserve and of the Federal Deposit Insurance Corporation, the Secretary of the Treasury, and the President to act jointly.
+Establishing the needed coordination across many agencies could potentially create delays during a time when quick action is needed.
+Moreover, different regulators can have different supervisory philosophies.
+These potential impediments to a timely response suggest that regulators need to be discussing the possibilities associated with financial crisis on an ongoing basis and long before an actual event.
+These discussions should encompass the possible actions that might be needed and the information that should be on hand to shape those actions in the public interest.
+Reducing the Odds on Financial Crises This brings me to my final and most important principle--an ounce of prevention is worth many pounds of cure.
+As weâ€™ve seen in recent years, macroeconomic stability has not forestalled large and unexpected movements in asset prices.
+Shocks occur, or reality catches up to unreasonable expectations, and market prices adjust, sometimes very substantially and suddenly.
+And although the financial system has become more resilient to such unanticipated developments, it is still subject to bouts of increased uncertainty that could build on themselves to disrupt the normal functioning of markets and send asset prices further away from fundamentals, with potentially adverse implications for the economy.
+Drawing on our experiences, the Federal Reserve has been working with other regulatory agencies and the private sector both here and abroad to strengthen the financial system in order to lower the odds that a sharp change in prices or questions about a major market participant would lead to a systemic financial crisis.
+Our collective efforts have been in three areas: enhancing market discipline; encouraging sound risk management; and strengthening clearing and settlement systems.
+Market discipline through vigilance among private parties is always to be preferred to regulatory dictates as the prime source of constraint on possible crisis-causing behavior.
+It lessens the odds of a financial crisis and any potential moral hazard that might be created by governmental actions taken during periods of financial market turmoil.
+Reliance on market discipline becomes even more of an imperative when key market participants are subject to widely varying degrees and types of regulation from different regulators.
+For market discipline to be effective, counterparties must have a clear understanding of each othersâ€™ risk profile.
+Such transparency can be promoted through sound policies regarding accounting and, where necessary and appropriate, public disclosure.
+However, a meaningful understanding of risk profiles often requires information that market participants regard as proprietary.
+Confidentiality agreements between counterparties may be necessary to make them comfortable sharing such information.
+Counterparties that cannot obtain sufficient information should limit more strictly the amount of credit they supply through, for example, requiring higher margins.
+In a market-based system, sound risk management by all market participants is essential to protect against the risk that a low-probability--or â€œtailâ€--event could cause a financial crisis.
+Such practices enhance financial stability without increasing moral hazard.
+Indeed, sound risk management by all market participants would reduce moral hazard.
+Market participants familiar with the risk metrics, the stress-test methodologies (and the associated market scenarios), the models, and other analytics used by their counterpartiesâ€™ risk managers would be more likely to continue to provide access to credit during periods of systemic and institutional stress.
+Of course, the more that privately provided credit continues to flow in such circumstances, the lower the odds on a crisis and on the need for government intervention.
+It is a tall order to â€œplanâ€ for the unexpected, improbable, and unknowable nature of future financial market crisis, but actions by the authorities, such as supporting risk-management policy groups and promoting stress-testing, should help.
+For example, bringing together practitioners can potentially improve both the marketsâ€™ and the central bankâ€™s understanding of how leverage, liquidity, and concentration are interrelated.
+In addition, risk-management policy groups can potentially lead to improvements in the reporting of risk information to counterparties and allow for the transfer of best practices across market participants with respect to valuation, exposure measurement, limit setting, and internal checks and balances.
+Indeed, a lesson drawn by the Presidentâ€™s Working Group from the 1998 crisis was that a lack of basic risk management, and the resulting ability of risk managers to avoid counterparty discipline, was an important factor that enabled key market participants to become so large that their troubles could disrupt entire markets.
+Stress tests employ either historical data from asset price distributions or hypothetical scenarios that would provide insights into the downside financial risks associated with investments and associated hedging strategies.
+Focusing market participants on the structure of stress, and thus their risks beyond the range of recent historical experience, might assist in limiting the affects of a highly infrequent but significantly costly tail event.
+The regulatory capital framework proposed in Basel II would require the largest internationally active banking organizations to enhance measurement and management of their risks, including credit risk and operational risk.
+It would also require these entities to have rigorous processes for assessing overall capital adequacy in relation to their total risk profile and to publicly disclose information on their risk profile.
+Because such actions would likely provide market participants with a better sense of how others might act during a crisis, these actions would likely help mitigate the adverse consequences created by financial market turmoil.
+Risk cannot be managed if participants are uncertain about their exposures to counterparty credit risk and to changes in prices.
+It is important for trades to be cleared and settled when expected at the agreed upon price with the anticipated counterparties.
+As a result, the central bank must promote robust payment and settlement systems.
+Sound risk-management practices and stress testing by operators of the settlement infrastructure are critically important in this domain.
+If payment and settlement systems have adequate collateral and liquidity to settle during turbulent periods, they reduce the threat of contagion across institutions and markets.
+To this end, the Federal Reserve actively participates in international groups, such as the Committee on Payment and Settlement Systems, that identify and promulgate best practices.
+Counterparty discipline, sound risk management, and strong and resilient clearing and settlement are all in the interest of private parties.
+Nonetheless, government has a role to play, especially when it senses moral hazard is weakening market discipline on risk taking and leaving the broader interests of society inadequately protected.
+Regulators may need to insist on minimal capital levels and on actions to strengthen private systems.
+In addition, they may need to work with disparate private parties and help market competitors take collective actions to solve problems that such competitors might otherwise find difficult to solve by themselves.
+For example, the Federal Reserve Board recently endorsed the chartering of a dormant bank, referred to as NewBank, which would be available for activation to clear and settle U.S. government securities.
+Such activation would occur if an existing clearing bank could not operate and no well-qualified bank stepped forward to purchase its clearing business.
+Similarly, the Federal Reserve Bank of New York, and other regulatory bodies have met with major dealers to strengthen the clearing and settlement infrastructure for the credit derivatives markets.
+ConclusionMaintaining the stability of the financial system and containing the systemic risk that may arise in financial markets is central to the Federal Reserveâ€™s mission.
+Recent financial crises within the United States have been well contained.
+However, with the rapid evolution of the financial system, there is a real possibility that markets are evolving faster than the efforts by market participants to better control risk and to improve the payment and settlement infrastructure.
+New markets have been tested to some extent--by the stock market crash, by the widening of spreads in 2001 and 2002, and by the problems of the auto companies and their suppliers.
+So far, despite some glitches, markets have adapted and changed when deficiencies became obvious.
+No doubt, markets and institutions have become more flexible and resilient.

@@ -1,0 +1,105 @@
+I am delighted to be giving my first speech as a governor at a conference that has resulted from the kind of international cooperation that I see as essential in today's world.
+The joint sponsorship of this conference by the European Central Bank (ECB) and the Federal Reserve Bank of Chicago represents an extremely fruitful collaboration of researchers, market participants, and policymakers from both sides of the Atlantic.
+Having been a research consultant at the Chicago Fed for many years and having visited the ECB numerous times since its founding less than eight years ago, I have many friends at both institutions and am pleased to see so many of those friends here today.
+In addition, I am delighted that the topic of this cooperative venture and my maiden speech is central counterparty (CCP) clearing.
+As an academic, I wrote several papers on clearing arrangements and participated in many conferences such as this one.
+I am very pleased to be in a room filled with others who share that interest.
+In recent years, public policymakers have demonstrated growing interest and concern about the effectiveness of CCP risk management.
+In particular, in November 2004 the Committee on Payment and Settlement Systems (CPSS) of the Group of Ten central banks and the International Organization of Securities Commissions (IOSCO) jointly issued comprehensive international standards for CCP risk management.1 I have often cited CCPs for exchange-traded derivatives as a prime example of how market forces can privately regulate financial risk very effectively.2 Indeed, it is hard to find fault with the track record of derivatives CCPs, many of which have managed counterparty risk so effectively that they have never suffered a counterparty default.
+But perhaps it is not unreasonable to ask whether that track record will be maintained.
+I see that good track record as a result of innovations that over time produced organizational arrangements that have provided market participants with the incentives and capabilities to ensure effective CCP risk management, thereby serving the public interest as well as the interests of market participants.
+Significant changes to those arrangements could result in less-effective risk management.
+Furthermore, some CCPs have begun to clear new products, some of which may be less liquid or more complex than exchange-traded derivatives, and thus may pose challenges to traditional risk-management procedures.
+Finally, more-intense government regulation of CCPs may prove counterproductive if it creates moral hazard or impedes the ability of CCPs to develop new approaches to risk management.
+As cross-border activity becomes ever more important, regulatory differences across countries may become an increasingly serious impediment to innovation by CCPs.
+In my remarks today, I will begin by reviewing the historical development of CCPs.
+I do this not for antiquarian interest but because this history illustrates how market forces led to the evolution of organizational and contractual features that have created strong incentives for effective private regulation that addressed both market participants' and public policymakers' concerns about risk control.
+I will then discuss the possible implications of recent variations on traditional arrangements.
+Next I will discuss the challenges involved in clearing certain new products, particularly over-the-counter (OTC) derivatives.
+I will conclude with some views on how government regulation can provide an environment in which private regulation of CCP risk management continues to be effective.
+Historical Development of Futures ClearinghousesMy review of the historical development of central counterparties will focus on the CCP for grain futures traded on the Chicago Board of Trade (CBOT).
+I make no claim that a CCP first arose in the United States.
+Indeed, a number of coffee and grain exchanges in Europe had some form of CCP in the late nineteenth century, well before any U.S. exchange.3 Rather, I simply am more familiar with developments in Chicago, in large measure because of the time that Jim Moser spent digging through the CBOT's archives while on the staff of the Federal Reserve Bank of Chicago.4 Furthermore, the market forces that drove the evolution of risk controls at the CBOT likely produced a broadly similar evolution on other exchanges.
+An important lesson from the CBOT's experience is that a CCP emerged gradually and slowly as a result of experience and experimentation.
+Early on, the CBOT recognized the importance of creating incentives for adherence to its rules, including the contractual obligations of counterparties to contracts traded on the exchange.
+Initially, the primary incentive was the threat that a member that defaulted on its obligations could be barred from the trading floor.
+No doubt this consequence was a powerful incentive for solvent members to meet their obligations, but an insolvent member might not have assigned significant value to the loss of trading privileges.
+By 1873, the CBOT recognized the importance of evaluating the solvency of its members and adopted a resolution stipulating that any member whose solvency was questioned must open its financial accounts to inspection and could be expelled if it refused to do so.
+Around the same time, the exchange introduced initial and variation margin requirements for contracts traded on the exchange and set strict time limits for the posting of margin deposits.
+Failure to post margin deposits would be considered a default on the member's contracts.
+The next step along the road to addressing private and public concerns about effective risk control was the CBOT's creation of a clearinghouse in 1883.
+For many years, the clearinghouse was not a true CCP.
+Rather, as created, it was merely a mechanism to reduce transactions costs by calculating members' net obligations to post margin and to settle contracts.
+In the event of a member's default, the clearinghouse assumed no responsibility for settling the defaulting member's trades or for covering the losses to other members that exceeded the amount of margin that the defaulting member had posted.
+Only in 1925 did the CBOT form the Board of Trade Clearing Corporation (BOTCC), a true CCP that became the counterparty to all transactions on the exchange.
+With the creation of BOTCC, members of the exchange were required to purchase shares in the clearinghouse, and only the member-shareholders were permitted to use the facility.5 Members were also required to post their margin deposits with the clearinghouse.
+In the event of a member's default, the clearinghouse would take responsibility for settling the defaulting member's trades.
+The clearinghouse would seek to cover any losses incurred in settling the defaulter's obligations by liquidating its margin deposit.
+But if the losses exceeded the value of the margin, the deficiency would be charged against the clearinghouse's capital, including the capital owned by the non-defaulting members.
+If the losses were so severe as to deplete the clearinghouse's capital, the members could be required to purchase additional shares.
+This organizational arrangement has been adopted by many other CCPs, both for exchange-traded derivatives and for cash securities transactions.
+I characterize this structure as a partial integration of the members of the exchange into a single unit because each member is now at least in part financially responsible for the performance of the others' obligations arising from contracts traded on the exchange.6 The mutualization of risk creates incentives for all the exchange's members to support the imposition of risk controls that limit the extent to which the trading activities of any individual member expose all other members to losses from defaults.
+Moreover, because the members own the clearinghouse, they have the capability to act on their incentives for effective CCP risk management.
+I see this alignment of incentives for effective risk management with the ability to act on those incentives as the key to the strong historical track record of derivatives CCPs.
+What is interesting and instructive about the history of these arrangements is that it illustrates how market forces can produce private regulations that address the concerns about safety, soundness, and broader financial stability.
+Potential Challenges Raised by Recent Changes to CCP OrganizationDuring the twentieth century, various changes occurred in the historical organizational arrangements that I have characterized as a partial integration of the members of the exchange.
+And in the twenty-first century, the pace of change seems to be accelerating.
+Some derivatives exchanges have remained integrated with their CCP, but even in those cases, there now tends to be less integration.
+Members of the exchange are seldom required to be members of the clearinghouse.
+Instead, members of the exchange may arrange to clear through other members, which are referred to as "clearing members."
+When a clearing member agrees to clear for a nonclearing member, it becomes responsible to the clearinghouse for the obligations of the nonclearing member.
+Only the clearing members are required to buy stock in the clearinghouse or to contribute to a clearing fund that would be used to cover losses from defaults by other clearing members, including defaults on their obligations to perform on positions held by nonclearing members.
+In recent years, an increasing number of exchanges have engaged unaffiliated CCPs to clear their trades.
+A "horizontal" integration of CCPs has replaced the "vertical" integration of an exchange and its CCP.
+Both horizontally integrated CCPs and vertically integrated CCPs have often arranged for insurance policies that limit the potential losses to their clearing members from defaults.
+Finally, many exchanges have converted from mutual associations of exchange members to for-profit corporations.
+Clearly some of these changes have important implications for competition among exchanges.
+But they may also have implications for the effectiveness of risk management, which is the focus of my remarks today.
+As I have discussed, historically the key to effective risk management has been that the members of the exchange have borne the risk of losses from defaults and have had the capacity to institute risk controls (principally membership standards and margin requirements) that have limited those risks.
+The question then is whether any of these changes to the organization of CCPs has left those bearing the risks without the capacity to manage those risks.
+I would caution against assuming that change is inherently risky.
+After all, as we have seen, the partial integration model that worked so well for so many years emerged only gradually as a result of experimentation.
+Moreover, thinking that "one size fits all" regarding the organization of financial markets is a mistake.
+That said, it seems critical that the organization of any CCP, including a CCP that follows the traditional partial-integration model, should conform to a pair of broad principles.
+First, a CCP's default rules need to be transparent: The party that bears the risk of default (who has "skin in the game") must be clear to all.
+Second, a CCP's governance arrangements must provide those with "skin in the game" with substantial influence over the CCP's risk controls.
+New ProductsIn recent years, appreciation of the possible benefits of a well-organized CCP has been growing.
+CCP arrangements have been introduced in a wide variety of markets that had not previously been served by CCPs.
+In the United States, the New York Stock Exchange established a clearinghouse in 1892 and transformed it into a true CCP in 1920.
+But, outside the United States, few securities exchanges established CCPs until late in the twentieth century.
+Today, a CCP is in place and functioning in nearly all major securities markets.
+Increasingly often, CCPs for securities clear trades, including trades and repurchase agreements involving government bonds, in the over-the-counter securities markets.
+Since 1999 the London Clearing House (now LCH.Clearnet) has been clearing growing volumes of some types of OTC derivatives through its SwapClear service.
+The clearing of OTC derivatives is an especially interesting development.
+Although SwapClear has been gaining traction, it has been met with resistance from some OTC derivatives dealers.
+Some of them have argued that bilateral credit risk management, which uses many of the same techniques that CCPs use (netting and margin requirements), is highly effective.
+Moreover, not all OTC derivatives are sufficiently standardized to be cleared.
+Consequently, some have expressed concerns that CCP clearing of "vanilla" products could increase the risks on non-cleared "exotic" products by limiting the scope for bilateral netting of vanilla products against exotic products outside the CCP.
+Another consideration for the most creditworthy dealers may be the potential effect of CCP clearing on mitigating the competitive advantage of their creditworthiness.7 With regard to systemic risk, the key question about the clearing of OTC derivatives is whether the risk-management techniques that have proved so effective in clearing exchange-traded products will prove equally effective in clearing products that are not as standardized.
+In particular, the clearing of OTC derivatives tends to entail much less scope for offsetting transactions.
+As a consequence, if a default occurred, a huge volume of transactions would need to be closed out.
+The feasibility of a CCP's achieving close-out promptly is clearly a critical issue that deserves careful examination.
+In that regard, a recent report by leading participants in the OTC derivatives markets expressed concern about the feasibility of close-out procedures in the event of default of a large market participant in stressed market conditions.8 Further experimentation with close-out procedures may be necessary to address that concern.
+The Role of GovernmentIn recent years, policymakers have devoted much attention to oversight and regulation of CCPs, with the objective of promoting their soundness and stability.
+I certainly share that objective, but I would like to call attention to some possible unintended and undesirable consequences of CCP regulation.
+The first is moral hazard.
+Policymakers must be very careful to avoid any impression that government oversight comes with a promise of government financial support in the event of a risk-management failure; otherwise, private-market discipline, which has served private and public interests in the stability of CCP arrangements so well for so long, may well be eviscerated.
+Instead, government regulation should focus on improving the effectiveness of private-market regulation.
+In particular, it should enforce the observance of the two critical principles I identified earlier.
+First, it should ensure that a CCP's risk-management policies and procedures, especially its policies for handling defaults and allocating the burden of losses from defaults, are transparent to market participants.
+Second, it should ensure that CCP governance arrangements provide the parties who would bear the losses with substantial influence over the CCP's risk-management policies.
+My sense is that policymakers are well aware of the risks that moral hazard poses for financial stability.
+But I am concerned that a second unintended consequence of regulation has too often gone unrecognized.
+That is the potential for conflicting regulation (and laws) to impede the evolution of CCP arrangements, especially the potential for economies of scale and scope to be achieved through consolidation.
+I am always puzzled when I hear the United States held up as the model for the benefits of consolidation of the clearing and settlement infrastructure.
+We have achieved significant consolidation within the securities markets and within the futures markets.
+But I am struck by the lack of consolidation of securities and futures CCPs.
+Perhaps there is no business case for such consolidation.
+Even if a business case exists, however, I believe consolidation would be difficult to achieve due to the legal and regulatory distinctions in the United States between securities and futures.
+Law and regulation seem also to be placing significant barriers in the way of consolidation of the securities and derivatives clearing and settlement infrastructure in Europe.
+Most of the fifteen barriers to efficient cross-border clearing and settlement that were identified by the Giovannini Report in 2001, seem to be grounded in law and regulation rather than in the practices of private-market participants.9 Policymakers in all countries need to examine whether legal and regulatory distinctions are impeding innovation and, if so, whether the distinctions are meaningful and essential for the achievement of public policy objectives.
+Policymakers must also resist the temptation to place regulation in the service of protectionism.
+I read with interest and appreciation European Union Commissioner McCreevy's recent speech at the London School of Economics on the development of the European capital markets, in which he decried the signs of a new wave of protectionism in Europe.10 As he noted, "Protectionism is a proven route to economic stagnation and decline.
+"11 This is an important message, indeed.
+ConclusionsI find the history of financial markets to be enormously instructive.
+My reading of the history of CCP clearing is that it teaches us that private-market regulation can be effective for achieving the public policy goal of safety and soundness and broader financial stability.

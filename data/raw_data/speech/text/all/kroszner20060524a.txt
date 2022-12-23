@@ -1,0 +1,142 @@
+The quality of the economic statistics in the United States is among the best, if not the best, in the world, but that should not make us complacent.
+The U.S. economy is extremely dynamic, and improvements in our economic statistics should reflect--and measure--that ever-present change.
+Naturally, markets work best when people are well informed.
+Business people rely on economic statistics when they make and execute plans for production, investment, and hiring.
+Academics and researchers around the world also use economic statistics to evaluate alternative models and theories that further our understanding of how the economy and financial markets operate.
+Reliable and timely economic statistics are crucial to the formulation and evaluation of budgetary and monetary policies.
+Measuring U.S. gross domestic product (GDP), for example, is an enormously difficult task, but accurate measurements are extremely important for policymakers' decisions.
+An error of just 1/10 percentage point in projections of long-term real GDP growth, for instance, can result in an error of approximately $270 billion in a ten-year budget forecast.
+Monetary policy relies crucially upon sound statistics.
+I am sure that many of you have heard the analogy comparing a monetary policy maker to the driver of a car.
+The policymaker is faced with the decision of whether to tap on the accelerator or the brake to maintain the proper speed for the economy.
+In 2004, then-Governor Bernanke commented that, in part given the imperfect nature of economic statistics, "if making monetary policy is like driving a car, then the car is one that has an unreliable speedometer, a foggy windshield, and a tendency to respond unpredictably and with a delay to the accelerator or the brake.
+"1 Trying to fix that speedometer and to clear some of the fog from the windshield is what I want to focus on in my remarks today.
+Let me start with a couple of concrete examples of the importance of improving economic statistics for monetary policy.
+The first concerns the measurement of productivity, that is, the amount of output for each hour of labor.
+Productivity is a key element in the evaluation of how rapidly the economy can grow before raising concerns about inflationary pressures.
+Errors in measuring either output or hours of work--unless they are in both and just happen to exactly offset each other--will lead to distortions in the measurement of productivity.
+Such a distortion occurred in the mid-1990s.
+Work done at the time by the Board's staff suggested that measured productivity in some sectors of the economy was implausibly low.2 As a consequence, Chairman Greenspan urged the Federal Open Market Committee (FOMC) to pursue a more accommodative monetary policy than the published productivity statistics, at the time, might have suggested.
+The result was a period of high economic growth and low inflation.
+Prices are another set of data that are important for monetary policy.
+The primary responsibility of monetary policy is to ensure that we have a low and stable rate of inflation and the maximum sustainable rate of employment growth.
+Inaccurate price measurement could result in inaccurate forecasts of the direction of inflation and, thereby, lead to policy choices that are too tight or too accommodative.
+As a researcher, I find that timely and reliable information is critical for analyzing, measuring, and calibrating the ways in which the various parts of our complex economy operate.
+Although most people think of banks, money, and interest rates when they hear mention of the Federal Reserve, the central bank is also an important producer of economic statistics.
+Among other things, the Federal Reserve publishes data on interest rates, industrial production, and financial accounts for the nation--the flow of funds system.
+The Federal Reserve also has a strong commitment to promoting economic education and financial literacy.
+Recently we have begun using the latest Internet-based technology to make the data we publish more accessible and easier to understand.
+In particular, last month we added to our web site a new data download application, which provides interactive access to Federal Reserve statistical data in a variety of electronic formats.
+We view this new feature as a key element in our mission of promoting financial education.
+A Cost-Benefit Framework As an economist, I like to think about the issues surrounding the improvement of economic statistics using the framework of cost-benefit analysis.
+As applied to economic statistics, cost-benefit analysis essentially says that because the federal government has limited resources, it's important that the statistical agencies and the nation get the biggest bang possible for the buck.
+The goal is to allocate resources most efficiently and effectively, focusing on the data that are most important for private and public decisionmaking.3 Improving the cost-benefit tradeoff for economic statistics has several elements, and I will focus on two in my remarks.
+The common theme is that innovations in economic statistics must keep pace with innovations in the economy.
+One element to improving the cost-benefit tradeoff is removing legislative barriers that raise costs without providing benefits.
+Sometimes individual federal statistical agencies must separately collect information from the public on the same subject because the agencies are prohibited by law from sharing the information with each other.
+In 2002, the Congress enacted an important piece of legislation called the Confidential Information Protection and Statistical Efficiency Act (CIPSEA).
+As a member of the President's Council of Economic Advisers at the time, I helped lead the effort to urge passage of CIPSEA.4 CIPSEA tackled two important issues.
+First, the act strengthens the safeguards that protect the confidentiality of information provided by the public.
+The legislation applies clear and uniform statutory restrictions on the use of confidential statistical information.
+In particular, information about individuals or organizations acquired for exclusively statistical purposes and under a pledge of confidentiality can be used only for statistical purposes.
+The act replaced a patchwork of safeguards with consistent tough penalties for the unauthorized disclosure of confidential statistical information.
+Second, the act authorized the limited sharing of business data among the Bureau of the Census, the Bureau of Economic Analysis (BEA), and the Bureau of Labor Statistics (BLS) for statistical purposes.
+Allowing the agencies to share certain businesses data has improved the accuracy and reliability of economic statistics.
+In particular, enhanced data sharing among the agencies has improved the ability of the Census Bureau, the BEA, and the BLS to track rapidly changing trends in the U.S. economy.
+In addition, it has helped to reduce the duplicative paperwork burdens imposed on businesses.
+Even with the 2002 legislation, however, more can be done to realize the full benefits of data sharing.
+What I'm about to discuss is going to sound very arcane, but it is quite important for the improvement of economic statistics.
+So please bear with me.
+The Census Bureau conducts a large number of business surveys the results of which are key inputs into the estimation of the nation's GDP.
+The Census Bureau selects businesses to survey from a list of establishments called a "business register."
+The Census Bureau uses tax reports as a way of identifying establishments to include in its business register.
+It's very important to note that the Census Bureau is not rummaging through individual line items on company tax reports but rather is using the reports only to identify companies for inclusion in its surveys.
+Meanwhile, every month the BLS conducts a survey of establishments to find out about such things as employment and earnings.
+The BLS also uses a business register to decide which establishments to contact.
+However, the BLS register comes from reports filed by firms to state unemployment insurance offices.
+Here's the rub: In many instances establishments show up as being part of different industries in the two registers.
+As a result, industry analyses that use survey data on employment or prices from the BLS and survey data on shipments from the Census Bureau may well provide unreliable characterizations of changes in real output and productivity for particular industries.
+How important is this problem?
+Let me give you a few examples.
+A limited study compared the Census Bureau's and BLS's business registers for 1994 and found that 30 percent of the same single-establishment firms had been assigned different detailed industry codes.
+Staff work at the Federal Reserve Board found that, according to the BLS in 1997, 1.1 million workers were employed in the industry category known as Management of Companies, whereas the Census Bureau tallied employment at 2.6 million for that year!5 In other industries, the differences in 1997, though not as large, still are dramatic.
+In the Oil and Gas Extraction industry, the employment counts differ by more than 30 percent.
+In the Computer and Electronic Product Manufacturing industry, the BLS and Census counts differ by more than 12 percent, and so on.
+The reason the two business registers have not been harmonized is that current law prevents the BLS from having the same access as the Census Bureau to business identifiers on tax forms.
+Removing this barrier to sharing such data for statistical purposes would have significant payoffs.
+Sharing of business registers would help provide for more accurate measures of industry output, compensation, and productivity trends.
+It would permit the statistical agencies to keep abreast of our dynamic economy by producing statistical samples that are consistently adjusted for the entry and exit of new businesses in a timely manner, and it would allow the agencies to correct errors quickly and efficiently.
+This is especially important for fast-growing and innovative industries such as information technology.
+Such improvements would improve our ability to perceive emerging trends in the economy and more accurately forecast economic activity.
+The BEA, the statistical agency responsible for estimating GDP and the other components of the national income and product accounts, cannot currently access information from business taxes.
+Allowing the BEA to obtain certain aggregate numbers from business tax returns for statistical purposes would let the BEA significantly improve its estimates of the role of noncorporate businesses in the economy.
+This is important, in part, because many entrepreneurial start-up firms, which are a source of dynamism in the economy, begin their lives organized as sole proprietorships or partnerships--that is, not as corporations.
+Permitting the BEA to use limited business tax information for statistical purposes could appreciably improve the measurement of this vibrant part of the economy and, once again, improve our ability to spot new trends and forecast economic activity.
+Of course, in obtaining this information, the BEA would continue to be subject to the strict confidentiality requirements and disclosure penalties embodied in CIPSEA.
+Protecting data privacy is of utmost concern, and I would certainly not suggest changes that would compromise confidentiality.
+I now would like to turn to the second element I want to emphasize in improving the cost-benefit trade off for economic statistics, namely, that the statistical agencies hasten their move toward a more effective allocation of current resources.
+The usefulness of economic statistics--the benefit side of the cost-benefit tradeoff--is the key.
+The economy is constantly changing.
+In the past, there has been a tendency to persist in a full and expensive compilation of detailed data for heretofore cutting-edge industries far beyond the time at which those industries stopped being prominent in the economy.
+Consequently, statistical agencies need to be constantly assessing whether their data reflect the changes--that is, you don't want to be spending all your resources on collecting information about buggy whips in the age of the automobile.
+An innovative economy needs to have innovative statistics.
+This means that the statistical agencies need to be on the cutting edge in measuring the most dynamic parts of the economy.
+Typically, we think of dynamism in terms of those segments of the economy--usually industries and sometimes occupations--where output or employment are growing rapidly.
+But output and employment growth are not the only criteria for dynamism.
+Rapid increases in what economists call "intangible capital" are another characteristic of dynamic firms.
+This includes such things as expenditures on scientific research and development (R&D) as well as the breakthrough improvements to businesses processes that have made so many American companies successful.
+Dynamic firms are also characterized by the proliferation of new products that incorporate large amounts of R&D as well as by rapid improvements in the quality of products.
+These brisk gains in intangible capital and the quality of products are important because they are an important source of productivity growth.
+In other words, dynamic firms are the ones making the largest contributions to the nation's overall productivity growth, which is, at bottom, the fundamental source of rising standards of living.
+Accordingly, it is important that the economic statistical system do a good job of measuring not only output and employment growth but also intangibles, new cutting-edge products, and quality changes.
+Given the speed and short histories of many of these changes and innovations, however, it is particularly challenging to create statistics for new and dynamic parts of the economy that will be as reliable as those in the more traditional sectors.
+We need to be mindful of the difficult burden that the statistical agencies face in trying to maintain their very high standards for quality in such areas.
+Re-allocation of resources is rarely easy since it means cutting back on something.
+It is not appropriate for the Federal Reserve to get into the details of how the Congress or the statistical agencies should spend the taxpayers' money.
+However, as consumers of the data produced by the agencies, it is fitting for the Federal Reserve to indicate improvements to economic statistics that would enhance their usefulness for the analyses and forecasts upon which we base our decisionmaking.
+Indeed, in our role as data consumers, the agencies often seek our recommendations.6 So, with that in mind, let me offer some specifics.
+I'll start with the way in which the Census Bureau classifies the outputs of the economy into particular categories for data collection purposes.
+The Census Bureau creates a list of so-called "product codes" that identify the types of goods and services that companies produce and sell.
+They group similar products into larger categories, but innovations in the economy have made those groupings woefully out of date.
+For the past several years, the Census Bureau has been developing more extensive product codes for services, and that effort is to be applauded.
+It is precisely the right response to a dynamic economy in which services have become much more important over time.
+In addition, improving product codes for communications equipment and other high-tech components of manufacturing also should be given high priority.
+To illustrate, consider the product category "broadcast, studio, and related equipment."
+The Census Bureau publishes sixteen subcategories of product data--items such as AM and FM radio transmitters, for which shipments in 2004 were valued at $103 million; or cable-TV subscriber equipment (decoders, switches, and so forth), with shipments worth $41 million; or studio transmission links (the hardware to bring a live reporter's feed back to the studio), for which shipments were worth $18 million.7 Now, contrast this with the product code called "data communications equipment."
+Unlike "broadcast, studio, and related equipment," there are no break-downs into subcategories.
+Such leading-edge products as large enterprise routers, gateways, bridges, and terminal servers are combined into a single category.
+In 2004, shipments from manufacturers of data communications equipment totaled more than $10-1/2 billion.
+The current system of product codes thus provides as much information about a well-established technology with shipments worth $18 million as a grouping of rapidly changing technology products with shipments worth more than $10-1/2 billion.
+Similarly, the current system of product codes tell us as much about shipments of public pay telephone as it does about shipments of cellular system equipment--an industry that is more than 230 times larger ($43 million versus nearly $10 billion).
+The task of updating product lists is resource intensive and time consuming, but it is critical to gaining a more comprehensive understanding of developments in the most vibrant sectors of our economy.
+In addition to updating product codes to reflect change, another data challenge of our dynamic economy is to adjust the prices of high-tech equipment for improvements in quality.
+By adjusting for quality, I mean price statistics that recognize that a computer that costs $1,000 today is several times more powerful than a computer that cost $1,000 ten years ago.
+Accordingly, after taking account of the quality improvements, one can say that today's computers cost far less than computers cost ten years ago because you get much more for your money today.
+Government price data for computers do try to adjust for quality improvements, and the agencies must be applauded for undertaking such adjustments to keep pace with innovations in the economy.
+Many dynamic sectors, however, still await adjustments for quality improvements.
+As a result, the statistical measurement system is not fully capturing these critical technology improvements, which are a key source of productivity gains in the IT sector.8 Many types of logic chips that are now common in everything from cell phones to DVD players have been improving rapidly.
+Their prices, however, have not been adjusted for quality and such chips are simply lumped in with "other semiconductors."
+Because semiconductor prices are often used as a gauge of technological progress--the faster the prices fall, the faster technology is improving--inadequate price measurement may be leading to inadequate assessment of the pace of technological progress.
+Another product for which improved price statistics could be particularly valuable is medical diagnostic equipment--the forgotten part of the high-tech equipment sector.
+9 Government price statistics combine all medical diagnostic equipment (CT scanners, MRI scanners, and the like) into a single bundle.
+The pace of technological advances for these types of equipment has been breathtaking and reflects, in part, ongoing miniaturization afforded by the increased use of embedded computer-like components.
+Gathering additional information about high-tech medical equipment would not only round out our picture of high-tech equipment and components but also shed light on some, though certainly not all, of the questions that have been posed about the contribution of medical technology to health-care costs.10 Let me leave price measurement and conclude with another area where innovative statistics are valuable for enhancing our understanding of the economy.
+As I mentioned previously, intangible capital is an important characteristic of dynamic firms.
+Currently, however, the government publishes no comprehensive statistics on intangible capital.
+In their pathbreaking work, Federal Reserve economists Carol Corrado and Daniel Sichel, along with University of Maryland economist Charles Hulten, identify three broad types of intangible capital: computerized information--primarily software; innovative property--knowledge acquired through scientific R&D and nonscientific inventive and creative activities; and economic competencies--knowledge embedded in firm-specific human and structural resources.11 Later this year the BEA plans to issue a satellite account that will treat scientific R&D as investment.
+This is a significant and valuable step forward.
+Scientific R&D is measured by an important survey sponsored by the National Science Foundation and conducted by the Census Bureau.
+As Corrado, Sichel, and Hulten note, entrepreneurs and businesses also devote a broad array of "nonscientific" resources, including the development of entertainment and artistic originals, to develop new products and processes.
+Further work to investigate the feasibility of capturing such information at reasonable cost could produce benefits of increasing our understanding of productivity and growth trends.12 In applying a cost-benefit framework, I think that it would be valuable for the statistical agencies to continue to seek opportunities to partner with the private sector in order to boost efficiencies.13 Perhaps the private sector could help collect data and even help to process and disseminate it.
+Retail chains have extensive electronic data systems on the details of consumer purchases--a wealth of data on consumer spending patterns that is now being analyzed for statistical purposes.14 And high-tech firms have excellent information on inventories, sales, and prices, which could help to provide a better snapshot of innovations that are driving the most dynamic parts of the economy.
+To some extent, the statistical agencies, including the Federal Reserve, already use data--both public and proprietary--that are collected by the private sector.
+The key issue is finding more opportunities for private-public partnerships that are efficient, mutually beneficial, and do not compromise the high quality of federal statistics that we have come to expect.
+Summary and Conclusion As I noted in my introduction, the U.S. enjoys among the best, if not the best, economic statistics in the world.
+My remarks have been focused on building on that excellent foundation using a cost-benefit framework.
+Innovations in economic statistics must keep pace with innovations in the economy.
+Barriers to useful sharing of information across statistical agencies should be removed to reduce costs and enhance benefits, but in no way should we compromise the high standards of privacy protection embodied in CIPSEA and other statutes.
+And allocating resources to better measure the most dynamic parts of the economy will help us get the most bang per buck in economic statistics by enhancing our ability to spot trends and improve forecasts of the direction of the economy.
+Policymakers, businesses, and average Americans are able to make better decisions with economic statistics that reflect the latest innovations in the economy.
+Achieving an innovation-sensitive statistical system can be fostered by removing legislative barriers that impose costs on the system with no (or little) benefit.
+Also, statistical agencies need to be nimble at recognizing and responding promptly to emerging trends in the structure of the economy.
+One way of achieving nimbleness is by getting feedback from users in government, in the academy and in business.

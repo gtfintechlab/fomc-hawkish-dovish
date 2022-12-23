@@ -1,0 +1,74 @@
+,sentence
+0,"The oil price spikes of that time clearly had significant macroeconomic implications, representing one of the rare times that higher prices in an individual industry have importantly affected the overall macroeconomy."
+1,"To account for these effects, structural-model builders had to disaggregate their systems into oil and non-oil, or energy and non-energy, sectors, dealing with effects on both the demand and the supply sides of the economy."
+2,"In a world where all shocks are on the demand side, policymaking boils down to finding the optimal balance between inflation and unemployment, or in modern parlance, finding the strategy that hits the optimal point on the frontier relating the variances of inflation and unemployment around their target values."
+3,"Policy must then balance competing objectives in the presence of a shock that normally implies more inflation, more unemployment, or a combination thereof."
+4,I will first review the evidence on the seriousness of oil shocks for the macroeconomy and then discuss how I think monetary policy should generally respond.
+5,Oil shocks have serious effects on the economy because they immediately raise prices for an important production input--oil--and important consumer goods--gasoline and heating oil.
+6,They are also likely to push up prices in other energy markets.
+7,These price increases are significant enough that they typically show up as temporary bursts in the overall rate of inflation.
+8,They may even get passed through to continuing rates of inflation if they become incorporated into price- and wage-setting behavior.
+9,"Increases in oil prices also reduce consumer spending power, in much the same way as when a new excise tax is passed along by oil producers."
+10,"To the extent that these producers are foreign, there should be a corresponding drop in domestic demand."
+11,"Even if the oil producers are domestic, a drop in domestic demand could still occur if the producers do not spend as much of their new income as consumers would have or if they do not recycle their profits to shareholders."
+12,"One approach, often associated with James Hamilton, measures the reduced-form correlation between oil price movements and subsequent movements in unemployment, or output gaps.1 Such an analysis is shown in figure 1, which compares aggregate real oil prices with a measure of the overall output gap.2 The figure shows that since 1973 every upward spike in real oil prices has been followed by a jump in the output gap."
+13,"However, some of these jumps seem much larger than can be accounted for by oil prices alone, and there appears not to be a symmetric macro response to downward oil price shocks."
+14,"But this result is still impressive because most of these oil price shocks have been perceived as temporary, as measured by the difference between the oil spot price and far futures price (discussed further below)."
+15,"Presumably, the macroeconomic impact would have been even more powerful for price shocks that were perceived as permanent."
+16,Hamilton and others have run a series of causality tests to these macro data and do find significant causal effects for oil prices.
+17,One can also analyze oil price shocks by using structural econometric models.
+18,These models would typically build in some sort of price-responsiveness behavior to measure pass-through effects.
+19,They would account for the effects of higher energy prices on the real disposable income and spending demands of the household sector.
+20,"They would make similar calculations for business investment, working out the impact of oil prices on the cost of capital and business-cash flows, to the extent that these influence overall investment spending."
+21,"When one does all this, as many economists are doing these days, one sees effects of about one-third of 1 percent on unemployment and slightly more for core inflation rates for a permanent shock in the price of oil of $10 a barrel.3 With appropriate transformations, these structural effects appear to be a good bit smaller than the implications of the reduced-form correlations."
+22,One involves consumers--perhaps a serious oil price shock could affect consumers' confidence or spending plans in a way that would not be captured by working out the effect of normal income and price elasticities.
+23,Capital investment may also be affected if the oil price shock encourages producers to substitute less-energy-intensive capital for more-energy-intensive capital.
+24,"Of course, such a substitution will not necessarily lower aggregate demand if it requires more investment demand for new energy-saving equipment."
+25,How Should Monetary Policy Respond to Oil Price Shocks?
+26,"Monetary policy makers in this country have a dual mandate, to stabilize prices and to maximize sustainable employment in the long run."
+27,Their response to oil price increases should focus on these two objectives.
+28,"At one extreme, monetary policy makers might focus exclusively on the demand-reducing effect of oil shocks and try to stabilize unemployment rates."
+29,The risk from this approach is that prices would rise the full amount implied by the shock and would more likely be passed through into further wage and price increases.
+30,Continuing inflation rates could bump up the full amount of the initial boost in inflation.
+31,"The continuing inflationary potential from the oil price shock would, in effect, be maximized."
+32,"At the other extreme, monetary policy makers could focus exclusively on neutralizing the initial impact of the shock on inflation."
+33,"Given the initial oil price shock, this approach would entail reducing demand enough to stabilize overall, or core, inflation rates."
+34,"If prices were at all sluggish in their response to changes in unemployment, this approach could entail large increases in unemployment from the shock."
+35,"If, for example, monetary policy makers tried to keep overall nominal income on a steady path, the direct rise in nominal income from the oil price shock would be met by a fall in real income from somewhat higher unemployment."
+36,The result would be a temporary rise in both inflation and unemployment.
+37,"Because the temporary rise in unemployment would damp price pressures, the chances that the initial oil price inflation would pass through into continuing inflation would be reduced."
+38,"Most likely, the initial inflationary boost would prove temporary, permitting the rise in unemployment to be temporary as well."
+39,"First, since a large share of U.S. oil is imported, a significant difference could exist between the value-added price deflator comprising nominal income and more-appropriate measures of true consumer price inflation."
+40,Monetary policy makers would be better off focusing directly on these more-appropriate measures.
+41,"Second, as before, if prices were highly sensitive to supply shocks but not sensitive to output movements, even nominal income targeting could imply substantial increases in unemployment."
+42,A better approach would be to follow a policy rule based directly on target values of unemployment and some appropriate measure of inflation.
+43,"One example is a Taylor rule, under which monetary policy makers would move the short-term target interest rate--the federal funds rate in the United States--up or down to respond to deviations in core inflation and unemployment from their target values.4 The results would be qualitatively similar to those of the nominal income targeting rule, with a temporary rise in both inflation and unemployment, though the increases would now be more keyed to underlying monetary policy objectives."
+44,"If it did, the nominal funds rate would first rise and then fall with the inflation rate itself."
+45,"Were policy to try to avoid any rise in unemployment, the initial oil price shock might get passed through to continuing inflation."
+46,"Were policy to try to avoid any rise in inflation, the movement in unemployment would be substantial."
+47,"The best approach is likely to be to accept some temporary rise in both inflation and unemployment, with the increases being based on underlying objectives."
+48,The rises would be temporary so long as inflation did not persistently deviate from its long-term price-stability target.
+49,"As shown in figure 2, the spot price of oil (solid line) has recently spiked up, as it has several times since 1985.5 But in contrast to most other oil-price-spike episodes, this time the far futures price of oil--that is, the price for contracts seven years out--has also risen sharply."
+50,This correlation seems to indicate that the present oil price increase is not viewed as a purely temporary shock.
+51,"At the same time, as shown in figure 3, which plots the difference between the spot price and the futures price, the current price is still greater than the far futures price, representing a phenomenon known as backwardation.6 Because of such backwardation, this oil price shock still seems to have an important temporary component."
+52,"Today, the high price of oil is much more likely to be due to demand growth in the United States, China, India, and other countries."
+53,Does the source matter when trying to determine how monetary policy should respond?
+54,"If the demand growth that caused the oil price increases is domestic, it could mean that the price shock might be less permanent."
+55,The high oil prices would themselves cut into demand growth and tend to stabilize the system.
+56,"If the demand growth is foreign, say from China and India, this feedback effect is still present but damped."
+57,Even foreign demand for oil might be influenced by reduced demand growth in the United States and its trading partners.
+58,"It is certainly possible that oil shocks partially motivated by demand may be less permanent than true supply shocks, though that reasoning is contradicted by current-day oil futures prices."
+59,"It is not much of a silver lining, but the present price burst might provide some information on the qualitative difference between domestic and international demand and supply shocks."
+60,"As figure 1 shows, even the present high real price of oil is only about half the real price in 1980, and the importance of energy in the overall economy is also less than half what it was then."
+61,"At the same time, figure 2 suggests that the permanent oil price rise is on the order of $15 a barrel."
+62,"Since the United States now imports 4.5 billion barrels of oil per year, this price rise makes for an effective reduction in domestic income of $68 billion."
+63,"To the extent that dollars going to domestic oil producers are not fully recycled, the effective demand reduction could be even greater."
+64,"The rise in consumer prices from all these sources, as well as the reduction in aggregate demand, could be noticeable."
+65,A final issue involves the initial position of the economy and monetary policy.
+66,"In the usual exercise, one analyzes the economy in some sort of equilibrium position and posits an oil price shock, which normally results in the temporary increases in inflation and unemployment described earlier."
+67,"When monetary policy begins with inordinately low nominal interest rates, the reasoning becomes more complicated."
+68,"Now the response to the oil shock is, in effect, superimposed on any re-equilibration process built in for monetary policy."
+69,"Without the oil shock, policymakers beginning from a period of low interest rates would try to keep the economy on an even growth path as they gradually raised nominal interest rates."
+70,"With the shocks, nominal rates would still likely follow an upward path, though the economic reactions would be bumpier, with temporary rises in both inflation and unemployment."
+71,"Conclusion As a new economic event of the 1970s, oil price shocks forced monetary policy makers to rethink all their rules and added new chapters to macroeconomic textbooks."
+72,"Today the question of how to respond to oil price spikes is better understood, but the outcomes are no more pleasant."

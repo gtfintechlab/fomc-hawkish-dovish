@@ -1,0 +1,84 @@
+My goal this morning is to highlight several issues on the Fed's agenda for bank supervision and regulation.
+The first item never seems to leave the agenda: financial modernization.
+The issue has two sides: the market process and the legal framework.
+In the market-driven process, financial institutions are increasingly competing with each other--with banks seeking to expand the financial services they offer within banking organizations and, at the same time, nonbank financial institutions offering many bank-like products.
+This process has been under way for years, though constrained by the prevailing statutory limits.
+Legislation would allow the market process to evolve further and would, in addition, refine the supervisory and regulatory framework for the diversified financial services firms that would emerge as a result of the legislation.
+Many of you know the details of the disagreement between Treasury and the Federal Reserve over what that supervisory framework and permissible structure should look like.
+Rather than restating those details, let me simply express the hope that the efforts of the regulators and Congress will ultimately be successful--in this millennium--in moving the bill to passage.
+Being optimistic by nature, I turn to the challenges for both the banking system and the supervisors in adapting to the changes in banking and financial services that the passage of legislation would set in motion.
+Developing cooperation and coordination among the multiple supervisors of financial services firms would be one of the first.
+Financial modernization envisions a blend of functional and umbrella supervision.
+Depository institutions would continue to be supervised by their current bank or thrift regulators, with functional regulation of the new nonbank activities by their specialized regulators and umbrella supervision of the diversified financial services holding company by the Federal Reserve.
+This approach has a lot to recommend it but requires a high degree of cooperation and coordination between and among the bank supervisors and the functional regulators, specifically securities and insurance.
+This cooperation is essential to limit the regulatory burden otherwise associated with multiple regulators.
+Bank supervisors need to be well informed about the risks to the banking organization--and the depository institution in particular--from activities taking place in affiliates and, perhaps also in some cases, in operating subsidiaries.
+The umbrella supervisor will have to keep other regulators informed so they can do their job as well.
+We have had some experience as bank regulators in managing these kinds of communications.
+The Federal Reserve has worked hard with state banking authorities and with the OCC to increase the coordination of our examination and supervisory efforts, and we will continue to look for ways to improve this coordination as we also move to improve communication and coordination with functional regulators of the nonbank activities.
+The proposed blend of functional and umbrella supervision is one of several models for the supervision of diversified financial services firms that include a bank.
+The United Kingdom, Australia, Switzerland, and some other countries have moved to a very different structure that relies on a single consolidated financial services regulator and eliminates supervisory and regulatory responsibilities at the central bank.
+In this approach, the single regulator supervises bank and nonbank activities alike.
+Some see this structure as the wave of the future, given the blurring of distinctions between financial services.
+I wish our colleagues abroad the best of luck, but I think their legislatures have made a mistake.
+The argument is that in a market that has increasingly eroded differences among and between financial institutions, the uniqueness of banks has declined and the combining of financial institution regulators and adoption of similar, if not identical, regulations makes sense.
+Adding a powerful single regulator to a powerful and independent central bank would create an entity with significant authority outside the day-to-day direct purview of government, so governments have opted to combine the regulators and strip the supervisory and regulatory power from the central bank.
+But please note that they have continued to make their central banks responsible for financial stability.
+While macro financial tools and monetary policy may be sufficient to do that job most of the time, supervisory and regulatory policies have important economic and stability implications.
+Particularly in a crisis, a central bank without knowledge of the way markets actually operate--knowledge that can gained only by experience and hands-on contact with banking organizations--will be, if you will excuse an ex-professor's metaphor, at risk of failing its final exam.
+As a result, I think the separation of central banking and supervision and regulation is dangerous.
+The supervisory and regulatory approach in the United States, as embodied in financial modernization legislation that the Federal Reserve supports, is quite different from the trend abroad.
+It provides an important role for the central bank in the process as an umbrella supervisor.
+It also makes an important distinction between the insured depository institution in the banking organization and its nonbank affiliates (or perhaps in some cases, its operating subsidiaries).
+Specifically, this approach envisions a less intense degree of supervision and regulation of the nonbank activities than for the depository institution itself.
+This reflects the role of the safety net in undermining market discipline of depository institutions and the role that supervisors must play to discipline risk-taking by them as a result.
+On the other hand, market discipline appears to operate more effectively with respect to nonbank financial institutions and, if the regulators do their job right, to nonbank activities within banking organizations.
+As nonbank activities grow within banking organizations, regulators must be alert to market inferences that nonbank activities within a banking organization are covered by an expanded safety net.
+Regulators must establish appropriate expectations with respect to the limits of the safety net, and confirm these expectations by their actions, to maximize market discipline of the nonbank activities and minimize the level of intrusion.
+The alternative, to impose bank-like regulation on nonbank activities, is exactly the wrong direction.
+We would rather work toward enhancing the effectiveness of market discipline on banks.
+I will return to the task of enhancing market discipline in a moment.
+While President McDonough will discuss the ongoing work of the Basel Committee on Banking Supervision to reform the Basel Accord, I want to emphasize its importance on our agenda.
+Most observers think, quite correctly, of the Basel Accord exclusively in terms of minimum capital standards.
+But the Basel consultative paper is consistent with the Federal Reserve's long-standing emphasis that minimum capital standards are just a part of the framework for enhancing the safety and soundness of the banking system.
+Indeed, the paper encourages a rebalancing of emphasis toward supervision and market discipline.
+With respect to minimum regulatory capital standards, the most important task is to make the capital requirements for the banking book more risk sensitive.
+Banks are increasingly estimating the risk of their individual loans and allocating their economic capital accordingly.
+When internal capital allocations result in decidedly lower capital than required under the Accord, the choice is either to stop making such loans or to find ways to lower the capital charges applied to them, taking advantage of a variety of transactions, including securitizations and credit derivatives.
+Their capital arbitrage activities have shown banks to be much more adept in shedding capital requirements than in reducing risks.
+The solution is to reform the capital standards so they are more consistent with the underlying risks in the banking book and to reduce--if not eliminate--the incentive for and the ability to conduct regulatory capital arbitrage.
+That is the principle.
+The question is how to achieve this end.
+We look forward to the comments from the banking industry on proposals to use external ratings or banks' own internal risk-rating systems to produce a more risk sensitive assessment of minimum capital requirements for the banking book.
+As useful as a more risk sensitive minimum capital standard would be, the fact is that most banks hold capital well in excess of the regulatory minimum.
+Therefore, one of the most important directions for bank supervision--at least with respect to the largest and most complex banks--is to place more emphasis on the supervisory assessment of the appropriate economic capital for a bank.
+The Basel consultative paper points in this direction, and the Federal Reserve is already moving to implement such an approach.
+Recent supervisory guidance stressed that banks should set a target for capital that should be appropriately aligned with the risk profile and risk-management capability of the bank.
+Bank supervisors will assess the adequacy of this target level of capital in their examinations of banks, and banks should defend their target level of capital to the market.
+This approach will give further impetus to the advances already well under way in the banking industry to refine the measurement of risk and the allocation of capital using internal risk ratings and internal models.
+This will hopefully yield an important synergy between banks and their supervisors: The better the risk measurement and management of banks, the better the opportunity of bank regulators and supervisors to lever off these practices in the setting of regulatory capital standards.
+Another part of the rebalancing is toward increased emphasis on market discipline.
+I have noted that the safety net dampens the incentive of the market to assess risks in banks.
+The solution is not to ignore the potential for market discipline, but rather to find ways to enhance its role in banking.
+At the Federal Reserve, we are beginning to pay closer attention to market measures of risk, including measures derived by comparing uninsured-deposit rates, equity prices, and subordinated debt yields.
+These measures may prove useful in alerting supervisors to changes in the market perception of risk.
+I have on previous occasions discussed the potential of a mandatory subordinated debt requirement for increasing the incentive of market participants--in this case subordinated debt holders--to monitor the risk-taking of banks.
+While we have no plans to move forward with such a requirement at this time, I continue to find this proposal intriguing, and we will continue to study its potential usefulness.
+Market discipline is reinforced by enhanced public disclosure of risk positions and risk-management capabilities.
+We have recently assessed the adequacy of disclosure and believe there are opportunities for banks--especially the large, complex banking organizations with a large share of their assets funded by uninsured liabilities--to reveal more information.
+One possibility would be to have an industry-led task force identify best-practice with respect to bank disclosure and provide banks with an incentive to move toward this best practice frontier.
+Any such effort should be flexible, not necessarily dictating the same disclosures for all banks but allowing banks to choose the most effective ways to disclose--through both qualitative and quantitative information.
+In our supervisory practices and regulatory standards we draw a distinction between the largest and most complex banking organizations (what we refer to as LCBOs) and the overwhelming majority of small- and medium-sized banks.
+For example, while I applaud the direction in the Basel consultative paper toward a more sophisticated and more risk sensitive minimum capital standard, I do not believe this more complex system is warranted or appropriate for the overwhelming majority of U.S. banks.
+We are therefore thinking about what the banking agencies are calling bifurcation, using a simpler capital standard for the thousands of smaller and medium-sized banks as we adjust our capital requirements for the large complex organizations to better fit their risk profiles.
+We already have different intensities of supervisory oversight at large complex banks and at small- and medium-sized banks, and have singled out a very small number of the largest and most complex banks for a program that features an enhanced focus on risk management and internal controls, the use of internal credit-rating systems, and internal analyses of capital in relation to risk.
+This trend will continue.
+Let me close with a comment about a possible relaxation in credit discipline that our supervisory reviews have detected at some banks.
+Now, don't mistake me; loan portfolios remain sound overall.
+But loans falling into criticized categories have been rising modestly at some banks over the past several quarters.
+That's troubling because the increase has surfaced despite the continuation of favorable economic and financial conditions in the United States.
+It appears the vulnerability of these loans was heightened in some cases by weak underwriting practices.
+In these cases, a recurring theme has emerged.
+Lenders are relying too much on the continuation of good times.
+They're assuming a very optimistic view of their borrowers' operating prospects and that their borrowers always will have ready access to financial markets.
+And sometimes they're failing to subject loans to meaningful "stress tests" that would, for instance, tell them if their borrower could withstand an unexpected shock to operating revenue.

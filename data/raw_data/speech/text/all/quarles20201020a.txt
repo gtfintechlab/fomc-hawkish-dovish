@@ -1,0 +1,101 @@
+The Securities Industry and Financial Markets Association (SIFMA) annual conference covers a broad spectrum of issues that are timely and relevant to the current work of the Financial Stability Board, or FSB, and I am grateful for the opportunity to be part of it.
+The shocks related to COVID-19 and the associated containment measures, which I refer to as the "COVID Event," have sharpened the FSB's focus on the role of capital provision, the functioning of financial markets, and different aspects of nonbank financial intermediation, or NBFI for short.
+The FSB's annual NBFI monitoring report estimates that the sector now accounts for almost 50 percent of total financial intermediation globally, up sharply in the last decade.
+With this growth has come greater interconnectedness.
+Many NBFIs rely on the banking system for credit and backstop liquidity.
+The interconnectedness of our financial system means that it is not enough to understand the vulnerabilities arising from the banking sector.
+We must also understand vulnerabilities in the nonbank sector and how shocks are transmitted to or from the nonbank sector.
+To address this need for a broader perspective, last year I formed a high-level steering group of central bankers and market regulators to oversee the FSB's work on nonbank finance and to help coordinate with various global financial standard-setting bodies.
+The COVID Event in March tested the resilience of the financial system, and the NBFI steering group has used the past few months to begin identifying the parts of the NBFI sector that did not exhibit sufficient resiliency.
+While our analysis is not final, the group is currently completing a holistic review of the impact the COVID Event had on financial markets in March, especially dislocations in key funding markets and credit supply, to better understand the role that vulnerabilities stemming from the NBFI sector played.
+Today, I want to share with you some of the emerging elements of the FSB's review of the COVID Event, primarily how the shock moved through the financial system and which critical vulnerabilities it exposed.
+I also want to outline further work that the FSB plans to conduct in light of this experience, including a more in-depth assessment of how various segments of the NBFI sector performed.
+Going forward, I expect the NBFI sector to be an ongoing focus of the FSB.
+The Global Financial System and Economy Prior to the Shock When COVID-19 emerged early this year, the global financial system was in several ways fundamentally different than it was at the outset of the financial crisis of more than a decade ago.
+Regulatory reforms implemented in response to that crisis, changes in technology, developments in U.S. dollar funding, and, importantly, the growth of NBFI all contributed to a changed landscape.
+Beyond the growth of the NBFI sector, there has also been considerable change within this sector.
+Business models and financial services provided by NBFIs have become more diverse.
+This variation can be seen in new products, services, and financial models.
+New types of marketsâ€”for example, private debt marketsâ€”and new forms of intermediation, such as fintech credit, have sprung up.
+Investments by nonbank entities in certain credit products, such as fixed income exchange traded funds and collateralized loan obligations, and participation in some credit segments, such as mortgage and consumer finance, has grown.
+Change is also evident in how the sector operates in different jurisdictions.
+For example, provision of credit by nonbank fintech lenders varies greatly across FSB member jurisdictions.
+In sum, nonbanks now play a larger and more diverse role in financing the real economy and managing the savings of households and companies.
+The past decade also saw an evolution in the global U.S. dollar funding landscape.
+While the U.S. economy forms a smaller percentage of global gross domestic product than in the past, the U.S. dollar still dominates international finance as a funding and investment currency, and its widespread use has given rise to a complex and geographically dispersed network of financial relationships.
+This means global economic and financial activity is highly dependent on the ability of U.S. dollar funding to flow smoothly and efficiently between users.
+In contrast to bank intermediation, market-based financing in U.S. dollars has outpaced the growth of the global economy.
+Nonbank institutionsâ€”such as insurers, pension funds, and central counterpartiesâ€”have become more important users of U.S. dollar funding, though they lack access to funding backstops, such as central bank facilities, in times of stress.
+Cross-border links between banks and nonbank entities have also increased, and there has been a shift of global portfolios toward U.S. securities and cross-border lending into emerging market economies (EMEs), much of which is in U.S. dollars.
+Changes in the functioning of financial markets have also affected how the financial system provides liquidity and transmits price changes, and many of the recent changes stem from the increased role of nonbank players.
+In markets with more standardized products, electronic trading has grown, increasing the use of high-frequency trading and the role of principal trading firms in providing liquidity.
+By contrast, other markets, such as funding markets for corporate credit, have grown significantly in size but continue to be traded over-the-counter with low levels of automated trading.
+The COVID Shock and Its Propagation The outbreak of COVID-19 and efforts to contain it generated simultaneous hits to aggregate supply and demand.
+Voluntary and mandated quarantines, lockdowns, and social distancing efforts lowered aggregate demand, caused large job losses, and sharply increased uncertainty.
+Workplaces closed and travel was curtailed, disrupting global supply chains.
+Important sectors of the global economy, such as tourism and transportation, came to a rapid stop.
+As the concern about the virus spread, these effects grew.
+According to figures from the International Monetary Fund, we ultimately wound up with the deepest and broadest global recession since the Great Depression.1 The "Dash for Cash" As businesses scrambled to remain liquid amidst this global "sudden stop," demand for liquidity in U.S. dollars increased globally.
+Commercial entities with debt denominated in U.S. dollars sought to increase their holdings of U.S. dollars.
+Unprecedented asset price volatility and record or near-record trading volumes led to significant margin calls, which amplified the demand for cash.
+Some market participants may not have anticipated the size of these margin calls, and they were forced to sell less liquid assets rapidly to meet them.
+Those forced sales on top of other pricing pressures, resulted in unwanted procyclicality.
+Traditional sources of cash were unable to handle the significant and sudden increase in demand.
+Normally, market participants can generate cash by converting assets to cash in secured funding markets or by issuing debt.
+Through late February and early March, as the COVID Event began to unfold in Europe, these mechanisms mostly functioned as expected.
+However, only a few days, the surge in demand for cashâ€”apparently triggered by the World Health Organization's designation of the virus as a global pandemic on March 11 and simultaneous lockdowns in a number of countriesâ€”overwhelmed dealers and impaired price discovery.
+Repurchase rates increased sharply and liquidity in securities markets declined precipitously.
+Bid-ask spreads increased, in some cases to levels greater than those observed during the global financial crisis.
+As traditional sources of liquidity became limited, market participants had to either pay a premium for cash, or search for it in other ways.
+A Surprise in Government Bond Markets One alarming feature of the COVID Event involved the way in which the shock propagated through core government bond markets.
+Amid increased demand for cash and short-dated assets, institutional investors sold large volumes of longer-dated bondsâ€”including those usually considered as most liquidâ€”in favor of cash.
+The price of government bonds relative to futures prices decoupled, putting significant volumes of derivatives trades out of the money and thereby increasing margin calls.
+Global authorities sold a significant number of government bonds, perhaps to satisfy U.S. dollar funding needs or to stabilize foreign exchange rates.
+All together, the pressure on longer-dated government bonds was sufficient to impair pricing for some of these bonds in this normally deep and liquid market, an outcome that we would not normally expect.
+Negative Feedback Loops The mismatch last spring in the demand and supply of cash exhibited some self-reinforcing tendencies.
+As market participants became more risk averse and hoarded liquidity, they became unwilling to provide short-term unsecured funding.
+Dealers reached their limits in holding large amounts of securitiesâ€”in some cases internal risk limits, in other cases limits imposed by regulationâ€”rendering them unable or unwilling to absorb significant asset sales from other market participants.
+As companies were increasingly unable to gain access to traditional sources of liquidity, they turned to banks and drew on credit lines, decreasing cash held by banks that they could have used for other lending.
+Stresses in debt markets also fed into one another.
+Widespread forced sales of securities, combined with limited dealer intermediation contributed to increased volatility and illiquidity.
+In particular, the increased volatility led to margin calls, further increasing the demand for liquid assets.
+All of these pressures increased the demand for cash, which increasingly was only available by selling assets.
+The volume of sales was sufficient to impair pricing in certain markets, starting the cycle anew.
+The sharp reduction in market liquidity likely exacerbated asset price declines, and it may have hindered other investors from behaving in a countercyclical fashion by purchasing under-valued assets.
+U.S. Money Market Funds Let me focus briefly on U.S. money market funds, specifically prime and tax-exempt funds, as an example of how some of these strains played out during the COVID Event.
+Money market funds are perceived as very safe and liquid investments by most financial market participants, and yet in the COVID event and in the earlier global financial crisis, the Federal Reserve and the U.S. Treasury were compelled to create significant government backstops to contain runs on these funds that had the potential to destabilize the financial system.
+The crux of the issue stems from the fact that investors run from these money market funds in times of stress.
+In 2008, investors ran from money funds in part because of the first-mover advantage created by their stable net asset values (NAVs); in 2020, investors appear to have run from money funds in part because of fears of impending redemption fees or redemption suspensions.
+In March of 2020, among institutional prime money market funds offered publically as well as retail prime funds, the pace of outflows actually exceeded that in the fall of 2008.2 Those outflows from money funds increased stress in short-term funding markets.
+Conditions in markets for commercial paper and negotiable certificates of deposit (CDs) began to deteriorate rapidly, and spreads for money market instruments jumped to levels not seen since the last financial crisis.
+Intervention In the COVID Event, one advantage the public sector had was the experience of the global financial crisis which helped us act quickly and decisively to halt a further intensification of the market shock.
+These interventions were unprecedented in scale and scope.
+Central banks around the world expanded their asset purchases, significantly increasing their balance sheets.
+Central banks also implemented liquidity support, including traditional operations to fund banks, but also through liquidity facilities to support other entities.
+For example, the Federal Reserve established facilities to provide liquidity to dealers, commercial paper markets, money funds, nonfinancial corporates, and municipal bond markets.
+In an effort to support the global demand for U.S. dollars, the Federal Reserve established swap lines with central banks all over the world to support international trade.
+In addition, regulators and supervisors have strongly encouraged banks to deploy capital and liquidity buffers to support lending, made modifications to certain regulatory requirements, or delayed the implementation of new requirements.
+These decisive actions have succeeded in alleviating market strains to date.
+The Path Forward While swift and decisive policy action succeeded in calming markets, this does not mean that our work is complete.
+While central bank action succeeded in restoring market functioning, this support does not address the underlying vulnerabilities spotlighted by the COVID Event.
+The COVID Event revealed a banking system that withstood this shock quite well with limited official sector support, and a nonbank system that was significantly more fragile.
+By this measure, the COVID Event demonstrates that we have work to do.
+The FSB is in the early stages of this work.
+In November, we will deliver to the G20 Summit, and publish, our holistic review of the COVID Event.
+The report will provide a diagnosis of the shock from a financial stability perspective, including how it was absorbed and amplified.
+The report also will identify areas where policy consideration may be warranted.
+Recognizing the critical importance of the interconnections between the banking and NBFI sectors, the FSB set up a working group to map the current financial system, including the bank and NBFI sectors and the links among and between the two.
+This exercise will identify nodes and channels of risk transmission in the system, which will also help policymakers identify and understand the pathways for both amplification and absorption of risk in the financial system.
+Further, the FSB's initial analysis on the beginning stages of the COVID Event has revealed a number of issues that may have caused liquidity imbalances or propagated stress.
+For example, there are signs that margin calls were larger than expected and may have stretched the liquidity of some market participants.
+Questions about the functioning and resilience of the core government funding markets also remain, especially in relation to the role of leveraged investors and dealer capacity to intermediate in these markets.
+We know already that work needs to be done to improve the resiliency of money market funds before the vulnerabilities in these funds amplify another shock.
+This will require careful consideration of financial stability, investor protection, and efficiency objectives alongside an understanding of the benefits of money market funds that should be preserved.
+Additionally, other types of open-ended funds, especially those invested in less liquid assets, also experienced large outflows, and further work is likely needed to understand liquidity risks in these funds.
+I believe that, as with the work undertaken in the aftermath of the global financial crisis, the FSB will provide a forum for international experts to understand vulnerabilities in NBFIs, promptly prescribe reasonable policy solutions, and monitor the implementation and effectiveness of any agreed-upon reforms.
+Conclusion Global coordination through the FSB has helped reveal a number of issues associated with particular types of market participants and mechanisms that may have caused liquidity imbalances and propagated stress.
+Since the start of the pandemic, FSB members regularly connected to share experiences, analyses, and concerns about coming events.
+In so doing, the membership as a whole has been agile, coordinated, and quick to respond.
+We have seen that decisive action helped to stabilize markets through facilitating funding to support the economy.
+Addressing vulnerabilities in the financial system going forward, therefore, will require a holistic perspective given the various linkages within nonbank financial intermediation and between nonbanks and banks.
+We have gained some clarity regarding areas of the market that needed significant bolstering and have to look closely at whether and how resilience in these segments can be improved.

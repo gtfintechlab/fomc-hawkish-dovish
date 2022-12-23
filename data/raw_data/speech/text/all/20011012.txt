@@ -1,0 +1,212 @@
+While everyone understood that considerable uncertainties--related to economic assumptions and future policy decisions--surrounded these projections, they required that the Federal Reserve take seriously the possibility that monetary policy might have to be conducted without Treasury securities.
+The events since September 11, including a significantly expanded path for federal expenditures and the potential for further tax cuts, have at least delayed such an outcome and have added significantly to the uncertainty about projections of future surpluses.
+Nevertheless, it seems prudent to continue to plan for the contingency that over some longer period the federal debt might, at least for a while, be eliminated.
+In discussing the implications for monetary policy, it is useful to separate monetary policy actions into two steps.
+In the first step, the policy decision, the Federal Open Market Committee (FOMC) sets a target for the federal funds rate.
+In the second step, policy implementation, the manager of the Fed's portfolio, the System Open Market Account (SOMA), injects or withdraws reserves to achieve a funds rate consistent with the FOMC's target.
+The formal procedural link between the two decisions is the FOMC's directive to the manager of SOMA, calling on him or her to conduct appropriate operations to support the FOMC's policy decision.
+While continued unified budget surpluses leading to the elimination of Treasury securities would have some important macroeconomic implications for our policy decisions, the elimination of Treasury securities should not influence either the way the FOMC makes its policy decisions or the use of reserve injections or withdrawals to implement these decisions.
+But such a development would require some changes in the way that reserves are injected or withdrawn.
+I will be discussing some options for adapting the implementation of monetary policy to a world without Treasury securities, but the key message is not to worry.
+There are plenty of options, the Fed will get the job done, so the elimination of Treasury debt would not undermine the effectiveness of monetary policy.
+Before proceeding, I note that the views I am presenting today are my own.
+I am not speaking for the Board of Governors or the FOMC.
+Monetary Policy Today The federal funds rate is the rate that banks charge for lending reserves to other banks.
+It is therefore fundamentally determined by supply and demand in the reserves market.
+The Federal Reserve controls the supply of reserves and can therefore adjust the supply to ensure that the market clears at the FOMC's target funds rate.
+The principal method of injecting or withdrawing reserves today is open market operations, which take two forms.
+The first form is outright purchase or sale of Treasury securities from the Fed's portfolio.
+The size of that portfolio today is about $525 billion.
+Open market purchases of securities inject reserves into the banking system, and open market sales withdraw reserves.
+The second type is temporary operations, either repurchase agreements to temporarily add reserves or reverse repurchase agreements (sometimes referred to as matched sale-repurchase agreements) to temporarily withdraw reserves.
+Repurchase agreements are essentially short-term loans collateralized by acceptable assets.
+The Fed, technically, buys the underlying asset for a given price with an agreement by the selling institution to buy it back at a specified date and price.
+The difference between the purchase and buyback prices determines the interest rate on the loan (the repo rate).
+The Federal Reserve engages in temporary transactions almost every day to compensate for short-run fluctuations in other elements of its balance sheet, such as currency outstanding, float, or Treasury deposits.
+Both outright operations and temporary operations are implemented through transactions with primary security dealers.
+In the case of repurchase agreements, these dealers become the direct counterparty in the transaction, owing to the buyback obligation.
+About half of temporary operations involve Treasury securities as collateral; the other half use either federal agency debt or mortgage-backed securities issued or guaranteed by the federal agencies.
+Reserves are also injected or withdrawn through discount window loans.
+These loans are made at the discretion of a bank, subject to Fed restrictions related to the financial soundness of the bank and the use of the funds.
+In ordinary circumstances, discount window loans are a negligible source of reserves, primarily because banks are reluctant to be seen as borrowing from the Fed.
+They fear that doing so may raise questions in the market and with the Fed about the management of their liquidity and their overall safety and soundness.
+However, in extraordinary times, such as in the immediate aftermath of the September 11 tragedies, borrowing from the discount window can become a major source of reserve creation.
+Principles Before considering how to replace Treasury securities in the implementation of monetary policy, I find it useful to set out some principles that have, at least implicitly, traditionally been followed.
+These principles provide guidance on how to proceed without Treasuries and identify tradeoffs that would inevitably arise.
+First, the Federal Reserve should try to be as neutral as possible with respect to effects on credit and, ultimately, on resource allocation.
+The market can do this far better than we can.
+The role of monetary policy is to promote price stability and maximum sustainable employment by influencing the level of aggregate demand through changes in the federal funds rate.
+In carrying out this responsibility, the Fed should aim to have as little effect as possible on the allocation of credit among various sectors or the allocation of resources more generally across industries or sectors.
+Second, and closely related to the first point, the Fed does not want to risk facing political pressure to influence the allocation of credit or resources.
+It avoids that pressure today, in part, by confining its holdings of assets primarily to Treasury securities.
+If the Fed were to hold a range of private assets instead of Treasury securities, it could face pressure to favor certain sectors, industries, or even firms.
+The potential for such political pressure might best be minimized by deciding on the portfolio allocation transparently and establishing safeguards against becoming an instrument of credit allocation.
+If the Congress enlarges the range of assets we can hold, for example, it ought to clearly and explicitly prohibit us from favoring one sector over another.
+Third, to avoid affecting credit allocation, it would be preferable to carry out operations in deep and liquid markets.
+A liquid market permits transactions to be made quickly and with negligible direct effects on the price of the assets bought and sold.
+The purpose of open market operations is to affect the supply of reserves and thereby the federal funds rate.
+The federal funds rate and expectations about future monetary policy then affect a wide range of other interest rates--on longer-term instruments and in both the government and private bond markets.
+By operating in a broad and liquid market, the Fed can inject and withdraw reserves without having much direct effect on the prices of the asset being bought and sold.1 Finally, the Fed would prefer to avoid credit risk in its portfolio.
+Managing credit risk is a role for financial intermediaries, not monetary policymakers.
+Owning risky assets necessarily involves taking losses at some point, involving the Federal Reserve in complex questions of whether the taxpayer had been adequately compensated for the risk.
+In addition, once the Fed takes on credit risk, avoiding some effect on the allocation of credit and resources across sectors would be more difficult.
+The current arrangements, focused on open market operations in Treasury securities, allow the Fed to honor these principles and involve few of the tradeoffs that would inevitably arise under alternative arrangements.
+The Treasury market is deep and highly liquid.
+In addition, reliance on Treasuries avoids both credit risk and opportunities for political pressure to influence the allocation of credit.
+In the absence of Treasury securities, honoring all these principles almost certainly would not be possible.
+The key decisions would require an assessment of the tradeoffs among the principles.
+For example, if we ruled out taking on any credit risk, we might preclude holding assets other than direct government debt, agency debt that is explicitly backed by the full faith and credit of the government (for example, mortgage-backed securities guaranteed by Ginnie Mae), and high-rated foreign sovereign debt.
+Doing so, however, would exclude a wide range of private assets that the Fed might otherwise hold.
+So it is important to recognize that tradeoffs exist.
+It may be deemed necessary, in particular, to accept that some credit risk will have to be taken and to focus on managing that risk, on maintaining neutrality by operating in a wide range of markets, and on avoiding political pressure through a clear and explicit prohibition against favoring particular sectors.
+Monetary Policy in a World without Treasuries Today, monetary policy decisions are implemented through a mix of outright purchases and sales of assets held in the Fed's portfolio, temporary operations through repurchase agreements, and discount window loans.2 It seems to me that the same three operations, though perhaps in different proportions, could be used in the absence of Treasury securities.
+First, the Fed could replace Treasury securities in its portfolio with other assets and carry out outright purchases and sales from the new portfolio as it does from the current one.
+Second, the Fed could widen the collateral acceptable for repurchase agreements and make greater use of repurchase agreements relative to outright purchases and sales.
+Because the Fed already transacts about half its temporary operations with collateral other than Treasury securities, this option would involve moving further along a path we are already on.
+Third, the Fed could make greater use of loans through the discount window.
+I would like to explore each of these directions.
+1.
+Replace Treasury securities with other assets in the Fed's portfolio.
+The Federal Reserve could replace its current holdings of Treasury securities either with other assets that it is already authorized to hold or a wider range of other assets, including some that could only be purchased if the Fed were granted new legislative authority.
+This direction, however, is the boldest one and could raise concerns about neutrality, credit risk, and political pressure.
+However, in principle, a rules-based and index-focused approach could reduce the potential for effects on resource allocation, control risk exposure through diversification, and lessen the opportunity for political pressure.
+The Federal Reserve, by statute, has authority to hold (1) Treasury securities, (2) federal agency debt and agency mortgage-backed securities, (3) bankers acceptances, (4) foreign sovereign debt, (5) certain municipal securities, (6) foreign exchange, and (7) gold.
+Currently the FOMC authorizes SOMA to make outright purchases only of Treasury securities and federal agency debt.
+Agency debt, however, makes up only a tiny fraction of the portfolio today and there have been no outright purchases since 1981.
+The gold and foreign sovereign debt in the portfolio reflect an earlier historic role for gold and stem from interventions in exchange markets rather than from open market operations to affect the reserve base.
+The most obvious candidates for holding the Fed's permanent portfolio are from those assets allowed by statute but not currently being purchased by SOMA.
+This group includes federal agency debt, mortgage-backed securities issued or guaranteed by the agencies, and foreign sovereign debt.
+About $2 trillion is in federal agency debt outstanding, and $2.6 trillion is in mortgage backed securities issued by Fannie Mae, Freddie Mac, and Ginnie Mae.
+Mortgage-backed securities issued by Ginnie Mae carry the full faith and credit of the federal government, whereas the debt and mortgage-backed securities issued by Fannie Mae and Freddie Mac do not.
+By comparison, marketable Treasury securities outstanding outside the government total $2.8 trillion.
+However, holding debt issued by Fannie Mae or Freddie Mac in the Fed's portfolio, to the exclusion of other private assets, would, in my view, reinforce the market perception of the special status of federal agency debt.
+This would increase the subsidy that already exists in this market, potentially further distorting the allocation of credit and resources.
+Any decision to move in this direction, therefore, might be best linked to a broader decision to change the Federal Reserve Act to allow the Federal Reserve to hold private debt in its portfolio.
+In that case, federal agency debt could be treated symmetrically with high-grade commercial paper and corporate bonds.
+Similarly, mortgage-backed securities insured by Fannie Mae or Freddie Mac should not be treated differently from other highly-rated private debt.
+Of course, holding only federal agency debt, mortgage-backed securities issued or guaranteed by the federal agencies, and other similarly highly-grade private debt would still distort credit allocation by favoring high-grade over other private debt--but it would dilute the federal agency advantage.
+Federal agency debt and mortgage-backed securities issued or guaranteed by the federal agencies also could be held as part of a wider range of private debt.
+The Fed holds foreign sovereign debt today in order to earn interest on its foreign exchange holdings which it acquired in the course of interventions over the years.
+The question here is whether the Fed should also carry out open market operations by buying and selling such debt.
+The effect of doing so would be essentially the same as a foreign exchange intervention.
+This raises a host of questions about the suitability of such operations.
+It first raises a question of whether such operations would have to be coordinated with the Treasury, given that both the Treasury and the Federal Reserve are authorized to intervene in foreign exchange markets and routinely coordinate their interventions.
+Second, buying and selling foreign sovereign debt would have a direct effect on the countries whose assets we were buying or selling and could interfere with their domestic policies.
+Though these considerations weigh against holding foreign sovereign debt in the permanent portfolio, such debt could be used as collateral for dollar-denominated repurchase agreements with dealers.
+Such transactions would not change the currency composition of the SOMA portfolio and would be less likely to affect exchange rates or the price of such debt.
+The markets for several of the other assets currently allowable by statute may be too small or too illiquid to be useful in open market operations.
+The bankers acceptance market is a relic of an earlier age and is now too small and inactive to serve as an option.
+The market for short-term municipal debt (the municipal debt the Fed is authorized by statute to hold) is also quite small and not very liquid.
+Gold does not yield a stream of earnings, and using gold for open market operations would also involve the cost of physical delivery.
+A second category of potential assets consists of assets that would require legislative change to authorize the Fed to purchase and sell.
+This category includes all other private debt, equities, and other financial claims.
+The total size of the market for private debt of domestic businesses is about $15 trillion.
+Specifically, it includes the corporate bond market (about $5 trillion) and the commercial paper market (about $1.5 trillion) in addition to federal agency debt and mortgage-backed securities issued or guaranteed by the agencies.
+However, a considerable portion of this debt does not trade on markets but is held by financial institutions.
+These assets could be indirectly included in the Fed's portfolio by having the Fed purchase claims on financial institutions, including money market mutual funds, federal funds (uncollateralized loans in the interbank market), and certificates of deposit (CDs), including euro-dollar CDs.
+Another class of assets that could be held in the Fed's portfolio consists of securitized assets other than mortgage-backed securities--an asset class that has been expanding rapidly.
+Finally, equities could be held as well as private debt.
+This market, including both equities directly held and those held indirectly through ownership of shares in mutual funds, is about $16 trillion.
+Many of the markets for private debt and equities are large, but some are not very liquid, and all involve some credit or market risk.
+I also note that double-counting in these numbers is considerable since money market mutual funds, for example, hold a lot of commercial paper.
+2.
+Greater use of repurchase agreements against a wider range of collateral.
+Today, about $25 billion in Federal Reserve repurchase agreements is outstanding.
+The amount outstanding swung over a wide range in 1999 and 2000, rising to supply liquidity before and immediately after the Y2K rollover and then declining to more normal levels.
+The amount again escalated sharply as the Fed sought to provide liquidity to the financial system in the aftermath of September 11, 2001.
+At the peak around the Y2K rollover and in the days after the terrorist attacks, more than $100 billion in repurchase agreements was outstanding.
+These experiences suggest that these transactions have considerable potential elasticity, even under prevailing restrictions on collateral.
+On the other hand, these were unusual experiences in which the demand for financing from the Federal Reserve was boosted by private-sector caution and difficulties.
+As a result, one should be cautious in using these experiences as a measure of how much this source of supply could easily be expanded in more normal circumstances.
+In any case, the opportunities to enlarge the size of such transactions would of course increase if the acceptable collateral were expanded, though doing so would require a change in law.
+If the range of acceptable assets were increased, repurchase agreements would have an advantage over direct purchases in that they carry less credit risk.
+The reason repurchase agreements have this advantage is that they are two-name paper: the immediate counterparty of the loan is the primary dealer and the collateral in repurchase agreements provides additional protection.
+For the Fed to take a loss, the direct counterparty would have to default, and either the market value of the collateral would have to decline or the issuer of the asset held as collateral would have to default.
+Also, a reliance on repurchase agreements would probably create less effect on the markets for the collateral asset than the outright purchase and sale of the asset from the Fed's portfolio.
+However, repurchase agreements would still have some effect on market liquidity and pricing for assets newly used as collateral.
+Expanding the use of repurchase agreements against a wide range of collateral might also be helpful during a transition to zero public debt.
+It would, for example, provide additional time to consider the pros and cons of outright purchases of a wider range of assets.
+3.
+Greater use of loans through the discount window.
+Another way to increase the supply of reserves is through expanded discount window loans.
+Today, such loans are made at the initiative of banks, subject to restrictions imposed by the Federal Reserve.
+In normal times, a negligible amount of reserves are supplied through the discount window, owing both to restrictions imposed by the Federal Reserve to limit use of this subsidized source of funds and to the reluctance of banks to borrow from the Fed.
+In the early history of the Federal Reserve, however, the discount window was the principal vehicle for adjusting the amount of reserves available to the banking system.
+Given the reluctance of banks to borrow from the discount window today, some new procedure for supplying credit through the window would need to be developed to allow it to become a more significant source of reserves.
+In addition, even if we overcame the reluctance of banks to borrow, we would likely need an alternative to the current active administration of the window if we wanted to have a significantly higher amount of discount window borrowing.
+One possibility would be to auction discount-window credit.
+Doing so would, to a degree, shift the initiative on amounts to the Federal Reserve.
+Auctions could be held for loans with terms of a couple of weeks or even quarters.
+The rate for such lending would be set in the auction market and, being secured loans, would likely be slightly lower than the rate on term federal funds of comparable maturity.
+An advantage of this direction is that the Fed already has authority to accept a wide range of collateral for discount window loans and, indeed, does accept a wide range of collateral today.
+However, making significant use of this option would bias credit flows in the direction of depository institutions and, if the volume of these loans were large enough, could affect the interest rates on the assets, specifically bank loans held by such institutions.
+In addition, it would add to the Fed's burden in monitoring the risks of the borrowing institutions and managing the collateral associated with the loans.
+Obviously, these considerations would be less significant if the facility involved a more modest expansion of discount window borrowing.
+A new facility would have to set some standards regarding which banks could borrow from the Fed.
+These standards could be based, for example, on supervisory ratings.
+They are necessary to prevent the window from so being used to enable weak banks to avoid market disruption.
+Banks that met the threshold could borrow without the use of the funds.
+The Federal Reserve would have to give thought as to whether the borrowings of any institution should be limited in amount or frequency to forestall credit market distortions.
+A Multifaceted Approach An approach that uses all of the possibilities I've identified might be the best direction.
+I start from the perspective that there are three different drivers of reserve injection and withdrawal in the implementation of monetary policy.
+The first driver is the long-term increase in the demand for currency and reserves.
+The second is intermediate-term need for reserve expansion and contraction, arising, for example, from seasonal changes in the demand for currency and reserves.
+And the third driver is the day-to-day adjustment needed to keep the funds rate in line with the FOMC's target.
+One way to think about the three drivers and their associated transactions is in terms of a multifaceted approach consisting of three portfolios.
+One portfolio might be focused on providing for the gradual long-term increase in the demand for currency and reserves.
+The second might provide for intermediate-term needs for reserve expansion or contraction.
+And the third portfolio might be designed specifically to provide for the day-to-day adjustments to keep the federal funds rate in line with the FOMC's target.
+1.
+The permanent portfolio.
+Long-term secular increases in the demand for currency or the demand for reserves could be met by outright purchases when the most important considerations would be neutrality and managing credit risk and when liquidity would be of less concern.
+I think that such demand could be well accommodated by a strategy of buying a slice of the same assets held by the private sector.
+We might think of this portfolio as one large index fund, with all private debt, equity, and other financial claims represented in proportion to their outstanding stocks.
+A major decision with regard to this portfolio would be whether or not to include equities as well as private debt.
+Equities are fundamentally different from debt in that they confer ownership and a role in management of the firm to the equity owner.
+Allowing the government to have, and perhaps exercise, wide-ranging ownership rights over private businesses would clearly be quite a significant move.
+With debt, however, the holder generally has no influence on management, especially if the debt is acquired in the secondary market (so the holder does not negotiate any covenants associated with the debt) and if the firm is not in bankruptcy.
+In the case of a firm in bankruptcy, the Federal Reserve would still need guidelines to govern its conduct as holder of private debt.
+On the other hand, including equities in the permanent portfolio would best respect the principle of neutrality.
+The government could hold a wider range of private-sector assets and possibly avoid altering the relative attractiveness of debt versus equity financing.
+Also, given the large size of this market, including equities it would allow the government to hold a smaller share of all private debt, further minimizing potential distortions.
+The permanent portfolio could be adjusted in several ways to reduce the cost of administering it and to manage credit risk.
+First, credit risk could be controlled both by diversification (as with indexing) and by acquiring only investment-grade assets.
+However, a decision to purchase only high-grade debt would significantly undermine the objective of avoiding an effect on the allocation of credit.
+In decisions about the composition of the permanent portfolio, it might be best to give the greatest weight to maintaining neutrality.
+Credit risk could be managed through the diversification implied by the neutrality objective and by relying on the presumption that the higher return on riskier assets appropriately compensates for default risk, especially within a diversified portfolio.
+Second, a measure of liquidity and transparency could be ensured by limiting assets to those traded on markets with reasonable pricing transparency and some acceptable liquidity.
+But, again, liquidity is less important for the long-term portfolio than neutrality.
+Third, some of the claims could be on financial institutions as a substitute for directly holding the loans and other primary debt (loans to households and businesses) that such institutions hold.
+The system could be managed internally or externally.
+I favor external management.
+Specifically, we could ask for proposals for a mutual fund that would operate under some strict guidelines, related to appropriate indexing and asset quality.
+Holding the assets through a mutual fund could also distance the Federal Reserve from a management role in the companies issuing the equities.
+2.
+The intermediate portfolio.
+Some occasions call for significant swings in currency or reserves because of seasonal demands for cash and loans.
+Such injections or withdrawals of reserves are neither as permanent (as those in the long-term portfolio) nor as transitory as the operations that would be handled in the third portfolio I will discuss later.
+In addition, in some periods the onset of financial stress may require a large increase in reserves to meet the demand for liquidity or the Fed may need to withdraw a large volume of reserves to offset increased discount window borrowing.
+These periods also require operations that are temporary but that last longer overnight.
+Term repurchase agreements might fill this need very well, perhaps against a wider range of collateral than employed today.
+Today, most repurchase agreements are overnight, although the FOMC has authorized term repurchase agreements of as long as ninety days.
+A second source of such intermediate reserve operations could be the discount window.
+Credit could be auctioned for weeks or months to fill this need.
+Regular, say weekly, term actions of repurchase agreements and discount window loans would afford considerable flexibility because they could be allowed to run off or to be added to each auction.
+3.
+The short-term or liquidity portfolio.
+Day-to-day shocks to the supply and demand for reserves must be offset to maintain the federal funds rate at its target level.
+Most of these shocks are transitory, so the need is for temporary injections or withdrawals of reserves.
+The key to this component of the portfolio is liquidity.
+As always, ensuring neutrality and avoiding credit risk remain important objectives, though neutrality would be best judged by looking at all three portfolios together.
+Overnight or short-term repurchase agreements are ideal for this role.
+Outright purchases or sales from the most liquid components of the permanent portfolio--for example, using short-term agency debt and high-grade commercial paper--could supplement short-term repurchase agreements if necessary.
+Conclusion The Federal Reserve has a range of options to consider if it has to adapt to a world without Treasury securities.
+These options collectively provide an effective means for implementing the policy decisions of the FOMC.
+The key will be to design a strategy that respects the principles I have discussed and makes careful judgments about the inevitable tradeoffs among the principles.
+The public, including specialists in the various markets, will have ample opportunity to provide input on these options, and these contributions will no doubt help us in reaching a final decision.
+Events, of course, have conspired to make this decision less pressing, but it remains our responsibility to be prepared.
+Footnotes 1.
+This is particularly important when open market operations must be substantial enough to offset some other source of reserve creation--such as a large loan through the discount window or a large intervention in foreign exchange rates.
+One might expect the major policy focus in crises to be the quick adding of reserves.
+However, the role of open market operations in such periods is often to offset, at least in part, a very sharp expansion of reserves resulting from an escalation in borrowing through the discount window or a change in reserves associated with a foreign exchange intervention, and thus to allow the Federal Reserve to maintain effective control over the federal funds rate at the level specified by the FOMC.
+Return to text 2.

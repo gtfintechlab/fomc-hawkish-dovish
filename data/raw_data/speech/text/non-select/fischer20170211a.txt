@@ -1,0 +1,92 @@
+I was talking to a friend who was telling me about econometric models.
+He explained that it would soon be possible to build a mathematical model that would accurately predict the future course of the economy.
+It was but a step from there to realize that the problems of policymaking would soon be over.
+All it would take was a bit of algebra to solve for the policies that would produce the desired values of the target variables.
+It was a wonderful prospect, and it remains a wonderful idea.
+But it has not yet happened.
+I want to talk about why not and about some of the consequences for policymaking.
+How the Fed Makes Monetary Policy Let me begin with how we make monetary policy at the Fed.
+The Federal Reserve System has both centralized and regional characteristics.
+The System comprises the Board of Governors, located in Washington, D.C., and 12 regional Reserve Banks in cities across the United States (Figure 1).
+The members of the Board of Governors are appointed by the President, subject to confirmation by the U.S. Senate.
+In contrast, the president of each Reserve Bank is selected by that Reserve Bank's board of directors, subject to the approval of the Board of Governors.
+This scheme was designed both to insulate the Federal Reserve from day-to-day political pressures and to ensure that all parts of the country have a voice in the central bank.
+Our monetary policy committee--the Federal Open Market Committee (FOMC)--meets eight times a year at the Federal Reserve Board in Washington to make decisions about whether to change the short-term policy rate and other aspects of monetary policy.2 Sitting around the massive conference table will be the policymakers of the Fed--the members of the Board of Governors and the 12 Reserve Bank presidents.
+The Board has a maximum of seven members, but at present, two slots are empty.
+All of the Federal Reserve Bank presidents take part in the discussion, although only five of them have the vote at any one time.3 Each Board member or Reserve Bank president has his or her own way of preparing for those meetings.
+In the case of the Reserve Bank presidents, these preparations can include consultations with their boards of directors, business contacts in their Districts, market experts, and other sources.
+Written materials are distributed to all FOMC participants in advance of the meeting.4 The most extensive of these materials is called the Tealbook, a two-part document prepared by the Board's staff and distributed to Board members and Reserve Bank presidents.5 The first part of the Tealbook contains a summary and analysis of recent economic and financial developments in the United States and foreign economies, the Board staff's economic forecast, and dozens of tables and figures.
+The Board staff's baseline forecast of the most likely path for the economy over the next several years is a judgmental one, built by staff economists using their expertise on particular sectors together with econometric models and other inputs.
+In addition to this baseline judgmental forecast, the staff provides model-based simulations of a number of alternative scenarios or risks--for instance, if the price of oil were to be lower, the U.S. dollar stronger, or wage growth higher than envisioned in the baseline projection.
+These scenarios are generated using one or more of the Board's macroeconomic models.
+The Tealbook also includes computations of policy paths derived from a range of policy rules and model-based estimates of optimal policy.
+That is to say, before our FOMC meetings, we examine analyses and forecasts produced by our staff as well as empirical results from a range of models--and, of course, material that each participant in the FOMC has gathered from his or her own research and experience.
+The second part of the Tealbook includes the specific policy options that we consider at the meeting.
+Typically, there are three policy alternatives--A, B, and C--ranging from dovish to hawkish, with a centrist one in between.
+This part of the Tealbook includes an analysis of each alternative and a draft of the associated public statement that the FOMC would release after the conclusion of its meeting.
+Four times a year, before the March, June, September, and December FOMC meetings, Board members and Reserve Bank presidents submit their own projections for real gross domestic product (GDP) growth, the unemployment rate, inflation, and the Committee's policy rate target, the federal funds rate.
+These forecasts are released to the public shortly after the FOMC meeting in the Summary of Economic Projections (SEP), and they receive a good deal of scrutiny by financial market participants and journalists.6 One important but underappreciated aspect of the SEP is that its projections are based on each individual's assessment of appropriate monetary policy.
+Each FOMC participant writes down what he or she regards as the appropriate path for policy.
+They do not write down what they expect the Committee to do.7 Yet the public often misinterprets the interest rate paths we write down as a projection of the Committee's policy path or a commitment to a particular path.
+Models and the Modeling of Monetary Policy Now, that is a lot of talk about the process of monetary policymaking.
+Let me turn to some of the machinery behind that process--in particular, to macroeconomic models and their role in assisting the FOMC's decisionmaking.
+The Board staff maintains several models; I will focus on the FRB/US model, the best known and most used of the models the Board staff has at its disposal.8 FRB/US is an estimated, large-scale, general-equilibrium, New Keynesian model.9 Each of the adjectives is noteworthy, so I will briefly cover each in order.
+First, for models to be of use to guide monetary policy, they need to be estimated such that they do a reasonable job of fitting the data; only under such circumstances can their quantitative predictions be taken as useful.10 Of course, they do not fit the data perfectly.
+The economy is an extremely complicated mechanism, and every macroeconomic model is a vast simplification of reality.
+Second, the large scale of FRB/US is an advantage in that it can perform a wide variety of computational "what if" experiments.
+It is often the case that two macroeconomic phenomena happen at the same time--an increase in the value of equity shares and an appreciation of the dollar, for example--and it is an obvious benefit if the combination of the two can be analyzed within the same modeling framework.11 Third, the general-equilibrium structure of the model is also important: It is helpful to be able to understand, for example, if a hypothetical appreciation of the dollar might have something to do with an increase in equity share values or whether an independent causal force is at work.
+Finally, the New Keynesian nature of the model implies that wages and prices are sticky and that markets adjust slowly to their longer-run equilibria.
+Much of the usefulness of the FRB/US model stems from its careful modeling of the monetary transmission mechanism and the key role that the expectations of households, workers, firms, and investors play in that mechanism.
+The monetary policy transmission mechanism is the means through which changes in a central bank's policy instrument affect the economy.
+In the FRB/US model, the usual policy instrument--the federal funds rate--plays no direct role in the economy.12 Rather, an increase in the federal funds rate affects expectations of future values of that rate, which in turn affect interest rates on longer-term bonds, equity prices, and the exchange value of the U.S. dollar.13 Households and firms are forward looking in that the adjustment costs just mentioned oblige households to set out a plan--a contingency plan--for consumption, savings, and employment for the future.
+Increases in interest rates influence these plans, as they do the investment and hiring plans of firms.
+All of those decisions, in turn, shape employment, output, and inflation.
+So the expectations of decisionmakers, be they households, firms, or investors, are at the center of how monetary policy works--both in the real world and in FRB/US.
+At the same time, the economy is subject to economic shocks that perturb the plans of economic agents and alter their expectations, as well as the plans and expectations of policymakers.
+The role of monetary policymakers is to respond to economic shocks in as efficient a manner as possible, and thereby influence economic outcomes and expectations, in order to achieve the central bank's assigned goals.
+Indeed, the conduct of monetary policy is often described as a matter of expectations management.14 How might policymakers best respond to economic disturbances and influence expectations in order to achieve their policy objectives?
+To help FOMC policymakers answer that question, the Tealbook for each meeting provides monetary policy prescriptions from a variety of simple policy rules, including John Taylor's famous rule (or family of rules).15 Economic conditions and the outlook change from meeting to meeting, and, not surprisingly, the prescriptions of simple policy rules change with them.
+The Tealbook from the April 2011 meeting provides an example of the role of policy rules in the FOMC's discussions.
+The reason I focus on a meeting so long ago is that materials from FOMC meetings in 2011--including the transcripts and Tealbooks--have recently been released to the public, following the usual five-year lag.16 At the time of the April 2011 meeting, the federal funds rate had been near zero for almost 2-1/2 years; moreover, the FOMC had been indicating in its post-meeting statements that it expected to keep the funds rate target at exceptionally low levels "for an extended period."
+Figure 2 reproduces panels from the April 2011 Tealbook that show the staff's baseline forecast--the solid black line--as well as prescriptions from three simple policy rules that were generated using the FRB/US model.17 The panel on the left shows the paths for the federal funds rate, while the panels on the right show the implications of those policy prescriptions for the unemployment rate and core PCE (personal consumption expenditures) price inflation, respectively.18 Each of the rules is regarded as mainstream.
+Note that there are substantial differences in the prescribed policy paths, both in terms of how long the interest rate remains near zero as well as how gradual or rapid is the pace of tightening once the interest rate begins to increase.
+Those differences produce different outcomes for unemployment and inflation, as can be seen in the two panels on the right of figure 2.
+The first-difference rule is the most hawkish in figure 2: It raises the federal funds rate more rapidly than the other three rules whose results are shown.
+Correspondingly, in the panels to the right of figure 2, the unemployment rate is higher on the broken green line than on the other paths for unemployment that are associated with lower interest rates.
+And you can figure out why the broken green line for core PCE inflation is lower than for the other paths in the panel on the right-hand side of figure 2.
+How does the FOMC choose its interest rate decision?
+Fundamentally, it uses charts like those shown in figure 2 as an important input into the discussion.
+And in their discussion, members of the FOMC explain their policy choices, and try to persuade other members of the FOMC of their viewpoints.
+One Monetary Policy Decision: August 2011 As an example of such a process, I want to discuss the important decision taken at the August 2011 meeting.
+At the time policymakers gathered in Washington for the meeting, the FOMC's target for the federal funds rate had been set to nearly zero for more than 2-1/2 years.
+And although the economy had improved from the depths of the Great Recession, the unemployment rate was still above 9 percent.
+Over the summer, the economic outlook darkened considerably.
+In response, in August, the staff's Tealbook forecast projected that the federal funds rate would remain near zero three quarters longer than what the staff had expected in June.
+Figure 3, taken from the August 2011 Tealbook, illustrates how the change in the economic outlook affected FRB/US simulations of optimal monetary policy.19 As you know, an optimal policy is a path for the policy instrument that minimizes the shortfalls in economic outcomes relative to policymakers' goals; in this case, the optimal policy path is computed using the FRB/US model and takes the staff's baseline outlook as given.20 In principle, optimal policy simulations deliver better outcomes than simple policy rules, but those outcomes are conditional on some strong assumptions.21 The black line in figure 3 shows the optimal policy path in the August 2011 Tealbook conditional on interest rates being constrained to remain above zero.
+Comparing the black line with its counterpart from the Tealbook prepared for the previous FOMC meeting in June--the red dotted line--you can see that the date at which the policy rate was expected to rise above zero had moved out by about a year.
+Even an optimal policy path (the blue dashed line) that was not constrained by the zero lower bound--and was therefore infeasible--did not cross into positive territory until mid-2014.
+Thus, the prescriptions of optimal policy were saying not only that the Committee's interest rate should remain at zero for some time to come, but also that that period of time should be considerably longer than previously thought.
+At the August 2011 FOMC meeting, most members agreed that the economic outlook had deteriorated by enough to warrant a response.
+Some of them judged that additional stimulus was called for because they thought the economy would not get back to full employment without it.22 These policymakers argued that a strengthening of the language in the Committee's post-meeting statement about how long they expected the federal funds rate to remain exceptionally low would be appropriate.
+They judged that this response would influence expectations and thus longer-term interest rates, and would help the public understand the Committee's intentions.23 The change that was proposed, and eventually adopted, replaced the phrase that characterized how long the Committee expected the federal funds rate would remain lowâ€‘â€‘"for an extended period"â€‘â€‘with "at least through mid-2013."
+As shown in figure 4, this subtle but important change in language in the FOMC's post-meeting statement induced a decline in interest rates across the term structure.
+How was the decision to change the forward-guidance language reached?
+Ultimately, the decision required the adept leadership of Chairman Ben Bernanke, lengthy deliberations of Board members and Reserve Bank presidents, and staff briefings and forecasts.
+The decision was a joint product, reflecting the experience of policymakers and the implicit or explicit models or views of the world they had brought with them to the FOMC table, statistical models, an understanding of historical episodes that offered instructive and relevant parallels, and other information gleaned from the outside world.
+And what do I take from this episode?
+The interest rate decision taken in August 2011 was unusual in that a decision was made about the likely path of future interest rates.
+Most often, the FOMC is deciding what interest rate to set at its current meeting.
+Either way, in reaching its decision, the Committee will examine the prescriptions of different monetary rules and the implications of different model simulations.
+But it should never decide what to do until it has carefully discussed the economic logic that underlies its decision.
+A monetary rule, or a model simulation, or both, will likely be part of the economic case supporting a monetary policy decision, but they are rarely the full justification for the decision.
+Sometimes a monetary policy committee will make a decision that is not consistent with the prescriptions of standard monetary rules--and that may well be the right decision.
+Further, in modern times, the policy statement of the monetary policy committee will seek to explain why the committee is making the decision it is announcing.
+The quality of those explanations is a critical part of the policy process, for good decisions and good explanations of those decisions help build the credibility of the central bank--and a credible central bank is a more effective central bank.
+The Bottom Line As the August 2011 meeting illustrates, the eureka moment I thought I had 50â€‘plus years ago was a chimera.
+Why is that?
+First, the economy is very complex, and models that attempt to approximate that complexity can sometimes let us down.
+A particular difficulty is that expectations of the future play a critical role in determining how the economy reacts to a policy change.
+Moreover, the economy changes over time--this means that policymakers need to be able to adapt their models promptly and accurately in real time.
+And, finally, no one model or policy rule can capture the varied experiences and views brought to policymaking by a committee.
+All of these factors and more recommend against accepting the prescriptions of any one model or policy rule at face value.
+And now to the bottom line: The title of my speech is an incomplete quotation of something Paul Samuelson once said.

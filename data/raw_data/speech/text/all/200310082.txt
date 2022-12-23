@@ -1,0 +1,155 @@
+Today, I want to re-visit the evolution and performance of the financial services industry, not only in light of what I discussed five years ago but also, more importantly, in light of a number of significant events and market developments that have occurred since then.
+Clearly, I will be able neither to cover all the interesting topics nor to discuss in depth each of those subjects that I do include.
+But I believe it is useful to step back occasionally and try to take a broad view of our detailed and complex financial landscape.
+In the interest of full disclosure and for the benefit of those of you who either were not here five years ago or may not have committed my remarks to memory, I will begin by summarizing the conclusions I advanced the last time I spoke at this podium.
+At that time I highlighted four general conclusions.
+First, I suggested that the movement toward large financial conglomerates, stimulated by the ongoing blurring of traditional distinctions between financial products provided by commercial banks, investment banks, insurance companies, and other financial intermediaries, might prove to be transitory.
+Second, I argued that basic financial and risk-management skills would likely remain the most important determinant of a company's viability and continued success.
+Third, I maintained that, even in a world of financial conglomerates, there would be room for smaller and, in some cases, more-specialized market participants.
+Last, I indicated that the supervisory and regulatory structure and practice would need to evolve to meet all of these challenges, and that regulatory authorities would need to remain vigilant in carrying out our duties, particularly in the area of antitrust enforcement.
+These conclusions still seem reasonable to me.
+That having been said, events and market forces require that we rethink and refocus our views, and your invitation gives me the opportunity to do so.
+So, what have been the major factors that have influenced the financial services industry, and especially the banking industry, over the past five years?
+And how should we interpret these developments with respect to their effects on the recent past and the future?
+I see at least five broad topics that are worthy of our attention.
+First, the recession of 2001 and the unusually slow recovery over the past two years have clearly affected the banking and financial services industry.
+Second, the passage of the Gramm Leach Bliley Act in late 1999 recognized many of the market realities I discussed with you in 1998 and provided increased opportunity for the formation of large financial conglomerates.
+Third, accounting and corporate governance scandals, symbolized by Enron and WorldCom, and the resulting passage of the Sarbanes-Oxley Act in July 2002, have not left the financial services industry untouched.
+Fourth, although the dot-com craze has ended, technological change has continued, and its influence on the present and future of financial services is pervasive.
+Finally, all these developments and others, such as the Russian debt default in the fall of 1998, have accentuated the importance both of risk measurement and management at individual banks and of the need for supervisory policies and procedures to reflect and encourage modern risk management.
+The Recession of 2001 Turning first to the recent recession and our unusually slow recovery, I think that the most remarkable fact regarding the banking industry during this period is its resilience and retention of fundamental strength, even at those institutions whose earnings were negatively affected by the slowdown.
+Beginning about the time I last spoke to you, the U.S. financial system suffered a sharp increase in corporate bond defaults, business failures, and investor losses.
+At commercial banks, troubled loans, including charge-offs, classified loans, and overdue credits, climbed.
+In sharp contrast to other periods of economic weakness and market volatility, however, during the most recent period the vast majority of commercial banks remained unusually healthy.
+Strong rates of return on both equity and assets and healthy capital ratios were all maintained.
+Perhaps most tellingly, the period from 1998 through 2002 averaged only five bank failures per year.
+Today, market measures of bank risk derived from stock prices, subordinated debt spreads, and credit default swap spreads all signal a healthy banking industry.
+In contrast, in the last three years of the 1980s, more than 200 banks failed on average each year (not to mention a larger number of savings and loans).
+Even in 1993, two years after the 1990-91 recession ended, slightly more than 100 banks failed.
+To what can we attribute the recent outstanding performance, and will it be repeated in future economic slowdowns?
+In truth, our current good fortune stems from many factors, none of which can we count on recurring but several of which we can somewhat control.
+One factor is that the most recent recession was relatively short and weak, even though the recovery has been slow.
+That the Federal Reserve moved early and aggressively to lower interest rates has also been very helpful to banks and other participants in the U.S. economy.
+I suspect that many of you in this room have refinanced your mortgages, perhaps more than once, over the past two years.
+Maybe some of you even cashed out, or extracted, some of the equity you had accumulated in your house when you refinanced your old loan.
+Such mortgage-related activities have helped consumers to maintain their expenditures, have helped the overall economy to grow, and have contributed significantly to the earnings of the banking system.
+These earnings have helped banks absorb losses elsewhere in their portfolios and to maintain loan loss reserves.
+Indeed, in the second quarter of this year, the fifty largest U.S. bank holding companies reported record earnings of more than $20 billion, and annualized rates of return on equity and assets were very impressive.
+Another important factor is that the U.S. banking system entered the current period of stress well capitalized and with strong reserves.
+No doubt such balance sheets were due in very large part to the economic prosperity of the second half of the 1990s.
+But I believe that other forces were also at work.
+Certainly bankers themselves learned many lessons from the banking and thrift crises of the late 1980s and early 1990s, including the importance of having strong capital and reserves and of avoiding obligor and industry concentration of credit risk.
+Perhaps equally important were the banking reforms put in place in the aftermath of those crises.
+Of the many reforms, I highlight the emphasis on strong capital positions provided by the Federal Deposit Insurance Corporation Improvement Act of 1991 and other changes in supervisory policy, such as the move toward risk-based capital standards embodied in the 1988 international capital agreement known as the Basel Accord.
+I hope that bankers and their supervisors will remember these lessons well into the future.
+I also point to another reason that the U.S. banking system has performed so well over the current economic cycle.
+This factor is the truly impressive improvement in methods of risk measurement and management and the growing adoption of these technologies by mostly large banks and other large financial intermediaries over the past five years.
+To be sure, at most banks the application of these methods is still in its infancy, if it has begun at all, and even the most advanced banks have room for improvement.
+But modern advances in the quantification of risk and in its management have provided bank management with a far more disciplined and structured process for evaluating loans, pricing risks, and deciding which risks to retain.
+Careful judgment by experienced credit officers or risk managers is still required, but the modern techniques developed by both academics and market practitioners are tools that facilitate a much deeper evaluation of risk than was possible even a decade ago.
+These developments have been supported and encouraged by the growth of markets for syndicated loans and securitized assets and the creation of new financial instruments, such as credit derivatives, that greatly ease the dispersion of risk to those more willing and able to bear it.
+Do not misunderstand me.
+New risk-management techniques and instruments bring their own problems, some of which I will return to in a moment.
+But, in my view, the successful application by those banks taking advantage of these new management tools and techniques has been an important part of the explanation for why the banking system has remained so strong during our most recent period of stress.
+Gramm-Leach-Bliley and the Potential for Financial Conglomerates When I spoke to you in the fall of 1998, the financial conglomerate was a very hot topic.
+Indeed, just a little more than a year after that date, the Congress enacted, and the President signed into law, the Gramm-Leach-Bliley Act.
+The act recognized the market reality that it was becoming increasingly difficult to maintain traditional distinctions between many of the activities of commercial banks, investment banks, and insurance companies.
+In response, the Congress relaxed long-standing restrictions on affiliations among these three types of entities.
+To avoid extending the subsidy implicit in deposit insurance and access to the Fed's discount window and payment system guarantees to these new activities, the act required that most investment banking and insurance business in banking organizations be conducted in a legally separate financial holding company affiliate of a commercial bank.
+In addition, the Congress required that, to be a part of a financial holding company, an institution must be well capitalized and well managed.
+An interesting observation is the slow pace of change since 1999.
+The slow pace is, no doubt, partly a result of the economic slowdown and the stock market decline.
+But I suspect that these factors do not fully explain what has happened.
+Indeed, I suggest that the financial conglomerate, or the financial supermarket, or whatever you want to call it, is in fact much more difficult to implement than many may have thought.
+True, there were about 600 domestic financial holding companies of the end of 2002.
+But less than one-third reported actually engaging in any new activities authorized by Gramm-Leach-Bliley, and about 80 percent of these report engaging in insurance agency activities, probably the least "new" and least risky of all the possibilities provided by the act.
+Only about forty institutions reported broker-dealer assets, around thirty reported insurance underwriting assets, and less than twenty said they held significant merchant banking assets using Gramm-Leach-Bliley authority.
+Even accounting for the fact that some of these activities are conducted primarily at the largest financial holding companies, and recalling that large bank holding companies were already engaging in some of these activities through the previously authorized section 20 affiliates, we have not been able to uncover any evidence that the overall market structure of these segments of the financial services industry has substantially changed.
+Of course, while the overall structure has not changed, some firms have gained market share in certain segments.
+These facts do not suggest that we should be complacent regarding the need to maintain competitive markets in financial services.
+It is difficult to overstate the benefits of competition, and thus I stand by my admonition of five years ago that policymakers should remain vigilant in antitrust enforcement.
+Indeed, even though there have not been fundamental changes in the structure, in my judgment what deserves the emphasis is the persistent and even increasing competitiveness of the U.S. banking and financial markets.
+Let me try to illustrate what I mean.
+The U.S. banking system has experienced significant consolidation over the past several years.
+Between 1994 and 2002 there were slightly more than 3,300 bank mergers in the United States, and almost $3 trillion in banking assets were acquired.
+This consolidation led to considerable increases in national concentration among the largest banking organizations.
+For example, the share of domestic banking assets held by the top five banking organizations went from 18 percent in 1994 to almost 32 percent in 2002, and the share of the top twenty-five went from 46 percent to 61 percent.
+However, these numbers tend to hide more than they reveal about the competitiveness of the U.S. banking structure.
+For example, at the end of 2002 there were still almost 6,500 commercial banking organizations in the United States, not to mention almost 1,400 savings institutions and almost 10,000 credit unions.
+Moreover, between 1994 and 2002 more than 1,300 new banks were opened in the United States, sometimes in direct response to perceived declines in service resulting from a bank merger.
+Most importantly, the degree of concentration in local banking markets, both urban and rural, declined modestly, on average, during this period.
+Local markets are the very markets that are the focus of virtually all of our antitrust analysis because they are the markets where most households and small businesses conduct the vast majority of their banking business.
+For all of these reasons, and for others that I do not have time to discuss, I would argue that the U.S. banking structure has generally remained competitive, and in some cases has become more competitive, over the recent period of intense merger activity and institutional and legislative change.
+I am optimistic that this dynamic competitiveness, helped along every now and then by antitrust enforcement, will continue.
+Accounting and Corporate Governance Many people, myself included, have found the last few years' revelations of accounting and corporate governance problems at many of our nation's most well-known corporations both disturbing and unacceptable.
+The foundations of an efficient and competitive free market economy in a democratic society include accounting transparency, a commitment by owners, managers, and employees to high standards of ethical behavior, and the maintenance of internal organizational structures and incentives that encourage ethical behavior.
+Unfortunately, some of the cases of unacceptable behavior have occurred in the financial services industry.
+Inadequate oversight of business lines by boards of directors has been a problem in some instances.
+In one recent case, this deficiency resulted in transactions with special purpose entities without adequate knowledge on the part of the board and without effective identification and management of risks.
+More generally, we have seen transactions that elevated form over substance, violated accounting rules, and created serious reputational and legal risks for the institution, all with the apparent approval of outside auditors and lawyers.
+In an attempt to deal with many of these and other issues, the Sarbanes-Oxley Act was enacted in late July 2002.
+In addition, the Securities and Exchange Commission, bank regulators, state attorneys general, and others have taken many, sometimes well publicized, actions to improve accounting transparency and corporate governance.
+Perhaps more important, the market itself has handed out very harsh punishment to some firms that had lost their credibility with investors and customers.
+In principle, it seems to me that these actions should provide powerful incentives for virtually all market participants to maintain high standards.
+Technological Change Technological change had become a pervasive influence on our lives long before I first spoke to this conference in 1998.
+It continues to be so, and surely it will be a force for the foreseeable future.
+Virtually all industries that have been profoundly affected, and financial services is no exception.
+I have already mentioned the importance of technological change in improving risk measurement and management at financial institutions as a reason banks have weathered the recent economic downturn.
+Moreover, I fully agree with the many observers who have highlighted the role of technology in breaking down traditional distinctions between commercial banking, investment banking, and insurance products.
+In this sense, the Gramm-Leach-Bliley Act can be thought of as a response to technological change.
+And, technological change can surely throw us some unexpected curves, as the successfully navigated but hugely expensive adjustments to deal with the century date change showed.
+I will return in a few moments to the role of technological change in risk measurement and management and its influence on supervisory policy.
+But first I want to spend a few moments discussing some interesting facets of the impact of change on the technologies used by American households to consume financial services.
+The process by which technological change becomes embedded in production and consumption has long absorbed the attention of economists.
+Despite this interest, the process remains a considerable mystery, and households' use of financial services is no exception.
+For example, many academics, regulators, and bankers have for many years forecast that technological change would end use of the paper check and make the brick-and-mortar bank branch obsolete.
+However, here we are in October 2003 and the paper check is still very much in use, the smart card has not succeeded as predicted, and the number of brick-and-mortar bank offices is still increasing.
+Clearly, there is much that we do not understand.
+I am not here today to propose any definite answers to the question of why households adopt new technologies in financial services more slowly than we sometimes predict.
+But I would like to present a few facts that we have gathered over time in our triannual Survey of Consumer Finances that shed some light on this complex topic.
+In 1995, we began asking households about their use of computers to conduct business with their financial institutions.
+In that year, barely 4 percent of households with a checking account said they used a computer to consume financial services.
+By 1998, the year of the next survey, the percentage saying they used a computer had risen to more than 6 percent.
+In contrast, in 1995 the most common technology used by households for interacting with a financial institution was, by a wide margin, the in-person visit to an office.
+In that year, 87 percent of households said they used this technology.
+By 1998 the percentage of households using in-person visits had declined to 80 percent, but this was still by far the most common form of access.
+Still, the data for 1995 and 1998 suggested change was beginning to occur, and the data for 2001 confirmed that trend.
+In the 2001 survey, the percentage of households with a checking account that said they used the computer to consume financial services jumped dramatically to almost 20 percent.
+However, use of the most common technology, the in-person visit, declined only modestly, to 78 percent.
+While one cannot draw any strong conclusions from this small number of facts, they support the view that, in matters of finance, households tend to adopt technological change only gradually.
+In addition, even when new technologies start to gain more widespread acceptance, old technologies are abandoned rather slowly and many users perhaps view the old and new technologies more as complements than as substitutes.
+Research conducted by the Federal Reserve Board's staff reinforces the notion that the adoption of technological change is a highly complex process.
+For example, it appears that income, education, age, and other factors, perhaps even a household's attitudes toward risk, play important roles in determining a household's willingness to adopt new technologies for the consumption of financial services.
+On balance, I would suggest that strategic planners at financial institutions will need to take a wide variety of factors into account in planning and marketing technological innovations.
+Risk Measurement and Management and the Implications for Supervisory Policy In the final section of my remarks to you five years ago, I emphasized the need for the Federal Reserve to continually improve the bank supervisory process to ensure that banks adequately manage the risks that could be introduced into the financial system by changes occurring in the financial sector.
+I have no doubt that this statement remains valid today, although the risk management challenges facing banks have certainly evolved.
+For example, our experiences with the market disruptions that followed the Russian default and the Asian debt crisis, and the growing importance of financial markets in the risk management processes of both financial and nonfinancial firms have helped to accentuate the importance of market liquidity.
+Another significant adjustment in our supervisory emphasis is our ongoing effort to revise the Basel Capital Accord.
+Today, I can give you only a taste of what we are trying to do, but over the past five years, bank supervisors in the United States and other nations have devoted a truly impressive amount of resources to developing a new set of international capital standards.
+Indeed, in early August of this year the Federal Reserve and the other U.S. bank regulators released some very specific proposals for public comment.
+The comment period ends in early November.
+After assessing these comments together with those already received by the Basel Committee, the U.S. banking agencies will seek appropriate changes in the proposals.
+The need for Basel II, as the proposed revised accord is called, arises because modern risk measurement and management practices, including the increasing ability to securitize assets, have made Basel I increasingly out-of-date, or should I just say, increasingly irrelevant, for our largest and most complex banking organizations.
+For example, the Basel I capital standards have only four risk categories, and most loans receive the same regulatory capital charge even though loans made by banks encompass a wide spectrum of credit quality.
+The highly limited differentiation among risks means that regulatory capital ratios are too often uninformative and might well provide misleading information regarding banks with risky or problem credits or, for that matter, with portfolios dominated by very safe loans.
+Importantly, banks own internal capital models increasingly differentiate risks much more finely than do regulatory capital standards.
+Another problem with Basel I is that its overly simplistic risk measures, when combined with advances in financial engineering technologies and improved risk measurement and management practices, have given banks the incentive and the means to game the system through so-called regulatory capital arbitrage.
+Regulatory capital arbitrage is the avoidance of regulatory capital charges through the sale or securitization of bank assets for which the capital requirement that the market would impose is less than the current regulatory capital charge.
+For example, low-risk residential mortgages are often securitized rather than held on a bank's books in part because the market requires less capital than does Basel I.
+This behavior is perfectly understandable, even desirable, in terms of improving economic efficiency.
+But it means that banks engaging in such arbitrage retain the higher-risk assets for which the regulatory capital charge, calibrated to assets of average quality, is on average too low.
+The Basel II capital standards seek to improve regulatory capital standards via three broad and interrelated strategies, or "pillars."
+The most important pillar, Pillar 1, consists of minimum capital requirements.
+These requirements are rules by which a bank calculates its minimum capital ratio and by which its supervisor assesses whether the bank complies with the minimum capital threshold.
+As under Basel I, a bank's risk-based capital ratio under Basel II would have a numerator representing the capital available to the bank, and a denominator that would be a measure of the risks faced by the bank, referred to as "risk-weighted assets."
+What would be radically different is the definition of risk-weighted assets.
+Under our proposals, the most advanced banks would use modern risk-management techniques, subject to validation by supervisors, to compute the risks in their on- and off-balance-sheet portfolios.
+These procedures would more closely align regulatory capital requirements with the underlying economic risks of a banking organization.
+As a result, the safety and soundness and the efficiency of the banking and financial system should be greatly improved.
+Pillar 2 explicitly addresses supervisory oversight.
+It embodies the concept that a well-managed bank should seek to go beyond simple compliance with minimum capital requirements to assess whether it has sufficient capital to support its risks.
+In addition, on the basis of their knowledge of best industry practices at a range of institutions, supervisors would provide constructive feedback to bank managers on their bank's capital adequacy and its risk measurement and management practices.
+Lastly, Pillar 3 seeks to complement Pillars 1 and 2 by encouraging stronger market discipline of banking organizations.
+An important element here is requiring a bank to publicly disclose key measures related to its risk and capital positions.
+Such disclosures should help uninsured creditors of a bank more accurately assess the risks of investing in the uninsured liabilities of the bank, including taking the opposite side of financial derivatives transactions.
+Conclusion In closing, I want to thank you again for inviting me to speak to you.

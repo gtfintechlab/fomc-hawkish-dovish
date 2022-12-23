@@ -1,0 +1,105 @@
+It's an honor and a pleasure to speak here at the Peterson Institute, a group that has driven much of the most important discussion of international economic issues over my entire working life.
+I only wish that we could all gather in personâ€”perhaps soon.
+A little over 420 years ago, a crowd-pleasing local fabler on a lightly populated island in the North Atlantic made popular a phrase that has entered into our language: "Beware the Ides of March."
+Caesar ignored the soothsayer, and the results weren't good; if recent history is any indication, perhaps we should keep the warning in mind as well.
+In March 2008, we witnessed a significant domino fall in a chain of events that sparked the Global Financial Crisis (GFC) with the collapse and sale of Bear Stearns.
+March of the following year saw the nadir of the Dow Jones averageâ€”a 50 percent drop from just over a year earlier.
+And the margin calls and liquidity crunch in March of 2020, was a salient echo of the other significance of the Ides of March for the Romans: the deadline for settling debts, which have had an unsettling habit of coming due in March in our recent financial history.
+Indeed, this time last year, both domestically and internationally, the financial regulatory community fortified itself as COVID-19 and related containment measures spread across the globe, what I refer to as the COVID event.
+The Financial Stability Board (FSB) moved into high gear, holding weekly, and even daily, meetings with the most senior leaders of central banks, finance ministries, and market regulatorsâ€”to share information and shape a synchronized global approach to the financial stability challenges at hand.
+This ability to spring into action on short notice is exactly why the FSB was established in the wake of the GFC.
+Its mandate, to promote international financial stability by coordinating the development of regulatory, supervisory, and other financial sector policies, at a global level, reflected a recognition of the growing interconnectedness across our markets and economies.
+My focus today will be on the future and the challenges we face going forwardâ€”in particular, nonbank financial intermediation, or NBFI, and cross-border payments.
+These are only a portion of the FSB's comprehensive work plan, but they are priority areas that will have significant impact on the financial landscape going forward.
+NBFI: Vulnerabilities, Interconnection, and Improving Resilience Developing an NBFI Perspective Since the GFC of 2008, the NBFI sector has grown and evolved considerably, accounting for almost half of all global financial assets at the start of the COVID event.
+With this growth has come greater interconnectedness and complexity in intermediation chains.
+Even before the market turmoil of last March, the need to understand the vulnerabilities arising from the banking sector as well as those risks that have moved outside the banking system was viewed as critical to achieving and maintaining financial stability.
+The March market turmoil helped focus our attention on NBFI and pushed the FSB to give further priority to work in this area.
+Because of the way this diverse sector is structured, developing an NBFI perspective requires bringing together regulatory, supervisory, and market perspectives and taking a broad view of how our financial ecosystem works.
+Even ahead of the COVID event, in my role as chair of the FSB, I formed a high-level group of central bankers and market regulators to oversee and coordinate work on NBFIâ€”which, by March, was clearly a fortunate decision.
+Under direction of this senior group, the FSB carried out its Holistic Review of the March Market Turmoil (Holistic Review), which examined not only how different sectors of the market were affected, but also how these effects were transmitted throughout the system and which aspects of the financial system structure may have amplified stress.1 FSB Focus on March Market Turmoil and Needed Next Steps The Holistic Review underscored how vulnerabilities in the financial system amplified the economic shocks of the COVID event.
+In particular, it highlighted the dependence of the system on readily available liquidity, and vulnerabilities if liquidity strains emergeâ€”in money market mutual funds (MMFs) and open-end funds, through margin calls and in core bond markets.
+Importantly, it provides a high-level view on how these parts of the financial ecosystem operate and transmit risk while under stress.
+In my view, one of the most significant findings relates to MMFs.
+The Holistic Review documented how the extremely high demand for liquidity, combined with a flight-to-safety, triggered a "dash for cash" that hit institutional prime money market funds particularly hard.
+In the US, prime MMFs publicly offered to institutional investors had outflows of roughly $100 billion, or 30 percent of the funds' assets, over two weeks in mid-March.
+This was a faster run, in terms of the percentage of fund assets redeemed, than during the turmoil in September 2008.
+Similar patterns were also seen in Europe, particularly for US dollar-denominated MMFs.
+Other funds that are active in short-term funding markets, such as ultrashort bond funds, also saw unprecedented outflows in March.
+The March market turmoil is the second time in roughly a decade that we have witnessed destabilizing runs on MMFs.
+More concerning this time, however, is that we had taken steps between these events precisely to reduce the likelihood of such runs.
+The FSB will publish a report in July for consultation that will set out consequential policy proposals to improve MMF resilience.
+The proposals should also reduce the likelihood that government interventions and taxpayer support will be needed to halt future MMF runs.
+This work will also consider the relationship between MMFs and short-term funding markets, with a particular focus on commercial paper and certificate of deposit markets and the impact of dealer behavior.
+Continued work on other open-end funds, margining and bond market structure, and liquidity will come on the heels of the MMF deliverables.
+As a first step, the focus will be on enhancing our understanding of vulnerabilities that could emanate from these sectors, including risk transmission channels.
+Addressing systemic risk in a dynamic sector that continues to evolve is no small feat.
+I expect policy-related discussions and recommendations to follow the analytical work, though that will likely extend past this year.
+Although my time is limited to provide more detail, I would like to note that the disruptions in bond markets also raised questions about the role of leveraged investors and the willingness and capacity of dealers to intermediate in times of stress.
+Work is underway to gather data and analyze dealer behavior to develop a comprehensive view on their impact on financial market functioning and determine whether policy responses are necessary.
+Turning to a different part of our NBFI work plan, the March market turmoil demonstrated the benefits that central clearing brings for global financial stability.
+Indeed, central counterparties (CCPs) demonstrated resilience during this tumultuous period.
+Given their systemic importance, however, we continue to advance work to improve CCP resilience and resolvability, as set out in the FSB 2020 resolution report.
+I am coordinating with the Chairs of the Committee on Payments and Market Infrastructures (CPMI), International Organization of Securities Commissions, and the FSB Resolution Steering Group on shaping these details.
+We expect to launch a workstream this year aimed at further strengthening the resilience and resolvability of CCPs in default and non-default loss scenarios, including assessing whether any new types of resources would be necessary to enhance CCP resolvability.
+The FSB and other standard-setting bodies have also begun work on margin activity in centrally cleared and non-centrally cleared markets during the peak of the market volatility last year.
+We observed that margin calls by some CCPs may have been larger than expected.
+While we need to ensure that CCPs are sufficiently margined as critical nodes in the financial system, clearing members and their clients also need sufficient transparency and predictability to be able to manage their exposures.
+Looking Forward: NBFI Next Steps and Needed Components To be successful, this broad and comprehensive agenda, which serves as a cornerstone of the FSB work program for 2021 and beyond, will require strong coordination, commitment, and resources from the international regulatory community, including at the FSB and other standard-setting bodies.
+Further, to ensure a sound, practical, and effective way forward, these workstreams will also require transparency and engagement among the public.
+The FSB is, therefore, seeking the input of market participants and other parties.
+This NBFI work alone would be an ambitious agenda.
+But I believe the FSB is well equipped to address this challenge while also furthering the other important elements of our broad agenda.
+Let me spend some time talking about another of these important objectives: enhancing cross-border payments.
+Enhancing Cross-border Payments In 2019, the G20 identified enhancing cross-border payments as a key priority and the FSB has been dedicated to advancing this important work ever since.
+The challenges associated with cross-border payments are widely known and longstanding.
+Prior attempts to make improvements have struggled to gain traction.
+In October 2020, the FSB delivered a multi-year roadmap to the G20 leaders who endorsed the way forward and committed to advancing meaningful change aimed at increasing the efficiency and effectiveness of cross-border payments.2 Ultimately, we are focused on addressing the core challenges associated with cross-border payments: cost, speed, accessibility, and transparency.
+It goes without saying that making improvements is easier said than done.
+Frictions underlying existing processes span multiple legal, operational, processing, technological, and structural issues, which can differ greatly by region.
+To break down the magnitude of our task, the roadmap includes a set of practical actions designed to address specific topics, which we refer to as "building blocks."
+We are taking a comprehensive approach and engaging the public and private sectors because both need to be a part of the solution if we are to achieve the ambitious goals we have set for ourselves.
+To begin, we must decide what the actual improvements are that we want to see, and how we will monitor our progress in achieving them.
+These decisions will define the level of ambition, create accountability and shape how the roadmap is operationalized at the global, regional, and national levels.
+As a first step, the FSB has formed a task force that is responsible for setting specific, quantitative targets.
+These targets will set the tone and pace for work that follows and are therefore among the most important deliverables the FSB will complete this year.
+We plan to publish a consultative paper in May and deliver a final set of targets to the G20 in October.
+Several groups are charged with advancing one or more building blocks over the course of this year, with the FSB providing annual updates to the G20.
+To deliver the roadmap, we are collaborating closely with the Committee on Payments and Markets Infrastructures of the Bank for International Settlements, which has a key role given the position of central banks in the payments ecosystem.
+In addition to setting targets, the FSB is leading multiple elements of the roadmap, advancing those building blocks that are more exploratory in nature, for example, the soundness of global stablecoin arrangements.
+On this particular topic, last year, the FSB issued high-level recommendations for the regulation, supervision, and oversight of global stablecoins, and we will report to the G20 this year on the progress achieved at both international and national levels.
+By their nature, cross-border payments are global and involve many other countries outside of the G20 membership.
+We must therefore be inclusive in our approach, while remaining well organized to meet the milestones we have set for ourselves.
+To this end, we have partnered with the World Bank and International Monetary Fund given their respective missions and global reach.
+It will also be important to engage with financial institutions, service providers, industry groups, practitioners, and academics as we advance this work.
+We plan to communicate information and seek feedback through public consultations, conferences, and bilateral and multilateral outreach.
+The roadmap sets our path, but the practical reality is, we need consensus among, and action by, many differentâ€”even competingâ€”stakeholders to achieve success.
+We have purposely built into the roadmap opportunities to course correct because we expect to learn more as we go.
+The FSB will report annually to the G20 Summit and the public, sharing progress and seeking confirmation on the next steps for this immensely important and ongoing work.
+Other Key Financial Stability Items for 2021 What I have just discussed covers a large portion of the FSB's 2021 work plan, but I would be remiss if I did not mention a few other significant areas.
+We are, of course, continuing to closely monitor vulnerabilities stemming from the COVID event, including the rise in nonfinancial sector debt and measures of bond and equity market valuations.
+In April, the FSB will report on key considerations involved in amending or unwinding COVID-19 support measures, as appropriate.
+The FSB will play an important role once unwinding measures begin, given its work to support international information sharing on COVID-19 policy responses.
+The FSB also plans to assess initial lessons learned from the COVID event for financial stability and share them with the G20 in July.
+The COVID event has underscored the financial sector's susceptibility to operational risks especially those related to cybersecurity.
+The speed of technological change and a growing reliance on third-party, technology-based services is increasingly introducing new risks and vulnerabilities to the sector.
+To begin to address this, the FSB is focused on achieving greater convergence in areas such as regulatory reporting of cyber incidents, and we will deliver those recommendations to the G20 in October.
+Banking Reformsâ€”an Assessment to Date Next month, the FSB will release the final report of its most ambitious evaluation of the effects of post-GFC banking reforms.
+The report on too-big-to-fail (TBTF) reforms is the FSB's most analytically rigorous evaluation carried out to date.
+When looking at these reforms, indicators of systemic risk and moral hazard moved in the right direction, and effective TBTF reforms seem to have brought net benefits.
+In fact, at the beginning of the COVID event, we observed a far more resilient banking sector than that which entered the 2008 crisis.
+Yet, if the benefits of TBTF reforms are to be fully realized, there remains further work to do.
+The FSB outlines this work in its forthcoming evaluation.
+Further analysis of such reforms, international financial standards, agreed G20 and FSB commitments, recommendations, and other initiatives will provide us with better insights into whether the reforms are working as intended or conflict with one another, are structured efficiently, and if they are in need of refinement.
+Transitioning Away from London Interbank Offered Rate (LIBOR) One last particular item to mention: LIBOR.
+Transitioning away from LIBOR is a significant undertaking that the FSB has been engaged in for almost a decade.
+The FSB set forth a roadmap for clear actions that financial firms and their clients can take to ensure a smooth transition away from LIBOR.3 This year, the FSB will report to the G20 on ongoing progress and issues related to the LIBOR transition, including supervisory issues related to the benchmark transition.
+Conclusion We faced a confluence of events over the past year that demanded international coordination in several key areas, and that is precisely why the FSB was created more than ten years ago; a beacon at the end of another fateful March.
+The span of territory and topics covered can admittedly seem bewildering at timesâ€”I've covered only a few of them today.
+Yet as the FSB builds its agenda for each coming year, the process is much like a pointillist painting.
+Each topic, viewed by itself is a series of complex data pointsâ€”but, upon stepping back, we see the connection and interdependence of the various elements.
+The role of the FSB is to orchestrate a unified image and coherent approach; to ensure we continually monitor and address those hazards, the shape and form we have already identified, while allowing for vicissitudes like the COVID event, which arise quickly, with little notice, and that require extra space on the canvas.
+There is little margin for error in our work.
+Achieving our objectives requires the utmost in diplomacy and rigorous analysis.
+In light of all the challenges we have faced over this extraordinary year, I am proud of what my colleagues in the FSB have done.
+My fellow public servants from across the globe working on FSB topics are steadfast in their daily pursuit of a unified missionâ€”to promote international financial stability.

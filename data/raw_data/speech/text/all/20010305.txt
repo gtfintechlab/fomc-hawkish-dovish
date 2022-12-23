@@ -1,0 +1,262 @@
+Developing and implementing a revised capital accord--and the associated other changes in supervisory practices--is a watershed in banking supervision.
+It will clearly affect banks' plans and practices in the years ahead--particularly the large, internationally active banks represented here.
+Thus, it is important to both the bankers and the regulators that you carefully review and comment on this proposal.
+In my remarks today, I will raise some issues that I believe should particularly be called to your attention.
+I urge you to think carefully about them and let the regulators around the world know your views.
+More than a decade ago, the Basel Committee on Banking Supervision adopted the current accord for several reasons: (1) to make the capital requirements more sensitive to risk profiles among banks; (2) to factor off-balance-sheet exposures into the assessment of capital adequacy; (3) to minimize disincentives to holding liquid, low-risk assets; and (4) to achieve greater consistency in supervisory assessments of bank capital adequacy throughout the world.
+These same objectives underlie the new proposal.
+Let me be clear: The 1988 accord, the current rule, has served us well.
+At its inception, it was a significant step forward, reflecting the state of risk-management technology at the time; it also clearly reflected compromises necessary for international agreement.
+But technology and business practice have moved on, and for the larger institutions this decade-old rule has developed critical shortcomings.
+Risk-measurement practices have improved, and capital markets have become more tightly intertwined.
+Assumptions and shortcuts taken in the current accord are far too crude, given practices today.
+To take one example, large, complex banking organizations now routinely structure their portfolios in ways that arbitrage around the current capital standard.
+These banks can often lower their capital requirements with little, if any, reduction in their actual risk-taking.
+As a result, reported capital ratios may--and too often do--overstate a bank's true financial strength.
+Thus we need a capital framework that is more risk-sensitive and compatible with current market practice.
+Absolute levels of capital must be consistent with risk in order not to shift risk-taking either away from or to banks, but we also need a standard that better reflects relative levels of risk.
+Identifying and correctly measuring relative risk is critical for avoiding capital arbitrage.
+Because the current standard largely ignores the relative risks of different assets, it encourages banks to shed over-capitalized, low-risk assets and to retain high-risk assets for which capital requirements are too weak.
+In short, the increasing sophistication of markets demands that, to be effective, regulatory capital charges need to be reasonably attuned to underlying economic risks.
+Key Innovations in the New Proposal The proposed new capital accord is both far reaching and ground breaking.
+It redefines the regulatory approach to bank supervision and provides new incentives for banks to improve their risk-measurement procedures.
+It is a recognition that technology and market practices have changed and that our oversight function needs to change, too.
+Let me call your attention to some of the most important innovations in the new proposal.
+Three Pillars As many of you know from an earlier 1999 proposal, the Basel Committee's approach rests on three so-called pillars: (1) the new capital standard itself; (2) an increased supervisory review of a bank's internal assessment of its own capital adequacy; and (3) additional public disclosure of bank risk profiles.
+The original Basel Accord, in contrast, rested on a single pillar, the setting of a regulatory minimum for capital.
+The first two pillars of the proposed accord distinguish two concepts of capital adequacy: the regulatory minimum in the first and economic capital needs of the institution in the second.
+The regulatory minimum provides a threshold for early intervention by supervisors.
+Economic capital--determined by the bank but overseen by supervisors as part of the second pillar--is the amount of capital that the bank allocates both for internal management reasons and to achieve desired credit ratings and risk premiums on its debt.
+The new proposal, in effect, increases the emphasis on the supervisors' oversight of the institution's economic capital needs, as it refines the calculation of the regulatory minimum.
+And, of course, it seeks to obtain the assistance of market discipline as a supplement to supervisory oversight.
+These three pillars, I think, reflect important realities.
+As I noted earlier, changing technology and market practices are undermining the current accord at the largest institutions.
+They have also added to the complexity of modern banking organizations, a complexity already in progress from the increasing scale and globalization as well as from a widening range of banking activities.
+These factors and the associated moral hazards from bank supervision and the increased systemic risk from scale have left supervisors with a choice between more extensive and burdensome supervisory oversight, on the one hand, and increased reliance on market discipline coupled with a more incentive-compatible regulatory and supervisory framework on the other.
+That is what the three pillars are all about.
+To be sure, the proposed capital standard--at least for larger banks--is more complex than the current accord.
+But I emphasize that the proposal is based on evolving current best risk-management practices, which, in turn, represent the judgments of bank managers--not supervisors--of how best to measure and manage their risks given the available technologies.
+The proposed accord requires banks to establish comprehensive risk-management policies and then follow them.
+Supervisory oversight is designed broadly to test that this is occurring.
+Public disclosure is intended to harness market discipline so that supervisors can, in fact, be less intrusive as the market becomes more so.
+As I will discuss further below, the proposals also encompass elements intended to make the regulatory capital framework more responsive to improvements over time in banks' risk-measurement and -management capabilities.
+Clearly, the proposed capital framework will challenge both regulators and banking organizations.
+Although the Committee amended the accord, fully effective in 1998, to recognize internal measures of "value-at-risk" for trading activities, the effect of that amendment was quite small compared with what we are now proposing.
+In the United States, the trading amendment affected roughly a dozen institutions and applied, of course, only to their trading activities and market risk.
+Now we are dealing with a more complex topic that goes to the core business of banking--credit risk.
+And we're trying to tackle operational risk as well.
+Within the United States, both the Federal Reserve and the Comptroller of the Currency have, for several years now, focused their examinations on the adequacy of internal processes and controls, particularly at large, complex institutions.
+That approach is particularly consistent with the goal of pillar 2.
+Supervisors here and abroad will be looking more than they did before at an institution's own methods for evaluating capital adequacy and at how well those methods serve the bank.
+The process will be evolutionary, but it will continue along the path already begun.
+At the Federal Reserve, we began that process more than a year ago, with the adoption of our supervisory policy statement, SR 99-18.
+In that letter, which is available on our web site, examiners are directed to ensure that each institution has a comprehensive and rigorous internal process for evaluating its own capital adequacy.
+On our part, we are developing consistent approaches for the review of bank economic capital methodologies through dedicated staff specialists.
+These specialists are expected to be able to engage bank management on the assumptions and analytical underpinnings of the methodologies used by the bank to establish its capital requirements.
+Our intention is that this evaluation will be made against an evolving sound-practice standard.
+The art and the science of risk management and economic capital determination are changing so rapidly that neither the banking community nor the supervisors have the luxury of determining an acceptable or best practice and adhering to it very long.
+However, for some--and perhaps for many--supervisors abroad, implementing pillar 2 will be an even greater challenge and a more significant event, potentially introducing a material change in their role.
+For all of us, though, it is the right approach--relying more than before on the internal measures and management practices of banks, giving them more incentives to invest in better information systems and controls, and, I must emphasize, looking closely to see that their processes work.
+Pillar 3 could be characterized in much the same way: another step along the path for U.S. institutions and supervisors, but a more dramatic change from many practices abroad.
+In this country, we have long had the benefits, discipline, and disclosure practices associated with large, deep, and widely analyzed capital markets.
+Yet, even in this country, financial disclosures do not always provide the market with sufficient information to fully assess a bank's risk position and overall capital adequacy.
+At the same time, we recognize there are limits to how much informed and timely discipline our markets can assert, because of the inherent difficulty of measuring and understanding banking risks.
+Despite all of their insights and detailed knowledge, even a bank's own managers and supervisors can be wrong and surprised.
+Market judgments will never be perfect, but as banks develop and disclose better information, market feedback can play a larger role.
+For their part, bank supervisors can certainly use the market's help as they deal with ever-more-complex rules and banking practices.
+Indeed, we believe additional disclosure and more informed market oversight are essential elements of the proposed new accord.
+Just as pillar 2 represents a higher priority on supervision, pillar 3 represents an increased emphasis on market discipline.
+Multilayered Approach In addition to the three pillars, the proposed capital standard is itself multilayered, offering a variety of approaches to accommodate banks with varied resources, expertise, and risk profiles.
+The most basic approach is the so-called standardized method.
+It is conceptually the same as the current capital accord, but somewhat more risk-sensitive.
+A bank, as now, assigns risk weights to its assets and off-balance-sheet positions and then sums the risk-weighted asset values.
+The total capital requirement per dollar of risk-weighted assets remains at 8 percent.
+The primary difference from the current accord is that risk weights would be based on borrowers' external credit ratings, when available.
+The proposal would also give more recognition to a bank's efforts to mitigate risk through guarantees, collateral, credit derivatives, and netting agreements.
+The centerpiece of the proposal is clearly the internal ratings based (or "IRB") approach, under which the regulatory capital requirement would be based on a bank's own internal assessment of each borrower's credit quality.
+The use of the proposed IRB approach, in turn, is keyed to the bank's ability to meet minimum supervisory requirements that demonstrate the rigor of its assessment.
+Reliance on banks' internal credit risk-measurement and -management methodologies is perhaps the single most far-reaching innovation in the new proposal.
+Under the IRB approach, a bank would need to have several core inputs for each credit facility: the probability of default (PD) for borrowers assigned to each internal borrower grade; the expected loss rate, given a default (LGD), appropriate to each type of exposure; the expected amount of exposure at default (EAD) for each type of exposure, reflecting any undrawn credit lines; and the maturity of the exposure.
+Those parameters that banks provide will need to be well founded and empirically linked to the financial strength and condition of borrowers, the realizable value of collateral or other risk-mitigating provisions of the credit agreements, and many other factors.
+The Basel Committee has designed two versions of the IRB approach: a less sophisticated "foundation" method and a more flexible, but also more demanding, "advanced" approach.
+The foundation IRB offers those banks able to meet rigorous standards associated with assessments of borrower risk, but with more limited ability to measure transaction-specific risk, the opportunity to base their capital requirements on their internal credit ratings.
+This option is designed for those banks able to estimate default probabilities, but not yet able to determine losses given default or exposures at default.
+In such cases, estimates of loss given default and the effective amount of exposure would be determined using formulas set by the regulator, and most transactions would have an assumed maturity of three years.
+If a bank finds these regulatory parameters too restrictive--and they will be conservative--it may develop its own evidence, use it, and convince the supervisor of its accuracy, after which the bank could move to the advanced approach.
+Banks using the advanced approach will have more freedom, but their methodologies for deriving loss given default statistics and effective exposures will be closely reviewed.
+In all cases, supervisors will require a rigorous analysis supporting their estimates, whether they are based on internal or vendor data.
+Banks need to understand the basis for their calculations, and credit grades must reflect the banks' own views.
+Of course, banks will not be permitted to use internal estimates for some types of exposures and regulatory parameters for others; this will be an all-or-nothing proposition.
+Regardless of the alternative selected, the regulatory risk-weighted capital ratio is computed, as is the case today, as the ratio of total capital to risk-weighted assets.
+The definition of total capital is unchanged.
+The minimum regulatory risk-weighted capital ratio, 8 percent, is also unchanged.
+The only changes are in the risk weights used to compute risk-weighted assets and in the comprehensiveness of the risks included.
+In the new proposal, the denominator is the sum of credit risk, market risk, and operational risk.
+The risk weights for credit risk are significantly modified, increasingly so as one moves from standardized to advanced IRB.
+The treatment of market risk is unchanged.
+Operational risk is a completely new category.
+If measured credit risk declines because of the new risk weights--especially for the more advanced approaches--the addition of operational risk will partially offset that decline.
+Not surprisingly, that will focus a lot of attention on operational risk.
+And, of course, if capital arbitrage has, in fact, shifted lower-risk assets to the market, the required capital on the remaining bank-held risk-weighted assets may increase rather than decrease under the new proposal.
+The effects may also differ, perhaps significantly, among banks in different countries, depending on the extent to which low-risk assets have left the banking system.
+Remember that the new risk-weighted charges are designed to be more risk sensitive: to reduce capital charges for less risky assets, relative to current charges, but increase them for riskier assets.
+The expectation--which depends importantly on the extent of capital arbitrage already accomplished--is that, for a given asset, the effective risk weights would decline with the more sophisticated approaches, resulting in lower total regulatory capital charges and, consequently, in a higher reported risk-weighted capital ratio.
+At the same time, given different risk profiles, capital requirements almost certainly would vary more widely under the new risk-based capital ratios than under today's measure.
+However, banks would then presumably respond to changes in their risk-based capital ratios.
+For example, a bank with a relatively low risk portfolio would find that its risk-weighted capital ratio rose because its risk-weighted assets had declined.
+It would, as a result, presumably either reduce its capital or increase its leverage, or even its risk exposure.
+A bank with lowered capital ratios would presumably do the opposite: raise more capital, reduce its leverage, and/or reduce its risk exposures.
+At the end of this adjustment process, we might again--for either competitive reasons or because of the incentives from the prompt corrective action structure--have a relatively tight configuration of risk-weighted capital ratios, especially at the LCBOs, but riskier banks would be holding more absolute capital to support those risks.
+Indeed, it is the whole purpose of the exercise.
+Comprehensive Treatment of Risk Although the current accord emphasizes credit risk, it was intended to cover virtually all banking risks.
+That is, although the current capital charge was initially articulated in terms of credit risk alone, its level was set higher than would have been warranted for credit risk alone, in effect allowing a buffer that could be used to cover other risks.
+Three years ago, we carved out and dealt separately with trading activities and most market risk.
+That process worked well because it led to a better risk measure and also spurred risk-measurement efforts within the industry.
+It worked within the current capital framework largely because trading activities and capital requirements associated with them were relatively small for almost all banks.
+Taking a "one-off" approach for trading activities did not materially disrupt the underlying assumptions or integrity of the current rule.
+We don't have that luxury now.
+As we get more precise in measuring credit risk, we lose some of the buffers previously built into the standard to cover operational and other risks.
+Explicitly or implicitly, we now need to make judgments regarding the respective correlations of different risks.
+Are they additive or independent and to what degree?
+Can the same capital cover all of them, or do banks need capital for each one?
+Similar issues arise with risk mitigation and the proper treatment of collateral, guarantees, and other risk-reducing steps.
+Though these practices are important in measuring a bank's effective risk, their value, in principle, is reflected implicitly in the 8 percent charge, as part of the "on average" nature of the current accord.
+Again, in principle, without such traditional cautionary efforts by banks to reduce risks, in 1988 the current regulatory capital minimum would have been set higher than 8 percent.
+The difficulty, of course, is quantifying precisely the importance of each risk and of each risk-mitigating effort, and how they all fit together.
+Taking Industry's Lead When developing new regulatory standards, bank supervisors traditionally look first to common or "best" business practices within the industry to serve as a guide.
+For credit risk, however, we have found that though many banks are beginning to adopt more formal quantitative approaches and the systems of some banks are quite advanced, virtually no bank follows best practices in all areas of credit risk measurement and management.
+This is so even though, I hasten to add, the proposed IRB framework draws heavily from concepts and systems developed by leading-edge institutions.
+For once, supervisors seem to be ahead of--or at least even with--the curve rather than behind it.
+The lag in application reflects, I think, the reality that measuring credit and operating risk is more difficult than measuring market risk.
+In trading activities transactions are marked to market daily, and long series of data are readily available for measuring rate and price volatility.
+Once developed, value-at-risk and various stress-measurement techniques also spread throughout the industry, at least among the relevant institutions.
+With credit risk, we find a greater range of practices and of risk-measurement skills.
+As noted, the economic capital models used by some banks have been of great help in structuring the proposed framework and showing the way.
+Nonetheless, the work done to develop this proposal makes clear that there is room for much improvement in certain business practices and in the internal use of model output in evaluating capital adequacy.
+Given the difficulty of developing, maintaining, and validating measures of credit risk, supervisors will need the reassurance that would come from knowing that banks actually use their credit risk measures for other than regulatory reasons.
+Before supervisors can seriously consider using the results of bank measures of portfoliowide credit risks--as opposed to measures of borrower- or transaction-specific risks--banks themselves need to have enough confidence in the statistics and demonstrate that confidence by integrating the risk measures into important parts of the banks' business and management decisions.
+Critical Issues The Basel Committee and commenters will need to focus on several critical issues as we work together to refine and complete the capital proposal.
+I urge you to address them in your comments.
+To whom does the proposal apply, and how will banks choose among the options in the proposal?
+The original 1988 Basel Accord was designed for large, internationally active banks.
+However, in the United States and many other countries, the current accord is applied to all domestic banks, both large and small.
+With the new proposal, national regulators will once again have to decide how widely to apply the Basel capital framework.
+In my view, the greater complexity of the new accord, at least with respect to the IRB options, suggests that it should cover a narrower range of banks: those that have been active pursuers of capital arbitrage, those that have made--or can make--the greatest advances in risk measurement and management, and those for whom the adequacy of the current standard is most in question.
+The need and desirability of limited application is especially true in the United States, where we have such a large number of relatively small and less complex community banks.
+Indeed, it is not at all obvious that the proposed standardized approach fits the needs of smaller banking organizations engaged primarily in traditional banking activities.
+Recall that the current standardized approach originally was designed with larger banks in mind.
+The new standardized approach is more complex than its predecessor, but I question whether the added implementation burdens are cost-effective for traditional banking organizations, especially since neither the current nor the proposed capital frameworks yet address what is perhaps the most critical risk factor for smaller banks--geographic and sectoral concentrations of credit risk.
+In another talk later this month I will discuss in more detail whether and how the capital standards should be changed for community banks.
+So let me focus here on how larger banks may choose among the three options in the new proposal.
+The largest and most sophisticated U.S. and foreign banks will undoubtedly strive immediately to move to the IRB approaches.
+Indeed, to the extent that the operational demands of the foundation and advanced IRB approaches are viewed as comparable--particularly in light of input from consulting and third-party vendors--many institutions may desire to migrate directly to the advanced approach so as to achieve the largest possible reductions in regulatory capital.
+This possibility raises a very important practical issue: How many banks will believe that they must operate under an IRB approach to remain competitive?
+It will take considerable supervisory resources to validate banks' internal methodologies and to monitor their compliance with sound practices under the IRB approach on an ongoing basis.
+There is, therefore, a practical limit to the number of institutions that we--and, I would argue, other countries--can effectively supervise under the IRB approaches.
+Under the proposal, we have attempted to provide incentives for banks to migrate over time from the standardized to the foundation and, then, advanced IRB approaches.
+If competitive forces encourage too many banks to choose for the IRB approaches, then more careful attention would have to be paid to the risk weights under the standardized approach and to the associated incentives built into the IRB approaches.
+In any event, and I cannot emphasize this enough, U.S. regulators intend to establish very high standards both for those banks permitted to participate in the IRB approaches and for ourselves, as overseers of the credibility and integrity of the IRB process.
+Does the new proposal strike the right balance between rules and discretion?
+As I noted earlier, the current proposal rebalances the regulatory and supervisory approach to capital more toward oversight of economic capital and away from a disproportionate focus on compliance with the regulatory minimum.
+This is sensible, given that banks today uniformly hold capital above the regulatory minimum.
+But the key question is how well capital at individual banking organizations reflects the risk profiles and risk-management capabilities of the individual entities.
+Unfortunately, oversight of a bank's economic capital needs and measures requires much greater supervisory resources, authority, and expertise than enforcement of regulatory minimums.
+Countries without the requisite resources, authority, and expertise may need to tilt more toward rule-based approaches, at least during a transitional period while their supervisory methodologies are modified and their resources supplemented.
+Does that mean that during the transition the regulatory minimums should be higher in these cases, as the pillar 1 is required to shoulder more of the burden relative to pillar 2?
+Or will market discipline (pillar 3) be enough to ensure that banks' economic capital decisions are appropriately disciplined?
+Does the current set of options provide sufficient flexibility to meet the needs of countries with varying supervisory capabilities?
+Will the new accord be implemented consistently within a country and across countries?
+This is an issue precisely because the new proposal offers greater discretion to banks, and implicitly to supervisors, and therefore could lead to greater variation in capital among banks and countries.
+The issue is also important in the United States, since two agencies supervise large, internationally active banks: the Federal Reserve and the OCC.
+These agencies must uniformly implement the new proposal to preserve competitive equity among U.S. banks.
+Fortunately, the Fed and the OCC have worked closely during the development of the new proposal.
+And, even more to the point, we have already begun to work closely to develop jointly procedures to validate banks' internal risk-measurement methodologies.
+The question remains, however, how uniform will implementation be around the world?
+The proposal relies heavily on supervisory oversight and market discipline to promote consistency.
+Supervisors will be responsible for validating banks' internal methodologies, ensuring ongoing compliance with sound practices, and providing oversight of the economic capital process.
+The importance of these qualification standards is precisely why the new proposal makes them a requirement for any bank permitted to operate under an IRB option.
+These requirements are therefore an integral part of pillar 1.
+Even countries without supervisory authority can impose these qualifications as a requirement for the preferential capital treatment offered under pillar 1.
+Carrying out this validation and overseeing compliance on an ongoing basis will be a considerable challenge everywhere, including the United States.
+As I noted, this challenge will be particularly pronounced in countries where the supervisory tradition has not emphasized the types of on-site review needed to validate a bank's IRB implementation.
+I have been impressed that those members of the Committee with such a tradition have been very explicit about the need to obtain the resources to carry out the necessary supervisory review.
+There is also general agreement that ongoing structured exchanges of our experiences will occur among Committee members as part of the process of assessing the degree of uniformity in implementation.
+Nonetheless, your comments about expected or evolving problems with consistency issues would be quite helpful.
+Even if supervisory resources are adequate, market discipline must also play an important role in ensuring uniformity in implementing the proposed Basel standard among banks.
+Of course, banks don't all have to make the same choice with respect to capital levels, but they should pay the appropriate price in the market for lower levels of capital relative to risk.
+At any rate, it is important that an appropriate level of disclosure requirements be included in pillar 1 to facilitate such market discipline.
+The pillar 3 disclosure recommendations themselves are very far reaching.
+But at this point many of them are recommendations, not requirements.
+In addition, we recognize that we still have more work to do in fashioning a more disciplined and prioritized set of disclosure requirements, one that balances the cost of compliance against the benefits of disclosure.
+This, too, is an area in which bank comments would be particularly helpful.
+Does the new proposal maintain competitive equity around the world or provide competitive advantage to some countries relative to others?
+Obviously, this is a sensitive issue.
+All parties to the negotiations want a standard that promotes safety and soundness and deters systemic risk.
+Within these boundaries, though, we also view the world from our own perspective.
+As countries negotiate, supervisors appropriately seek to avoid rules that would disadvantage their own banks.
+Hopefully, we hope that we will ultimately reach an agreement that is acceptable to us all.
+But, it is crucial that banks, in their own self-interest, review the proposals carefully, identify potential problem areas, and alert supervisors of material concerns.
+Did we set relative and absolute required capital levels about right, and did we properly balance the incentives to move to more sophisticated options?
+I would be surprised if anyone could, at this point, provide a definitive answer to these questions, although they are central to the success of the proposal.
+Part of the problem, of course, is that many gaps remain in the current proposal, making it impossible for banks to compute the amount of capital they would have to hold under the IRB approaches.
+There is, as a result, an interactive process at work.
+We need comments on what we have already proposed, including feedback on the implications for banks' capital levels.
+We will continue to work to fill in the gaps and, when this work is completed, will need further feedback about the effects of the overall proposal on required capital levels.
+I hope the banking industry can provide detailed and constructive feedback on the proposed structure of risk weights, especially for those portfolios that have been explicitly addressed under the proposed framework--primarily corporates, banks, sovereigns, and retail under the IRB.
+Are the proposed relationships reasonable between a loan's risk weight and its default probabilities, loss given default, exposure, and other inputs to the IRB approach?
+As I suggested earlier, if we do not get relative risk weights about right, it will be difficult to achieve the broad goals established by the Basel Committee--such as encouraging effective risk-management practices and discouraging capital arbitrage.
+Obviously, setting the right absolute level of capital requirements is important as well, both to avoid excessive systemic risk and to provide a fair playing field vis-à-vis nonbank financial institutions.
+When we started out to determine an appropriate absolute level of capital requirements for banks, we hoped to take a "bottom-up" perspective.
+The IRB approach begins with a careful assessment of relative risks across different credit instruments.
+But it ultimately has to be grounded in some absolute capital standard.
+A bottom-up approach would start with the maximum insolvency probability that regulators are willing to accept.
+This would be used, in principle, to calibrate the absolute capital level for the regulatory minimum.
+The problem is that to implement such an approach requires supervisory judgments in areas where the right decision is not obvious.
+Consequently, for the most part, the structure of risk weights in the January proposal have been guided, instead, by a top-down approach, which seems more comfortable to many Committee members, even if more ad hoc.
+The natural point of departure for this top-down approach is the current level of capital.
+In an attempt to maintain about the current overall amount of capital in the system, the new standardized approach--which is intended to be conservative--is calibrated to the current 8 percent capital standard.
+Under the IRB approach, enhanced risk sensitivity will result in lower capital charges on some assets, but the precise amount of the overall benefit is difficult to determine at this point.
+Within the Basel Committee is some concern that the IRB approach to credit risk could result in a significant decline in capital requirements relative to current levels, especially under the advanced approach.
+There could, therefore, be a temptation to offset any expected decline in credit risk capital with the imposition of a non-risk-sensitive capital charge against "other risks."
+Operational risk is an obvious candidate for such a "plug," especially given the absence of much progress in developing methodologies to estimate the amount of capital appropriate for this risk.
+The danger is that an arbitrary or ad hoc approach to capital for operating risk could deny banks the full benefits that would otherwise be available under the advanced approach.
+Such an approach could easily subvert any improvement in the new accord's overall risk sensitivity that might otherwise flow from its more refined treatment of credit risk.
+It is also likely to discourage banks from investing the resources necessary to better measure operating risk.
+At a minimum, it provides them no incentive to do so.
+This issue, especially on methods for determining operational risk, is one about which your comments are eagerly anticipated.
+Are even the largest banks ready to take advantage of the IRB approach?
+The fact that both banks and supervisors need to make much more progress explains the relatively long (three-year) transition period proposed before the new accord would be implemented.
+As bankers, you should ask yourselves whether you are truly ready.
+The quick answer, "we're there," is probably wrong.
+Based on our examinations of U.S. banks' internal risk-rating processes, I suspect that few banks would or should get a clean sign-off from their supervisor today.
+Despite the importance of evaluating a borrower's probability of default, banks have been surprisingly slow, it seems, to distinguish among acceptable credit risk levels in their pricing and in their own assessments of capital adequacy.
+In recent years, some leading institutions have clearly expanded their risk gradations, with some using twenty categories or more and paralleling the practices of large external rating firms.
+Typically, though, banks have used half a dozen "pass" grades or less.
+Moreover, the distribution of credits among these grades often has been insufficient, with large portions of portfolios falling into only one or two grades.
+Most significantly, the rigor and internal consistency of internal risk-rating processes is often handicapped by insufficient or unclear rating criteria or by limited resources dedicated to independent reviews of risk-rating assignments.
+Last fall, the Basel Committee conducted an initial survey of large internationally active banks in order to estimate the quantitative effects of the proposal on their capital requirements.
+The Committee was disappointed in the modest number of banks worldwide that could provide meaningful distributions of credit quality, even for their corporate portfolios.
+I hope that experience says more about the time and attention banks devoted to the exercise or about the lack of guidance they received than it does about the state of their risk-management systems.
+If it is the latter, the industry clearly needs to increase the pace.
+Process The new rule is, of course, still a proposal, although one in which much time and effort has been invested.
+It can certainly be changed and needs to be developed further, but the overall structure seems set.
+The industry needs to take the current proposal seriously and to comment on it in substantive and helpful ways.
+Tell us what you like and dislike, but be constructive, offering alternative solutions when you can.
+Your constructive proposals that pay due regard of the objective of the reform will, I assure you, play a significant role in shaping the final proposals of the Basel Committee.
+Once adopted by the Basel Committee, the proposal will be submitted to the G-10 central banks for their endorsement and then to national jurisdictions for necessary domestic rulemaking.
+In the United States and in many other countries, the rulemaking process requires further public comment periods that must be respected.
+In this country, they most definitely will be.
+By that point, though, the international process will be at a much-advanced stage.
+Consequently, now is the time to comment and to influence the results.
+Don't miss the chance.
+Once fully adopted by the countries on the Basel Committee, the standard is likely to have broad application worldwide and to replace the current accord, particularly for internationally active banks.
+Every bank here should expect to be affected.
+Conclusion The proposal may be complex and at times confusing, but I believe we are on the right track.
+We need regulatory capital standards that are far more risk sensitive than the one we have now and that provide the industry greater incentives to measure and manage risk.
+The IRB framework seems compatible with the efforts of best-practice banks and with the direction in which risk management seems to be heading.
+The advanced IRB approach, in particular, provides banks with substantial flexibility in their risk-measurement techniques and should eliminate much of the pure capital arbitrage, provided that we calibrate the various methods reasonably well.
+Such flexibility means the standard, itself, will evolve as banking practices improve.
+With experience and better data, the risk parameters will change, and the models will get stronger.
+Banks will no longer have the shelter of a static and uniform regulatory standard but will be required to defend their own assessments and procedures to their supervisors and the market.
+They can start the process slowly, moving from the standardized approach to the foundation and advanced IRB methods only as they feel ready and as their supervisor agrees.
+Better risk management should lead to lower capital requirements.

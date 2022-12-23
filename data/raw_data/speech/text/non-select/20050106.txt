@@ -1,0 +1,109 @@
+This uncertainty implies that the central bank must incorporate into its decisions the risks and consequences of several alternative outcomes.
+That is, it needs to assess not only the most likely outcome for a particular course of action but also the probability of the unusual--the tail event.
+And it needs to weigh the welfare costs of the possible occurrence of those tail events.
+This risk-management approach has been articulated by Chairman Greenspan for monetary policy, and it is equally applicable to a central bank’s decisions regarding crisis management, the topic I will focus on today.1 Crises are themselves tail events, and the policy response to them is focused on the possibility and cost should the outcome be especially adverse.
+As I am sure we will hear time and again today, knowledge--reliable information--is essential to managing risks.
+In a financial crisis, however, information inevitably will be highly imperfect.
+The very nature of a crisis means that the ratio of the unknown and unknowable will be especially large relative to the known, and this, in turn, can influence how policymakers judge risks, costs, and benefits.
+Although the subject of my contribution to this panel is crisis management, I want to emphasize at the outset that the far-preferable approach to financial stability is to reduce the odds on such crises developing at all.
+To this end, central banks seek to foster macroeconomic stability, encourage sound risk-taking practices by financial market participants, enhance market discipline, and promote sound and efficient payment and settlement systems.
+In this arena, an ounce of prevention is worth many pounds of cure.
+Before going further, I should say that the views I will express today are my own and not necessarily those of other members of the Board of Governors or its staff.2 Costs, Benefits, and Policy Options But even prevention has costs that must be weighed along with its benefits.
+No financial system that is efficient and flexible is likely to be completely immune from episodes of financial instability from time to time, and policymakers will be forced to make judgments about the costs and benefits of alternative responses with very incomplete information.
+In a financial crisis, the potential cost of inaction or inadequate action is possible disruption to the real economy, which would damp activity and put undesirable downward pressure on prices.
+Such disruptions can come about because crises heighten uncertainty about the financial status of counterparties and about the eventual prices of assets.
+In an especially uncertain environment, lenders may become so cautious that credit supplies are cut back more than would be justified by an objective assessment of borrowers’ prospects; concerns about counterparty risk can impair the smooth functioning of payment and settlement systems, interfering with a wide variety of markets; asset prices can be driven well away from equilibrium values; and confidence can be undermined.
+These types of tail events could depress economic activity for a time and, if prolonged, could also adversely affect efficiency and productivity by impairing the ability of financial markets to channel savings into the most productive investments.
+Although policy action may be able to reduce the odds of adverse effects or alleviate their impact, some policy responses to a crisis can themselves have important costs that need to be balanced against their possible benefits.
+In short, intervening in the market process can create moral hazard and weaken market discipline.
+If private parties come to believe in the possibility of policy actions that will relieve them of some of the costs of poor decisions or even just bad luck, their incentives to appropriately weigh risks in the future will be reduced and discipline on managers watered down.
+Weaker market discipline distorts resource allocation and can sow the seeds of a future crisis.
+The possible real costs of policy actions implies that they should be taken only after the determination that, in their absence, the risk is too high that the crisis will disrupt the real economy.
+Once that judgment is reached, the central bank and other authorities have a variety of instruments to use, and the degree of potential moral hazard created will depend on the instrument chosen.
+Approaches that work through the entire market rather than through individual firms run a lower probability of distorting risk-taking.
+Thus, a first resort to staving off adverse economic effects is to use open market operations to make sure aggregate liquidity is adequate.
+Adequate liquidity has two aspects: First, we must meet any extra demands for liquidity that might arise from a flight to safety; if they are not satisfied, these extra demands will tighten financial markets at exactly the wrong moment.
+This was an important consideration after the stock market crash of 1987, when demand for liquid deposits raised reserve demand; and again after 9/11, when the destruction of buildings and communication lines impeded the flow of credit and liquidity.
+Second, we must determine whether the stance of monetary policy has to be adjusted to counteract the effects on the economy of tighter credit supplies and other consequences of financial instability.
+Policy adjustments also can help head off some of those effects in that, by showing that the central bank recognizes the potential seriousness of the situation, they bolster confidence.
+As a consequence, meetings of the Federal Open Market Committee (FOMC)--often in conference calls if the situation is developing rapidly--have been an element in almost every crisis response.
+Those meetings allow us to gather and share information about the extent of financial instability and its effects on markets and the economy as we also discuss the appropriate policy response.
+Some critics have argued that the FOMC’s policy adjustments in response to financial instability encourage undue risk-taking in the financial markets and the economy.
+However, to the extent that the conduct of policy successfully cushions the negative macroeconomic effects of financial instability, it genuinely lowers risk and that fact should be reflected in the behavior of private agents.
+Other instruments to deal with instability--discount window lending, moral suasion, actions to keep open or slowly wind down ailing financial institutions--are much more likely than monetary policy adjustments to have undesirable and distortionary effects on private behavior.
+By making credit available to individual firms on terms more favorable than would be available in the market, or by affording a measure of protection to existing creditors, these other instruments carry substantial potential for moral hazard.
+Hence, they are and should be used only after a finding that more generalized instruments, like open market operations, are likely to be inadequate to stave off significant economic disruption.
+If it is determined that actions to support the credit of specific firms are necessary, such actions should be designed to minimize moral hazard.
+Sometimes moral suasion will be sufficient--simply by calling attention to the potential consequences of withholding payments or credit, private parties may be persuaded that avoiding such an outcome is in their self-interest.
+But central banks must be careful that moral suasion is not perceived as coercion or an implied promise of official indemnification for private losses.
+If the central bank concludes that it must lend to individual depository institutions to avoid significant economic disruption, in most situations any such loans should be on terms sufficiently onerous to discourage reliance on public-sector credit.
+The Federal Reserve tries to find the approach that reduces the odds on economy-wide spillover effects while interfering as little as possible with the market and allowing people and institutions to suffer the consequences of decisions that turn out to be bad.
+Nearly every major bout of financial instability has called for some degree of monetary easing--most often only temporarily until the threat of the low-probability but high-cost economic disruption has passed.
+Other tools have been used occasionally, and an assessment of their costs and benefits has depended on the nature of the crisis.
+Moral suasion was an element in dealing with the panicky private-sector actions associated with the sharp and apparently self-feeding market price breaks of 1987 and 1998.
+Lending through the discount window helped to promote an orderly unwinding of distressed institutions in the period of prolonged and widespread problems among important intermediaries in the late 1980s and early 1990s.
+And such lending was crucial in getting liquidity to the right places after the disruption of 9/11.
+In each case, the nature of the response has depended on the state of the economy and financial markets before the event.
+When the economy is strong and financial systems robust, a shock to the financial system is less likely to feed back on the economy.
+Information Flows in a Crisis Clearly, judgments in a crisis must balance a number of difficult considerations in rapidly changing circumstances in which up-to-date, accurate, information is scarce.
+Our experience suggests some of the key questions that might arise when confronting a crisis: How large is the financial disruption--how many firms or market participants are involved and how large are they?
+What is the potential for direct and indirect contagion, both domestic and international?
+Who are the counterparties and what is their exposure?
+Who else has similar exposures and might be vulnerable to further changes in asset prices that could be triggered by a firm’s failure and unwinding of positions?
+How long are the financial disruptions likely to last?
+Are substitute providers of financial services available, and how easily and quickly can they be employed?
+And, critically, what are the initial and expected states of the macroeconomic and financial environments under various scenarios?
+Coming to grips with these questions requires a considerable amount of detailed, up-to-the-minute information--more than can be known ahead of time.
+Even in the best of circumstances, much of the information on variables relevant to decisions about whether or how to intervene will be unknown (especially if a crisis materializes quickly) or unknowable.
+Published balance sheets and income statements--or old examination reports--give only a starting place for analysis when asset prices and risk profiles are changing rapidly and in ways that had not been anticipated.
+In addition, crises invariably reveal previously unknown interdependencies among financial intermediaries and among intermediaries and the ultimate suppliers and demanders of funds.
+Central banks and others that might be involved in crisis management must take steps to push back the frontiers of the “unknown” before a crisis hits and to develop procedures for obtaining the “knowable” quickly when needed.
+More information is not just a “nice to have.” Policymakers want to choose the path with the lowest moral hazard consequences.
+But they are in a difficult position in a crisis.
+The costs of not acting forcefully enough will be immediate and obvious--additional disruption to financial markets and the economy.
+The costs of acting too forcefully--of interfering unnecessarily in markets and creating moral hazard--manifest themselves only over a longer time and may never be traceable to a particular policy choice.
+The natural tendency to take more intrusive actions that minimize the risk of immediate disruptions is probably exacerbated by ignorance and uncertainty; the less you know, the easier it is to imagine bad outcomes and the more reliant you may be on people in the market whose self-interest inevitably colors the information they are giving you.
+Each episode of financial instability is different and teaches us something new about what information is useful and who needs to call whom to share information.
+For example, clearing mechanisms for futures and options were an issue in the 1987 crash; capital impairment of depositories, its effect on lending, and the response of regulators took center stage in the late 1980s and early 1990s; the importance of market liquidity came to the fore in 1998 when even the prices of off-the-run Treasury securities took a beating; and physical infrastructure issues dominated developments after the terrorist attacks on 9/11.
+Although a knowledge base is helpful, the answers to the questions I posed earlier will depend critically on a free flow of new information.
+In a world of financial institutions with a presence in many lines of business crossing national boundaries, obtaining such information and developing cogent analysis requires widespread cooperation among many agencies.
+The Federal Financial Institutions Examination Council--in which all U.S. depository institution regulators participate--is a forum for developing information and relationships within the regulatory community.
+The President’s Working Group itself was a product of the 1987 stock market crash, which revealed a need for better communication and coordination among all financial regulators.
+In addition, we build bilateral relationships with foreign authorities through participation in various international groups, such as the Basel Committee on Banking Supervision, the Committee on Payment and Settlement Systems, the Financial Stability Forum, and so on.
+A number of the phone calls I made and received in the hours and days after 9/11 were with people in other central banks with whom I had established working relationships on monetary policy groups or in international preparations for Y2K.
+But although agency-to-agency communication is important, it is in a sense only a secondary source of information.
+The primary and best sources are the contacts we all develop with major financial participants as we carry out our daily operations and oversight responsibilities.
+Whatever the origin of the crisis, the Federal Reserve has usually found itself near the center of the efforts to assess and manage the risks.
+To be sure, we have some authorities and powers that other agencies do not.
+But in addition, we bring a unique perspective combining macro- and microeconomic elements that should help us assess the likelihood of disruptions and weigh the consequences of various forms of intervention.
+Because of our responsibility for price and economic stability, we have expertise on the entire financial system and its interaction with the economy.
+Central banks need to understand--to the limited extent anyone can--how markets work and how they are likely to respond to a particular stimulus.
+Our role in operating and overseeing payment systems gives us a window into a key possible avenue for contagion in a crisis.
+At the Federal Reserve, our supervisory responsibilities provide us with knowledge of the banking system and the expertise to interpret information we get from other agencies.
+We have people at the Board and Reserve Banks who are expert in macroeconomics, in banking, in payment and settlement systems, and in various financial markets, and all have market contacts; our colleagues at the Federal Reserve have proven to be our best source and filter of information in the midst of a crisis.
+Despite our efforts, much will still be unknown and some things will be unknowable as we make decisions in a crisis.
+Financial instability is by definition a tail event, and it is the downside possibilities of that tail event that concern the authorities.
+Market participants are reacting under stress, on incomplete and often false information, in situations they have not faced before.
+Uncertainty--in the Knightian sense of unquantifiable risk--is endemic in such situations.
+Uncertainty drives people to protect themselves--to sell the asset whose price is already declining, to avoid the counterparty whose financial strength might conceivably be impaired, to load their portfolios with safe and liquid assets.
+Market mechanisms are tested in ways that cannot be modeled ahead of time.
+Contagion is always a key underlying issue in trying to assess the potential for sustained disruption of the financial system and the economy.
+Contagion, in turn, is partly a question of psychology--how will people react under conditions of stress?
+So, too, is moral hazard--once the stressful situation passes, how will people adapt their behavior as a consequence of any intervention?
+Thus, much of the most desirable information is “unknowable” in any quantitative sense.
+The authorities must rely, therefore, on judgment, based on experience and on as much information as can be gathered under adverse circumstances.
+The Changing Financial System and the Known, the Unknown, and the Unknowable The evolution of financial markets and institutions over recent years may well have made the financial system more resilient and reduced the need for intervention.
+The lowering of legal and regulatory barriers across financial services and geography, the development of derivative markets, and the securitization of so much credit has enabled intermediaries to diversify and manage risk better, reduced the number of specialized lenders who would be vulnerable to sector- or area-specific shocks, and left borrowers far less dependent on particular lenders and consequently the economy much less vulnerable to problems at individual or even classes of institutions.
+In the past few years, the financial markets have come through an extraordinarily stressful period, but one that was not marked by the sort of financial-sector distress that accompanied and intensified the economic problems in many previous such episodes.
+I attribute that relatively good record, in no small part, to greater diversification of risk, to the growing sophistication of risk management techniques being applied at more and more institutions, and to stronger capital positions going into the period of stress.
+This may be the typical experience in the future; one hopes so, and the regulators are working in various ways to make it so--through the Basel II effort as one prominent example.
+But, unfortunately, we cannot count on that outcome.
+Crises remain a threat, and the increasing complexity of the financial system and of the laws governing it are affecting how crises are likely to be managed.
+The greater variety and utilization of risk transfers will put new demands on information flows to answer the questions I posed earlier.
+The growing reach of major financial institutions across industry boundaries and national borders is increasing the necessity for cooperation and coordination among regulators here in the United States and around the world.
+At the same time, institutions manage risk on an integrated basis and understanding and dealing with the effect of financial instability and the feedback of their actions on markets and other institutions will call for an integrated overview.
+No institution can be “too big to fail.” Handling the failure of a large, complex organization--imposing the costs of failure on management, shareholders, and uninsured creditors while minimizing the effects on the wider economy--will certainly be complicated.
+But we cannot allow the public interest in containing moral hazard to be held hostage to complexity.
+Indeed, U.S. law requires that we do not.
+In dealing with the failure of an insured depository institution, the authorities are required to use the method that yields the least cost to the insurance fund unless they find that the least-cost method entails systemic risk and that a more costly method would mitigate that risk.
+In setting out a procedure to follow in such circumstances and holding authorities explicitly accountable for their decisions against a reasonably clear set of objectives, the law puts a premium on preparing for the type of analysis that will be needed.

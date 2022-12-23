@@ -1,0 +1,78 @@
+Unnamed: 0,sentence,label,score
+0,Earlier today the Federal Open Market Committee (FOMC) approved new measures to support the recovery and employment growth.,LABEL_1,0.9989909529685974
+1,"As you know, the Federal Reserve conducts monetary policy under a dual mandate from Congress to promote maximum employment and price stability.",LABEL_1,0.8657032251358032
+2,The United States has enjoyed broad price stability since the mid-1990s and continues to do so today.,LABEL_1,0.6915575265884399
+3,"The employment situation, however, remains a grave concern.",LABEL_0,0.9958961009979248
+4,"While the economy appears to be on a path of moderate recovery, it isn’t growing fast enough to make significant progress reducing the unemployment rate.",LABEL_0,0.998561441898346
+5,"And, at 8.1 percent, the unemployment rate is nearly unchanged since the beginning of the year and is well above normal levels.",LABEL_1,0.9778134822845459
+6,The weak job market should concern every American.,LABEL_0,0.997797966003418
+7,"High unemployment imposes hardship on millions of people, and it entails a tremendous waste of human skills and talents.",LABEL_0,0.9936341047286987
+8,"To help bolster the recovery and promote price stability, the FOMC has provided unprecedented levels of policy accommodation in recent years.",LABEL_0,0.9989703893661499
+9,"With our main policy interest rate near its effective lower bound, we have been using two complementary tools to carry out monetary policy—balance sheet actions and forward guidance regarding how long we anticipate maintaining exceptional levels of policy accommodation.",LABEL_0,0.9988755583763123
+10,"While providing this support, we have been prudent, carefully weighing the potential benefits and costs of each new policy action, and recognizing that monetary policy, particularly in the current circumstances, cannot cure all economic ills.",LABEL_2,0.6318071484565735
+11,"However, incoming data confirm that the modest pace of growth continues to be inadequate to generate much progress on unemployment.",LABEL_0,0.893136739730835
+12,"With inflation anticipated to run at or below our 2 percent objective, the Committee has become convinced that further policy accommodation is warranted to strengthen the recovery and support the gains we have begun to see in housing and other sectors.",LABEL_0,0.9991759657859802
+13,"The program of MBS purchases should increase the downward pressure on long-term interest rates more generally, but also on mortgage rates, specifically, which should provide further support for the housing sector by encouraging home purchases and refinancing.",LABEL_0,0.9980615973472595
+14,We will be looking for the sort of broad-based growth in jobs and economic activity that generally signal sustained improvement in labor market conditions and declining unemployment.,LABEL_1,0.9302853345870972
+15,"Of course, in determining the size, pace, and composition of any additional asset purchases, we will, as always, take appropriate account of the inflation outlook and of their efficacy and costs.",LABEL_2,0.5588968992233276
+16,"Additionally, the Committee emphasized that it expects a highly accommodative stance of monetary policy to remain appropriate for a considerable time after the economic recovery strengthens.",LABEL_0,0.9973746538162231
+17,Committee participants’ projections for the unemployment rate in the fourth quarter of this year have a central tendency of 8.0 to 8. remain somewhat above participants’ estimates of the longer-run normal rate of unemployment.,LABEL_0,0.9870457649230957
+18,Participants’ projections of inflation have a central tendency of 1.7 percent to 1.8 percent for this year and 1.8 percent to 2.0 percent for 2015.,LABEL_2,0.9994174242019653
+19,"Before I take your questions, I’d like to briefly address three concerns that have been raised about the Federal Reserve’s accommodative monetary policy.",LABEL_1,0.8510591983795166
+20,The third is that the Federal Reserve’s policies risk inflation down the road.,LABEL_1,0.9994070529937744
+21,"In fact, the odds are strong that the Fed’s asset purchase programs, both through their net interest earnings and by strengthening the overall economy, will help reduce rather than increase the federal deficit and debt.",LABEL_1,0.919418215751648
+22,"But low interest rates also support the value of many other assets that Americans own, such as homes and businesses large and small.",LABEL_0,0.9964239001274109
+23,"Thus, while low interest rates do impose some costs, Americans will ultimately benefit most from the healthy and growing economy that low interest rates help promote.",LABEL_1,0.6666953563690186
+24,"And finally, on inflation: Inflation has varied in recent years with swings in global food and fuel prices caused by a range of factors, such as drought and geopolitical tensions.",LABEL_2,0.9989594221115112
+25,"However, overall inflation has averaged very close to the Committee’s goal of 2 percent per year for quite a few years now, and a variety of measures show that longer-term inflation expectations are quite stable.",LABEL_0,0.829606294631958
+26,The Federal Reserve is fully committed to both sides of its mandate—to price stability as well as to maximum employment—and it has both the tools and the will to act at the appropriate time to avoid any emerging threat to price stability.,LABEL_1,0.9994194507598877
+27,We’ll be looking for signs that the economy is strong enough to promote improvement and sustained improvement in labor market conditions and declines in unemployment.,LABEL_1,0.5131089687347412
+28,"I mean, that’s—we’re not going to be able to sustain purchases until we’re all the way back to full employment, that’s not the objective.",LABEL_0,0.99819415807724
+29,"The idea is to quicken the recovery, to help the economy begin to grow quickly enough to generate new jobs and reduce the unemployment rate.",LABEL_0,0.99399733543396
+30,"Even after the economy starts to recover more quickly, even after the unemployment rate begins to move down more decisively, we’re not going to rush to begin to tighten policy.",LABEL_0,0.9254319071769714
+31,"Well, our policy approach doesn’t involve intentionally trying to raise inflation.",LABEL_1,0.9993410706520081
+32,The idea is to make sure we provide enough support so the economy will grow fast enough to bring unemployment down over time.,LABEL_0,0.8813225626945496
+33,"I mean, as we look back at the last six months or so, we’ve seen unemployment at basically the same place it was in January.",LABEL_2,0.9869163036346436
+34,"We’ve seen not enough jobs growth to bring down the unemployment rate, and what we need to see is more progress.",LABEL_0,0.9981552958488464
+35,"But if you look at our projections, you’ll see it doesn’t involve any inflation, that we still believe that inflation is going to be close to our 2 percent target.",LABEL_2,0.9987974166870117
+36,"Well, if inflation goes above the target level, as we talked about in our statement in January, we take a balanced approach.",LABEL_1,0.9972692131996155
+37,"We bring inflation back to the target over time, but we do it in a way that takes into account the deviations of both of our objectives, you know, from their targets.",LABEL_2,0.999382495880127
+38,"Well, our assessment—I talked about this at my remarks at Jackson Hole—our assessment, and that of the research literature, is that the policies that we’ve undertaken have had real benefits for the economy—that they have provided some support, that they have eased financial conditions and help reduce unemployment.",LABEL_0,0.8826263546943665
+39,"All that being said, monetary policy, as I’ve said many times, is not a panacea.",LABEL_2,0.9997664093971252
+40,"We’ll do our part, and we’ll try to make sure that unemployment moves in the right direction, but we can’t solve this problem by ourselves.",LABEL_0,0.5462887287139893
+41,We don’t have tools that are strong enough to solve the unemployment problem.,LABEL_0,0.9832021594047546
+42,"We do think that these policies can bring interest rates down—not just Treasury rates, but a whole range of rates, including mortgage rates and rates for corporate bonds and other types of important interest rates.",LABEL_0,0.8827795386314392
+43,It also affects stock prices.,LABEL_2,0.9998194575309753
+44,"It affects other asset prices—home prices, for example.",LABEL_2,0.9998263716697693
+45,"We’re just trying to get the economy moving in the right direction, to make sure that we don’t stagnate at high levels of unemployment, that we’re making progress towards more acceptable levels of unemployment.",LABEL_2,0.9997913241386414
+46,"We are trying to create more employment, we are trying to meet our maximum employment mandate, so that’s the objective.",LABEL_0,0.9965489506721497
+47,"Our tools involve—I mean, the tools we have involve affecting financial asset prices, and that’s—those are the tools of monetary policy.",LABEL_0,0.9858559370040894
+48,"There are a number of different channels—mortgage rates, I mentioned other interest rates, corporate bond rates, but also the prices of various assets, like, for example, the prices of homes.",LABEL_2,0.9997726082801819
+49,"To the extent that home prices begin to rise, consumers will feel wealthier, they’ll feel more disposed to spend.",LABEL_2,0.9993894100189209
+50,"If house prices are rising, people may be more willing to buy homes because they think that they’ll, you know, make a better return on that purchase.",LABEL_2,0.9997991919517517
+51,So house prices is one vehicle.,LABEL_1,0.9979245662689209
+52,Stock prices—many people own stocks directly or indirectly.,LABEL_1,0.9981986880302429
+53,The issue here is whether or not improving asset prices generally will make people more willing to spend.,LABEL_2,0.999846339225769
+54,"One of the main concerns that firms have is there is not enough demand, there’s not enough people coming and demanding their products.",LABEL_2,0.9998373985290527
+55,"And if people feel that their financial situation is better because their 401(k) looks better or for whatever reason, their house is worth more, they are more willing to go out and spend, and that’s going to provide the demand that firms need in order to be willing to hire and to invest.",LABEL_2,0.8930195569992065
+56,"We want to see the unemployment rate come down, but that’s not the only indicator, obviously, of labor market conditions.",LABEL_2,0.4565446376800537
+57,The unemployment rate came down last month because participation fell.,LABEL_1,0.8398648500442505
+58,We want to see lower unemployment.,LABEL_2,0.9573196172714233
+59,One reason that lenders have been very constrained is they are worried about further house price declines that will make the collateral worth less than the loan.,LABEL_0,0.9067214727401733
+60,"As house prices have begun to rise, as the economy has gotten a little stronger, lending standards have eased just a bit.",LABEL_0,0.9528140425682068
+61,"The CBO has suggested that if that’s allowed to take place, that it would cause unemployment to begin to rise, and it might throw the economy back into recession.",LABEL_0,0.9974222183227539
+62,"So I think one very basic thing that could be done to help address the recovery—the weakness of the recovery and the need for more employment—would be to address the fiscal cliff while simultaneously addressing longer-term fiscal sustainability issues which remain, of course, very serious.",LABEL_1,0.9767260551452637
+63,"Well, the—on inflation, we do anticipate at some point what’s normal in a recovery, which is, given that the economy fell very quickly and there’s a lot of unused capacity, there’s a lot of slack in the economy, it would be normal that there would be a period where the economy would grow faster than trend in order to make up some of the slack that was created.",LABEL_0,0.796999454498291
+64,"And as long as we pay close attention to inflation expectations as well as the trajectory of the economy, we think inflation will remain close to our 2 percent target.",LABEL_0,0.9854334592819214
+65,"Our job is to use the tools we have to meet our mandate, which is maximum employment and price stability.",LABEL_0,0.8343011140823364
+66,"But, you know, that’s not our province; we are the monetary policy authorities, and our job is to use monetary policy as effectively as we can.",LABEL_2,0.9957643747329712
+67,"Michael Woodford— who, by the way, is my former colleague and coauthor and friend, so I know him quite well, and I know his works quite well—I think, actually, the thrust of his research is that forward guidance—communication about future policy—is, in fact, the most powerful tool that central banks have when the interest rate is close to zero.",LABEL_1,0.9986936450004578
+68,"And he advocates policies like nominal GDP targeting, for example, that would essentially require credibility lasting many years, the implication being that the Fed would target the nominal level of GDP and promise to do that for many years in the future even if inflation, you know, rose as part of that policy.",LABEL_2,0.9997005462646484
+69,"And the evidence, which I also, again, discussed in my remarks recently, is that when we’ve announced extended guidance, that financial markets have responded to that, that private-sector forecasters have changed their estimates of what unemployment and inflation will be when the Fed begins to remove accommodation.",LABEL_2,0.9995911717414856
+70,"Well, again, as I mentioned before, it’s true that our mortgage-backed securities purchases ought to drive down mortgage rates, and put downward pressure on mortgage rates, and create more demand for homes and more refinancing.",LABEL_2,0.5960276126861572
+71,"I think that house prices are beginning to rise in some markets, which will encourage people to look at homes, will encourage lenders to make more mortgage loans.",LABEL_1,0.9620725512504578
+72,"And, as I talked about in a speech in March, in order for employment gains to be sustained, for unemployment to fall, the economy needs to grow at or above trend levels.",LABEL_0,0.9392795562744141
+73,"So we’ve been responding to that problem and trying to take steps that will assure somewhat stronger growth and, we hope, will help bring unemployment down over time.",LABEL_1,0.9899322986602783
+74,"And as I mentioned earlier, the unemployment decline last month was more than 100 percent accounted for by declines in participation.",LABEL_1,0.6029461622238159
+75,They might even temporarily raise the unemployment rate because they’re now looking again.,LABEL_0,0.8359761238098145
+76,"And it’s why I said earlier that we do want to look at a range of indicators, not just the unemployment rate, although that’s a very important indicator, not just payrolls, although that also is a leading indicator, but participation, hours, part-time work, and a variety of other measures which suggest that our labor market is still in quite weak condition.",LABEL_0,0.9973125457763672

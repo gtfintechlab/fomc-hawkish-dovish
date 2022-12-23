@@ -1,0 +1,85 @@
+I gave my first speech to Women in Housing and Finance almost 30 years ago.
+You've been kind enough to invite me back in each of my tours of duty in public service since then, and throughout that time you have been an exemplar of the adage that diversity is the art of thinking independently together.
+Today, I'd like to talk to you about how banking regulation and supervision is adjusting to the unprecedented economic challenges posed by the coronavirus outbreak and especially the containment measures taken in response, which together we call the "COVID event."
+In particular, I will discuss how the COVID event is affecting a cornerstone of the Federal Reserve's oversight of large banksâ€”our periodic stress tests, which verify that banks are prepared to deal with severe economic and financial conditions.
+Although our stress tests were not designed to test specifically against the effects of the COVID event on the economy and on our banks, they were designed to be flexible.
+I will describe modifications we've made to the stress test process this year, including expansions in stress testing appropriate to the unique circumstances we face, and preview our approach to the results the Fed will release next week.
+Let me start with some more general background on stress tests, among other steps the Federal Reserve Board has taken since the 2007-2009 financial crisis to strengthen the financial system and increase its resiliency.
+Since the financial crisis, we have mandated a substantial increase in the quantity and quality of capital in the banking system, including specially targeted higher capital requirements for the largest banks critical to overall financial stability.
+Capital provides a cushion to ensure that banks are prepared to face financial stress and other unexpected circumstances.
+Our requirements include capital buffers that are designed to be drawn down in periods of stress, in addition to minimum capital requirements.
+We have also established periodic stress tests to examine how banks would respond to hypothetical adverse financial and economic conditions.
+The Fed took these steps so that, during a crisis, banks would be in a position of strength and would not be forced to curtail lending to preserve capital, which would only worsen the crisis.
+In early March, in a move unrelated to the COVID event, the Board simplified its capital rules by finalizing a stress capital buffer requirement.
+This new framework uses our stress tests to set capital requirements for large banks and has the same goal as the previous framework: using forward-looking analysis to help ensure that banks have sufficient capital to survive a severe recession while still being able to lend to households and businesses.1 This year, as every year, the stress test began in February with the publication of a hypothetical scenario.
+This scenario, however, predated the serious economic effects of the COVID event, which began in March.
+This timing presented challenges and demanded changes to our usual process, and we responded with an approach that required more extensive analysis than normal.
+We simply would not have been doing our jobs if we had just run the test using a scenario framed before the economy began to deteriorate in March.
+One reason for changing course hearkens back to the first stress test in 2009, the Supervisory Capital Assessment Program, or SCAP.
+Like this year's test, SCAP was conducted in the midst of a crisis.
+One goal was to provide information, transparency and market discipline.
+But another goal was to restore and maintain public confidence in the financial system.
+In that sense, ever since then stress testing has acted to stabilize and strengthen the financial system, and it is this ongoing benefit that would be put at risk if we failed to alter our approach to make it relevant to the unique circumstances we face.
+While the first test likewise was conducted during a crisis, the current situation is unlike what we have faced in subsequent stress tests.
+In normal circumstances, we can take our time to carefully examine data and make a deliberate judgement about the capital planning of banks.
+This time, we have had to act much more quickly to be timely and relevant.
+That necessarily means a different approach.
+We didn't have the time or the comprehensive data to run a complete and updated COVID event stress test.
+Normally, we publish our scenarios, which serve as the hypothetical basis for the test, two months before the start of the process, and we take two months to run the test.
+We use data that banks submit around six weeks after the end of each quarter, so the test we run beginning in April normally uses data submitted in February and March reflecting bank balance sheets as of December.
+We also normally ask banks to complete their own stress tests using our scenarios before we begin our stress test.
+Another consideration was preserving the forward-looking benefits of stress tests.
+As we weighed how to proceed on this year's stress testing process, it was clear that the starting point was a lot less important than the considerable uncertainty we continue to face about the course of the COVID event and thus the path of the recovery.
+For that reason, we decided to stick with the February 2020 severely adverse scenario as the starting point for a different approach.
+We are calling this forward-looking approach a sensitivity analysis, and now I'll try to explain how that differs from a focus on just one severely adverse scenario.
+Based on past experience and our standing policies, our February scenario assumed stress in corporate debt and real estate markets, among other details, and an increase in unemployment considerably larger than occurred in the Great Recession.
+Compared to what we are now experiencing, this scenario was less severe than the unprecedented drop in employment and output in the second quarter of 2020 but more severe than the extent of stress we're seeing in debt markets.
+It also didn't include the unprecedented extent of fiscal stimulus.
+But the larger issue is the unprecedented uncertainty about the course of the COVID event and the economy.
+The range of plausible forecasts is high and continues to shift.
+We don't know about the pace of reopening, how consumers will behave, or the prospects for a new round of containment.
+There's probably never been more uncertainty about the economic outlook.
+Although our policies on stress testing emphasize the value of not increasing capital requirements under stress and thus exacerbating a downturn, our first priority must beâ€”and isâ€”to understand the implications of quite plausible downside scenarios from our current position for bank capital.
+In light of that uncertainty, our sensitivity analysis considers three distinct downside risk paths for the economy: first, a rapid V-shaped recovery that regains much of the output and employment lost by the end of this year; second, a slower, more U-shaped recovery in which only a small share of lost output and employment is regained in 2020; and third, a W-shaped double dip recession with a short-lived recovery followed by a severe drop in activity later this year due to a second wave of containment measures.
+Let me emphasize that these are not forecasts by the Fed or me, only plausible scenarios that span the range of where many private forecasters think the economy could be headed.
+While using the same models as our regular stress tests, our sensitivity analysis is different from our normal use of a severely adverse scenario in several ways.
+First, there are three possible paths instead of one because we must consider this range of outcomes.
+While we retained the basic structure of the February 2020 scenario, we swapped out a few key variables such as the unemployment rate, change in economic output, and Treasury bill rates.
+We also didn't follow our scenario design policy statement in formulating these three alternative paths.
+We chose rough approximations of economic paths rather than detailed scenarios, which means that the usual set of detailed variable data that we use will not be available.
+Finally, the analysis is still based on year-end 2019 data but with targeted adjustments to account for the most material changes to banks' balance sheets in the first quarter related to the COVID event, such as sizeable credit-line drawdowns by corporations.
+Given the changing economic circumstances and the need to act quickly, we didn't publish these three economic paths in advance and ask banks to model their exposures to them.
+The targeted adjustments to banks' balance sheets include the substantial growth in corporate loan balances and stress on borrowers in certain industry sectors that are most exposed to a sharp drop in demand.
+Although we didn't run our full stress test on these three possible downside risk paths for the economy, and while our adjustments only capture the most material changes in balance sheets since last year, this sensitivity analysis has helped sharpen our understanding of how banks may fare in the wide range of possible outcomes.
+We think it makes the most sense to share with the public some of what we have learned when we publish the results of our stress testing process on Thursday of next week.
+Let me lay out what that announcement will entail.
+First, as a point of reference, we will disclose stress test results using the February 2020 scenario, run against bank exposures as of December 2019.
+As in past years, this will include both firm-specific and aggregate results.
+To be more precise, this portion of our disclosure, based on the results of the February 2020 scenario, will be identical in all material ways to last year's stress test disclosure.
+This approach provides continuity and comparability with past stress tests.
+For the sensitivity analysis, we will provide key details about the three downside risk paths for the economy and targeted adjustments.
+We will also provide results aggregated across banks that will compare how the banking system as a whole would fare under the three distinct views of the future.
+Because of the limitations I described in examining the three downside risk paths for the economy, our disclosure of the sensitivity analysis will not provide firm-specific results.
+This adapted stress test, based on December 2019 exposures, will still give detailed information about the vulnerabilities of firms to the range of stresses that may play out.
+As a next step, we plan to move ahead and provide all banks subject to stress testing with a stress capital buffer requirement based on the February 2020 scenario, under our new approach integrating stress testing with capital requirements.
+Our new framework for establishing capital requirements was calibrated based on the assumption that we would set these requirements using a full stress test based on published scenarios.
+Indeed, the overall severity of the February scenario and our V-shaped sensitivity analysis are roughly the same.
+And, as I noted earlier, we kept in mind the principle that if possible we should avoid measures that tighten minimum capital levels during a crisis, to avoid intensifying that crisis.
+Should our assessment of the COVID event's likely evolution change, of course, we will act expeditiously to resize the buffer or take other appropriate actions.
+Let me take a minute to explain how and when we will disclose those stress capital buffer requirements.
+In prior years, the results from Dodd-Frank Act stress tests and the related Comprehensive Capital Analysis and Review were released over a two-week period.
+But in a change, we will be releasing the results from both exercises at the same time.
+We are able to do this because the new capital framework uses the results of the stress tests to establish the size of banks' stress capital buffers, which they can draw down in times of stress, and allows the banks to adjust their capital plans after receiving those results.
+By giving the firms their effective capital buffer requirement for the coming year and allowing them to adjust their capital plans to that buffer, the change will result in a more thoughtful assessment of risks.
+Once the banks have determined their final capital plans, the Board will publicly release the final capital requirements for each individual firm later this year, before they take effect in the fourth quarter, as planned.2 In addition, given the special circumstances this year we will use the results of our sensitivity analysis to inform our overall stance on capital distributions and in ongoing bank supervision.
+The sensitivity analysis will help us judge whether banks would have enough capital if economic and financial conditions were to worsen.
+As I have noted, our largest banks entered the COVID event in a position of strength, with high levels of capital and liquidity, and they have demonstrated that strength in the support they have provided to the economy during a crisis.
+In addition, I will note that almost all of our large banks have suspended share repurchases for the second quarter.
+In light of the ongoing economic uncertainty, I consider this move for the second quarter a prudent step as a very substantial capital conservation measure.
+Before the COVID event over 70 percent of the capital distributions of global systemically important banks, for example, came in form of share repurchases, which ceased in March.
+The sensitivity analysis will help the Board assess whether additional measures are advisable for certain banks or certain future developments.
+Let me conclude by reiterating that stress tests remain a valuable tool, even in this time of extreme uncertainty.
+Our use of the sensitivity analysis is an acknowledgement that the path ahead is unusually uncertain, but that the work of verifying the resiliency of banks must continue, to aid the recovery by bolstering public confidence in the financial system.
+The new stress capital buffer framework will likewise aid capital planning and risk management by banks, leaving them better prepared to maintain lending to households and businesses.
+We will closely monitor the condition of these banks and the broader financial system in the coming months, including through additional COVID-related analysis.
+We will not hesitate to take additional policy actions should they be warranted under the then-prevailing economic conditions.

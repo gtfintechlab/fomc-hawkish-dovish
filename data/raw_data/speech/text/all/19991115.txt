@@ -1,0 +1,72 @@
+The forces of globalization, technology, and deregulation by the regulators and now by the Congress have drastically modified the competitive landscape of financial institutions and markets.
+Change will continue to be the one constant.
+Life insurance companies have been at the forefront of change and competitive response in the postwar period.
+They created new products as substitutes for traditional insurance policies when households began to demand more sophisticated portfolios of financial assets.
+The insurance industry pioneered the private placement market, which has served as a laboratory for developing and testing new debt structures, such as securitizations.
+In the process, your industry facilitated wider access to capital markets for smaller and below-investment-grade borrowers.
+Insurance companies may be among the oldest financial institutions in our country, but they are surely as modern and as creative as any--a prerequisite to growth, if not survival.
+The change in the rules of affiliation in the Gramm-Leach-Bliley Act will create new opportunities and risks for all financial institutions.
+It is clear that the consumer will benefit from the wider permissible scope of activities by, and the more equal competition among, financial entities.
+That is why the Federal Reserve actively supported this legislation for so long.
+Management now will be given greatly enhanced flexibility to determine the best way to deliver its services to the market place, and the market will judge the correctness of that choice.
+Nonetheless, even with the wider scope for markets, insurance companies, just as securities firms, must still consider the regulatory implications of affiliation with a bank--de novo or as either the acquirer or the acquired.
+Thus, it might be useful if I addressed the issue of how your regulatory position would change under those circumstances.
+I.
+Limiting the Safety Net Any change would reflect the bank safety net, which has always been the major concern about financial reforms that would create broad financial organizations that include an insured depository institution.
+By safety net, I mean the government guarantee of deposits and the access to both central bank credit through the discount window and to settlement on the books of the Federal Reserve through our payment services.
+All of these reduce the cost of funding the beneficiary bank and tend to insulate the bank's management and shareholders from bearing the full cost of their own mistakes or bad luck.
+The separation of portfolio risk from the cost of funding that portfolio leads to an inefficient allocation of financial and real assets.
+In the past, it has also tended to induce a level of risk-taking that is neither consistent with the safety and soundness of the insured entity nor that could be financed on either the same terms or the same scale if it were not for the government guarantee.
+The first concern about allowing wider affiliations with banks was the potential spread of subsidy benefits to institutions other than depositories.
+Our purpose was not to continue a special break for banks, but to avoid increasing the moral hazard distortion--and its associated risk.
+The second concern of designers of the architecture for financial modernization was to avoid the spread of the bank-like regulation that would soon follow extension of the safety net.
+If market discipline were further blunted by extension of the safety net, the government would be forced to act in place of the market as the evaluator of the new safety net beneficiaries.
+Nonbank financial firms have, quite understandably, sought to avoid bank-like regulation.
+Its linkage to the safety net, however, is too often ignored.
+The spread of bank-like regulation over a wider ambit would bring with it not only constraints on innovation and flexibility, but also less market discipline.
+Creditors and stakeholders would assume that the regulators were ensuring safe and sound operations and/or that the regulators would bail out the entity if there was a problem.
+As a result, they would not feel the need to look out for their own interests.
+In my judgment, extension of bank-like regulation would increase--not decrease--risk in the financial system.
+The Gramm-Leach-Bliley Act is designed to limit extensions of the safety net, and thus to eliminate the need to impose bank-like regulation on nonbank subsidiaries and affiliates of organizations that contain a bank.
+Indeed, for insurance companies and broker/dealers, the act makes clear that the first level supervisory authority lies with the functional regulators--the state insurance authorities and the SEC, respectively--as it should.
+As I will discuss momentarily, the Federal Reserve retains the overall responsibility for financial services holding companies with bank subsidiaries.
+In exercising that responsibility, however, the Board is required by the act to rely, to the fullest extent possible, on public information and reports from, as well as examinations conducted by, the functional regulator.
+In the course of carrying out our supervisory responsibilities for the bank holding company and its nonbank subsidiaries, these are to be the first and, whenever possible, the sole sources of information about those bank-affiliated entities that are already regulated by others.
+Only when the Board has reason to believe that there is a material risk to the affiliated depository institution--or to ensure compliance with a law, such as the Bank Holding Company Act--may the Board directly examine a functionally regulated nonbank subsidiary of a bank holding company.
+Identical restrictions are placed on the other federal banking agencies.
+It is clear from the letter and the spirit of the Gramm-Leach-Bliley Act that bank regulators and the holding company supervisor are to give great deference to the functional regulators and to interject themselves only in critical circumstances.
+And under no circumstances can a functionally regulated entity be forced to assist a depository or any other affiliate over the objections of the functional regulator.
+The limits placed on the Federal Reserve to examine and obtain reports from regulated subsidiaries are a reasonable response to the fear of excessive regulation.
+The Board believes that this arrangement will work well, if and as the parties cooperate.
+We fully expect that will be the case.
+There will understandably be some tensions as we all move up the learning curve.
+But the Federal Reserve is committed to working with the functional regulators to make this system a cooperative and effective one.
+II.
+Umbrella Supervision It is important to understand, however, that the new act does not change the key, dominant, and major responsibility of both the bank and the holding company regulators: to contribute to the safety and soundness of the insured depository institution.
+The Congress established this responsibility both because of the role banks play in macroeconomic stability and because of the moral hazards associated with the safety net I described earlier.
+Just as functional regulators of insurance companies and broker/dealers retain their prime supervisory authority over those entities, bank subsidiaries of holding companies, too, may have a primary regulator other than the Federal Reserve.
+But the Federal Reserve has a central role as well in prudential oversight for bank subsidiaries of holding companies.
+The most critical of these is the quantitative constraint on bank loans to, and asset purchases from, affiliates and operating subsidiaries--sections 23A and B of the Federal Reserve Act.
+These provisions also limit loans by a bank to certain customers of affiliates.
+Sections 23A and B are the key constraints on both the spreading of the safety net through subsidized funds flowing to affiliates from banks and the risk that insured depositories might become captive lenders to affiliates or their customers.
+To further limit risk exposures of the bank, the new act also preserves the authority of the Federal Reserve to fashion prudential restrictions on relationships between banks and their affiliates.
+This authority is intended to allow the Board to impose other limitations on relationships among the bank, its affiliates, and the affiliates' customers, if necessary to protect the depository from arrangements not covered by sections 23A and B.
+For example, the Federal Reserve had required that Section 20 affiliates of banks (the only corporate securities underwriting vehicles for banking organizations prior to the new legislation) inform their customers that the instruments purchased were not insured deposits.
+The Federal Reserve also may protect banks by requiring divestiture.
+If bank or holding company supervisors believe that the activities of any affiliate or subsidiary-- functionally regulated or not--are causing undue risk to an insured depository, they can require that either the bank or the affiliate be divested from the organization.
+To avoid the risks of double leverage, and to minimize pressure on the cash flow of banks to service parent or affiliate debt, the Federal Reserve also retains the right to impose consolidated capital requirements on organizations that include a bank.
+We may have to modify our existing regulations to apply this provision in order to make adjustments for capital requirements already imposed by functional regulators on insurance companies, broker/dealers, and similar businesses.
+In order to protect the bank, umbrella supervision must extend its oversight to the consolidated organization.
+The need for the Federal Reserve to take a consolidated view of entities with bank affiliates represents the reality that current and future bank holding companies are not passive portfolio investors in their component parts, but rather managers of a consolidated financial enterprise directed from the center--the holding company.
+Thus, some authority must focus on the entire--the consolidated--entity so that each of the component regulators is aware of risks that may be unfolding elsewhere in the organization that could affect the unit for which it is responsible.
+This oversight is focused on implications for the bank but provides information that will also be shared with regulators of nonbank affiliates as well.
+The consolidated focus of the Federal Reserve is increasingly on the risk management and control policies that are virtually always established and maintained at the holding company parent.
+I cannot over emphasize the critical importance that the Federal Reserve places on evaluating risk management and control policies, including the testing of such controls to ensure their effectiveness.
+An integrated well-run organization, experience tells us, centrally establishes and administers these programs.
+As umbrella supervisor, we are also very interested in the interaffiliate transfers and credit concentrations, the total effects of which may be clear only when viewed at the overall level.
+III.
+Conclusions Affiliating with a bank will create some additional complexity for insurance companies and broker/dealers--mainly reflecting the implications of the bank safety net but also reflecting the special role banks play in financial markets and macroeconomic stability.
+However, these complexities can be over-emphasized.
+The Congress has placed real and effective limits on the Federal Reserve's authority to supervise and regulate functionally regulated entities.
+Moreover, the Federal Reserve has strong incentives, beyond statutory restrictions, to avoid the extension of bank-like regulation, namely the moral hazard that would be created.
+In addition, if the bank is of a modest size absolutely, as well as relative to a functionally regulated affiliate that dominates the organization, there is little reason for the tail to wag the dog, as it were, and to apply consolidated supervision in a burdensome way.

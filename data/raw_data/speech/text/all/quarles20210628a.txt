@@ -1,0 +1,120 @@
+In the main, it has served us and the world well, by making America the home of so many of the scientific and practical innovations that have transformed life in the 21st century from that of the 19th.
+But, especially when coupled with an equally American susceptibility to boosterism and the fear of missing out, it has also sometimes led to a mass suspension of our critical thinking and to occasionally impetuous, deluded crazes or fads.
+Sometimes the consequences are in hindsight merely puzzling or embarrassing, like that year in the 1980s when millions of Americans suddenly started wearing parachute pants.
+But the consequences can also be more serious.
+Which brings us to my topic today: central bank digital currencies, or CBDCs.
+In recent months, public interest in a "digital dollar" has reached fever pitch.
+A wide range of experts and commenters have suggested that the Federal Reserve should issueâ€”and in fact may need to issueâ€”a CBDC.
+But before we get carried away with the novelty, I think we need to subject the promises of a CBDC to a careful critical analysis.
+In offering my views on this and other issues related to CBDCs, I am speaking for myself as a member of the Board of Governors, and not for the Board itself or any other Fed policymakers.
+And, indeed, you will all have seen Chair Powell's recent announcement that we are preparing a comprehensive discussion paper on this issue that will be the first step in a thorough public process to conduct just this sort of critical analysis, which I do not want to prejudge.
+But I do want to give some sense of the issues I think we will need to grapple with in this process, how I will be thinking about them, and the high bar that I think any proposal to create a U.S. CBDC must clear.
+So, let's begin with a basic question: what problem would a CBDC solve?
+To answer, we first need to define the term CBDC and assess the current state of the U.S. payment system.
+What Do We Mean by "CBDC"?
+The Bank for International Settlements has defined a CBDC as "a digital payment instrument, denominated in the national unit of account, that is a direct liability of the central bank.
+"1 My first observation is that the general public already transacts mostly in digital dollarsâ€”by sending and receiving electronic balances in our commercial bank accounts.
+These digital dollars are not a CBDC, because they are liabilities of commercial banks rather than the Federal Reserve.
+Importantly, however, digital dollars at commercial banks are federally insured up to $250,000, which means that for deposits up to that amountâ€”which means for essentially all retail deposits in the United Statesâ€”they are as sound as a central bank liability.
+The Federal Reserve also provides digital dollars directly to commercial banks and certain other financial institutions.
+Federal law allows these financial institutions to maintain accounts withâ€”and receive payments services fromâ€”the Federal Reserve.
+Balances in Federal Reserve accounts serve a vital financial stability function by providing a safe and liquid settlement asset for the U.S. economy.
+To summarize then, the dollar is already highly digitized.
+The Federal Reserve provides a digital dollar to commercial banks, and commercial banks provide digital dollars and other financial services to consumers and businesses.
+This arrangement serves the nation and the economy well: the Federal Reserve functions in the public interest by promoting the health of the U.S. economy and the stability of the broader financial system, while commercial banks compete to attract and effectively serve customers.
+So, given the existing digitization of the U.S. dollar, how would a CBDC differ from the digital dollars we use today?
+The key distinction is that, when most commentators speculate about a Federal Reserve CBDC, they assume that it would be available to the general public directly from the central bank.
+A CBDC of this nature could take different forms.
+One is an account-based model, in which the Federal Reserve would provide individual accounts directly to the general public.
+Like the accounts that the Federal Reserve currently provides to financial institutions, an accountholder would send and receive funds by debit or credit to their Federal Reserve account.
+A different CBDC model could involve a CBDC that is not maintained in Federal Reserve accounts.
+This form of CBDC would be closer to a digital equivalent of cash.
+Like cash, it would represent a claim against the Federal Reserve, but it could potentially be transferred from person to person (like a banknote) or through intermediaries.
+I am skeptical that the Federal Reserve has legal authority to pursue either of these CBDC models without legislation.
+Nevertheless, the recent clamor over CBDCs makes it appropriate to explore the benefits, costs, and practicalities of implementing one in the United States if such legislative authority were granted.
+Let's start with a look at the current U.S. payment system that a Fed CBDC would fit into.
+Current State of the U.S. Payment System The Federal Reserve and private-sector interbank payment services already offer an array of options that facilitate efficient, electronic U.S. dollar payments.
+A few statistics related to the main large-value payment systems for U.S. dollars are illustrative.
+The Federal Reserve's large-value payment service (the Fedwire Funds Service) processes nearly $4 trillion in payments every day.2 These payments settle instantly in a bank's account at the Federal Reserve.
+A private-sector entity (The Clearing House) operates a large-value payment system that settles nearly $2 trillion in payments every day.3 These payments do not settle in Federal Reserve accounts, but they are underpinned by balances on the books of a Federal Reserve Bank.
+Smaller-value payments often settle more slowly than large-value payments, but a variety of efforts to speed up settlement have been completed or are underway.
+For example, The Clearing House has developed an instant payments service that focuses on smaller-value payments.
+Similarly, the automated clearinghouse (or ACH) networkâ€”a batch-based payment network that first developed in the long-ago 20th centuryâ€”now enables same-day settlement of ACH payments.
+And the Federal Reserve is developing an instant payment serviceâ€”FedNowâ„ â€”that will soon provide recipients of small-value payments with immediate access to their funds in commercial bank accounts.
+The payment system is not perfectâ€”some types of payments should move more quickly and efficiently.
+Payments across international borders, for example, remain a key area of concern because they often involve high costs, low speed, and insufficient transparency.
+The Financial Stability Board, an international group that I chair, produced a roadmap last year that is intended to address these concerns.4 Additionally, private-sector stablecoins (which I will discuss in more detail in a moment) may facilitate faster and cheaper cross-border payments.
+In addition, some types of payments have not fully digitized or are subject to ongoing contention between businesses with competing economic interests.
+For example, paper checks remain widely used for certain types of payments (although the interbank check collection process is now almost entirely electronic).5 Debit and credit card payments offer a convenient digital platform for consumers and retailers, but there has been considerable controversy between banks and retailers over who will capture the economics surrounding the fees associated with card transactions.
+Finally, many more Americans could benefit from digital payments by increasing their use of banking services, which can be promoted by wider use of low-cost, basic bank accounts.
+In summary, the U.S. payment system is very good, and although it is not perfect, work is already underway to significantly improve it.
+Policy Considerations Yet, proponents of a Federal Reserve CBDC believe that it would solve a number of significant problems.
+They suggest, for example, that a Federal Reserve CBDC may be necessary to defend the critical role the U.S. dollar plays in the global economy.
+Others say that a CBDC would overcome longstanding economic inequalities in American society.
+As we begin our Fed analysis of these issues, I will have to be convinced that a CBDC is a particularly good tool to address either of these issues, about which I am skeptical, and I will especially have to be convinced that the potential benefits of developing a Federal Reserve CBDC outweigh the potential risks.
+Let's examine some of the arguments raised by CBDC supporters.
+The first argument is that the Federal Reserve should develop a CBDC to defend the U.S. dollar against threats that would be posed by foreign CBDCs, on the one hand, and the continued spread of private digital currencies, on the other.
+Taking the threat from foreign CBDC's first, this argument presumes that at least some foreign currenciesâ€”all of which are already highly digitized in our current international banking system in the same way the dollar is and yet which do not pose a significant challenge to the international role of the dollarâ€”will suddenly pose a much greater challenge to the dollar if that digitization is accomplished through a direct central bank digital currency instead of through the current digital payments system.
+In this view, the U.S. dollar will lose its place in the global economy if the Federal Reserve does not offer a similar product.
+I think it's inevitable that, as the global economy and financial system continue to evolve, some foreign currencies (including some foreign CBDCs) will be used more in international transactions than they currently are.
+It seems unlikely, however, that the dollar's status as a global reserve currency, or the dollar's role as the dominant currency in international financial transactions, will be threatened by a foreign CBDC.
+The dollar's role in the global economy rests on a number of foundations, including the strength and size of the U.S. economy; extensive trade linkages between the United States and the rest of the world; deep financial markets, including for U.S. Treasury securities; the stable value of the dollar over time; the ease of converting U.S. dollars into foreign currencies; the rule of law and strong property rights in the United States; and last but not least, credible U.S. monetary policy.
+None of these are likely to be threatened by a foreign currency, and certainly not because that foreign currency is a CBDC.
+CBDC supporters also suggest that private digital currencies pose a threat to the U.S. dollar.
+Private digital currencies come in multiple flavors, but for this purpose I will divide them into two categories: stablecoins and non-stablecoins, or cryptoassets, such as bitcoin.
+Let's begin with stablecoins.
+The value of a stablecoin is tied to one or more other assets, such as a sovereign currency.6 There are multiple existing and potential stablecoins that are or would be tied in value to the U.S. dollar.
+Some commentators argue that the United States must develop a CBDC to compete with U.S. dollar stablecoins.
+Stablecoins are an important development that raise difficult questions.
+For example, how would widespread adoption of stablecoins affect monetary policy or financial stability?
+How might stablecoins affect the commercial banking system?
+Do stablecoins represent a fundamental threat to the government's role in money creation?
+In my judgment, we do not need to fear stablecoins.
+The Federal Reserve has traditionally supported responsible private-sector innovation.
+Consistent with this tradition, I believe that we must take strong account of the potential benefits of stablecoins, including the possibility that a U.S. dollar stablecoin might support the role of the dollar in the global economy.
+For example, a global U.S. dollar stablecoin network could encourage use of the dollar by making cross-border payments faster and cheaper, and it potentially could be deployed much faster and with fewer downsides than a CBDC.
+And the concern that stablecoins represent the unprecedented creation of private money and thus challenge our monetary sovereignty is puzzling, given that our existing system involvesâ€”indeed depends onâ€”private firms creating money every day.
+We do have a legitimate and strong regulatory interest in how stablecoins are constructed and managed, particularly with respect to financial stability concerns: the pool of assets that acts as the anchor for a stablecoin's value couldâ€”if use of the stablecoin became widespread enoughâ€”create stability risk if it is invested in multiple currency denominations; if it is a fractional rather than full reserve; if the stablecoin holder does not have a clear claim on the underlying asset; or if the pool is invested in instruments other than the most liquid possible, principally central bank reserves and short-term sovereign bonds.
+All of these factors create "run risk" â€”the possibility that some triggering event could cause a large number of stablecoin holders to exchange their coins all at once for other assets and that the stablecoin system would not be able to meet such demands while maintaining a reasonably stable value.
+But these concerns are eminently addressableâ€”indeed, some stablecoins have already been structured to address them.
+When our concerns have been addressed, we should be saying yes to these products, rather than straining to find ways to say no.
+Indeed, the combination of imminent improvements in the existing payments system such as various instant payments initiatives combined with the cross-border efficiency of properly structured stablecoins could well make superfluous any effort to develop a CBDC.
+In contrast to stablecoins, cryptoassets like bitcoin are not tied to the value of an asset like a sovereign currency.
+Rather, they seek to create value in the coin through other means, usually some intrinsic mechanism to ensure scarcity, like bitcoin's mining process, or some characteristic of the coin that cannot be matched by the traditional payment system, such as inviolable anonymity.
+Some commentators assert that the United States must develop a CBDC to counter the appeal of cryptocurrencies.
+This seems mistaken.
+The mechanisms used to create such cryptoassets' value also ensure that this value will be highly volatileâ€”rather similar to the fluctuating value of gold, which, like bitcoin, draws a significant part of its value from its scarcity, and like bitcoin, does not play a significant role in today's payments or monetary system.
+Unlike gold, however, which has industrial uses and aesthetic attributes quite apart from its vestigial financial role, bitcoin's principal additional attractions are its novelty and its anonymity.
+The anonymity will make it appropriately the target for increasingly comprehensive scrutiny from law enforcement and the novelty is a rapidly wasting asset.
+Gold will always glitter, but novelty, by definition, fades.
+Bitcoin and its ilk will, accordingly, almost certainly remain a risky and speculative investment rather than a revolutionary means of payment, and they are therefore highly unlikely to affect the role of the U.S. dollar or require a response with a CBDC.
+A second broad argument raised by proponents of CBDCs is that a Federal Reserve CBDC would improve access to digital payments for people who currently do not keep bank accounts because of their expense, a lack of trust in banks, or other reasons.
+This is a worthwhile goal.
+However, I believe we can promote financial inclusion more efficiently by taking steps to make cheap, basic commercial bank accounts more available to people for whom the current cost is burdensome, such as the Bank On accounts developed in collaboration between the Cities for Financial Empowerment Fund and many local coalitions.7 Between 2011 and 2019, the percentage of households that are unbanked dropped from 8.2 percent to an estimated 5.4 percent.8 Banks and regulators are working to shrink this percentage further still.
+I am far from convinced that a CBDC is the best, or even an effective, method to increase financial inclusion.9 Last, some believe that a Federal Reserve CBDC would spur and facilitate private-sector innovation.
+This is an interesting issue that merits further study.
+I am puzzled, however, as to how a Federal Reserve CBDC could promote innovation in a way that a private-sector stablecoin or other new payment mechanism could not.
+It seems to me that there has been considerable private-sector innovation in the payments industry without a CBDC, and it is conceivable that a Fed CBDC, or even plans for one, might deter private-sector innovation by effectively "occupying the field."
+In brief, the potential benefits of a Federal Reserve CBDC are unclear.
+Conversely, a Federal Reserve CBDC could pose significant and concrete risks.
+First, a Federal Reserve CBDC could create considerable challenges for the structure of our banking system, which currently relies on deposits to support the credit needs of households and businesses.
+An arrangement where the Federal Reserve replaces commercial banks as the dominant provider of money to the general public could constrict the availability of credit, fundamentally alter the economy, and expose the public to a host of unanticipated, and undesirable, consequences.10 Among other potential problems, a dominant CBDC could undermine the consumer and other economic benefits that accrue when commercial banks compete to attract customers.
+A Federal Reserve CBDC could also present an appealing target for cyberattacks and other security threats.
+Bad actors might try to steal CBDC, compromise the CBDC network, or target non-public information about holders of CBDC.
+The architecture of a Federal Reserve CBDC would need to be extremely resistant to such threatsâ€”and would need to remain resistant as bad actors employ ever-more sophisticated methods and tactics.
+Designing appropriate defenses for CBDC could be particularly difficult because, compared to the Federal Reserve's existing payment systems, there could be far more entry points to a CBDC networkâ€”depending on design choices, anyone in the world could potentially access the network.11 Critically, we also would need to ensure that a CBDC does not facilitate illicit activity.
+The Bank Secrecy Act currently requires that commercial banks take steps to guard against money laundering.12 Policymakers will need to consider whether a similar anti-money-laundering regime would be feasible for a Federal Reserve CBDC, but it may be challenging to design a CBDC that respects individuals' privacy while appropriately minimizing the risk of money laundering.
+At one extreme, we could design a CBDC that would require CBDC holders to provide the Federal Reserve detailed information about themselves and their transactions; this approach would minimize money-laundering risks but would raise significant privacy concerns.
+At the other extreme, we could design a CBDC that would allow parties to transact on a fully anonymized basis; this approach would address privacy concerns but would raise significant money-laundering risks.
+A final risk is that developing a Federal Reserve CBDC could be expensive and difficult for the Federal Reserve to manage.
+A Federal Reserve CBDC could, in essence, set up the Federal Reserve as a retail bank to the general public.
+That would mean introducing large-scale, resource-intensive central bank infrastructure.
+We will need to consider whether the potential use cases for a CBDC justify such costs and expansion of the Federal Reserve's responsibilities into unfamiliar activities, together with the risk of politicization of the Fed's mandate that would come with such an expansion.
+To conclude, I emphasize three points.
+First, the U.S. dollar payment system is very good, and it is getting better.
+Second, the potential benefits of a Federal Reserve CBDC are unclear.
+Third, developing a CBDC could, I believe, pose considerable risks.
+So, our work is cut out for us as we proceed to rigorously evaluate the case for developing a Federal Reserve CBDC.
+Even if other central banks issue successful CBDCs, we cannot assume that the Federal Reserve should issue a CBDC.
+The process that Chair Powell recently announced is a genuinely open process without a foregone conclusion, although obviously I think the bar to establishing a U.S. CBDC is a high one.
+The upcoming discussion paper that constitutes the first step in this process will importantly ask for input from the public.

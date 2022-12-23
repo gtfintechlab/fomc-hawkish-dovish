@@ -1,0 +1,103 @@
+The industry has indeed evolved over the four-and-one-half years since passage of the Gramm-Leach-Bliley Act--and perhaps in many respects, it has evolved in directions different than some envisioned when the act was under consideration in the Congress.
+Today I would like to discuss the evolution of the industry and the development of innovative products, services, and activities, especially in the areas of complex structured finance transactions and credit risk transfer.
+I will then discuss the role of counsel in ensuring the effective risk management of these innovations through a robust enterprise-wide risk-management framework.
+Industry Evolution and Innovation The Gramm-Leach-Bliley Act recognized the market reality that the limitations imposed by the Glass-Steagall Act in the 1930s and other statutory restrictions had been rendered nearly irrelevant by financial innovation, much of it outside the banking industry.
+Gramm-Leach-Bliley realigned the law to reflect the existing realities of the marketplace and to permit banks to do more efficiently what they were already doing in costly ways.
+The statute relaxed long-standing restrictions on affiliations among commercial banks, securities firms, and insurance companies; authorized the Federal Reserve Board and the Treasury to designate additional financial holding company activities as "financial in nature" or "incidental to a financial activity;" and authorized the Federal Reserve Board to determine whether activities are "complementary to a financial activity."
+To avoid extending to these new activities the subsidy implicit in deposit insurance and in access to the Federal Reserve's discount window and payment system guarantees, the act requires that many of these activities be conducted through a legally separate bank holding company affiliate, provided also that the holding company meets the "well-managed" and "well-capitalized" criteria for designation as a financial holding company.
+When Gramm-Leach-Bliley became law in 1999, many predicted the rise of the financial conglomerate--an entity that would provide a full range of banking, securities, and insurance products and services to institutional and retail customers.
+However, this prediction has not been realized, and the pace of change has been relatively slow since 1999.
+The slow pace is, no doubt, partly a result of the economic slowdown and stock market decline from 2000 to last year.
+But I suspect that these factors do not explain fully why we have not seen the rise of the financial conglomerate.
+Indeed, I suggest that the benefits that might result from running a financial conglomerate are in fact much more difficult to realize than many may have thought.
+True, there are now in excess of 600 domestic financial holding companies.
+But most of these are relatively small.
+Roughly three-quarters of financial holding companies have assets of less than $10 billion.
+Fewer than one-third of all financial holding companies have reported engaging in newly authorized activities, and most of these have opted to engage in relatively well-understood and less-risky insurance agency activities.
+Thus, the activities of most banking organizations have not changed significantly since Gramm-Leach-Bliley.
+However, innovation in financial products and services has continued since Gramm-Leach-Bliley.
+Many of these innovations cross sector boundaries and involve banking, securities, and insurance firms.
+Today, I will talk about two of these innovations: complex structured finance transactions and credit risk transfer.
+Complex Structured Finance Transactions Innovation has occurred in the development of complex structured finance transactions, which have received quite a bit of negative press of late.
+While we are all too aware that recent events have unfortunately highlighted the ways in which complex structured transactions can be used for improper or even fraudulent purposes, these transactions, when designed and used appropriately, can play an important role in financing businesses and mitigating various forms of financial risks.
+Although deal structures vary, complex structured finance transactions generally have four common characteristics.
+First, they typically result in a final product that is nonstandard and is structured to meet a customer's specific financial objectives.
+Second, they often involve professionals from multiple disciplines and may involve significant fees.
+Third, they may be associated with the creation or use of one or more special-purpose entities designed to address the customer's economic, legal, tax, or accounting objectives or the use of a combination of cash and derivatives products.
+Fourth, and perhaps most important, they may expose the financial institution to elevated levels of market, credit, operations, legal, or reputational risk.
+Financial institutions may assume substantial risks when they engage in a complex structured finance transaction unless they have a full understanding of the economic substance and business purpose of the transaction.
+These risks are often difficult to quantify, but the result can be severe damage to the reputations of both the companies engaging in the transactions and their financial advisers--and, in turn, impaired public confidence in those institutions.
+These potential risks and the resulting damage are particularly severe when markets react through adverse changes in pricing for similarly structured transactions that are designed appropriately.
+Assessments of the appropriateness of a transaction for a client traditionally have required financial firms and advisers to determine if the transaction is consistent with the market sophistication, financial condition, and investment policies of the customer.
+Given recent events, it is appropriate to raise the bar for appropriateness assessments by taking into account the business purpose and economic substance of the transaction.
+When banking organizations provide advice on, arrange, or actively participate in complex structured finance transactions, they may assume legal and reputational risks if the end user enters into the transaction for improper purposes.
+Legal counsel to financial firms can help manage legal and reputational risk by taking an active role in the review of the customer's governance process for approving the transaction, of financial disclosures relating to the transaction, and of the customer's objectives for entering into the transaction.
+On the regulatory side, the Federal Reserve has been working with the other federal banking agencies and the Securities and Exchange Commission to develop interagency guidance on complex structured finance transactions.
+We believe it is important for all participants in complex structured finance transactions to understand the agencies' concerns and supervisory direction.
+Our goal is to highlight the "lessons learned" from recent events as well as what we believe on the basis of supervisory reviews and experience, to be sound practices in this area.
+As in other operational areas, strong internal controls and risk-management procedures can help institutions effectively manage the risks associated with complex structured finance transactions.
+Here are some of the steps that financial institutions, with the assistance of counsel and other advisers, should take to establish such controls and procedures: Ensure that the institution's board of directors establishes the institution's overall appetite for risk (especially reputational and legal) and effectively communicates the board's risk tolerances throughout the organization.
+Implement firm-wide policies and procedures that provide for the consistent identification, evaluation, documentation, and management of all risks associated with complex structured finance transactions--in particular, the credit, reputational, and legal risks.
+Implement firm-wide policies and procedures that ensure that the financial institution obtains a thorough understanding of the business purposes and economic substance of those transactions identified as involving heightened legal or reputational risk and that those transactions are approved by appropriate senior management.
+Clearly define the framework for the approval of individual complex structured finance transactions as well as new complex structured finance product lines within the context of the firm's new-product approval process.
+The new-product policies for complex structured finance transactions should address the roles and responsibilities of all relevant parties and should require the approval of all relevant control areas that are independent of the profit center before the transaction is offered to customers.
+Finally, implement monitoring, risk-reporting, and compliance processes for creating, analyzing, offering, and marketing complex structured finance products.
+Subsequent to new-product approval, the firm should monitor new complex structured finance products to ensure that they are effectively incorporated into the firm's risk-control systems.
+Of course, these internal controls and risk-management processses need to be supported and enforced by a strong "tone at the top" and a firm-wide culture of compliance.
+We expect that banks, as a result of recent public and supervisory attention to complex structured finance transactions, will be asking more questions, requesting additional documentation, and scrutinizing financial statements more carefully to guard against reputational and legal risk.
+In fact, our supervisory reviews indicate that many financial institutions have already taken steps to enhance their internal controls and new-product approval processes in order to filter out transactions that pose unacceptable levels of reputational and legal risk.
+As a result, some financial institutions have turned down deals with unfavorable risk characteristics--deals that they might have accepted in the past.
+While we applaud these developments, we hope that the guidance we are developing will help further increase awareness, among both banking organizations and their advisers, of sound practices in this area.
+I would like to note that the guidance the agencies issue should be considered the first step in the evolution of sound practices for complex structured finance transactions.
+As these transactions take on new characteristics or different or heightened levels of risk over time, the sound practices for managing them also will need to evolve.
+Credit Risk Transfer Some of the complex structured finance transactions we have recently seen reflect and incorporate innovations in credit risk transfer mechanisms--credit default swaps and synthetic collateralized debt obligations in particular.
+As most of you know, credit default swaps involve the sale or transfer of credit risk associated with a specific reference entity for a fixed term in exchange for a fee from the buyer of the protection.
+Synthetic collateralized debt obligations entail similar arrangements but are based on portfolios of exposures and are tranched in a manner typically seen in securitizations.
+Credit default swaps and collateralized debt obligations provide flexibility in tailoring and marketing financial transactions to match the risk appetites of investors.
+One aspect that we, as bank supervisors, find encouraging about the growth of credit risk transfer activity is the diversification benefit it provides and its potential for greater economic efficiency.
+By their design, derivative instruments segment risks for distribution to those parties most willing to accept them.
+A key point, however, is that these parties should be able to successfully absorb and diffuse any subsequent loss.
+The ability to handle any losses on these instruments requires a recognition and understanding of the underlying risks.
+It is important to recognize that the market for these instruments is dominated by large institutions and private investors that have specialized expertise in credit analysis and significant historical performance records.
+As bank supervisors, we are also encouraged by the progress made by the legal profession to resolve legal issues relating to credit risk transfer.
+The standardization of documentation for credit derivatives transactions and the issuance of legal opinions regarding the enforceability of these contracts have provided increased certainty to the market.
+In general, the contracts have performed as expected.
+By way of note, the Federal Reserve is participating in work commissioned last year by the Financial Stability Forum to gain a broader understanding of issues related to credit risk transfer.
+I look forward to the conclusions and assessments of this group.
+Little evidence, to date, suggests that the institutions and investors that engage in most of the credit risk transfer activities fail to understand the risks of these transactions.
+That said, I would offer one critical caveat regarding the use of any model for risk- management purposes, including the pricing and risk management of increasingly complex credit risk transfer instruments.
+Models use historic data and rely heavily on supporting assumptions, including correlations between different reference entities.
+It is worth reminding ourselves that correlations may behave very differently during times of stress than under normal circumstances.
+Further, these are relatively young products, and the markets in which they trade often do not have deep liquidity.
+Thus, pricing information can be very volatile.
+Given the heavy reliance on models in this arena, it is important that any risk- management framework include an independent model review program.
+A review should be conducted by qualified independent staff prior to actual reliance on a model, and periodically thereafter.
+Tests should include validation of results, data integrity, and internal controls over changes in model specifications.
+Models should be appropriate for the specific products and the nature of the risks at an institution.
+Enterprise-Wide Risk-Management Framework The recent innovations in credit risk transfer and complex structured finance transactions offer opportunities for the development of new markets, improved pricing, and better risk-transfer mechanisms that can improve the efficiency of U.S. and world financial markets.
+However, innovation also presents risk-management challenges.
+I believe that these challenges are addressed most effectively through an enterprise-wide risk-management framework that provides a structure for dealing with uncertainty and its associated risks and opportunities.
+As you may know, the Committee of Sponsoring Organizations of the Treadway Commission, or COSO, has published an exposure draft that sets forth an enterprise-wide risk-management framework, including the definition and components of risk management and the roles and responsibilities of various parties.
+Enterprise-wide risk management is a process that involves people at every level of the firm in setting strategy and making operational decisions based on an analysis of events that may impact the firm.
+Through an enterprise-wide risk-management framework, an entity can better limit exposures within its risk appetite and provide its management and board of directors with reasonable assurances regarding the achievement of the organization's objectives.
+Recent operational breakdowns at financial institutions underscore the need for enterprise-wide risk-management.
+As organizations expand into more lines of business, inherent conflicts of interest become more likely.
+Conflicts can arise when a firm offers research on fixed-income securities to investors and underwrites the public offerings of the same securities.
+And problems may occur if an organization offers compensation designed to encourage officers to increase deal volume without regard for reputational, credit, or legal risks.
+Thus, the traditional approach of managing risks only within individual business lines or functions may no longer be effective.
+Viewing risks across the enterprise can help management and the board of directors not only articulate more clearly the "most likely" outcome of a strategy, change in process, or transaction but, more important, focus on a range of possible results to facilitate a discussion of risks and effectiveness of processes to lay off or mitigate those risks.
+Internal controls are an integral part of enterprise-wide risk management.
+Under COSO's Internal Control Framework, directors have responsibility for overseeing internal control processes so that they can reasonably expect that their directives will be followed.
+Directors should also keep up with innovations in corporate governance, and this is one key area in which the legal advisers of financial companies can assist their clients.
+Indeed, legal counsel can help lead the way to developing sound practices in corporate governance.
+While we are discussing the importance of effective internal controls, let me point out that the Public Company Accounting Oversight Board (PCAOB) has recently approved Auditing Standard No.
+2, An Audit of Internal Control over Financial Reporting Performed in Conjunction with an Audit of Financial Statements.1 The new standard highlights the benefits of strong internal controls over financial reporting and furthers the objectives of the Sarbanes-Oxley Act.
+The standard requires external auditors of public companies to evaluate the process that management uses to prepare the company's financial statements.
+External auditors must gather evidence regarding the design and operational effectiveness of the company's internal controls and determine whether evidence supports management's assessment of the effectiveness of the company's internal controls.
+While the new standard allows external auditors to use the work of others, including that performed by internal auditors, it emphasizes that external auditors must perform enough of the testing themselves so that their own work provides the principal evidence for making a determination regarding the company's controls.
+On the basis of the work performed, the external auditor must render an opinion as to whether the company's internal control process is effective--a requirement that constitutes a relatively high standard.
+In addition, as part of its overall assessment of internal controls, the external auditor is expected to evaluate the effectiveness of the audit committee.
+If the audit committee is deemed to be ineffective, the external auditor is required to report that assessment to the company's board of directors.
+While some skeptics may wonder if a public accountant will criticize its client, the goals are to strengthen professional standards and to remind accounting firms that acceptance of an engagement at a firm at which internal control weaknesses are not promptly addressed may be a risk exposure they should seriously reconsider.
+I would encourage the attorneys here today to adopt the best practices in risk management that the accounting and financial firms are implementing to improve their organizations' governance.
+Conclusion In conclusion, the financial services industry has evolved considerably over the past several years, in large part because of innovation in products, services, and activities, particularly in the areas of complex structured finance transactions, credit risk transfer, and risk management.

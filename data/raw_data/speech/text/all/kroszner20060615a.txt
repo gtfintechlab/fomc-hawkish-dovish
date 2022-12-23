@@ -1,0 +1,126 @@
+The motivation for my discussion is the current puzzling situation of a relatively flat yield curve combined with relatively low real and nominal long-term interest rates, which has occurred both in developed economies and in emerging markets.
+I will explore some possible explanations for the pattern and will focus on changes in the prospects for and risks to the long-term inflation outlook, particularly in emerging-market economies.
+In particular, I will highlight how financial innovations and international competitive pressures, combined with a better public understanding of the costs of inflation and changes in the institutions of central banking, have helped improve the credibility of central banks and inflation outcomes in many emerging markets.
+Until recently, many emerging-market countries simply did not have a yield curve because there was effectively no market for debt issued in domestic currency beyond a very short horizon.
+The credibility of central banks has been crucial to this deepening of the domestic capital market, which is typically associated with higher economic growth.
+I am optimistic that these developments will continue, as I believe that the move toward low inflation rates reflects important technological and institutional factors that are likely to persist.
+Nevertheless, there are still risks, which underscore the importance of continuing to reap the benefits of improved central bank behavior and credibility in emerging markets and around the world.
+Global Developments in the Bond Market In February 2005, former Federal Reserve Board Chairman Alan Greenspan noted a puzzle in the U.S. economy related to the slope of the yield curve and the level of the long-term interest rate.1 Long-term interest rates had remained low and stable despite a solid economic recovery and a sustained period of monetary policy tightening during which the target federal funds rate went from 1 percent to 2-1/2 percent.
+When he first publicly noted this "conundrum," as he called it, the ten-year Treasury yield was just over 4 percent.
+Today, despite an additional 250 basis points of increase in the target federal funds rate, the nominal ten-year Treasury yield is roughly 5 percent, still very low by historical standards, compared to an average of more than 7-1/2 percent since 1980.
+The combination of a rising short rate and a relatively stable long rate has led to a very flat yield curve.
+During the last quarter-century, for example, the difference between the yield on the ten-year Treasury note and the yield on the three-month Treasury bill has been roughly 1-3/4 percent (or, to be exact, 179 basis points from 1980 to the present).
+During the last year, that difference has been less than 50 basis points and is currently less than half of that.
+Thus, this essentially flat slope is atypical in U.S. experience.
+I am sure that you are all familiar with the simple relationship between short-term and long-term interest rates.
+The yield on a ten-year bond, for instance, can be thought of as a series of consecutive forward rates.
+If you could borrow and lend at the same rate as the U.S. Treasury, then you could lock in a three-month loan ten years from now by borrowing for ten years and three months and simultaneously lending the same principal for ten years.
+The difference between the interest you pay and the interest you earn on this transaction determines the implied forward rate ten years from today.2 The forward rate reflects not only the market expectation of the future short-term interest rate but also a "term premium" to compensate for the risk in committing to extend credit so far in the future, including the risk of future inflation.3 At any point in time, then, we can calculate the short-term forward rate ten years ahead based on the yield curve of U.S. Treasury coupon securities.4 This "far forward" rate makes the conundrum even more puzzling because it reached historically low levels of almost 4-1/4 percent last year, more than 200 basis points below its average since 1990, and has rebounded only somewhat this year.
+In real terms, the far forward rate calculated from inflation-indexed securities is similarly below its long run average.
+The U.S. bond market conundrum has occurred in parallel with similar developments in foreign bond markets.
+In major industrial countries, bond yields have trended down, in some cases reaching historical lows recently.
+Yields are also low in real terms, as measured by inflation-indexed bonds.
+Far-forward short rates in recent years have also reached unusually low levels in many industrial countries.
+The most interesting and, I believe, perhaps least studied recent developments in the bond markets concern the changes in emerging markets.
+While it is well known that the yield spreads on dollar-denominated bonds of emerging-market governments included in the EMBI+ index are near all time lows (even taking into account the recent rise), two phenomena in emerging markets have received less attention.
+One is the development of markets for longer-dated fixed-coupon bonds issued in local currencies.
+This phenomenon is, from my perspective, quite remarkable and belies the assertion that the "original sins" of bad policy from the past have doomed the development of domestic currency bond markets in many emerging markets.
+The recent lengthening of maturities of domestic-currency debt markets has, in many cases, not only extended a yield curve but effectively created a local currency yield curve that simply did not exist earlier.
+Since 2000, ten-year nominal fixed-coupon bonds in local currency have been introduced in Brazil, Colombia, Indonesia, Mexico, and Russia, while Korea issued a ten-year fixed coupon bond in 1995.
+To illustrate in more detail, the governments of Mexico and Korea have been able extend the average maturity of their local-currency debt significantly in just the past few years.
+The Mexican government issued ten-year maturities in 2001 and then 20-year maturities in 2003.
+The proportion of local-currency debt in Mexico maturing within one year was nearly 90 percent in 2002 and is now below 75 percent.
+(I have included floating rate debt in the one-year maturity category.)
+The Korean government continues to increase the proportion of its domestic currency debt in longer maturities, with the one-year-and-under segment falling from roughly one-half in 1999 to one-quarter by the end of last year.
+Two, bond yields in local currencies of emerging-market countries have also declined.
+It is perhaps not surprising that, given their high rates of saving and generally high level of economic development, the governments of Hong Kong and Korea can borrow at close to industrial-country levels.
+More notable, however, is that the Mexican government can borrow in pesos at a ten-year maturity at rates that have averaged roughly 9 percent.
+And Mexico is not unique in this regard.
+Other middle-income emerging markets with ten-year local-currency fixed rate bond yields in the single digits include Chile, Malaysia, Russia, and Thailand, to name but a few.
+For countries with longer maturities, implied short-term interest rates five years ahead also have been declining and have reached very low levels, although there have been some increases in the past few months.
+What is driving these changes?
+There are a number of complementary, not alternative, explanations.
+Explanations for the Low Real Bond Yields Chairman Bernanke has suggested that an excess of ex ante global savings relative to global investment, sometimes referred to as a global savings glut, has held down real interest rates around the world and encouraged capital inflows to the United States.5 Some of the factors behind this savings glut include the surge in revenues of oil and commodity exporters, a reduction in fiscal deficits in some Latin American countries, and a retreat in Asian investment demand from the boom that preceded the late 1990s financial crises while saving rates stayed high in Asia.
+The savings glut story helps to explain the real component of low bond yields as well as the pattern of global capital flows, which was Chairman Bernankeâ€™s focus.
+Another factor behind declining real yields in some emerging markets is that their improved fiscal situation not only increases national saving but also calms fears about the ability of governments to service their debt.
+However, there is also a nominal aspect of low global bond yields.
+In the rest of my talk, I would like to emphasize the worldwide decline of inflation and perceived inflation risk as a key contributor to low nominal bond yields.
+Explanations for the Low Nominal Bond Yields Inflation rates in major industrial and developing regions have trended down over the past twenty-five years.
+Compared with the period 1980 to 1999, median inflation rates from 2000 to 2004 fell from 5 percent to 2 percent in industrialized countries and from 14 percent to 4-1/2 percent in emerging markets, according to the most recent statistics from the International Monetary Fund.
+Not long ago, annual inflation rates in Brazil and Mexico at times exceeded 100 percent.
+But during the past decade, Brazilian and Mexican inflation rates have remained low.
+In particular, inflation in Brazil did not spike up after its financial crises and sharp currency depreciations in the late 1990s.
+Given Brazilâ€™s history of hyperinflation, this stability is especially remarkable.
+Brazil did experience a small spike of inflation around its presidential election in 2002, but even this was minor by historical standards.
+The pattern of low inflation is seen across many countries, large and small.
+A few years ago I did some research that showed how inflation rates around the world have fallen significantly since the 1970s and 1980s, both in terms of averages and medians.6 Indeed, the IMFâ€™s April 2006 World Economic Outlook notes that average inflation rates in both the industrial countries and the developing countries in recent years are at their lowest levels since at least the early 1970s.
+More important, I found that the worst inflation performers (specifically the 10 percent of the countries of the world experiencing the highest inflation) had much lower inflation rates than the worst performers from the 1970s, 1980s, and 1990s.
+Thus, the worst behavior is not as bad as it once was.
+Do markets expect low inflation to persist in the long run?
+To answer this question, we can look at measures of expected inflation.
+Consensus Economics surveys hundreds of professional forecasters in numerous countries each April.
+The surveys allow us to examine forecasts of inflation around the world six to ten years ahead beginning in 1996.
+The latest observation, in April 2006, for example, is the forecast of a given countryâ€™s average consumer price inflation rate from 2012 through 2016.
+For both a representative sample of industrial economies (Euro area, Japan, the United States, and the United Kingdom) and emerging-market economies (Brazil, China, Korea, and Mexico), we observe substantial declines from the late 1990s to today.
+These forecasts have been low and stable in both industrial and many important developing countries in recent years.
+The surveys thus provide one indication that markets do expect low inflation to persist.
+The volatility of inflation has also declined notably, suggesting that perceived inflation risk may have declined as well.
+For the industrial countries, inflation volatility (measured as a twenty-quarter rolling standard deviation of consumer price inflation) has declined from the 1980s to the 1990s to the period since 2000.
+Although it has since drifted up just a bit due to volatility in oil prices, it remains at or near its lowest level in the last quarter-century.
+For the emerging markets, the decline in volatility is even more dramatic.
+Brazil, in particular, was off the chart much of the time before the late 1990s.
+Volatility of inflation in China, Korea, and Mexico is now at levels similar to those of the industrial countries, and volatility in Brazil is not much higher.
+Overall, the combination of lower and less volatile inflation around the world has led to a reduction in inflation expectations and lower perceived inflation risk, hence a lower inflation uncertainty premium in long rates.
+I believe that these factors have been important contributors to the lower long-term yields and the flattening of yield curves, particularly in emerging markets.
+The existence of markets for long-term nominal government and corporate debt is powerful evidence of the faith that investors place in a future environment of price stability.
+Factors Behind the Global Move to Price Stability Four broad factors lie behind the move to price stability, especially in emerging markets, and these factors tend to reinforce each other.
+Each factor affects the cost-benefit tradeoff of pursuing a high-inflation policy.
+The first factor, which gets surprisingly little attention in my view, is financial innovation that alters the ability and incentive of a government to pursue a high-inflation policy.7 I put the innovations into two main categories, developments in information technology and physical dollarization, both of which effectively increase potential competition among currencies.
+Financial innovations make it easier for citizens to move their assets out of the local currency should their government resort to an inflation tax.
+The dollarizations that followed the high-inflation episodes in Latin America and the former Soviet Union, for example, significantly reduced the costs of switching away from a local currency for small-value transactions.
+The specific channels by which financial innovations could have affected competition among currencies are many: Electronic trading and payments technologies enabled investors and banks to shift assets quickly away from currencies prone to inflation and related risks.
+In the 1990s, many countries--including Brazil, Korea, and Mexico--implemented real-time gross settlement payment systems, which allowed markets to rapidly settle payments and other obligations with finality during the day.
+Financial innovations such as credit card networks and money market mutual funds allow households and firms to minimize their holdings of cash and central bank reserves, thus shrinking the base of the inflation tax.
+Increased circulation of banknotes in dollars or other hard currencies enable citizens to conduct transactions without holding inflationary currency.
+Data published on the Federal Reserveâ€™s website show a dramatic increase in the fraction of U.S. Federal Reserve notes that are estimated to be held in foreign countries.
+The fraction of U.S. Federal Reserve notes held abroad rose from under 20 percent in 1980 to almost 50 percent in the late 1990s.
+Given these innovations, a government that pressures a central bank to pursue an inflationary policy gets much less benefit for each unit increase in inflation because people can more easily switch out of the local currency.
+In other words, the inflation tax becomes much more difficult and costly to levy because citizens can more easily avoid the tax by using an alternative money.
+The second and closely related factor behind disinflation is deregulation and competition in a globalized marketplace.
+The collapse of the centrally-planned economies has led many countries to turn increasingly to private markets to deliver growth and progress and reduce the role of government.
+Technology has helped to increase global competition by shrinking the barriers of time and distance.
+Again, there are several channels by which globalization and competition may have affected the cost-benefit tradeoff in pursing inflation: As Kenneth Rogoff pointed out at the 2003 Jackson Hole conference sponsored by the Federal Reserve Bank of Kansas City, greater competition leads to more-flexible prices.8 When prices are more flexible, a central bankâ€™s ability to temporarily influence output is diminished while its influence on inflation is enhanced.
+Thus, more-competitive markets naturally help central banks achieve price stabilization.
+Increased travel has expanded the opportunities for citizens to set up financial accounts in foreign countries, thereby contributing to currency competition in a manner similar to financial innovation.
+Satellite television and the internet have heightened public awareness of conditions abroad, educated citizens about financial opportunities elsewhere, and raised pressure on politicians not to place limits on these opportunities.
+Deregulation of the financial sector spurs the types of financial innovation that I have already discussed and allows for more cross-border flows and greater competition among different types of currencies and assets.
+The third factor is that economists and the public have learned from painful experience about the costs of inflation.9 The end of the Bretton Woods gold standard in the early 1970s was associated with the first global and sustained peacetime inflation in history.
+Although the specific experiences differed across countries, public opinion eventually turned strongly against allowing inflation to continue, and policymakers responded to this pressure by taking stronger measures to achieve price stability.
+This learning process helped to drive some of the financial innovations that I discussed earlier, which, in turn, helped households and businesses to economize on holding inflationary assets.
+Economists and central bankers also devoted great attention to understanding the causes and consequences of inflation, providing the intellectual underpinning to policies oriented toward price stability.
+The fourth factor I wish to mention relates to changes in the institutions of central banking that may have increased the costs of pursuing high-inflation policies.
+The most notable change is the increased independence of many central banks and the corresponding reduced control of the fiscal authorities over monetary policy.
+Central bank independence reduces the ability of a government to "raid the cookie jar" through a surprise inflation tax.
+In most cases, central bank independence can be reversed by a majority vote of parliament.
+But having to resort to such a vote is a greater obstacle to inflationary finance than previous arrangements allowed, especially given the publicâ€™s increased sensitivity and aversion to inflation.
+Central bank independence has typically been granted in conjunction with an explicit mandate that makes achieving low and stable inflation one of the goals of monetary policy.
+Central bank independence with a mandate that includes price stability increases the credibility of monetary policy with regard to achieving low inflation.
+Policy is credible because the central bankâ€™s objectives are clear to the public and the central bank can be held accountable for failing to achieve its objectives.
+When citizens are more aware of the costs of inflation and when governments would reap lower benefits from a high-inflation policy, institutional reforms that will make central banks more credible and independent may be more likely to be adopted and sustained.10 The fundamental forces I mentioned earlier--financial innovation, deregulation, globalization, and public understanding about the costs of inflation--provided the impetus for fighting inflation and opened the political path to institutional reforms, such as central bank independence, that enhance central bank credibility.
+Once in place, these reforms made further progress against inflation easier and raised the costs of backsliding.
+As the benefits of stable prices accrue and as financial markets deepen and become more sophisticated, the benefits of sound economic policies will help to create support for institutional reforms that make returning to inflation harder for future governments.
+Benefits of Price Stability While it is well known that low and stable inflation improves the environment for investment planning and avoids many costs and disruptions associated with frequent price adjustments, I want to focus on a few of the many benefits that are particularly relevant for emerging markets.
+Price stability boosts growth through deepening financial markets.
+With stable prices, savers and investors have more confidence about the ultimate value of their deposits and loans.
+Stable prices encourage the growth of financial intermediaries and financial markets.
+As noted above, many emerging markets have recently experienced a deepening of their local financial markets with greater issuance of longer-dated paper.
+According to numerous studies, there is a strong link between financial market development and economic growth.
+Thus, the greater credibility of central banks that permits more development of the local markets can have an economic benefit beyond the financial sector.11 The development of long-term local-currency bond markets may also help governments and firms plan long-term infrastructure and investment projects that boost economic development.
+Although such debt markets are only one of many factors that can lower the costs of long-term planning and enhance the ability to undertake long-term investments, the development of these markets, particularly when accompanied by lower real rates, help to support longer-horizon projects and reduce the effect of foreign exchange movements on such activities.
+A better fiscal outlook, which might arise from higher and more stable growth as well as better long-term planning, also increases financial market confidence and development and thus further boosts growth and reinforces prospects for continued price stability.
+This virtuous cycle appears to be happening in key emerging markets that were long plagued with poor fiscal situations, such as Brazil and Mexico.
+In the 1980s and early 1990s, for example, public sector deficits in these countries often exceeded 10 percent of GDP.
+Since the late 1990s, deficits have been diminished.
+Maintaining this Progress Although I am an optimist, I would be remiss if I did not point out some risks to this otherwise rosy scenario.
+The difficulty of reaching agreement in the Doha Round of trade negotiations highlights the risk of renewed protectionism.
+Trade barriers reduce both domestic and international competition, one of the key factors behind low inflation, and make all countries poorer.

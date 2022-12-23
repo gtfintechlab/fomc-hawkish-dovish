@@ -1,0 +1,145 @@
+They suggested that events associated with the failure of Enron have refocused attention on a number of accounting issues.1 In an economy as large, diverse, and complex as ours, sound corporate governance-- including the accurate measurement of corporate performance--is essential if our nation's resources are to be directed to their most efficient uses.
+There can be little doubt that, on the whole, both, as employed in the United States in recent decades, have been of very high quality.
+We simply could not have achieved our level of economic performance if capital were allocated on the basis of grossly inaccurate information.
+But the very complexity and dynamism of our system requires that we constantly evaluate the tools employed for measuring corporate performance to ensure that they adapt appropriately to the evolving financial and economic environment.
+In that regard, the increasing use of stock option grants to employees has raised new challenges for our accounting system.
+Such options are important to the venture capital industry, and many in high-tech industries have counselled against making any changes to current practices.
+They argue that the use of options is an exceptionally valuable compensation mechanism; that recognizing an expense associated with these grants would reduce the use of options, harming high-tech companies; that the effect of options on fully diluted earnings per share is already recognized; and that we cannot measure the costs of options with sufficient accuracy to justify their recognition on financial statements.
+These are important concerns.
+This morning, I would like to address them and other related issues.
+The seemingly narrow accounting matter of option expensing is, in fact, critically important for the accurate representation of corporate performance.
+And accurate accounting, in turn, is central to the functioning of free-market capitalism--the system that has brought such a high level of prosperity to our country.
+Capitalism expands wealth primarily through creative destruction--the process by which the cash flow from obsolescent, low-return capital is invested in high-return, cutting-edge technologies.
+But for that process to function, markets need reliable data to gauge the return on assets.
+Measures of profitability, however, can only be approximate.
+Although most pretax profits reflect cash receipts less cash costs, a significant part of profits results from changes in the valuation of items on the balance sheet.
+The values of almost all assets are based on their ability to produce future income.
+But an appropriate assessment of asset value depends critically on a forecast of forthcoming events, which by their nature are uncertain.
+A bank, for example, books interest paid on a loan as current revenue.
+However, if the borrower subsequently defaults, that presumed interest payment would, in retrospect, be seen as a partial return of principal and not as income.
+We seek to cope with this uncertainty by constructing loan-loss reserves, but the adequacy of those reserves is also subject to a forecast.
+Similarly, depreciation charges against income, based on book values, are very crude approximations of the decline in the economic value of physical plant and equipment.
+The actual decline will not be known until the asset is retired or changes ownership.
+Another example is the projection of future investment returns on defined-benefit pension plans, which markedly affects corporate pension contributions and, hence, pre-tax profits.
+Thus, how one chooses to evaluate the future income potential of the balance sheet has a significant effect on current reported earnings.
+The estimation of earnings is difficult enough without introducing biases into the calculation.
+I fear that the failure to expense stock option grants has introduced a significant distortion in reported earnings--and one that has grown with the increasing prevalence of this form of compensation.
+As I noted at the outset, some view the current treatment of option grants as having been a major aid in raising capital to finance the rapid exploitation of advanced technologies.
+While the vital contribution of new technology to the growth of our economy is evident to all, not all new ideas create value on net.
+Not all new ideas should be financed.
+In recent years, substantial capital arguably was wasted on a number of enterprises whose prospects appeared more promising than they turned out to be.
+This waste is an inevitable byproduct of the risk-taking that generates the growth in our economy.
+However, the amount of waste becomes unnecessarily large when the earnings reports that help investors allocate investment are inaccurate.
+Stock-option grants, properly constructed, can be highly effective in aligning the interests of corporate officers with those of shareholders.
+Such an alignment is an essential condition for maximizing the long-term market value of the firm.
+Regrettably, some current issuance practices have not created the alignment of incentives that encourages desired corporate behavior.
+One problem is that stock options, as currently structured, often provide only a loose link between compensation and successful management.
+A company's share price, and hence the value of related options, is heavily influenced by economy-wide forces--that is, by changes in interest rates, inflation, and myriad other forces wholly unrelated to the success or failure of a particular corporate strategy.
+There have been more than a few dismaying examples of CEOs who nearly drove their companies to the wall and presided over a significant fall in the price of the companies' stock relative to that of their competitors and the stock market overall.
+They, nonetheless, reaped large rewards because the strong performance of the stock market as a whole dragged the prices of the forlorn companies' stocks along with it.
+Stock or options policy should require that rewards reflect the success or failure of managements' decisions.
+Grants of stock or options in lieu of cash could be used more effectively by tying such grants through time to some measure of the firm's performance relative to a carefully chosen benchmark.
+Many corporations do tie the value of stock and option grants to relative performance, but most do not.
+To be sure, an untied option grant can be thought of as an option whose value moves with the performance of the corporation relative to the competition, coupled with a call option on, for example, the S&P 500 stock index.
+It can be argued that the latter is merely another form of compensation that helps firms retain valued employees.
+I am sure that is right, but does a compensation system tied to the overall stock market serve a company well?
+* * * Let me now turn to option accounting.
+A stock option is a unilateral grant of value from existing shareholders to an employee.
+It is a transfer through the corporation of part of the market capitalization owned by existing shareholders.
+The grant is made to acquire the services of the employee, and presumably has a value equivalent to the cash or other compensation that would have been required to obtain those services--what economists call the opportunity cost of employing those services.
+That value is obviously a function of when, and under what conditions, the option can be exercised.
+To assess the cash equivalent of the option, only the market value of the option at the time of the grant matters.
+Subsequent changes in the value of the option are not relevant to the exchange of labor services for value received, just as future changes in the purchasing power of cash received for services rendered do not affect the firm's compensation costs.
+The accurate measurement of input costs is essential for determining whether the corporation earned a profit from its current activities.
+That determination was relatively straightforward when all receipts were cash and all expenses were cash costs.
+But, changes in balance-sheet valuations based on fragile forecasts have become a more important element in determining whether a particular corporate strategy was successful.
+And, as a consequence, cost estimation has become ever more problematic.
+But the principle of measuring profit as the value of output less the value of input is not altered by the complexity of measurement.
+To assume that option grants are not an expense is to assume that the real resources that contributed to the creation of the value of the output were free.
+Surely the existing shareholders who granted options to employees do not consider the potential dilution of their share in the market capitalization of their corporation as having no cost to them.
+The particular instrument that is used to transfer value in return for labor services is irrelevant.
+Its value is not.
+Abstracting from tax considerations, one must assume that the value is the same for the employer irrespective of the nature of the instrument that conveys it--which could be cash or its value equivalent in the form of stock, free rent, a college annuity for one's children, or an option grant.
+The ability of options to substitute for cash obviously rests on an expectation by an employee that the price of the company's stock will rise.
+Expectations of stock price movements, in turn, appear to be significantly influenced by recent stock price behavior.
+Thus, there is little surprise that stock options gained considerable favor as a form of compensation with the steep rise in stock prices in the late 1990s.
+Similarly, one might reasonably expect that in an environment with slower stock price gains, option grants would no longer be so favorably viewed by employees as a substitute for cash.
+As a consequence, more cash or its equivalent might then be required to fund labor services.
+One may argue that, because option grants are fully disclosed and their effect on earnings can, with some effort, be estimated reasonably well, financial markets in their collective wisdom see through the nature of any bookkeeping transactions.
+Hence, how expenses and profits are reported is of no significance, because nothing in the real world is altered.
+Cash flows, for example, are unaffected.
+The upshot of this reasoning is that stock prices should be unaffected by whether option grants are expensed or not.
+Clearly, most high-tech executives believe otherwise.
+How else does one explain their vociferous negative reaction to expensing if its only effect were to change the book profit reported to shareholders?
+I fear they may be right.
+Indeed, most American businesspeople must believe expensing is more than bookkeeping.
+Current accounting rules encourage firms to expense option grants.
+However, only two of the S&P 500 firms reportedly chose to do so in the year 2000.
+If expensing does indeed matter, at least some of the unsustainable euphoria that surrounded dot-com investing at its peak may have been exacerbated by questionable reported earnings.
+The measure of diluted earnings per share currently reported by corporations partially reflects the number of shares that employees could obtain with vested but, as yet, unexercised options.
+Some have maintained that this is all that is required to capture the effects of option grants.
+Clearly, this adjustment corrects only the denominator of the earnings per share ratio.
+It is the estimation of the numerator that the accounting dispute is all about.
+Some have argued against option expensing on the grounds that the Black-Scholes formula, the prevailing means of estimating option expense, is approximate.
+It is.2 But, as I indicated earlier, so is a good deal of all other earnings estimation.
+Moreover, every corporation already implicitly reports an estimate of option expense on its income statement.
+That number for most companies, of course, is exactly zero.
+Are option grants truly without value?
+As I noted earlier, critics of option expensing have also argued that expensing will make raising capital more difficult.
+But we need to remember that expensing is only a bookkeeping transaction.
+To repeat, nothing real is changed in the actual operations or cash flow of the corporation.
+If investors are dissuaded by lower reported earnings as a result of expensing, it means only that they were less informed than they should have been about the true input cost of creating corporate revenues.
+Capital employed on the basis of misinformation is likely to be capital misused.
+Critics of expensing also argue that the availability of options enables corporations to attract more-productive employees.
+I am sure that is true.
+But option expensing in no way precludes the issuance of options.
+To be sure, lower reported earnings as a result of expensing, should it temper stock price increases, could inhibit option issuance.
+But, again, that inhibition would be appropriate because it would reflect the correction of misinformation.
+It is no more valid, in my judgment, to assume that option grant expense is zero than to arbitrarily assume depreciation charges are zero.
+Both assumptions, excluding interest, increase reported pretax earnings.
+Both imply that the inputs that produce valued corporate outputs are free.
+* * * One issue that has complicated the discussion of option expensing is the different way it is handled for tax accounting.
+Under tax law, when options are exercised, the value realized by an employee--that is, the difference between the share price and the strike price--is a deductible compensation expense for the company.
+The amount of this compensation for tax purposes reflects a rise in the price of the stock after the option grant.
+Any such price changes are of no relevance in judging the cost of purchasing labor services, though they do affect the tax liability and possibly the after-tax earnings reported to shareholders of the firm that granted the option.3 How capital gains and losses associated with these transactions should be reflected in reported earnings is a separate issue.
+* * * I want to emphasize that expensing in no way inhibits the legal authority to issue options.
+Yes, if investors take currently reported earnings as real, expensing will reduce a corporation's perceived earnings and conceivably its stock price.
+Employees, accordingly, will consider options less valuable and presumably fewer will be issued.
+But confusing markets is neither helpful nor permanent.
+If underlying corporate input costs are real, they cannot be obscured indefinitely.
+As I indicated earlier, the continued popularity among employees of option grants as a substitute for cash compensation requires a persistent expected uptrend in a company's stock price.
+Should compensation shift more to cash, the trend in reported earnings growth would decline relative to an earnings trend in which options have always been expensed.
+Such a shift presumably would make option expensing more attractive to the corporation.
+* * * With an accounting system that is, or should be, measuring the success or failure of individual corporate strategies, the evolution of accounting rules is essential as the nature of our economy changes.
+As the measurement needs change, rules must change with them.
+This does not lend itself to hard-wired legislation, which makes flexibility of rule-making difficult.
+We would be best served, in my judgment, by leaving issues such as option grant expense to regulatory bodies and the private sector.
+There is a legitimate question as to whether markets see through the current nonexpensing of options.
+If they do, moving to an explicit recognition of option expense in reported earnings will be a nonevent.
+The format of reports to shareholders will change somewhat, but little more will be involved.
+Making an estimate of option expense requires no significant additional burden to the company.
+If, however, markets do not fully see through the failure to expense real factor inputs, market values are distorted and real capital resources are being diverted from their most efficient employment.
+This would be an issue of national concern.
+Clearly then, the greater risk is to leave the current accounting treatment in place.
+If markets have seen through the accounting, required expensing of option grants will have no effect on the nation's capital allocation.
+If, however, expensing does affect market values, a continuation of current accounting practice could be costly to capital efficiency.
+Some very notable developments in our corporate sector in recent years, most strikingly evident in the collapse of Enron, have unearthed deficiencies in corporate governance.
+These are being addressed through market repricing and regulatory initiatives.
+Despite evident shortcomings that have emerged from time to time, as I noted at the outset, we should not lose sight of the fact that these arrangements over the decades have effectively promoted the allocation of the nation's savings to its most productive uses.
+Generally speaking, the structure of business incentives, reporting, and accountability has served us well.
+I am confident that we will make the changes needed to ensure that these structures continue to serve us well in the future.
+Notes 1.
+On topics such as nonfinancial corporate governance and accounting, which are not in the Federal Reserve Board's jurisdiction, I am obviously speaking for myself.
+Return to text 2.
+Expensing stock options is required to record the economic cost of labor services purchased with option grants.
+But like all such balance-sheet-related costs (depreciation, for example), their final accounting disposition can often take years.
+The reason is that future movements in the price of the underlying stock will create capital gains or losses in the stock option between the time of grant and expiration.
+Such changes do not alter the economic cost, but depending on how the corporation chooses to hedge option grants, these changes can affect the net worth of the corporation.
+The issue does not arise with grants of stock because all capital gains and losses after issuance accrue to the employee.
+In addition, this issue would not arise with option grants if the corporation fully hedged its exposure to post-grant capital gains and losses.
+The corporation could do this, in principle, by purchasing a call option on its stock that was identical in all respects to the granted option and then selling that call option at the same time that the employee exercises his or her option.
+Of course, the call options needed to execute this hedge are difficult to arrange.
+Given this difficulty, many corporations partially hedge their position by repurchasing their shares in the open market, which leaves them exposed to some post-grant gains and losses.
+And, to be sure, many other corporations choose not to hedge their option grants at all.
+But these are accounting issues that are unrelated to the economic cost of an option at time of grant.
+They are among the myriad balance-sheet valuation adjustments that endeavor to address the ongoing impact of market valuation changes on all assets and liabilities.
