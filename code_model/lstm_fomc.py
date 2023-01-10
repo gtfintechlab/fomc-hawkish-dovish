@@ -1,25 +1,33 @@
-import pandas as pd
+import re
+import os
+
 import numpy as np
+import pandas as pd
 import matplotlib.pyplot as plt
 from nltk.tokenize import word_tokenize
-import string
+import sklearn.model_selection as sk
+import sklearn.metrics as skm
 
-import seaborn as sns
+# Text pre-processing
 import tensorflow as tf
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import classification_report, confusion_matrix
+from tensorflow.keras.preprocessing.text import Tokenizer
+from tensorflow.keras.preprocessing.sequence import pad_sequences
+from tensorflow.keras.callbacks import EarlyStopping
 
-import keras
-from keras import Model, metrics
-import keras.engine as KE
-from keras.models import Sequential
-from keras.layers import Dense, Dropout, LSTM, Embedding
+# Modeling
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import LSTM, GRU, Dense, Embedding, Dropout, GlobalAveragePooling1D, Flatten, \
+    SpatialDropout1D, Bidirectional
+import string
+from string import digits
+import os
 
 # -----------------------------------------------------------
-df = pd.read_excel('/Users/suvanpaturi/Documents/Meeting-Minutes-Datasets/manual.xlsx')
+
+output_dir = "../lstm_results/"
 pd.set_option('display.max_rows', 500)
 
-
+'''
 def plot_history(history):
     # summarize history for accuracy
     plt.plot(history.history['accuracy'])
@@ -37,106 +45,134 @@ def plot_history(history):
     plt.xlabel('epoch')
     plt.legend(['train', 'validation'], loc='upper left')
     plt.show()
+'''
 
 
 def get_max_length(df):
     max = 0
     for index, row in df.iterrows():  # format sentence for tokenization
-        sentence = row['sentence'].replace(",", " ").replace(".", " ") \
-            .replace(";", " ").replace("\n", "").translate(str.maketrans('', '', string.punctuation))
+        sentence = row['sentence'].replace(",", "").replace(".", " ") \
+            .replace("—", " ").replace("â€", "").replace("  ", " ") \
+            .replace(";", "").replace("\n", " ").translate(str.maketrans('', '', string.punctuation))
         words = word_tokenize(sentence)
         if len(words) > max:
             max = len(words)
     return max
 
 
-def define_vocab(df):
-    text = ""
-    for index, row in df.iterrows():  # format sentence for tokenization
-        text += row['sentence']
-    text = text.replace(",", "").replace(".", " ") \
-        .replace(";", "").replace("\n", "")  # remove new line and separate sentences
-    text = text.translate(str.maketrans('', '', string.punctuation))
-    # print(text)
-    tokens = list(set(word_tokenize(text)))
-    # print(tokens)
+def run_lstm(train, test, max_len, seed, epoch_val, b_size):
+    train, valid = sk.train_test_split(train, train_size=0.8, random_state=seed)
 
-    vocab = dict((token, i + 1) for i, token in enumerate(tokens))
-    # print(vocab)
-    return vocab
+    X_train = train['sentence'].tolist()
+    Y_train = train['label']
+
+    X_test = test['sentence'].tolist()
+    Y_test = test['label']
+
+    X_valid = valid['sentence'].tolist()
+    Y_valid = valid['label']
+
+    trunc_type = 'post'
+    padding_type = 'post'
+    oov_tok = '<OOV>'  # out of vocabulary token
+    vocab_size = 2000
+    tokenizer = Tokenizer(num_words=vocab_size, char_level=False, oov_token=oov_tok)
+    tokenizer.fit_on_texts(X_train)
+    word_index = tokenizer.word_index
+    total_words = len(word_index)
+
+    # Padding
+    train_sequences = tokenizer.texts_to_sequences(X_train)
+    train_padded = pad_sequences(train_sequences,
+                                 maxlen=max_len,
+                                 padding=padding_type,
+                                 truncating=trunc_type)
+    test_sequences = tokenizer.texts_to_sequences(X_test)
+    test_padded = pad_sequences(test_sequences,
+                                maxlen=max_len,
+                                padding=padding_type,
+                                truncating=trunc_type)
+    valid_sequences = tokenizer.texts_to_sequences(X_valid)
+    valid_padded = pad_sequences(valid_sequences,
+                                 maxlen=max_len,
+                                 padding=padding_type,
+                                 truncating=trunc_type)
+    print('Shape of train tensor: ', train_padded.shape)
+    print('Shape of test tensor: ', test_padded.shape)
+    print('Shape of valid tensor: ', valid_padded.shape)
+
+    # Define parameter
+    embedding_dim = 16
+    batch_size = b_size
+    epochs = epoch_val
+
+    # Define Dense Model Architecture
+    model = Sequential()
+    model.add(Embedding(vocab_size,
+                        embedding_dim,
+                        input_length=max_len,
+                        mask_zero=True))
+    # model.add(LSTM(4, return_sequences=False))  # LSTM, comment out when switching
+    model.add(Bidirectional(LSTM(4, return_sequences=False))) #Bi-LSTM
+    model.add(Dense(5, activation='relu'))
+    model.add(Dropout(0.7))
+    model.add(Dense(3, activation='sigmoid'))
+    model.compile(loss='sparse_categorical_crossentropy', optimizer='adam', metrics=['accuracy'])
+    model.summary()
+    history = model.fit(train_padded, Y_train, validation_data=(valid_padded, Y_valid), epochs=epochs, shuffle=True,
+                        verbose=1, batch_size=batch_size)
+    res = model.predict(test_padded)
+    res = res.argmax(axis=-1)
+    print(res)
+    cp = skm.classification_report(Y_test.tolist(), res, output_dict=True)
+
+    val_acc = history.history['val_accuracy'][-1]
+    test_acc = cp['weighted avg']['f1-score']
+
+    return val_acc, test_acc
 
 
-def word_vector(df, vocab_dict, max_length):
-    word_vector = []
-    for index, row in df.iterrows():  # format sentence for tokenization
-        w_vector = []
-        sentence = row['sentence'].replace(",", " ").replace(".", " ") \
-            .replace(";", " ").replace("\n", " ").translate(str.maketrans('', '', string.punctuation))
-        words = word_tokenize(sentence)
-        for word in words:
-            w_vector.append(vocab_dict.get(word, 0))
-        if len(w_vector) < 189:
-            while len(w_vector) != 189:
-                w_vector.append(0)
-        elif len(w_vector) >= 189:
-            w_vector = w_vector[0:189]
-        word_vector.append(w_vector)
-    return word_vector
+# Hyperparameters
+epochs = [10, 20, 30]
+batch_sizes = [4, 8, 16, 32]
 
+res_df = {"Dataset": [],
+          "Seed": [],
+          "Epoch": [],
+          "Batch-Size": [],
+          "Val-Acc": [],
+          "Test-Acc": []}
 
-# Data Extraction & Split
-train, test = train_test_split(df, test_size=0.2, random_state=1)  # 80% Training, 20% Test split with seed of 1
-train, valid = train_test_split(train, test_size=0.2, random_state=1)
-data_vocab = define_vocab(df)  # build vocab from whole dataset
-data_max = get_max_length(df)  # get max number of words for sentence
+# Run LSTM for each file and store results for hyperparameter combinations
+train_dir = sorted(os.listdir("../training_data/test-and-training/training_data/"))
+test_dir = sorted(os.listdir("../training_data/test-and-training/test_data/"))
+remove_digits = str.maketrans('', '', digits)
 
-# input or x for training set
-X_train_vector = word_vector(df=train, vocab_dict=data_vocab, max_length=data_max)
-# input or x for test set
-X_test_vector = word_vector(df=test, vocab_dict=data_vocab, max_length=data_max)
-X_valid = word_vector(df=valid, vocab_dict=data_vocab, max_length=data_max)
+for f in range(len(train_dir)):
+    name = train_dir[f].replace(".xlsx", "").replace("-train", "")
+    seed = int(re.findall("\d+", name)[0])
+    base_name = name.translate(remove_digits)[:-1]
+    print(name), print(seed), print(base_name)
 
-Y_train_vector = [[label] for label in train['label']]  # output or y for training set
-Y_test_vector = [[label] for label in test['label']]  # output or y for test set
-Y_valid = [[label] for label in valid['label']]
-# print(X_train_vector)
-# print(Y_train_vector)
-# print("------------------------")
-# print(X_test_vector)
-# print(Y_test_vector)
+    train = pd.read_excel("../training_data/test-and-training/training_data/" + train_dir[f], index_col=False)
+    test = pd.read_excel("../training_data/test-and-training/test_data/" + test_dir[f], index_col=False)
+    max_len = get_max_length(train)
 
+    for e in epochs:
+        for b in batch_sizes:
+            val_acc, test_acc = run_lstm(train=train, test=test, max_len=max_len,
+                                         seed=seed, epoch_val=e, b_size=b)
+            print(val_acc),print(test_acc)
+            res_df['Dataset'].append(base_name)
+            res_df['Seed'].append(seed)
+            res_df['Epoch'].append(e)
+            res_df['Batch-Size'].append(b)
+            res_df['Val-Acc'].append(val_acc)
+            res_df['Test-Acc'].append(test_acc)
 
-pd.DataFrame(Y_test_vector).to_csv('y_test.csv', index=False)
-pd.DataFrame(Y_train_vector).to_csv('y_train.csv', index=False)
-pd.DataFrame(Y_valid).to_csv('y_valid.csv', index=False)
+os.environ["CUDA_VISIBLE_DEVICES"] = str("0")
 
-pd.DataFrame(X_train_vector).to_csv('x_train.csv', index=False)
-pd.DataFrame(X_test_vector).to_csv('x_test.csv', index=False)
-pd.DataFrame(X_valid).to_csv('x_valid.csv', index=False)
-
-X_train_vector = pd.read_csv('x_train.csv')
-X_test_vector = pd.read_csv('x_test.csv')
-X_valid= pd.read_csv('x_valid.csv')
-
-Y_train_vector = pd.read_csv('y_train.csv')
-Y_test_vector = pd.read_csv('y_test.csv')
-Y_valid = pd.read_csv('y_valid.csv')
-
-# Build Model
-vocab_size = len(data_vocab)  # size of vocab
-# each sentence is 189 values long
-# ouput is one label
-
-model = Sequential()
-model.add(Embedding(input_dim=vocab_size + 1, input_length=189, output_dim=4))
-model.add(Dropout(rate=0.4))
-model.add(LSTM(units=4))
-model.add(Dropout(rate=0.4))
-model.add(Dense(units=100, activation='relu'))
-model.add(Dropout(rate=0.5))
-model.add(Dense(units=4, activation='sigmoid'))
-model.summary()
-model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
-
-lstm = model.fit(X_train_vector, Y_train_vector, validation_data = [X_valid, Y_valid], epochs=5)
-plot_history(lstm)
+print(res_df)
+t = pd.DataFrame(res_df).groupby(['Dataset', "Epoch", "Batch-Size"], as_index=False)[['Val-Acc', 'Test-Acc']].mean()
+# t.to_excel("../grid_search_results/lstm_results/results.xlsx", index=False)
+t.to_excel("../grid_search_results/bilstm_results/results.xlsx", index=False)
