@@ -2,7 +2,7 @@ import os
 import sys
 from time import time, sleep
 import pandas as pd
-from transformers import BertForSequenceClassification, BertTokenizerFast, RobertaTokenizerFast, RobertaForSequenceClassification, AutoTokenizer, AutoModelForSequenceClassification
+from transformers import BertForSequenceClassification, BertTokenizerFast, RobertaTokenizerFast, RobertaForSequenceClassification, AutoTokenizer, AutoModelForSequenceClassification, XLNetForSequenceClassification, XLNetTokenizerFast
 import torch
 from torch.utils.data import TensorDataset, DataLoader
 import torch.optim as optim
@@ -48,9 +48,12 @@ def train_lm_hawkish_dovish(gpu_numbers: str, train_data_path: str, test_data_pa
             tokenizer = RobertaTokenizerFast.from_pretrained('roberta-large', do_lower_case=True, do_basic_tokenize=True)
         elif language_model_to_use == 'pretrain_roberta':
             tokenizer = AutoTokenizer.from_pretrained("../pretrained_roberta_output", do_lower_case=True, do_basic_tokenize=True)
+        elif language_model_to_use == 'xlnet':
+            tokenizer = XLNetTokenizerFast.from_pretrained("xlnet-base-cased", do_lower_case=True, do_basic_tokenize=True)
         else:
             return -1
-    except:
+    except Exception as e:
+        print(e)
         sleep(600)
         if language_model_to_use == 'bert':
             tokenizer = BertTokenizerFast.from_pretrained('bert-base-uncased', do_lower_case=True, do_basic_tokenize=True)
@@ -68,6 +71,8 @@ def train_lm_hawkish_dovish(gpu_numbers: str, train_data_path: str, test_data_pa
             tokenizer = RobertaTokenizerFast.from_pretrained('roberta-large', do_lower_case=True, do_basic_tokenize=True)
         elif language_model_to_use == 'pretrain_roberta':
             tokenizer = AutoTokenizer.from_pretrained("../pretrained_roberta_output", do_lower_case=True, do_basic_tokenize=True)
+        elif language_model_to_use == 'xlnet':
+            tokenizer = XLNetTokenizerFast.from_pretrained("xlnet-base-cased", do_lower_case=True, do_basic_tokenize=True)
         else:
             return -1
 
@@ -119,6 +124,8 @@ def train_lm_hawkish_dovish(gpu_numbers: str, train_data_path: str, test_data_pa
             model = RobertaForSequenceClassification.from_pretrained('roberta-large', num_labels=3).to(device)
         elif language_model_to_use == 'pretrain_roberta':
             model = AutoModelForSequenceClassification.from_pretrained("../pretrained_roberta_output", num_labels=3).to(device)
+        elif language_model_to_use == 'xlnet':
+            model = XLNetForSequenceClassification.from_pretrained("xlnet-base-cased", num_labels=3).to(device)
         else:
             return -1
     except:
@@ -139,6 +146,8 @@ def train_lm_hawkish_dovish(gpu_numbers: str, train_data_path: str, test_data_pa
             model = RobertaForSequenceClassification.from_pretrained('roberta-large', num_labels=3).to(device)
         elif language_model_to_use == 'pretrain_roberta':
             model = AutoModelForSequenceClassification.from_pretrained("../pretrained_roberta_output", num_labels=3).to(device)
+        elif language_model_to_use == 'xlnet':
+            model = XLNetForSequenceClassification.from_pretrained("xlnet-base-cased", num_labels=3).to(device)
         else:
             return -1
 
@@ -284,14 +293,14 @@ if __name__=='__main__':
     start_t = time()
 
     # experiments
-    for language_model_to_use in ["roberta", "roberta-large", "bert", "bert-large", "finbert", "flangbert", "flangroberta", "pretrain_roberta"]:
-        for data_category in ["lab-manual-sp", "lab-manual-mm", "lab-manual-pc", "lab-manual-combine", "lab-manual-mm-split", "lab-manual-pc-split", "lab-manual-sp-split", "lab-manual-split-combine"]:
+    for language_model_to_use in ["roberta", "roberta-large", "bert", "bert-large", "finbert", "flangbert", "flangroberta"]: #["xlnet", "pretrain_roberta"]:#
+        for data_category in ["lab-manual-combine", "lab-manual-sp", "lab-manual-mm", "lab-manual-pc", "lab-manual-mm-split", "lab-manual-pc-split", "lab-manual-sp-split", "lab-manual-split-combine"]:
             train_data_path_prefix = "../training_data/test-and-training/training_data/" + data_category + "-train"
             test_data_path_prefix = "../training_data/test-and-training/test_data/" + data_category + "-test"
             train_lm_price_change_experiments(gpu_numbers="0", train_data_path_prefix=train_data_path_prefix, test_data_path_prefix=test_data_path_prefix, language_model_to_use=language_model_to_use, data_category=data_category)
     
 
-    
+    '''
     # save model
     seed = 944601
     language_model_to_use = "roberta-large"
@@ -300,5 +309,6 @@ if __name__=='__main__':
     output = train_lm_hawkish_dovish(gpu_numbers="0", train_data_path=train_data_path, test_data_path=test_data_path, 
     language_model_to_use=language_model_to_use, seed=944601, batch_size=4, learning_rate=1e-6, save_model_path=save_model_path)
     print(output)
+    '''
     
     print((time() - start_t)/60.0)
