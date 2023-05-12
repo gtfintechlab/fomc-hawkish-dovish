@@ -1,0 +1,482 @@
+true_label,original_sent,text_output
+2,"Countries differ in this regard, both in formal mandate and in actual practice.12 As an extensive academic literature shows, however, the general approach of inflation targeting is fully consistent with any set of relative social weights on inflation and unemployment","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply states that countries have different approaches to inflation targeting and that there is academic literature supporting the idea that inflation targeting can be consistent with different social weights on inflation and unemployment."
+2,"The strength in corporate profits in the first quarter not only impressed economists, but it also impressed investors, who drove stock prices up earlier this year.","NEUTRAL
+
+This sentence does not provide any indication of the stance towards monetary policy. It simply describes the reaction of economists and investors to the strength in corporate profits in the first quarter."
+0,"What I have elsewhere referred to as ""currency competition"" may be a driving force behind these changes in inflation outcomes and expectations and may be reflected in low nominal long-term interest rates and the flattening of yield curves.5 Iâ€™d like to briefly review what I mean by currency competition.",NEUTRAL: The sentence does not express a clear stance on monetary policy. It is simply introducing a concept (currency competition) that may have an impact on inflation outcomes and interest rates.
+0,"As a result, national saving increased, providing further impetus to economic growth.","NEUTRAL
+The sentence does not indicate any specific stance towards monetary policy. It simply states a fact about national saving increasing and its positive impact on economic growth."
+0,"The guidance on asset purchases, introduced in December, commits us to increasing our holdings of securities at least at the current pace until substantial further progress has been made toward the Committee's maximum-employment and price-stability goals.","NEUTRAL
+
+The sentence provides guidance on asset purchases and commits to increasing holdings of securities until substantial further progress has been made toward the Committee's goals. It does not indicate a clear stance on tightening or easing of monetary policy, hence it is classified as neutral."
+1,"A considerable literature suggests that successful monetary policies should stabilize, or ""anchor,"" inflation expectations so as to prevent them from becoming a source of instability in their own right (Goodfriend, 1993; Evans and Honkapohja, 2003).","NEUTRAL
+
+The sentence provides a general statement about the importance of stabilizing inflation expectations in monetary policy. It does not express a clear preference for either tightening or easing of the policy, hence the neutral classification."
+0,"Because inflation expectations are now more firmly tied down, surges and declines in energy prices do not significantly affect core inflation and thus do not force a policy response to inflation to the extent they did three decades ago.","NEUTRAL
+The sentence provides a neutral stance as it explains that inflation expectations are now more firmly tied down, and surges and declines in energy prices do not significantly affect core inflation. Thus, there is no need for a policy response to inflation to the extent they did three decades ago."
+1,"Mortgage rates, corporate bond rates, and other yields and asset prices moved in sympathy, with important effects on the cost of borrowing and hence, presumably, on aggregate demand.","NEUTRAL
+
+The sentence provides a neutral stance as it does not indicate any specific direction towards tightening or easing of monetary policy. It simply states the effects of the movement of mortgage rates, corporate bond rates, and other yields and asset prices on the cost of borrowing and aggregate demand."
+2,"Returns on indexed bonds are tied to forecasts of specific published price indexes, which may or may not reflect the market's judgment of the future purchasing power of money.","NEUTRAL
+
+The sentence does not express any clear stance on monetary policy. It simply provides information about how returns on indexed bonds are tied to specific price indexes, which may or may not reflect the market's judgment of the future purchasing power of money."
+2,"To anticipate a bubble about to burst requires the forecast of a plunge in the prices of assets previously set by the judgments of millions of investors, many of whom are highly knowledgeable about the prospects for the specific companies that make up our broad stock price indexes.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It discusses the difficulty of predicting a market bubble and acknowledges the expertise of investors in making judgments about specific companies."
+2,"Moreover, investing in EMEs has become more attractive as many EMEs have improved their macroeconomic policies and institutional frameworks over recent decades; growth differentials may partly be reflecting these improvements.",NEUTRAL - The sentence does not express a clear stance on monetary policy. It simply states that investing in emerging market economies has become more attractive due to improvements in their macroeconomic policies and institutional frameworks. The growth differentials may be a result of these improvements.
+0,"We also expect it will be appropriate to maintain the current target range for the federal funds rate at 0 to 1/4 percent until labor market conditions have reached levels consistent with the Committee's assessments of maximum employment, until inflation has risen to 2 percent, and until inflation is on track to moderately exceed 2 percent for some time.","NEUTRAL
+
+The sentence outlines the conditions that need to be met before the Federal Reserve considers changing the target range for the federal funds rate. It does not express a bias towards tightening or easing of monetary policy, hence it is classified as NEUTRAL."
+0,"In my baseline view, while I do believe it will likely take some time for economic activity and the labor market to fully recover from the pandemic shock, I do project right now that the economy will begin to grow and that the unemployment rate will begin to decline starting in the second half of this year.","NEUTRAL
+
+The sentence presents a balanced view of the economic situation, acknowledging the impact of the pandemic shock on economic activity and the labor market, but also projecting a positive outlook for the second half of the year. There is no clear indication of a hawkish or dovish stance towards monetary policy."
+2,"Vice Chair Richard H. Clarida At the 2020 U.S. Monetary Policy Forum, sponsored by the Initiative on Global Markets at the University of Chicago Booth School of Business, New York, New York Share Thank you to the conference organizers for inviting me here to discuss what former Chair Bernanke has famously referred to as a ""hall of mirrors"" problem: a situation in which a central bank's reaction function and financial market prices interact in economically suboptimal and potentially destabilizing ways.1 In my remarks today, I will lay out the way I think about the interplay between financial markets and monetary policy, with a focus on how I myself seek to integrate noisy but often correlated signals about the economy that I glean from models, surveys, and financial markets.2 Three Observations I begin with three unobjectionable observations.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It is a statement of gratitude for being invited to a conference and an introduction to the topic of discussion. The speaker outlines three observations, but does not take a position on monetary policy."
+2,His conclusion is that only by far-reaching decentralization in a market system with competition and free price-fixing is it possible to make full use of knowledge and information.,"NEUTRAL
+
+The sentence does not contain any indication of a stance towards monetary policy. It discusses the importance of decentralization in a market system, which is not directly related to monetary policy. Therefore, the sentence is neutral."
+0,The Committee took these actions to provide a somewhat more accommodative policy in response to muted inflation pressures and the risks to the outlook I mentioned earlier.,DOVISH - The sentence suggests that the Committee is taking actions to provide a more accommodative policy in response to muted inflation pressures and risks to the outlook. This implies that the Committee is leaning towards easing the monetary policy.
+0,"While a constant rate of money growth will not always be optimal, if money demand is sufficiently stable, and not particularly interest sensitive, it will pin down inflation in the long run and help smooth the business cycle in the short run.","NEUTRAL
+
+The sentence presents a balanced view on the relationship between money growth, inflation, and business cycles. It suggests that a constant rate of money growth may not always be optimal, but it can help stabilize inflation in the long run and smooth out business cycles in the short run, provided that money demand is stable and not sensitive to interest rates. The sentence does not express a clear preference for tightening or easing of monetary policy, hence it can be classified as neutral."
+2,"The Fed is not authorized to grant money to particular beneficiaries, to meet the payroll expenses of small businesses, or to underwrite the unemployment benefits of displaced workers.","NEUTRAL
+
+This sentence does not express any stance on the monetary policy. It simply states what the Fed is not authorized to do in terms of granting money to specific beneficiaries or programs. Therefore, it is classified as NEUTRAL."
+1,"With respect to inflation, the netting of the crosscurrents suggests a modest increase in inflation in 1998, albeit from a steadily downward-revised and very low rate in 1997.","NEUTRAL
+
+The sentence provides a balanced view on inflation, acknowledging that there may be a modest increase in inflation in 1998, but also noting that the rate in 1997 was very low and had been revised downward. The sentence does not suggest a clear bias towards tightening or easing of monetary policy, hence it is classified as NEUTRAL."
+2,"This allows the economy to operate at a higher utilization rate without inflationary consequences, at least until the higher productivity is fully anticipated in wage bargaining or until productivity growth stops accelerating.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply describes a situation where the economy can operate at a higher utilization rate without causing inflation, until certain conditions are met."
+2,"Still, if aggregate demand and potential aggregate supply follow the paths that I outlined earlier, the slack in resource utilization should diminish, unit labor costs should begin to move higher, and the underlying rate of inflation should stabilize.","HAWKISH
+The sentence suggests that if the aggregate demand and potential aggregate supply follow the outlined paths, the slack in resource utilization should diminish, which implies a tightening of the monetary policy. Additionally, the increase in unit labor costs and stabilization of the underlying rate of inflation also suggest a hawkish stance."
+2,"In particular, the unemployment rates in the metropolitan areas of South Dakota have consistently been lower than in rural areas, and this relative abundance of job opportunities has tended to encourage migration to areas such as Sioux Falls.","NEUTRAL
+This sentence does not provide any indication of the stance towards monetary policy. It simply presents a fact about the unemployment rates in South Dakota and its impact on migration to certain areas."
+2,"May 26, 2021 The Economic Outlook and Monetary Policy Vice Chair for Supervision Randal K. Quarles At the Hutchins Center on Fiscal and Monetary Policy, The Brookings Institution, Washington, D.C. (via webcast) Share Watch Live Thank you, David, and thank you to Brookings and the Hutchins Center for the opportunity to lead things off and be part of this very distinguished panel.","NEUTRAL - The sentence does not contain any indication of a monetary policy stance, but rather expresses gratitude for the opportunity to speak at an event."
+2,We should first recognize that the form of the U.S. government is different than that of most inflation-targeting countries.,NEUTRAL - The sentence does not express a clear stance on monetary policy. It is simply acknowledging a difference in the form of government between the US and other countries that have implemented inflation-targeting policies.
+0,"To achieve its mandated objectives, the FOMC must influence the course of the U.S. economy, helping it to grow rapidly enough to make full use of available resources but not so rapidly as to stoke inflation.","NEUTRAL
+
+The sentence presents a balanced view of the FOMC's objectives, stating that they aim to achieve economic growth while also avoiding inflation. There is no clear indication of a preference for tightening or easing of monetary policy, making the stance neutral."
+2,One of Dick Porter's many contributions was to develop a monetary approach to forecasting inflation at medium-term horizons.,NEUTRAL - The sentence does not provide any indication of a stance towards tightening or easing of monetary policy. It simply states a fact about Dick Porter's contribution to developing a monetary approach to forecasting inflation at medium-term horizons.
+2,"Eventually, financial markets may develop the instruments and associated analytical techniques for unearthing these implicit changes in the general price level with some precision.",NEUTRAL: The sentence does not express a clear stance on monetary policy. It simply discusses the possibility of financial markets developing tools to analyze changes in the general price level.
+1,"There is much about the inflation process that we do not understand, and I have been surprised at the extent of the pickup in core inflation this year.","DOVISH - The sentence suggests that the speaker is surprised by the increase in core inflation, indicating that they may not be in favor of tightening monetary policy. The admission that there is much about the inflation process that is not understood also suggests a cautious approach, which is consistent with a dovish stance."
+1,"If we adjust the 6.7 percent headline unemployment rate for the decline in participation since February and the Bureau of Labor Statistics estimate of misclassification, the unemployment rate would be 10 percent, similar to the peak following the Global Financial Crisis.",DOVISH - The sentence suggests that the current unemployment rate is higher than what is being reported due to a decline in participation and misclassification. This implies that the economy may not be as strong as it appears and may require some easing of monetary policy to stimulate job growth.
+2,"For example, given the starting point for the outlook, the forecasts will trace out a path for the economy to preserve or reestablish maximum employment and price stability that will reflect FOMC participants' views of the relative variation in output and inflation that is possible in the short run.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply describes how the FOMC participants' views on output and inflation will inform their forecasts for the economy's path towards maximum employment and price stability."
+2,"By definition, multifactor productivity includes technical change, organizational improvements, cyclical factors, and myriad other influences on output per hour, apart from capital investment.","NEUTRAL
+
+This sentence does not express any clear stance on the monetary policy. It simply provides a definition of multifactor productivity and lists the various factors that influence output per hour."
+2,Productivity and TechnologyLet me now turn from the overall economic outlook to productivity and technology developments.,"NEUTRAL
+
+The sentence does not express any clear stance on monetary policy, but rather shifts the focus to productivity and technology developments."
+2,"There is, to be sure, no trade-off and hence no inconsistency between full employment and price stability in the long run.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply states that there is no conflict between full employment and price stability in the long run."
+2,"Although in a number of sectors of the economy the imbalances between demand and supplyâ€”including labor supplyâ€”are substantial, I do continue to judge that these imbalances are likely to dissipate over time as the labor market and global supply chains eventually adjust and, importantly, do so without putting persistent upward pressure on price inflation, wage gains adjusted for productivity, and the 2 percent longer-run inflation objective.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It acknowledges the existence of imbalances in the economy, particularly in the labor market, but suggests that these imbalances will eventually dissipate without causing inflationary pressures. The sentence does not advocate for either tightening or easing of monetary policy."
+2,"Thus, reducing vacancies from an extremely high level to a lower (but still strong) level has a relatively limited effect on hiring and on unemployment.","NEUTRAL
+The sentence does not express a clear stance on monetary policy. It simply presents a statement about the limited effect of reducing vacancies on hiring and unemployment."
+2,"Going forward, the question is not only whether inflation will fall in the coming months,","NEUTRAL
+The sentence does not express a clear stance on monetary policy. It simply poses a question about the future of inflation without indicating a preference for tightening or easing."
+1,"First, if, as projected, core PCE inflation this year does come in at, or certainly above, 3 percent, I will consider that much more than a ""moderate"" overshoot of our 2 percent longer-run inflation objective.","HAWKISH
+The sentence suggests that if core PCE inflation exceeds 3 percent, it will be considered more than a ""moderate"" overshoot of the 2 percent inflation objective. This implies that the speaker may be in favor of tightening monetary policy to control inflation."
+0,"Though widely anticipated even before the actions of October, the recession and retrenchment in employment that followed those actions resulted in pressures on the Federal Reserve to reverse course.","DOVISH - The sentence suggests that the recession and retrenchment in employment resulted in pressures on the Federal Reserve to reverse course, which implies that the monetary policy may be eased to address the economic situation."
+0,"For these reasons, I have been interested in exploring approaches that expand the space for targeting interest rates in a more continuous fashion as an extension of our conventional policy space and in a way that reinforces forward guidance on the policy rate.18 In particular, there may be advantages to an approach that caps interest rates on Treasury securities at the short-to-medium range of the maturity spectrumâ€”yield curve capsâ€”in tandem with forward guidance that conditions liftoff from the ELB on employment and inflation outcomes.","DOVISH
+
+The sentence suggests an interest in exploring approaches that expand the space for targeting interest rates in a more continuous fashion, which implies a potential easing of monetary policy. The proposed approach of yield curve caps and forward guidance also reinforces this dovish stance."
+2,"Indeed, given the externalities involved, it seems plausible that a monopoly central bank that issued fiat money would not respond optimally to crises (it would charge too much for liquidity) or to cyclical variations (it would be maximizing the present discounted value of its seigniorage income rather than minimizing some weighted sum of discounted inflation and output losses).","DOVISH: The sentence suggests that a monopoly central bank issuing fiat money may not respond optimally to crises or cyclical variations, as it would prioritize maximizing its seigniorage income over minimizing inflation and output losses. This implies a need for a more accommodating monetary policy, which is dovish."
+2,Survey measures give us an idea of what the average household expects inflation to be in the coming years.,NEUTRAL - The sentence is simply stating a fact about survey measures and does not express any stance on monetary policy.
+1,"The severity of the 1981-82 recession, the worst of the postwar period, clearly illustrates the danger of letting inflation get out of control.","HAWKISH
+The sentence suggests that the 1981-82 recession was severe and the worst of the postwar period, which implies that inflation was out of control. This indicates a need for tightening of the monetary policy to prevent inflation from getting out of control again."
+0,"Even with the improving labor market, I still hear from businesses that qualified workers are difficult to find, and labor shortages remain a drag on hiring and on economic growth.","DOVISH - The sentence suggests that despite the improving labor market, there are still labor shortages that are hindering economic growth. This implies that the speaker may be in favor of easing monetary policy to address the issue."
+0,"A second economic rationale that is often advanced for the development of cities and that seems applicable to the Sioux Falls experience is that of labor market pooling--the ability of an industry to take advantage of a labor force possessing a specific set of skills, thereby raising productivity compared with competing areas with a more dispersed set of skills.","NEUTRAL
+
+The sentence does not provide any indication of the stance towards monetary policy. It discusses an economic rationale for the development of cities and the benefits of labor market pooling."
+2,"Models of the term structure of interest rates better fit the data under the assumption that both inflation expectations and beliefs about the central bank's reaction function are evolving (Kozicki and Tinsley, 2001; Rudebusch and Wu, 2003; Cogley, 2005).","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply discusses the fit of models of the term structure of interest rates based on certain assumptions. Therefore, the sentence is classified as NEUTRAL."
+2,It can be argued that this meant getting the economy back to its 2019 state with very low unemployment and inflation near 2 percent.,"NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply states a goal of getting the economy back to its pre-pandemic state with low unemployment and moderate inflation."
+1,"In this less comfortable world, restoring price stability can involve a painful process of slow growth and elevated unemployment.",DOVISH - The sentence suggests that the current economic situation is not comfortable and restoring price stability may require a painful process of slow growth and elevated unemployment. This implies that the speaker is more concerned about the negative impact of tightening monetary policy on the economy and is therefore advocating for a more accommodative monetary policy stance.
+1,"Although personally I have no doubt that quantification of the price stability objective is fully consistent with the current dual mandate, I also appreciate the delicate issues of communication raised by such a change.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It discusses the issue of quantifying the price stability objective and acknowledges the communication challenges that may arise from such a change. However, it does not advocate for either tightening or easing of the monetary policy, making it a neutral statement."
+1,And the equity market itself has been the subject of analysis as we attempt to assess the implications for financial and economic stability of the extraordinary rise in equity prices--a rise based apparently on continuing upward revisions in estimates of our corporations' already robust long-term earning prospects.,"NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It discusses the analysis of the equity market and its implications for financial and economic stability, without advocating for any specific policy action."
+2,"As a result, deregulation, globalization, and innovation have made it easier for citizens to move their wealth out of nominal assets in their local currency and thereby avoid any inflation tax should their government show signs that it might resort to inflationary tactics to finance spending.6 At the same time, the publicâ€™s understanding of the costs of inflation has increased, in part because of experiences of high inflation in many countries in the 1980s.","NEUTRAL
+
+The sentence does not express any clear stance on monetary policy. It discusses the effects of deregulation, globalization, and innovation on citizens' ability to move their wealth out of nominal assets and avoid inflation taxes. It also mentions that the public's understanding of the costs of inflation has increased due to experiences of high inflation in the past."
+0,"In the past few years, the effect on the dollar of increased expectations about divergence between U.S. and foreign interest rates has been especially strong.9 The nearly 20 percent increase in the dollar over 2014 and 2015 coincided with falling real exports and import prices in the United States.","NEUTRAL
+
+The sentence provides a description of the past few years' effect on the dollar due to increased expectations about divergence between U.S. and foreign interest rates. It also mentions the coinciding falling real exports and import prices in the United States. However, it does not express any clear stance on whether the monetary policy should be tightened or eased, making it a neutral statement."
+1,"As a result, recent high inflation readings are transitory and not broad based.","NEUTRAL
+The sentence does not suggest any clear stance towards tightening or easing of monetary policy. It simply states that recent high inflation readings are not broad based and are expected to be temporary."
+2,"At the time, we could only observe outcomes that did not fit with preconceptions; try to find rationales that explained what we were seeing; and in the process, derive implications about the future that could be used to guide a forward-looking monetary policy.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It describes a process of analyzing data and deriving implications for future policy, without indicating whether those implications would lead to tightening or easing of policy."
+1,"This direction of causality may obscure the negative relationship, running from higher inflation to lower growth, presumed to hold in the longer term.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It discusses a potential issue with the direction of causality between inflation and growth, but does not suggest any specific policy action."
+1,"My general point is that inflation is much too high, and the outlook for inflation remains significantly uncertain.","HAWKISH
+The sentence suggests that inflation is a concern and is currently too high. The mention of uncertainty in the outlook for inflation implies that the speaker may advocate for a tightening of monetary policy to combat inflation."
+1,"More than two years after the recession trough, and following several quarters of strong growth, the historically normal pattern would be for the Fed to be well into the process of tightening policy by now.","HAWKISH
+The sentence suggests that, given the strong growth and the time elapsed since the recession, it would be expected for the Fed to have already started tightening the monetary policy. Therefore, the stance conveyed is hawkish, as it implies a desire for tighter policy."
+2,"To measure productivity and standards of living we need measures of output but, to measure output, we need to be able to define products clearly and in terms of units that do not change from one period to the next.","NEUTRAL
+
+The sentence does not contain any indication of a stance towards monetary policy. It is simply discussing the need for clear definitions and measures in order to accurately assess productivity and standards of living."
+2,"The stock market soared, and--remarkably enough--core inflation moderated.","NEUTRAL
+The sentence does not express a clear stance on monetary policy. It simply reports two observations: the stock market rose and core inflation moderated."
+2,"In addition to directly affecting longer-term interest rates, changes to the balance sheet could serve to reinforce policy communication associated with the short-term rate.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply discusses the potential impact of changes to the balance sheet on policy communication."
+2,"Finally, while my assessment of maximum employment incorporates a wide range of indicators to assess the state of the labor marketâ€”including indicators of labor compensation, productivity, and price-cost markupsâ€”the employment data I look at, such as the Kansas City Fed's Labor Market Conditions Indicators, are historically highly correlated with the unemployment rate.9 My expectation today is that the labor market by the end of 2022 will have reached my assessment of maximum employment if the unemployment rate has declined by then to the SEP median of modal projections of 3.8 percent.","NEUTRAL
+
+The sentence provides an assessment of the labor market and the expectation for maximum employment by the end of 2022. It does not express a clear stance on tightening or easing of monetary policy, thus it is classified as NEUTRAL."
+1,It is worth noting that today the economy is very strong and is well positioned to handle tighter monetary policy.,"HAWKISH
+The sentence suggests that the economy is strong and can handle tighter monetary policy, indicating a potential tightening of the policy."
+2,"The specific price-stability target of an inflation rate of 2 percent, as measured by the annual change in the price index for personal consumption expenditures, was announced as part of the Statement on Longer-Run Goals and Monetary Policy Strategy following the January 2012 Federal Open Market Committee (FOMC) meeting.","NEUTRAL
+
+The sentence simply states a historical fact about the announcement of a specific price-stability target for inflation rate, without indicating any preference for tightening or easing of monetary policy."
+2,"Their key finding, illustrated in figure 3, is that Federal Reserve policy rate surprises attributed to stronger U.S. growth generally have only moderate spillovers to EM financial conditions, whereas U.S. policy rate changes attributed to U.S. inflationary pressures trigger more substantial spillovers to EM financial conditions.","NEUTRAL
+
+The sentence presents a finding from a study that analyzes the spillover effects of Federal Reserve policy rate surprises on EM financial conditions. The sentence does not express a clear stance on whether the Fed should tighten or ease its monetary policy, but rather provides information on the different spillover effects of policy rate surprises attributed to U.S. growth and inflationary pressures. Therefore, the sentence is classified as NEUTRAL."
+1,"At these low rates, the central bank is poorly positioned to respond to further negative demand shocks.","DOVISH
+
+The sentence suggests that the central bank is not in a good position to respond to negative demand shocks, which implies that the monetary policy may need to be eased to stimulate demand."
+2,"Because they cannot rule out the chance that some asset prices might correct more than anticipated, policymakers must consider how the economy might withstand such a correction.","NEUTRAL
+The sentence does not express a clear bias towards either tightening or easing of monetary policy. It simply highlights the need for policymakers to consider the potential impact of a correction in asset prices on the economy."
+2,"In the current decade, however, the standard deviation of inflation has been relatively stable in Brazil, at around 5 percent, and it has been declining in Mexico, where it is now around 2 percent.","NEUTRAL
+The sentence provides information about the standard deviation of inflation in Brazil and Mexico in the current decade. It does not express any clear stance on monetary policy, therefore it is classified as neutral."
+2,"In fact, applying a formal regression analysis to the full sample from 1989 to 2002, we found a number fairly close to this one, namely, a stock price multiplier for monetary policy of about 4.7.","NEUTRAL
+
+The sentence provides a statistical analysis of the stock price multiplier for monetary policy from 1989 to 2002. It does not express a clear stance on tightening or easing of monetary policy, hence it is classified as neutral."
+0,"In addition to the headwinds facing demand, there could be persistent effects on the supply side of the economy.","NEUTRAL
+The sentence does not express a clear stance on monetary policy. It simply acknowledges the possibility of persistent effects on the supply side of the economy, which could impact overall economic conditions."
+2,"Fourth, I will discuss the major findings of the review as codified in our new Statement on Longer-Run Goals and Monetary Policy Strategy and highlight some important policy implications that flow from them.",NEUTRAL - The sentence does not express a clear stance on monetary policy. It simply outlines the speaker's plan to discuss the findings of a review and the policy implications that follow.
+0,"Persistent inflation shortfalls carry the risk that longer-term inflation expectations become anchored below the stated inflation goal.13 In part because of that concern, some economists have advocated ""makeup"" strategies under which policymakers seek to undo past inflation deviations from target.","DOVISH - The sentence suggests that there is a concern about persistent inflation shortfalls and the risk of longer-term inflation expectations becoming anchored below the stated inflation goal. The mention of ""makeup"" strategies under which policymakers seek to undo past inflation deviations from target indicates a willingness to ease monetary policy to achieve the inflation target."
+2,"A key difference between the two groups of countries is that the countries whose current accounts have moved toward deficit have generally experienced substantial housing appreciation and increases in household wealth,","NEUTRAL
+
+This sentence does not express a clear stance on monetary policy. It simply presents a comparison between two groups of countries based on their current accounts and housing appreciation. Therefore, it falls under the neutral category."
+2,"multifactor productivity growth fell to a pace of 0.4 percent, the slowest pace of any of the periods shown on the table.","NEUTRAL
+
+The sentence provides a factual statement about multifactor productivity growth without any indication of a policy stance towards tightening or easing of monetary policy. Therefore, the sentence is classified as NEUTRAL."
+1,"Although the Fed hasn't started raising rates or reducing the balance sheet, interest rates have moved up notably.","HAWKISH
+The sentence suggests that despite the Fed not having taken any action to tighten monetary policy, interest rates have still increased significantly. This implies that the market is anticipating a potential tightening of policy in the future, which is a hawkish signal."
+2,"Computing power may not be falling in price quite so rapidly now as in the late 1990s, but a dollar nevertheless buys a great deal more computational capacity today than it did even five years ago.","NEUTRAL
+The sentence does not express a clear stance on monetary policy. It simply provides a statement about the current state of computing power and its price compared to the past."
+2,"The events of the last two years come on top of a huge expansion of global trade, competition and productive capacity--all of which have given American businesses less control over prices in the face of rising costs and benefited American consumers through low prices.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It discusses the impact of global trade and competition on American businesses and consumers, but does not provide any indication of whether the Federal Reserve should tighten or ease monetary policy."
+2,"In hindsight, the paths of inflation, real output, stock prices and exchange rates may have seemed preordained, but no such insight existed as we experienced it at the time.","NEUTRAL
+
+The sentence does not express any clear stance on monetary policy. It is simply reflecting on past events and acknowledging that hindsight can make things seem more predictable than they actually were at the time."
+2,"Prices, interest rates, stock prices, and other signals produced by market economies to encourage the distribution of productive resources have no inherent moral content.","NEUTRAL
+
+The sentence does not express any clear stance on monetary policy. It is a statement about the lack of moral content in market signals."
+1,"While the current episode has not yet concluded, it appears that, responding vigorously in a relatively flexible economy to the aftermath of bubbles, as traumatic as that may be, is less inhibiting to long-term growth than chronic high-inflation monetary policy.","DOVISH
+
+The sentence suggests that responding vigorously to the aftermath of bubbles, even if it is traumatic, is less inhibiting to long-term growth than chronic high-inflation monetary policy. This implies that the speaker is in favor of easing the monetary policy to avoid chronic high-inflation, which is a dovish stance."
+2,But what does this mean for monetary policy?,"NEUTRAL - The sentence does not express a clear stance on monetary policy, but rather poses a question about its implications."
+2,"Global factors may have put downward pressure on term premiums because of anxiety about the foreign outlook, which may have increased demand for U.S. assets, or because low rates abroad have depressed U.S. term premiums through a global portfolio balance channel.5 And real rates are quite low globally, reflecting the step-down of productivity growth over the past 10 years as well as shifts in savings and investment demand due to demographic change.6 The Core of the Financial System Is Much Stronger Before turning to the interplay between low rates and the financial system, I will simply point out that both improved risk management at the largest, most systemically important financial institutions (SIFIs) and stronger regulation have made the core of the system much stronger and more resilient than before the crisis.7 The SIFIs have more stable funding, hold much more capital and liquidity, are more conscious of their risks, and are far more resolvable should they fail.","NEUTRAL
+
+The sentence provides a neutral stance on the interplay between global factors and the U.S. monetary policy. It acknowledges that global factors may have affected term premiums, but it does not suggest any specific action to be taken by the Federal Reserve. The second part of the sentence discusses the strength of the financial system, which is also a neutral observation."
+1,"There are also asymmetric price effects from cost shocksâ€”prices go up very quickly but often tend to come down more slowly, as consumers slowly learn that the bottlenecks have gone away.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It discusses the asymmetric price effects from cost shocks and how consumers slowly learn that bottlenecks have gone away."
+2,What I do want to share with you is how the equity market fits into my thinking about monetary policy.,NEUTRAL - The sentence does not express a clear stance on monetary policy. It simply states that the speaker wants to discuss how the equity market relates to their thinking about monetary policy.
+2,I should note that growth itself does not cause inflation.,"NEUTRAL
+
+This sentence does not express a clear stance on monetary policy. It simply states a fact that growth does not necessarily lead to inflation. Therefore, it falls under the neutral category."
+1,"Of course, the basic problem in tackling the inflation of the 1970s is that we have one observation and many competing theories.","NEUTRAL
+
+This sentence does not express a clear stance on monetary policy. It is simply acknowledging a challenge in addressing inflation in the 1970s. Therefore, it falls under the neutral category."
+2,such costs appeared tolerable in light of the employment gains that came with them.,"NEUTRAL
+The sentence does not express a clear stance on monetary policy, but rather provides a justification for accepting certain costs in exchange for employment gains."
+2,"With the economic outlook held constant, changes in the net demand for long-term securities have their largest effect on the term premium.","NEUTRAL
+
+The sentence does not express any clear stance on monetary policy. It simply states a relationship between changes in net demand for long-term securities and their effect on the term premium, assuming a constant economic outlook."
+2,"The release this year and last of mortgage price data gathered under the Home Mortgage Disclosure Act (HMDA) has highlighted a different, but potentially related, concern about access to credit on equal terms.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It discusses the release of mortgage price data and raises a concern about access to credit, but does not indicate a preference for tightening or easing of monetary policy."
+1,"It is now generally recognized that price stability is a prerequisite for the efficient allocation of resources in our economy and, indeed, for fulfilling our ultimate mandate to promote maximum sustainable employment over time.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It acknowledges the importance of price stability for efficient resource allocation and achieving maximum sustainable employment, but does not advocate for any specific policy action."
+1,Conclusion: The Challenge Facing Monetary Policy This analysis suggests that monetary policy does face a challenge--rebalancing aggregate supply and demand to contain the risk of higher inflation.,HAWKISH - The sentence suggests that there is a challenge facing monetary policy in terms of containing the risk of higher inflation. This implies that the stance of monetary policy should be towards tightening to address this challenge.
+0,"Implications of Increases in Productivity Growth In the long run, the implications of increases in productivity growth rates are fairly obvious.","NEUTRAL
+
+The sentence does not express any clear stance on monetary policy. It simply discusses the implications of productivity growth rates in the long run."
+0,"We said that we would ""aim to achieve inflation moderately above 2 percent for some time"" to ensure that it averages 2 percent over time and that inflation expectations stay anchored.","DOVISH - The sentence suggests that the FOMC is willing to tolerate inflation moderately above 2 percent for some time, indicating a willingness to ease monetary policy to achieve this goal."
+1,This automatically pushes up domestic interest rates to support the currency.,"HAWKISH
+The sentence suggests that the central bank is taking actions to support the currency, which could lead to an increase in domestic interest rates. This indicates a tightening of monetary policy, which is a hawkish stance."
+1,"For example, if financial market participants thought that the Federal Reserve were not dedicated to maintaining long-run price stability, they would be less willing to hold dollar-denominated assets and the resulting decline in the exchange value of the dollar would tend to add to inflationary pressures.","HAWKISH
+The sentence suggests that if the Federal Reserve does not maintain long-run price stability, it could lead to a decline in the exchange value of the dollar, which would add to inflationary pressures. This implies that the Federal Reserve should maintain a tight monetary policy to avoid inflationary pressures, hence the label 'HAWKISH'."
+0,"Inflation in 1996, measured by the chain price index for GDP or the core CPI, was the lowest in 30 years.","NEUTRAL
+The sentence provides a factual statement about inflation in 1996 without any indication of a policy stance towards tightening or easing of monetary policy. Therefore, the sentence is classified as neutral."
+2,The FOMC's primary monetary policy tool is its target range for the federal funds rate.,"NEUTRAL
+
+This sentence simply states a fact about the FOMC's primary monetary policy tool, without indicating any bias towards tightening or easing of the monetary policy. Therefore, the stance is neutral."
+2,"The unemployment rate is at a 50-year low, inflation is close to our 2 percent objective, gross domestic product growth is solid, and the Federal Open Market Committee's (FOMC) baseline outlook is for a continuation of this performance in 2020.2 At present, personal consumption expenditures (PCE) price inflation is running somewhat below our 2 percent objective,","NEUTRAL
+
+The sentence provides a balanced view of the current economic situation, highlighting both positive and negative aspects. While the unemployment rate is low and GDP growth is solid, the PCE price inflation is below the 2 percent objective. The overall tone of the sentence is neutral, as it does not suggest any immediate action towards tightening or easing of the monetary policy."
+0,This secular decline in term premiums since 1990 appears to be correlated with the decline in long-run inflation uncertainty and in short-term interest rate uncertainty.,"NEUTRAL
+
+The sentence provides a descriptive analysis of the correlation between the decline in term premiums since 1990 and the decline in long-run inflation uncertainty and short-term interest rate uncertainty. It does not express any stance on monetary policy, hence it is classified as NEUTRAL."
+2,"For example, in the mid-1970s, just when the FOMC began to specify money growth targets, econometric estimates of M1 money demand relationships began to break down, predicting faster money growth than was actually observed.","NEUTRAL
+
+The sentence provides historical context and does not express a clear stance on monetary policy. It simply describes a situation where econometric estimates did not match actual money growth."
+2,"With respect to this particular part of the District, Jack may discuss Florida's citrus crop, the relative health of the tourism industry, and trends in Florida real estate prices.","NEUTRAL
+
+The sentence is completely unrelated to monetary policy or the stance of the Federal Reserve. It simply discusses topics related to a specific district in Florida. Therefore, it is neutral."
+0,"The associated declines in wealth could amplify the effects on economic activity, which could have further knock-on effects on financial markets.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply describes a potential consequence of a certain economic situation."
+0,"What modern monetary policymaking has not faced for quite some time, if ever, has been a major surge in innovation--matching, if not exceeding, the other great waves this century--followed by an apparent elevation of productivity growth.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It is discussing a phenomenon that has not been encountered before in modern monetary policymaking, which is the surge in innovation and its impact on productivity growth. Therefore, the sentence is neutral in terms of its stance on monetary policy."
+1,"By definition, this excess of U.S. payments to foreigners over payments received in a given period equals the U.S. current account deficit, which, as I have already noted, was $666 billion in 2004--close to the $617 billion by which the value of U.S. imports exceeded that of exports.","NEUTRAL
+
+The sentence provides a factual explanation of the U.S. current account deficit without expressing any opinion or stance on monetary policy. Therefore, it is classified as neutral."
+0,"Household spending stepped up in mid-April, coinciding with the first disbursement of stimulus payments to households and a ramp-up in the payout of unemployment benefits, and showed the most pronounced increases in the states that received more benefits.9 With some of the fiscal support measures either provided as one-off payments or slated to come to an end in July, the strength of the recovery will depend importantly on the timing, magnitude, and distribution of additional fiscal support.","NEUTRAL
+
+The sentence provides a factual description of the recent increase in household spending, which was supported by stimulus payments and unemployment benefits. It also acknowledges the potential impact of the upcoming end of some fiscal support measures on the strength of the economic recovery. However, it does not express a clear preference for either tightening or easing of monetary policy, and therefore can be classified as neutral."
+2,"Indeed, the website of the Central Bank of Brazil explicitly acknowledges the role of inflation in driving financial innovations that enabled firms and households to economize on cash balances in that country.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply provides information about the role of inflation in driving financial innovations in Brazil."
+2,There is no evidence to date that a strong labor market is putting excessive cost-push pressure on price inflation.,"NEUTRAL
+
+The sentence presents a neutral stance as it does not indicate any inclination towards tightening or easing of monetary policy. It simply states that there is no evidence of excessive cost-push pressure on price inflation due to a strong labor market."
+2,"While these studies allow for differences in the weighting of price indexes across different income groups, they rely on the same elementary price indexes for subcategories of goods and services.","NEUTRAL
+
+This sentence does not express any clear stance on monetary policy. It is simply discussing the methodology of certain studies and does not provide any indication of whether the speaker is leaning towards a hawkish or dovish stance."
+0,Our goal of price stability was achieved by most analysts' definition by mid-2003.,"NEUTRAL
+The sentence simply states a fact that the goal of price stability was achieved by most analysts' definition by mid-2003. It does not express any stance towards tightening or easing of monetary policy, hence it is neutral."
+1,"This is the scenario from which we draw the lesson that timely, typically preemptive, policy restraint to avoid the excesses of a boom results in longer expansions and avoids unnecessary fluctuations in both output and inflation.","HAWKISH
+The sentence suggests that preemptive policy restraint is necessary to avoid excesses of a boom, which implies a tightening of monetary policy. The longer expansions and avoidance of unnecessary fluctuations in output and inflation also suggest a hawkish stance."
+2,"In addition to u* and r*, an important input into any monetary policy assessment is the state of inflation expectations.",NEUTRAL - The sentence does not express a clear stance on whether the monetary policy should be tightened or eased. It simply states that inflation expectations are an important factor to consider in any assessment of the monetary policy.
+2,"For example, Kozicki and Tinsley (2001) show that it is far easier to make sense of the term structure of Treasury yields if one assumes that expectations about long-run inflation adjust in a reasonable adaptive manner.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply presents a research finding about the term structure of Treasury yields and the role of inflation expectations in making sense of it."
+2,"I will focus my remarks today on the use of explicit forward guidance as a tool for monetary policy.1 Before I start, let me briefly discuss near-term monetary policy.",NEUTRAL - The sentence does not indicate any bias towards tightening or easing of monetary policy. It simply introduces the topic of explicit forward guidance as a tool for monetary policy and briefly mentions discussing near-term monetary policy.
+2,"First, policymakers should continuously update their estimates of the NAIRU and the output gap, using all available information, particularly the realizations of unemployment, output, and inflation.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply suggests that policymakers should update their estimates of certain economic indicators."
+2,"However, we also believe now is a good time to step back and assess whether, and in what possible ways, we can refine our strategy, tools, and communication practices to achieve and maintain our goals as consistently and robustly as possible.2 With the U.S. economy operating at or close to maximum employment and price stability, now is an especially opportune time to conduct this review.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It suggests a review of the strategy, tools, and communication practices to achieve and maintain goals, but does not indicate whether this review will lead to tightening or easing of the monetary policy. The mention of the U.S. economy operating at or close to maximum employment and price stability is a statement of fact rather than a policy stance. Therefore, the sentence is classified as NEUTRAL."
+2,"Inflation-targeting regimes make sense only if the central bank has independent control of the instruments of monetary policy, as holding the central bank responsible for meeting its inflation target is hardly possible otherwise.","NEUTRAL
+
+The sentence does not express a clear stance on whether the monetary policy should be tightened or eased. It simply states a condition for inflation-targeting regimes to be effective, which is the central bank having independent control of the instruments of monetary policy. Therefore, the sentence is classified as neutral."
+2,"For all these conceptual uncertainties and measurement problems, a specific numerical inflation target would represent an unhelpful and false precision.","DOVISH - The sentence suggests that having a specific numerical inflation target would not be helpful and could be misleading due to conceptual uncertainties and measurement problems. This implies a preference for a more flexible approach to monetary policy, which is typically associated with a dovish stance."
+2,"Once this process is completed, however, we might expect consumer price inflation to move into better alignment with long-run expectations and thus settle in around 2 percent.","NEUTRAL
+The sentence does not suggest any specific action towards tightening or easing of monetary policy. It simply states an expectation of consumer price inflation settling around 2 percent after a certain process is completed."
+1,"These are exactly the concerns expressed in Tom Sargentâ€™s (2000) book on the rise and fall of U.S. inflation, in which he worries that a misunderstanding of the inflation process might again lead to a high-inflation equilibrium.","NEUTRAL
+The sentence does not express a clear stance on monetary policy, but rather discusses concerns about inflation and the potential for a high-inflation equilibrium."
+2,"falling non-oil import prices likely subtracted 1/4 percentage point from the annual rate of core inflation.10 Finally, the trajectory of federal government debt relative to GDP and views regarding the debt's sustainability can also influence the effects of fiscal policy.","NEUTRAL
+
+The sentence provides information about the impact of falling non-oil import prices on core inflation and also mentions the potential influence of federal government debt on the effects of fiscal policy. It does not express a clear stance on whether monetary policy should be tightened or eased, hence it is classified as neutral."
+0,"Although not without some serious shortcomings, the published productivity data provide little encouragement to the view that there has been a significant improvement in underlying productivity growth.","NEUTRAL
+The sentence does not express a clear stance on monetary policy, but rather provides a commentary on the productivity data. Therefore, it is classified as neutral."
+2,"Therefore, even in the case of personal computers, where we have made such great strides in measuring quality changes, I suspect that important phenomena still may not be adequately captured by our published price indexes.","NEUTRAL
+
+The sentence does not express any clear stance on monetary policy. It is discussing the limitations of price indexes in measuring quality changes in personal computers."
+2,"For inflation, we can use the 12-month change in core PCE prices, a measure of the current underlying rate of inflation.","NEUTRAL
+The sentence provides a neutral stance as it simply explains a measure that can be used to track inflation without indicating any preference for tightening or easing of monetary policy."
+2,"I look forward, as always, to my conversation with Tim, but first, please allow me to offer a few remarks on the economic outlook, Federal Reserve monetary policy, and our new monetary policy framework.","NEUTRAL - The sentence does not provide any indication of a hawkish or dovish stance on monetary policy. It simply introduces the speaker's intention to discuss the economic outlook, Federal Reserve monetary policy, and the new monetary policy framework."
+1,"If so, GDP growth this calendar year could be the fastest since 1983.","NEUTRAL
+The sentence does not provide any indication of a monetary policy stance, but rather presents a statement about the potential growth of GDP."
+1,"I strongly supported the FOMC's decision last week, and I expect to support additional rate increases until we see significant progress toward bringing inflation down.","HAWKISH
+The sentence expresses a strong support for the FOMC's decision and an expectation of supporting additional rate increases until inflation is brought down. This indicates a stance of tightening the monetary policy, hence the label 'HAWKISH'."
+2,"The Chairman testifies frequently before the Congress, with the one-year record being twenty-five appearances in 1995, although only seven were directly about monetary policy.","NEUTRAL
+
+This sentence does not provide any indication of the stance of the FOMC towards monetary policy. It simply provides a factual statement about the Chairman's appearances before Congress. Therefore, the sentence is classified as NEUTRAL."
+2,"Of course, many other factors also influence inflation, and some of these provide other possible explanations for the recent changes in inflation dynamics.",NEUTRAL - The sentence does not express a clear stance on monetary policy. It acknowledges that there are multiple factors that influence inflation and suggests that there may be alternative explanations for recent changes in inflation dynamics.
+2,"That is, monetary policy responds to changes in fiscal policy in much the same way that it responds to other influences on the economy, such as equity prices, exchange rates, or the demand for U.S. exports due to changed growth prospects abroad.","NEUTRAL
+
+The sentence simply explains how monetary policy responds to various influences on the economy, including fiscal policy, equity prices, exchange rates, and demand for U.S. exports. It does not express a clear stance on tightening or easing of monetary policy, thus it is classified as neutral."
+2,"One objective--price stability--can be well defined and is fully under the control of monetary policymakers, at least over a period of time.","NEUTRAL
+The sentence simply states a fact about one of the objectives of monetary policy, without expressing any bias towards tightening or easing of the policy. Therefore, it can be classified as neutral."
+1,"I will then turn to three challenges our dynamic economy is posing for policy at present: First, what would the consequences of a sharp rise in the price of oil be for the U.S. economy?","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply introduces three challenges that the dynamic economy is posing for policy at present, with the first challenge being the potential consequences of a sharp rise in the price of oil for the U.S. economy."
+2,"After a short coffee break, we have a staff presentation on the alternatives we face in setting monetary policy.",NEUTRAL - The sentence does not express any clear stance on monetary policy. It simply describes the agenda for the upcoming staff presentation.
+2,Some Reasons for the Decline in Far-Forward Rates Why have the far-forward rates implied by the term structure of interest rates declined in recent years?,"NEUTRAL
+The sentence is simply posing a question and does not express any clear stance on monetary policy. Therefore, it is classified as neutral."
+2,Another clear attempt at political interference emerged in February 1988 when an undersecretary of the Treasury sent a letter to Federal Reserve officials urging them to ease monetary policy.,"DOVISH - The sentence suggests that there was a request made to ease monetary policy, which indicates a dovish stance towards monetary policy."
+1,"In contrast, the rise in oil prices during the 1970s was probably seen at the time as largely reflecting a permanent shift in global demand/supply balances.","NEUTRAL
+
+The sentence does not express any clear stance on monetary policy. It simply provides historical context and does not suggest any specific action or direction for policy."
+1,"Even so, the growth of investment spending over this period noticeably outpaced the rise in retained earnings, and thus these corporations turned to the capital markets to fill the widening gap.","NEUTRAL
+
+The sentence provides a factual observation about the behavior of corporations in filling the gap between investment spending and retained earnings. It does not express any stance or opinion on the monetary policy, hence it is classified as neutral."
+0,Most analysts would contend that U.S. interest rates were lowered by the world's accumulation of dollars.,NEUTRAL - The sentence does not express a clear stance on monetary policy. It is simply stating a commonly held belief among analysts that the accumulation of dollars in the world has led to a lowering of U.S. interest rates.
+2,One branch of economists holds the view that monetary policy should not be influenced by any perceived financial market bubbles.,NEUTRAL - The sentence does not express a clear stance on monetary policy. It simply presents the view of one group of economists that financial market bubbles should not influence monetary policy.
+2,"Under pure monetary targeting, interest rates would fluctuate with shocks in spending.","NEUTRAL
+
+The sentence simply describes the impact of pure monetary targeting on interest rates, without expressing any preference for tightening or easing of monetary policy. Therefore, it can be classified as neutral."
+1,"To this end, the new statement conveys the Committee's judgment that, in order to anchor expectations at the 2 percent level consistent with price stability, it ""seeks to achieve inflation that averages 2 percent over time,"" andâ€”in the same sentenceâ€”that therefore ""following periods when inflation has been running persistently below 2 percent, appropriate monetary policy will likely aim to achieve inflation moderately above 2 percent for some time.""","DOVISH
+
+The sentence suggests that the Committee is willing to tolerate inflation moderately above 2 percent for some time after periods of persistently low inflation. This indicates a willingness to ease monetary policy to achieve the desired inflation target, hence the label 'DOVISH'."
+2,"In both of the examples I have just discussed, the medium-frequency evolution of market-based, survey-based, and model-based estimates of r* and expected inflation have, over time, tended to move broadly together.","NEUTRAL
+
+This sentence does not express a clear stance on monetary policy. It simply describes the evolution of market-based, survey-based, and model-based estimates of r* and expected inflation over time."
+2,"For example, the shift in manufacturing production from artisanal shops in the mid-1800s to factories after the Civil War led to a disproportionate increase in the demand for unskilled labor to operate the new machines.","NEUTRAL
+
+The sentence is discussing a historical shift in manufacturing production and its impact on the demand for unskilled labor. It does not contain any indication of a stance on monetary policy, therefore it is classified as NEUTRAL."
+2,"The growth of subprime mortgage lending is one indication of the extent to which access to credit has increased for all households, including those with lower incomes.","NEUTRAL
+
+This sentence does not express a clear stance on monetary policy. It simply provides an observation about the growth of subprime mortgage lending and its impact on access to credit for households with lower incomes."
+2,"To abstract from the potential effects of cyclical factors on the yield curve, consider the pattern of forward rates many years into the future, at which point the effects of current cyclical shocks would be expected to no longer be important.2 Such forward rates reflect not only market expectations of future short-term interest rates","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It is discussing a method for analyzing the yield curve and forward rates, without advocating for any particular policy action."
+2,The changes we made last year to our Statement on Longer-Run Goals and Monetary Policy Strategy are well suited to address today's challenges.,"NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply states that the changes made to the Statement on Longer-Run Goals and Monetary Policy Strategy are appropriate for current challenges."
+2,"When anticipations of Fed tapering led to higher U.S. interest rates and higher market volatility, these trades may have been quickly unwound, engendering particularly sharp declines in EME exchange rates and asset prices.","DOVISH - The sentence suggests that the anticipation of Fed tapering led to higher interest rates and market volatility, which in turn caused sharp declines in EME exchange rates and asset prices. This implies that the Fed's monetary policy may have been too tight, and therefore, a dovish stance may be required to ease the situation."
+2,"October 19, 2020 U.S. Economic Outlook, Monetary Policy, and Initiatives to Sustain the Flow of Credit to Households and Firms Vice Chair Richard H. Clarida At the Unconventional Convention of the American Bankers Association, Washington, D.C. (via webcast) Share It is my pleasure to meet virtually with you today at the Unconventional Convention of the American Bankers Association.1 I look forward to my conversation with Rob Nichols,","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply introduces the speaker and the event he is attending."
+2,This was a somewhat sharper effect than was anticipated at the beginning of the year and accounts for a small part of the forecast error on inflation.,"NEUTRAL
+
+The sentence provides a factual statement about the inflation forecast error and does not express a clear stance on monetary policy. Therefore, it can be classified as neutral."
+2,"Even so, the growth rate of the ECI did not return to the levels experienced before 2008.","NEUTRAL
+The sentence does not express a clear stance on monetary policy. It simply states a fact about the growth rate of the ECI not returning to pre-2008 levels."
+2,Productivity is a cyclical variable that typically falls in recessions.,"NEUTRAL
+
+The sentence does not express any clear stance on monetary policy. It is a statement about the nature of productivity as a variable that tends to decrease during recessions."
+1,"Nonetheless, the leveling off in that disturbing trend is an encouraging sign of what we can achieve if we can maintain strong and flexible labor markets accompanied by low inflation.",DOVISH - The sentence suggests that the current trend is disturbing and the leveling off of that trend is encouraging. The speaker emphasizes the need to maintain strong and flexible labor markets accompanied by low inflation. This implies a need for continued monetary policy support and a dovish stance.
+2,"When long-term rates rise in response to a cyclical strengthening, it reflects, in large part, the expectation of higher short-term interest rates.","NEUTRAL
+
+This sentence is simply stating a relationship between long-term rates and short-term interest rates. It does not express a clear stance on whether monetary policy should be tightened or eased. Therefore, it is classified as neutral."
+2,Presumably even normal amortized equity that did not come from higher home prices was extracted in this manner.,NEUTRAL: The sentence does not provide any indication of a stance towards tightening or easing of monetary policy. It is a neutral statement describing a possible scenario of how equity was extracted.
+2,"That apparently has not made its way into prices yet,","NEUTRAL
+The sentence does not express a clear stance on monetary policy. It is simply stating a fact that something has not affected prices yet."
+2,"This modal projection for the path of the unemployment rate is, according to the Atlanta Fed jobs calculator, consistent with a rebound in labor force participation to its estimated demographic trend and is also consistent with cumulative employment gains this year and next that, by the end of 2022, eliminate the 7 million ""employment gap"" relative to the previous cycle peak I mentioned earlier.5 As is the case for GDP growth and the unemployment rate, my projections for headline and core PCE (personal consumption expenditures) inflation are also similar to the paths of the SEP median of modal projections for these variables.","NEUTRAL
+
+The sentence provides information about the projection for the path of the unemployment rate and the consistency of the projection with the estimated demographic trend and employment gains. It also mentions the similarity of the projections for headline and core PCE inflation with the median of modal projections. The sentence does not express a clear stance on tightening or easing of monetary policy, hence it is classified as NEUTRAL."
+1,"Nonetheless, the current account deficit continued to grow as a result of the surge in U.S. investment and productivity and the associated capital inflows seeking the higher U.S. rates of return.","NEUTRAL
+The sentence provides a factual statement about the current account deficit and the reasons behind its growth. It does not express any clear stance on monetary policy, therefore it is classified as neutral."
+1,"Furthermore, policymakers hoped that additional tools at their disposal--so-called incomes policies enforced by “jawboning,” guideposts, and price and wage controls--were ready to combat and control any resulting upcreep in inflation with minimal macroeconomic cost.",NEUTRAL: The sentence discusses the availability of additional tools to combat inflation without causing significant macroeconomic costs. It does not express a clear stance on tightening or easing of monetary policy.
+2,Higher productivity is unambiguously good.,NEUTRAL - The sentence does not provide any indication of the stance towards monetary policy. It simply states a fact about productivity.
+1,"Inflation is much too high, and I strongly believe that bringing inflation back to our target is a necessary condition for meeting the goals mandated by Congress of price stability and maximum employment on a sustainable basis.","HAWKISH
+The sentence suggests that the speaker is concerned about high inflation and believes that it is necessary to bring it back to the target level. This implies a potential tightening of the monetary policy to control inflation."
+2,"This lack of congressional momentum could be interpreted as lack of congressional support for inflation targeting, or it could merely reflect a more neutral absence of strong opinions.","NEUTRAL - The sentence presents two possible interpretations of the lack of congressional momentum towards inflation targeting, one being lack of support and the other being a neutral absence of strong opinions. Therefore, the sentence does not lean towards either hawkish or dovish stance, making it neutral."
+1,"These forecasts and forward guidance had a significant effect on raising market interest rates, even though we did nothing with our primary policy tool, the federal funds rate, in December 2021.","HAWKISH
+The sentence suggests that the FOMC's forecasts and forward guidance had a significant effect on raising market interest rates, indicating that the FOMC's stance is towards tightening of the monetary policy."
+0,"While I will carefully monitor inflation expectations, it will be important to see a sustained improvement in actual inflation to meet our average inflation goal.","NEUTRAL
+
+The sentence does not express a clear bias towards either tightening or easing of monetary policy. It simply states that the speaker will monitor inflation expectations and looks for sustained improvement in actual inflation to meet their average inflation goal."
+2,"Nowhere, however, is the challenge to monetary policymakers greater than in emerging economies around the world.","NEUTRAL
+The sentence does not express a clear stance on monetary policy, but rather highlights the difficulty faced by policymakers in emerging economies."
+0,"November 08, 2021 Flexible Average Inflation Targeting and Prospects for U.S. Monetary Policy Vice Chair Richard H. Clarida At the Symposium on Monetary Policy Frameworks, The Brookings Institution, Washington, D.C. (via webcast) Share Watch Live Outlooks and Outcomes for the U.S. Economy The U.S. economy in the second quarter of this year made the transition from economic recovery to economic expansion.1 Given the catastrophic collapse in U.S. economic activity in the first half of 2020 as a result of the global pandemic and the mitigation efforts put in place to contain it, few forecasters could have expectedâ€”or even dared to hopeâ€”in the spring of last year that the recovery in gross domestic product (GDP), from the sharpest decline in activity since the Great Depression, would be either so robust or as rapid.","NEUTRAL
+
+The sentence provides a neutral outlook on the U.S. economy, discussing its transition from recovery to expansion and acknowledging the unexpected strength of the recovery. However, it does not take a stance on whether monetary policy should be tightened or eased."
+0,"At the same time, recent research on the science of monetary policy (as well as the analysis of several historical episodes) has underscored the pitfalls that can result from maintaining a zero or negative inflation rate over time.","HAWKISH - The sentence suggests that maintaining a zero or negative inflation rate over time can result in pitfalls, which implies that the current monetary policy may need to be tightened to avoid such pitfalls."
+2,"From a policy perspective, a difficulty with all these measures is that they reflect expectations of headline inflation rather than the core inflation measures usually emphasized in the monetary policy context.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply highlights a difficulty with using certain measures to gauge inflation, without advocating for any specific policy action."
+2,"It is generally thought that monetary policy takes many months to have most of its effect on the growth of output and employment, while, of course, it has an immediate impact on financial markets.","NEUTRAL
+
+The sentence does not express a clear stance on whether the monetary policy should be tightened or eased. It simply states a commonly held belief about the time lag between the implementation of monetary policy and its effects on output, employment, and financial markets."
+2,"Operating Strategies and the FOMC Meeting Now that we appreciate the challenging nature of monetary policy, we are ready to develop a strategy for implementing open market operations.","NEUTRAL
+
+The sentence does not express any clear stance on monetary policy. It simply introduces the topic of developing a strategy for implementing open market operations."
+1,"Expectations of price increases over the near-term--specifically, over the next year--have, in fact, risen noticeably on the heels of the actual increase in inflation.","HAWKISH
+The sentence suggests that there has been a noticeable increase in inflation, which has led to expectations of price increases in the near-term. This implies that the stance is leaning towards tightening of the monetary policy to control inflation."
+0,The dominant force of late appears to have been a significant increase in the structural rate of productivity growth.,"NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply describes a recent trend in productivity growth."
+1,The rapid pace of investment also helped to hold down inflationary pressures by increasing the growth of productive capacity.,"NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply describes how the rapid pace of investment has helped to hold down inflationary pressures by increasing productive capacity."
+2,"Given recent developments, the medium-term outlook for inflation will receive particular scrutiny.","NEUTRAL - The sentence does not indicate a clear bias towards either tightening or easing of monetary policy. It simply states that the medium-term outlook for inflation will be closely monitored, which is a neutral stance."
+2,This is perhaps because the emphasis on price stability is taken by some as carrying a hint of restrictive policy and as an inclination to always be leaning against cyclical increases in demand.,"HAWKISH
+The sentence suggests that the emphasis on price stability is seen as a hint of restrictive policy and a tendency to always counteract increases in demand. This implies a preference for tighter monetary policy, which is consistent with a hawkish stance."
+2,Implications for Monetary Policy The period from 1950 through the early 1980s provides two important lessons for managing the risks and uncertainties we face today.,"NEUTRAL
+The sentence does not express any clear stance on monetary policy. It simply introduces two lessons that can be learned from a specific period of time."
+2,"Central bank actions are designed in the first instance to influence asset prices and yields, which in turn affect economic decisions and thus the evolution of the economy.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply explains the purpose of central bank actions and how they impact the economy. Therefore, it falls under the neutral category."
+1,"Spreads on risky private-sector debt reached very low levels, and damaging spillovers to the nonfinancial sector occurred in the form of unduly high real estate prices and excessive leverage by borrowers in the housing market.","HAWKISH
+The sentence suggests that the low spreads on risky private-sector debt have led to damaging spillovers in the form of high real estate prices and excessive leverage by borrowers in the housing market. This implies that the monetary policy may need to be tightened to prevent further risks to the financial system."
+0,Many of our critics tend to focus only on the inflation aspect of our mandate and ignore the employment leg of our mandate.,NEUTRAL - The sentence does not express a clear stance on monetary policy. It simply acknowledges that some critics only focus on one aspect of the mandate (inflation) and neglect the other aspect (employment).
+0,too pessimistic on job creation and the decline in the unemployment rate.,"DOVISH - The sentence suggests that the job creation and unemployment rate are not improving as expected, indicating a need for monetary policy easing to stimulate economic growth."
+0,"Moreover, when some measures of inflation were close to 1 percent in 2003, the Federal Open Market Committee's official statements specifically noted that any further substantial decline in inflation would be unwelcome, mainly because of the risk that a falling price level (which has not occurred since the Great Depression) could cause a significant disruption to economic activity and employment.",HAWKISH - The sentence indicates that the Federal Open Market Committee was concerned about the risk of falling price levels and disruption to economic activity and employment due to a substantial decline in inflation. This suggests a preference for tightening of the monetary policy to prevent such a scenario.
+1,Funding of our current account deficit likely will become more difficult when home bias approaches its practical minimum.,"NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply states a potential difficulty in funding the current account deficit when home bias approaches its practical minimum."
+1,Such a jump could raise core inflation temporarily if it is passed through to other prices or if it contributes to increasing inflation expectations.,"NEUTRAL
+
+The sentence presents a hypothetical scenario and does not express a clear stance on monetary policy. It simply acknowledges the possibility of a temporary increase in core inflation and the potential factors that could contribute to it. Therefore, the sentence is classified as NEUTRAL."
+2,"In some models, these factors can be explicitly tied to observable economic variables, such as inflation; in other models, the factors represent statistical summaries of the data and have no explicit economic interpretations.","NEUTRAL
+
+The sentence does not express any clear stance on the monetary policy. It simply describes different models used in economics and their relationship with observable economic variables."
+2,"Because long-term interest rates can remain low only in a stable macroeconomic environment, these goals are often referred to as the dual mandate","NEUTRAL
+
+The sentence does not express any clear stance on monetary policy. It simply explains the concept of the dual mandate, which is a neutral principle that guides the Federal Reserve's monetary policy."
+0,"During the 1980s and 1990s, the Federal Reserve succeeded in bringing inflation down from double-digit levels to the average rate of about 2 percent that has prevailed over the past decade.","NEUTRAL
+The sentence provides a historical account of the Federal Reserve's success in reducing inflation rates from double-digit levels to an average rate of about 2 percent over the past decade. It does not express any particular stance towards tightening or easing of monetary policy, hence it is classified as neutral."
+2,"But even this relation--between the unemployment rate and the concept of economic slack--is not necessarily constant, and thus a given unemployment rate may not indicate the same level of slack at two separate times.","NEUTRAL
+The sentence does not express a clear stance on monetary policy. It is simply stating a fact about the relationship between unemployment rate and economic slack, and how it may not always be consistent."
+2,"My goal is not to draw conclusions on recent movements in risk premiums but rather to give you a sense of how estimates of risk premiums may influence our policy decisionmaking, to note some of the difficulties that we face in interpreting their movements, and, I hope, to stimulate further research in this already fertile field.1 At the Federal Reserve, we pay a lot of attention to financial market prices in the formulation of monetary policy.","NEUTRAL
+
+The sentence does not express a clear stance on tightening or easing of monetary policy. It simply explains the importance of financial market prices in the formulation of monetary policy and the speaker's goal of providing information and stimulating further research on the topic of risk premiums."
+2,"The price of a ton of cold rolled steel sheet, or a linear yard of cotton broad-woven fabrics, could be reasonably compared over a period of years.","NEUTRAL
+
+This sentence does not provide any indication of the stance towards monetary policy. It simply makes a statement about the comparability of prices for certain goods over time. Therefore, it can be classified as neutral."
+2,"Although your papers concentrate on the equity premium, I would like to take a few minutes today to broaden the discussion to encompass risk premiums in other markets and to highlight the connections between risk premiums and monetary policy.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply introduces a topic for discussion and highlights the connections between risk premiums and monetary policy."
+1,"Inflation-targeting regimes may allow some consideration of real-side costs either by specifying relatively long adjustment periods, to allow a high probability that the central bank can bring inflation down to the target within the allotted time, or by including ""escape clauses"" that grant temporary exemptions for large supply shocks.","NEUTRAL
+
+The sentence discusses the potential options for inflation-targeting regimes to consider real-side costs. It does not express a clear stance on tightening or easing of monetary policy, thus it is classified as neutral."
+2,"In terms of the performance of inflation and unemployment, the experience of the past few years has not been unlike a mirror image of the 1970s.","NEUTRAL
+The sentence does not express a clear stance on monetary policy. It simply compares the current economic situation to that of the 1970s in terms of inflation and unemployment."
+2,"This observation raises the question of why, in some cases, the putative productivity benefits of investments in new technologies do not occur until years after those investments are made.","NEUTRAL
+The sentence does not express any clear stance on monetary policy, but rather discusses a question related to productivity benefits of investments in new technologies."
+1,"During the past several years, workers across the wage distribution--not just at the upper end--have seen noticeable increases in the inflation-adjusted value of their wages.","NEUTRAL
+The sentence does not express any clear stance on monetary policy, but rather provides information on the past trends in wage growth across different income levels."
+2,"In the productivity boom that followed World War I, a chief technological innovation was the spread of electrification to the factory floor.",NEUTRAL - This sentence does not provide any indication of the stance towards monetary policy. It is simply a statement about a technological innovation during a specific time period.
+2,"With regard to our price-stability mandate,","NEUTRAL
+
+This sentence does not provide any indication of a hawkish or dovish stance. It simply introduces the topic of the FOMC's price-stability mandate, which could lead to a variety of policy decisions. Therefore, the stance is neutral."
+2,How would that development affect the economy and monetary policy?,"NEUTRAL
+The sentence is a neutral inquiry about the potential impact of a certain development on the economy and monetary policy. It does not express a clear preference for either tightening or easing of the monetary policy."
+2,"Despite some recent turbulence, owing in part to geopolitical events, stock prices have logged robust gains over the past 3-1/2 years, and broad equity indices have now retraced most of the ground lost between 2000 and 2002.","NEUTRAL
+
+The sentence does not provide any indication of the stance towards monetary policy. It simply presents a factual statement about the performance of stock prices and equity indices over a period of time."
+2,"Besides influencing the near-term course of important economic variables, such as gross domestic product growth, inflation, and profits, productivity largely determines our society's long-term economic welfare.","NEUTRAL
+
+The sentence does not express any clear stance on monetary policy. It simply highlights the importance of productivity in determining long-term economic welfare."
+0,"On the other hand, the fact that productivity growth has remained solid in recent years increases confidence that a larger fraction of those productivity gains reflects longer-term developments and a smaller fraction reflects cyclical factors.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply discusses the relationship between productivity growth and longer-term versus cyclical factors."
+1,This monetary expansion could generate domestic inflation unless it is sterilized with other open market sales of securities--and the mere scale of present and expected future debt stocks may make continued sterilization impossible.,"HAWKISH
+The sentence suggests that the monetary expansion could lead to domestic inflation, which implies a need for tightening of the monetary policy. The mention of the difficulty in continued sterilization due to the scale of debt stocks further reinforces the hawkish stance."
+2,will soon fall well below its underlying trend as the price of energy falls back to its initial level.,"DOVISH - The sentence suggests that the inflation rate will fall below its underlying trend, which indicates a weaker economy. The reason for this is the expected fall in energy prices, which is a positive development for consumers but a negative one for producers. Therefore, the sentence implies that the central bank may consider easing monetary policy to support economic growth."
+2,"This effort culminated in 1943 with the publication of Banking and Monetary Statistics, which included annual figures on demand and time deposits from 1892 and on currency from 1860.","NEUTRAL
+
+The sentence does not contain any indication of a stance towards tightening or easing of monetary policy. It simply provides historical information about the publication of banking and monetary statistics. Therefore, the sentence can be classified as NEUTRAL."
+0,"Nonetheless, employment is still 9.5 million below its pre-pandemic level for the economy as a whole.","NEUTRAL
+
+The sentence provides a factual statement about the current state of employment in the economy without indicating any particular stance towards monetary policy. Therefore, it can be classified as neutral."
+0,The second requirement contributes to the first and also to smoothing fluctuations in output around full employment.,"NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply describes how the second requirement contributes to the first and how it helps to stabilize fluctuations in output around full employment."
+2,"Shortly after 9 a.m. each morning, the Desk staff and staff members at the Board of Governors confer over the phone to discuss their respective estimates of the day's demand for balances as well as to consider factors that may affect supply.",NEUTRAL - The sentence describes a routine activity of the Federal Reserve staff to discuss the estimates of the day's demand for balances and factors that may affect supply. It does not indicate any stance towards tightening or easing of monetary policy.
+2,"There is, in fact, an unusual discrepancy between the unemployment and capacity utilization rates, compared to previous expansions","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply presents a fact about the discrepancy between unemployment and capacity utilization rates, without indicating whether this should lead to a tightening or easing of policy."
+2,Such departures of expectations from perfect rationality can be an important source of observed inflation dynamics.,NEUTRAL - The sentence does not express a clear stance on monetary policy. It is simply stating that departures from perfect rationality can impact inflation dynamics.
+1,Proponents of this strategy sometimes describe this approach as reducing inflation cycle-to-cycle or describe the economy as being one recession from price stability.,"NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply describes a strategy and provides a perspective on the economy's relationship with inflation."
+1,"Following the deepest plunge since the Great Depression, employment and activity rebounded faster and more sharply than anticipated.","NEUTRAL
+
+The sentence does not express a clear stance on monetary policy. It simply describes the rebound of employment and activity after a deep plunge, without indicating whether this should lead to a tightening or easing of monetary policy."

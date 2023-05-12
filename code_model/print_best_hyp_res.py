@@ -3,12 +3,20 @@ import os
 
 files = os.listdir('../grid_search_results')
 
-files_xls = [f for f in files if 'roberta-large.xlsx' in f]
+files_xls = [f for f in files if '_roberta.xlsx' in f]
 
 for file in files_xls:
     df = pd.read_excel('../grid_search_results/' + file)
-    df_temp = df.groupby(['Learning Rate', 'Batch Size'], as_index=False).mean()
-    max_element = df_temp.iloc[df_temp['Val F1 Score'].idxmax()] #df_temp['Val F1 Score'].max()
+    df_temp = df.groupby(['Learning Rate', 'Batch Size'], as_index=False).agg(
+    {
+        "Val F1 Score": ["mean"],
+        "Test F1 Score": ["mean", "std"]
+    }
+    )
+    df_temp.columns = ['Learning Rate', 'Batch Size', 'mean Val F1 Score', 'mean Test F1 Score', 'std Test F1 Score']
+    # print(df_temp)
+    max_element = df_temp.iloc[df_temp['mean Val F1 Score'].idxmax()] 
     print(file)
-    print(max_element)
-    print(max_element['Test F1 Score'], "\n")
+    # print(max_element)
+    print(max_element['mean Test F1 Score'])
+    print(format(max_element['std Test F1 Score'], '.4f'), "\n")

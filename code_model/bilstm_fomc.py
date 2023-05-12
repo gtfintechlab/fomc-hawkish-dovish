@@ -118,8 +118,8 @@ def run_lstm(train, test, max_len, seed, epoch_val, b_size):
                         embedding_dim,
                         input_length=max_len,
                         mask_zero=True))
-    model.add(LSTM(4, return_sequences=False))  # LSTM, comment out when switching
-    # model.add(Bidirectional(LSTM(4, return_sequences=False))) #Bi-LSTM
+    # model.add(LSTM(4, return_sequences=False))  # LSTM, comment out when switching
+    model.add(Bidirectional(LSTM(4, return_sequences=False))) #Bi-LSTM
     model.add(Dense(5, activation='relu'))
     model.add(Dropout(0.7))
     model.add(Dense(3, activation='sigmoid'))
@@ -180,5 +180,5 @@ for f in range(len(train_dir)):
 
 print(res_df)
 t = pd.DataFrame(res_df)#.groupby(['Dataset', "Epoch", "Batch-Size"], as_index=False)[['Val-Acc', 'Test-Acc']].mean()
-t.to_excel("../grid_search_results/lstm_results/results_full.xlsx", index=False)
-#t.to_excel("../grid_search_results/bilstm_results/results_full.xlsx", index=False)
+# t.to_excel("../grid_search_results/lstm_results/results_full.xlsx", index=False)
+t.to_excel("../grid_search_results/bilstm_results/results_full.xlsx", index=False)
