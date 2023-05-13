@@ -1,7 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"over the past 100 years, for example, the rate of increase of the gross domestic product of the united states, adjusted for price change, has averaged around 3 percent per year.",LABEL_2,0.955147385597229
-1,"yet only a fraction of that increase represents growth in the tonnage of physical materials--particularly oil, coal, wood, raw chemicals--and increases in the amount of manual labor employed in the production process.",LABEL_1,0.8589810132980347
-2,the unemployment rate for adults with a high school education or less fell from 4¾ percent in 1998 to around 4 percent by the middle of last year.,LABEL_0,0.7529265880584717
-3,"and, while the proportion of small-business managers who worried about labor quality has remained elevated in the past few years, it did not increase further in spite of the decline in unemployment.",LABEL_2,0.7380898594856262
-4,those workers without very sophisticated programming skills could not interface with the new computer-driven technologies and thus often could not take advantage of the potential productivity improvements associated with those technologies.,LABEL_2,0.9963979125022888
-5,"certainly, if we are to remain preeminent in transforming knowledge into economic value, the u.s. system of higher education must remain the world leader in generating scientific and technological breakthroughs and in preparing workers to meet the evolving demands for skilled labor.",LABEL_2,0.619363009929657

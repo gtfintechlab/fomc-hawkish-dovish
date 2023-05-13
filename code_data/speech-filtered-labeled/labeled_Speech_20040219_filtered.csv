@@ -1,4 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"firms also use derivatives to manage their risk exposures to price fluctuations in currency, commodity, energy, and interest rate markets.",LABEL_2,0.9868326783180237
-1,"however, the bank's internal risk report would show much more extensive information, such as the interest rates on the loans, the credit quality of the underlying assets, and the range of values the portfolio would take under alternative future scenarios.",LABEL_2,0.9992155432701111
-2,"thus, unlike a user of the fair value report, the user of a risk-management report could determine whether the fall in value was due to declining credit quality, rising interest rates, or sales or payoffs of loans.",LABEL_1,0.7432007193565369

@@ -1,5 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"according to a global survey of financial institutions conducted by pricewaterhousecoopers, one of the reasons financial institutions are not making the grade is that they equate effective governance with meeting the demands of regulators and legislators, without recognizing that sound governance is also good for business.1 that is, they tend to look at this as another compliance exercise.",LABEL_2,0.9233560562133789
-1,"because so much of the revenue from these products is in the form of up-front, monthly, and late fees, rapid growth in the number of accounts leads to billing of fees ahead of charge-offs that occur later in the customer relationship.",LABEL_1,0.9955741167068481
-2,"further, the rapid growth of credit card balances outstanding also masked the deteriorating credit quality of some portfolios.",LABEL_1,0.9947660565376282
-3,"some banks realized that as soon as growth of accounts slowed, the front-ending of income would be overcome by the back-ending of charge-offs.",LABEL_0,0.950498640537262

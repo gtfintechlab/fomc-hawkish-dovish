@@ -1,5 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"the productivity of the u.s. economy accelerated in the mid-1990s and productivity has grown at an even more rapid pace this decade, as new technologies and increasingly sophisticated capital equipment have made it possible to produce and deliver goods and services more efficiently and cost effectively.",LABEL_1,0.9845095276832581
-1,"on at least one network, debit card payments have recently surpassed credit card payments, reflecting the rapid growth in debit card use that has been evident for a number of years.",LABEL_1,0.9516022801399231
-2,these new uses of the ach for one-time payments have driven continuing double-digit growth rates of ach transaction volume.,LABEL_1,0.8679930567741394
-3,the interviews emphasized that providers of payment services cannot assume that an innovative service will generate significant demand simply because it provides new and creative technical capabilities.,LABEL_2,0.9088771343231201

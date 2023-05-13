@@ -1,9 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,growth of index and other multiname cds has been especially rapid in recent years and those instruments now account for more than 40 percent of both the notional amount and the current market value of all cds.,LABEL_2,0.8619431853294373
-1,the very rapid growth of the credit derivatives market reflects their perceived value for managing credit risks.,LABEL_2,0.8977020978927612
-2,"in particular, they have been issuing guidance on counterparty credit risk management since the mid-1990s and have updated it several times, notably after the near failure in 1998 of long-term capital management, which was a major participant in the interest rate derivatives market.",LABEL_2,0.6547294855117798
-3,"with the rapid growth of the credit derivatives market and other derivatives markets and the increasing participation of hedge funds in those markets, the management of counterparty exposures to hedge funds has been given careful attention, including a thorough review of relevant risk-management practices by the president's working group on financial markets (pwg) in 2006.",LABEL_2,0.7669038772583008
-4,"for too many years, post-trade processing of otc derivatives transactions remained decentralized and paper-based despite enormous growth in transactions volumes.",LABEL_2,0.780707061290741
-5,dealers also quickly announced their support for a novation protocol for credit and interest rate derivatives that had been developed by the international swaps and derivatives association.,LABEL_2,0.9838569760322571
-6,"they also agreed to extend the infrastructure improvements in the credit derivatives market over time to encompass the otc equity, interest rate, foreign exchange, and commodity derivatives markets.",LABEL_2,0.9778882265090942
-7,"for example, since september 1999, lch.clearnet limited has operated swapclear, a london-based ccp for interest rate swaps between dealers.",LABEL_2,0.8422452807426453

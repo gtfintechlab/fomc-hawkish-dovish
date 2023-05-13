@@ -1,6 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"although protecting financial stability is germane to numerous areas, including monetary policy, today i will focus on some aspects of its relevance for financial regulation.",LABEL_2,0.9414809942245483
-1,"the sudden increase in market supply of the assets drives down prices, often substantially.",LABEL_1,0.6603004932403564
-2,creditors and managers of firms who anticipate such support may not price into their credit or investment decisions the full risk associated with those decisions.,LABEL_0,0.9194578528404236
-3,"assuming that a government overcomes time-consistency problems and credibly binds itself not to rescue these institutions, their growth would presumably be somewhat circumscribed.",LABEL_2,0.9913793206214905
-4,"doing nothing would mean allowing the presence and growth in markets of large unregulated firms, creating the potential for large negative effects on the financial system should they follow the path trodden by some such firms in the years preceding the crisis.",LABEL_0,0.9980978965759277

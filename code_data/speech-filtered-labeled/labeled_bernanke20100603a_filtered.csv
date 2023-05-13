@@ -1,7 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,one particularly difficult issue is the continued high rate of unemployment.,LABEL_0,0.9968405961990356
-1,"high unemployment imposes heavy costs on workers and their families, as well as on our society as a whole.",LABEL_0,0.9968886971473694
-2,"i raise this issue here because healthy small businesses, including start-ups as well as going concerns, are crucial to creating jobs and improving employment security.",LABEL_2,0.49525514245033264
-3,"indeed, outstanding loans to small businesses dropped from almost $700 billion in the second quarter of 2008 to approximately $660 billion in the first quarter of 2010.1 an important but difficult-to-answer question is how much of this reduction has been driven by weaker demand for loans from small businesses and how much by restricted credit availability.",LABEL_0,0.994688093662262
-4,"to be sure, the distinction between demand and supply is not always easy to make.",LABEL_2,0.9867997765541077
-5,"from the potential borrower's point of view, particularly a borrower who has been able to obtain loans in the past, these changes may feel like a reduction in the supply of credit; from the lender's point of view, the problem appears to be a lack of demand from creditworthy borrowers.",LABEL_0,0.9898247718811035

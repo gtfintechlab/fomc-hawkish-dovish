@@ -1,6 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,another would be for congress to establish periodic reporting requirements for consumer protection similar to the federal reserve semiannual monetary policy report.,LABEL_2,0.5549212098121643
-1,"consumer spending makes up roughly 70 percent of gross domestic product (gdp), and, thus, is an important factor to achieving sustainable economic growth.",LABEL_1,0.8762369155883789
-2,the rapid growth of this problem led us to purchase 30-second spot advertisements in movie theaters in 18 cities experiencing high foreclosure rates.,LABEL_0,0.9598456621170044
-3,"first, as i mentioned previously, congress could formally codify consumer protection as a core mission or responsibility for the federal reserve, similar to monetary policy and banking supervision and regulation.",LABEL_0,0.9778980612754822
-4,"second, congress could require the chairman of the federal reserve board to report periodically regarding the ""state of consumer protection,"" in the financial services industry, similar to the semiannual monetary policy report to the congress.",LABEL_2,0.9962782263755798

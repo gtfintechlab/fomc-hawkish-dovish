@@ -1,6 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"in terms of market volatility, there was some limited--and understandable--volatility in energy-related futures contracts and securities prices on friday.",LABEL_2,0.9930320978164673
-1,there was no sense of panic and there were no unusual currency demands.,LABEL_2,0.8268662691116333
-2,reserve banks' inventories of currency were sufficient to meet depository institution demand during and after the outage.,LABEL_0,0.6560726761817932
-3,"in this era of unprecedented demand on the critical infrastructure and the increased threat of terrorist and cyber attacks, financial firms must plan how to recover critical operations and service customers in the event of a wide-scale disruption that affects a cross section of the industry as well as the critical infrastructure and the accessibility of key staff.",LABEL_0,0.9075069427490234
-4,some firms that were able to switch over to generators found it difficult to arrange for additional fuel because of transportation issues and because of competing demands and delivery priorities.,LABEL_2,0.6991983652114868

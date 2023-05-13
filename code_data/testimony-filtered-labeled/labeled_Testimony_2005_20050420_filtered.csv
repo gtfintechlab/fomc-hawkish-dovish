@@ -1,5 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"over the same period, the reserve banks have increased the price of their more labor-intensive paper check service approximately 50 percent.",LABEL_1,0.9974678158760071
-1,"specifically, state laws governing check collection allow banks to demand that the original checks be physically presented for payment.",LABEL_1,0.9154799580574036
-2,"while check 21 does not mandate that checks be presented electronically or change a bank's right to demand paper, it does facilitate the adoption of check truncation and electronic collection of checks through the action of market forces.1 when the paying bank does not agree to receive checks electronically and demands that presentment be made by paper checks, check 21 allows the other banks to create and present paper substitute checks that are legally equivalent to the original checks.",LABEL_1,0.49010294675827026
-3,"of course, each bank will determine for itself which makes good business sense: adopting new technologies for sending and receiving checks electronically or continuing to demand paper.",LABEL_2,0.9539002180099487

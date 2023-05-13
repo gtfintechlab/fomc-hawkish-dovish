@@ -1,7 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"by late 2000, the unemployment rate was the lowest it had been in more than thirty years.",LABEL_0,0.9951118230819702
-1,"in fact, the unemployment rate for blacks dropped to less than 7-1/2 percent in late 2000; it had not fallen meaningfully below 9 percent between 1972, when minority unemployment statistics were first collected, and mid-1998.",LABEL_0,0.958551824092865
-2,their unemployment rate was still nearly twice the national average.,LABEL_1,0.9918836951255798
-3,the unemployment rate for blacks once again hit double-digits in december and remained near or above 10 percent during the first four months of this year.,LABEL_1,0.9974349737167358
-4,you can tell from these numbers that minority unemployment rates tend to run higher than the national average throughout the economic cycle.,LABEL_1,0.8570588231086731
-5,they also described the important role of the federal reserve in setting monetary policy to help our economy achieve low inflation and maximum sustainable economic growth.,LABEL_0,0.9970576763153076

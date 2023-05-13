@@ -1,9 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"going forward, these alternative rates could replace libor as the reference rate for new interest rate derivatives and some other contracts denominated in u.s. dollars.",LABEL_0,0.5591232776641846
-1,the basics i will take a few moments to explain the basic mechanics of libor for those who have not spent time on an interest rate swap desk.,LABEL_2,0.9959355592727661
-2,"pervasive and problematic when the british bankers' association standardized libor in the 1980s for use in interest rate products, i doubt that anyone could have imagined how pervasive it would eventually become.",LABEL_1,0.9242541193962097
-3,"in the united states, dollar libor is the reference rate used in most interest rate swaps and futures contracts, in most floating-rate mortgages, in many commercial loans, and in structured products such as mortgage- and asset-backed securities.",LABEL_0,0.8003107905387878
-4,"firms use libor in contracts, even when it is less than ideal, because they know they can hedge the resulting risk using highly liquid, libor-based interest rate swaps or other derivatives contracts.",LABEL_0,0.8450132608413696
-5,these transactions are more appropriately linked to a narrower measure of interest rates that does not include a bank credit risk component.,LABEL_2,0.9486544132232666
-6,"some derivatives, such as interest rate swaps, can be quite long lasting, and, over a long enough period of time, there is always a risk that any given reference rate will cease being published.",LABEL_0,0.970556378364563
-7,"conclusion my hope is that governments, market participants, and end users can work together to build a stronger foundation for the reference interest rates that are so critical to our financial system.",LABEL_0,0.9721606969833374
