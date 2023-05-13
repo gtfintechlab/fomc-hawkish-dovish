@@ -1,3 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,the notional value of interest rate swaps that are centrally cleared has more than doubled since 2009 and now stands at more than $400 trillion.3 these amounts will surely increase further in the coming years.,LABEL_1,0.9972755908966064
-1,"this process involves modeling potential price movements with an appropriate confidence threshold, determining the closeout period in the event the participant defaults, and numerous other factors.",LABEL_2,0.999264121055603

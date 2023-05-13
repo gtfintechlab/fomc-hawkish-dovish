@@ -1,5 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,creditors who believe that an institution will be regarded by the government as too big to fail may not price into their extensions of credit the full risk assumed by the institution.,LABEL_0,0.9368736743927002
-1,thus the institution has funds available to it at a price that does not fully internalize the social costs associated with its operations.,LABEL_2,0.5818007588386536
-2,"the regulatory system accommodated the growth of capital market alternatives to traditional financing by relaxing many restrictions on the type and geographic scope of bank activities, and virtually all restrictions on affiliations between banks and non-bank financial firms.",LABEL_0,0.9883062839508057
-3,"with lenders increasingly unwilling to extend credit against these assets, liquidity-strained institutions made increasingly distressed asset sales, which placed additional downward pressure on asset prices, leading to margin calls for leveraged actors and mark-to-market losses for all holders of the assets.",LABEL_0,0.9990274310112

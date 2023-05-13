@@ -1,7 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,traditional lenders have eased standards and accommodated rising loan demand with attractive lending terms for creditworthy borrowers.,LABEL_0,0.9200811982154846
-1,"bank call reports indicate that from 1994 to 1998, there was a steady increase in commercial bank lending to small business, from $294 billion worth of small business loans in 1994 to $370 billion in 1998 (nearly 6 percent annual growth).",LABEL_1,0.9906848669052124
-2,this growth in overall commercial bank lending suggests a rising business loan demand and a willingness of banks to accommodate that demand.,LABEL_1,0.9984878897666931
-3,one factor in this growth is competition.,LABEL_2,0.5623719692230225
-4,secondary markets another important development in overall credit markets has been the rapid growth of secondary loan markets.,LABEL_1,0.8760986328125
-5,our economy has experienced strong growth and this growth has been reflected in strong small business growth.,LABEL_1,0.9563082456588745

@@ -33,25 +33,6 @@ os.environ["CUDA_VISIBLE_DEVICES"] = str("0")
 output_dir = "../lstm_results/"
 pd.set_option('display.max_rows', 500)
 
-'''
-def plot_history(history):
-    # summarize history for accuracy
-    plt.plot(history.history['accuracy'])
-    plt.plot(history.history['val_accuracy'])
-    plt.title('model accuracy')
-    plt.ylabel('accuracy')
-    plt.xlabel('epoch')
-    plt.legend(['train', 'validation'], loc='upper left')
-    plt.show()
-    # summarize history for loss
-    plt.plot(history.history['loss'])
-    plt.plot(history.history['val_loss'])
-    plt.title('model loss')
-    plt.ylabel('loss')
-    plt.xlabel('epoch')
-    plt.legend(['train', 'validation'], loc='upper left')
-    plt.show()
-'''
 
 
 def get_max_length(df):
@@ -118,8 +99,7 @@ def run_lstm(train, test, max_len, seed, epoch_val, b_size):
                         embedding_dim,
                         input_length=max_len,
                         mask_zero=True))
-    model.add(LSTM(4, return_sequences=False))  # LSTM, comment out when switching
-    # model.add(Bidirectional(LSTM(4, return_sequences=False))) #Bi-LSTM
+    model.add(LSTM(4, return_sequences=False)) 
     model.add(Dense(5, activation='relu'))
     model.add(Dropout(0.7))
     model.add(Dense(3, activation='sigmoid'))
@@ -179,6 +159,5 @@ for f in range(len(train_dir)):
 
 
 print(res_df)
-t = pd.DataFrame(res_df)#.groupby(['Dataset', "Epoch", "Batch-Size"], as_index=False)[['Val-Acc', 'Test-Acc']].mean()
+t = pd.DataFrame(res_df)
 t.to_excel("../grid_search_results/lstm_results/results_full.xlsx", index=False)
-#t.to_excel("../grid_search_results/bilstm_results/results_full.xlsx", index=False)

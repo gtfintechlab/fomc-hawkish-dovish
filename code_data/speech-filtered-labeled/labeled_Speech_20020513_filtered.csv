@@ -1,7 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,by the time i graduated from junior high school i had read the constitution; not until much later did i study how prices are set in a market economy.,LABEL_2,0.9699418544769287
-1,"fortunately, as my federal reserve board colleague ned gramlich pointed out recently, changes in our financial system--including the increasing complexity and diversity of product offerings--have created consumer demand for improved education.",LABEL_1,0.9706078171730042
-2,"and, in part, they arise from the knowledge that our mandate to promote economic growth and stable prices requires public understanding and approval of the policies we implement.",LABEL_1,0.9780280590057373
-3,many federal reserve educational programs date from the period in which the fed's efforts to fight inflation inspired an intense political and economic debate about monetary policy.,LABEL_0,0.5377272367477417
-4,"a strong and flexible economy means that resources are directed to the areas of greatest need, productivity and innovation are supported, and the ability to withstand shocks is enhanced.",LABEL_2,0.7508175373077393
-5,"unemployment happens to even the most financially literate, as do medical emergencies.",LABEL_0,0.9687458872795105

@@ -1,9 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"as one example, the volume of ppp lending has driven meaningful asset growth, especially for smaller banks.",LABEL_1,0.9691647291183472
-1,"we recognize that for some institutions, this asset growth has caused many banks to exceed or nearly exceed certain asset-based thresholds contained in statutes, regulations, and reporting requirements.",LABEL_1,0.9725487232208252
-2,we are currently exploring how to address regulatory and supervisory challenges caused by this temporary asset growth.,LABEL_2,0.8763223886489868
-3,"our nation has suffered the sharpest drop in economic activity in u.s. history, and while unemployment remains quite high, the recent economic data have been encouraging and suggest that our national economy has been recovering at a rapid pace.",LABEL_2,0.9841853380203247
-4,"asset prices in particular, remain vulnerable to significant price declines should the pandemic seriously worsen.",LABEL_0,0.991915762424469
-5,"origination fees and interest income from ppp lending fueled some of this improvement, with many community banks reporting substantial loan growth as a result of the program, and a few actually doubling their balance sheets.",LABEL_1,0.8276731967926025
-6,"as seen in figure 3, the quarter-over-quarter loan growth would have been negative, absent the ppp loans.",LABEL_2,0.9866868853569031
-7,"the average net interest margin at community banks tightened during the second quarter, and it is likely that margins will remain under pressure given the low interest rate environment.",LABEL_0,0.9992169737815857

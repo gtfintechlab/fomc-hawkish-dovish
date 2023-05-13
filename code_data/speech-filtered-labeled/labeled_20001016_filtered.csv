@@ -1,8 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,the regulatory policy challenges raised in these markets by new technology are important because the ways in which the challenges are met have consequences for our financial system and our overall economic growth.,LABEL_2,0.89000004529953
-1,"through the issuance of equities, firms enable broad sets of investors to share in the risks and rewards of economic activity.",LABEL_0,0.42694443464279175
-2,"concerns that this fragmentation will harm the price discovery process, investors' ability to obtain the best executions, and overall market liquidity are driving many policy discussions.",LABEL_0,0.4691261947154999
-3,the prices established in equity markets should reflect the supplies and demands of participants at a given time.,LABEL_2,0.9987388849258423
-4,fragmentation thus raises both questions about the quality and completeness of the price discovery process and concerns that investors' orders to buy and sell securities may not be executed at the best price or the lowest cost.,LABEL_2,0.9695203304290771
-5,"of course, this process may not be fully realized if there are impediments to competition or if markets are able to establish and secure niches by competing on factors other than price.",LABEL_2,0.986710786819458
-6,"many fear that, without a complete re-engineering of the process that uses new technology to achieve straight-through processing, or stp, of trade data, further increases in trading volumes, driven in part by the ongoing decimalization of equity prices, will soon result in serious capacity problems.",LABEL_1,0.9943660497665405

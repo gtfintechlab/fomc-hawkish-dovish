@@ -1,6 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,homeowners in close proximity to foreclosures experience even greater losses in value than the general price declines that occur as a market absorbs a large number of distressed sales.,LABEL_0,0.9933945536613464
-1,"this ""shadow inventory"" threatens to continue the downward pressure on housing prices and further destabilizes communities.",LABEL_0,0.9988716244697571
-2,what began as a problem rooted in poorly underwritten loans has been exacerbated by high unemployment and slow economic growth.,LABEL_0,0.9991949200630188
-3,"indicators include such things as median sales prices, number of sales as a percent of housing units, foreclosure filings as a percentage of sales, percentage of commercial properties, percentage of tax abated properties or newly constructed properties, percentage of owner-occupied properties, and residential vacancy rates.",LABEL_2,0.997841477394104
-4,including rental options among the mix of stabilization strategies makes particular sense at a time of high unemployment.,LABEL_0,0.9985925555229187

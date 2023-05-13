@@ -1,6 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"while the study found that financial consolidation has not significantly affected either the conduct or the effectiveness of monetary policy, we also concluded that central banks should remain alert to how future consolidation may affect the competitiveness of the markets that are most important to monetary policy.",LABEL_0,0.9284945130348206
-1,central banks should also monitor potential future changes in the transmission mechanisms for monetary policy.,LABEL_2,0.981479287147522
-2,"the basic idea is that if a bank believes that truncating some or all of the checks it receives makes business sense, it should be able to do so without worrying about demands by other parties that the original check must be located and presented.",LABEL_0,0.7762677669525146
-3,"when such demands are made, a legally sanctioned paper copy of the original could be provided in place of the original.",LABEL_1,0.9596099853515625
-4,"in short, through this approach, the demand of some for paper checks will carry less weight in the business decisions of the many.",LABEL_2,0.9792404770851135

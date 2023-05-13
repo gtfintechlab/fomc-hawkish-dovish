@@ -1,5 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"the first and, to my mind, still the most important element of regulatory strengthening was to increase the amount of capital held by banks to ensure they remained viable financial intermediaries that could finance economic activity.",LABEL_1,0.9760118126869202
-1,"this outcome was, in effect, the price of the largest banks not being subject to a direct structural solution such as breakup.",LABEL_0,0.8830756545066833
-2,"some central bankers around the world have been arguing to exclude central bank reserves from the leverage ratio denominator, on the ground that they are ""safe"" and that including them may make monetary policy harder to execute in a period of unusually large central bank balance sheets.",LABEL_0,0.9976056814193726
-3,"as the financial system evolves, with the creation of new products and new correlations among asset price movements, the supervisory model must account for these changes.",LABEL_2,0.9976648688316345

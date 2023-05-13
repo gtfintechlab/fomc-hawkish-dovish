@@ -1,6 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"so it was in the financial crisis, when central banks undertook extraordinary monetary policy measures and governments made major financial firms wards of the state.",LABEL_0,0.9986732006072998
-1,and the federal reserve had established a number of lending programs to provide liquidity to financial institutions in addition to its aggressive monetary policy actions.,LABEL_0,0.9989420175552368
-2,"first, in february 2009, each of the scap banks was asked to perform a capital-adequacy stress test under two economic scenarios--baseline and more adverse--using specified assumptions for gross domestic product (gdp) growth, unemployment, and house prices.",LABEL_2,0.9897662401199341
-3,"on the one hand, they noted that gdp growth was weaker and unemployment higher in 2009 than projected in the more adverse scenario.",LABEL_0,0.9953365325927734
-4,"on the other hand, house prices did not fall as much as assumed under the more adverse scenario.",LABEL_0,0.6844218373298645

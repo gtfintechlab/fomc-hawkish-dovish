@@ -1,5 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"after world war ii, he recognized, again presciently, that high inflation, not contraction, posed the principal threat to the u.s. economy.",LABEL_1,0.9979761242866516
-1,"during world war ii, the fed effectively ceded control of monetary policy to the treasury department by agreeing to maintain a low interest rate peg on government bonds.",LABEL_0,0.9991409182548523
-2,"the low rates helped the government finance the war, but after the war ended, inflation soared.",LABEL_1,0.9972351789474487
-3,the federal reserve-treasury accord of that year separated government debt management from monetary policy and freed the fed to combat high inflation and set short-term interest rates based on what was best for the economy.,LABEL_1,0.8575138449668884

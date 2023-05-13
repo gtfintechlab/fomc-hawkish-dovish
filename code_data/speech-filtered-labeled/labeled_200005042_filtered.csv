@@ -1,5 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,rising levels of income and restored confidence in the banking system led to the growth of deposit banking.,LABEL_1,0.9957363605499268
-1,"over the longer term, the expansion of atm networks and their integration into broad ""point-of-sale"" networks may ultimately improve the convenience of and increase the demand for on-line debit cards.",LABEL_1,0.9836711287498474
-2,"for users, innovative products will need to offer combinations of convenience, confidence, and complexity in making payments that provide advantages over existing payment instruments and systems and to be competitively priced.",LABEL_1,0.8378814458847046
-3,"relatively little new infrastructure was required to use the internet and existing credit card networks as communication tools for making credit card payments to support electronic commerce, and growth has been rapid.",LABEL_2,0.9612843990325928

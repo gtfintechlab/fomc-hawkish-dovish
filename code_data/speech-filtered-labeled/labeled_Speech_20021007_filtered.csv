@@ -1,8 +1,0 @@
-Unnamed: 0,sentence,label,score
-0,"after years of rapid growth, capital spending plunged as firms realized that investments in capital goods, especially in the telecommunication and other high-tech sectors, were excessive.",LABEL_1,0.5675617456436157
-1,"in contrast, despite the substantial destruction of wealth reflected in the decline in equity prices, households, encouraged by ongoing increases in income and housing wealth, have maintained their expenditures.",LABEL_2,0.959118664264679
-2,these positions reflected not just diligent supervision and the basel i capital reforms but also a marketplace that increasingly demands strength in financial institutions that serve as counterparties in frontier financial risk-management transactions.,LABEL_0,0.9705603122711182
-3,"improved risk management and technology have also facilitated, of course, the growth of markets for securitized assets and the emergence of entirely new financial instruments--such as credit default swaps and collateralized debt obligations.",LABEL_1,0.6781150102615356
-4,this market's flexibility has been particularly enhanced by extensive use of interest rate swaps and options to hedge maturity mismatches and prepayment risk.,LABEL_0,0.9739375114440918
-5,other risk transfers reflected later sales at discount prices as credits became riskier and banks rebalanced their portfolios.,LABEL_0,0.9878331422805786
-6,"after three or four years of economic expansion, loan growth, and rising profits, the asian crisis and the russian default sent a strong and timely message to u.s. banks to raise their credit standards and more actively manage their existing portfolios to limit risk exposures.",LABEL_0,0.9982652068138123
